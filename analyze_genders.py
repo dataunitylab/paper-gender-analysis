@@ -23,6 +23,10 @@ def infer_genders():
 
         data = json.load(open(json_file))['result']['hits']['hit']
         for paper in data:
+            # Skip papers which are for some reason missing author info
+            if 'authors' not in paper['info']:
+                continue
+
             author_info = paper['info']['authors']['author']
             for (index, author) in enumerate(author_info):
                 # Only consider first authors for now
