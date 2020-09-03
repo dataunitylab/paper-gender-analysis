@@ -13,6 +13,7 @@ For example, attempting to fetch the country of the author's affiliation could p
 We make use of the [genderComputer](https://github.com/tue-mdse/genderComputer) library for gender inference which is installed as a submodule.
 Therefore it is necessary to run `git submodule update --init` to fetch submodules in this repository.
 We also make use of [Pipenv](https://pipenv.pypa.io/) to manage dependencies, so this must be installed first as well.
+To install other dependencies, run `pipenv install`.
 
 
 ## Running
