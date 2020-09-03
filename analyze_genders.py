@@ -7,15 +7,20 @@ import sys
 import genderComputer
 
 
-def genders_for_pattern(pattern):
+def infer_genders():
     """
     Construct a dictionary of first author counts by gender from
     DBLP JSON files which match a particular glob pattern
     """
     gc = genderComputer.GenderComputer()
-    gender_counts = collections.defaultdict(lambda: 0)
+    gender_counts = {}
 
-    for json_file in glob.glob(pattern):
+    for json_file in glob.glob('data/*.json'):
+        conf = json_file.split('-')[0].split('/')[1]
+        if conf not in gender_counts:
+            gender_counts[conf] = collections.defaultdict(lambda: 0)
+            gender_counts[conf]['conf'] = conf
+
         data = json.load(open(json_file))['result']['hits']['hit']
         for paper in data:
             author_info = paper['info']['authors']['author']
@@ -41,9 +46,9 @@ def genders_for_pattern(pattern):
                 gender = gc.resolveGender(author_name, None)
                 if gender is None:
                     gender = 'unknown'
-                gender_counts[gender] += 1
+                gender_counts[conf][gender] += 1
 
-    return dict(gender_counts)
+    return gender_counts.values()
 
 
 def main():
@@ -52,12 +57,8 @@ def main():
     orig_stdout = sys.stdout
     sys.stdout = open('/dev/null', 'w')
 
-    # Get info for SIGMOD and VLDB
-    sigmod_genders = genders_for_pattern('data/SIGMOD*.json')
-    sigmod_genders['conf'] = 'SIGMOD'
-
-    vldb_genders = genders_for_pattern('data/VLDB*.json')
-    vldb_genders['conf'] = 'VLDB'
+    # Infer genders for data files in the data/ directory
+    genders = infer_genders()
 
     # Write a header row
     sys.stdout = orig_stdout
@@ -66,7 +67,7 @@ def main():
     csv_writer.writerow(columns)
 
     # Write values for each conference
-    for conf in [sigmod_genders, vldb_genders]:
+    for conf in genders:
         csv_writer.writerow([conf[key] for key in columns])
 
 
