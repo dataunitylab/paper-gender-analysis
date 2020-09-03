@@ -28,3 +28,9 @@ Next, analyze the downloaded files:
     pipenv run python analyze_genders.py
 
 This will print the inferred counts of first authors by gender.
+
+## Adding a new conference
+
+To add a new conference, simply edit [`fetch-papers.py`](fetch-papers.py) to retrieve new JSON data files.
+The files should be named `CONF-xx.json` where `CONF` is the name of the conference and `xx` is any unique value.
+The link to the JSON files can be obtained by looking at the table of contents for the proceedings in DBLP and selecting the JSON export link.
