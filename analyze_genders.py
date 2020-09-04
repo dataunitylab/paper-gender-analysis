@@ -28,6 +28,12 @@ def infer_genders():
                 continue
 
             author_info = paper['info']['authors']['author']
+
+            # Handle single author papers which do not
+            # wrap the single author in list
+            if not isinstance(author_info, list):
+                author_info = [author_info]
+
             for (index, author) in enumerate(author_info):
                 # Only consider first authors for now
                 if index > 0:
