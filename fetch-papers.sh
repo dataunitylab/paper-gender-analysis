@@ -22,8 +22,9 @@ function get_dblp_json() {
     sleep 1
 }
 
-get_dblp_json conf icde $year 2015 2020
-get_dblp_json conf kdd $year 2015 2020
-get_dblp_json conf sigir $year 2015 2020
-get_dblp_json conf sigmod $year 2015 2020
-get_dblp_json journals vldb $vol 25 29
+get_dblp_json conf edbt $year 2010 2020
+get_dblp_json conf icde $year 2010 2020
+get_dblp_json conf kdd $year 2010 2020
+get_dblp_json conf sigir $year 2010 2020
+get_dblp_json conf sigmod $year 2010 2020
+get_dblp_json journals vldb $vol 20 29
