@@ -73,11 +73,12 @@ def main():
     # Write a header row
     sys.stdout = orig_stdout
     csv_writer = csv.writer(sys.stdout)
-    columns = ['conf', 'female', 'male', 'unisex', 'unknown']
+    columns = ['conf', 'female', 'male', 'unisex', 'unknown', 'm/f']
     csv_writer.writerow(columns)
 
     # Write values for each conference
     for conf in genders:
+        conf['m/f'] = round(conf['male'] / conf['female'], 2)
         csv_writer.writerow([conf[key] for key in columns])
 
 
