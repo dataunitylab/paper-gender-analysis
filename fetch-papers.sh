@@ -27,4 +27,4 @@ get_dblp_json conf icde $year 2010 2020
 get_dblp_json conf kdd $year 2010 2020
 get_dblp_json conf sigir $year 2010 2020
 get_dblp_json conf sigmod $year 2010 2020
-get_dblp_json journals vldb $vol 20 29
+get_dblp_json journals pvldb $vol 3 13
