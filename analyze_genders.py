@@ -13,13 +13,15 @@ def infer_genders():
     DBLP JSON files which match a particular glob pattern
     """
     gc = genderComputer.GenderComputer()
-    gender_counts = {}
+    gender_counts = collections.defaultdict(lambda: {})
 
     for json_file in glob.glob('data/*.json'):
         conf = json_file.split('-')[0].split('/')[1]
-        if conf not in gender_counts:
-            gender_counts[conf] = collections.defaultdict(lambda: 0)
-            gender_counts[conf]['conf'] = conf
+        year = int(json_file.split('-')[1].split('.')[0])
+        if year not in gender_counts[conf]:
+            gender_counts[conf][year] = collections.defaultdict(lambda: 0)
+            gender_counts[conf][year]['conf'] = conf
+            gender_counts[conf][year]['year'] = year
 
         data = json.load(open(json_file))['result']['hits']['hit']
         for paper in data:
@@ -56,7 +58,7 @@ def infer_genders():
                 gender = gc.resolveGender(author_name, None)
                 if gender is None:
                     gender = 'unknown'
-                gender_counts[conf][gender] += 1
+                gender_counts[conf][year][gender] += 1
 
     return gender_counts.values()
 
@@ -73,13 +75,13 @@ def main():
     # Write a header row
     sys.stdout = orig_stdout
     csv_writer = csv.writer(sys.stdout)
-    columns = ['conf', 'female', 'male', 'unisex', 'unknown', 'm/f']
+    columns = ['conf', 'year', 'female', 'male', 'unisex', 'unknown', 'm/f']
     csv_writer.writerow(columns)
 
     # Write values for each conference
-    for conf in genders:
-        conf['m/f'] = round(conf['male'] / conf['female'], 2)
-        csv_writer.writerow([conf[key] for key in columns])
+    for years in genders:
+        for conf in years.values():
+            csv_writer.writerow([conf[key] for key in columns])
 
 
 if __name__ == '__main__':
