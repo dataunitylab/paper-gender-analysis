@@ -1,0 +1,476 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"edbt\"/\"edbt2010\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"135.07"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"74",
+"@dc":"74",
+"@oc":"74",
+"@id":"16888096",
+"text":":facetid:toc:db/conf/edbt/edbt2010.bht"
+}
+},
+"hits":{
+"@total":"74",
+"@computed":"74",
+"@sent":"74",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"3072429",
+"info":{"authors":{"author":[{"@pid":"a/FotoNAfrati","text":"Foto N. Afrati"},{"@pid":"u/JeffreyDUllman","text":"Jeffrey D. Ullman"}]},"title":"Optimizing joins in a map-reduce environment.","venue":"EDBT","pages":"99-110","year":"2010","type":"Conference and Workshop Papers","key":"conf/edbt/AfratiU10","doi":"10.1145/1739041.1739056","ee":"https://doi.org/10.1145/1739041.1739056","url":"https://dblp.org/rec/conf/edbt/AfratiU10"},
+"url":"URL#3072429"
+},
+{
+"@score":"1",
+"@id":"3072430",
+"info":{"authors":{"author":[{"@pid":"25/4737","text":"Manish Kumar Anand"},{"@pid":"58/576","text":"Shawn Bowers"},{"@pid":"l/BertramLudascher","text":"Bertram Ludäscher"}]},"title":"Techniques for efficiently querying scientific workflow provenance graphs.","venue":"EDBT","pages":"287-298","year":"2010","type":"Conference and Workshop Papers","key":"conf/edbt/AnandBL10","doi":"10.1145/1739041.1739078","ee":"https://doi.org/10.1145/1739041.1739078","url":"https://dblp.org/rec/conf/edbt/AnandBL10"},
+"url":"URL#3072430"
+},
+{
+"@score":"1",
+"@id":"3072431",
+"info":{"authors":{"author":[{"@pid":"a/IraAssent","text":"Ira Assent"},{"@pid":"51/6746","text":"Hardy Kremer"},{"@pid":"43/3011","text":"Stephan Günnemann"},{"@pid":"s/ThomasSeidl1","text":"Thomas Seidl 0001"}]},"title":"Pattern detector - fast detection of suspicious stream patterns for immediate reaction.","venue":"EDBT","pages":"709-712","year":"2010","type":"Conference and Workshop Papers","key":"conf/edbt/AssentKGS10","doi":"10.1145/1739041.1739133","ee":"https://doi.org/10.1145/1739041.1739133","url":"https://dblp.org/rec/conf/edbt/AssentKGS10"},
+"url":"URL#3072431"
+},
+{
+"@score":"1",
+"@id":"3072432",
+"info":{"authors":{"author":[{"@pid":"99/4833-2","text":"Xiao Bai 0002"},{"@pid":"97/4050","text":"Marin Bertier"},{"@pid":"g/RachidGuerraoui","text":"Rachid Guerraoui"},{"@pid":"86/676","text":"Anne-Marie Kermarrec"},{"@pid":"02/7933","text":"Vincent Leroy 0001"}]},"title":"Gossiping personalized queries.","venue":"EDBT","pages":"87-98","year":"2010","type":"Conference and Workshop Papers","key":"conf/edbt/BaiBGKL10","doi":"10.1145/1739041.1739055","ee":"https://doi.org/10.1145/1739041.1739055","url":"https://dblp.org/rec/conf/edbt/BaiBGKL10"},
+"url":"URL#3072432"
+},
+{
+"@score":"1",
+"@id":"3072433",
+"info":{"authors":{"author":[{"@pid":"79/7933","text":"Eran Balan"},{"@pid":"m/TovaMilo","text":"Tova Milo"},{"@pid":"63/7933","text":"Tal Sterenzy"}]},"title":"BP-Ex - a uniform query engine for business process execution traces.","venue":"EDBT","pages":"713-716","year":"2010","type":"Conference and Workshop Papers","key":"conf/edbt/BalanMS10","doi":"10.1145/1739041.1739134","ee":"https://doi.org/10.1145/1739041.1739134","url":"https://dblp.org/rec/conf/edbt/BalanMS10"},
+"url":"URL#3072433"
+},
+{
+"@score":"1",
+"@id":"3072434",
+"info":{"authors":{"author":[{"@pid":"29/3215","text":"Vidhya Balasubramanian"},{"@pid":"k/DVKalashnikov","text":"Dmitri V. Kalashnikov"},{"@pid":"m/SharadMehrotra","text":"Sharad Mehrotra"},{"@pid":"66/1875","text":"Nalini Venkatasubramanian"}]},"title":"Efficient and scalable multi-geography route planning.","venue":"EDBT","pages":"394-405","year":"2010","type":"Conference and Workshop Papers","key":"conf/edbt/BalasubramanianKMV10","doi":"10.1145/1739041.1739090","ee":"https://doi.org/10.1145/1739041.1739090","url":"https://dblp.org/rec/conf/edbt/BalasubramanianKMV10"},
+"url":"URL#3072434"
+},
+{
+"@score":"1",
+"@id":"3072435",
+"info":{"authors":{"author":[{"@pid":"62/69","text":"Davide Francesco Barbieri"},{"@pid":"12/5322","text":"Daniele Braga"},{"@pid":"c/StefanoCeri","text":"Stefano Ceri"},{"@pid":"73/6114","text":"Michael Grossniklaus"}]},"title":"An execution environment for C-SPARQL queries.","venue":"EDBT","pages":"441-452","year":"2010","type":"Conference and Workshop Papers","key":"conf/edbt/BarbieriBCG10","doi":"10.1145/1739041.1739095","ee":"https://doi.org/10.1145/1739041.1739095","url":"https://dblp.org/rec/conf/edbt/BarbieriBCG10"},
+"url":"URL#3072435"
+},
+{
+"@score":"1",
+"@id":"3072436",
+"info":{"authors":{"author":[{"@pid":"12/7934","text":"Tom Barnes"},{"@pid":"88/7933","text":"Adam Messinger"},{"@pid":"11/1290","text":"Paul Parkinson"},{"@pid":"09/6846","text":"Amit Ganesh"},{"@pid":"s/GermanShegalov","text":"German Shegalov"},{"@pid":"47/7933","text":"Saraswathy Narayan"},{"@pid":"86/7932","text":"Srinivas Kareenhalli"}]},"title":"Logging last resource optimization for distributed transactions in Oracle WebLogic server.","venue":"EDBT","pages":"651-656","year":"2010","type":"Conference and Workshop Papers","key":"conf/edbt/BarnesMPGSNK10","doi":"10.1145/1739041.1739119","ee":"https://doi.org/10.1145/1739041.1739119","url":"https://dblp.org/rec/conf/edbt/BarnesMPGSNK10"},
+"url":"URL#3072436"
+},
+{
+"@score":"1",
+"@id":"3072437",
+"info":{"authors":{"author":[{"@pid":"39/3585","text":"Khalid Belhajjame"},{"@pid":"p/NWPaton","text":"Norman W. Paton"},{"@pid":"e/SMEmbury","text":"Suzanne M. Embury"},{"@pid":"f/AAAFernandes","text":"Alvaro A. A. Fernandes"},{"@pid":"59/4045","text":"Cornelia Hedeler"}]},"title":"Feedback-based annotation, selection and refinement of schema mappings for dataspaces.","venue":"EDBT","pages":"573-584","year":"2010","type":"Conference and Workshop Papers","key":"conf/edbt/BelhajjamePEFH10","doi":"10.1145/1739041.1739110","ee":"https://doi.org/10.1145/1739041.1739110","url":"https://dblp.org/rec/conf/edbt/BelhajjamePEFH10"},
+"url":"URL#3072437"
+},
+{
+"@score":"1",
+"@id":"3072438",
+"info":{"authors":{"author":[{"@pid":"53/1484","text":"Jens Bleiholder"},{"@pid":"55/7933","text":"Sascha Szott"},{"@pid":"w/MelanieWeis","text":"Melanie Herschel"},{"@pid":"22/1097","text":"Frank Kaufer"},{"@pid":"n/FelixNaumann","text":"Felix Naumann"}]},"title":"Subsumption and complementation as data fusion operators.","venue":"EDBT","pages":"513-524","year":"2010","type":"Conference and Workshop Papers","key":"conf/edbt/BleiholderSHKN10","doi":"10.1145/1739041.1739103","ee":"https://doi.org/10.1145/1739041.1739103","url":"https://dblp.org/rec/conf/edbt/BleiholderSHKN10"},
+"url":"URL#3072438"
+},
+{
+"@score":"1",
+"@id":"3072439",
+"info":{"authors":{"author":[{"@pid":"28/6851","text":"Rajesh Bordawekar"},{"@pid":"55/2304","text":"Lipyeow Lim"},{"@pid":"41/5464","text":"Anastasios Kementsietsidis"},{"@pid":"59/7933","text":"Bryant Wei-Lun Kok"}]},"title":"Statistics-based parallelization of XPath queries in shared memory systems.","venue":"EDBT","pages":"159-170","year":"2010","type":"Conference and Workshop Papers","key":"conf/edbt/BordawekarLKK10","doi":"10.1145/1739041.1739063","ee":"https://doi.org/10.1145/1739041.1739063","url":"https://dblp.org/rec/conf/edbt/BordawekarLKK10"},
+"url":"URL#3072439"
+},
+{
+"@score":"1",
+"@id":"3072440",
+"info":{"authors":{"author":{"@pid":"b/NicolasBruno","text":"Nicolas Bruno"}},"title":"Minimizing database repros using language grammars.","venue":"EDBT","pages":"382-393","year":"2010","type":"Conference and Workshop Papers","key":"conf/edbt/Bruno10","doi":"10.1145/1739041.1739088","ee":"https://doi.org/10.1145/1739041.1739088","url":"https://dblp.org/rec/conf/edbt/Bruno10"},
+"url":"URL#3072440"
+},
+{
+"@score":"1",
+"@id":"3072441",
+"info":{"authors":{"author":[{"@pid":"c/AndreaCali","text":"Andrea Calì"},{"@pid":"14/6896","text":"Davide Martinenghi"}]},"title":"Querying the deep web.","venue":"EDBT","pages":"724-727","year":"2010","type":"Conference and Workshop Papers","key":"conf/edbt/CaliM10","doi":"10.1145/1739041.1739138","ee":"https://doi.org/10.1145/1739041.1739138","url":"https://dblp.org/rec/conf/edbt/CaliM10"},
+"url":"URL#3072441"
+},
+{
+"@score":"1",
+"@id":"3072442",
+"info":{"authors":{"author":[{"@pid":"c/KSelcukCandan","text":"K. Selçuk Candan"},{"@pid":"34/6061","text":"Mario Cataldi"},{"@pid":"s/MariaLuisaSapino","text":"Maria Luisa Sapino"}]},"title":"Reducing metadata complexity for faster table summarization.","venue":"EDBT","pages":"240-251","year":"2010","type":"Conference and Workshop Papers","key":"conf/edbt/CandanCS10","doi":"10.1145/1739041.1739072","ee":"https://doi.org/10.1145/1739041.1739072","url":"https://dblp.org/rec/conf/edbt/CandanCS10"},
+"url":"URL#3072442"
+},
+{
+"@score":"1",
+"@id":"3072443",
+"info":{"authors":{"author":[{"@pid":"04/492","text":"Huiping Cao"},{"@pid":"q/YanQi2","text":"Yan Qi 0002"},{"@pid":"c/KSelcukCandan","text":"K. Selçuk Candan"},{"@pid":"s/MariaLuisaSapino","text":"Maria Luisa Sapino"}]},"title":"Feedback-driven result ranking and query refinement for exploring semi-structured data collections.","venue":"EDBT","pages":"3-14","year":"2010","type":"Conference and Workshop Papers","key":"conf/edbt/CaoQCS10","doi":"10.1145/1739041.1739046","ee":"https://doi.org/10.1145/1739041.1739046","url":"https://dblp.org/rec/conf/edbt/CaoQCS10"},
+"url":"URL#3072443"
+},
+{
+"@score":"1",
+"@id":"3072444",
+"info":{"authors":{"author":[{"@pid":"47/179","text":"Lijun Chang"},{"@pid":"y/JXuYu","text":"Jeffrey Xu Yu"},{"@pid":"51/5585","text":"Lu Qin"},{"@pid":"l/LinXuemin","text":"Xuemin Lin 0001"}]},"title":"Probabilistic ranking over relations.","venue":"EDBT","pages":"477-488","year":"2010","type":"Conference and Workshop Papers","key":"conf/edbt/ChangYQL10","doi":"10.1145/1739041.1739099","ee":"https://doi.org/10.1145/1739041.1739099","url":"https://dblp.org/rec/conf/edbt/ChangYQL10"},
+"url":"URL#3072444"
+},
+{
+"@score":"1",
+"@id":"3072445",
+"info":{"authors":{"author":[{"@pid":"64/1075","text":"Leonardo Weiss Ferreira Chaves"},{"@pid":"11/226","text":"Erik Buchmann"},{"@pid":"b/KBohm","text":"Klemens Böhm"}]},"title":"Finding misplaced items in retail by clustering RFID data.","venue":"EDBT","pages":"501-512","year":"2010","type":"Conference and Workshop Papers","key":"conf/edbt/ChavesBB10","doi":"10.1145/1739041.1739102","ee":"https://doi.org/10.1145/1739041.1739102","url":"https://dblp.org/rec/conf/edbt/ChavesBB10"},
+"url":"URL#3072445"
+},
+{
+"@score":"1",
+"@id":"3072446",
+"info":{"authors":{"author":[{"@pid":"c/TaoCheng","text":"Tao Cheng 0001"},{"@pid":"c/KCCChang","text":"Kevin Chen-Chuan Chang"}]},"title":"Beyond pages - supporting efficient, scalable entity search with dual-inversion index.","venue":"EDBT","pages":"15-26","year":"2010","type":"Conference and Workshop Papers","key":"conf/edbt/ChengC10","doi":"10.1145/1739041.1739047","ee":"https://doi.org/10.1145/1739041.1739047","url":"https://dblp.org/rec/conf/edbt/ChengC10"},
+"url":"URL#3072446"
+},
+{
+"@score":"1",
+"@id":"3072447",
+"info":{"authors":{"author":[{"@pid":"48/2215","text":"Raja Chiky"},{"@pid":"65/6566","text":"Laurent Decreusefond"},{"@pid":"95/5092","text":"Georges Hébrail"}]},"title":"Aggregation of asynchronous electric power consumption time series knowing the integral.","venue":"EDBT","pages":"663-668","year":"2010","type":"Conference and Workshop Papers","key":"conf/edbt/ChikyDH10","doi":"10.1145/1739041.1739122","ee":"https://doi.org/10.1145/1739041.1739122","url":"https://dblp.org/rec/conf/edbt/ChikyDH10"},
+"url":"URL#3072447"
+},
+{
+"@score":"1",
+"@id":"3072448",
+"info":{"authors":{"author":[{"@pid":"68/4911","text":"Arjun Dasgupta"},{"@pid":"z/NanZhang4","text":"Nan Zhang 0004"},{"@pid":"07/1181","text":"Gautam Das 0001"}]},"title":"Turbo-charging hidden database samplers with overflowing queries and skew reduction.","venue":"EDBT","pages":"51-62","year":"2010","type":"Conference and Workshop Papers","key":"conf/edbt/DasguptaZD10","doi":"10.1145/1739041.1739051","ee":"https://doi.org/10.1145/1739041.1739051","url":"https://dblp.org/rec/conf/edbt/DasguptaZD10"},
+"url":"URL#3072448"
+},
+{
+"@score":"1",
+"@id":"3072449",
+"info":{"authors":{"author":[{"@pid":"54/382","text":"François Deliège"},{"@pid":"p/TorbenBachPedersen","text":"Torben Bach Pedersen"}]},"title":"Position list word aligned hybrid - optimizing space and performance for compressed bitmaps.","venue":"EDBT","pages":"228-239","year":"2010","type":"Conference and Workshop Papers","key":"conf/edbt/DeliegeP10","doi":"10.1145/1739041.1739071","ee":"https://doi.org/10.1145/1739041.1739071","url":"https://dblp.org/rec/conf/edbt/DeliegeP10"},
+"url":"URL#3072449"
+},
+{
+"@score":"1",
+"@id":"3072450",
+"info":{"authors":{"author":[{"@pid":"34/6089","text":"Kwanchai Eurviriyanukul"},{"@pid":"p/NWPaton","text":"Norman W. Paton"},{"@pid":"f/AAAFernandes","text":"Alvaro A. A. Fernandes"},{"@pid":"l/SJLynden","text":"Steven J. Lynden"}]},"title":"Adaptive join processing in pipelined plans.","venue":"EDBT","pages":"183-194","year":"2010","type":"Conference and Workshop Papers","key":"conf/edbt/EurviriyanukulPFL10","doi":"10.1145/1739041.1739066","ee":"https://doi.org/10.1145/1739041.1739066","url":"https://dblp.org/rec/conf/edbt/EurviriyanukulPFL10"},
+"url":"URL#3072450"
+},
+{
+"@score":"1",
+"@id":"3072451",
+"info":{"authors":{"author":[{"@pid":"90/3414","text":"Lujun Fang"},{"@pid":"95/5211","text":"Kristen LeFevre"}]},"title":"Splash - ad-hoc querying of data and statistical models.","venue":"EDBT","pages":"275-286","year":"2010","type":"Conference and Workshop Papers","key":"conf/edbt/FangL10","doi":"10.1145/1739041.1739076","ee":"https://doi.org/10.1145/1739041.1739076","url":"https://dblp.org/rec/conf/edbt/FangL10"},
+"url":"URL#3072451"
+},
+{
+"@score":"1",
+"@id":"3072452",
+"info":{"authors":{"author":[{"@pid":"f/PeterMFischer1","text":"Peter M. Fischer 0001"},{"@pid":"e/KyumarsSheykhEsmaili","text":"Kyumars Sheykh Esmaili"},{"@pid":"m/RJMiller","text":"Renée J. Miller"}]},"title":"Stream schema - providing and exploiting static metadata for data stream processing.","venue":"EDBT","pages":"207-218","year":"2010","type":"Conference and Workshop Papers","key":"conf/edbt/FischerEM10","doi":"10.1145/1739041.1739068","ee":"https://doi.org/10.1145/1739041.1739068","url":"https://dblp.org/rec/conf/edbt/FischerEM10"},
+"url":"URL#3072452"
+},
+{
+"@score":"1",
+"@id":"3072453",
+"info":{"authors":{"author":[{"@pid":"77/4166","text":"Haris Georgiadis"},{"@pid":"25/7118","text":"Minas Charalambides"},{"@pid":"v/VVassalos","text":"Vasilis Vassalos"}]},"title":"Efficient physical operators for cost-based XPath execution.","venue":"EDBT","pages":"171-182","year":"2010","type":"Conference and Workshop Papers","key":"conf/edbt/GeorgiadisCV10","doi":"10.1145/1739041.1739064","ee":"https://doi.org/10.1145/1739041.1739064","url":"https://dblp.org/rec/conf/edbt/GeorgiadisCV10"},
+"url":"URL#3072453"
+},
+{
+"@score":"1",
+"@id":"3072454",
+"info":{"authors":{"author":[{"@pid":"32/935","text":"Romulo Goncalves"},{"@pid":"k/MartinLKersten","text":"Martin L. Kersten"}]},"title":"The Data Cyclotron query processing scheme.","venue":"EDBT","pages":"75-86","year":"2010","type":"Conference and Workshop Papers","key":"conf/edbt/GoncalvesK10","doi":"10.1145/1739041.1739054","ee":"https://doi.org/10.1145/1739041.1739054","url":"https://dblp.org/rec/conf/edbt/GoncalvesK10"},
+"url":"URL#3072454"
+},
+{
+"@score":"1",
+"@id":"3072455",
+"info":{"authors":{"author":[{"@pid":"g/GoetzGraefe","text":"Goetz Graefe"},{"@pid":"02/451","text":"Harumi A. Kuno"}]},"title":"Self-selecting, self-tuning, incrementally optimized indexes.","venue":"EDBT","pages":"371-381","year":"2010","type":"Conference and Workshop Papers","key":"conf/edbt/GraefeK10","doi":"10.1145/1739041.1739087","ee":"https://doi.org/10.1145/1739041.1739087","url":"https://dblp.org/rec/conf/edbt/GraefeK10"},
+"url":"URL#3072455"
+},
+{
+"@score":"1",
+"@id":"3072456",
+"info":{"authors":{"author":[{"@pid":"21/300","text":"Yann Gripay"},{"@pid":"05/1259","text":"Frédérique Laforest"},{"@pid":"p/JMPetit","text":"Jean-Marc Petit"}]},"title":"A simple (yet powerful) algebra for pervasive environments.","venue":"EDBT","pages":"359-370","year":"2010","type":"Conference and Workshop Papers","key":"conf/edbt/GripayLP10","doi":"10.1145/1739041.1739086","ee":"https://doi.org/10.1145/1739041.1739086","url":"https://dblp.org/rec/conf/edbt/GripayLP10"},
+"url":"URL#3072456"
+},
+{
+"@score":"1",
+"@id":"3072457",
+"info":{"authors":{"author":[{"@pid":"g/TorstenGrust","text":"Torsten Grust"},{"@pid":"36/177","text":"Manuel Mayr"},{"@pid":"r/JanRittinger","text":"Jan Rittinger"}]},"title":"Let SQL drive the XQuery workhorse (XQuery join graph isolation).","venue":"EDBT","pages":"147-158","year":"2010","type":"Conference and Workshop Papers","key":"conf/edbt/GrustMR10","doi":"10.1145/1739041.1739062","ee":"https://doi.org/10.1145/1739041.1739062","url":"https://dblp.org/rec/conf/edbt/GrustMR10"},
+"url":"URL#3072457"
+},
+{
+"@score":"1",
+"@id":"3072458",
+"info":{"authors":{"author":[{"@pid":"78/4271","text":"Shenoda Guirguis"},{"@pid":"70/7933","text":"Alok Pareek"}]},"title":"BronzeGate - real-time transactional data obfuscation for GoldenGate.","venue":"EDBT","pages":"645-650","year":"2010","type":"Conference and Workshop Papers","key":"conf/edbt/GuirguisP10","doi":"10.1145/1739041.1739118","ee":"https://doi.org/10.1145/1739041.1739118","url":"https://dblp.org/rec/conf/edbt/GuirguisP10"},
+"url":"URL#3072458"
+},
+{
+"@score":"1",
+"@id":"3072459",
+"info":{"authors":{"author":[{"@pid":"h/RagibHasan","text":"Ragib Hasan"},{"@pid":"w/MarianneWinslett","text":"Marianne Winslett"}]},"title":"Trustworthy vacuuming and litigation holds in long-term high-integrity records retention.","venue":"EDBT","pages":"621-632","year":"2010","type":"Conference and Workshop Papers","key":"conf/edbt/HasanW10","doi":"10.1145/1739041.1739115","ee":"https://doi.org/10.1145/1739041.1739115","url":"https://dblp.org/rec/conf/edbt/HasanW10"},
+"url":"URL#3072459"
+},
+{
+"@score":"1",
+"@id":"3072460",
+"info":{"authors":{"author":[{"@pid":"37/4370","text":"Tanzima Hashem"},{"@pid":"57/1331","text":"Lars Kulik"},{"@pid":"03/505","text":"Rui Zhang 0003"}]},"title":"Privacy preserving group nearest neighbor queries.","venue":"EDBT","pages":"489-500","year":"2010","type":"Conference and Workshop Papers","key":"conf/edbt/HashemKZ10","doi":"10.1145/1739041.1739100","ee":"https://doi.org/10.1145/1739041.1739100","url":"https://dblp.org/rec/conf/edbt/HashemKZ10"},
+"url":"URL#3072460"
+},
+{
+"@score":"1",
+"@id":"3072461",
+"info":{"authors":{"author":{"@pid":"h/IanHorrocks","text":"Ian Horrocks"}},"title":"Scalable ontology-based information systems.","venue":"EDBT","pages":"2","year":"2010","type":"Conference and Workshop Papers","key":"conf/edbt/Horrocks10","doi":"10.1145/1739041.1739044","ee":"https://doi.org/10.1145/1739041.1739044","url":"https://dblp.org/rec/conf/edbt/Horrocks10"},
+"url":"URL#3072461"
+},
+{
+"@score":"1",
+"@id":"3072462",
+"info":{"authors":{"author":[{"@pid":"92/4882","text":"Ying Hu"},{"@pid":"97/2073","text":"Wen-Chi Hou"},{"@pid":"64/3961","text":"Seema Sundara"},{"@pid":"67/5256","text":"Jagannathan Srinivasan"}]},"title":"An experimental study of time-constrained aggregate queries.","venue":"EDBT","pages":"669-674","year":"2010","type":"Conference and Workshop Papers","key":"conf/edbt/HuHSS10","doi":"10.1145/1739041.1739123","ee":"https://doi.org/10.1145/1739041.1739123","url":"https://dblp.org/rec/conf/edbt/HuHSS10"},
+"url":"URL#3072462"
+},
+{
+"@score":"1",
+"@id":"3072463",
+"info":{"authors":{"author":[{"@pid":"h/MingHua","text":"Ming Hua 0001"},{"@pid":"p/JianPei","text":"Jian Pei"}]},"title":"Probabilistic path queries in road networks - traffic uncertainty aware path selection.","venue":"EDBT","pages":"347-358","year":"2010","type":"Conference and Workshop Papers","key":"conf/edbt/HuaP10","doi":"10.1145/1739041.1739084","ee":"https://doi.org/10.1145/1739041.1739084","url":"https://dblp.org/rec/conf/edbt/HuaP10"},
+"url":"URL#3072463"
+},
+{
+"@score":"1",
+"@id":"3072464",
+"info":{"authors":{"author":[{"@pid":"49/6716","text":"Tien Huynh"},{"@pid":"04/2562","text":"Michail Vlachos"},{"@pid":"14/6123","text":"Isidore Rigoutsos"}]},"title":"Anchoring millions of distinct reads on the human genome within seconds.","venue":"EDBT","pages":"252-262","year":"2010","type":"Conference and Workshop Papers","key":"conf/edbt/HuynhVR10","doi":"10.1145/1739041.1739074","ee":"https://doi.org/10.1145/1739041.1739074","url":"https://dblp.org/rec/conf/edbt/HuynhVR10"},
+"url":"URL#3072464"
+},
+{
+"@score":"1",
+"@id":"3072465",
+"info":{"authors":{"author":[{"@pid":"00/3310","text":"Ali Inan"},{"@pid":"36/195","text":"Murat Kantarcioglu"},{"@pid":"80/6521","text":"Gabriel Ghinita"},{"@pid":"b/ElisaBertino","text":"Elisa Bertino"}]},"title":"Private record matching using differential privacy.","venue":"EDBT","pages":"123-134","year":"2010","type":"Conference and Workshop Papers","key":"conf/edbt/InanKGB10","doi":"10.1145/1739041.1739059","ee":"https://doi.org/10.1145/1739041.1739059","url":"https://dblp.org/rec/conf/edbt/InanKGB10"},
+"url":"URL#3072465"
+},
+{
+"@score":"1",
+"@id":"3072466",
+"info":{"authors":{"author":[{"@pid":"68/5700","text":"Bernhard Jaecksch"},{"@pid":"l/WLehner","text":"Wolfgang Lehner"},{"@pid":"36/7116","text":"Franz Faerber"}]},"title":"A plan for OLAP.","venue":"EDBT","pages":"681-686","year":"2010","type":"Conference and Workshop Papers","key":"conf/edbt/JaeckschLF10","doi":"10.1145/1739041.1739126","ee":"https://doi.org/10.1145/1739041.1739126","url":"https://dblp.org/rec/conf/edbt/JaeckschLF10"},
+"url":"URL#3072466"
+},
+{
+"@score":"1",
+"@id":"3072467",
+"info":{"authors":{"author":[{"@pid":"69/5014","text":"Abhay Kumar Jha"},{"@pid":"o/DanOlteanu","text":"Dan Olteanu"},{"@pid":"s/DanSuciu","text":"Dan Suciu"}]},"title":"Bridging the gap between intensional and extensional query evaluation in probabilistic databases.","venue":"EDBT","pages":"323-334","year":"2010","type":"Conference and Workshop Papers","key":"conf/edbt/JhaOS10","doi":"10.1145/1739041.1739082","ee":"https://doi.org/10.1145/1739041.1739082","url":"https://dblp.org/rec/conf/edbt/JhaOS10"},
+"url":"URL#3072467"
+},
+{
+"@score":"1",
+"@id":"3072468",
+"info":{"authors":{"author":[{"@pid":"68/3340","text":"Xin Jin"},{"@pid":"z/NanZhang4","text":"Nan Zhang 0004"},{"@pid":"07/1181","text":"Gautam Das 0001"}]},"title":"Algorithm-safe privacy-preserving data publishing.","venue":"EDBT","pages":"633-644","year":"2010","type":"Conference and Workshop Papers","key":"conf/edbt/JinZD10","doi":"10.1145/1739041.1739116","ee":"https://doi.org/10.1145/1739041.1739116","url":"https://dblp.org/rec/conf/edbt/JinZD10"},
+"url":"URL#3072468"
+},
+{
+"@score":"1",
+"@id":"3072469",
+"info":{"authors":{"author":[{"@pid":"16/2443","text":"Hung-sik Kim"},{"@pid":"l/DongwonLee","text":"Dongwon Lee 0001"}]},"title":"HARRA - fast iterative hashed record linkage for large-scale data collections.","venue":"EDBT","pages":"525-536","year":"2010","type":"Conference and Workshop Papers","key":"conf/edbt/KimL10","doi":"10.1145/1739041.1739104","ee":"https://doi.org/10.1145/1739041.1739104","url":"https://dblp.org/rec/conf/edbt/KimL10"},
+"url":"URL#3072469"
+},
+{
+"@score":"1",
+"@id":"3072470",
+"info":{"authors":{"author":[{"@pid":"78/3963","text":"Vibhore Kumar"},{"@pid":"a/HAndrade","text":"Henrique Andrade"},{"@pid":"87/3826","text":"Bugra Gedik"},{"@pid":"85/3566","text":"Kun-Lung Wu"}]},"title":"DEDUCE - at the intersection of MapReduce and stream processing.","venue":"EDBT","pages":"657-662","year":"2010","type":"Conference and Workshop Papers","key":"conf/edbt/KumarAGW10","doi":"10.1145/1739041.1739120","ee":"https://doi.org/10.1145/1739041.1739120","url":"https://dblp.org/rec/conf/edbt/KumarAGW10"},
+"url":"URL#3072470"
+},
+{
+"@score":"1",
+"@id":"3072471",
+"info":{"authors":{"author":[{"@pid":"65/4168","text":"Ashish Kundu"},{"@pid":"b/ElisaBertino","text":"Elisa Bertino"}]},"title":"How to authenticate graphs without leaking.","venue":"EDBT","pages":"609-620","year":"2010","type":"Conference and Workshop Papers","key":"conf/edbt/KunduB10","doi":"10.1145/1739041.1739114","ee":"https://doi.org/10.1145/1739041.1739114","url":"https://dblp.org/rec/conf/edbt/KunduB10"},
+"url":"URL#3072471"
+},
+{
+"@score":"1",
+"@id":"3072472",
+"info":{"authors":{"author":[{"@pid":"04/3445","text":"Jongwuk Lee"},{"@pid":"h/SeungwonHwang","text":"Seung-won Hwang"}]},"title":"BSkyTree - scalable skyline computation using a balanced pivot selection.","venue":"EDBT","pages":"195-206","year":"2010","type":"Conference and Workshop Papers","key":"conf/edbt/LeeH10","doi":"10.1145/1739041.1739067","ee":"https://doi.org/10.1145/1739041.1739067","url":"https://dblp.org/rec/conf/edbt/LeeH10"},
+"url":"URL#3072472"
+},
+{
+"@score":"1",
+"@id":"3072473",
+"info":{"authors":{"author":[{"@pid":"67/7933","text":"Benjamin Leonhardi"},{"@pid":"m/BMitschang","text":"Bernhard Mitschang"},{"@pid":"99/9320","text":"Rubén Pulido de los Reyes"},{"@pid":"14/7315","text":"Christoph Sieb"},{"@pid":"84/3088","text":"Michael Wurst"}]},"title":"Augmenting OLAP exploration with dynamic advanced analytics.","venue":"EDBT","pages":"687-692","year":"2010","type":"Conference and Workshop Papers","key":"conf/edbt/LeonhardiMPSW10","doi":"10.1145/1739041.1739127","ee":"https://doi.org/10.1145/1739041.1739127","url":"https://dblp.org/rec/conf/edbt/LeonhardiMPSW10"},
+"url":"URL#3072473"
+},
+{
+"@score":"1",
+"@id":"3072474",
+"info":{"authors":{"author":[{"@pid":"03/6827","text":"Cuiping Li"},{"@pid":"h/JiaweiHan","text":"Jiawei Han 0001"},{"@pid":"01/7129","text":"Guoming He"},{"@pid":"68/3340-1","text":"Xin Jin 0001"},{"@pid":"37/3868","text":"Yizhou Sun"},{"@pid":"02/7123","text":"Yintao Yu"},{"@pid":"81/1346","text":"Tianyi Wu"}]},"title":"Fast computation of SimRank for static and dynamic information networks.","venue":"EDBT","pages":"465-476","year":"2010","type":"Conference and Workshop Papers","key":"conf/edbt/LiHHJSYW10","doi":"10.1145/1739041.1739098","ee":"https://doi.org/10.1145/1739041.1739098","url":"https://dblp.org/rec/conf/edbt/LiHHJSYW10"},
+"url":"URL#3072474"
+},
+{
+"@score":"1",
+"@id":"3072475",
+"info":{"authors":{"author":[{"@pid":"l/JianxinLi","text":"Jianxin Li 0001"},{"@pid":"l/ChengfeiLiu","text":"Chengfei Liu"},{"@pid":"97/4357","text":"Rui Zhou 0001"},{"@pid":"w/WeiWang11","text":"Wei Wang 0011"}]},"title":"Suggestion of promising result types for XML keyword search.","venue":"EDBT","pages":"561-572","year":"2010","type":"Conference and Workshop Papers","key":"conf/edbt/LiLZW10","doi":"10.1145/1739041.1739108","ee":"https://doi.org/10.1145/1739041.1739108","url":"https://dblp.org/rec/conf/edbt/LiLZW10"},
+"url":"URL#3072475"
+},
+{
+"@score":"1",
+"@id":"3072476",
+"info":{"authors":{"author":[{"@pid":"60/5978","text":"Wen-Syan Li"},{"@pid":"10/3555","text":"Jianfeng Yan"},{"@pid":"77/4933","text":"Ying Yan"},{"@pid":"43/6657","text":"Jin Zhang"}]},"title":"Xbase - cloud-enabled information appliance for healthcare.","venue":"EDBT","pages":"675-680","year":"2010","type":"Conference and Workshop Papers","key":"conf/edbt/LiYYZ10","doi":"10.1145/1739041.1739125","ee":"https://doi.org/10.1145/1739041.1739125","url":"https://dblp.org/rec/conf/edbt/LiYYZ10"},
+"url":"URL#3072476"
+},
+{
+"@score":"1",
+"@id":"3072477",
+"info":{"authors":{"author":[{"@pid":"52/980","text":"Christoph Lofi"},{"@pid":"39/985","text":"Ulrich Güntzer"},{"@pid":"b/WTBalke","text":"Wolf-Tilo Balke"}]},"title":"Efficient computation of trade-off skylines.","venue":"EDBT","pages":"597-608","year":"2010","type":"Conference and Workshop Papers","key":"conf/edbt/LofiGB10","doi":"10.1145/1739041.1739112","ee":"https://doi.org/10.1145/1739041.1739112","url":"https://dblp.org/rec/conf/edbt/LofiGB10"},
+"url":"URL#3072477"
+},
+{
+"@score":"1",
+"@id":"3072478",
+"info":{"authors":{"author":[{"@pid":"78/7932","text":"Cristina Maier"},{"@pid":"08/4418","text":"Debabrata Dash"},{"@pid":"00/7933","text":"Ioannis Alagiannis"},{"@pid":"a/AnastassiaAilamaki","text":"Anastasia Ailamaki"},{"@pid":"h/ThomasHeinis","text":"Thomas Heinis"}]},"title":"PARINDA - an interactive physical designer for PostgreSQL.","venue":"EDBT","pages":"701-704","year":"2010","type":"Conference and Workshop Papers","key":"conf/edbt/MaierDAAH10","doi":"10.1145/1739041.1739131","ee":"https://doi.org/10.1145/1739041.1739131","url":"https://dblp.org/rec/conf/edbt/MaierDAAH10"},
+"url":"URL#3072478"
+},
+{
+"@score":"1",
+"@id":"3072479",
+"info":{"authors":{"author":[{"@pid":"38/1094","text":"Sérgio Luis Sardi Mergen"},{"@pid":"f/JulianaFreire","text":"Juliana Freire"},{"@pid":"h/CarlosAHeuser","text":"Carlos A. Heuser"}]},"title":"Indexing relations on the web.","venue":"EDBT","pages":"430-440","year":"2010","type":"Conference and Workshop Papers","key":"conf/edbt/MergenFH10","doi":"10.1145/1739041.1739094","ee":"https://doi.org/10.1145/1739041.1739094","url":"https://dblp.org/rec/conf/edbt/MergenFH10"},
+"url":"URL#3072479"
+},
+{
+"@score":"1",
+"@id":"3072480",
+"info":{"authors":{"author":[{"@pid":"28/1062","text":"Paolo Missier"},{"@pid":"p/NWPaton","text":"Norman W. Paton"},{"@pid":"39/3585","text":"Khalid Belhajjame"}]},"title":"Fine-grained and efficient lineage querying of collection-based workflow provenance.","venue":"EDBT","pages":"299-310","year":"2010","type":"Conference and Workshop Papers","key":"conf/edbt/MissierPB10","doi":"10.1145/1739041.1739079","ee":"https://doi.org/10.1145/1739041.1739079","url":"https://dblp.org/rec/conf/edbt/MissierPB10"},
+"url":"URL#3072480"
+},
+{
+"@score":"1",
+"@id":"3072481",
+"info":{"authors":{"author":[{"@pid":"m/ReneMuller","text":"René Müller"},{"@pid":"t/JensTeubner","text":"Jens Teubner"}]},"title":"FPGAs - a new point in the database design space.","venue":"EDBT","pages":"721-723","year":"2010","type":"Conference and Workshop Papers","key":"conf/edbt/MullerT10","doi":"10.1145/1739041.1739137","ee":"https://doi.org/10.1145/1739041.1739137","url":"https://dblp.org/rec/conf/edbt/MullerT10"},
+"url":"URL#3072481"
+},
+{
+"@score":"1",
+"@id":"3072482",
+"info":{"authors":{"author":[{"@pid":"60/6693","text":"Mirco Nanni"},{"@pid":"t/RobertoTrasarti","text":"Roberto Trasarti"},{"@pid":"84/4085","text":"Chiara Renso"},{"@pid":"g/FoscaGiannotti","text":"Fosca Giannotti"},{"@pid":"p/DPedreschi","text":"Dino Pedreschi"}]},"title":"Advanced knowledge discovery on movement data with the GeoPKDD system.","venue":"EDBT","pages":"693-696","year":"2010","type":"Conference and Workshop Papers","key":"conf/edbt/NanniTRGP10","doi":"10.1145/1739041.1739129","ee":"https://doi.org/10.1145/1739041.1739129","url":"https://dblp.org/rec/conf/edbt/NanniTRGP10"},
+"url":"URL#3072482"
+},
+{
+"@score":"1",
+"@id":"3072483",
+"info":{"authors":{"author":{"@pid":"19/3497","text":"Makoto Onizuka"}},"title":"Processing XPath queries with forward and downward axes over XML streams.","venue":"EDBT","pages":"27-38","year":"2010","type":"Conference and Workshop Papers","key":"conf/edbt/Onizuka10","doi":"10.1145/1739041.1739048","ee":"https://doi.org/10.1145/1739041.1739048","url":"https://dblp.org/rec/conf/edbt/Onizuka10"},
+"url":"URL#3072483"
+},
+{
+"@score":"1",
+"@id":"3072484",
+"info":{"authors":{"author":[{"@pid":"91/7933","text":"Eric Peukert"},{"@pid":"99/5231","text":"Henrike Berthold"},{"@pid":"r/ERahm","text":"Erhard Rahm"}]},"title":"Rewrite techniques for performance optimization of schema matching processes.","venue":"EDBT","pages":"453-464","year":"2010","type":"Conference and Workshop Papers","key":"conf/edbt/PeukertBR10","doi":"10.1145/1739041.1739096","ee":"https://doi.org/10.1145/1739041.1739096","url":"https://dblp.org/rec/conf/edbt/PeukertBR10"},
+"url":"URL#3072484"
+},
+{
+"@score":"1",
+"@id":"3072485",
+"info":{"authors":{"author":[{"@pid":"29/4060","text":"Sylvia Radeschütz"},{"@pid":"16/2844","text":"Florian Niedermann"},{"@pid":"08/7934","text":"Wolfgang Bischoff"}]},"title":"BIAEditor - matching process and operational data for a business impact analysis.","venue":"EDBT","pages":"705-708","year":"2010","type":"Conference and Workshop Papers","key":"conf/edbt/RadeschutzNB10","doi":"10.1145/1739041.1739132","ee":"https://doi.org/10.1145/1739041.1739132","url":"https://dblp.org/rec/conf/edbt/RadeschutzNB10"},
+"url":"URL#3072485"
+},
+{
+"@score":"1",
+"@id":"3072486",
+"info":{"authors":{"author":[{"@pid":"117/5940","text":"H. S. Ramanujam"},{"@pid":"12/7115","text":"Edwin Seputis"}]},"title":"Warm cache costing - a feedback optimization technique for buffer pool aware costing.","venue":"EDBT","pages":"219-227","year":"2010","type":"Conference and Workshop Papers","key":"conf/edbt/RamanujamS10","doi":"10.1145/1739041.1739070","ee":"https://doi.org/10.1145/1739041.1739070","url":"https://dblp.org/rec/conf/edbt/RamanujamS10"},
+"url":"URL#3072486"
+},
+{
+"@score":"1",
+"@id":"3072487",
+"info":{"authors":{"author":[{"@pid":"88/6317","text":"Vishwakarma Singh"},{"@pid":"48/2626-1","text":"Arnab Bhattacharya 0001"},{"@pid":"s/AmbujKSingh","text":"Ambuj K. Singh"}]},"title":"Querying spatial patterns.","venue":"EDBT","pages":"418-429","year":"2010","type":"Conference and Workshop Papers","key":"conf/edbt/SinghBS10","doi":"10.1145/1739041.1739092","ee":"https://doi.org/10.1145/1739041.1739092","url":"https://dblp.org/rec/conf/edbt/SinghBS10"},
+"url":"URL#3072487"
+},
+{
+"@score":"1",
+"@id":"3072488",
+"info":{"authors":{"author":[{"@pid":"76/3486","text":"Kostas Stefanidis"},{"@pid":"06/2413","text":"Marina Drosou"},{"@pid":"p/EPitoura","text":"Evaggelia Pitoura"}]},"title":"PerK - personalized keyword search in relational databases through preferences.","venue":"EDBT","pages":"585-596","year":"2010","type":"Conference and Workshop Papers","key":"conf/edbt/StefanidisDP10","doi":"10.1145/1739041.1739111","ee":"https://doi.org/10.1145/1739041.1739111","url":"https://dblp.org/rec/conf/edbt/StefanidisDP10"},
+"url":"URL#3072488"
+},
+{
+"@score":"1",
+"@id":"3072489",
+"info":{"authors":{"author":{"@pid":"t/ValTannen","text":"Val Tannen"}},"title":"Provenance for database transformations.","venue":"EDBT","pages":"1","year":"2010","type":"Conference and Workshop Papers","key":"conf/edbt/Tannen10","doi":"10.1145/1739041.1739043","ee":"https://doi.org/10.1145/1739041.1739043","url":"https://dblp.org/rec/conf/edbt/Tannen10"},
+"url":"URL#3072489"
+},
+{
+"@score":"1",
+"@id":"3072490",
+"info":{"authors":{"author":[{"@pid":"t/ArashTermehchy","text":"Arash Termehchy"},{"@pid":"w/MarianneWinslett","text":"Marianne Winslett"}]},"title":"Keyword search for data-centric XML collections with long text fields.","venue":"EDBT","pages":"537-548","year":"2010","type":"Conference and Workshop Papers","key":"conf/edbt/TermehchyW10","doi":"10.1145/1739041.1739106","ee":"https://doi.org/10.1145/1739041.1739106","url":"https://dblp.org/rec/conf/edbt/TermehchyW10"},
+"url":"URL#3072490"
+},
+{
+"@score":"1",
+"@id":"3072491",
+"info":{"authors":{"author":[{"@pid":"77/228","text":"Dimitris Tsirogiannis"},{"@pid":"k/NickKoudas","text":"Nick Koudas"}]},"title":"Suffix tree construction algorithms on modern hardware.","venue":"EDBT","pages":"263-274","year":"2010","type":"Conference and Workshop Papers","key":"conf/edbt/TsirogiannisK10","doi":"10.1145/1739041.1739075","ee":"https://doi.org/10.1145/1739041.1739075","url":"https://dblp.org/rec/conf/edbt/TsirogiannisK10"},
+"url":"URL#3072491"
+},
+{
+"@score":"1",
+"@id":"3072492",
+"info":{"authors":{"author":[{"@pid":"t/CanTurker","text":"Can Türker"},{"@pid":"08/5579","text":"Fuat Akal"},{"@pid":"85/2135","text":"Dieter Studer-Joho"},{"@pid":"65/4564","text":"Christian Panse"},{"@pid":"65/4995","text":"Simon Barkow-Oesterreicher"},{"@pid":"44/3550","text":"Hubert Rehrauer"},{"@pid":"37/4276","text":"Ralph Schlapbach"}]},"title":"B-Fabric - the Swiss Army Knife for life sciences.","venue":"EDBT","pages":"717-720","year":"2010","type":"Conference and Workshop Papers","key":"conf/edbt/TurkerAJPBRS10","doi":"10.1145/1739041.1739135","ee":"https://doi.org/10.1145/1739041.1739135","url":"https://dblp.org/rec/conf/edbt/TurkerAJPBRS10"},
+"url":"URL#3072492"
+},
+{
+"@score":"1",
+"@id":"3072493",
+"info":{"authors":{"author":[{"@pid":"98/5702","text":"Marcos R. Vieira"},{"@pid":"02/1163","text":"Petko Bakalov"},{"@pid":"t/VassilisJTsotras","text":"Vassilis J. Tsotras"}]},"title":"Querying trajectories using flexible patterns.","venue":"EDBT","pages":"406-417","year":"2010","type":"Conference and Workshop Papers","key":"conf/edbt/VieiraBT10","doi":"10.1145/1739041.1739091","ee":"https://doi.org/10.1145/1739041.1739091","url":"https://dblp.org/rec/conf/edbt/VieiraBT10"},
+"url":"URL#3072493"
+},
+{
+"@score":"1",
+"@id":"3072494",
+"info":{"authors":{"author":[{"@pid":"68/6229","text":"Yafang Wang"},{"@pid":"77/1687","text":"Mingjie Zhu"},{"@pid":"58/3601","text":"Lizhen Qu"},{"@pid":"s/MarcSpaniol","text":"Marc Spaniol"},{"@pid":"w/GerhardWeikum","text":"Gerhard Weikum"}]},"title":"Timely YAGO - harvesting, querying, and visualizing temporal knowledge from Wikipedia.","venue":"EDBT","pages":"697-700","year":"2010","type":"Conference and Workshop Papers","key":"conf/edbt/WangZQSW10","doi":"10.1145/1739041.1739130","ee":"https://doi.org/10.1145/1739041.1739130","url":"https://dblp.org/rec/conf/edbt/WangZQSW10"},
+"url":"URL#3072494"
+},
+{
+"@score":"1",
+"@id":"3072495",
+"info":{"authors":{"author":[{"@pid":"81/1346","text":"Tianyi Wu"},{"@pid":"37/3868","text":"Yizhou Sun"},{"@pid":"03/6827","text":"Cuiping Li"},{"@pid":"h/JiaweiHan","text":"Jiawei Han 0001"}]},"title":"Region-based online promotion analysis.","venue":"EDBT","pages":"63-74","year":"2010","type":"Conference and Workshop Papers","key":"conf/edbt/WuSLH10","doi":"10.1145/1739041.1739052","ee":"https://doi.org/10.1145/1739041.1739052","url":"https://dblp.org/rec/conf/edbt/WuSLH10"},
+"url":"URL#3072495"
+},
+{
+"@score":"1",
+"@id":"3072496",
+"info":{"authors":{"author":[{"@pid":"29/85","text":"Wentao Wu 0001"},{"@pid":"96/999","text":"Yanghua Xiao"},{"@pid":"w/WeiWang9","text":"Wei Wang 0009"},{"@pid":"23/6341","text":"Zhenying He"},{"@pid":"65/2749","text":"Zhihui Wang"}]},"title":"k-symmetry model for identity anonymization in social networks.","venue":"EDBT","pages":"111-122","year":"2010","type":"Conference and Workshop Papers","key":"conf/edbt/WuXWHW10","doi":"10.1145/1739041.1739058","ee":"https://doi.org/10.1145/1739041.1739058","url":"https://dblp.org/rec/conf/edbt/WuXWHW10"},
+"url":"URL#3072496"
+},
+{
+"@score":"1",
+"@id":"3072497",
+"info":{"authors":{"author":[{"@pid":"33/1903","text":"Xiaokui Xiao"},{"@pid":"43/1219-1","text":"Ke Yi 0001"},{"@pid":"t/YufeiTao","text":"Yufei Tao"}]},"title":"The hardness and approximation algorithms for l-diversity.","venue":"EDBT","pages":"135-146","year":"2010","type":"Conference and Workshop Papers","key":"conf/edbt/XiaoYT10","doi":"10.1145/1739041.1739060","ee":"https://doi.org/10.1145/1739041.1739060","url":"https://dblp.org/rec/conf/edbt/XiaoYT10"},
+"url":"URL#3072497"
+},
+{
+"@score":"1",
+"@id":"3072498",
+"info":{"authors":{"author":[{"@pid":"77/4933","text":"Ying Yan"},{"@pid":"60/5978","text":"Wen-Syan Li"}]},"title":"Correlation aware synchronization for near real time decision support systems.","venue":"EDBT","pages":"39-50","year":"2010","type":"Conference and Workshop Papers","key":"conf/edbt/YanL10","doi":"10.1145/1739041.1739050","ee":"https://doi.org/10.1145/1739041.1739050","url":"https://dblp.org/rec/conf/edbt/YanL10"},
+"url":"URL#3072498"
+},
+{
+"@score":"1",
+"@id":"3072499",
+"info":{"authors":{"author":[{"@pid":"77/377-2","text":"Bin Yang 0002"},{"@pid":"l/HuaLu","text":"Hua Lu 0001"},{"@pid":"j/ChristianSJensen","text":"Christian S. Jensen"}]},"title":"Probabilistic threshold k nearest neighbor queries over moving objects in symbolic indoor space.","venue":"EDBT","pages":"335-346","year":"2010","type":"Conference and Workshop Papers","key":"conf/edbt/YangLJ10","doi":"10.1145/1739041.1739083","ee":"https://doi.org/10.1145/1739041.1739083","url":"https://dblp.org/rec/conf/edbt/YangLJ10"},
+"url":"URL#3072499"
+},
+{
+"@score":"1",
+"@id":"3072500",
+"info":{"authors":{"author":[{"@pid":"05/3499","text":"Jing Zhang"},{"@pid":"j/HVJagadish","text":"H. V. Jagadish"}]},"title":"Lost source provenance.","venue":"EDBT","pages":"311-322","year":"2010","type":"Conference and Workshop Papers","key":"conf/edbt/ZhangJ10","doi":"10.1145/1739041.1739080","ee":"https://doi.org/10.1145/1739041.1739080","url":"https://dblp.org/rec/conf/edbt/ZhangJ10"},
+"url":"URL#3072500"
+},
+{
+"@score":"1",
+"@id":"3072501",
+"info":{"authors":{"author":[{"@pid":"97/4357","text":"Rui Zhou 0001"},{"@pid":"l/ChengfeiLiu","text":"Chengfei Liu"},{"@pid":"l/JianxinLi","text":"Jianxin Li 0001"}]},"title":"Fast ELCA computation for keyword queries on XML data.","venue":"EDBT","pages":"549-560","year":"2010","type":"Conference and Workshop Papers","key":"conf/edbt/ZhouLL10","doi":"10.1145/1739041.1739107","ee":"https://doi.org/10.1145/1739041.1739107","url":"https://dblp.org/rec/conf/edbt/ZhouLL10"},
+"url":"URL#3072501"
+},
+{
+"@score":"1",
+"@id":"3168653",
+"info":{"authors":{"author":[{"@pid":"m/IoanaManolescu","text":"Ioana Manolescu"},{"@pid":"s/StefanoSpaccapietra","text":"Stefano Spaccapietra"},{"@pid":"t/JensTeubner","text":"Jens Teubner"},{"@pid":"k/MasaruKitsuregawa","text":"Masaru Kitsuregawa"},{"@pid":"29/4280","text":"Alain Léger"},{"@pid":"n/FelixNaumann","text":"Felix Naumann"},{"@pid":"a/AnastassiaAilamaki","text":"Anastasia Ailamaki"},{"@pid":"o/FatmaOzcan","text":"Fatma Özcan"}]},"title":"EDBT 2010, 13th International Conference on Extending Database Technology, Lausanne, Switzerland, March 22-26, 2010, Proceedings","venue":["EDBT","ACM International Conference Proceeding Series"],"volume":"426","publisher":"ACM","year":"2010","type":"Editorship","key":"conf/edbt/2010","url":"https://dblp.org/rec/conf/edbt/2010"},
+"url":"URL#3168653"
+}
+]
+}
+}
+}

@@ -18,19 +18,16 @@ To install other dependencies, run `pipenv install`.
 
 ## Running
 
-First, fetch all the paper data:
-
-    ./fetch-papers.sh
-
-This will create a `data/` directory populated with JSON files fetched from DBLP.
-Next, analyze the downloaded files:
+The downloaded files can be analyzed by running the following command:
 
     pipenv run python analyze_genders.py
 
-This will print the inferred counts of first authors by gender.
+This will print a CSV file with inferred counts of first authors by gender.
+You can also use [this notebook](cs-paper-gender-analysis.ipynb) for further analysis.
 
 ## Adding a new conference
 
 To add a new conference, simply edit [`fetch-papers.py`](fetch-papers.py) to retrieve new JSON data files.
-The files should be named `CONF-xx.json` where `CONF` is the name of the conference and `xx` is any unique value.
+The files should be named `CONF-xx.json` where `CONF` is the name of the conference and `xx` is the year.
 The link to the JSON files can be obtained by looking at the table of contents for the proceedings in DBLP and selecting the JSON export link.
+Since data coming from DBLP is CC0 and can be freely shared, any new data files should be committed to this repository.
