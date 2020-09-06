@@ -1,0 +1,12 @@
+language: python
+python:
+- 3.7
+install:
+- pip install pipenv
+- pipenv install --dev
+
+script:
+# Reexecute all notebooks and save the output
+- pipenv run jupyter nbconvert --to notebook --execute --inplace --clear-output *.ipynb
+# Verify that the new output matches what was previously committed
+- git diff --exit-code
