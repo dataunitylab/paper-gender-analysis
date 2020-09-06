@@ -5,6 +5,7 @@ import glob
 import sys
 
 import genderComputer
+import pandas as pd
 
 
 def infer_genders():
@@ -12,6 +13,11 @@ def infer_genders():
     Construct a dictionary of first author counts by gender from
     DBLP JSON files which match a particular glob pattern
     """
+    # Redirect stdout because the genderComputer library
+    # prints things without a way to disable it
+    orig_stdout = sys.stdout
+    sys.stdout = open('/dev/null', 'w')
+
     gc = genderComputer.GenderComputer()
     gender_counts = collections.defaultdict(lambda: {})
 
@@ -60,20 +66,30 @@ def infer_genders():
                     gender = 'unknown'
                 gender_counts[conf][year][gender] += 1
 
+    sys.stdout = orig_stdout
     return gender_counts.values()
 
 
-def main():
-    # Redirect stdout because the genderComputer library
-    # prints things without a way to disable it
-    orig_stdout = sys.stdout
-    sys.stdout = open('/dev/null', 'w')
+def dataframe():
+    """
+    Return the data as a Pandas DataFrame
+    """
+    # Infer genders for data files in the data/ directory
+    genders = infer_genders()
 
+    rows = []
+    for years in genders:
+        for conf in years.values():
+            rows.append(conf)
+
+    return pd.DataFrame(rows)
+
+
+def main():
     # Infer genders for data files in the data/ directory
     genders = infer_genders()
 
     # Write a header row
-    sys.stdout = orig_stdout
     csv_writer = csv.writer(sys.stdout)
     columns = ['conf', 'year', 'female', 'male', 'unisex', 'unknown', 'm/f']
     csv_writer.writerow(columns)
