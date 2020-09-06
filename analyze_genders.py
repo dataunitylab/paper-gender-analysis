@@ -19,15 +19,21 @@ def infer_genders():
     sys.stdout = open('/dev/null', 'w')
 
     gc = genderComputer.GenderComputer()
-    gender_counts = collections.defaultdict(lambda: {})
+    gender_counts = []
 
     for json_file in glob.glob('data/*.json'):
         conf = json_file.split('-')[0].split('/')[1]
         year = int(json_file.split('-')[1].split('.')[0])
-        if year not in gender_counts[conf]:
-            gender_counts[conf][year] = collections.defaultdict(lambda: 0)
-            gender_counts[conf][year]['conf'] = conf
-            gender_counts[conf][year]['year'] = year
+
+        # Initialize a new data point
+        datum = collections.OrderedDict(
+            conf=conf,
+            year=year,
+            male=0,
+            female=0,
+            unisex=0,
+            unknown=0
+        )
 
         data = json.load(open(json_file))['result']['hits']['hit']
         for paper in data:
@@ -64,10 +70,12 @@ def infer_genders():
                 gender = gc.resolveGender(author_name, None)
                 if gender is None:
                     gender = 'unknown'
-                gender_counts[conf][year][gender] += 1
+                datum[gender] += 1
+
+        gender_counts.append(datum)
 
     sys.stdout = orig_stdout
-    return gender_counts.values()
+    return gender_counts
 
 
 def dataframe():
@@ -76,13 +84,7 @@ def dataframe():
     """
     # Infer genders for data files in the data/ directory
     genders = infer_genders()
-
-    rows = []
-    for years in genders:
-        for conf in years.values():
-            rows.append(conf)
-
-    return pd.DataFrame(rows)
+    return pd.DataFrame(genders)
 
 
 def main():
@@ -91,13 +93,12 @@ def main():
 
     # Write a header row
     csv_writer = csv.writer(sys.stdout)
-    columns = ['conf', 'year', 'female', 'male', 'unisex', 'unknown', 'm/f']
+    columns = genders[0].keys()
     csv_writer.writerow(columns)
 
     # Write values for each conference
-    for years in genders:
-        for conf in years.values():
-            csv_writer.writerow([conf[key] for key in columns])
+    for row in genders:
+        csv_writer.writerow(row.values())
 
 
 if __name__ == '__main__':
