@@ -25,16 +25,6 @@ def infer_genders():
         conf = json_file.split('-')[0].split('/')[1]
         year = int(json_file.split('-')[1].split('.')[0])
 
-        # Initialize a new data point
-        datum = collections.OrderedDict(
-            conf=conf,
-            year=year,
-            male=0,
-            female=0,
-            unisex=0,
-            unknown=0
-        )
-
         data = json.load(open(json_file))['result']['hits']['hit']
         for paper in data:
             # Skip papers which are for some reason missing author info
@@ -49,9 +39,20 @@ def infer_genders():
                 author_info = [author_info]
 
             for (index, author) in enumerate(author_info):
-                # Only consider first authors for now
-                if index > 0:
-                    break
+                # Initialize a new data point
+                datum = collections.OrderedDict(
+                    conf=conf,
+                    year=year,
+                    author_position=None,
+                    author_name=None,
+                    male=0,
+                    female=0,
+                    unisex=0,
+                    unknown=0
+                )
+
+                # Track which number this author is
+                datum['author_position'] = index
 
                 # Extract the author name
                 if isinstance(author, dict):
@@ -63,6 +64,7 @@ def infer_genders():
 
                 # Remove numerical suffixes
                 author_name = author_name.rstrip(' 0123456789')
+                datum['author_name'] = author_name
 
                 # Attempt to predict gender
                 # TODO Include author country
@@ -72,7 +74,7 @@ def infer_genders():
                     gender = 'unknown'
                 datum[gender] += 1
 
-        gender_counts.append(datum)
+                gender_counts.append(datum)
 
     sys.stdout = orig_stdout
     return gender_counts
