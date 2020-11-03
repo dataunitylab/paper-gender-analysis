@@ -1,0 +1,272 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"cidr\"/\"cidr2011\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"110.06"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"40",
+"@dc":"40",
+"@oc":"40",
+"@id":"17172744",
+"text":":facetid:toc:db/conf/cidr/cidr2011.bht"
+}
+},
+"hits":{
+"@total":"40",
+"@computed":"40",
+"@sent":"40",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"2896322",
+"info":{"authors":{"author":{"@pid":"a/RAgrawal","text":"Rakesh Agrawal 0001"}},"title":"Data Externality.","venue":"CIDR","pages":"184-186","year":"2011","type":"Conference and Workshop Papers","key":"conf/cidr/Agrawal11","ee":"http://cidrdb.org/cidr2011/Papers/CIDR11_Paper22.pdf","url":"https://dblp.org/rec/conf/cidr/Agrawal11"},
+"url":"URL#2896322"
+},
+{
+"@score":"1",
+"@id":"2896323",
+"info":{"authors":{"author":[{"@pid":"02/3290","text":"Mert Akdere"},{"@pid":"c/UgurCetintemel","text":"Ugur Çetintemel"},{"@pid":"86/8260","text":"Matteo Riondato"},{"@pid":"u/EliUpfal","text":"Eli Upfal"},{"@pid":"z/SBZdonik","text":"Stanley B. Zdonik"}]},"title":"The Case for Predictive Database Systems - Opportunities and Challenges.","venue":"CIDR","pages":"167-174","year":"2011","type":"Conference and Workshop Papers","key":"conf/cidr/AkdereCRUZ11","ee":"http://cidrdb.org/cidr2011/Papers/CIDR11_Paper20.pdf","url":"https://dblp.org/rec/conf/cidr/AkdereCRUZ11"},
+"url":"URL#2896323"
+},
+{
+"@score":"1",
+"@id":"2896324",
+"info":{"authors":{"author":[{"@pid":"a/GustavoAlonso","text":"Gustavo Alonso"},{"@pid":"k/DonaldKossmann","text":"Donald Kossmann"},{"@pid":"r/TimothyRoscoe","text":"Timothy Roscoe"}]},"title":"SWissBox - An Architecture for Data Processing Appliances.","venue":"CIDR","pages":"32-37","year":"2011","type":"Conference and Workshop Papers","key":"conf/cidr/AlonsoKR11","ee":"http://cidrdb.org/cidr2011/Papers/CIDR11_Paper4.pdf","url":"https://dblp.org/rec/conf/cidr/AlonsoKR11"},
+"url":"URL#2896324"
+},
+{
+"@score":"1",
+"@id":"2896325",
+"info":{"authors":{"author":[{"@pid":"25/4106","text":"Peter Alvaro"},{"@pid":"05/729","text":"Neil Conway"},{"@pid":"h/JosephMHellerstein","text":"Joseph M. Hellerstein"},{"@pid":"48/879","text":"William R. Marczak"}]},"title":"Consistency Analysis in Bloom - a CALM and Collected Approach.","venue":"CIDR","pages":"249-260","year":"2011","type":"Conference and Workshop Papers","key":"conf/cidr/AlvaroCHM11","ee":"http://cidrdb.org/cidr2011/Papers/CIDR11_Paper35.pdf","url":"https://dblp.org/rec/conf/cidr/AlvaroCHM11"},
+"url":"URL#2896325"
+},
+{
+"@score":"1",
+"@id":"2896326",
+"info":{"authors":{"author":[{"@pid":"69/2335","text":"Jason Baker"},{"@pid":"38/4352","text":"Chris Bond"},{"@pid":"42/5495","text":"James C. Corbett"},{"@pid":"52/9493","text":"J. J. Furman"},{"@pid":"82/5498","text":"Andrey Khorlin"},{"@pid":"57/3972","text":"James Larson"},{"@pid":"14/9496","text":"Jean-Michel Leon"},{"@pid":"32/6740","text":"Yawei Li"},{"@pid":"98/9492","text":"Alexander Lloyd"},{"@pid":"14/9493","text":"Vadim Yushprakh"}]},"title":"Megastore - Providing Scalable, Highly Available Storage for Interactive Services.","venue":"CIDR","pages":"223-234","year":"2011","type":"Conference and Workshop Papers","key":"conf/cidr/BakerBCFKLLLLY11","ee":"http://cidrdb.org/cidr2011/Papers/CIDR11_Paper32.pdf","url":"https://dblp.org/rec/conf/cidr/BakerBCFKLLLLY11"},
+"url":"URL#2896326"
+},
+{
+"@score":"1",
+"@id":"2896327",
+"info":{"authors":{"author":[{"@pid":"60/9492","text":"Eirik Bakke"},{"@pid":"81/5691","text":"Edward Benson"}]},"title":"The Schema-Independent Database UI - A Proposed Holy Grail and Some Suggestions.","venue":"CIDR","pages":"219-222","year":"2011","type":"Conference and Workshop Papers","key":"conf/cidr/BakkeB11","ee":"http://cidrdb.org/cidr2011/Papers/CIDR11_Paper31.pdf","url":"https://dblp.org/rec/conf/cidr/BakkeB11"},
+"url":"URL#2896327"
+},
+{
+"@score":"1",
+"@id":"2896328",
+"info":{"authors":{"author":[{"@pid":"39/3585","text":"Khalid Belhajjame"},{"@pid":"p/NWPaton","text":"Norman W. Paton"},{"@pid":"f/AAAFernandes","text":"Alvaro A. A. Fernandes"},{"@pid":"59/4045","text":"Cornelia Hedeler"},{"@pid":"e/SMEmbury","text":"Suzanne M. Embury"}]},"title":"User Feedback as a First Class Citizen in Information Integration Systems.","venue":"CIDR","pages":"175-183","year":"2011","type":"Conference and Workshop Papers","key":"conf/cidr/BelhajjamePFHE11","ee":"http://cidrdb.org/cidr2011/Papers/CIDR11_Paper21.pdf","url":"https://dblp.org/rec/conf/cidr/BelhajjamePFHE11"},
+"url":"URL#2896328"
+},
+{
+"@score":"1",
+"@id":"2896329",
+"info":{"authors":{"author":[{"@pid":"b/PhilipABernstein","text":"Philip A. Bernstein"},{"@pid":"67/8374","text":"Colin W. Reid"},{"@pid":"71/5974","text":"Sudipto Das"}]},"title":"Hyder - A Transactional Record Manager for Shared Flash.","venue":"CIDR","pages":"9-20","year":"2011","type":"Conference and Workshop Papers","key":"conf/cidr/BernsteinRD11","ee":"http://cidrdb.org/cidr2011/Papers/CIDR11_Paper2.pdf","url":"https://dblp.org/rec/conf/cidr/BernsteinRD11"},
+"url":"URL#2896329"
+},
+{
+"@score":"1",
+"@id":"2896330",
+"info":{"authors":{"author":[{"@pid":"b/PBonnet","text":"Philippe Bonnet"},{"@pid":"b/LucBouganim","text":"Luc Bouganim"}]},"title":"Flash Device Support for Database Management.","venue":"CIDR","pages":"1-8","year":"2011","type":"Conference and Workshop Papers","key":"conf/cidr/BonnetB11","ee":"http://cidrdb.org/cidr2011/Papers/CIDR11_Paper1.pdf","url":"https://dblp.org/rec/conf/cidr/BonnetB11"},
+"url":"URL#2896330"
+},
+{
+"@score":"1",
+"@id":"2896331",
+"info":{"authors":{"author":[{"@pid":"c/SurajitChaudhuri","text":"Surajit Chaudhuri"},{"@pid":"09/2901","text":"Raghav Kaushik"},{"@pid":"02/4973","text":"Ravishankar Ramamurthy"}]},"title":"Database Access Control and Privacy - Is there a common ground?","venue":"CIDR","pages":"96-103","year":"2011","type":"Conference and Workshop Papers","key":"conf/cidr/ChaudhuriKR11","ee":"http://cidrdb.org/cidr2011/Papers/CIDR11_Paper11.pdf","url":"https://dblp.org/rec/conf/cidr/ChaudhuriKR11"},
+"url":"URL#2896331"
+},
+{
+"@score":"1",
+"@id":"2896332",
+"info":{"authors":{"author":[{"@pid":"c/ShiminChen","text":"Shimin Chen"},{"@pid":"g/PhillipBGibbons","text":"Phillip B. Gibbons"},{"@pid":"85/6293","text":"Suman Nath"}]},"title":"Rethinking Database Algorithms for Phase Change Memory.","venue":"CIDR","pages":"21-31","year":"2011","type":"Conference and Workshop Papers","key":"conf/cidr/ChenGN11","ee":"http://cidrdb.org/cidr2011/Papers/CIDR11_Paper3.pdf","url":"https://dblp.org/rec/conf/cidr/ChenGN11"},
+"url":"URL#2896332"
+},
+{
+"@score":"1",
+"@id":"2896333",
+"info":{"authors":{"author":[{"@pid":"76/1121","text":"Kuang Chen"},{"@pid":"h/JosephMHellerstein","text":"Joseph M. Hellerstein"},{"@pid":"02/5011","text":"Tapan S. Parikh"}]},"title":"Data in the First Mile.","venue":"CIDR","pages":"203-206","year":"2011","type":"Conference and Workshop Papers","key":"conf/cidr/ChenHP11","ee":"http://cidrdb.org/cidr2011/Papers/CIDR11_Paper27.pdf","url":"https://dblp.org/rec/conf/cidr/ChenHP11"},
+"url":"URL#2896333"
+},
+{
+"@score":"1",
+"@id":"2896334",
+"info":{"authors":{"author":[{"@pid":"73/9492","text":"Sarah Cohen"},{"@pid":"14/3692","text":"Chengkai Li"},{"@pid":"y/JunYang1","text":"Jun Yang 0001"},{"@pid":"58/3771","text":"Cong Yu 0001"}]},"title":"Computational Journalism - A Call to Arms to Database Researchers.","venue":"CIDR","pages":"148-151","year":"2011","type":"Conference and Workshop Papers","key":"conf/cidr/CohenLYY11","ee":"http://cidrdb.org/cidr2011/Papers/CIDR11_Paper17.pdf","url":"https://dblp.org/rec/conf/cidr/CohenLYY11"},
+"url":"URL#2896334"
+},
+{
+"@score":"1",
+"@id":"2896335",
+"info":{"authors":{"author":[{"@pid":"c/CarloCurino","text":"Carlo Curino"},{"@pid":"83/4223","text":"Evan P. C. Jones"},{"@pid":"91/275","text":"Raluca A. Popa"},{"@pid":"75/9492","text":"Nirmesh Malviya"},{"@pid":"41/3679","text":"Eugene Wu 0002"},{"@pid":"m/SamuelMadden","text":"Samuel Madden"},{"@pid":"b/HariBalakrishnan","text":"Hari Balakrishnan"},{"@pid":"99/5780","text":"Nickolai Zeldovich"}]},"title":"Relational Cloud - a Database Service for the cloud.","venue":"CIDR","pages":"235-240","year":"2011","type":"Conference and Workshop Papers","key":"conf/cidr/CurinoJPMWMBZ11","ee":"http://cidrdb.org/cidr2011/Papers/CIDR11_Paper33.pdf","url":"https://dblp.org/rec/conf/cidr/CurinoJPMWMBZ11"},
+"url":"URL#2896335"
+},
+{
+"@score":"1",
+"@id":"2896336",
+"info":{"authors":{"author":[{"@pid":"d/SBDavidson","text":"Susan B. Davidson"},{"@pid":"k/SanjeevKhanna","text":"Sanjeev Khanna"},{"@pid":"t/ValTannen","text":"Val Tannen"},{"@pid":"77/4620","text":"Sudeepa Roy"},{"@pid":"88/6466-1","text":"Yi Chen 0001"},{"@pid":"m/TovaMilo","text":"Tova Milo"},{"@pid":"s/JuliaStoyanovich","text":"Julia Stoyanovich"}]},"title":"Enabling Privacy in Provenance-Aware Workflow Systems.","venue":"CIDR","pages":"215-218","year":"2011","type":"Conference and Workshop Papers","key":"conf/cidr/DavidsonKTRCMS11","ee":"http://cidrdb.org/cidr2011/Papers/CIDR11_Paper30.pdf","url":"https://dblp.org/rec/conf/cidr/DavidsonKTRCMS11"},
+"url":"URL#2896336"
+},
+{
+"@score":"1",
+"@id":"2896337",
+"info":{"authors":{"author":[{"@pid":"d/JensPeterDittrich","text":"Jens Dittrich"},{"@pid":"24/8510","text":"Alekh Jindal"}]},"title":"Towards a One Size Fits All Database Architecture.","venue":"CIDR","pages":"195-198","year":"2011","type":"Conference and Workshop Papers","key":"conf/cidr/DittrichJ11","ee":"http://cidrdb.org/cidr2011/Papers/CIDR11_Paper25.pdf","url":"https://dblp.org/rec/conf/cidr/DittrichJ11"},
+"url":"URL#2896337"
+},
+{
+"@score":"1",
+"@id":"2896338",
+"info":{"authors":{"author":[{"@pid":"98/2324","text":"Shel Finkelstein"},{"@pid":"27/7479","text":"Thomas Heinzel"},{"@pid":"05/3280","text":"Rainer Brendle"},{"@pid":"57/3095","text":"Ike Nassi"},{"@pid":"49/35","text":"Heinz Ulrich Roggenkemper"}]},"title":"Transactional Intent.","venue":"CIDR","pages":"104-113","year":"2011","type":"Conference and Workshop Papers","key":"conf/cidr/FinkelsteinHBNR11","ee":"http://cidrdb.org/cidr2011/Papers/CIDR11_Paper12.pdf","url":"https://dblp.org/rec/conf/cidr/FinkelsteinHBNR11"},
+"url":"URL#2896338"
+},
+{
+"@score":"1",
+"@id":"2896339",
+"info":{"authors":{"author":[{"@pid":"57/9492","text":"Mark Flood"},{"@pid":"j/HVJagadish","text":"H. V. Jagadish"},{"@pid":"98/9491","text":"Albert Kyle"},{"@pid":"o/FrankOlken","text":"Frank Olken"},{"@pid":"r/LouiqaRaschid","text":"Louiqa Raschid"}]},"title":"Using Data for Systemic Financial Risk Management.","venue":"CIDR","pages":"144-147","year":"2011","type":"Conference and Workshop Papers","key":"conf/cidr/FloodJKOR11","ee":"http://cidrdb.org/cidr2011/Papers/CIDR11_Paper16.pdf","url":"https://dblp.org/rec/conf/cidr/FloodJKOR11"},
+"url":"URL#2896339"
+},
+{
+"@score":"1",
+"@id":"2896340",
+"info":{"authors":{"author":[{"@pid":"10/655","text":"Yupeng Fu"},{"@pid":"39/1521","text":"Kian Win Ong"},{"@pid":"p/YPapakonstantinou","text":"Yannis Papakonstantinou"},{"@pid":"51/5154","text":"Michalis Petropoulos"}]},"title":"The SQL-based all-declarative FORWARD web application development framework.","venue":"CIDR","pages":"69-78","year":"2011","type":"Conference and Workshop Papers","key":"conf/cidr/FuOPP11","ee":"http://cidrdb.org/cidr2011/Papers/CIDR11_Paper8.pdf","url":"https://dblp.org/rec/conf/cidr/FuOPP11"},
+"url":"URL#2896340"
+},
+{
+"@score":"1",
+"@id":"2896341",
+"info":{"authors":{"author":[{"@pid":"36/5673","text":"Wolfgang Gatterbauer"},{"@pid":"s/DanSuciu","text":"Dan Suciu"}]},"title":"Managing Structured Collections of Community Data.","venue":"CIDR","pages":"207-210","year":"2011","type":"Conference and Workshop Papers","key":"conf/cidr/GatterbauerS11","ee":"http://cidrdb.org/cidr2011/Papers/CIDR11_Paper28.pdf","url":"https://dblp.org/rec/conf/cidr/GatterbauerS11"},
+"url":"URL#2896341"
+},
+{
+"@score":"1",
+"@id":"2896342",
+"info":{"authors":{"author":[{"@pid":"42/3296","text":"Lukasz Golab"},{"@pid":"j/TheodoreJohnson","text":"Theodore Johnson"}]},"title":"Consistency in a Stream Warehouse.","venue":"CIDR","pages":"114-122","year":"2011","type":"Conference and Workshop Papers","key":"conf/cidr/GolabJ11","ee":"http://cidrdb.org/cidr2011/Papers/CIDR11_Paper13.pdf","url":"https://dblp.org/rec/conf/cidr/GolabJ11"},
+"url":"URL#2896342"
+},
+{
+"@score":"1",
+"@id":"2896343",
+"info":{"authors":{"author":[{"@pid":"26/5170","text":"Herodotos Herodotou"},{"@pid":"18/7542","text":"Harold Lim"},{"@pid":"253/0699","text":"Gang Luo"},{"@pid":"48/3359","text":"Nedyalko Borisov"},{"@pid":"63/2589","text":"Liang Dong"},{"@pid":"14/9495","text":"Fatma Bilgen Cetin"},{"@pid":"b/ShivnathBabu","text":"Shivnath Babu"}]},"title":"Starfish - A Self-tuning System for Big Data Analytics.","venue":"CIDR","pages":"261-272","year":"2011","type":"Conference and Workshop Papers","key":"conf/cidr/HerodotouLLBDCB11","ee":"http://cidrdb.org/cidr2011/Papers/CIDR11_Paper36.pdf","url":"https://dblp.org/rec/conf/cidr/HerodotouLLBDCB11"},
+"url":"URL#2896343"
+},
+{
+"@score":"1",
+"@id":"2896344",
+"info":{"authors":{"author":[{"@pid":"i/StratosIdreos","text":"Stratos Idreos"},{"@pid":"00/7933","text":"Ioannis Alagiannis"},{"@pid":"98/3414-1","text":"Ryan Johnson 0001"},{"@pid":"a/AnastassiaAilamaki","text":"Anastasia Ailamaki"}]},"title":"Here are my Data Files. Here are my Queries. Where are my Results?","venue":"CIDR","pages":"57-68","year":"2011","type":"Conference and Workshop Papers","key":"conf/cidr/IdreosAJA11","ee":"http://cidrdb.org/cidr2011/Papers/CIDR11_Paper7.pdf","url":"https://dblp.org/rec/conf/cidr/IdreosAJA11"},
+"url":"URL#2896344"
+},
+{
+"@score":"1",
+"@id":"2896345",
+"info":{"authors":{"author":[{"@pid":"71/796","text":"Robert Ikeda"},{"@pid":"41/4465","text":"Hyunjung Park 0001"},{"@pid":"w/JenniferWidom","text":"Jennifer Widom"}]},"title":"Provenance for Generalized Map and Reduce Workflows.","venue":"CIDR","pages":"273-283","year":"2011","type":"Conference and Workshop Papers","key":"conf/cidr/IkedaPW11","ee":"http://cidrdb.org/cidr2011/Papers/CIDR11_Paper37.pdf","url":"https://dblp.org/rec/conf/cidr/IkedaPW11"},
+"url":"URL#2896345"
+},
+{
+"@score":"1",
+"@id":"2896346",
+"info":{"authors":{"author":[{"@pid":"69/3216","text":"Gjergji Kasneci"},{"@pid":"91/6785","text":"Jurgen Van Gael"},{"@pid":"g/ThoreGraepel","text":"Thore Graepel"}]},"title":"DBrev - Dreaming of a Database Revolution.","venue":"CIDR","pages":"191-194","year":"2011","type":"Conference and Workshop Papers","key":"conf/cidr/KasneciGG11","ee":"http://cidrdb.org/cidr2011/Papers/CIDR11_Paper24.pdf","url":"https://dblp.org/rec/conf/cidr/KasneciGG11"},
+"url":"URL#2896346"
+},
+{
+"@score":"1",
+"@id":"2896347",
+"info":{"authors":{"author":[{"@pid":"75/5478","text":"Oliver Kennedy"},{"@pid":"99/770","text":"Yanif Ahmad"},{"@pid":"k/ChristophKoch","text":"Christoph Koch 0001"}]},"title":"DBToaster - Agile Views for a Dynamic Data Management System.","venue":"CIDR","pages":"284-295","year":"2011","type":"Conference and Workshop Papers","key":"conf/cidr/KennedyAK11","ee":"http://cidrdb.org/cidr2011/Papers/CIDR11_Paper38.pdf","url":"https://dblp.org/rec/conf/cidr/KennedyAK11"},
+"url":"URL#2896347"
+},
+{
+"@score":"1",
+"@id":"2896348",
+"info":{"authors":{"author":[{"@pid":"02/3658","text":"Justin J. Levandoski"},{"@pid":"l/DavidBLomet","text":"David B. Lomet"},{"@pid":"94/5893","text":"Mohamed F. Mokbel"},{"@pid":"50/9493","text":"Kevin Zhao"}]},"title":"Deuteronomy - Transaction Support for Cloud Data.","venue":"CIDR","pages":"123-133","year":"2011","type":"Conference and Workshop Papers","key":"conf/cidr/LevandoskiLMZ11","ee":"http://cidrdb.org/cidr2011/Papers/CIDR11_Paper14.pdf","url":"https://dblp.org/rec/conf/cidr/LevandoskiLMZ11"},
+"url":"URL#2896348"
+},
+{
+"@score":"1",
+"@id":"2896349",
+"info":{"authors":{"author":[{"@pid":"l/GuoliangLi","text":"Guoliang Li 0001"},{"@pid":"78/4413","text":"Ju Fan"},{"@pid":"72/4250","text":"Hao Wu"},{"@pid":"39/7183","text":"Jiannan Wang"},{"@pid":"43/6576","text":"Jianhua Feng"}]},"title":"DBease - Making Databases User-Friendly and Easily Accessible.","venue":"CIDR","pages":"45-56","year":"2011","type":"Conference and Workshop Papers","key":"conf/cidr/LiFWWF11","ee":"http://cidrdb.org/cidr2011/Papers/CIDR11_Paper6.pdf","url":"https://dblp.org/rec/conf/cidr/LiFWWF11"},
+"url":"URL#2896349"
+},
+{
+"@score":"1",
+"@id":"2896350",
+"info":{"authors":{"author":[{"@pid":"94/9492","text":"Andreas Loupasakis"},{"@pid":"n/NikosNtarmos","text":"Nikos Ntarmos"},{"@pid":"t/PeterTriantafillou","text":"Peter Triantafillou"}]},"title":"eXO - Decentralized Autonomous Scalable Social Networking.","venue":"CIDR","pages":"85-95","year":"2011","type":"Conference and Workshop Papers","key":"conf/cidr/LoupasakisNT11","ee":"http://cidrdb.org/cidr2011/Papers/CIDR11_Paper10.pdf","url":"https://dblp.org/rec/conf/cidr/LoupasakisNT11"},
+"url":"URL#2896350"
+},
+{
+"@score":"1",
+"@id":"2896351",
+"info":{"authors":{"author":[{"@pid":"m/YunMao","text":"Yun Mao"},{"@pid":"64/4201","text":"Changbin Liu"},{"@pid":"m/JEvanderMerwe","text":"Jacobus E. van der Merwe"},{"@pid":"f/MaryFFernandez","text":"Mary F. Fernández"}]},"title":"Cloud Resource Orchestration - A Data-Centric Approach.","venue":"CIDR","pages":"241-248","year":"2011","type":"Conference and Workshop Papers","key":"conf/cidr/MaoLMF11","ee":"http://cidrdb.org/cidr2011/Papers/CIDR11_Paper34.pdf","url":"https://dblp.org/rec/conf/cidr/MaoLMF11"},
+"url":"URL#2896351"
+},
+{
+"@score":"1",
+"@id":"2896352",
+"info":{"authors":{"author":[{"@pid":"m/AdamMarcus2","text":"Adam Marcus 0002"},{"@pid":"41/3679","text":"Eugene Wu 0002"},{"@pid":"m/SamuelMadden","text":"Samuel Madden"},{"@pid":"m/RobMiller","text":"Robert C. Miller"}]},"title":"Crowdsourced Databases - Query Processing with People.","venue":"CIDR","pages":"211-214","year":"2011","type":"Conference and Workshop Papers","key":"conf/cidr/MarcusWMM11","ee":"http://cidrdb.org/cidr2011/Papers/CIDR11_Paper29.pdf","url":"https://dblp.org/rec/conf/cidr/MarcusWMM11"},
+"url":"URL#2896352"
+},
+{
+"@score":"1",
+"@id":"2896353",
+"info":{"authors":{"author":[{"@pid":"23/1530","text":"Yosi Mass"},{"@pid":"r/MayaRamanath","text":"Maya Ramanath"},{"@pid":"26/5086","text":"Yehoshua Sagiv"},{"@pid":"w/GerhardWeikum","text":"Gerhard Weikum"}]},"title":"IQ - The Case for Iterative Querying for Knowledge.","venue":"CIDR","pages":"38-44","year":"2011","type":"Conference and Workshop Papers","key":"conf/cidr/MassRSW11","ee":"http://cidrdb.org/cidr2011/Papers/CIDR11_Paper5.pdf","url":"https://dblp.org/rec/conf/cidr/MassRSW11"},
+"url":"URL#2896353"
+},
+{
+"@score":"1",
+"@id":"2896354",
+"info":{"authors":{"author":[{"@pid":"o/ChristopherOlston","text":"Christopher Olston"},{"@pid":"59/589","text":"Anish Das Sarma"}]},"title":"Ibis - A Provenance Manager for Multi-Layer Systems.","venue":"CIDR","pages":"152-159","year":"2011","type":"Conference and Workshop Papers","key":"conf/cidr/OlstonS11","ee":"http://cidrdb.org/cidr2011/Papers/CIDR11_Paper18.pdf","url":"https://dblp.org/rec/conf/cidr/OlstonS11"},
+"url":"URL#2896354"
+},
+{
+"@score":"1",
+"@id":"2896355",
+"info":{"authors":{"author":[{"@pid":"40/7459","text":"Aditya G. Parameswaran"},{"@pid":"p/NeoklisPolyzotis","text":"Neoklis Polyzotis"}]},"title":"Answering Queries using Humans, Algorithms and Databases.","venue":"CIDR","pages":"160-166","year":"2011","type":"Conference and Workshop Papers","key":"conf/cidr/ParameswaranP11","ee":"http://cidrdb.org/cidr2011/Papers/CIDR11_Paper19.pdf","url":"https://dblp.org/rec/conf/cidr/ParameswaranP11"},
+"url":"URL#2896355"
+},
+{
+"@score":"1",
+"@id":"2896356",
+"info":{"authors":{"author":[{"@pid":"01/4876","text":"Lefteris Sidirourgos"},{"@pid":"k/MartinLKersten","text":"Martin L. Kersten"},{"@pid":"b/PeterABoncz","text":"Peter A. Boncz"}]},"title":"SciBORQ - Scientific data management with Bounds On Runtime and Quality.","venue":"CIDR","pages":"296-301","year":"2011","type":"Conference and Workshop Papers","key":"conf/cidr/SidirourgosKB11","ee":"http://cidrdb.org/cidr2011/Papers/CIDR11_Paper39.pdf","url":"https://dblp.org/rec/conf/cidr/SidirourgosKB11"},
+"url":"URL#2896356"
+},
+{
+"@score":"1",
+"@id":"2896357",
+"info":{"authors":{"author":[{"@pid":"66/2989","text":"Hiroshi Wada"},{"@pid":"f/AlanDavidFekete","text":"Alan D. Fekete"},{"@pid":"63/5422-9","text":"Liang Zhao 0009"},{"@pid":"44/765","text":"Kevin Lee"},{"@pid":"89/5066","text":"Anna Liu"}]},"title":"Data Consistency Properties and the Trade-offs in Commercial Cloud Storage - the Consumers&apos; Perspective.","venue":"CIDR","pages":"134-143","year":"2011","type":"Conference and Workshop Papers","key":"conf/cidr/WadaFZLL11","ee":"http://cidrdb.org/cidr2011/Papers/CIDR11_Paper15.pdf","url":"https://dblp.org/rec/conf/cidr/WadaFZLL11"},
+"url":"URL#2896357"
+},
+{
+"@score":"1",
+"@id":"2896358",
+"info":{"authors":{"author":[{"@pid":"w/GerhardWeikum","text":"Gerhard Weikum"},{"@pid":"n/NikosNtarmos","text":"Nikos Ntarmos"},{"@pid":"s/MarcSpaniol","text":"Marc Spaniol"},{"@pid":"t/PeterTriantafillou","text":"Peter Triantafillou"},{"@pid":"66/5525","text":"András A. Benczúr"},{"@pid":"39/5192","text":"Scott Kirkpatrick"},{"@pid":"r/PRigaux","text":"Philippe Rigaux"},{"@pid":"46/9494","text":"Mark Williamson"}]},"title":"Longitudinal Analytics on Web Archive Data - It&apos;s About Time!","venue":"CIDR","pages":"199-202","year":"2011","type":"Conference and Workshop Papers","key":"conf/cidr/WeikumNSTBKRW11","ee":"http://cidrdb.org/cidr2011/Papers/CIDR11_Paper26.pdf","url":"https://dblp.org/rec/conf/cidr/WeikumNSTBKRW11"},
+"url":"URL#2896358"
+},
+{
+"@score":"1",
+"@id":"2896359",
+"info":{"authors":{"author":[{"@pid":"w/StevenEuijongWhang","text":"Steven Whang"},{"@pid":"g/HGarciaMolina","text":"Hector Garcia-Molina"}]},"title":"Managing Information Leakage.","venue":"CIDR","pages":"79-84","year":"2011","type":"Conference and Workshop Papers","key":"conf/cidr/WhangG11","ee":"http://cidrdb.org/cidr2011/Papers/CIDR11_Paper9.pdf","url":"https://dblp.org/rec/conf/cidr/WhangG11"},
+"url":"URL#2896359"
+},
+{
+"@score":"1",
+"@id":"2896360",
+"info":{"authors":{"author":[{"@pid":"41/3679","text":"Eugene Wu 0002"},{"@pid":"c/CarloCurino","text":"Carlo Curino"},{"@pid":"m/SamuelMadden","text":"Samuel Madden"}]},"title":"No bits left behind.","venue":"CIDR","pages":"187-190","year":"2011","type":"Conference and Workshop Papers","key":"conf/cidr/WuCM11","ee":"http://cidrdb.org/cidr2011/Papers/CIDR11_Paper23.pdf","url":"https://dblp.org/rec/conf/cidr/WuCM11"},
+"url":"URL#2896360"
+},
+{
+"@score":"1",
+"@id":"3013641",
+"info":{"title":"CIDR 2011, Fifth Biennial Conference on Innovative Data Systems Research, Asilomar, CA, USA, January 9-12, 2011, Online Proceedings","venue":"CIDR","publisher":"www.cidrdb.org","year":"2011","type":"Editorship","key":"conf/cidr/2011","ee":"http://cidrdb.org/cidr2011/index.html","url":"https://dblp.org/rec/conf/cidr/2011"},
+"url":"URL#3013641"
+}
+]
+}
+}
+}

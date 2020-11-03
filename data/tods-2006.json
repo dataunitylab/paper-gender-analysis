@@ -1,0 +1,260 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"journals\"/\"tods\"/\"tods31\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"131.12"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"38",
+"@dc":"38",
+"@oc":"38",
+"@id":"17255836",
+"text":":facetid:toc:db/journals/tods/tods31.bht"
+}
+},
+"hits":{
+"@total":"38",
+"@computed":"38",
+"@sent":"38",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"3918662",
+"info":{"authors":{"author":[{"@pid":"a/SergeAbiteboul","text":"Serge Abiteboul"},{"@pid":"s/LucSegoufin","text":"Luc Segoufin"},{"@pid":"v/VictorVianu","text":"Victor Vianu"}]},"title":"Representing and querying XML with incomplete information.","venue":"ACM Trans. Database Syst.","volume":"31","number":"1","pages":"208-254","year":"2006","type":"Journal Articles","key":"journals/tods/AbiteboulSV06","doi":"10.1145/1132863.1132869","ee":"https://doi.org/10.1145/1132863.1132869","url":"https://dblp.org/rec/journals/tods/AbiteboulSV06"},
+"url":"URL#3918662"
+},
+{
+"@score":"1",
+"@id":"3918663",
+"info":{"authors":{"author":[{"@pid":"a/FotoNAfrati","text":"Foto N. Afrati"},{"@pid":"w/JenniferWidom","text":"Jennifer Widom"}]},"title":"Foreword to special section on SIGMOD/PODS 2005.","venue":"ACM Trans. Database Syst.","volume":"31","number":"4","pages":"1417","year":"2006","type":"Journal Articles","key":"journals/tods/AfratiW06","doi":"10.1145/1189769.1189776","ee":"https://doi.org/10.1145/1189769.1189776","url":"https://dblp.org/rec/journals/tods/AfratiW06"},
+"url":"URL#3918663"
+},
+{
+"@score":"1",
+"@id":"3918664",
+"info":{"authors":{"author":[{"@pid":"84/2055","text":"Vanessa P. Braganholo"},{"@pid":"d/SBDavidson","text":"Susan B. Davidson"},{"@pid":"h/CarlosAHeuser","text":"Carlos A. Heuser"}]},"title":"PATAXÓ - A framework to allow updates through XML views.","venue":"ACM Trans. Database Syst.","volume":"31","number":"3","pages":"839-886","year":"2006","type":"Journal Articles","key":"journals/tods/BraganholoDH06","doi":"10.1145/1166074.1166078","ee":"https://doi.org/10.1145/1166074.1166078","url":"https://dblp.org/rec/journals/tods/BraganholoDH06"},
+"url":"URL#3918664"
+},
+{
+"@score":"1",
+"@id":"3918665",
+"info":{"authors":{"author":[{"@pid":"b/LauraBright","text":"Laura Bright"},{"@pid":"g/AvigdorGal","text":"Avigdor Gal"},{"@pid":"r/LouiqaRaschid","text":"Louiqa Raschid"}]},"title":"Adaptive pull-based policies for wide area data delivery.","venue":"ACM Trans. Database Syst.","volume":"31","number":"2","pages":"631-671","year":"2006","type":"Journal Articles","key":"journals/tods/BrightGR06","doi":"10.1145/1138394.1138399","ee":"https://doi.org/10.1145/1138394.1138399","url":"https://dblp.org/rec/journals/tods/BrightGR06"},
+"url":"URL#3918665"
+},
+{
+"@score":"1",
+"@id":"3918666",
+"info":{"authors":{"author":[{"@pid":"c/ToonCalders","text":"Toon Calders"},{"@pid":"l/LVSLakshmanan","text":"Laks V. S. Lakshmanan"},{"@pid":"n/RTNg","text":"Raymond T. Ng"},{"@pid":"p/JParedaens","text":"Jan Paredaens"}]},"title":"Expressive power of an algebra for data mining.","venue":"ACM Trans. Database Syst.","volume":"31","number":"4","pages":"1169-1214","year":"2006","type":"Journal Articles","key":"journals/tods/CaldersLNP06","doi":"10.1145/1189769.1189770","ee":"https://doi.org/10.1145/1189769.1189770","url":"https://dblp.org/rec/journals/tods/CaldersLNP06"},
+"url":"URL#3918666"
+},
+{
+"@score":"1",
+"@id":"3918667",
+"info":{"authors":{"author":[{"@pid":"c/SurajitChaudhuri","text":"Surajit Chaudhuri"},{"@pid":"07/1181","text":"Gautam Das 0001"},{"@pid":"42/5855","text":"Vagelis Hristidis"},{"@pid":"w/GerhardWeikum","text":"Gerhard Weikum"}]},"title":"Probabilistic information retrieval approach for ranking of database query results.","venue":"ACM Trans. Database Syst.","volume":"31","number":"3","pages":"1134-1168","year":"2006","type":"Journal Articles","key":"journals/tods/ChaudhuriDHW06","doi":"10.1145/1166074.1166085","ee":"https://doi.org/10.1145/1166074.1166085","url":"https://dblp.org/rec/journals/tods/ChaudhuriDHW06"},
+"url":"URL#3918667"
+},
+{
+"@score":"1",
+"@id":"3918668",
+"info":{"authors":{"author":[{"@pid":"85/1310","text":"David Cheng"},{"@pid":"k/RaviKannan","text":"Ravi Kannan"},{"@pid":"v/SantoshVempala","text":"Santosh S. Vempala"},{"@pid":"80/2091","text":"Grant Wang"}]},"title":"A divide-and-merge methodology for clustering.","venue":"ACM Trans. Database Syst.","volume":"31","number":"4","pages":"1499-1525","year":"2006","type":"Journal Articles","key":"journals/tods/ChengKVW06","doi":"10.1145/1189769.1189779","ee":"https://doi.org/10.1145/1189769.1189779","url":"https://dblp.org/rec/journals/tods/ChengKVW06"},
+"url":"URL#3918668"
+},
+{
+"@score":"1",
+"@id":"3918669",
+"info":{"authors":{"author":[{"@pid":"c/SaraCohen","text":"Sara Cohen"},{"@pid":"n/WernerNutt","text":"Werner Nutt"},{"@pid":"26/5086","text":"Yehoshua Sagiv"}]},"title":"Rewriting queries with arbitrary aggregation functions using views.","venue":"ACM Trans. Database Syst.","volume":"31","number":"2","pages":"672-715","year":"2006","type":"Journal Articles","key":"journals/tods/CohenNS06","doi":"10.1145/1138394.1138400","ee":"https://doi.org/10.1145/1138394.1138400","url":"https://dblp.org/rec/journals/tods/CohenNS06"},
+"url":"URL#3918669"
+},
+{
+"@score":"1",
+"@id":"3918670",
+"info":{"authors":{"author":[{"@pid":"e/TEiter","text":"Thomas Eiter"},{"@pid":"l/LeonidLibkin","text":"Leonid Libkin"}]},"title":"Introduction to special ICDT section.","venue":"ACM Trans. Database Syst.","volume":"31","number":"3","pages":"769","year":"2006","type":"Journal Articles","key":"journals/tods/EiterL06","doi":"10.1145/1166074.1166075","ee":"https://doi.org/10.1145/1166074.1166075","url":"https://dblp.org/rec/journals/tods/EiterL06"},
+"url":"URL#3918670"
+},
+{
+"@score":"1",
+"@id":"3918671",
+"info":{"authors":{"author":[{"@pid":"90/1367","text":"Ariel Fuxman"},{"@pid":"k/PGKolaitis","text":"Phokion G. Kolaitis"},{"@pid":"m/RJMiller","text":"Renée J. Miller"},{"@pid":"t/WangChiewTan","text":"Wang Chiew Tan"}]},"title":"Peer data exchange.","venue":"ACM Trans. Database Syst.","volume":"31","number":"4","pages":"1454-1498","year":"2006","type":"Journal Articles","key":"journals/tods/FuxmanKMT06","doi":"10.1145/1189769.1189778","ee":"https://doi.org/10.1145/1189769.1189778","url":"https://dblp.org/rec/journals/tods/FuxmanKMT06"},
+"url":"URL#3918671"
+},
+{
+"@score":"1",
+"@id":"3918672",
+"info":{"authors":{"author":[{"@pid":"g/JimGray","text":"Jim Gray 0001"},{"@pid":"l/LeslieLamport","text":"Leslie Lamport"}]},"title":"Consensus on transaction commit.","venue":"ACM Trans. Database Syst.","volume":"31","number":"1","pages":"133-160","year":"2006","type":"Journal Articles","key":"journals/tods/GrayL06","doi":"10.1145/1132863.1132867","ee":"https://doi.org/10.1145/1132863.1132867","url":"https://dblp.org/rec/journals/tods/GrayL06"},
+"url":"URL#3918672"
+},
+{
+"@score":"1",
+"@id":"3918673",
+"info":{"authors":{"author":[{"@pid":"g/SudiptoGuha","text":"Sudipto Guha"},{"@pid":"j/HVJagadish","text":"H. V. Jagadish"},{"@pid":"k/NickKoudas","text":"Nick Koudas"},{"@pid":"s/DiveshSrivastava","text":"Divesh Srivastava"},{"@pid":"y/TingYu","text":"Ting Yu"}]},"title":"Integrating XML data sources using approximate joins.","venue":"ACM Trans. Database Syst.","volume":"31","number":"1","pages":"161-207","year":"2006","type":"Journal Articles","key":"journals/tods/GuhaJKSY06","doi":"10.1145/1132863.1132868","ee":"https://doi.org/10.1145/1132863.1132868","url":"https://dblp.org/rec/journals/tods/GuhaJKSY06"},
+"url":"URL#3918673"
+},
+{
+"@score":"1",
+"@id":"3918674",
+"info":{"authors":{"author":[{"@pid":"g/SudiptoGuha","text":"Sudipto Guha"},{"@pid":"k/NickKoudas","text":"Nick Koudas"},{"@pid":"s/KyuseokShim","text":"Kyuseok Shim"}]},"title":"Approximation and streaming algorithms for histogram construction problems.","venue":"ACM Trans. Database Syst.","volume":"31","number":"1","pages":"396-438","year":"2006","type":"Journal Articles","key":"journals/tods/GuhaKS06","doi":"10.1145/1132863.1132873","ee":"https://doi.org/10.1145/1132863.1132873","url":"https://dblp.org/rec/journals/tods/GuhaKS06"},
+"url":"URL#3918674"
+},
+{
+"@score":"1",
+"@id":"3918675",
+"info":{"authors":{"author":[{"@pid":"38/6308","text":"Stavros Harizopoulos"},{"@pid":"a/AnastassiaAilamaki","text":"Anastassia Ailamaki"}]},"title":"Improving instruction cache performance in OLTP.","venue":"ACM Trans. Database Syst.","volume":"31","number":"3","pages":"887-920","year":"2006","type":"Journal Articles","key":"journals/tods/HarizopoulosA06","doi":"10.1145/1166074.1166079","ee":"https://doi.org/10.1145/1166074.1166079","url":"https://dblp.org/rec/journals/tods/HarizopoulosA06"},
+"url":"URL#3918675"
+},
+{
+"@score":"1",
+"@id":"3918676",
+"info":{"authors":{"author":[{"@pid":"78/4523-1","text":"Bin He 0001"},{"@pid":"c/KCCChang","text":"Kevin Chen-Chuan Chang"}]},"title":"Automatic complex schema matching across Web query interfaces - A correlation mining approach.","venue":"ACM Trans. Database Syst.","volume":"31","number":"1","pages":"346-395","year":"2006","type":"Journal Articles","key":"journals/tods/HeC06","doi":"10.1145/1132863.1132872","ee":"https://doi.org/10.1145/1132863.1132872","url":"https://dblp.org/rec/journals/tods/HeC06"},
+"url":"URL#3918676"
+},
+{
+"@score":"1",
+"@id":"3918677",
+"info":{"authors":{"author":[{"@pid":"i/IhabFIlyas","text":"Ihab F. Ilyas"},{"@pid":"a/WGAref","text":"Walid G. Aref"},{"@pid":"e/AKElmagarmid","text":"Ahmed K. Elmagarmid"},{"@pid":"15/5649","text":"Hicham G. Elmongui"},{"@pid":"75/3500","text":"Rahul Shah"},{"@pid":"v/JeffreyScottVitter","text":"Jeffrey Scott Vitter"}]},"title":"Adaptive rank-aware query optimization in relational databases.","venue":"ACM Trans. Database Syst.","volume":"31","number":"4","pages":"1257-1304","year":"2006","type":"Journal Articles","key":"journals/tods/IlyasAEESV06","doi":"10.1145/1189769.1189772","ee":"https://doi.org/10.1145/1189769.1189772","url":"https://dblp.org/rec/journals/tods/IlyasAEESV06"},
+"url":"URL#3918677"
+},
+{
+"@score":"1",
+"@id":"3918678",
+"info":{"authors":{"author":[{"@pid":"61/3506","text":"Glenn Simmons Iwerks"},{"@pid":"s/HananSamet","text":"Hanan Samet"},{"@pid":"79/5323","text":"Kenneth P. Smith"}]},"title":"Maintenance of K-nn and spatial join queries on continuously moving points.","venue":"ACM Trans. Database Syst.","volume":"31","number":"2","pages":"485-536","year":"2006","type":"Journal Articles","key":"journals/tods/IwerksSS06","doi":"10.1145/1138394.1138396","ee":"https://doi.org/10.1145/1138394.1138396","url":"https://dblp.org/rec/journals/tods/IwerksSS06"},
+"url":"URL#3918678"
+},
+{
+"@score":"1",
+"@id":"3918679",
+"info":{"authors":{"author":[{"@pid":"64/6934","text":"Ibrahim Jaluta"},{"@pid":"69/6554","text":"Seppo Sippu"},{"@pid":"19/6819","text":"Eljas Soisalon-Soininen"}]},"title":"B-tree concurrency control and recovery in page-server database systems.","venue":"ACM Trans. Database Syst.","volume":"31","number":"1","pages":"82-132","year":"2006","type":"Journal Articles","key":"journals/tods/JalutaSS06","doi":"10.1145/1132863.1132866","ee":"https://doi.org/10.1145/1132863.1132866","url":"https://dblp.org/rec/journals/tods/JalutaSS06"},
+"url":"URL#3918679"
+},
+{
+"@score":"1",
+"@id":"3918680",
+"info":{"authors":{"author":[{"@pid":"j/ChrisJermaine","text":"Chris Jermaine"},{"@pid":"68/3272","text":"Alin Dobra"},{"@pid":"99/3704","text":"Subramanian Arumugam 0002"},{"@pid":"j/ShantanuJoshi-1","text":"Shantanu Joshi 0001"},{"@pid":"96/4590","text":"Abhijit Pol"}]},"title":"The Sort-Merge-Shrink join.","venue":"ACM Trans. Database Syst.","volume":"31","number":"4","pages":"1382-1416","year":"2006","type":"Journal Articles","key":"journals/tods/JermaineDAJP06","doi":"10.1145/1189769.1189775","ee":"https://doi.org/10.1145/1189769.1189775","url":"https://dblp.org/rec/journals/tods/JermaineDAJP06"},
+"url":"URL#3918680"
+},
+{
+"@score":"1",
+"@id":"3918681",
+"info":{"authors":{"author":{"@pid":"06/1539","text":"Yishan Jiao"}},"title":"Maintaining stream statistics over multiscale sliding windows.","venue":"ACM Trans. Database Syst.","volume":"31","number":"4","pages":"1305-1334","year":"2006","type":"Journal Articles","key":"journals/tods/Jiao06","doi":"10.1145/1189769.1189773","ee":"https://doi.org/10.1145/1189769.1189773","url":"https://dblp.org/rec/journals/tods/Jiao06"},
+"url":"URL#3918681"
+},
+{
+"@score":"1",
+"@id":"3918682",
+"info":{"authors":{"author":[{"@pid":"k/DVKalashnikov","text":"Dmitri V. Kalashnikov"},{"@pid":"m/SharadMehrotra","text":"Sharad Mehrotra"}]},"title":"Domain-independent data cleaning via analysis of entity-relationship graph.","venue":"ACM Trans. Database Syst.","volume":"31","number":"2","pages":"716-767","year":"2006","type":"Journal Articles","key":"journals/tods/KalashnikovM06","doi":"10.1145/1138394.1138401","ee":"https://doi.org/10.1145/1138394.1138401","url":"https://dblp.org/rec/journals/tods/KalashnikovM06"},
+"url":"URL#3918682"
+},
+{
+"@score":"1",
+"@id":"3918683",
+"info":{"authors":{"author":{"@pid":"k/ChristophKoch","text":"Christoph Koch 0001"}},"title":"On the complexity of nonrecursive XQuery and functional query languages on complex values.","venue":"ACM Trans. Database Syst.","volume":"31","number":"4","pages":"1215-1256","year":"2006","type":"Journal Articles","key":"journals/tods/Koch06","doi":"10.1145/1189769.1189771","ee":"https://doi.org/10.1145/1189769.1189771","url":"https://dblp.org/rec/journals/tods/Koch06"},
+"url":"URL#3918683"
+},
+{
+"@score":"1",
+"@id":"3918684",
+"info":{"authors":{"author":[{"@pid":"l/LinXuemin","text":"Xuemin Lin 0001"},{"@pid":"53/4481-1","text":"Qing Liu 0001"},{"@pid":"48/5137","text":"Yidong Yuan"},{"@pid":"z/XiaofangZhou","text":"Xiaofang Zhou 0001"},{"@pid":"l/HongjunLu","text":"Hongjun Lu"}]},"title":"Summarizing level-two topological relations in large spatial datasets.","venue":"ACM Trans. Database Syst.","volume":"31","number":"2","pages":"584-630","year":"2006","type":"Journal Articles","key":"journals/tods/LinLYZL06","doi":"10.1145/1138394.1138398","ee":"https://doi.org/10.1145/1138394.1138398","url":"https://dblp.org/rec/journals/tods/LinLYZL06"},
+"url":"URL#3918684"
+},
+{
+"@score":"1",
+"@id":"3918685",
+"info":{"authors":{"author":[{"@pid":"95/3517","text":"Wim Martens"},{"@pid":"n/FrankNeven","text":"Frank Neven"},{"@pid":"s/TSchwentick","text":"Thomas Schwentick"},{"@pid":"12/1974","text":"Geert Jan Bex"}]},"title":"Expressiveness and complexity of XML Schema.","venue":"ACM Trans. Database Syst.","volume":"31","number":"3","pages":"770-813","year":"2006","type":"Journal Articles","key":"journals/tods/MartensNSB06","doi":"10.1145/1166074.1166076","ee":"https://doi.org/10.1145/1166074.1166076","url":"https://dblp.org/rec/journals/tods/MartensNSB06"},
+"url":"URL#3918685"
+},
+{
+"@score":"1",
+"@id":"3918686",
+"info":{"authors":{"author":[{"@pid":"89/6071","text":"Norman May"},{"@pid":"h/SvenHelmer","text":"Sven Helmer"},{"@pid":"m/GuidoMoerkotte","text":"Guido Moerkotte"}]},"title":"Strategies for query unnesting in XML databases.","venue":"ACM Trans. Database Syst.","volume":"31","number":"3","pages":"968-1013","year":"2006","type":"Journal Articles","key":"journals/tods/MayHM06","doi":"10.1145/1166074.1166081","ee":"https://doi.org/10.1145/1166074.1166081","url":"https://dblp.org/rec/journals/tods/MayHM06"},
+"url":"URL#3918686"
+},
+{
+"@score":"1",
+"@id":"3918687",
+"info":{"authors":{"author":[{"@pid":"44/3654","text":"Ahmed Metwally 0001"},{"@pid":"a/DivyakantAgrawal","text":"Divyakant Agrawal"},{"@pid":"a/AmrElAbbadi","text":"Amr El Abbadi"}]},"title":"An integrated efficient solution for computing frequent and top-k elements in data streams.","venue":"ACM Trans. Database Syst.","volume":"31","number":"3","pages":"1095-1133","year":"2006","type":"Journal Articles","key":"journals/tods/MetwallyAA06","doi":"10.1145/1166074.1166084","ee":"https://doi.org/10.1145/1166074.1166084","url":"https://dblp.org/rec/journals/tods/MetwallyAA06"},
+"url":"URL#3918687"
+},
+{
+"@score":"1",
+"@id":"3918688",
+"info":{"authors":{"author":[{"@pid":"p/JianPei","text":"Jian Pei"},{"@pid":"48/5137","text":"Yidong Yuan"},{"@pid":"l/LinXuemin","text":"Xuemin Lin 0001"},{"@pid":"09/1433","text":"Wen Jin"},{"@pid":"e/MartinEster","text":"Martin Ester"},{"@pid":"53/4481-1","text":"Qing Liu 0001"},{"@pid":"w/WeiWang11","text":"Wei Wang 0011"},{"@pid":"t/YufeiTao","text":"Yufei Tao"},{"@pid":"y/JXuYu","text":"Jeffrey Xu Yu"},{"@pid":"68/1429-1","text":"Qing Zhang 0001"}]},"title":"Towards multidimensional subspace skyline analysis.","venue":"ACM Trans. Database Syst.","volume":"31","number":"4","pages":"1335-1381","year":"2006","type":"Journal Articles","key":"journals/tods/PeiYLJELWTYZ06","doi":"10.1145/1189769.1189774","ee":"https://doi.org/10.1145/1189769.1189774","url":"https://dblp.org/rec/journals/tods/PeiYLJELWTYZ06"},
+"url":"URL#3918688"
+},
+{
+"@score":"1",
+"@id":"3918689",
+"info":{"authors":{"author":[{"@pid":"29/3611","text":"Mindaugas Pelanis"},{"@pid":"48/2122","text":"Simonas Saltenis"},{"@pid":"j/ChristianSJensen","text":"Christian S. Jensen"}]},"title":"Indexing the past, present, and anticipated future positions of moving objects.","venue":"ACM Trans. Database Syst.","volume":"31","number":"1","pages":"255-298","year":"2006","type":"Journal Articles","key":"journals/tods/PelanisSJ06","doi":"10.1145/1132863.1132870","ee":"https://doi.org/10.1145/1132863.1132870","url":"https://dblp.org/rec/journals/tods/PelanisSJ06"},
+"url":"URL#3918689"
+},
+{
+"@score":"1",
+"@id":"3918690",
+"info":{"authors":{"author":[{"@pid":"59/6853","text":"Fragkiskos Pentaris"},{"@pid":"i/YEIoannidis","text":"Yannis E. Ioannidis"}]},"title":"Query optimization in distributed networks of autonomous database systems.","venue":"ACM Trans. Database Syst.","volume":"31","number":"2","pages":"537-583","year":"2006","type":"Journal Articles","key":"journals/tods/PentarisI06","doi":"10.1145/1138394.1138397","ee":"https://doi.org/10.1145/1138394.1138397","url":"https://dblp.org/rec/journals/tods/PentarisI06"},
+"url":"URL#3918690"
+},
+{
+"@score":"1",
+"@id":"3918691",
+"info":{"authors":{"author":[{"@pid":"p/NeoklisPolyzotis","text":"Neoklis Polyzotis"},{"@pid":"g/MinosNGarofalakis","text":"Minos N. Garofalakis"}]},"title":"XSKETCH synopses for XML data graphs.","venue":"ACM Trans. Database Syst.","volume":"31","number":"3","pages":"1014-1063","year":"2006","type":"Journal Articles","key":"journals/tods/PolyzotisG06","doi":"10.1145/1166074.1166082","ee":"https://doi.org/10.1145/1166074.1166082","url":"https://dblp.org/rec/journals/tods/PolyzotisG06"},
+"url":"URL#3918691"
+},
+{
+"@score":"1",
+"@id":"3918692",
+"info":{"authors":{"author":[{"@pid":"54/2806","text":"Gang Qian"},{"@pid":"34/6522-1","text":"Qiang Zhu 0001"},{"@pid":"00/1987","text":"Qiang Xue"},{"@pid":"p/SaktiPramanik","text":"Sakti Pramanik"}]},"title":"Dynamic indexing for multidimensional non-ordered discrete data spaces using a data-partitioning approach.","venue":"ACM Trans. Database Syst.","volume":"31","number":"2","pages":"439-484","year":"2006","type":"Journal Articles","key":"journals/tods/QianZXP06","doi":"10.1145/1138394.1138395","ee":"https://doi.org/10.1145/1138394.1138395","url":"https://dblp.org/rec/journals/tods/QianZXP06"},
+"url":"URL#3918692"
+},
+{
+"@score":"1",
+"@id":"3918693",
+"info":{"authors":{"author":[{"@pid":"69/9203","text":"Praveen Rao 0001"},{"@pid":"20/6358","text":"Bongki Moon"}]},"title":"Sequencing XML data and query twigs for fast pattern matching.","venue":"ACM Trans. Database Syst.","volume":"31","number":"1","pages":"299-345","year":"2006","type":"Journal Articles","key":"journals/tods/RaoM06","doi":"10.1145/1132863.1132871","ee":"https://doi.org/10.1145/1132863.1132871","url":"https://dblp.org/rec/journals/tods/RaoM06"},
+"url":"URL#3918693"
+},
+{
+"@score":"1",
+"@id":"3918694",
+"info":{"authors":{"author":[{"@pid":"s/MarkusSchneider1","text":"Markus Schneider 0001"},{"@pid":"42/3942","text":"Thomas Behr"}]},"title":"Topological relationships between complex spatial objects.","venue":"ACM Trans. Database Syst.","volume":"31","number":"1","pages":"39-81","year":"2006","type":"Journal Articles","key":"journals/tods/SchneiderB06","doi":"10.1145/1132863.1132865","ee":"https://doi.org/10.1145/1132863.1132865","url":"https://dblp.org/rec/journals/tods/SchneiderB06"},
+"url":"URL#3918694"
+},
+{
+"@score":"1",
+"@id":"3918695",
+"info":{"authors":{"author":[{"@pid":"s/UriShaft","text":"Uri Shaft"},{"@pid":"r/RaghuRamakrishnan","text":"Raghu Ramakrishnan"}]},"title":"Theory of nearest neighbors indexability.","venue":"ACM Trans. Database Syst.","volume":"31","number":"3","pages":"814-838","year":"2006","type":"Journal Articles","key":"journals/tods/ShaftR06","doi":"10.1145/1166074.1166077","ee":"https://doi.org/10.1145/1166074.1166077","url":"https://dblp.org/rec/journals/tods/ShaftR06"},
+"url":"URL#3918695"
+},
+{
+"@score":"1",
+"@id":"3918696",
+"info":{"authors":{"author":[{"@pid":"83/820","text":"Feng Shao"},{"@pid":"80/2707","text":"Antal Novak"},{"@pid":"s/JShanmugasundaram","text":"Jayavel Shanmugasundaram"}]},"title":"Triggers over nested views of relational data.","venue":"ACM Trans. Database Syst.","volume":"31","number":"3","pages":"921-967","year":"2006","type":"Journal Articles","key":"journals/tods/ShaoNS06","doi":"10.1145/1166074.1166080","ee":"https://doi.org/10.1145/1166074.1166080","url":"https://dblp.org/rec/journals/tods/ShaoNS06"},
+"url":"URL#3918696"
+},
+{
+"@score":"1",
+"@id":"3918697",
+"info":{"authors":{"author":[{"@pid":"66/6868","text":"Vijayan Sugumaran"},{"@pid":"41/1781","text":"Veda C. Storey"}]},"title":"The role of domain ontologies in database design - An ontology management and conceptual modeling environment.","venue":"ACM Trans. Database Syst.","volume":"31","number":"3","pages":"1064-1094","year":"2006","type":"Journal Articles","key":"journals/tods/SugumaranS06","doi":"10.1145/1166074.1166083","ee":"https://doi.org/10.1145/1166074.1166083","url":"https://dblp.org/rec/journals/tods/SugumaranS06"},
+"url":"URL#3918697"
+},
+{
+"@score":"1",
+"@id":"3918698",
+"info":{"authors":{"author":[{"@pid":"30/4395","text":"Kesheng Wu"},{"@pid":"10/3587","text":"Ekow J. Otoo"},{"@pid":"s/ArieShoshani","text":"Arie Shoshani"}]},"title":"Optimizing bitmap indices with efficient compression.","venue":"ACM Trans. Database Syst.","volume":"31","number":"1","pages":"1-38","year":"2006","type":"Journal Articles","key":"journals/tods/WuOS06","doi":"10.1145/1132863.1132864","ee":"https://doi.org/10.1145/1132863.1132864","url":"https://dblp.org/rec/journals/tods/WuOS06"},
+"url":"URL#3918698"
+},
+{
+"@score":"1",
+"@id":"3918699",
+"info":{"authors":{"author":[{"@pid":"y/XifengYan","text":"Xifeng Yan"},{"@pid":"77/1985","text":"Feida Zhu 0001"},{"@pid":"y/PhilipSYu","text":"Philip S. Yu"},{"@pid":"h/JiaweiHan","text":"Jiawei Han 0001"}]},"title":"Feature-based similarity search in graph structures.","venue":"ACM Trans. Database Syst.","volume":"31","number":"4","pages":"1418-1453","year":"2006","type":"Journal Articles","key":"journals/tods/YanZYH06","doi":"10.1145/1189769.1189777","ee":"https://doi.org/10.1145/1189769.1189777","url":"https://dblp.org/rec/journals/tods/YanZYH06"},
+"url":"URL#3918699"
+}
+]
+}
+}
+}

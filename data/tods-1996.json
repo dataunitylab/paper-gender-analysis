@@ -1,0 +1,116 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"journals\"/\"tods\"/\"tods21\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"128.16"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"14",
+"@dc":"14",
+"@oc":"14",
+"@id":"17255825",
+"text":":facetid:toc:db/journals/tods/tods21.bht"
+}
+},
+"hits":{
+"@total":"14",
+"@computed":"14",
+"@sent":"14",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"4878464",
+"info":{"authors":{"author":[{"@pid":"77/5283","text":"Elena Baralis"},{"@pid":"c/StefanoCeri","text":"Stefano Ceri"},{"@pid":"05/600","text":"Stefano Paraboschi"}]},"title":"Modularization Techniques for Active Rules Design.","venue":"ACM Trans. Database Syst.","volume":"21","number":"1","pages":"1-29","year":"1996","type":"Journal Articles","key":"journals/tods/BaralisCP96","doi":"10.1145/227604.227605","ee":"https://doi.org/10.1145/227604.227605","url":"https://dblp.org/rec/journals/tods/BaralisCP96"},
+"url":"URL#4878464"
+},
+{
+"@score":"1",
+"@id":"4878465",
+"info":{"authors":{"author":[{"@pid":"54/1922","text":"Colin Bell"},{"@pid":"n/AnilNerode","text":"Anil Nerode"},{"@pid":"n/RTNg","text":"Raymond T. Ng"},{"@pid":"s/VSSubrahmanian","text":"V. S. Subrahmanian"}]},"title":"Implementing Deductive Databases by Mixed Integer Programming.","venue":"ACM Trans. Database Syst.","volume":"21","number":"2","pages":"238-269","year":"1996","type":"Journal Articles","key":"journals/tods/BellNNS96","doi":"10.1145/232616.232691","ee":"https://doi.org/10.1145/232616.232691","url":"https://dblp.org/rec/journals/tods/BellNNS96"},
+"url":"URL#4878465"
+},
+{
+"@score":"1",
+"@id":"4878466",
+"info":{"authors":{"author":[{"@pid":"b/PeterBuneman","text":"Peter Buneman"},{"@pid":"o/AtsushiOhori","text":"Atsushi Ohori"}]},"title":"Polymorphism and Type Inference in Database Programming.","venue":"ACM Trans. Database Syst.","volume":"21","number":"1","pages":"30-76","year":"1996","type":"Journal Articles","key":"journals/tods/BunemanO96","doi":"10.1145/227604.227609","ee":"https://doi.org/10.1145/227604.227609","url":"https://dblp.org/rec/journals/tods/BunemanO96"},
+"url":"URL#4878466"
+},
+{
+"@score":"1",
+"@id":"4878467",
+"info":{"authors":{"author":[{"@pid":"c/PaoloCiaccia","text":"Paolo Ciaccia"},{"@pid":"t/PaoloTiberio","text":"Paolo Tiberio"},{"@pid":"z/PZezula","text":"Pavel Zezula"}]},"title":"Declustering of Key-Based Partitioned Signature Files.","venue":"ACM Trans. Database Syst.","volume":"21","number":"3","pages":"295-338","year":"1996","type":"Journal Articles","key":"journals/tods/CiacciaTZ96","doi":"10.1145/232753.232755","ee":"https://doi.org/10.1145/232753.232755","url":"https://dblp.org/rec/journals/tods/CiacciaTZ96"},
+"url":"URL#4878467"
+},
+{
+"@score":"1",
+"@id":"4878468",
+"info":{"authors":{"author":[{"@pid":"25/6332","text":"Debabrata Dey"},{"@pid":"90/3807","text":"Sumit Sarkar"}]},"title":"A Probabilistic Relational Model and Algebra.","venue":"ACM Trans. Database Syst.","volume":"21","number":"3","pages":"339-369","year":"1996","type":"Journal Articles","key":"journals/tods/DeyS96","doi":"10.1145/232753.232796","ee":"https://doi.org/10.1145/232753.232796","url":"https://dblp.org/rec/journals/tods/DeyS96"},
+"url":"URL#4878468"
+},
+{
+"@score":"1",
+"@id":"4878469",
+"info":{"authors":{"author":[{"@pid":"g/SGhandeharizadeh","text":"Shahram Ghandeharizadeh"},{"@pid":"h/RichardHull","text":"Richard Hull 0001"},{"@pid":"96/2901","text":"Dean Jacobs"}]},"title":"Heraclitus - Elevating Deltas to be First-Class Citizens in a Database Programming Language.","venue":"ACM Trans. Database Syst.","volume":"21","number":"3","pages":"370-426","year":"1996","type":"Journal Articles","key":"journals/tods/GhandeharizadehHJ96","doi":"10.1145/232753.232801","ee":"https://doi.org/10.1145/232753.232801","url":"https://dblp.org/rec/journals/tods/GhandeharizadehHJ96"},
+"url":"URL#4878469"
+},
+{
+"@score":"1",
+"@id":"4878470",
+"info":{"authors":{"author":[{"@pid":"35/5899","text":"Sha Guo"},{"@pid":"09/5042-2","text":"Wei Sun 0002"},{"@pid":"w/MarkAllenWeiss","text":"Mark Allen Weiss"}]},"title":"Solving Satisfiability and Implication Problems in Database Systems.","venue":"ACM Trans. Database Syst.","volume":"21","number":"2","pages":"270-293","year":"1996","type":"Journal Articles","key":"journals/tods/GuoSW96","doi":"10.1145/232616.232692","ee":"https://doi.org/10.1145/232616.232692","url":"https://dblp.org/rec/journals/tods/GuoSW96"},
+"url":"URL#4878470"
+},
+{
+"@score":"1",
+"@id":"4878471",
+"info":{"authors":{"author":{"@pid":"88/1727","text":"Dean Kuo"}},"title":"Model and Verification of a Data Manager Based on ARIES.","venue":"ACM Trans. Database Syst.","volume":"21","number":"4","pages":"427-479","year":"1996","type":"Journal Articles","key":"journals/tods/Kuo96","doi":"10.1145/236711.236712","ee":"https://doi.org/10.1145/236711.236712","url":"https://dblp.org/rec/journals/tods/Kuo96"},
+"url":"URL#4878471"
+},
+{
+"@score":"1",
+"@id":"4878472",
+"info":{"authors":{"author":[{"@pid":"12/2734","text":"Witold Litwin"},{"@pid":"47/3267","text":"Marie-Anne Neimat"},{"@pid":"46/340","text":"Donovan A. Schneider"}]},"title":"LH* - A Scalable, Distributed Data Structure.","venue":"ACM Trans. Database Syst.","volume":"21","number":"4","pages":"480-525","year":"1996","type":"Journal Articles","key":"journals/tods/LitwinN96","doi":"10.1145/236711.236713","ee":"https://doi.org/10.1145/236711.236713","url":"https://dblp.org/rec/journals/tods/LitwinN96"},
+"url":"URL#4878472"
+},
+{
+"@score":"1",
+"@id":"4878473",
+"info":{"authors":{"author":[{"@pid":"181/2612","text":"Ling Liu"},{"@pid":"m/RobertMeersman","text":"Robert Meersman"}]},"title":"The Building Blocks for Specifying Communication Behavior of Complex Objects - An Activity-Driven Approach.","venue":"ACM Trans. Database Syst.","volume":"21","number":"2","pages":"157-207","year":"1996","type":"Journal Articles","key":"journals/tods/LiuM96","doi":"10.1145/232616.232622","ee":"https://doi.org/10.1145/232616.232622","url":"https://dblp.org/rec/journals/tods/LiuM96"},
+"url":"URL#4878473"
+},
+{
+"@score":"1",
+"@id":"4878474",
+"info":{"authors":{"author":[{"@pid":"m/WaiYinMok","text":"Wai Yin Mok"},{"@pid":"08/4453","text":"Yiu-Kai Ng"},{"@pid":"e/DWEmbley","text":"David W. Embley"}]},"title":"A Normal Form for Precisely Characterizing Redundancy in Nested Relations.","venue":"ACM Trans. Database Syst.","volume":"21","number":"1","pages":"77-106","year":"1996","type":"Journal Articles","key":"journals/tods/MokNE96","doi":"10.1145/227604.227612","ee":"https://doi.org/10.1145/227604.227612","url":"https://dblp.org/rec/journals/tods/MokNE96"},
+"url":"URL#4878474"
+},
+{
+"@score":"1",
+"@id":"4878475",
+"info":{"authors":{"author":[{"@pid":"m/ISMumick","text":"Inderpal Singh Mumick"},{"@pid":"87/6811","text":"Sheldon J. Finkelstein"},{"@pid":"p/HamidPirahesh","text":"Hamid Pirahesh"},{"@pid":"r/RaghuRamakrishnan","text":"Raghu Ramakrishnan"}]},"title":"Magic Conditions.","venue":"ACM Trans. Database Syst.","volume":"21","number":"1","pages":"107-155","year":"1996","type":"Journal Articles","key":"journals/tods/MumickFPR96","doi":"10.1145/227604.227624","ee":"https://doi.org/10.1145/227604.227624","url":"https://dblp.org/rec/journals/tods/MumickFPR96"},
+"url":"URL#4878475"
+},
+{
+"@score":"1",
+"@id":"4878476",
+"info":{"authors":{"author":[{"@pid":"r/LouiqaRaschid","text":"Louiqa Raschid"},{"@pid":"l/JorgeLobo1","text":"Jorge Lobo 0001"}]},"title":"Semantics for Update Rule Programs and Implementations in a Relational Database Management System.","venue":"ACM Trans. Database Syst.","volume":"21","number":"4","pages":"526-571","year":"1996","type":"Journal Articles","key":"journals/tods/RaschidL96","doi":"10.1145/236711.236714","ee":"https://doi.org/10.1145/236711.236714","url":"https://dblp.org/rec/journals/tods/RaschidL96"},
+"url":"URL#4878476"
+},
+{
+"@score":"1",
+"@id":"4878477",
+"info":{"authors":{"author":{"@pid":"r/KARoss","text":"Kenneth A. Ross"}},"title":"Tail Recursion Elimination in Deductive Databases.","venue":"ACM Trans. Database Syst.","volume":"21","number":"2","pages":"208-237","year":"1996","type":"Journal Articles","key":"journals/tods/Ross96","doi":"10.1145/232616.232628","ee":"https://doi.org/10.1145/232616.232628","url":"https://dblp.org/rec/journals/tods/Ross96"},
+"url":"URL#4878477"
+}
+]
+}
+}
+}

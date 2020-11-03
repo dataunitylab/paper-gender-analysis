@@ -1,0 +1,482 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"cidr\"/\"cidr2017\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"110.81"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"75",
+"@dc":"75",
+"@oc":"75",
+"@id":"17172747",
+"text":":facetid:toc:db/conf/cidr/cidr2017.bht"
+}
+},
+"hits":{
+"@total":"75",
+"@computed":"75",
+"@sent":"75",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"1191469",
+"info":{"authors":{"author":{"@pid":"28/568","text":"Arnab Nandi 0001"}},"title":"Casual Querying - Facilitating Information Dissemination in Ad-hoc Environments.","venue":"CIDR","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/000117","ee":"http://cidrdb.org/cidr2017/gongshow/abstracts/cidr2017_76.pdf","url":"https://dblp.org/rec/conf/cidr/000117"},
+"url":"URL#1191469"
+},
+{
+"@score":"1",
+"@id":"1191470",
+"info":{"authors":{"author":{"@pid":"41/3679","text":"Eugene Wu 0002"}},"title":"CIDR - Chat-oriented Innovations in Database Research.","venue":"CIDR","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/000217","ee":"http://cidrdb.org/cidr2017/gongshow/abstracts/cidr2017_109.pdf","url":"https://dblp.org/rec/conf/cidr/000217"},
+"url":"URL#1191470"
+},
+{
+"@score":"1",
+"@id":"1191471",
+"info":{"authors":{"author":{"@pid":"a/OmarAlonso","text":"Omar Alonso"}},"title":"Event Evolution and Archiving.","venue":"CIDR","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/Alonso17","ee":"http://cidrdb.org/cidr2017/gongshow/abstracts/cidr2017_117.pdf","url":"https://dblp.org/rec/conf/cidr/Alonso17"},
+"url":"URL#1191471"
+},
+{
+"@score":"1",
+"@id":"1191472",
+"info":{"authors":{"author":{"@pid":"25/4106","text":"Peter Alvaro"}},"title":"GeneralStore - Declarative Programmable Storage.","venue":"CIDR","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/Alvaro17","ee":"http://cidrdb.org/cidr2017/gongshow/abstracts/cidr2017_113.pdf","url":"https://dblp.org/rec/conf/cidr/Alvaro17"},
+"url":"URL#1191472"
+},
+{
+"@score":"1",
+"@id":"1191473",
+"info":{"authors":{"author":[{"@pid":"57/1978","text":"Raja Appuswamy"},{"@pid":"41/9728","text":"Manos Karpathiotakis"},{"@pid":"69/9726","text":"Danica Porobic"},{"@pid":"a/AnastassiaAilamaki","text":"Anastasia Ailamaki"}]},"title":"The Case For Heterogeneous HTAP.","venue":"CIDR","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/AppuswamyKPA17","ee":"http://cidrdb.org/cidr2017/papers/p21-appuswamy-cidr17.pdf","url":"https://dblp.org/rec/conf/cidr/AppuswamyKPA17"},
+"url":"URL#1191473"
+},
+{
+"@score":"1",
+"@id":"1191474",
+"info":{"authors":{"author":{"@pid":"82/7402","text":"Manos Athanassoulis"}},"title":"Secure Data Systems and Performance - Friends or Foe?","venue":"CIDR","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/Athanassoulis17","ee":"http://cidrdb.org/cidr2017/gongshow/abstracts/cidr2017_61.pdf","url":"https://dblp.org/rec/conf/cidr/Athanassoulis17"},
+"url":"URL#1191474"
+},
+{
+"@score":"1",
+"@id":"1191475",
+"info":{"authors":{"author":[{"@pid":"47/8816","text":"Peter Bailis"},{"@pid":"95/11514","text":"Edward Gan"},{"@pid":"192/4560","text":"Kexin Rong"},{"@pid":"167/9443","text":"Sahaana Suri"}]},"title":"Prioritizing Attention in Analytic Monitoring.","venue":"CIDR","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/BailisGRS17","ee":"http://cidrdb.org/cidr2017/papers/p103-bailis-cidr17.pdf","url":"https://dblp.org/rec/conf/cidr/BailisGRS17"},
+"url":"URL#1191475"
+},
+{
+"@score":"1",
+"@id":"1191476",
+"info":{"authors":{"author":[{"@pid":"b/MagdalenaBalazinska","text":"Magdalena Balazinska"},{"@pid":"95/5263","text":"Luis Ceze"},{"@pid":"16/4915","text":"Alvin Cheung"},{"@pid":"c/BrianCurless","text":"Brian Curless"},{"@pid":"s/StevenMSeitz","text":"Steven M. Seitz"}]},"title":"A Visual Cloud for Virtual Reality Applications.","venue":"CIDR","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/BalazinskaCCCS17","ee":"http://cidrdb.org/cidr2017/gongshow/abstracts/cidr2017_94.pdf","url":"https://dblp.org/rec/conf/cidr/BalazinskaCCCS17"},
+"url":"URL#1191476"
+},
+{
+"@score":"1",
+"@id":"1191477",
+"info":{"authors":{"author":[{"@pid":"33/3527","text":"Ronald Barber"},{"@pid":"96/122","text":"Christian Garcia-Arellano"},{"@pid":"192/4573","text":"Ronen Grosman"},{"@pid":"m/ReneMuller","text":"René Müller 0001"},{"@pid":"r/VijayshankarRaman","text":"Vijayshankar Raman"},{"@pid":"84/3614","text":"Richard Sidle"},{"@pid":"192/4569","text":"Matt Spilchen"},{"@pid":"16/5412","text":"Adam J. Storm"},{"@pid":"27/3375","text":"Yuanyuan Tian"},{"@pid":"86/9726","text":"Pinar Tözün"},{"@pid":"60/6783","text":"Daniel C. Zilio"},{"@pid":"181/5812","text":"Matt Huras"},{"@pid":"21/2457","text":"Guy M. Lohman"},{"@pid":"m/CMohan","text":"Chandrasekaran Mohan"},{"@pid":"o/FatmaOzcan","text":"Fatma Özcan"},{"@pid":"p/HamidPirahesh","text":"Hamid Pirahesh"}]},"title":"Evolving Databases for New-Gen Big Data Applications.","venue":"CIDR","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/BarberGGMRSSSTT17","ee":"http://cidrdb.org/cidr2017/papers/p123-barber-cidr17.pdf","url":"https://dblp.org/rec/conf/cidr/BarberGGMRSSSTT17"},
+"url":"URL#1191477"
+},
+{
+"@score":"1",
+"@id":"1191478",
+"info":{"authors":{"author":[{"@pid":"b/PhilipABernstein","text":"Philip A. Bernstein"},{"@pid":"01/4316-1","text":"Mohammad Dashti 0001"},{"@pid":"62/7536","text":"Tim Kiefer"},{"@pid":"m/DavidMaier","text":"David Maier 0001"}]},"title":"Indexing in an Actor-Oriented Database.","venue":"CIDR","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/BernsteinDKM17","ee":"http://cidrdb.org/cidr2017/papers/p29-bernstein-cidr17.pdf","url":"https://dblp.org/rec/conf/cidr/BernsteinDKM17"},
+"url":"URL#1191478"
+},
+{
+"@score":"1",
+"@id":"1191479",
+"info":{"authors":{"author":[{"@pid":"45/1559","text":"Carsten Binnig"},{"@pid":"37/7414","text":"Lorenzo De Stefani"},{"@pid":"26/6037","text":"Tim Kraska"},{"@pid":"u/EliUpfal","text":"Eli Upfal"},{"@pid":"153/7539","text":"Emanuel Zgraggen"},{"@pid":"178/4816","text":"Zheguang Zhao"}]},"title":"Toward Sustainable Insights, or Why Polygamy is Bad for You.","venue":"CIDR","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/BinnigSKUZZ17","ee":"http://cidrdb.org/cidr2017/papers/p56-binnig-cidr17.pdf","url":"https://dblp.org/rec/conf/cidr/BinnigSKUZZ17"},
+"url":"URL#1191479"
+},
+{
+"@score":"1",
+"@id":"1191480",
+"info":{"authors":{"author":{"@pid":"65/5338","text":"Spyros Blanas"}},"title":"Query processing for datacenter-scale computers.","venue":"CIDR","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/Blanas17","ee":"http://cidrdb.org/cidr2017/gongshow/abstracts/cidr2017_110.pdf","url":"https://dblp.org/rec/conf/cidr/Blanas17"},
+"url":"URL#1191480"
+},
+{
+"@score":"1",
+"@id":"1191481",
+"info":{"authors":{"author":{"@pid":"b/PBonnet","text":"Philippe Bonnet"}},"title":"What&apos;s Up with the Storage Hierarchy?","venue":"CIDR","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/Bonnet17","ee":"http://cidrdb.org/cidr2017/gongshow/abstracts/cidr2017_80.pdf","url":"https://dblp.org/rec/conf/cidr/Bonnet17"},
+"url":"URL#1191481"
+},
+{
+"@score":"1",
+"@id":"1191482",
+"info":{"authors":{"author":{"@pid":"b/ChristophBussler","text":"Christoph Bussler"}},"title":"SQL for NoSQL Databases - Deja Vu (Part 2).","venue":"CIDR","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/Bussler17","ee":"http://cidrdb.org/cidr2017/gongshow/abstracts/cidr2017_6.pdf","url":"https://dblp.org/rec/conf/cidr/Bussler17"},
+"url":"URL#1191482"
+},
+{
+"@score":"1",
+"@id":"1191483",
+"info":{"authors":{"author":{"@pid":"71/4417","text":"Mark Callaghan"}},"title":"How to Talk to People at Conferences.","venue":"CIDR","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/Callaghan17","url":"https://dblp.org/rec/conf/cidr/Callaghan17"},
+"url":"URL#1191483"
+},
+{
+"@score":"1",
+"@id":"1191484",
+"info":{"authors":{"author":[{"@pid":"01/2861","text":"Badrish Chandramouli"},{"@pid":"g/JohannesGehrke","text":"Johannes Gehrke"},{"@pid":"g/JonathanGoldstein","text":"Jonathan Goldstein"},{"@pid":"k/DonaldKossmann","text":"Donald Kossmann"},{"@pid":"02/3658","text":"Justin J. Levandoski"},{"@pid":"173/9193","text":"Renato Marroquin"},{"@pid":"70/8577","text":"Wenlei Xie"}]},"title":"READY - Completeness is in the Eye of the Beholder.","venue":"CIDR","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/ChandramouliGGK17","ee":"http://cidrdb.org/cidr2017/papers/p18-chandramouli-cidr17.pdf","url":"https://dblp.org/rec/conf/cidr/ChandramouliGGK17"},
+"url":"URL#1191484"
+},
+{
+"@score":"1",
+"@id":"1191485",
+"info":{"authors":{"author":[{"@pid":"59/146","text":"Ang Chen"},{"@pid":"56/1428","text":"Yang Wu"},{"@pid":"60/4358","text":"Andreas Haeberlen"},{"@pid":"75/3108","text":"Boon Thau Loo"},{"@pid":"72/1077","text":"Wenchao Zhou"}]},"title":"Data Provenance at Internet Scale - Architecture, Experiences, and the Road Ahead.","venue":"CIDR","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/ChenWHLZ17","ee":"http://cidrdb.org/cidr2017/papers/p36-chen-cidr17.pdf","url":"https://dblp.org/rec/conf/cidr/ChenWHLZ17"},
+"url":"URL#1191485"
+},
+{
+"@score":"1",
+"@id":"1191486",
+"info":{"authors":{"author":[{"@pid":"29/9582","text":"Shumo Chu"},{"@pid":"94/9817","text":"Chenglong Wang"},{"@pid":"132/8683","text":"Konstantin Weitz"},{"@pid":"16/4915","text":"Alvin Cheung"}]},"title":"Cosette - An Automated Prover for SQL.","venue":"CIDR","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/ChuWWC17","ee":"http://cidrdb.org/cidr2017/papers/p51-chu-cidr17.pdf","url":"https://dblp.org/rec/conf/cidr/ChuWWC17"},
+"url":"URL#1191486"
+},
+{
+"@score":"1",
+"@id":"1191487",
+"info":{"authors":{"author":{"@pid":"83/802","text":"Olivier Curé"}},"title":"On the design of a Globally Distributed, Locally Compressed Knowledge Base System.","venue":"CIDR","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/Cure17","ee":"http://cidrdb.org/cidr2017/gongshow/abstracts/cidr2017_129.pdf","url":"https://dblp.org/rec/conf/cidr/Cure17"},
+"url":"URL#1191487"
+},
+{
+"@score":"1",
+"@id":"1191488",
+"info":{"authors":{"author":{"@pid":"178/3190","text":"Kathryn Dahlgren"}},"title":"Dial M for Management - Next Generation NoSQL.","venue":"CIDR","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/Dahlgren17","ee":"http://cidrdb.org/cidr2017/gongshow/abstracts/cidr2017_74.pdf","url":"https://dblp.org/rec/conf/cidr/Dahlgren17"},
+"url":"URL#1191488"
+},
+{
+"@score":"1",
+"@id":"1191489",
+"info":{"authors":{"author":[{"@pid":"d/SBDavidson","text":"Susan B. Davidson"},{"@pid":"98/6876","text":"Daniel Deutch"},{"@pid":"m/TovaMilo","text":"Tova Milo"},{"@pid":"71/3148","text":"Gianmaria Silvello"}]},"title":"A Model for Fine-Grained Data Citation.","venue":"CIDR","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/DavidsonDMS17","ee":"http://cidrdb.org/cidr2017/papers/p19-davidson-cidr17.pdf","url":"https://dblp.org/rec/conf/cidr/DavidsonDMS17"},
+"url":"URL#1191489"
+},
+{
+"@score":"1",
+"@id":"1191490",
+"info":{"authors":{"author":[{"@pid":"71/8700","text":"Dong Deng"},{"@pid":"131/4202","text":"Raul Castro Fernandez"},{"@pid":"38/8707","text":"Ziawasch Abedjan"},{"@pid":"131/6529-1","text":"Sibo Wang 0001"},{"@pid":"s/MichaelStonebraker","text":"Michael Stonebraker"},{"@pid":"e/AKElmagarmid","text":"Ahmed K. Elmagarmid"},{"@pid":"i/IhabFIlyas","text":"Ihab F. Ilyas"},{"@pid":"m/SamuelMadden","text":"Samuel Madden"},{"@pid":"o/MouradOuzzani","text":"Mourad Ouzzani"},{"@pid":"27/104-1","text":"Nan Tang 0001"}]},"title":"The Data Civilizer System.","venue":"CIDR","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/DengFAWSEIMO017","ee":"http://cidrdb.org/cidr2017/papers/p44-deng-cidr17.pdf","url":"https://dblp.org/rec/conf/cidr/DengFAWSEIMO017"},
+"url":"URL#1191490"
+},
+{
+"@score":"1",
+"@id":"1191491",
+"info":{"authors":{"author":{"@pid":"d/AnHaiDoan","text":"AnHai Doan"}},"title":"What is Our Agenda for Data Science?","venue":"CIDR","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/Doan17","ee":"http://cidrdb.org/cidr2017/gongshow/abstracts/cidr2017_114.pdf","url":"https://dblp.org/rec/conf/cidr/Doan17"},
+"url":"URL#1191491"
+},
+{
+"@score":"1",
+"@id":"1191492",
+"info":{"authors":{"author":[{"@pid":"144/6245","text":"Siying Dong"},{"@pid":"71/4417","text":"Mark Callaghan"},{"@pid":"43/578","text":"Leonidas Galanis"},{"@pid":"51/8165","text":"Dhruba Borthakur"},{"@pid":"62/65","text":"Tony Savor"},{"@pid":"192/4556","text":"Michael Strum"}]},"title":"Optimizing Space Amplification in RocksDB.","venue":"CIDR","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/DongCGBSS17","ee":"http://cidrdb.org/cidr2017/papers/p82-dong-cidr17.pdf","url":"https://dblp.org/rec/conf/cidr/DongCGBSS17"},
+"url":"URL#1191492"
+},
+{
+"@score":"1",
+"@id":"1191493",
+"info":{"authors":{"author":[{"@pid":"143/4704","text":"Tarek Elgamal"},{"@pid":"147/1166","text":"Shangyu Luo"},{"@pid":"75/887","text":"Matthias Boehm 0001"},{"@pid":"e/AlexandreVEvfimievski","text":"Alexandre V. Evfimievski"},{"@pid":"35/3834","text":"Shirish Tatikonda"},{"@pid":"76/3381","text":"Berthold Reinwald"},{"@pid":"58/1388","text":"Prithviraj Sen"}]},"title":"SPOOF - Sum-Product Optimization and Operator Fusion for Large-Scale Machine Learning.","venue":"CIDR","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/ElgamalLBETRS17","ee":"http://cidrdb.org/cidr2017/papers/p3-elgamal-cidr17.pdf","url":"https://dblp.org/rec/conf/cidr/ElgamalLBETRS17"},
+"url":"URL#1191493"
+},
+{
+"@score":"1",
+"@id":"1191494",
+"info":{"authors":{"author":[{"@pid":"147/1195","text":"Jose M. Faleiro"},{"@pid":"a/DJAbadi","text":"Daniel J. Abadi"}]},"title":"Latch-free Synchronization in Database Systems - Silver Bullet or Fool&apos;s Gold?","venue":"CIDR","pages":"9-","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/FaleiroA17","ee":"http://cidrdb.org/cidr2017/papers/p121-faleiro-cidr17.pdf","url":"https://dblp.org/rec/conf/cidr/FaleiroA17"},
+"url":"URL#1191494"
+},
+{
+"@score":"1",
+"@id":"1191495",
+"info":{"authors":{"author":{"@pid":"81/7344","text":"Lance Feagan"}},"title":"In Database We Trust?","venue":"CIDR","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/Feagan17","ee":"http://cidrdb.org/cidr2017/gongshow/abstracts/cidr2017_89.pdf","url":"https://dblp.org/rec/conf/cidr/Feagan17"},
+"url":"URL#1191495"
+},
+{
+"@score":"1",
+"@id":"1191496",
+"info":{"authors":{"author":{"@pid":"f/MJFranklin","text":"Mike Franklin"}},"title":"Mike Franklin Spits Fire.","venue":"CIDR","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/Franklin17","url":"https://dblp.org/rec/conf/cidr/Franklin17"},
+"url":"URL#1191496"
+},
+{
+"@score":"1",
+"@id":"1191497",
+"info":{"authors":{"author":{"@pid":"10/5842","text":"Michael N. Gubanov"}},"title":"Hybrid - A Large-scale In-memory Image Analytics Engine.","venue":"CIDR","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/Gubanov17","ee":"http://cidrdb.org/cidr2017/gongshow/abstracts/cidr2017_47.pdf","url":"https://dblp.org/rec/conf/cidr/Gubanov17"},
+"url":"URL#1191497"
+},
+{
+"@score":"1",
+"@id":"1191498",
+"info":{"authors":{"author":[{"@pid":"192/4571","text":"Shengna Guo"},{"@pid":"m/XiaofengMeng-1","text":"Xiaofeng Meng 0001"}]},"title":"Density Peaks Clustering with Differential Privacy.","venue":"CIDR","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/GuoM17","ee":"http://cidrdb.org/cidr2017/gongshow/abstracts/cidr2017_14.pdf","url":"https://dblp.org/rec/conf/cidr/GuoM17"},
+"url":"URL#1191498"
+},
+{
+"@score":"1",
+"@id":"1191499",
+"info":{"authors":{"author":{"@pid":"54/10502","text":"Souleiman Hasan"}},"title":"NoSym - Non-Symbolic Databases for Data Decoupling.","venue":"CIDR","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/Hasan17","ee":"http://cidrdb.org/cidr2017/gongshow/abstracts/cidr2017_25.pdf","url":"https://dblp.org/rec/conf/cidr/Hasan17"},
+"url":"URL#1191499"
+},
+{
+"@score":"1",
+"@id":"1191500",
+"info":{"authors":{"author":{"@pid":"h/ThomasHeinis","text":"Thomas Heinis"}},"title":"Neuromorphic Hardware As Database Co-Processors.","venue":"CIDR","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/Heinis17","ee":"http://cidrdb.org/cidr2017/gongshow/abstracts/cidr2017_77.pdf","url":"https://dblp.org/rec/conf/cidr/Heinis17"},
+"url":"URL#1191500"
+},
+{
+"@score":"1",
+"@id":"1191501",
+"info":{"authors":{"author":[{"@pid":"h/JosephMHellerstein","text":"Joseph M. Hellerstein"},{"@pid":"192/4561","text":"Vikram Sreekanti"},{"@pid":"61/8262","text":"Joseph E. Gonzalez"},{"@pid":"141/2348","text":"James Dalton"},{"@pid":"135/4671","text":"Akon Dey"},{"@pid":"192/4552","text":"Sreyashi Nag"},{"@pid":"01/3255","text":"Krishna Ramachandran"},{"@pid":"192/4893","text":"Sudhanshu Arora"},{"@pid":"192/4545","text":"Arka Bhattacharyya"},{"@pid":"69/123","text":"Shirshanka Das"},{"@pid":"192/4555","text":"Mark Donsky"},{"@pid":"173/8184","text":"Gabriel Fierro"},{"@pid":"192/4554","text":"Chang She"},{"@pid":"192/4568","text":"Carl Steinbach"},{"@pid":"35/3051","text":"Venkat Subramanian"},{"@pid":"78/8023","text":"Eric Sun"}]},"title":"Ground - A Data Context Service.","venue":"CIDR","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/HellersteinSGSA17","ee":"http://cidrdb.org/cidr2017/papers/p111-hellerstein-cidr17.pdf","url":"https://dblp.org/rec/conf/cidr/HellersteinSGSA17"},
+"url":"URL#1191501"
+},
+{
+"@score":"1",
+"@id":"1191502",
+"info":{"authors":{"author":{"@pid":"i/StratosIdreos","text":"Stratos Idreos"}},"title":"The Automatic Scientist will be a Data System.","venue":"CIDR","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/Idreos17","ee":"http://cidrdb.org/cidr2017/gongshow/abstracts/cidr2017_67.pdf","url":"https://dblp.org/rec/conf/cidr/Idreos17"},
+"url":"URL#1191502"
+},
+{
+"@score":"1",
+"@id":"1191503",
+"info":{"authors":{"author":[{"@pid":"168/1627","text":"Rogers Jeffrey Leo John"},{"@pid":"162/3654","text":"Navneet Potti"},{"@pid":"p/JMPatel","text":"Jignesh M. Patel"}]},"title":"Ava - From Data to Insights Through Conversations.","venue":"CIDR","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/JohnPP17","ee":"http://cidrdb.org/cidr2017/papers/p87-john-cidr17.pdf","url":"https://dblp.org/rec/conf/cidr/JohnPP17"},
+"url":"URL#1191503"
+},
+{
+"@score":"1",
+"@id":"1191504",
+"info":{"authors":{"author":{"@pid":"29/10735","text":"Manohar Kaul"}},"title":"Elementary, dear Watson!","venue":"CIDR","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/Kaul17","ee":"http://cidrdb.org/cidr2017/gongshow/abstracts/cidr2017_66.pdf","url":"https://dblp.org/rec/conf/cidr/Kaul17"},
+"url":"URL#1191504"
+},
+{
+"@score":"1",
+"@id":"1191505",
+"info":{"authors":{"author":{"@pid":"75/5478","text":"Oliver Kennedy"}},"title":"Stop the Truthiness and Just Be Wrong.","venue":"CIDR","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/Kennedy17","ee":"http://cidrdb.org/cidr2017/gongshow/abstracts/cidr2017_88.pdf","url":"https://dblp.org/rec/conf/cidr/Kennedy17"},
+"url":"URL#1191505"
+},
+{
+"@score":"1",
+"@id":"1191506",
+"info":{"authors":{"author":[{"@pid":"k/MartinLKersten","text":"Martin L. Kersten"},{"@pid":"01/4876","text":"Lefteris Sidirourgos"}]},"title":"A Database System with Amnesia.","venue":"CIDR","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/KerstenS17","ee":"http://cidrdb.org/cidr2017/papers/p58-kersten-cidr17.pdf","url":"https://dblp.org/rec/conf/cidr/KerstenS17"},
+"url":"URL#1191506"
+},
+{
+"@score":"1",
+"@id":"1191507",
+"info":{"authors":{"author":[{"@pid":"98/5721","text":"Hideaki Kimura"},{"@pid":"s/ASimitsis","text":"Alkis Simitsis"},{"@pid":"w/KevinWilkinson","text":"Kevin Wilkinson"}]},"title":"Janus - Transaction Processing of Navigation and Analytic Graph Queries on Many-core Servers.","venue":"CIDR","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/KimuraSW17","ee":"http://cidrdb.org/cidr2017/papers/p104-kimura-cidr17.pdf","url":"https://dblp.org/rec/conf/cidr/KimuraSW17"},
+"url":"URL#1191507"
+},
+{
+"@score":"1",
+"@id":"1191508",
+"info":{"authors":{"author":{"@pid":"147/1189","text":"Sanjay Krishnan"}},"title":"RLEX - Saftey and Data Quality in Reinforcement Learning-based and Adaptive Systems.","venue":"CIDR","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/Krishnan17","ee":"http://cidrdb.org/cidr2017/gongshow/abstracts/cidr2017_92.pdf","url":"https://dblp.org/rec/conf/cidr/Krishnan17"},
+"url":"URL#1191508"
+},
+{
+"@score":"1",
+"@id":"1191509",
+"info":{"authors":{"author":{"@pid":"30/4308","text":"Arun Kumar"}},"title":"CEREBRO - A System to Manage Deep Learning for Relational Data Analytics.","venue":"CIDR","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/Kumar17","ee":"http://cidrdb.org/cidr2017/gongshow/abstracts/cidr2017_38.pdf","url":"https://dblp.org/rec/conf/cidr/Kumar17"},
+"url":"URL#1191509"
+},
+{
+"@score":"1",
+"@id":"1191510",
+"info":{"authors":{"author":[{"@pid":"10/11150","text":"Viktor Leis"},{"@pid":"219/9678","text":"Bernhard Radke"},{"@pid":"01/8701","text":"Andrey Gubichev"},{"@pid":"k/AlfonsKemper","text":"Alfons Kemper"},{"@pid":"n/ThomasNeumann","text":"Thomas Neumann 0001"}]},"title":"Cardinality Estimation Done Right - Index-Based Join Sampling.","venue":"CIDR","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/LeisRGK017","ee":"http://cidrdb.org/cidr2017/papers/p9-leis-cidr17.pdf","url":"https://dblp.org/rec/conf/cidr/LeisRGK017"},
+"url":"URL#1191510"
+},
+{
+"@score":"1",
+"@id":"1191511",
+"info":{"authors":{"author":{"@pid":"82/11411","text":"Chunbin Lin"}},"title":"Answer yes/no queries in search engines.","venue":"CIDR","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/Lin17","ee":"http://cidrdb.org/cidr2017/gongshow/abstracts/cidr2017_10.pdf","url":"https://dblp.org/rec/conf/cidr/Lin17"},
+"url":"URL#1191511"
+},
+{
+"@score":"1",
+"@id":"1191512",
+"info":{"authors":{"author":{"@pid":"l/JiahengLu","text":"Jiaheng Lu"}},"title":"Towards Benchmarking Multi-Model Databases.","venue":"CIDR","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/Lu17","ee":"http://cidrdb.org/cidr2017/gongshow/abstracts/cidr2017_20.pdf","url":"https://dblp.org/rec/conf/cidr/Lu17"},
+"url":"URL#1191512"
+},
+{
+"@score":"1",
+"@id":"1191513",
+"info":{"authors":{"author":{"@pid":"m/SamuelMadden","text":"Samuel Madden"}},"title":"We Are Boring.","venue":"CIDR","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/Madden17","ee":"http://cidrdb.org/cidr2017/gongshow/abstracts/cidr2017_64.pdf","url":"https://dblp.org/rec/conf/cidr/Madden17"},
+"url":"URL#1191513"
+},
+{
+"@score":"1",
+"@id":"1191514",
+"info":{"authors":{"author":[{"@pid":"175/1473","text":"Ryan Marcus"},{"@pid":"37/3024","text":"Olga Papaemmanouil"}]},"title":"Releasing Cloud Databases for the Chains of Performance Prediction Models.","venue":"CIDR","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/MarcusP17","ee":"http://cidrdb.org/cidr2017/papers/p85-marcus-cidr17.pdf","url":"https://dblp.org/rec/conf/cidr/MarcusP17"},
+"url":"URL#1191514"
+},
+{
+"@score":"1",
+"@id":"1191515",
+"info":{"authors":{"author":[{"@pid":"56/794","text":"Tim Mattson"},{"@pid":"86/7615","text":"Vijay Gadepally"},{"@pid":"191/0557","text":"Zuohao She"},{"@pid":"191/0540","text":"Adam Dziedzic"},{"@pid":"99/1163","text":"Jeff Parkhurst"}]},"title":"Demonstrating the BigDAWG Polystore System for Ocean Metagenomics Analysis.","venue":"CIDR","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/MattsonGSDP17","ee":"http://cidrdb.org/cidr2017/papers/p120-mattson-cidr17.pdf","url":"https://dblp.org/rec/conf/cidr/MattsonGSDP17"},
+"url":"URL#1191515"
+},
+{
+"@score":"1",
+"@id":"1191516",
+"info":{"authors":{"author":[{"@pid":"153/5383","text":"Ruslan Mavlyutov"},{"@pid":"c/CarloCurino","text":"Carlo Curino"},{"@pid":"192/4559","text":"Boris Asipov"},{"@pid":"71/5578","text":"Philippe Cudré-Mauroux"}]},"title":"Dependency-Driven Analytics - A Compass for Uncharted Data Oceans.","venue":"CIDR","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/MavlyutovCAC17","ee":"http://cidrdb.org/cidr2017/papers/p59-mavlyutov-cidr17.pdf","url":"https://dblp.org/rec/conf/cidr/MavlyutovCAC17"},
+"url":"URL#1191516"
+},
+{
+"@score":"1",
+"@id":"1191517",
+"info":{"authors":{"author":[{"@pid":"149/5905","text":"John Meehan"},{"@pid":"160/8827","text":"Cansu Aslantas"},{"@pid":"z/SBZdonik","text":"Stan Zdonik"},{"@pid":"t/NesimeTatbul","text":"Nesime Tatbul"},{"@pid":"32/724-1","text":"Jiang Du 0001"}]},"title":"Data Ingestion for the Connected World.","venue":"CIDR","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/MeehanAZT17","ee":"http://cidrdb.org/cidr2017/papers/p124-meehan-cidr17.pdf","url":"https://dblp.org/rec/conf/cidr/MeehanAZT17"},
+"url":"URL#1191517"
+},
+{
+"@score":"1",
+"@id":"1191518",
+"info":{"authors":{"author":{"@pid":"m/SebastianMichel","text":"Sebastian Michel 0001"}},"title":"Playing Information LEGO at Large Scale.","venue":"CIDR","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/Michel17","ee":"http://cidrdb.org/cidr2017/gongshow/abstracts/cidr2017_60.pdf","url":"https://dblp.org/rec/conf/cidr/Michel17"},
+"url":"URL#1191518"
+},
+{
+"@score":"1",
+"@id":"1191519",
+"info":{"authors":{"author":[{"@pid":"45/2495","text":"Barzan Mozafari"},{"@pid":"181/4758","text":"Jags Ramnarayan"},{"@pid":"181/4742","text":"Sudhir Menon"},{"@pid":"61/7207","text":"Yogesh Mahajan"},{"@pid":"31/2092","text":"Soubhik Chakraborty"},{"@pid":"181/4727","text":"Hemant Bhanawat"},{"@pid":"181/5825","text":"Kishor Bachhav"}]},"title":"SnappyData - A Unified Cluster for Streaming, Transactions and Interactice Analytics.","venue":"CIDR","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/MozafariRMMCBB17","ee":"http://cidrdb.org/cidr2017/papers/p28-mozafari-cidr17.pdf","url":"https://dblp.org/rec/conf/cidr/MozafariRMMCBB17"},
+"url":"URL#1191519"
+},
+{
+"@score":"1",
+"@id":"1191520",
+"info":{"authors":{"author":[{"@pid":"168/9023","text":"Shoumik Palkar"},{"@pid":"t/JamesJThomas","text":"James J. Thomas"},{"@pid":"149/5876","text":"Anil Shanbhag"},{"@pid":"49/7988","text":"Malte Schwarzkopf"},{"@pid":"a/SPAmarasinghe","text":"Saman P. Amarasinghe"},{"@pid":"36/2133","text":"Matei Zaharia"}]},"title":"A Common Runtime for High Performance Data Analysis.","venue":"CIDR","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/PalkarTSSAZ17","ee":"http://cidrdb.org/cidr2017/papers/p127-palkar-cidr17.pdf","url":"https://dblp.org/rec/conf/cidr/PalkarTSSAZ17"},
+"url":"URL#1191520"
+},
+{
+"@score":"1",
+"@id":"1191521",
+"info":{"authors":{"author":{"@pid":"79/583","text":"Yongjoo Park"}},"title":"Active Database Learning.","venue":"CIDR","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/Park17","ee":"http://cidrdb.org/cidr2017/gongshow/abstracts/cidr2017_54.pdf","url":"https://dblp.org/rec/conf/cidr/Park17"},
+"url":"URL#1191521"
+},
+{
+"@score":"1",
+"@id":"1191522",
+"info":{"authors":{"author":[{"@pid":"58/4127","text":"Andrew Pavlo"},{"@pid":"118/6502","text":"Gustavo Angulo"},{"@pid":"127/3025","text":"Joy Arulraj"},{"@pid":"142/1829","text":"Haibin Lin"},{"@pid":"19/3721","text":"Jiexi Lin"},{"@pid":"74/3608-6","text":"Lin Ma 0006"},{"@pid":"145/6329","text":"Prashanth Menon"},{"@pid":"65/4120","text":"Todd C. Mowry"},{"@pid":"191/3842","text":"Matthew Perron"},{"@pid":"192/4553","text":"Ian Quah"},{"@pid":"152/5627","text":"Siddharth Santurkar"},{"@pid":"t/AnthonyTomasic","text":"Anthony Tomasic"},{"@pid":"192/4563","text":"Skye Toor"},{"@pid":"154/0932","text":"Dana Van Aken"},{"@pid":"38/8097","text":"Ziqi Wang"},{"@pid":"07/11533","text":"Yingjun Wu"},{"@pid":"153/2452","text":"Ran Xian"},{"@pid":"88/2750","text":"Tieying Zhang"}]},"title":"Self-Driving Database Management Systems.","venue":"CIDR","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/PavloAALLMMMPQS17","ee":"http://cidrdb.org/cidr2017/papers/p42-pavlo-cidr17.pdf","url":"https://dblp.org/rec/conf/cidr/PavloAALLMMMPQS17"},
+"url":"URL#1191522"
+},
+{
+"@score":"1",
+"@id":"1191523",
+"info":{"authors":{"author":{"@pid":"138/5582","text":"Jose Picado"}},"title":"Representation Independent Data Analytics.","venue":"CIDR","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/Picado17","ee":"http://cidrdb.org/cidr2017/gongshow/abstracts/cidr2017_34.pdf","url":"https://dblp.org/rec/conf/cidr/Picado17"},
+"url":"URL#1191523"
+},
+{
+"@score":"1",
+"@id":"1191524",
+"info":{"authors":{"author":[{"@pid":"180/5513","text":"Alexander Ratner"},{"@pid":"90/1077","text":"Stephen H. Bach"},{"@pid":"181/5945","text":"Henry R. Ehrenberg"},{"@pid":"182/2122","text":"Jason Alan Fries"},{"@pid":"06/6420-2","text":"Sen Wu 0002"},{"@pid":"r/ChristopherRe","text":"Christopher Ré"}]},"title":"Snorkel - A System for Lightweight Extraction.","venue":"CIDR","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/RatnerBEF0R17","ee":"http://cidrdb.org/cidr2017/gongshow/abstracts/cidr2017_73.pdf","url":"https://dblp.org/rec/conf/cidr/RatnerBEF0R17"},
+"url":"URL#1191524"
+},
+{
+"@score":"1",
+"@id":"1191525",
+"info":{"authors":{"author":{"@pid":"73/343","text":"Florin Rusu"}},"title":"Scalable In-Situ Exploration over Raw Data.","venue":"CIDR","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/Rusu17","ee":"http://cidrdb.org/cidr2017/gongshow/abstracts/cidr2017_31.pdf","url":"https://dblp.org/rec/conf/cidr/Rusu17"},
+"url":"URL#1191525"
+},
+{
+"@score":"1",
+"@id":"1191526",
+"info":{"authors":{"author":{"@pid":"56/7016","text":"Mohammad Sadoghi"}},"title":"ExpoDB - An Exploratory Data Science Platform.","venue":"CIDR","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/Sadoghi17","ee":"http://cidrdb.org/cidr2017/gongshow/abstracts/cidr2017_48.pdf","url":"https://dblp.org/rec/conf/cidr/Sadoghi17"},
+"url":"URL#1191526"
+},
+{
+"@score":"1",
+"@id":"1191527",
+"info":{"authors":{"author":{"@pid":"192/4567","text":"Brennan Saeta"}},"title":"Treating Microservices as a Unifed, Distributed Database.","venue":"CIDR","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/Saeta17","ee":"http://cidrdb.org/cidr2017/gongshow/abstracts/cidr2017_71.pdf","url":"https://dblp.org/rec/conf/cidr/Saeta17"},
+"url":"URL#1191527"
+},
+{
+"@score":"1",
+"@id":"1191528",
+"info":{"authors":{"author":{"@pid":"37/10151","text":"Caetano Sauer"}},"title":"Exploring a continuum between main-memory and disk-oriented OLTP systems.","venue":"CIDR","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/Sauer17","ee":"http://cidrdb.org/cidr2017/gongshow/abstracts/cidr2017_49.pdf","url":"https://dblp.org/rec/conf/cidr/Sauer17"},
+"url":"URL#1191528"
+},
+{
+"@score":"1",
+"@id":"1191529",
+"info":{"authors":{"author":{"@pid":"117/3757","text":"Zechao Shang"}},"title":"Next Generation Consistency Enforcement.","venue":"CIDR","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/Shang17","ee":"http://cidrdb.org/cidr2017/gongshow/abstracts/cidr2017_105.pdf","url":"https://dblp.org/rec/conf/cidr/Shang17"},
+"url":"URL#1191529"
+},
+{
+"@score":"1",
+"@id":"1191530",
+"info":{"authors":{"author":[{"@pid":"117/3757","text":"Zechao Shang"},{"@pid":"y/JXuYu","text":"Jeffrey Xu Yu"}]},"title":"My Weak Consistency is Strong.","venue":"CIDR","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/ShangY17","ee":"http://cidrdb.org/cidr2017/papers/p115-shang-cidr17.pdf","url":"https://dblp.org/rec/conf/cidr/ShangY17"},
+"url":"URL#1191530"
+},
+{
+"@score":"1",
+"@id":"1191531",
+"info":{"authors":{"author":[{"@pid":"179/2728","text":"Tarique Siddiqui"},{"@pid":"34/5858-5","text":"John Lee 0005"},{"@pid":"65/2692","text":"Albert Kim"},{"@pid":"192/4546","text":"Edward Xue"},{"@pid":"192/4558","text":"Xiaofo Yu"},{"@pid":"192/4572","text":"Sean Zou"},{"@pid":"98/8489","text":"Lijin Guo"},{"@pid":"178/3714","text":"Changfeng Liu"},{"@pid":"192/4549","text":"Chaoran Wang"},{"@pid":"64/4500","text":"Karrie Karahalios"},{"@pid":"40/7459","text":"Aditya G. Parameswaran"}]},"title":"Fast-Forwarding to Desired Visualizations with Zenvisage.","venue":"CIDR","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/SiddiquiLKXYZGL17","ee":"http://cidrdb.org/cidr2017/papers/p43-siddiqui-cidr17.pdf","url":"https://dblp.org/rec/conf/cidr/SiddiquiLKXYZGL17"},
+"url":"URL#1191531"
+},
+{
+"@score":"1",
+"@id":"1191532",
+"info":{"authors":{"author":[{"@pid":"192/4566","text":"William Spoth"},{"@pid":"151/6772","text":"Bahareh Sadat Arab"},{"@pid":"94/2423","text":"Eric S. Chan"},{"@pid":"03/2725","text":"Dieter Gawlick"},{"@pid":"80/10227","text":"Adel Ghoneimy"},{"@pid":"09/3012","text":"Boris Glavic"},{"@pid":"53/4569","text":"Beda Christoph Hammerschmidt"},{"@pid":"75/5478","text":"Oliver Kennedy"},{"@pid":"180/8454","text":"Seokki Lee"},{"@pid":"23/6821","text":"Zhen Hua Liu"},{"@pid":"87/9555","text":"Xing Niu"},{"@pid":"y/YingYang-5","text":"Ying Yang 0005"}]},"title":"Adaptive Schema Databases.","venue":"CIDR","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/SpothACGGGHKLLN17","ee":"http://cidrdb.org/cidr2017/papers/p84-spoth-cidr17.pdf","url":"https://dblp.org/rec/conf/cidr/SpothACGGGHKLLN17"},
+"url":"URL#1191532"
+},
+{
+"@score":"1",
+"@id":"1191533",
+"info":{"authors":{"author":{"@pid":"147/1198","text":"Becca Taft"}},"title":"Predictive Provisioning - A Progress Report.","venue":"CIDR","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/Taft17","url":"https://dblp.org/rec/conf/cidr/Taft17"},
+"url":"URL#1191533"
+},
+{
+"@score":"1",
+"@id":"1191534",
+"info":{"authors":{"author":[{"@pid":"155/5478","text":"Dixin Tang"},{"@pid":"38/6049","text":"Hao Jiang"},{"@pid":"75/9436","text":"Aaron J. Elmore"}]},"title":"Adaptive Concurrency Control - Despite the Looking Glass, One Concurrency Control Does Not Fit All.","venue":"CIDR","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/TangJE17","ee":"http://cidrdb.org/cidr2017/papers/p63-tang-cidr17.pdf","url":"https://dblp.org/rec/conf/cidr/TangJE17"},
+"url":"URL#1191534"
+},
+{
+"@score":"1",
+"@id":"1191535",
+"info":{"authors":{"author":{"@pid":"t/ArashTermehchy","text":"Arash Termehchy"}},"title":"Reaching Mutual Understanding in a Society of Humans and Database Systems.","venue":"CIDR","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/Termehchy17","ee":"http://cidrdb.org/cidr2017/gongshow/abstracts/cidr2017_99.pdf","url":"https://dblp.org/rec/conf/cidr/Termehchy17"},
+"url":"URL#1191535"
+},
+{
+"@score":"1",
+"@id":"1191536",
+"info":{"authors":{"author":{"@pid":"62/3468","text":"Richard Tibbetts"}},"title":"What is the Population of Interest - Population Modeling for BayesDB.","venue":"CIDR","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/Tibbetts17","ee":"http://cidrdb.org/cidr2017/gongshow/abstracts/cidr2017_106.pdf","url":"https://dblp.org/rec/conf/cidr/Tibbetts17"},
+"url":"URL#1191536"
+},
+{
+"@score":"1",
+"@id":"1191537",
+"info":{"authors":{"author":{"@pid":"96/6946","text":"Hiroyuki Uchiyama"}},"title":"AgriBase - Status Labeling for IoT Systems.","venue":"CIDR","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/Uchiyama17","ee":"http://cidrdb.org/cidr2017/gongshow/abstracts/cidr2017_100.pdf","url":"https://dblp.org/rec/conf/cidr/Uchiyama17"},
+"url":"URL#1191537"
+},
+{
+"@score":"1",
+"@id":"1191538",
+"info":{"authors":{"author":{"@pid":"25/7592","text":"Manasi Vartak"}},"title":"MODELDB - A System for Machine Learning Model Management.","venue":"CIDR","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/Vartak17","ee":"http://cidrdb.org/cidr2017/gongshow/abstracts/cidr2017_112.pdf","url":"https://dblp.org/rec/conf/cidr/Vartak17"},
+"url":"URL#1191538"
+},
+{
+"@score":"1",
+"@id":"1191539",
+"info":{"authors":{"author":[{"@pid":"72/6589","text":"James Wagner"},{"@pid":"39/998","text":"Alexander Rasin"},{"@pid":"m/TanuMalik","text":"Tanu Malik"},{"@pid":"131/3570","text":"Karen Hart"},{"@pid":"192/4570","text":"Hugo Jehle"},{"@pid":"151/7289","text":"Jonathan Grier"}]},"title":"Database Forensic Analysis with DBCarver.","venue":"CIDR","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/WagnerRMHJG17","ee":"http://cidrdb.org/cidr2017/papers/p128-wagner-cidr17.pdf","url":"https://dblp.org/rec/conf/cidr/WagnerRMHJG17"},
+"url":"URL#1191539"
+},
+{
+"@score":"1",
+"@id":"1191540",
+"info":{"authors":{"author":{"@pid":"39/7183","text":"Jiannan Wang"}},"title":"Reprowd - Crowdsourced Data Processing Made Reproducible.","venue":"CIDR","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/Wang17","ee":"http://cidrdb.org/cidr2017/gongshow/abstracts/cidr2017_22.pdf","url":"https://dblp.org/rec/conf/cidr/Wang17"},
+"url":"URL#1191540"
+},
+{
+"@score":"1",
+"@id":"1191541",
+"info":{"authors":{"author":[{"@pid":"62/2631","text":"Jingjing Wang"},{"@pid":"192/4547","text":"Tobin Baker"},{"@pid":"b/MagdalenaBalazinska","text":"Magdalena Balazinska"},{"@pid":"74/6541","text":"Daniel Halperin"},{"@pid":"180/5761","text":"Brandon Haynes"},{"@pid":"h/BillHowe","text":"Bill Howe"},{"@pid":"166/1679","text":"Dylan Hutchison"},{"@pid":"143/7236","text":"Shrainik Jain"},{"@pid":"168/3176","text":"Ryan Maas"},{"@pid":"192/2090","text":"Parmita Mehta"},{"@pid":"147/1186","text":"Dominik Moritz"},{"@pid":"145/7726","text":"Brandon Myers"},{"@pid":"147/1172","text":"Jennifer Ortiz"},{"@pid":"s/DanSuciu","text":"Dan Suciu"},{"@pid":"76/326","text":"Andrew Whitaker"},{"@pid":"38/4873","text":"Shengliang Xu"}]},"title":"The Myria Big Data Management and Analytics System and Cloud Services.","venue":"CIDR","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/WangBBHHHHJMMMM17","ee":"http://cidrdb.org/cidr2017/papers/p37-wang-cidr17.pdf","url":"https://dblp.org/rec/conf/cidr/WangBBHHHHJMMMM17"},
+"url":"URL#1191541"
+},
+{
+"@score":"1",
+"@id":"1191542",
+"info":{"authors":{"author":[{"@pid":"41/3679","text":"Eugene Wu 0002"},{"@pid":"135/5141","text":"Fotis Psallidas"},{"@pid":"159/1401","text":"Zhengjie Miao"},{"@pid":"192/4557","text":"Haoci Zhang"},{"@pid":"173/9385","text":"Laura Rettig"}]},"title":"Combining Design and Performance in a Data Visualization Management System.","venue":"CIDR","year":"2017","type":"Conference and Workshop Papers","key":"conf/cidr/WuPMZR17","ee":"http://cidrdb.org/cidr2017/papers/p95-wu-cidr17.pdf","url":"https://dblp.org/rec/conf/cidr/WuPMZR17"},
+"url":"URL#1191542"
+},
+{
+"@score":"1",
+"@id":"1326621",
+"info":{"title":"CIDR 2017, 8th Biennial Conference on Innovative Data Systems Research, Chaminade, CA, USA, January 8-11, 2017, Online Proceedings","venue":"CIDR","publisher":"www.cidrdb.org","year":"2017","type":"Editorship","key":"conf/cidr/2017","ee":"http://cidrdb.org/cidr2017/index.html","url":"https://dblp.org/rec/conf/cidr/2017"},
+"url":"URL#1326621"
+}
+]
+}
+}
+}

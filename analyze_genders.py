@@ -25,7 +25,7 @@ def infer_genders():
         conf = json_file.split('-')[0].split('/')[1]
         year = int(json_file.split('-')[1].split('.')[0])
 
-        data = json.load(open(json_file))['result']['hits']['hit']
+        data = json.load(open(json_file))['result']['hits'].get('hit', [])
         for paper in data:
             # Skip papers which are for some reason missing author info
             if 'authors' not in paper['info']:

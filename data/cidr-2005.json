@@ -1,0 +1,200 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"cidr\"/\"cidr2005\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"109.57"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"28",
+"@dc":"28",
+"@oc":"28",
+"@id":"17172741",
+"text":":facetid:toc:db/conf/cidr/cidr2005.bht"
+}
+},
+"hits":{
+"@total":"28",
+"@computed":"28",
+"@sent":"28",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"4098626",
+"info":{"authors":{"author":[{"@pid":"a/DJAbadi","text":"Daniel J. Abadi"},{"@pid":"99/770","text":"Yanif Ahmad"},{"@pid":"b/MagdalenaBalazinska","text":"Magdalena Balazinska"},{"@pid":"c/UgurCetintemel","text":"Ugur Çetintemel"},{"@pid":"c/MitchCherniack","text":"Mitch Cherniack"},{"@pid":"97/5585","text":"Jeong-Hyon Hwang"},{"@pid":"l/WolfgangLindner","text":"Wolfgang Lindner 0001"},{"@pid":"36/1442","text":"Anurag Maskey"},{"@pid":"39/998","text":"Alex Rasin"},{"@pid":"79/5102","text":"Esther Ryvkina"},{"@pid":"t/NesimeTatbul","text":"Nesime Tatbul"},{"@pid":"79/5063","text":"Ying Xing"},{"@pid":"z/SBZdonik","text":"Stanley B. Zdonik"}]},"title":"The Design of the Borealis Stream Processing Engine.","venue":"CIDR","pages":"277-289","year":"2005","type":"Conference and Workshop Papers","key":"conf/cidr/AbadiABCCHLMRRTXZ05","ee":"http://cidrdb.org/cidr2005/papers/P23.pdf","url":"https://dblp.org/rec/conf/cidr/AbadiABCCHLMRRTXZ05"},
+"url":"URL#4098626"
+},
+{
+"@score":"1",
+"@id":"4098627",
+"info":{"authors":{"author":[{"@pid":"75/3847","text":"Gagan Aggarwal"},{"@pid":"66/1099","text":"Mayank Bawa"},{"@pid":"93/3997","text":"Prasanna Ganesan"},{"@pid":"g/HGarciaMolina","text":"Hector Garcia-Molina"},{"@pid":"29/4781","text":"Krishnaram Kenthapadi"},{"@pid":"m/RajeevMotwani","text":"Rajeev Motwani 0001"},{"@pid":"46/2539","text":"Utkarsh Srivastava"},{"@pid":"t/DilysThomas","text":"Dilys Thomas"},{"@pid":"x/YingXu0002","text":"Ying Xu 0002"}]},"title":"Two Can Keep A Secret - A Distributed Architecture for Secure Database Services.","venue":"CIDR","pages":"186-199","year":"2005","type":"Conference and Workshop Papers","key":"conf/cidr/AggarwalBGGKMSTX05","ee":"http://cidrdb.org/cidr2005/papers/P16.pdf","url":"https://dblp.org/rec/conf/cidr/AggarwalBGGKMSTX05"},
+"url":"URL#4098627"
+},
+{
+"@score":"1",
+"@id":"4098628",
+"info":{"authors":{"author":[{"@pid":"b/ShivnathBabu","text":"Shivnath Babu"},{"@pid":"b/PedroBizarro","text":"Pedro Bizarro"}]},"title":"Adaptive Query Processing in the Looking Glass.","venue":"CIDR","pages":"238-249","year":"2005","type":"Conference and Workshop Papers","key":"conf/cidr/BabuB05","ee":"http://cidrdb.org/cidr2005/papers/P20.pdf","url":"https://dblp.org/rec/conf/cidr/BabuB05"},
+"url":"URL#4098628"
+},
+{
+"@score":"1",
+"@id":"4098629",
+"info":{"authors":{"author":[{"@pid":"60/1926","text":"Jacek Becla"},{"@pid":"83/6826","text":"Daniel L. Wang"}]},"title":"Lessons Learned from Managing a Petabyte.","venue":"CIDR","pages":"70-83","year":"2005","type":"Conference and Workshop Papers","key":"conf/cidr/BeclaW05","ee":"http://cidrdb.org/cidr2005/papers/P06.pdf","url":"https://dblp.org/rec/conf/cidr/BeclaW05"},
+"url":"URL#4098629"
+},
+{
+"@score":"1",
+"@id":"4098630",
+"info":{"authors":{"author":[{"@pid":"b/PeterABoncz","text":"Peter A. Boncz"},{"@pid":"40/4880","text":"Marcin Zukowski"},{"@pid":"82/1319","text":"Niels Nes"}]},"title":"MonetDB/X100 - Hyper-Pipelining Query Execution.","venue":"CIDR","pages":"225-237","year":"2005","type":"Conference and Workshop Papers","key":"conf/cidr/BonczZN05","ee":"http://cidrdb.org/cidr2005/papers/P19.pdf","url":"https://dblp.org/rec/conf/cidr/BonczZN05"},
+"url":"URL#4098630"
+},
+{
+"@score":"1",
+"@id":"4098631",
+"info":{"authors":{"author":[{"@pid":"b/LauraBright","text":"Laura Bright"},{"@pid":"m/DavidMaier","text":"David Maier 0001"}]},"title":"Deriving and Managing Data Products in an Environmental Observation and Forecasting System.","venue":"CIDR","pages":"162-173","year":"2005","type":"Conference and Workshop Papers","key":"conf/cidr/BrightM05","ee":"http://cidrdb.org/cidr2005/papers/P14.pdf","url":"https://dblp.org/rec/conf/cidr/BrightM05"},
+"url":"URL#4098631"
+},
+{
+"@score":"1",
+"@id":"4098632",
+"info":{"authors":{"author":[{"@pid":"31/3455","text":"Michael J. Carey 0001"},{"@pid":"96/2901","text":"Dean Jacobs"},{"@pid":"s/LeonardJSeligman","text":"Leonard J. Seligman"}]},"title":"The Geek-Tones - An Experiment in Distributed, Real-time Musical Integration.","venue":"CIDR","pages":"329","year":"2005","type":"Conference and Workshop Papers","key":"conf/cidr/CareyJS05","url":"https://dblp.org/rec/conf/cidr/CareyJS05"},
+"url":"URL#4098632"
+},
+{
+"@score":"1",
+"@id":"4098633",
+"info":{"authors":{"author":[{"@pid":"c/KCCChang","text":"Kevin Chen-Chuan Chang"},{"@pid":"78/4523-1","text":"Bin He 0001"},{"@pid":"19/5112-1","text":"Zhen Zhang 0001"}]},"title":"Toward Large Scale Integration - Building a MetaQuerier over Databases on the Web.","venue":"CIDR","pages":"44-55","year":"2005","type":"Conference and Workshop Papers","key":"conf/cidr/ChangHZ05","ee":"http://cidrdb.org/cidr2005/papers/P04.pdf","url":"https://dblp.org/rec/conf/cidr/ChangHZ05"},
+"url":"URL#4098633"
+},
+{
+"@score":"1",
+"@id":"4098634",
+"info":{"authors":{"author":[{"@pid":"c/SurajitChaudhuri","text":"Surajit Chaudhuri"},{"@pid":"r/RaghuRamakrishnan","text":"Raghu Ramakrishnan"},{"@pid":"w/GerhardWeikum","text":"Gerhard Weikum"}]},"title":"Integrating DB and IR Technologies - What is the Sound of One Hand Clapping?","venue":"CIDR","pages":"1-12","year":"2005","type":"Conference and Workshop Papers","key":"conf/cidr/ChaudhuriRW05","ee":"http://cidrdb.org/cidr2005/papers/P01.pdf","url":"https://dblp.org/rec/conf/cidr/ChaudhuriRW05"},
+"url":"URL#4098634"
+},
+{
+"@score":"1",
+"@id":"4098635",
+"info":{"authors":{"author":[{"@pid":"d/AmolDeshpande","text":"Amol Deshpande"},{"@pid":"38/769","text":"Carlos Guestrin"},{"@pid":"m/SamuelMadden","text":"Samuel Madden"}]},"title":"Using Probabilistic Models for Data Management in Acquisitional Environments.","venue":"CIDR","pages":"317-328","year":"2005","type":"Conference and Workshop Papers","key":"conf/cidr/DeshpandeGM05","ee":"http://cidrdb.org/cidr2005/papers/P26.pdf","url":"https://dblp.org/rec/conf/cidr/DeshpandeGM05"},
+"url":"URL#4098635"
+},
+{
+"@score":"1",
+"@id":"4098636",
+"info":{"authors":{"author":[{"@pid":"52/6497","text":"Karl Dias"},{"@pid":"52/4906","text":"Mark Ramacher"},{"@pid":"s/UriShaft","text":"Uri Shaft"},{"@pid":"57/4842","text":"Venkateshwaran Venkataramani"},{"@pid":"54/4636","text":"Graham Wood"}]},"title":"Automatic Performance Diagnosis and Tuning in Oracle.","venue":"CIDR","pages":"84-94","year":"2005","type":"Conference and Workshop Papers","key":"conf/cidr/DiasRSVW05","ee":"http://cidrdb.org/cidr2005/papers/P07.pdf","url":"https://dblp.org/rec/conf/cidr/DiasRSVW05"},
+"url":"URL#4098636"
+},
+{
+"@score":"1",
+"@id":"4098637",
+"info":{"authors":{"author":[{"@pid":"d/XinLunaDong","text":"Xin Dong 0001"},{"@pid":"h/AlonYHalevy","text":"Alon Y. Halevy"}]},"title":"A Platform for Personal Information Management and Integration.","venue":"CIDR","pages":"119-130","year":"2005","type":"Conference and Workshop Papers","key":"conf/cidr/DongH05","ee":"http://cidrdb.org/cidr2005/papers/P10.pdf","url":"https://dblp.org/rec/conf/cidr/DongH05"},
+"url":"URL#4098637"
+},
+{
+"@score":"1",
+"@id":"4098638",
+"info":{"authors":{"author":[{"@pid":"f/MJFranklin","text":"Michael J. Franklin"},{"@pid":"55/453","text":"Shawn R. Jeffery"},{"@pid":"k/SaileshKrishnamurthy","text":"Sailesh Krishnamurthy"},{"@pid":"95/459","text":"Frederick Reiss"},{"@pid":"r/SRizvi","text":"Shariq Rizvi"},{"@pid":"41/3679","text":"Eugene Wu 0002"},{"@pid":"41/2531","text":"Owen Cooper"},{"@pid":"21/1630","text":"Anil Edakkunni"},{"@pid":"82/5918-1","text":"Wei Hong 0001"}]},"title":"Design Considerations for High Fan-In Systems - The HiFi Approach.","venue":"CIDR","pages":"290-304","year":"2005","type":"Conference and Workshop Papers","key":"conf/cidr/FranklinJKRR0CEH05","ee":"http://cidrdb.org/cidr2005/papers/P24.pdf","url":"https://dblp.org/rec/conf/cidr/FranklinJKRR0CEH05"},
+"url":"URL#4098638"
+},
+{
+"@score":"1",
+"@id":"4098639",
+"info":{"authors":{"author":[{"@pid":"46/6613","text":"Florian Haftmann"},{"@pid":"k/DonaldKossmann","text":"Donald Kossmann"},{"@pid":"54/1533","text":"Alexander Kreutz"}]},"title":"Efficient Regression Tests for Database Applications.","venue":"CIDR","pages":"95-106","year":"2005","type":"Conference and Workshop Papers","key":"conf/cidr/HaftmannKK05","ee":"http://cidrdb.org/cidr2005/papers/P08.pdf","url":"https://dblp.org/rec/conf/cidr/HaftmannKK05"},
+"url":"URL#4098639"
+},
+{
+"@score":"1",
+"@id":"4098640",
+"info":{"authors":{"author":{"@pid":"h/PatHelland","text":"Pat Helland"}},"title":"Data on the Outside Versus Data on the Inside.","venue":"CIDR","pages":"144-153","year":"2005","type":"Conference and Workshop Papers","key":"conf/cidr/Helland05","ee":"http://cidrdb.org/cidr2005/papers/P12.pdf","url":"https://dblp.org/rec/conf/cidr/Helland05"},
+"url":"URL#4098640"
+},
+{
+"@score":"1",
+"@id":"4098641",
+"info":{"authors":{"author":[{"@pid":"h/RyanHuebsch","text":"Ryan Huebsch"},{"@pid":"c/BrentNChun","text":"Brent N. Chun"},{"@pid":"h/JosephMHellerstein","text":"Joseph M. Hellerstein"},{"@pid":"75/3108","text":"Boon Thau Loo"},{"@pid":"m/PetrosManiatis","text":"Petros Maniatis"},{"@pid":"r/TimothyRoscoe","text":"Timothy Roscoe"},{"@pid":"34/5593","text":"Scott Shenker"},{"@pid":"s/IonStoica","text":"Ion Stoica"},{"@pid":"75/6541","text":"Aydan R. Yumerefendi"}]},"title":"The Architecture of PIER - an Internet-Scale Query Processor.","venue":"CIDR","pages":"28-43","year":"2005","type":"Conference and Workshop Papers","key":"conf/cidr/HuebschCHLMRSSY05","ee":"http://cidrdb.org/cidr2005/papers/P03.pdf","url":"https://dblp.org/rec/conf/cidr/HuebschCHLMRSSY05"},
+"url":"URL#4098641"
+},
+{
+"@score":"1",
+"@id":"4098642",
+"info":{"authors":{"author":[{"@pid":"i/ZacharyGIves","text":"Zachary G. Ives"},{"@pid":"58/1379","text":"Nitin Khandelwal"},{"@pid":"87/4750","text":"Aneesh Kapur"},{"@pid":"21/4509","text":"Murat Cakir"}]},"title":"ORCHESTRA - Rapid, Collaborative Sharing of Dynamic Data.","venue":"CIDR","pages":"107-118","year":"2005","type":"Conference and Workshop Papers","key":"conf/cidr/IvesKKC05","ee":"http://cidrdb.org/cidr2005/papers/P09.pdf","url":"https://dblp.org/rec/conf/cidr/IvesKKC05"},
+"url":"URL#4098642"
+},
+{
+"@score":"1",
+"@id":"4098643",
+"info":{"authors":{"author":[{"@pid":"k/DavidRKarger","text":"David R. Karger"},{"@pid":"79/1554","text":"Karun Bakshi"},{"@pid":"h/DavidHuynh","text":"David Huynh"},{"@pid":"95/831","text":"Dennis Quan"},{"@pid":"20/5880","text":"Vineet Sinha"}]},"title":"Haystack - A General-Purpose Information Management Tool for End Users Based on Semistructured Data.","venue":"CIDR","pages":"13-26","year":"2005","type":"Conference and Workshop Papers","key":"conf/cidr/KargerBHQS05","ee":"http://cidrdb.org/cidr2005/papers/P02.pdf","url":"https://dblp.org/rec/conf/cidr/KargerBHQS05"},
+"url":"URL#4098643"
+},
+{
+"@score":"1",
+"@id":"4098644",
+"info":{"authors":{"author":[{"@pid":"k/MartinLKersten","text":"Martin L. Kersten"},{"@pid":"m/StefanManegold","text":"Stefan Manegold"}]},"title":"Cracking the Database Store.","venue":"CIDR","pages":"213-224","year":"2005","type":"Conference and Workshop Papers","key":"conf/cidr/KerstenM05","ee":"http://cidrdb.org/cidr2005/papers/P18.pdf","url":"https://dblp.org/rec/conf/cidr/KerstenM05"},
+"url":"URL#4098644"
+},
+{
+"@score":"1",
+"@id":"4098645",
+"info":{"authors":{"author":[{"@pid":"l/UlfLeser","text":"Ulf Leser"},{"@pid":"n/FelixNaumann","text":"Felix Naumann"}]},"title":"(Almost) Hands-Off Information Integration for the Life Sciences.","venue":"CIDR","pages":"131-143","year":"2005","type":"Conference and Workshop Papers","key":"conf/cidr/LeserN05","ee":"http://cidrdb.org/cidr2005/papers/P11.pdf","url":"https://dblp.org/rec/conf/cidr/LeserN05"},
+"url":"URL#4098645"
+},
+{
+"@score":"1",
+"@id":"4098646",
+"info":{"authors":{"author":[{"@pid":"36/723","text":"María A. Nieto-Santisteban"},{"@pid":"g/JimGray","text":"Jim Gray 0001"},{"@pid":"s/AlexanderSSzalay","text":"Alexander S. Szalay"},{"@pid":"99/2261","text":"James Annis"},{"@pid":"t/AniThakar","text":"Aniruddha R. Thakar"},{"@pid":"05/1998","text":"William O&apos;Mullane"}]},"title":"When Database Systems Meet the Grid.","venue":"CIDR","pages":"154-161","year":"2005","type":"Conference and Workshop Papers","key":"conf/cidr/Nieto-SantistebanGSATO05","ee":"http://cidrdb.org/cidr2005/papers/P13.pdf","url":"https://dblp.org/rec/conf/cidr/Nieto-SantistebanGSATO05"},
+"url":"URL#4098646"
+},
+{
+"@score":"1",
+"@id":"4098647",
+"info":{"authors":{"author":[{"@pid":"o/ChristopherOlston","text":"Christopher Olston"},{"@pid":"69/2448","text":"Amit Manjhi"},{"@pid":"77/5906","text":"Charles Garrod"},{"@pid":"a/AnastassiaAilamaki","text":"Anastassia Ailamaki"},{"@pid":"m/BruceMMaggs","text":"Bruce M. Maggs"},{"@pid":"65/4120","text":"Todd C. Mowry"}]},"title":"A Scalability Service for Dynamic Web Applications.","venue":"CIDR","pages":"56-69","year":"2005","type":"Conference and Workshop Papers","key":"conf/cidr/OlstonMGAMM05","ee":"http://cidrdb.org/cidr2005/papers/P05.pdf","url":"https://dblp.org/rec/conf/cidr/OlstonMGAMM05"},
+"url":"URL#4098647"
+},
+{
+"@score":"1",
+"@id":"4098648",
+"info":{"authors":{"author":[{"@pid":"02/4973","text":"Ravishankar Ramamurthy"},{"@pid":"d/DJDeWitt","text":"David J. DeWitt"}]},"title":"Buffer-pool Aware Query Optimization.","venue":"CIDR","pages":"250-261","year":"2005","type":"Conference and Workshop Papers","key":"conf/cidr/RamamurthyD05","ee":"http://cidrdb.org/cidr2005/papers/P21.pdf","url":"https://dblp.org/rec/conf/cidr/RamamurthyD05"},
+"url":"URL#4098648"
+},
+{
+"@score":"1",
+"@id":"4098649",
+"info":{"authors":{"author":[{"@pid":"s/ArnaudSahuguet","text":"Arnaud Sahuguet"},{"@pid":"05/6762","text":"Bogdan Alexe"},{"@pid":"74/6086","text":"Irini Fundulaki"},{"@pid":"74/6889","text":"Pierre-Yves Lalilgand"},{"@pid":"24/4245","text":"Abdullatif Shikfa"},{"@pid":"67/2166","text":"Antoine Arnail"}]},"title":"User Profile Management in Converged Networks (Episode II) - &quot;Share your Data, Keep your Secrets&quot;.","venue":"CIDR","pages":"200-212","year":"2005","type":"Conference and Workshop Papers","key":"conf/cidr/SahuguetAFLSA05","ee":"http://cidrdb.org/cidr2005/papers/P17.pdf","url":"https://dblp.org/rec/conf/cidr/SahuguetAFLSA05"},
+"url":"URL#4098649"
+},
+{
+"@score":"1",
+"@id":"4098650",
+"info":{"authors":{"author":[{"@pid":"t/CanTurker","text":"Can Türker"},{"@pid":"60/895","text":"Klaus Haller"},{"@pid":"77/4993","text":"Christoph Schuler"},{"@pid":"s/HansJorgSchek","text":"Hans-Jörg Schek"}]},"title":"How can we support Grid Transactions? Towards Peer-to-Peer Transaction Processing.","venue":"CIDR","pages":"174-185","year":"2005","type":"Conference and Workshop Papers","key":"conf/cidr/TurkerHSS05","ee":"http://cidrdb.org/cidr2005/papers/P15.pdf","url":"https://dblp.org/rec/conf/cidr/TurkerHSS05"},
+"url":"URL#4098650"
+},
+{
+"@score":"1",
+"@id":"4098651",
+"info":{"authors":{"author":{"@pid":"w/JenniferWidom","text":"Jennifer Widom"}},"title":"Trio - A System for Integrated Management of Data, Accuracy, and Lineage.","venue":"CIDR","pages":"262-276","year":"2005","type":"Conference and Workshop Papers","key":"conf/cidr/Widom05","ee":"http://cidrdb.org/cidr2005/papers/P22.pdf","url":"https://dblp.org/rec/conf/cidr/Widom05"},
+"url":"URL#4098651"
+},
+{
+"@score":"1",
+"@id":"4098652",
+"info":{"authors":{"author":[{"@pid":"16/5875","text":"Wenwei Xue"},{"@pid":"l/QiongLuo","text":"Qiong Luo 0001"}]},"title":"Action-Oriented Query Processing for Pervasive Computing.","venue":"CIDR","pages":"305-316","year":"2005","type":"Conference and Workshop Papers","key":"conf/cidr/XueL05","ee":"http://cidrdb.org/cidr2005/papers/P25.pdf","url":"https://dblp.org/rec/conf/cidr/XueL05"},
+"url":"URL#4098652"
+},
+{
+"@score":"1",
+"@id":"4176809",
+"info":{"title":"CIDR 2005, Second Biennial Conference on Innovative Data Systems Research, Asilomar, CA, USA, January 4-7, 2005, Online Proceedings","venue":"CIDR","publisher":"www.cidrdb.org","year":"2005","type":"Editorship","key":"conf/cidr/2005","ee":"http://cidrdb.org/cidr2005/index.html","url":"https://dblp.org/rec/conf/cidr/2005"},
+"url":"URL#4176809"
+}
+]
+}
+}
+}

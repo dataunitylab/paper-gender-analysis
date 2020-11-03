@@ -1,0 +1,170 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"journals\"/\"tods\"/\"tods16\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"102.67"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"23",
+"@dc":"23",
+"@oc":"23",
+"@id":"17255819",
+"text":":facetid:toc:db/journals/tods/tods16.bht"
+}
+},
+"hits":{
+"@total":"23",
+"@computed":"23",
+"@sent":"23",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"5083098",
+"info":{"authors":{"author":[{"@pid":"a/SergeAbiteboul","text":"Serge Abiteboul"},{"@pid":"g/SGrumbach","text":"Stéphane Grumbach"}]},"title":"A Rule-Based Language with Functions and Sets.","venue":"ACM Trans. Database Syst.","volume":"16","number":"1","pages":"1-30","year":"1991","type":"Journal Articles","key":"journals/tods/AbiteboulG91","doi":"10.1145/103140.103141","ee":"https://doi.org/10.1145/103140.103141","url":"https://dblp.org/rec/journals/tods/AbiteboulG91"},
+"url":"URL#5083098"
+},
+{
+"@score":"1",
+"@id":"5083099",
+"info":{"authors":{"author":[{"@pid":"31/3455","text":"Michael J. Carey 0001"},{"@pid":"l/MironLivny","text":"Miron Livny"}]},"title":"Conflict Detection Tradeoffs for Replicated Data.","venue":"ACM Trans. Database Syst.","volume":"16","number":"4","pages":"703-746","year":"1991","type":"Journal Articles","key":"journals/tods/CareyL91","doi":"10.1145/115302.115289","ee":"https://doi.org/10.1145/115302.115289","url":"https://dblp.org/rec/journals/tods/CareyL91"},
+"url":"URL#5083099"
+},
+{
+"@score":"1",
+"@id":"5083100",
+"info":{"authors":{"author":[{"@pid":"c/MarcoACasanova","text":"Marco A. Casanova"},{"@pid":"f/AntonioLFurtado","text":"Antonio L. Furtado"},{"@pid":"83/334","text":"Luiz Tucherman"}]},"title":"A Software Tool for Modular Database Design.","venue":"ACM Trans. Database Syst.","volume":"16","number":"2","pages":"209-234","year":"1991","type":"Journal Articles","key":"journals/tods/CasanovaFT91","doi":"10.1145/114325.103711","ee":"https://doi.org/10.1145/114325.103711","url":"https://dblp.org/rec/journals/tods/CasanovaFT91"},
+"url":"URL#5083100"
+},
+{
+"@score":"1",
+"@id":"5083101",
+"info":{"authors":{"author":[{"@pid":"04/6126","text":"Francesca Cesarini"},{"@pid":"91/2911","text":"Giovanni Soda"}]},"title":"A Dynamic Hash Method with Signature.","venue":"ACM Trans. Database Syst.","volume":"16","number":"2","pages":"309-337","year":"1991","type":"Journal Articles","key":"journals/tods/CesariniS91","doi":"10.1145/114325.103714","ee":"https://doi.org/10.1145/114325.103714","url":"https://dblp.org/rec/journals/tods/CesariniS91"},
+"url":"URL#5083101"
+},
+{
+"@score":"1",
+"@id":"5083102",
+"info":{"authors":{"author":[{"@pid":"g/AllenVanGelder","text":"Allen Van Gelder"},{"@pid":"t/RWTopor","text":"Rodney W. Topor"}]},"title":"Safety and Translation of Relational Calculus Queries.","venue":"ACM Trans. Database Syst.","volume":"16","number":"2","pages":"235-278","year":"1991","type":"Journal Articles","key":"journals/tods/GelderT91","doi":"10.1145/114325.103712","ee":"https://doi.org/10.1145/114325.103712","url":"https://dblp.org/rec/journals/tods/GelderT91"},
+"url":"URL#5083102"
+},
+{
+"@score":"1",
+"@id":"5083103",
+"info":{"authors":{"author":[{"@pid":"g/MartinGogolla","text":"Martin Gogolla"},{"@pid":"90/4541","text":"Uwe Hohenstein"}]},"title":"Towards a Semantic View of an Extended Entity-Relationship Model.","venue":"ACM Trans. Database Syst.","volume":"16","number":"3","pages":"369-416","year":"1991","type":"Journal Articles","key":"journals/tods/GogollaH91","doi":"10.1145/111197.111200","ee":"https://doi.org/10.1145/111197.111200","url":"https://dblp.org/rec/journals/tods/GogollaH91"},
+"url":"URL#5083103"
+},
+{
+"@score":"1",
+"@id":"5083104",
+"info":{"authors":{"author":[{"@pid":"42/2332","text":"Héctor J. Hernández"},{"@pid":"c/EPFChan","text":"Edward P. F. Chan"}]},"title":"Constant-Time-Maintainable BCNF Database Schemes.","venue":"ACM Trans. Database Syst.","volume":"16","number":"4","pages":"571-599","year":"1991","type":"Journal Articles","key":"journals/tods/HernandezC91","doi":"10.1145/115302.115301","ee":"https://doi.org/10.1145/115302.115301","url":"https://dblp.org/rec/journals/tods/HernandezC91"},
+"url":"URL#5083104"
+},
+{
+"@score":"1",
+"@id":"5083105",
+"info":{"authors":{"author":[{"@pid":"97/2073","text":"Wen-Chi Hou"},{"@pid":"o/GultekinOzsoyoglu","text":"Gultekin Özsoyoglu"}]},"title":"Statistical Estimators for Aggregate Relational Algebra Queries.","venue":"ACM Trans. Database Syst.","volume":"16","number":"4","pages":"600-654","year":"1991","type":"Journal Articles","key":"journals/tods/HouO91","doi":"10.1145/115302.115300","ee":"https://doi.org/10.1145/115302.115300","url":"https://dblp.org/rec/journals/tods/HouO91"},
+"url":"URL#5083105"
+},
+{
+"@score":"1",
+"@id":"5083106",
+"info":{"authors":{"author":[{"@pid":"45/6957","text":"Dino Karabeg"},{"@pid":"v/VictorVianu","text":"Victor Vianu"}]},"title":"Simplification Rules and Complete Axiomatization for Relational Update Transactions.","venue":"ACM Trans. Database Syst.","volume":"16","number":"3","pages":"439-475","year":"1991","type":"Journal Articles","key":"journals/tods/KarabegV91","doi":"10.1145/111197.111208","ee":"https://doi.org/10.1145/111197.111208","url":"https://dblp.org/rec/journals/tods/KarabegV91"},
+"url":"URL#5083106"
+},
+{
+"@score":"1",
+"@id":"5083107",
+"info":{"authors":{"author":[{"@pid":"35/6993","text":"Richard P. King"},{"@pid":"20/2053","text":"Nagui Halim"},{"@pid":"g/HGarciaMolina","text":"Hector Garcia-Molina"},{"@pid":"24/732","text":"Christos A. Polyzois"}]},"title":"Management of a Remote Backup Copy for Disaster Recovery.","venue":"ACM Trans. Database Syst.","volume":"16","number":"2","pages":"338-368","year":"1991","type":"Journal Articles","key":"journals/tods/KingHGP91","doi":"10.1145/114325.103715","ee":"https://doi.org/10.1145/114325.103715","url":"https://dblp.org/rec/journals/tods/KingHGP91"},
+"url":"URL#5083107"
+},
+{
+"@score":"1",
+"@id":"5083108",
+"info":{"authors":{"author":[{"@pid":"80/6580","text":"Carlo Meghini"},{"@pid":"89/2480","text":"Costantino Thanos"}]},"title":"The Complexity of Operations on a Fragmented Relation.","venue":"ACM Trans. Database Syst.","volume":"16","number":"1","pages":"56-87","year":"1991","type":"Journal Articles","key":"journals/tods/MeghiniT91","doi":"10.1145/103140.103143","ee":"https://doi.org/10.1145/103140.103143","url":"https://dblp.org/rec/journals/tods/MeghiniT91"},
+"url":"URL#5083108"
+},
+{
+"@score":"1",
+"@id":"5083109",
+"info":{"authors":{"author":[{"@pid":"m/AOMendelzon","text":"Alberto O. Mendelzon"},{"@pid":"w/PeterTWood","text":"Peter T. Wood"}]},"title":"Functional Dependencies in Horn Clause Queries.","venue":"ACM Trans. Database Syst.","volume":"16","number":"1","pages":"31-55","year":"1991","type":"Journal Articles","key":"journals/tods/MendelzonW91","doi":"10.1145/103140.103142","ee":"https://doi.org/10.1145/103140.103142","url":"https://dblp.org/rec/journals/tods/MendelzonW91"},
+"url":"URL#5083109"
+},
+{
+"@score":"1",
+"@id":"5083110",
+"info":{"authors":{"author":[{"@pid":"m/GuidoMoerkotte","text":"Guido Moerkotte"},{"@pid":"l/PCLockemann","text":"Peter C. Lockemann"}]},"title":"Reactive Consistency Control In Deductive Databases.","venue":"ACM Trans. Database Syst.","volume":"16","number":"4","pages":"670-702","year":"1991","type":"Journal Articles","key":"journals/tods/MoerkotteL91","doi":"10.1145/115302.115298","ee":"https://doi.org/10.1145/115302.115298","url":"https://dblp.org/rec/journals/tods/MoerkotteL91"},
+"url":"URL#5083110"
+},
+{
+"@score":"1",
+"@id":"5083111",
+"info":{"authors":{"author":[{"@pid":"m/RaviMukkamala","text":"Ravi Mukkamala"},{"@pid":"j/SushilJajodia","text":"Sushil Jajodia"}]},"title":"A Note on Estimating the Cardinality of the Projection of a Database Relation.","venue":"ACM Trans. Database Syst.","volume":"16","number":"3","pages":"564-566","year":"1991","type":"Journal Articles","key":"journals/tods/MukkamalaJ91","doi":"10.1145/111197.111218","ee":"https://doi.org/10.1145/111197.111218","url":"https://dblp.org/rec/journals/tods/MukkamalaJ91"},
+"url":"URL#5083111"
+},
+{
+"@score":"1",
+"@id":"5083112",
+"info":{"authors":{"author":[{"@pid":"n/MauroNegri","text":"Mauro Negri"},{"@pid":"35/1356","text":"Giuseppe Pelagatti"}]},"title":"Distributive Join - A New Algorithm for Joining Relations.","venue":"ACM Trans. Database Syst.","volume":"16","number":"4","pages":"655-669","year":"1991","type":"Journal Articles","key":"journals/tods/NegriP91","doi":"10.1145/115302.115299","ee":"https://doi.org/10.1145/115302.115299","url":"https://dblp.org/rec/journals/tods/NegriP91"},
+"url":"URL#5083112"
+},
+{
+"@score":"1",
+"@id":"5083113",
+"info":{"authors":{"author":[{"@pid":"n/MauroNegri","text":"Mauro Negri"},{"@pid":"35/1356","text":"Giuseppe Pelagatti"},{"@pid":"47/562","text":"Licia Sbattella"}]},"title":"Formal Semantics of SQL Queries.","venue":"ACM Trans. Database Syst.","volume":"16","number":"3","pages":"513-534","year":"1991","type":"Journal Articles","key":"journals/tods/NegriPS91","doi":"10.1145/111197.111212","ee":"https://doi.org/10.1145/111197.111212","url":"https://dblp.org/rec/journals/tods/NegriPS91"},
+"url":"URL#5083113"
+},
+{
+"@score":"1",
+"@id":"5083114",
+"info":{"authors":{"author":[{"@pid":"60/423","text":"Fausto Rabitti"},{"@pid":"b/ElisaBertino","text":"Elisa Bertino"},{"@pid":"86/2627-1","text":"Won Kim 0001"},{"@pid":"89/5812","text":"Darrell Woelk"}]},"title":"A Model of Authorization for Next-Generation Database Systems.","venue":"ACM Trans. Database Syst.","volume":"16","number":"1","pages":"88-131","year":"1991","type":"Journal Articles","key":"journals/tods/RabittiBKW91","doi":"10.1145/103140.103144","ee":"https://doi.org/10.1145/103140.103144","url":"https://dblp.org/rec/journals/tods/RabittiBKW91"},
+"url":"URL#5083114"
+},
+{
+"@score":"1",
+"@id":"5083115",
+"info":{"authors":{"author":{"@pid":"r/NickRoussopoulos","text":"Nick Roussopoulos"}},"title":"An Incremental Access Method for ViewCache - Concept, Algorithms, and Cost Analysis.","venue":"ACM Trans. Database Syst.","volume":"16","number":"3","pages":"535-563","year":"1991","type":"Journal Articles","key":"journals/tods/Roussopoulos91","doi":"10.1145/111197.111215","ee":"https://doi.org/10.1145/111197.111215","url":"https://dblp.org/rec/journals/tods/Roussopoulos91"},
+"url":"URL#5083115"
+},
+{
+"@score":"1",
+"@id":"5083116",
+"info":{"authors":{"author":{"@pid":"44/2304","text":"Edward Sciore"}},"title":"Using Annotations to Support Multiple Kinds of Versioning in an Object-Oriented Database System.","venue":"ACM Trans. Database Syst.","volume":"16","number":"3","pages":"417-438","year":"1991","type":"Journal Articles","key":"journals/tods/Sciore91","doi":"10.1145/111197.111205","ee":"https://doi.org/10.1145/111197.111205","url":"https://dblp.org/rec/journals/tods/Sciore91"},
+"url":"URL#5083116"
+},
+{
+"@score":"1",
+"@id":"5083117",
+"info":{"authors":{"author":[{"@pid":"s/DennisShasha","text":"Dennis E. Shasha"},{"@pid":"w/JasonTsongLiWang","text":"Jason Tsong-Li Wang"}]},"title":"Optimizing Equijoin Queries In Distributed Databases Where Relations Are Hash Partitioned.","venue":"ACM Trans. Database Syst.","volume":"16","number":"2","pages":"279-308","year":"1991","type":"Journal Articles","key":"journals/tods/ShashaW91","doi":"10.1145/114325.103713","ee":"https://doi.org/10.1145/114325.103713","url":"https://dblp.org/rec/journals/tods/ShashaW91"},
+"url":"URL#5083117"
+},
+{
+"@score":"1",
+"@id":"5083118",
+"info":{"authors":{"author":{"@pid":"w/GerhardWeikum","text":"Gerhard Weikum"}},"title":"Principles and Realization Strategies of Multilevel Transaction Management.","venue":"ACM Trans. Database Syst.","volume":"16","number":"1","pages":"132-180","year":"1991","type":"Journal Articles","key":"journals/tods/Weikum91","doi":"10.1145/103140.103145","ee":"https://doi.org/10.1145/103140.103145","url":"https://dblp.org/rec/journals/tods/Weikum91"},
+"url":"URL#5083118"
+},
+{
+"@score":"1",
+"@id":"5083119",
+"info":{"authors":{"author":[{"@pid":"w/OuriWolfson","text":"Ouri Wolfson"},{"@pid":"88/6580","text":"Amir Milo"}]},"title":"The Multicast Policy and Its Relationship to Replicated Data Placement.","venue":"ACM Trans. Database Syst.","volume":"16","number":"1","pages":"181-205","year":"1991","type":"Journal Articles","key":"journals/tods/WolfsonM91","doi":"10.1145/103140.103146","ee":"https://doi.org/10.1145/103140.103146","url":"https://dblp.org/rec/journals/tods/WolfsonM91"},
+"url":"URL#5083119"
+},
+{
+"@score":"1",
+"@id":"5083120",
+"info":{"authors":{"author":[{"@pid":"y/PhilipSYu","text":"Philip S. Yu"},{"@pid":"50/486","text":"Avraham Leff"},{"@pid":"87/2778","text":"Yann-Hang Lee"}]},"title":"On Robust Transaction Routing and Load Sharing.","venue":"ACM Trans. Database Syst.","volume":"16","number":"3","pages":"476-512","year":"1991","type":"Journal Articles","key":"journals/tods/YuLL91","doi":"10.1145/111197.111210","ee":"https://doi.org/10.1145/111197.111210","url":"https://dblp.org/rec/journals/tods/YuLL91"},
+"url":"URL#5083120"
+}
+]
+}
+}
+}

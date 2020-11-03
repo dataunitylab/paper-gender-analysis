@@ -1,0 +1,200 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"cidr\"/\"cidr2003\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"130.56"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"28",
+"@dc":"28",
+"@oc":"28",
+"@id":"17172740",
+"text":":facetid:toc:db/conf/cidr/cidr2003.bht"
+}
+},
+"hits":{
+"@total":"28",
+"@computed":"28",
+"@sent":"28",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"4365636",
+"info":{"authors":{"author":[{"@pid":"a/SanjayAgrawal","text":"Sanjay Agrawal 0001"},{"@pid":"c/SurajitChaudhuri","text":"Surajit Chaudhuri"},{"@pid":"07/1181","text":"Gautam Das 0001"},{"@pid":"g/AristidesGionis","text":"Aristides Gionis"}]},"title":"Automated Ranking of Database Query Results.","venue":"CIDR","year":"2003","type":"Conference and Workshop Papers","key":"conf/cidr/AgrawalCDG03","ee":"http://www-db.cs.wisc.edu/cidr/cidr2003/program/p9.pdf","url":"https://dblp.org/rec/conf/cidr/AgrawalCDG03"},
+"url":"URL#4365636"
+},
+{
+"@score":"1",
+"@id":"4365637",
+"info":{"authors":{"author":{"@pid":"b/PhilipABernstein","text":"Philip A. Bernstein"}},"title":"Applying Model Management to Classical Meta Data Problems.","venue":"CIDR","year":"2003","type":"Conference and Workshop Papers","key":"conf/cidr/Bernstein03","ee":"http://www-db.cs.wisc.edu/cidr/cidr2003/program/p19.pdf","url":"https://dblp.org/rec/conf/cidr/Bernstein03"},
+"url":"URL#4365637"
+},
+{
+"@score":"1",
+"@id":"4365638",
+"info":{"authors":{"author":[{"@pid":"c/StefanoCeri","text":"Stefano Ceri"},{"@pid":"f/PieroFraternali","text":"Piero Fraternali"},{"@pid":"12/1354","text":"Aldo Bongio"},{"@pid":"48/1880","text":"Stefano Butti"},{"@pid":"25/4713","text":"Roberto Acerbis"},{"@pid":"10/166","text":"Marco Tagliasacchi"},{"@pid":"53/2116","text":"Giovanni Toffetti"},{"@pid":"66/3407","text":"Carlo Conserva"},{"@pid":"53/3843","text":"Roberto Elli"},{"@pid":"31/1148","text":"Fulvio Ciapessoni"},{"@pid":"11/3063","text":"Claudio Greppi"}]},"title":"Architectural Issues and Solutions in the Development of Data-Intensive Web Applications.","venue":"CIDR","year":"2003","type":"Conference and Workshop Papers","key":"conf/cidr/CeriFBBATTCECG03","ee":"http://www-db.cs.wisc.edu/cidr/cidr2003/program/p25.pdf","url":"https://dblp.org/rec/conf/cidr/CeriFBBATTCECG03"},
+"url":"URL#4365638"
+},
+{
+"@score":"1",
+"@id":"4365639",
+"info":{"authors":{"author":[{"@pid":"92/597","text":"V. Prasad Chakka"},{"@pid":"26/4437","text":"Adam Everspaugh"},{"@pid":"p/JMPatel","text":"Jignesh M. Patel"}]},"title":"Indexing Large Trajectory Data Sets With SETI.","venue":"CIDR","year":"2003","type":"Conference and Workshop Papers","key":"conf/cidr/ChakkaEP03","ee":"http://www-db.cs.wisc.edu/cidr/cidr2003/program/p15.pdf","url":"https://dblp.org/rec/conf/cidr/ChakkaEP03"},
+"url":"URL#4365639"
+},
+{
+"@score":"1",
+"@id":"4365640",
+"info":{"authors":{"author":[{"@pid":"62/2845","text":"Sirish Chandrasekaran"},{"@pid":"41/2531","text":"Owen Cooper"},{"@pid":"d/AmolDeshpande","text":"Amol Deshpande"},{"@pid":"f/MJFranklin","text":"Michael J. Franklin"},{"@pid":"h/JosephMHellerstein","text":"Joseph M. Hellerstein"},{"@pid":"82/5918-1","text":"Wei Hong 0001"},{"@pid":"k/SaileshKrishnamurthy","text":"Sailesh Krishnamurthy"},{"@pid":"m/SamuelMadden","text":"Samuel Madden"},{"@pid":"r/VijayshankarRaman","text":"Vijayshankar Raman"},{"@pid":"95/459","text":"Frederick Reiss"},{"@pid":"s/MehulAShah","text":"Mehul A. Shah"}]},"title":"TelegraphCQ - Continuous Dataflow Processing for an Uncertain World.","venue":"CIDR","year":"2003","type":"Conference and Workshop Papers","key":"conf/cidr/ChandrasekaranDFHHKMRRS03","ee":"http://www-db.cs.wisc.edu/cidr/cidr2003/program/p24.pdf","url":"https://dblp.org/rec/conf/cidr/ChandrasekaranDFHHKMRRS03"},
+"url":"URL#4365640"
+},
+{
+"@score":"1",
+"@id":"4365641",
+"info":{"authors":{"author":[{"@pid":"c/MitchCherniack","text":"Mitch Cherniack"},{"@pid":"b/HariBalakrishnan","text":"Hari Balakrishnan"},{"@pid":"b/MagdalenaBalazinska","text":"Magdalena Balazinska"},{"@pid":"06/3450","text":"Donald Carney"},{"@pid":"c/UgurCetintemel","text":"Ugur Çetintemel"},{"@pid":"79/5063","text":"Ying Xing"},{"@pid":"z/SBZdonik","text":"Stanley B. Zdonik"}]},"title":"Scalable Distributed Stream Processing.","venue":"CIDR","year":"2003","type":"Conference and Workshop Papers","key":"conf/cidr/CherniackBBCCXZ03","ee":"http://www-db.cs.wisc.edu/cidr/cidr2003/program/p23.pdf","url":"https://dblp.org/rec/conf/cidr/CherniackBBCCXZ03"},
+"url":"URL#4365641"
+},
+{
+"@score":"1",
+"@id":"4365642",
+"info":{"authors":{"author":[{"@pid":"70/3007","text":"Daniela Florescu"},{"@pid":"60/2581","text":"Andreas Grünhagen"},{"@pid":"k/DonaldKossmann","text":"Donald Kossmann"}]},"title":"XL - a platform for Web Services.","venue":"CIDR","year":"2003","type":"Conference and Workshop Papers","key":"conf/cidr/FlorescuGK03","ee":"http://www-db.cs.wisc.edu/cidr/cidr2003/program/p8.pdf","url":"https://dblp.org/rec/conf/cidr/FlorescuGK03"},
+"url":"URL#4365642"
+},
+{
+"@score":"1",
+"@id":"4365643",
+"info":{"authors":{"author":[{"@pid":"f/IanTFoster","text":"Ian T. Foster"},{"@pid":"55/200","text":"Jens-S. Vöckler"},{"@pid":"19/3006","text":"Michael Wilde"},{"@pid":"14/1356-9","text":"Yong Zhao 0009"}]},"title":"The Virtual Data Grid - A New Model and Architecture for Data-Intensive Collaboration.","venue":"CIDR","year":"2003","type":"Conference and Workshop Papers","key":"conf/cidr/FosterVWZ03","ee":"http://www-db.cs.wisc.edu/cidr/cidr2003/program/p18.pdf","url":"https://dblp.org/rec/conf/cidr/FosterVWZ03"},
+"url":"URL#4365643"
+},
+{
+"@score":"1",
+"@id":"4365644",
+"info":{"authors":{"author":{"@pid":"g/GoetzGraefe","text":"Goetz Graefe"}},"title":"Sorting And Indexing With Partitioned B-Trees.","venue":"CIDR","year":"2003","type":"Conference and Workshop Papers","key":"conf/cidr/Graefe03","ee":"http://www-db.cs.wisc.edu/cidr/cidr2003/program/p1.pdf","url":"https://dblp.org/rec/conf/cidr/Graefe03"},
+"url":"URL#4365644"
+},
+{
+"@score":"1",
+"@id":"4365645",
+"info":{"authors":{"author":[{"@pid":"18/6404","text":"Abhishek Gupta"},{"@pid":"a/DivyakantAgrawal","text":"Divyakant Agrawal"},{"@pid":"a/AmrElAbbadi","text":"Amr El Abbadi"}]},"title":"Approximate Range Selection Queries in Peer-to-Peer Systems.","venue":"CIDR","year":"2003","type":"Conference and Workshop Papers","key":"conf/cidr/GuptaA03","ee":"http://www-db.cs.wisc.edu/cidr/cidr2003/program/p13.pdf","url":"https://dblp.org/rec/conf/cidr/GuptaA03"},
+"url":"URL#4365645"
+},
+{
+"@score":"1",
+"@id":"4365646",
+"info":{"authors":{"author":[{"@pid":"h/AlonYHalevy","text":"Alon Y. Halevy"},{"@pid":"e/OEtzioni","text":"Oren Etzioni"},{"@pid":"d/AnHaiDoan","text":"AnHai Doan"},{"@pid":"i/ZacharyGIves","text":"Zachary G. Ives"},{"@pid":"76/5642","text":"Jayant Madhavan"},{"@pid":"159/4555","text":"Luke K. McDowell"},{"@pid":"56/1548","text":"Igor Tatarinov"}]},"title":"Crossing the Structure Chasm.","venue":"CIDR","year":"2003","type":"Conference and Workshop Papers","key":"conf/cidr/HalevyED03","ee":"http://www-db.cs.wisc.edu/cidr/cidr2003/program/p11.pdf","url":"https://dblp.org/rec/conf/cidr/HalevyED03"},
+"url":"URL#4365646"
+},
+{
+"@score":"1",
+"@id":"4365647",
+"info":{"authors":{"author":{"@pid":"h/JamesRHamilton","text":"James R. Hamilton"}},"title":"Active Server Availability Feedback.","venue":"CIDR","year":"2003","type":"Conference and Workshop Papers","key":"conf/cidr/Hamilton03","ee":"http://www-db.cs.wisc.edu/cidr/cidr2003/program/p4.pdf","url":"https://dblp.org/rec/conf/cidr/Hamilton03"},
+"url":"URL#4365647"
+},
+{
+"@score":"1",
+"@id":"4365648",
+"info":{"authors":{"author":[{"@pid":"h/JoachimHammer","text":"Joachim Hammer"},{"@pid":"s/MarkusSchneider1","text":"Markus Schneider 0001"}]},"title":"Genomics Algebra - A New, Integrating Data Model, Language, and Tool for Processing and Querying Genomic Information.","venue":"CIDR","year":"2003","type":"Conference and Workshop Papers","key":"conf/cidr/HammerS03","ee":"http://www-db.cs.wisc.edu/cidr/cidr2003/program/p16.pdf","url":"https://dblp.org/rec/conf/cidr/HammerS03"},
+"url":"URL#4365648"
+},
+{
+"@score":"1",
+"@id":"4365649",
+"info":{"authors":{"author":[{"@pid":"38/6308","text":"Stavros Harizopoulos"},{"@pid":"a/AnastassiaAilamaki","text":"Anastassia Ailamaki"}]},"title":"A Case for Staged Database Systems.","venue":"CIDR","year":"2003","type":"Conference and Workshop Papers","key":"conf/cidr/HarizopoulosA03","ee":"http://www-db.cs.wisc.edu/cidr/cidr2003/program/p3.pdf","url":"https://dblp.org/rec/conf/cidr/HarizopoulosA03"},
+"url":"URL#4365649"
+},
+{
+"@score":"1",
+"@id":"4365650",
+"info":{"authors":{"author":{"@pid":"96/2901","text":"Dean Jacobs"}},"title":"Distributed Computing with BEA WebLogic Server.","venue":"CIDR","year":"2003","type":"Conference and Workshop Papers","key":"conf/cidr/Jacobs03","ee":"http://www-db.cs.wisc.edu/cidr/cidr2003/program/p26.pdf","url":"https://dblp.org/rec/conf/cidr/Jacobs03"},
+"url":"URL#4365650"
+},
+{
+"@score":"1",
+"@id":"4365651",
+"info":{"authors":{"author":[{"@pid":"k/YahikoKambayashi","text":"Yahiko Kambayashi"},{"@pid":"23/2177","text":"Kai Cheng"}]},"title":"Capacity Bound-free Web Warehouse.","venue":"CIDR","year":"2003","type":"Conference and Workshop Papers","key":"conf/cidr/KambayashiC03","ee":"http://www-db.cs.wisc.edu/cidr/cidr2003/program/p5.pdf","url":"https://dblp.org/rec/conf/cidr/KambayashiC03"},
+"url":"URL#4365651"
+},
+{
+"@score":"1",
+"@id":"4365652",
+"info":{"authors":{"author":[{"@pid":"m/TanuMalik","text":"Tanu Malik"},{"@pid":"s/AlexanderSSzalay","text":"Alexander S. Szalay"},{"@pid":"49/161","text":"Tamas Budavari"},{"@pid":"t/AniThakar","text":"Ani Thakar"}]},"title":"SkyQuery - A Web Service Approach to Federate Databases.","venue":"CIDR","year":"2003","type":"Conference and Workshop Papers","key":"conf/cidr/MalikS03","ee":"http://www-db.cs.wisc.edu/cidr/cidr2003/program/p17.pdf","url":"https://dblp.org/rec/conf/cidr/MalikS03"},
+"url":"URL#4365652"
+},
+{
+"@score":"1",
+"@id":"4365653",
+"info":{"authors":{"author":{"@pid":"m/JulieAMcCann","text":"Julie A. McCann"}},"title":"The Database Machine - Old Story, New Slant?","venue":"CIDR","year":"2003","type":"Conference and Workshop Papers","key":"conf/cidr/McCann03","ee":"http://www-db.cs.wisc.edu/cidr/cidr2003/program/p6.pdf","url":"https://dblp.org/rec/conf/cidr/McCann03"},
+"url":"URL#4365653"
+},
+{
+"@score":"1",
+"@id":"4365654",
+"info":{"authors":{"author":[{"@pid":"m/RajeevMotwani","text":"Rajeev Motwani 0001"},{"@pid":"w/JenniferWidom","text":"Jennifer Widom"},{"@pid":"a/ArvindArasu","text":"Arvind Arasu"},{"@pid":"30/4388","text":"Brian Babcock"},{"@pid":"b/ShivnathBabu","text":"Shivnath Babu"},{"@pid":"06/3699","text":"Mayur Datar"},{"@pid":"m/GSManku","text":"Gurmeet Singh Manku"},{"@pid":"o/ChristopherOlston","text":"Chris Olston"},{"@pid":"12/4459","text":"Justin Rosenstein"},{"@pid":"36/3776","text":"Rohit Varma"}]},"title":"Query Processing, Approximation, and Resource Management in a Data Stream Management System.","venue":"CIDR","year":"2003","type":"Conference and Workshop Papers","key":"conf/cidr/MotwaniWABBDMORV03","ee":"http://www-db.cs.wisc.edu/cidr/cidr2003/program/p22.pdf","url":"https://dblp.org/rec/conf/cidr/MotwaniWABBDMORV03"},
+"url":"URL#4365654"
+},
+{
+"@score":"1",
+"@id":"4365655",
+"info":{"authors":{"author":[{"@pid":"97/4830","text":"Vassilis Papadimos"},{"@pid":"m/DavidMaier","text":"David Maier 0001"},{"@pid":"t/KristinTufte","text":"Kristin Tufte"}]},"title":"Distributed Query Processing and Catalogs for Peer-to-Peer Systems.","venue":"CIDR","year":"2003","type":"Conference and Workshop Papers","key":"conf/cidr/PapadimosM03","ee":"http://www-db.cs.wisc.edu/cidr/cidr2003/program/p12.pdf","url":"https://dblp.org/rec/conf/cidr/PapadimosM03"},
+"url":"URL#4365655"
+},
+{
+"@score":"1",
+"@id":"4365656",
+"info":{"authors":{"author":[{"@pid":"p/NeoklisPolyzotis","text":"Neoklis Polyzotis"},{"@pid":"i/YEIoannidis","text":"Yannis E. Ioannidis"}]},"title":"Speculative Query Processing.","venue":"CIDR","year":"2003","type":"Conference and Workshop Papers","key":"conf/cidr/PolyzotisI03","ee":"http://www-db.cs.wisc.edu/cidr/cidr2003/program/p2.pdf","url":"https://dblp.org/rec/conf/cidr/PolyzotisI03"},
+"url":"URL#4365656"
+},
+{
+"@score":"1",
+"@id":"4365657",
+"info":{"authors":{"author":[{"@pid":"s/ArnaudSahuguet","text":"Arnaud Sahuguet"},{"@pid":"h/RichardHull","text":"Richard Hull 0001"},{"@pid":"l/DFLieuwen","text":"Daniel F. Lieuwen"},{"@pid":"x/MingXiong","text":"Ming Xiong"}]},"title":"Enter Once, Share Everywhere - User Profile Management in Converged Networks.","venue":"CIDR","year":"2003","type":"Conference and Workshop Papers","key":"conf/cidr/SahuguetHLX03","ee":"http://www-db.cs.wisc.edu/cidr/cidr2003/program/p14.pdf","url":"https://dblp.org/rec/conf/cidr/SahuguetHLX03"},
+"url":"URL#4365657"
+},
+{
+"@score":"1",
+"@id":"4365658",
+"info":{"authors":{"author":{"@pid":"s/CyrusShahabi","text":"Cyrus Shahabi"}},"title":"AIMS - An Immersidata Management System.","venue":"CIDR","year":"2003","type":"Conference and Workshop Papers","key":"conf/cidr/Shahabi03","ee":"http://www-db.cs.wisc.edu/cidr/cidr2003/program/p20.pdf","url":"https://dblp.org/rec/conf/cidr/Shahabi03"},
+"url":"URL#4365658"
+},
+{
+"@score":"1",
+"@id":"4365659",
+"info":{"authors":{"author":[{"@pid":"s/SergejSizov","text":"Sergej Sizov"},{"@pid":"t/MartinTheobald","text":"Martin Theobald"},{"@pid":"s/StefanSiersdorfer","text":"Stefan Siersdorfer"},{"@pid":"w/GerhardWeikum","text":"Gerhard Weikum"},{"@pid":"g/JensGraupmann","text":"Jens Graupmann"},{"@pid":"83/3993","text":"Michael Biwer"},{"@pid":"36/5518","text":"Patrick Zimmer"}]},"title":"The BINGO! System for Information Portal Generation and Expert Web Search.","venue":"CIDR","year":"2003","type":"Conference and Workshop Papers","key":"conf/cidr/SizovTSWGBZ03","ee":"http://www-db.cs.wisc.edu/cidr/cidr2003/program/p7.pdf","url":"https://dblp.org/rec/conf/cidr/SizovTSWGBZ03"},
+"url":"URL#4365659"
+},
+{
+"@score":"1",
+"@id":"4365660",
+"info":{"authors":{"author":[{"@pid":"t/PeterTriantafillou","text":"Peter Triantafillou"},{"@pid":"24/555","text":"Chryssani Xiruhaki"},{"@pid":"40/4517","text":"Manolis Koubarakis"},{"@pid":"n/NikosNtarmos","text":"Nikos Ntarmos"}]},"title":"Towards High Performance Peer-to-Peer Content and Resource Sharing Systems.","venue":"CIDR","year":"2003","type":"Conference and Workshop Papers","key":"conf/cidr/TriantafillouXKN03","ee":"http://www-db.cs.wisc.edu/cidr/cidr2003/program/p10.pdf","url":"https://dblp.org/rec/conf/cidr/TriantafillouXKN03"},
+"url":"URL#4365660"
+},
+{
+"@score":"1",
+"@id":"4365661",
+"info":{"authors":{"author":[{"@pid":"28/3700","text":"Aravind Yalamanchi"},{"@pid":"67/5256","text":"Jagannathan Srinivasan"},{"@pid":"03/2725","text":"Dieter Gawlick"}]},"title":"Managing Expressions as Data in Relational Database Systems.","venue":"CIDR","year":"2003","type":"Conference and Workshop Papers","key":"conf/cidr/YalamanchiSG03","ee":"http://www-db.cs.wisc.edu/cidr/cidr2003/program/p27.pdf","url":"https://dblp.org/rec/conf/cidr/YalamanchiSG03"},
+"url":"URL#4365661"
+},
+{
+"@score":"1",
+"@id":"4365662",
+"info":{"authors":{"author":[{"@pid":"37/6300","text":"Yong Yao"},{"@pid":"g/JohannesGehrke","text":"Johannes Gehrke"}]},"title":"Query Processing in Sensor Networks.","venue":"CIDR","year":"2003","type":"Conference and Workshop Papers","key":"conf/cidr/YaoG03","ee":"http://www-db.cs.wisc.edu/cidr/cidr2003/program/p21.pdf","url":"https://dblp.org/rec/conf/cidr/YaoG03"},
+"url":"URL#4365662"
+},
+{
+"@score":"1",
+"@id":"4419682",
+"info":{"title":"CIDR 2003, First Biennial Conference on Innovative Data Systems Research, Asilomar, CA, USA, January 5-8, 2003, Online Proceedings","venue":"CIDR","publisher":"www.cidrdb.org","year":"2003","type":"Editorship","key":"conf/cidr/2003","ee":"http://cidrdb.org/cidr2003/index.html","url":"https://dblp.org/rec/conf/cidr/2003"},
+"url":"URL#4419682"
+}
+]
+}
+}
+}

@@ -1,0 +1,110 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"journals\"/\"tods\"/\"tods20\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"127.93"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"13",
+"@dc":"13",
+"@oc":"13",
+"@id":"17255824",
+"text":":facetid:toc:db/journals/tods/tods20.bht"
+}
+},
+"hits":{
+"@total":"13",
+"@computed":"13",
+"@sent":"13",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"4926689",
+"info":{"authors":{"author":[{"@pid":"a/AAiken","text":"Alexander Aiken"},{"@pid":"h/JosephMHellerstein","text":"Joseph M. Hellerstein"},{"@pid":"w/JenniferWidom","text":"Jennifer Widom"}]},"title":"Static Analysis Techniques for Predicting the Behavior of Active Database Rules.","venue":"ACM Trans. Database Syst.","volume":"20","number":"1","pages":"3-41","year":"1995","type":"Journal Articles","key":"journals/tods/AikenHW95","doi":"10.1145/202106.202107","ee":"https://doi.org/10.1145/202106.202107","url":"https://dblp.org/rec/journals/tods/AikenHW95"},
+"url":"URL#4926689"
+},
+{
+"@score":"1",
+"@id":"4926690",
+"info":{"authors":{"author":[{"@pid":"06/4749","text":"Lars Bækgaard"},{"@pid":"03/5097","text":"Leo Mark"}]},"title":"Incremental Computation of Nested Relational Query Expressions.","venue":"ACM Trans. Database Syst.","volume":"20","number":"2","pages":"111-148","year":"1995","type":"Journal Articles","key":"journals/tods/BaekgaardM95","doi":"10.1145/210197.210198","ee":"https://doi.org/10.1145/210197.210198","url":"https://dblp.org/rec/journals/tods/BaekgaardM95"},
+"url":"URL#4926690"
+},
+{
+"@score":"1",
+"@id":"4926691",
+"info":{"authors":{"author":[{"@pid":"c/StefanoCeri","text":"Stefano Ceri"},{"@pid":"f/PieroFraternali","text":"Piero Fraternali"},{"@pid":"05/600","text":"Stefano Paraboschi"},{"@pid":"t/LetiziaTanca","text":"Letizia Tanca"}]},"title":"Addendum to &quot;Automatic Generation of Production Rules for Integrity Maintenance&quot;.","venue":"ACM Trans. Database Syst.","volume":"20","number":"3","pages":"364","year":"1995","type":"Journal Articles","key":"journals/tods/CeriFPT95","url":"https://dblp.org/rec/journals/tods/CeriFPT95"},
+"url":"URL#4926691"
+},
+{
+"@score":"1",
+"@id":"4926692",
+"info":{"authors":{"author":{"@pid":"196/5142","text":"Weidong Chen"}},"title":"Declarative Updates of Relational Databases.","venue":"ACM Trans. Database Syst.","volume":"20","number":"1","pages":"42-70","year":"1995","type":"Journal Articles","key":"journals/tods/Chen95","doi":"10.1145/202106.202110","ee":"https://doi.org/10.1145/202106.202110","url":"https://dblp.org/rec/journals/tods/Chen95"},
+"url":"URL#4926692"
+},
+{
+"@score":"1",
+"@id":"4926693",
+"info":{"authors":{"author":{"@pid":"196/5142","text":"Weidong Chen"}},"title":"Query Evaluation in Deductive Databases with Alternating Fixpoint Semantics","venue":"ACM Trans. Database Syst.","volume":"20","number":"3","pages":"239-287","year":"1995","type":"Journal Articles","key":"journals/tods/Chen95a","doi":"10.1145/211414.211416","ee":"https://doi.org/10.1145/211414.211416","url":"https://dblp.org/rec/journals/tods/Chen95a"},
+"url":"URL#4926693"
+},
+{
+"@score":"1",
+"@id":"4926694",
+"info":{"authors":{"author":[{"@pid":"32/2369","text":"I-Min A. Chen"},{"@pid":"h/RichardHull","text":"Richard Hull 0001"},{"@pid":"m/DennisMcLeod","text":"Dennis McLeod"}]},"title":"An Execution Model for Limited Ambiguity Rules and Its Application to Derived Data Update.","venue":"ACM Trans. Database Syst.","volume":"20","number":"4","pages":"365-413","year":"1995","type":"Journal Articles","key":"journals/tods/ChenHM95","doi":"10.1145/219035.219039","ee":"https://doi.org/10.1145/219035.219039","url":"https://dblp.org/rec/journals/tods/ChenHM95"},
+"url":"URL#4926694"
+},
+{
+"@score":"1",
+"@id":"4926695",
+"info":{"authors":{"author":{"@pid":"c/JChomicki","text":"Jan Chomicki"}},"title":"Efficient Checking of Temporal Integrity Constraints Using Bounded History Encoding.","venue":"ACM Trans. Database Syst.","volume":"20","number":"2","pages":"149-186","year":"1995","type":"Journal Articles","key":"journals/tods/Chomicki95","doi":"10.1145/210197.210200","ee":"https://doi.org/10.1145/210197.210200","url":"https://dblp.org/rec/journals/tods/Chomicki95"},
+"url":"URL#4926695"
+},
+{
+"@score":"1",
+"@id":"4926696",
+"info":{"authors":{"author":[{"@pid":"f/PieroFraternali","text":"Piero Fraternali"},{"@pid":"t/LetiziaTanca","text":"Letizia Tanca"}]},"title":"A Structured Approach for the Definition of the Semantics of Active Databases.","venue":"ACM Trans. Database Syst.","volume":"20","number":"4","pages":"414-471","year":"1995","type":"Journal Articles","key":"journals/tods/FraternaliT95","doi":"10.1145/219035.219042","ee":"https://doi.org/10.1145/219035.219042","url":"https://dblp.org/rec/journals/tods/FraternaliT95"},
+"url":"URL#4926696"
+},
+{
+"@score":"1",
+"@id":"4926697",
+"info":{"authors":{"author":[{"@pid":"g/GoetzGraefe","text":"Goetz Graefe"},{"@pid":"44/1222","text":"Richard L. Cole"}]},"title":"Fast Algorithms for Universal Quantification in Large Databases.","venue":"ACM Trans. Database Syst.","volume":"20","number":"2","pages":"187-236","year":"1995","type":"Journal Articles","key":"journals/tods/GraefeC95","doi":"10.1145/210197.210202","ee":"https://doi.org/10.1145/210197.210202","url":"https://dblp.org/rec/journals/tods/GraefeC95"},
+"url":"URL#4926697"
+},
+{
+"@score":"1",
+"@id":"4926698",
+"info":{"authors":{"author":[{"@pid":"i/YEIoannidis","text":"Yannis E. Ioannidis"},{"@pid":"r/RaghuRamakrishnan","text":"Raghu Ramakrishnan"}]},"title":"Containment of Conjunctive Queries - Beyond Relations as Sets","venue":"ACM Trans. Database Syst.","volume":"20","number":"3","pages":"288-324","year":"1995","type":"Journal Articles","key":"journals/tods/IoannidisR95","doi":"10.1145/211414.211419","ee":"https://doi.org/10.1145/211414.211419","url":"https://dblp.org/rec/journals/tods/IoannidisR95"},
+"url":"URL#4926698"
+},
+{
+"@score":"1",
+"@id":"4926699",
+"info":{"authors":{"author":{"@pid":"j/HVJagadish","text":"H. V. Jagadish"}},"title":"The INCINERATE Data Model.","venue":"ACM Trans. Database Syst.","volume":"20","number":"1","pages":"71-110","year":"1995","type":"Journal Articles","key":"journals/tods/Jagadish95","doi":"10.1145/202106.202113","ee":"https://doi.org/10.1145/202106.202113","url":"https://dblp.org/rec/journals/tods/Jagadish95"},
+"url":"URL#4926699"
+},
+{
+"@score":"1",
+"@id":"4926700",
+"info":{"authors":{"author":[{"@pid":"s/DennisShasha","text":"Dennis E. Shasha"},{"@pid":"l/FLlirbat","text":"François Llirbat"},{"@pid":"s/EricSimon","text":"Eric Simon"},{"@pid":"v/PatrickValduriez","text":"Patrick Valduriez"}]},"title":"Transaction Chopping - Algorithms and Performance Studies","venue":"ACM Trans. Database Syst.","volume":"20","number":"3","pages":"325-363","year":"1995","type":"Journal Articles","key":"journals/tods/ShashaLSV95","doi":"10.1145/211414.211427","ee":"https://doi.org/10.1145/211414.211427","url":"https://dblp.org/rec/journals/tods/ShashaLSV95"},
+"url":"URL#4926700"
+},
+{
+"@score":"1",
+"@id":"4926701",
+"info":{"authors":{"author":[{"@pid":"s/DiveshSrivastava","text":"Divesh Srivastava"},{"@pid":"s/SSudarshan1","text":"S. Sudarshan 0001"},{"@pid":"r/RaghuRamakrishnan","text":"Raghu Ramakrishnan"},{"@pid":"n/JeffreyFNaughton","text":"Jeffrey F. Naughton"}]},"title":"Space Optimization in Deductive Databases.","venue":"ACM Trans. Database Syst.","volume":"20","number":"4","pages":"472-516","year":"1995","type":"Journal Articles","key":"journals/tods/SrivastavaSRN95","doi":"10.1145/219035.219056","ee":"https://doi.org/10.1145/219035.219056","url":"https://dblp.org/rec/journals/tods/SrivastavaSRN95"},
+"url":"URL#4926701"
+}
+]
+}
+}
+}

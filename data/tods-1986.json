@@ -1,0 +1,164 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"journals\"/\"tods\"/\"tods11\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"103.51"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"22",
+"@dc":"22",
+"@oc":"22",
+"@id":"17255814",
+"text":":facetid:toc:db/journals/tods/tods11.bht"
+}
+},
+"hits":{
+"@total":"22",
+"@computed":"22",
+"@sent":"22",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"5191188",
+"info":{"authors":{"author":{"@pid":"93/2221","text":"Gad Ariav"}},"title":"A Temporally Oriented Data Model.","venue":"ACM Trans. Database Syst.","volume":"11","number":"4","pages":"499-527","year":"1986","type":"Journal Articles","key":"journals/tods/Ariav86","doi":"10.1145/7239.7350","ee":"https://doi.org/10.1145/7239.7350","url":"https://dblp.org/rec/journals/tods/Ariav86"},
+"url":"URL#5191188"
+},
+{
+"@score":"1",
+"@id":"5191189",
+"info":{"authors":{"author":{"@pid":"b/RudolfBayer","text":"Rudolf Bayer"}},"title":"Consistency of Transactions and Random Batch.","venue":"ACM Trans. Database Syst.","volume":"11","number":"4","pages":"397-404","year":"1986","type":"Journal Articles","key":"journals/tods/Bayer86","doi":"10.1145/7239.214287","ee":"https://doi.org/10.1145/7239.214287","url":"https://dblp.org/rec/journals/tods/Bayer86"},
+"url":"URL#5191189"
+},
+{
+"@score":"1",
+"@id":"5191190",
+"info":{"authors":{"author":[{"@pid":"b/CBeeri","text":"Catriel Beeri"},{"@pid":"k/MichaelKifer","text":"Michael Kifer"}]},"title":"An Integrated Approach to Logical Design of Relational Database Schemes.","venue":"ACM Trans. Database Syst.","volume":"11","number":"2","pages":"134-158","year":"1986","type":"Journal Articles","key":"journals/tods/BeeriK86","doi":"10.1145/5922.214291","ee":"https://doi.org/10.1145/5922.214291","url":"https://dblp.org/rec/journals/tods/BeeriK86"},
+"url":"URL#5191190"
+},
+{
+"@score":"1",
+"@id":"5191191",
+"info":{"authors":{"author":[{"@pid":"g/HGarciaMolina","text":"Hector Garcia-Molina"},{"@pid":"15/1553","text":"Frank M. Pittelli"},{"@pid":"d/SBDavidson","text":"Susan B. Davidson"}]},"title":"Applications of Byzantine Agreement in Database Systems.","venue":"ACM Trans. Database Syst.","volume":"11","number":"1","pages":"27-47","year":"1986","type":"Journal Articles","key":"journals/tods/Garcia-MolinaPD86","doi":"10.1145/5236.5243","ee":"https://doi.org/10.1145/5236.5243","url":"https://dblp.org/rec/journals/tods/Garcia-MolinaPD86"},
+"url":"URL#5191191"
+},
+{
+"@score":"1",
+"@id":"5191192",
+"info":{"authors":{"author":[{"@pid":"28/2436","text":"Anil K. Garg"},{"@pid":"g/CCGotlieb","text":"C. C. Gotlieb"}]},"title":"Order-Preserving Key Transformations.","venue":"ACM Trans. Database Syst.","volume":"11","number":"2","pages":"213-234","year":"1986","type":"Journal Articles","key":"journals/tods/GargG86","doi":"10.1145/5922.5923","ee":"https://doi.org/10.1145/5922.5923","url":"https://dblp.org/rec/journals/tods/GargG86"},
+"url":"URL#5191192"
+},
+{
+"@score":"1",
+"@id":"5191193",
+"info":{"authors":{"author":[{"@pid":"22/3470","text":"Bezalel Gavish"},{"@pid":"s/ArieSegev","text":"Arie Segev"}]},"title":"Set Query Optimization in Distributed Database Systems.","venue":"ACM Trans. Database Syst.","volume":"11","number":"3","pages":"265-293","year":"1986","type":"Journal Articles","key":"journals/tods/GavishS86","doi":"10.1145/6314.6488","ee":"https://doi.org/10.1145/6314.6488","url":"https://dblp.org/rec/journals/tods/GavishS86"},
+"url":"URL#5191193"
+},
+{
+"@score":"1",
+"@id":"5191194",
+"info":{"authors":{"author":{"@pid":"03/2725","text":"Dieter Gawlick"}},"title":"Report on the International Workshop on High-Performance Transaction Systems.","venue":"ACM Trans. Database Syst.","volume":"11","number":"4","pages":"375-377","year":"1986","type":"Journal Articles","key":"journals/tods/Gawlick86","doi":"10.1145/7239.17346","ee":"https://doi.org/10.1145/7239.17346","url":"https://dblp.org/rec/journals/tods/Gawlick86"},
+"url":"URL#5191194"
+},
+{
+"@score":"1",
+"@id":"5191195",
+"info":{"authors":{"author":[{"@pid":"g/SeymourGinsburg","text":"Seymour Ginsburg"},{"@pid":"44/3648","text":"Katsumi Tanaka"}]},"title":"Computation-Tuple Sequences and Object Histories.","venue":"ACM Trans. Database Syst.","volume":"11","number":"2","pages":"186-212","year":"1986","type":"Journal Articles","key":"journals/tods/GinsburgT86","doi":"10.1145/5922.5924","ee":"https://doi.org/10.1145/5922.5924","url":"https://dblp.org/rec/journals/tods/GinsburgT86"},
+"url":"URL#5191195"
+},
+{
+"@score":"1",
+"@id":"5191196",
+"info":{"authors":{"author":{"@pid":"g/MarcGyssens","text":"Marc Gyssens"}},"title":"On the Complexity of Join Dependencies.","venue":"ACM Trans. Database Syst.","volume":"11","number":"1","pages":"81-108","year":"1986","type":"Journal Articles","key":"journals/tods/Gyssens86","doi":"10.1145/5236.5237","ee":"https://doi.org/10.1145/5236.5237","url":"https://dblp.org/rec/journals/tods/Gyssens86"},
+"url":"URL#5191196"
+},
+{
+"@score":"1",
+"@id":"5191197",
+"info":{"authors":{"author":[{"@pid":"12/2764","text":"Robert B. Hagmann"},{"@pid":"98/2580","text":"Domenico Ferrari"}]},"title":"Performance Analysis of Several Back-End Database Architectures.","venue":"ACM Trans. Database Syst.","volume":"11","number":"1","pages":"1-26","year":"1986","type":"Journal Articles","key":"journals/tods/HagmannF86","doi":"10.1145/5236.5242","ee":"https://doi.org/10.1145/5236.5242","url":"https://dblp.org/rec/journals/tods/HagmannF86"},
+"url":"URL#5191197"
+},
+{
+"@score":"1",
+"@id":"5191198",
+"info":{"authors":{"author":[{"@pid":"40/4895","text":"Meichun Hsu"},{"@pid":"16/4154","text":"Arvola Chan"}]},"title":"Partitioned Two-Phase Locking.","venue":"ACM Trans. Database Syst.","volume":"11","number":"4","pages":"431-446","year":"1986","type":"Journal Articles","key":"journals/tods/HsuC86","doi":"10.1145/7239.7477","ee":"https://doi.org/10.1145/7239.7477","url":"https://dblp.org/rec/journals/tods/HsuC86"},
+"url":"URL#5191198"
+},
+{
+"@score":"1",
+"@id":"5191199",
+"info":{"authors":{"author":[{"@pid":"22/3097","text":"Stéphane Lafortune"},{"@pid":"95/2864","text":"Eugene Wong 0001"}]},"title":"A State Transition Model for Distributed Query Processing.","venue":"ACM Trans. Database Syst.","volume":"11","number":"3","pages":"294-322","year":"1986","type":"Journal Articles","key":"journals/tods/LafortuneW86","doi":"10.1145/6314.6460","ee":"https://doi.org/10.1145/6314.6460","url":"https://dblp.org/rec/journals/tods/LafortuneW86"},
+"url":"URL#5191199"
+},
+{
+"@score":"1",
+"@id":"5191200",
+"info":{"authors":{"author":{"@pid":"l/EliezerLLozinskii","text":"Eliezer L. Lozinskii"}},"title":"A Problem-Oriented Inferential Database System.","venue":"ACM Trans. Database Syst.","volume":"11","number":"3","pages":"323-356","year":"1986","type":"Journal Articles","key":"journals/tods/Lozinskii86","doi":"10.1145/6314.6419","ee":"https://doi.org/10.1145/6314.6419","url":"https://dblp.org/rec/journals/tods/Lozinskii86"},
+"url":"URL#5191200"
+},
+{
+"@score":"1",
+"@id":"5191201",
+"info":{"authors":{"author":[{"@pid":"37/5799","text":"W. S. Luk"},{"@pid":"77/6102","text":"Steve Kloster"}]},"title":"ELFS - English Language From SQL.","venue":"ACM Trans. Database Syst.","volume":"11","number":"4","pages":"447-472","year":"1986","type":"Journal Articles","key":"journals/tods/LukK86","doi":"10.1145/7239.384276","ee":"https://doi.org/10.1145/7239.384276","url":"https://dblp.org/rec/journals/tods/LukK86"},
+"url":"URL#5191201"
+},
+{
+"@score":"1",
+"@id":"5191202",
+"info":{"authors":{"author":[{"@pid":"87/1537","text":"Haim Mendelson"},{"@pid":"97/533","text":"Aditya N. Saharia"}]},"title":"Incomplete Information Costs and Database Design.","venue":"ACM Trans. Database Syst.","volume":"11","number":"2","pages":"159-185","year":"1986","type":"Journal Articles","key":"journals/tods/MendelsonS86","doi":"10.1145/5922.5678","ee":"https://doi.org/10.1145/5922.5678","url":"https://dblp.org/rec/journals/tods/MendelsonS86"},
+"url":"URL#5191202"
+},
+{
+"@score":"1",
+"@id":"5191203",
+"info":{"authors":{"author":[{"@pid":"m/CMohan","text":"C. Mohan 0001"},{"@pid":"l/BruceGLindsay1","text":"Bruce G. Lindsay 0001"},{"@pid":"53/6002","text":"Ron Obermarck"}]},"title":"Transaction Management in the R* Distributed Database Management System.","venue":"ACM Trans. Database Syst.","volume":"11","number":"4","pages":"378-396","year":"1986","type":"Journal Articles","key":"journals/tods/MohanLO86","doi":"10.1145/7239.7266","ee":"https://doi.org/10.1145/7239.7266","url":"https://dblp.org/rec/journals/tods/MohanLO86"},
+"url":"URL#5191203"
+},
+{
+"@score":"1",
+"@id":"5191204",
+"info":{"authors":{"author":{"@pid":"o/PatrickEONeil","text":"Patrick E. O&apos;Neil"}},"title":"The Escrow Transactional Method.","venue":"ACM Trans. Database Syst.","volume":"11","number":"4","pages":"405-430","year":"1986","type":"Journal Articles","key":"journals/tods/ONeil86","doi":"10.1145/7239.7265","ee":"https://doi.org/10.1145/7239.7265","url":"https://dblp.org/rec/journals/tods/ONeil86"},
+"url":"URL#5191204"
+},
+{
+"@score":"1",
+"@id":"5191205",
+"info":{"authors":{"author":[{"@pid":"o/SylviaLOsborn","text":"Sylvia L. Osborn"},{"@pid":"23/3995","text":"T. E. Heaven"}]},"title":"The Design of a Relational Database System with Abstract Data Types for Domains.","venue":"ACM Trans. Database Syst.","volume":"11","number":"3","pages":"357-373","year":"1986","type":"Journal Articles","key":"journals/tods/OsbornH86","doi":"10.1145/6314.6461","ee":"https://doi.org/10.1145/6314.6461","url":"https://dblp.org/rec/journals/tods/OsbornH86"},
+"url":"URL#5191205"
+},
+{
+"@score":"1",
+"@id":"5191206",
+"info":{"authors":{"author":{"@pid":"38/345","text":"Giovanni Maria Sacco"}},"title":"Fragmentation - A Technique for Efficient Query Processing.","venue":"ACM Trans. Database Syst.","volume":"11","number":"2","pages":"113-133","year":"1986","type":"Journal Articles","key":"journals/tods/Sacco86","doi":"10.1145/5922.5638","ee":"https://doi.org/10.1145/5922.5638","url":"https://dblp.org/rec/journals/tods/Sacco86"},
+"url":"URL#5191206"
+},
+{
+"@score":"1",
+"@id":"5191207",
+"info":{"authors":{"author":[{"@pid":"38/345","text":"Giovanni Maria Sacco"},{"@pid":"96/5511","text":"Mario Schkolnick"}]},"title":"Buffer Management in Relational Database Systems.","venue":"ACM Trans. Database Syst.","volume":"11","number":"4","pages":"473-498","year":"1986","type":"Journal Articles","key":"journals/tods/SaccoS86","doi":"10.1145/7239.7336","ee":"https://doi.org/10.1145/7239.7336","url":"https://dblp.org/rec/journals/tods/SaccoS86"},
+"url":"URL#5191207"
+},
+{
+"@score":"1",
+"@id":"5191208",
+"info":{"authors":{"author":{"@pid":"s/ArieSegev","text":"Arie Segev"}},"title":"Optimization of Join Operations in Horizontally Partitioned Database Systems.","venue":"ACM Trans. Database Syst.","volume":"11","number":"1","pages":"48-80","year":"1986","type":"Journal Articles","key":"journals/tods/Segev86","doi":"10.1145/5236.5241","ee":"https://doi.org/10.1145/5236.5241","url":"https://dblp.org/rec/journals/tods/Segev86"},
+"url":"URL#5191208"
+},
+{
+"@score":"1",
+"@id":"5191209",
+"info":{"authors":{"author":{"@pid":"s/LeonardDShapiro","text":"Leonard D. Shapiro"}},"title":"Join Processing in Database Systems with Large Main Memories.","venue":"ACM Trans. Database Syst.","volume":"11","number":"3","pages":"239-264","year":"1986","type":"Journal Articles","key":"journals/tods/Shapiro86","doi":"10.1145/6314.6315","ee":"https://doi.org/10.1145/6314.6315","url":"https://dblp.org/rec/journals/tods/Shapiro86"},
+"url":"URL#5191209"
+}
+]
+}
+}
+}

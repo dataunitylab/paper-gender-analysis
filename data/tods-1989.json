@@ -1,0 +1,164 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"journals\"/\"tods\"/\"tods14\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"130.91"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"22",
+"@dc":"22",
+"@oc":"22",
+"@id":"17255817",
+"text":":facetid:toc:db/journals/tods/tods14.bht"
+}
+},
+"hits":{
+"@total":"22",
+"@computed":"22",
+"@sent":"22",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"5136443",
+"info":{"authors":{"author":[{"@pid":"a/AmrElAbbadi","text":"Amr El Abbadi"},{"@pid":"t/SamToueg","text":"Sam Toueg"}]},"title":"Maintaining Availability in Partitioned Replicated Databases.","venue":"ACM Trans. Database Syst.","volume":"14","number":"2","pages":"264-290","year":"1989","type":"Journal Articles","key":"journals/tods/AbbadiT89","doi":"10.1145/63500.63501","ee":"https://doi.org/10.1145/63500.63501","url":"https://dblp.org/rec/journals/tods/AbbadiT89"},
+"url":"URL#5136443"
+},
+{
+"@score":"1",
+"@id":"5136444",
+"info":{"authors":{"author":[{"@pid":"61/4250","text":"Rafiul Ahad"},{"@pid":"17/3957","text":"K. V. Bapa Rao"},{"@pid":"m/DennisMcLeod","text":"Dennis McLeod"}]},"title":"On Estimating the Cardinality of the Projection of a Database Relation.","venue":"ACM Trans. Database Syst.","volume":"14","number":"1","pages":"28-40","year":"1989","type":"Journal Articles","key":"journals/tods/AhadRM89","doi":"10.1145/62032.62034","ee":"https://doi.org/10.1145/62032.62034","url":"https://dblp.org/rec/journals/tods/AhadRM89"},
+"url":"URL#5136444"
+},
+{
+"@score":"1",
+"@id":"5136445",
+"info":{"authors":{"author":[{"@pid":"a/PAtzeni","text":"Paolo Atzeni"},{"@pid":"c/EPFChan","text":"Edward P. F. Chan"}]},"title":"Efficient Optimization of Simple Chase Join Expressions.","venue":"ACM Trans. Database Syst.","volume":"14","number":"2","pages":"212-230","year":"1989","type":"Journal Articles","key":"journals/tods/AtzeniC89","doi":"10.1145/63500.63520","ee":"https://doi.org/10.1145/63500.63520","url":"https://dblp.org/rec/journals/tods/AtzeniC89"},
+"url":"URL#5136445"
+},
+{
+"@score":"1",
+"@id":"5136446",
+"info":{"authors":{"author":[{"@pid":"b/LubomirBic","text":"Lubomir Bic"},{"@pid":"72/3376","text":"Robert L. Hartmann"}]},"title":"AGM - A Dataflow Database Machine.","venue":"ACM Trans. Database Syst.","volume":"14","number":"1","pages":"114-146","year":"1989","type":"Journal Articles","key":"journals/tods/BicH89","doi":"10.1145/62032.62037","ee":"https://doi.org/10.1145/62032.62037","url":"https://dblp.org/rec/journals/tods/BicH89"},
+"url":"URL#5136446"
+},
+{
+"@score":"1",
+"@id":"5136447",
+"info":{"authors":{"author":[{"@pid":"79/2594","text":"José A. Blakeley"},{"@pid":"39/3029","text":"Neil Coburn"},{"@pid":"l/PALarson","text":"Per-Åke Larson"}]},"title":"Updating Derived Relations - Detecting Irrelevant and Autonomously Computable Updates.","venue":"ACM Trans. Database Syst.","volume":"14","number":"3","pages":"369-400","year":"1989","type":"Journal Articles","key":"journals/tods/BlakeleyCL89","doi":"10.1145/68012.68015","ee":"https://doi.org/10.1145/68012.68015","url":"https://dblp.org/rec/journals/tods/BlakeleyCL89"},
+"url":"URL#5136447"
+},
+{
+"@score":"1",
+"@id":"5136448",
+"info":{"authors":{"author":[{"@pid":"20/4939","text":"Howard M. Dreizen"},{"@pid":"c/ShiKuoChang","text":"Shi-Kuo Chang"}]},"title":"Imprecise Schema - A Rationale for Relations with Embedded Subrelations.","venue":"ACM Trans. Database Syst.","volume":"14","number":"4","pages":"447-479","year":"1989","type":"Journal Articles","key":"journals/tods/DreizenC89","doi":"10.1145/76902.76903","ee":"https://doi.org/10.1145/76902.76903","url":"https://dblp.org/rec/journals/tods/DreizenC89"},
+"url":"URL#5136448"
+},
+{
+"@score":"1",
+"@id":"5136449",
+"info":{"authors":{"author":{"@pid":"e/DWEmbley","text":"David W. Embley"}},"title":"NFQL - The Natural Forms Query Language.","venue":"ACM Trans. Database Syst.","volume":"14","number":"2","pages":"168-211","year":"1989","type":"Journal Articles","key":"journals/tods/Embley89","doi":"10.1145/63500.64125","ee":"https://doi.org/10.1145/63500.64125","url":"https://dblp.org/rec/journals/tods/Embley89"},
+"url":"URL#5136449"
+},
+{
+"@score":"1",
+"@id":"5136450",
+"info":{"authors":{"author":[{"@pid":"70/4536","text":"Abdel Aziz Farrag"},{"@pid":"o/MTamerOzsu","text":"M. Tamer Özsu"}]},"title":"Using Semantic Knowledge of Transactions to Increase Concurrency.","venue":"ACM Trans. Database Syst.","volume":"14","number":"4","pages":"503-525","year":"1989","type":"Journal Articles","key":"journals/tods/FarragO89","doi":"10.1145/76902.76905","ee":"https://doi.org/10.1145/76902.76905","url":"https://dblp.org/rec/journals/tods/FarragO89"},
+"url":"URL#5136450"
+},
+{
+"@score":"1",
+"@id":"5136451",
+"info":{"authors":{"author":[{"@pid":"f/JCFreytag","text":"Johann Christoph Freytag"},{"@pid":"28/4334","text":"Nathan Goodman"}]},"title":"On the Translation of Relational Queries into Iterative Programs.","venue":"ACM Trans. Database Syst.","volume":"14","number":"1","pages":"1-27","year":"1989","type":"Journal Articles","key":"journals/tods/FreytagG89","doi":"10.1145/62032.62033","ee":"https://doi.org/10.1145/62032.62033","url":"https://dblp.org/rec/journals/tods/FreytagG89"},
+"url":"URL#5136451"
+},
+{
+"@score":"1",
+"@id":"5136452",
+"info":{"authors":{"author":[{"@pid":"33/759","text":"Danièle Gardy"},{"@pid":"p/ClaudePuech","text":"Claude Puech"}]},"title":"On the Effects of Join Operations on Relation Sizes.","venue":"ACM Trans. Database Syst.","volume":"14","number":"4","pages":"574-603","year":"1989","type":"Journal Articles","key":"journals/tods/GardyP89","doi":"10.1145/76902.76907","ee":"https://doi.org/10.1145/76902.76907","url":"https://dblp.org/rec/journals/tods/GardyP89"},
+"url":"URL#5136452"
+},
+{
+"@score":"1",
+"@id":"5136453",
+"info":{"authors":{"author":{"@pid":"g/HenryMGladney","text":"H. M. Gladney"}},"title":"Data Replicas in Distributed Information Services.","venue":"ACM Trans. Database Syst.","volume":"14","number":"1","pages":"75-97","year":"1989","type":"Journal Articles","key":"journals/tods/Gladney89","doi":"10.1145/62032.62035","ee":"https://doi.org/10.1145/62032.62035","url":"https://dblp.org/rec/journals/tods/Gladney89"},
+"url":"URL#5136453"
+},
+{
+"@score":"1",
+"@id":"5136454",
+"info":{"authors":{"author":[{"@pid":"h/ScottEHudson","text":"Scott E. Hudson"},{"@pid":"64/2075","text":"Roger King"}]},"title":"Cactis - A Self-Adaptive, Concurrent Implementation of an Object-Oriented Database Management System.","venue":"ACM Trans. Database Syst.","volume":"14","number":"3","pages":"291-321","year":"1989","type":"Journal Articles","key":"journals/tods/HudsonK89","doi":"10.1145/68012.68013","ee":"https://doi.org/10.1145/68012.68013","url":"https://dblp.org/rec/journals/tods/HudsonK89"},
+"url":"URL#5136454"
+},
+{
+"@score":"1",
+"@id":"5136455",
+"info":{"authors":{"author":[{"@pid":"06/7030","text":"Sheau-Dong Lang"},{"@pid":"70/4671","text":"James R. Driscoll"},{"@pid":"60/1466","text":"Jiann H. Jou"}]},"title":"A Unified Analysis of Batched Searching of Sequential and Tree-Structured Files.","venue":"ACM Trans. Database Syst.","volume":"14","number":"4","pages":"604-618","year":"1989","type":"Journal Articles","key":"journals/tods/LangDJ89","doi":"10.1145/76902.76908","ee":"https://doi.org/10.1145/76902.76908","url":"https://dblp.org/rec/journals/tods/LangDJ89"},
+"url":"URL#5136455"
+},
+{
+"@score":"1",
+"@id":"5136456",
+"info":{"authors":{"author":[{"@pid":"69/473","text":"Lothar F. Mackert"},{"@pid":"21/2457","text":"Guy M. Lohman"}]},"title":"Index Scans Using a Finite LRU Buffer - A Validated I/O Model.","venue":"ACM Trans. Database Syst.","volume":"14","number":"3","pages":"401-424","year":"1989","type":"Journal Articles","key":"journals/tods/MackertL89","doi":"10.1145/68012.68016","ee":"https://doi.org/10.1145/68012.68016","url":"https://dblp.org/rec/journals/tods/MackertL89"},
+"url":"URL#5136456"
+},
+{
+"@score":"1",
+"@id":"5136457",
+"info":{"authors":{"author":[{"@pid":"m/YManolopoulos","text":"Yannis Manolopoulos"},{"@pid":"37/326","text":"John G. Kollias"}]},"title":"Performance of a Two-Headed Disk System when Serving Database Queries Under the Scan Policy.","venue":"ACM Trans. Database Syst.","volume":"14","number":"3","pages":"425-442","year":"1989","type":"Journal Articles","key":"journals/tods/ManolopoulosK89","doi":"10.1145/68012.68017","ee":"https://doi.org/10.1145/68012.68017","url":"https://dblp.org/rec/journals/tods/ManolopoulosK89"},
+"url":"URL#5136457"
+},
+{
+"@score":"1",
+"@id":"5136458",
+"info":{"authors":{"author":{"@pid":"05/80","text":"Mary McLeish"}},"title":"Further Results on the Security of Partitioned Dynamic Statistical Databases.","venue":"ACM Trans. Database Syst.","volume":"14","number":"1","pages":"98-113","year":"1989","type":"Journal Articles","key":"journals/tods/McLeish89","doi":"10.1145/62032.62036","ee":"https://doi.org/10.1145/62032.62036","url":"https://dblp.org/rec/journals/tods/McLeish89"},
+"url":"URL#5136458"
+},
+{
+"@score":"1",
+"@id":"5136459",
+"info":{"authors":{"author":{"@pid":"m/AmihaiMotro","text":"Amihai Motro"}},"title":"Integrity = Validity + Completeness.","venue":"ACM Trans. Database Syst.","volume":"14","number":"4","pages":"480-502","year":"1989","type":"Journal Articles","key":"journals/tods/Motro89","doi":"10.1145/76902.76904","ee":"https://doi.org/10.1145/76902.76904","url":"https://dblp.org/rec/journals/tods/Motro89"},
+"url":"URL#5136459"
+},
+{
+"@score":"1",
+"@id":"5136460",
+"info":{"authors":{"author":[{"@pid":"o/GultekinOzsoyoglu","text":"Gultekin Özsoyoglu"},{"@pid":"53/3184","text":"Victor Matos"},{"@pid":"o/ZMeralOzsoyoglu","text":"Z. Meral Özsoyoglu"}]},"title":"Query Processing Techniques in the Summary-Table-by-Example Database Query Language.","venue":"ACM Trans. Database Syst.","volume":"14","number":"4","pages":"526-573","year":"1989","type":"Journal Articles","key":"journals/tods/OzsoyogluMO89","doi":"10.1145/76902.76906","ee":"https://doi.org/10.1145/76902.76906","url":"https://dblp.org/rec/journals/tods/OzsoyogluMO89"},
+"url":"URL#5136460"
+},
+{
+"@score":"1",
+"@id":"5136461",
+"info":{"authors":{"author":[{"@pid":"r/MVRamakrishna","text":"M. V. Ramakrishna"},{"@pid":"l/PALarson","text":"Per-Åke Larson"}]},"title":"File Organization Using Composite Perfect Hashing.","venue":"ACM Trans. Database Syst.","volume":"14","number":"2","pages":"231-263","year":"1989","type":"Journal Articles","key":"journals/tods/RamakrishnaL89","doi":"10.1145/63500.63521","ee":"https://doi.org/10.1145/63500.63521","url":"https://dblp.org/rec/journals/tods/RamakrishnaL89"},
+"url":"URL#5136461"
+},
+{
+"@score":"1",
+"@id":"5136462",
+"info":{"authors":{"author":[{"@pid":"16/7025-2","text":"R. Ramesh 0002"},{"@pid":"36/3640","text":"A. J. G. Babu"},{"@pid":"20/3240","text":"J. Peter Kincaid"}]},"title":"Variable-Depth Trie Index Optimization - Theory and Experimental Results.","venue":"ACM Trans. Database Syst.","volume":"14","number":"1","pages":"41-74","year":"1989","type":"Journal Articles","key":"journals/tods/RameshBK89","doi":"10.1145/62032.77249","ee":"https://doi.org/10.1145/62032.77249","url":"https://dblp.org/rec/journals/tods/RameshBK89"},
+"url":"URL#5136462"
+},
+{
+"@score":"1",
+"@id":"5136463",
+"info":{"authors":{"author":[{"@pid":"s/TimSheard","text":"Tim Sheard"},{"@pid":"s/DavidWStemple","text":"David W. Stemple"}]},"title":"Automatic Verification of Database Transaction Safety.","venue":"ACM Trans. Database Syst.","volume":"14","number":"3","pages":"322-368","year":"1989","type":"Journal Articles","key":"journals/tods/SheardS89","doi":"10.1145/68012.68014","ee":"https://doi.org/10.1145/68012.68014","url":"https://dblp.org/rec/journals/tods/SheardS89"},
+"url":"URL#5136463"
+},
+{
+"@score":"1",
+"@id":"5136464",
+"info":{"authors":{"author":[{"@pid":"y/ClementTYu","text":"Clement T. Yu"},{"@pid":"m/WeiyiMeng","text":"Weiyi Meng"},{"@pid":"80/4571","text":"S. Park"}]},"title":"A Framework for Effective Retrieval.","venue":"ACM Trans. Database Syst.","volume":"14","number":"2","pages":"147-167","year":"1989","type":"Journal Articles","key":"journals/tods/YuMP89","doi":"10.1145/63500.63519","ee":"https://doi.org/10.1145/63500.63519","url":"https://dblp.org/rec/journals/tods/YuMP89"},
+"url":"URL#5136464"
+}
+]
+}
+}
+}

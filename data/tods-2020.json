@@ -1,0 +1,128 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"journals\"/\"tods\"/\"tods45\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"106.13"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"16",
+"@dc":"16",
+"@oc":"16",
+"@id":"17255851",
+"text":":facetid:toc:db/journals/tods/tods45.bht"
+}
+},
+"hits":{
+"@total":"16",
+"@computed":"16",
+"@sent":"16",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"128034",
+"info":{"authors":{"author":[{"@pid":"94/2372","text":"Wenfei Fan"},{"@pid":"03/405","text":"Chunming Hu"},{"@pid":"33/3472","text":"Xueli Liu"},{"@pid":"39/7035","text":"Ping Lu"}]},"title":"Discovering Graph Functional Dependencies.","venue":"ACM Trans. Database Syst.","volume":"45","number":"3","pages":"15:1-15:42","year":"2020","type":"Journal Articles","key":"journals/tods/FanHLL20","doi":"10.1145/3397198","ee":"https://doi.org/10.1145/3397198","url":"https://dblp.org/rec/journals/tods/FanHLL20"},
+"url":"URL#128034"
+},
+{
+"@score":"1",
+"@id":"128035",
+"info":{"authors":{"author":[{"@pid":"94/2372","text":"Wenfei Fan"},{"@pid":"33/3472","text":"Xueli Liu"},{"@pid":"39/7035","text":"Ping Lu"},{"@pid":"91/1253-1","text":"Chao Tian 0001"}]},"title":"Catching Numeric Inconsistencies in Graphs.","venue":"ACM Trans. Database Syst.","volume":"45","number":"2","pages":"9:1-9:47","year":"2020","type":"Journal Articles","key":"journals/tods/FanLLT20","doi":"10.1145/3385031","ee":"https://doi.org/10.1145/3385031","url":"https://dblp.org/rec/journals/tods/FanLLT20"},
+"url":"URL#128035"
+},
+{
+"@score":"1",
+"@id":"128036",
+"info":{"authors":{"author":[{"@pid":"94/2372","text":"Wenfei Fan"},{"@pid":"39/7035","text":"Ping Lu"},{"@pid":"53/5676","text":"Wenyuan Yu"},{"@pid":"125/7140","text":"Jingbo Xu"},{"@pid":"20/9622","text":"Qiang Yin"},{"@pid":"179/8239","text":"Xiaojian Luo"},{"@pid":"84/2644","text":"Jingren Zhou"},{"@pid":"197/9561","text":"Ruochun Jin"}]},"title":"Adaptive Asynchronous Parallelization of Graph Algorithms.","venue":"ACM Trans. Database Syst.","volume":"45","number":"2","pages":"6:1-6:45","year":"2020","type":"Journal Articles","key":"journals/tods/FanLYXYLZJ20","doi":"10.1145/3397491","ee":"https://doi.org/10.1145/3397491","url":"https://dblp.org/rec/journals/tods/FanLYXYLZJ20"},
+"url":"URL#128036"
+},
+{
+"@score":"1",
+"@id":"128037",
+"info":{"authors":{"author":[{"@pid":"186/2965","text":"Fernando Florenzano"},{"@pid":"72/4028","text":"Cristian Riveros"},{"@pid":"131/4268","text":"Martín Ugarte"},{"@pid":"28/3797","text":"Stijn Vansummeren"},{"@pid":"31/8653","text":"Domagoj Vrgoc"}]},"title":"Efficient Enumeration Algorithms for Regular Document Spanners.","venue":"ACM Trans. Database Syst.","volume":"45","number":"1","pages":"3:1-3:42","year":"2020","type":"Journal Articles","key":"journals/tods/FlorenzanoRUVV20","doi":"10.1145/3351451","ee":"https://doi.org/10.1145/3351451","url":"https://dblp.org/rec/journals/tods/FlorenzanoRUVV20"},
+"url":"URL#128037"
+},
+{
+"@score":"1",
+"@id":"128038",
+"info":{"authors":{"author":{"@pid":"j/ChristianSJensen","text":"Christian S. Jensen"}},"title":"Editorial - Updates to the Editorial Board.","venue":"ACM Trans. Database Syst.","volume":"45","number":"1","pages":"1e:1","year":"2020","type":"Journal Articles","key":"journals/tods/Jensen20","doi":"10.1145/3381020","ee":"https://doi.org/10.1145/3381020","url":"https://dblp.org/rec/journals/tods/Jensen20"},
+"url":"URL#128038"
+},
+{
+"@score":"1",
+"@id":"128039",
+"info":{"authors":{"author":{"@pid":"j/ChrisJermaine","text":"Chris Jermaine"}},"title":"Editorial.","venue":"ACM Trans. Database Syst.","volume":"45","number":"3","pages":"10:1","year":"2020","type":"Journal Articles","key":"journals/tods/Jermaine20","doi":"10.1145/3417730","ee":"https://doi.org/10.1145/3417730","url":"https://dblp.org/rec/journals/tods/Jermaine20"},
+"url":"URL#128039"
+},
+{
+"@score":"1",
+"@id":"128040",
+"info":{"authors":{"author":[{"@pid":"29/7117-2","text":"Ahmet Kara 0002"},{"@pid":"n/HungQNgo","text":"Hung Q. Ngo 0001"},{"@pid":"57/10355","text":"Milos Nikolic"},{"@pid":"o/DanOlteanu","text":"Dan Olteanu"},{"@pid":"218/5378","text":"Haozhe Zhang"}]},"title":"Maintaining Triangle Queries under Updates.","venue":"ACM Trans. Database Syst.","volume":"45","number":"3","pages":"11:1-11:46","year":"2020","type":"Journal Articles","key":"journals/tods/KaraNNOZ20","doi":"10.1145/3396375","ee":"https://doi.org/10.1145/3396375","url":"https://dblp.org/rec/journals/tods/KaraNNOZ20"},
+"url":"URL#128040"
+},
+{
+"@score":"1",
+"@id":"128041",
+"info":{"authors":{"author":[{"@pid":"144/7839","text":"Mahmoud Abo Khamis"},{"@pid":"n/HungQNgo","text":"Hung Q. Ngo 0001"},{"@pid":"91/5150","text":"XuanLong Nguyen"},{"@pid":"o/DanOlteanu","text":"Dan Olteanu"},{"@pid":"181/5823","text":"Maximilian Schleich"}]},"title":"Learning Models over Relational Data Using Sparse Tensors and Functional Dependencies.","venue":"ACM Trans. Database Syst.","volume":"45","number":"2","pages":"7:1-7:66","year":"2020","type":"Journal Articles","key":"journals/tods/KhamisNNOS20","doi":"10.1145/3375661","ee":"https://doi.org/10.1145/3375661","url":"https://dblp.org/rec/journals/tods/KhamisNNOS20"},
+"url":"URL#128041"
+},
+{
+"@score":"1",
+"@id":"128042",
+"info":{"authors":{"author":[{"@pid":"k/PGKolaitis","text":"Phokion G. Kolaitis"},{"@pid":"26/5252","text":"Reinhard Pichler"},{"@pid":"20/9117","text":"Emanuel Sallinger"},{"@pid":"56/1006","text":"Vadim Savenkov"}]},"title":"On the Language of Nested Tuple Generating Dependencies.","venue":"ACM Trans. Database Syst.","volume":"45","number":"2","pages":"8:1-8:59","year":"2020","type":"Journal Articles","key":"journals/tods/KolaitisPSS20","doi":"10.1145/3369554","ee":"https://doi.org/10.1145/3369554","url":"https://dblp.org/rec/journals/tods/KolaitisPSS20"},
+"url":"URL#128042"
+},
+{
+"@score":"1",
+"@id":"128043",
+"info":{"authors":{"author":[{"@pid":"177/8852","text":"Ester Livshits"},{"@pid":"74/3195","text":"Benny Kimelfeld"},{"@pid":"77/4620","text":"Sudeepa Roy"}]},"title":"Computing Optimal Repairs for Functional Dependencies.","venue":"ACM Trans. Database Syst.","volume":"45","number":"1","pages":"4:1-4:46","year":"2020","type":"Journal Articles","key":"journals/tods/LivshitsKR20","doi":"10.1145/3360904","ee":"https://doi.org/10.1145/3360904","url":"https://dblp.org/rec/journals/tods/LivshitsKR20"},
+"url":"URL#128043"
+},
+{
+"@score":"1",
+"@id":"128044",
+"info":{"authors":{"author":[{"@pid":"149/9256","text":"Ben McCamish"},{"@pid":"119/2506","text":"Vahid Ghadakchi"},{"@pid":"t/ArashTermehchy","text":"Arash Termehchy"},{"@pid":"75/9184","text":"Behrouz Touri"},{"@pid":"77/7905","text":"Eduardo Cotilla Sanchez"},{"@pid":"03/5847-1","text":"Liang Huang 0001"},{"@pid":"139/1319","text":"Soravit Changpinyo"}]},"title":"A Game-theoretic Approach to Data Interaction.","venue":"ACM Trans. Database Syst.","volume":"45","number":"1","pages":"1:1-1:44","year":"2020","type":"Journal Articles","key":"journals/tods/McCamishGTTSHC20","doi":"10.1145/3351450","ee":"https://doi.org/10.1145/3351450","url":"https://dblp.org/rec/journals/tods/McCamishGTTSHC20"},
+"url":"URL#128044"
+},
+{
+"@score":"1",
+"@id":"128045",
+"info":{"authors":{"author":[{"@pid":"41/1074-1","text":"Jianzhong Qi 0001"},{"@pid":"t/YufeiTao","text":"Yufei Tao"},{"@pid":"213/8916","text":"Yanchuan Chang"},{"@pid":"03/505","text":"Rui Zhang 0003"}]},"title":"Packing R-trees with Space-filling Curves - Theoretical Optimality, Empirical Efficiency, and Bulk-loading Parallelizability.","venue":"ACM Trans. Database Syst.","volume":"45","number":"3","pages":"14:1-14:47","year":"2020","type":"Journal Articles","key":"journals/tods/QiTCZ20","doi":"10.1145/3397506","ee":"https://doi.org/10.1145/3397506","url":"https://dblp.org/rec/journals/tods/QiTCZ20"},
+"url":"URL#128045"
+},
+{
+"@score":"1",
+"@id":"128046",
+"info":{"authors":{"author":[{"@pid":"237/3403","text":"Philipp Schirmer"},{"@pid":"28/10440","text":"Thorsten Papenbrock"},{"@pid":"188/4799","text":"Ioannis K. Koumarelas"},{"@pid":"n/FelixNaumann","text":"Felix Naumann"}]},"title":"Efficient Discovery of Matching Dependencies.","venue":"ACM Trans. Database Syst.","volume":"45","number":"3","pages":"13:1-13:33","year":"2020","type":"Journal Articles","key":"journals/tods/SchirmerPKN20","doi":"10.1145/3392778","ee":"https://doi.org/10.1145/3392778","url":"https://dblp.org/rec/journals/tods/SchirmerPKN20"},
+"url":"URL#128046"
+},
+{
+"@score":"1",
+"@id":"128047",
+"info":{"authors":{"author":[{"@pid":"143/6186","text":"Amir Shaikhha"},{"@pid":"141/4384","text":"Mohammed Elseidy"},{"@pid":"275/9257","text":"Stephan Mihaila"},{"@pid":"185/4285","text":"Daniel Espino"},{"@pid":"k/ChristophKoch","text":"Christoph Koch 0001"}]},"title":"Synthesis of Incremental Linear Algebra Programs.","venue":"ACM Trans. Database Syst.","volume":"45","number":"3","pages":"12:1-12:44","year":"2020","type":"Journal Articles","key":"journals/tods/ShaikhhaEMEK20","doi":"10.1145/3385398","ee":"https://doi.org/10.1145/3385398","url":"https://dblp.org/rec/journals/tods/ShaikhhaEMEK20"},
+"url":"URL#128047"
+},
+{
+"@score":"1",
+"@id":"128048",
+"info":{"authors":{"author":[{"@pid":"13/8730","text":"Huanchen Zhang"},{"@pid":"57/2227","text":"Hyeontaek Lim"},{"@pid":"10/11150","text":"Viktor Leis"},{"@pid":"a/DavidGAndersen","text":"David G. Andersen"},{"@pid":"09/4259","text":"Michael Kaminsky"},{"@pid":"k/KimberlyKeeton","text":"Kimberly Keeton"},{"@pid":"58/4127","text":"Andrew Pavlo"}]},"title":"Succinct Range Filters.","venue":"ACM Trans. Database Syst.","volume":"45","number":"2","pages":"5:1-5:31","year":"2020","type":"Journal Articles","key":"journals/tods/ZhangLLAKKP20","doi":"10.1145/3375660","ee":"https://doi.org/10.1145/3375660","url":"https://dblp.org/rec/journals/tods/ZhangLLAKKP20"},
+"url":"URL#128048"
+},
+{
+"@score":"1",
+"@id":"128049",
+"info":{"authors":{"author":[{"@pid":"21/802","text":"Dan Zhang"},{"@pid":"191/3091","text":"Ryan McKenna"},{"@pid":"194/3967","text":"Ios Kotsogiannis"},{"@pid":"83/3459","text":"George Bissias"},{"@pid":"44/906","text":"Michael Hay"},{"@pid":"m/AMachanavajjhala","text":"Ashwin Machanavajjhala"},{"@pid":"m/GeromeMiklau","text":"Gerome Miklau"}]},"title":"ϵKTELO - A Framework for Defining Differentially Private Computations.","venue":"ACM Trans. Database Syst.","volume":"45","number":"1","pages":"2:1-2:44","year":"2020","type":"Journal Articles","key":"journals/tods/ZhangMKBHMM20","doi":"10.1145/3362032","ee":"https://doi.org/10.1145/3362032","url":"https://dblp.org/rec/journals/tods/ZhangMKBHMM20"},
+"url":"URL#128049"
+}
+]
+}
+}
+}

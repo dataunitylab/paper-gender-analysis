@@ -1,0 +1,206 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"journals\"/\"tods\"/\"tods8\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"108.29"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"29",
+"@dc":"29",
+"@oc":"29",
+"@id":"17255855",
+"text":":facetid:toc:db/journals/tods/tods8.bht"
+}
+},
+"hits":{
+"@total":"29",
+"@computed":"29",
+"@sent":"29",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"5229787",
+"info":{"authors":{"author":[{"@pid":"b/PhilipABernstein","text":"Philip A. Bernstein"},{"@pid":"28/4334","text":"Nathan Goodman"}]},"title":"Multiversion Concurrency Control - Theory and Algorithms.","venue":"ACM Trans. Database Syst.","volume":"8","number":"4","pages":"465-483","year":"1983","type":"Journal Articles","key":"journals/tods/BernsteinG83","doi":"10.1145/319996.319998","ee":"https://doi.org/10.1145/319996.319998","url":"https://dblp.org/rec/journals/tods/BernsteinG83"},
+"url":"URL#5229787"
+},
+{
+"@score":"1",
+"@id":"5229788",
+"info":{"authors":{"author":{"@pid":"b/JBiskup","text":"Joachim Biskup"}},"title":"A Foundation of Codd&apos;s Relational Maybe-Operations.","venue":"ACM Trans. Database Syst.","volume":"8","number":"4","pages":"608-636","year":"1983","type":"Journal Articles","key":"journals/tods/Biskup83","doi":"10.1145/319996.320014","ee":"https://doi.org/10.1145/319996.320014","url":"https://dblp.org/rec/journals/tods/Biskup83"},
+"url":"URL#5229788"
+},
+{
+"@score":"1",
+"@id":"5229789",
+"info":{"authors":{"author":[{"@pid":"03/2311","text":"Dina Bitton"},{"@pid":"75/2562","text":"Haran Boral"},{"@pid":"d/DJDeWitt","text":"David J. DeWitt"},{"@pid":"w/KevinWilkinson","text":"W. Kevin Wilkinson"}]},"title":"Parallel Algorithms for the Execution of Relational Database Operations.","venue":"ACM Trans. Database Syst.","volume":"8","number":"3","pages":"324-353","year":"1983","type":"Journal Articles","key":"journals/tods/BittonBDW83","doi":"10.1145/319989.319991","ee":"https://doi.org/10.1145/319989.319991","url":"https://dblp.org/rec/journals/tods/BittonBDW83"},
+"url":"URL#5229789"
+},
+{
+"@score":"1",
+"@id":"5229790",
+"info":{"authors":{"author":[{"@pid":"03/2311","text":"Dina Bitton"},{"@pid":"d/DJDeWitt","text":"David J. DeWitt"}]},"title":"Duplicate Record Elimination in Large Data Files.","venue":"ACM Trans. Database Syst.","volume":"8","number":"2","pages":"255-265","year":"1983","type":"Journal Articles","key":"journals/tods/BittonD83","doi":"10.1145/319983.319987","ee":"https://doi.org/10.1145/319983.319987","url":"https://dblp.org/rec/journals/tods/BittonD83"},
+"url":"URL#5229790"
+},
+{
+"@score":"1",
+"@id":"5229791",
+"info":{"authors":{"author":[{"@pid":"c/AFCardenas","text":"Alfonso F. Cardenas"},{"@pid":"85/2448","text":"Farid Alavian"},{"@pid":"74/5913","text":"Algirdas Avizienis"}]},"title":"Performance of Recovery Architectures in Parallel Associative Database Processors.","venue":"ACM Trans. Database Syst.","volume":"8","number":"3","pages":"291-323","year":"1983","type":"Journal Articles","key":"journals/tods/CardenasAA83","doi":"10.1145/319989.319990","ee":"https://doi.org/10.1145/319989.319990","url":"https://dblp.org/rec/journals/tods/CardenasAA83"},
+"url":"URL#5229791"
+},
+{
+"@score":"1",
+"@id":"5229792",
+"info":{"authors":{"author":[{"@pid":"c/StefanoCeri","text":"Stefano Ceri"},{"@pid":"35/1356","text":"Giuseppe Pelagatti"}]},"title":"Correctness of Query Execution Strategies in Distributed Databases.","venue":"ACM Trans. Database Syst.","volume":"8","number":"4","pages":"577-607","year":"1983","type":"Journal Articles","key":"journals/tods/CeriP83","doi":"10.1145/319996.320009","ee":"https://doi.org/10.1145/319996.320009","url":"https://dblp.org/rec/journals/tods/CeriP83"},
+"url":"URL#5229792"
+},
+{
+"@score":"1",
+"@id":"5229793",
+"info":{"authors":{"author":[{"@pid":"11/3810","text":"James Clifford"},{"@pid":"w/DavidScottWarren","text":"David Scott Warren"}]},"title":"Formal Semantics for Time in Databases.","venue":"ACM Trans. Database Syst.","volume":"8","number":"2","pages":"214-254","year":"1983","type":"Journal Articles","key":"journals/tods/CliffordW83","doi":"10.1145/319983.319986","ee":"https://doi.org/10.1145/319983.319986","url":"https://dblp.org/rec/journals/tods/CliffordW83"},
+"url":"URL#5229793"
+},
+{
+"@score":"1",
+"@id":"5229794",
+"info":{"authors":{"author":[{"@pid":"50/5314","text":"Derek L. Eager"},{"@pid":"s/KennethCSevcik","text":"Kenneth C. Sevcik"}]},"title":"Achieving Robustness in Distributed Database Systems.","venue":"ACM Trans. Database Syst.","volume":"8","number":"3","pages":"354-381","year":"1983","type":"Journal Articles","key":"journals/tods/EagerS83","doi":"10.1145/319989.319992","ee":"https://doi.org/10.1145/319989.319992","url":"https://dblp.org/rec/journals/tods/EagerS83"},
+"url":"URL#5229794"
+},
+{
+"@score":"1",
+"@id":"5229795",
+"info":{"authors":{"author":{"@pid":"g/HGarciaMolina","text":"Hector Garcia-Molina"}},"title":"Using Semantic Knowledge for Transaction Processing in Distributed Database.","venue":"ACM Trans. Database Syst.","volume":"8","number":"2","pages":"186-213","year":"1983","type":"Journal Articles","key":"journals/tods/Garcia-Molina83","doi":"10.1145/319983.319985","ee":"https://doi.org/10.1145/319983.319985","url":"https://dblp.org/rec/journals/tods/Garcia-Molina83"},
+"url":"URL#5229795"
+},
+{
+"@score":"1",
+"@id":"5229796",
+"info":{"authors":{"author":{"@pid":"32/3985","text":"Marc H. Graham"}},"title":"Functions in Databases.","venue":"ACM Trans. Database Syst.","volume":"8","number":"1","pages":"81-109","year":"1983","type":"Journal Articles","key":"journals/tods/Graham83","doi":"10.1145/319830.319835","ee":"https://doi.org/10.1145/319830.319835","url":"https://dblp.org/rec/journals/tods/Graham83"},
+"url":"URL#5229796"
+},
+{
+"@score":"1",
+"@id":"5229797",
+"info":{"authors":{"author":[{"@pid":"43/3416","text":"Roger L. Haskin"},{"@pid":"h/LeeAHollaar","text":"Lee A. Hollaar"}]},"title":"Operational Characteristics of a Hardware-Based Pattern Matcher.","venue":"ACM Trans. Database Syst.","volume":"8","number":"1","pages":"15-40","year":"1983","type":"Journal Articles","key":"journals/tods/HaskinH83","doi":"10.1145/319830.319832","ee":"https://doi.org/10.1145/319830.319832","url":"https://dblp.org/rec/journals/tods/HaskinH83"},
+"url":"URL#5229797"
+},
+{
+"@score":"1",
+"@id":"5229798",
+"info":{"authors":{"author":[{"@pid":"01/6516","text":"Matthew S. Hecht"},{"@pid":"30/419","text":"John D. Gabbe"}]},"title":"Shadowed Management of Free Disk Pages with a Linked List.","venue":"ACM Trans. Database Syst.","volume":"8","number":"4","pages":"503-514","year":"1983","type":"Journal Articles","key":"journals/tods/HechtG83","doi":"10.1145/319996.320002","ee":"https://doi.org/10.1145/319996.320002","url":"https://dblp.org/rec/journals/tods/HechtG83"},
+"url":"URL#5229798"
+},
+{
+"@score":"1",
+"@id":"5229799",
+"info":{"authors":{"author":[{"@pid":"51/3208","text":"Tetsuro Ito"},{"@pid":"45/6848","text":"Makoto Kizawa"}]},"title":"Hierarchical File Organization and Its Application to Similar-String Matching.","venue":"ACM Trans. Database Syst.","volume":"8","number":"3","pages":"410-433","year":"1983","type":"Journal Articles","key":"journals/tods/ItoK83","doi":"10.1145/319989.319994","ee":"https://doi.org/10.1145/319989.319994","url":"https://dblp.org/rec/journals/tods/ItoK83"},
+"url":"URL#5229799"
+},
+{
+"@score":"1",
+"@id":"5229800",
+"info":{"authors":{"author":{"@pid":"j/WiebrendeJonge","text":"Wiebren de Jonge"}},"title":"Compromising Statistical Databases Responding to Queries about Means.","venue":"ACM Trans. Database Syst.","volume":"8","number":"1","pages":"60-80","year":"1983","type":"Journal Articles","key":"journals/tods/Jonge83","doi":"10.1145/319830.319834","ee":"https://doi.org/10.1145/319830.319834","url":"https://dblp.org/rec/journals/tods/Jonge83"},
+"url":"URL#5229800"
+},
+{
+"@score":"1",
+"@id":"5229801",
+"info":{"authors":{"author":[{"@pid":"k/RandyHKatz","text":"Randy H. Katz"},{"@pid":"95/2864","text":"Eugene Wong 0001"}]},"title":"Resolving Conflicts in Global Storage Design through Replication.","venue":"ACM Trans. Database Syst.","volume":"8","number":"1","pages":"110-135","year":"1983","type":"Journal Articles","key":"journals/tods/KatzW83","doi":"10.1145/319830.319836","ee":"https://doi.org/10.1145/319830.319836","url":"https://dblp.org/rec/journals/tods/KatzW83"},
+"url":"URL#5229801"
+},
+{
+"@score":"1",
+"@id":"5229802",
+"info":{"authors":{"author":{"@pid":"k/WilliamKent","text":"William Kent"}},"title":"The Universal Relation Revisited.","venue":"ACM Trans. Database Syst.","volume":"8","number":"4","pages":"644-648","year":"1983","type":"Journal Articles","key":"journals/tods/Kent83","doi":"10.1145/319996.320019","ee":"https://doi.org/10.1145/319996.320019","url":"https://dblp.org/rec/journals/tods/Kent83"},
+"url":"URL#5229802"
+},
+{
+"@score":"1",
+"@id":"5229803",
+"info":{"authors":{"author":{"@pid":"k/JLKolodner","text":"Janet L. Kolodner"}},"title":"Indexing and Retrieval Strategies for Natural Language Fact Retrieval.","venue":"ACM Trans. Database Syst.","volume":"8","number":"3","pages":"434-464","year":"1983","type":"Journal Articles","key":"journals/tods/Kolodner83","doi":"10.1145/319989.319995","ee":"https://doi.org/10.1145/319989.319995","url":"https://dblp.org/rec/journals/tods/Kolodner83"},
+"url":"URL#5229803"
+},
+{
+"@score":"1",
+"@id":"5229804",
+"info":{"authors":{"author":{"@pid":"l/DavidBLomet","text":"David B. Lomet"}},"title":"Bounded Index Exponential Hashing.","venue":"ACM Trans. Database Syst.","volume":"8","number":"1","pages":"136-165","year":"1983","type":"Journal Articles","key":"journals/tods/Lomet83","doi":"10.1145/319830.319837","ee":"https://doi.org/10.1145/319830.319837","url":"https://dblp.org/rec/journals/tods/Lomet83"},
+"url":"URL#5229804"
+},
+{
+"@score":"1",
+"@id":"5229805",
+"info":{"authors":{"author":{"@pid":"l/NancyALynch","text":"Nancy A. Lynch"}},"title":"Multilevel Atomicity - A New Correctness Criterion for Database Concurrency Control.","venue":"ACM Trans. Database Syst.","volume":"8","number":"4","pages":"484-502","year":"1983","type":"Journal Articles","key":"journals/tods/Lynch83","doi":"10.1145/319996.319999","ee":"https://doi.org/10.1145/319996.319999","url":"https://dblp.org/rec/journals/tods/Lynch83"},
+"url":"URL#5229805"
+},
+{
+"@score":"1",
+"@id":"5229806",
+"info":{"authors":{"author":[{"@pid":"m/DavidMaier","text":"David Maier 0001"},{"@pid":"u/JeffreyDUllman","text":"Jeffrey D. Ullman"}]},"title":"Maximal Objects and the Semantics of Universal Relation Databases.","venue":"ACM Trans. Database Syst.","volume":"8","number":"1","pages":"1-14","year":"1983","type":"Journal Articles","key":"journals/tods/MaierU83","doi":"10.1145/319830.319831","ee":"https://doi.org/10.1145/319830.319831","url":"https://dblp.org/rec/journals/tods/MaierU83"},
+"url":"URL#5229806"
+},
+{
+"@score":"1",
+"@id":"5229807",
+"info":{"authors":{"author":[{"@pid":"73/247","text":"Ashok Malhotra"},{"@pid":"30/6585","text":"Harry M. Markowitz"},{"@pid":"48/2312","text":"Donald P. Pazel"}]},"title":"EAS-E - An Integrated Approach to Application Development.","venue":"ACM Trans. Database Syst.","volume":"8","number":"4","pages":"515-542","year":"1983","type":"Journal Articles","key":"journals/tods/MalhotraMP83","doi":"10.1145/319996.320003","ee":"https://doi.org/10.1145/319996.320003","url":"https://dblp.org/rec/journals/tods/MalhotraMP83"},
+"url":"URL#5229807"
+},
+{
+"@score":"1",
+"@id":"5229808",
+"info":{"authors":{"author":{"@pid":"m/ShlomoMoran","text":"Shlomo Moran"}},"title":"On the Complexity of Designing Optimal Partial-Match Retrieval Systems.","venue":"ACM Trans. Database Syst.","volume":"8","number":"4","pages":"543-551","year":"1983","type":"Journal Articles","key":"journals/tods/Moran83","doi":"10.1145/319996.320004","ee":"https://doi.org/10.1145/319996.320004","url":"https://dblp.org/rec/journals/tods/Moran83"},
+"url":"URL#5229808"
+},
+{
+"@score":"1",
+"@id":"5229809",
+"info":{"authors":{"author":[{"@pid":"r/KRamamohanarao","text":"Kotagiri Ramamohanarao"},{"@pid":"l/JWLloyd","text":"John W. Lloyd"}]},"title":"Partial-Match Retrieval Using Hashing and Descriptors.","venue":"ACM Trans. Database Syst.","volume":"8","number":"4","pages":"552-576","year":"1983","type":"Journal Articles","key":"journals/tods/RamamohanaraoL83","doi":"10.1145/319996.320006","ee":"https://doi.org/10.1145/319996.320006","url":"https://dblp.org/rec/journals/tods/RamamohanaraoL83"},
+"url":"URL#5229809"
+},
+{
+"@score":"1",
+"@id":"5229810",
+"info":{"authors":{"author":{"@pid":"26/5086","text":"Yehoshua Sagiv"}},"title":"A Characterization of Globally Consistent Databases and Their Correct Access Paths.","venue":"ACM Trans. Database Syst.","volume":"8","number":"2","pages":"266-286","year":"1983","type":"Journal Articles","key":"journals/tods/Sagiv83","doi":"10.1145/319983.319988","ee":"https://doi.org/10.1145/319983.319988","url":"https://dblp.org/rec/journals/tods/Sagiv83"},
+"url":"URL#5229810"
+},
+{
+"@score":"1",
+"@id":"5229811",
+"info":{"authors":{"author":[{"@pid":"65/4638","text":"George L. Sicherman"},{"@pid":"j/WiebrendeJonge","text":"Wiebren de Jonge"},{"@pid":"r/RPvandeRiet","text":"Reind P. van de Riet"}]},"title":"Answering Queries Without Revealing Secrets.","venue":"ACM Trans. Database Syst.","volume":"8","number":"1","pages":"41-59","year":"1983","type":"Journal Articles","key":"journals/tods/SichermanJR83","doi":"10.1145/319830.319833","ee":"https://doi.org/10.1145/319830.319833","url":"https://dblp.org/rec/journals/tods/SichermanJR83"},
+"url":"URL#5229811"
+},
+{
+"@score":"1",
+"@id":"5229812",
+"info":{"authors":{"author":[{"@pid":"s/MichaelStonebraker","text":"Michael Stonebraker"},{"@pid":"41/6153","text":"John Woodfill"},{"@pid":"69/670","text":"Jeff Ranstrom"},{"@pid":"80/1577","text":"Marguerite C. Murphy"},{"@pid":"38/6196","text":"Marc Meyer"},{"@pid":"71/1984","text":"Eric Allman"}]},"title":"Performance Enhancements to a Relational Database System.","venue":"ACM Trans. Database Syst.","volume":"8","number":"2","pages":"167-185","year":"1983","type":"Journal Articles","key":"journals/tods/StonebrakerWRMMA83","doi":"10.1145/319983.319984","ee":"https://doi.org/10.1145/319983.319984","url":"https://dblp.org/rec/journals/tods/StonebrakerWRMMA83"},
+"url":"URL#5229812"
+},
+{
+"@score":"1",
+"@id":"5229813",
+"info":{"authors":{"author":[{"@pid":"34/6520","text":"Robert P. Trueblood"},{"@pid":"21/798","text":"H. Rex Hartson"},{"@pid":"92/3798","text":"Johannes J. Martin"}]},"title":"MULTISAFE - A Modular Multiprocessing Approach to Secure Database Management.","venue":"ACM Trans. Database Syst.","volume":"8","number":"3","pages":"382-409","year":"1983","type":"Journal Articles","key":"journals/tods/TruebloodHM83","doi":"10.1145/319989.319993","ee":"https://doi.org/10.1145/319989.319993","url":"https://dblp.org/rec/journals/tods/TruebloodHM83"},
+"url":"URL#5229813"
+},
+{
+"@score":"1",
+"@id":"5229814",
+"info":{"authors":{"author":{"@pid":"u/JeffreyDUllman","text":"Jeffrey D. Ullman"}},"title":"Corrigendum - The Theory of Joins in Relational Databases.","venue":"ACM Trans. Database Syst.","volume":"8","number":"2","pages":"287","year":"1983","type":"Journal Articles","key":"journals/tods/Ullman83","url":"https://dblp.org/rec/journals/tods/Ullman83"},
+"url":"URL#5229814"
+},
+{
+"@score":"1",
+"@id":"5229815",
+"info":{"authors":{"author":{"@pid":"u/JeffreyDUllman","text":"Jeffrey D. Ullman"}},"title":"On Kent&apos;s &quot;Consequences of Assuming a Universal Relation&quot;.","venue":"ACM Trans. Database Syst.","volume":"8","number":"4","pages":"637-643","year":"1983","type":"Journal Articles","key":"journals/tods/Ullman83a","doi":"10.1145/319996.320017","ee":"https://doi.org/10.1145/319996.320017","url":"https://dblp.org/rec/journals/tods/Ullman83a"},
+"url":"URL#5229815"
+}
+]
+}
+}
+}

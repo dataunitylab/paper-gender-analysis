@@ -8,10 +8,11 @@ function get_dblp_json() {
     local start=$3
     local end=$4
     local offset=$5
+    local skip=$6
 
     # Loop over the range of parameters
     # (typically years or journal volume numbers)
-    for param in $(seq $start $end); do
+    for param in $(seq $start $skip $end); do
         # Find the output filename
         local outfile="data/$key-$(($param+$offset)).json"
 
@@ -23,9 +24,12 @@ function get_dblp_json() {
     sleep 1
 }
 
-get_dblp_json conf edbt $year 2010 2020 0
-get_dblp_json conf icde $year 2010 2020 0
-get_dblp_json conf kdd $year 2010 2020 0
-get_dblp_json conf sigir $year 2010 2020 0
-get_dblp_json conf sigmod $year 2010 2020 0
-get_dblp_json journals pvldb $vol 3 13 2007
+get_dblp_json conf cidr 2003 2020 0 2
+get_dblp_json conf edbt 1988 2020 0
+get_dblp_json conf icde 1984 2020 0
+get_dblp_json conf sigmod 1975 2020 0
+get_dblp_json journals pvldb 1 13 2007
+get_dblp_json journals tods 1 45 1975
+
+#get_dblp_json conf kdd 2010 2020 0
+#get_dblp_json conf sigir 2010 2020 0
