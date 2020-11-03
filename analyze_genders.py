@@ -86,7 +86,12 @@ def dataframe():
     """
     # Infer genders for data files in the data/ directory
     genders = infer_genders()
-    return pd.DataFrame(genders)
+    df = pd.DataFrame(genders)
+    df['male'] = df['male'] == 1
+    df['female'] = df['female'] == 1
+    df['unisex'] = df['unisex'] == 1
+    df['unknown'] = df['unknown'] == 1
+    return df
 
 
 def main():
