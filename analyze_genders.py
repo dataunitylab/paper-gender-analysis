@@ -54,17 +54,19 @@ def infer_genders():
                 # Track which number this author is
                 datum['author_position'] = index
 
-                # Extract the author name
+                # Extract the author name and ID
                 if isinstance(author, dict):
                     author_name = author['text']
+                    author_id = author['@pid']
                 elif isinstance(author, str):
-                    author_name = author
+                    author_name = author_id = author
                 else:
                     raise TypeError('Invalid author name')
 
                 # Remove numerical suffixes
                 author_name = author_name.rstrip(' 0123456789')
                 datum['author_name'] = author_name
+                datum['author_id'] = author_id
 
                 # Attempt to predict gender
                 # TODO Include author country
