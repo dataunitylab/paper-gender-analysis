@@ -8,5 +8,5 @@ install:
 script:
 # Reexecute all notebooks and save the output
 - pipenv run jupyter nbconvert --to notebook --execute --inplace --clear-output *.ipynb
-# Verify that the new output matches what was previously committed
-- git diff --exit-code
+# Verify that the new output matches what was previously committed (excluding metadata)
+- ./check-notebook-changes.sh
