@@ -1,23 +1,296 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"edbt\"/\"edbt1988\".\"bht",
+"query":":facetid:toc:db\"/\"conf\"/\"edbt\"/\"edbt88\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.28"
+"text":"117.66"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"44",
+"@dc":"44",
+"@oc":"44",
+"@id":"17178268",
+"text":":facetid:toc:db/conf/edbt/edbt88.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"44",
+"@computed":"44",
+"@sent":"44",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"5160693",
+"info":{"authors":{"author":[{"@pid":"a/SergeAbiteboul","text":"Serge Abiteboul"},{"@pid":"g/SGrumbach","text":"Stéphane Grumbach"}]},"title":"COL - A Logic-Based Language for Complex Objects.","venue":"EDBT","pages":"271-293","year":"1988","type":"Conference and Workshop Papers","key":"conf/edbt/AbiteboulG88","doi":"10.1007/3-540-19074-0_58","ee":"https://doi.org/10.1007/3-540-19074-0_58","url":"https://dblp.org/rec/conf/edbt/AbiteboulG88"},
+"url":"URL#5160693"
+},
+{
+"@score":"1",
+"@id":"5160694",
+"info":{"authors":{"author":[{"@pid":"a/AAlbano","text":"Antonio Albano"},{"@pid":"64/5864","text":"L. Alfò"},{"@pid":"70/6066","text":"S. Coluccini"},{"@pid":"o/RenzoOrsini","text":"Renzo Orsini"}]},"title":"An Overview of Sidereus - A Graphical Database Schema Editor for Galileo.","venue":"EDBT","pages":"567-571","year":"1988","type":"Conference and Workshop Papers","key":"conf/edbt/AlbanoACO88","doi":"10.1007/3-540-19074-0_77","ee":"https://doi.org/10.1007/3-540-19074-0_77","url":"https://dblp.org/rec/conf/edbt/AlbanoACO88"},
+"url":"URL#5160694"
+},
+{
+"@score":"1",
+"@id":"5160695",
+"info":{"authors":{"author":[{"@pid":"01/6037","text":"Rafael Alonso"},{"@pid":"b/DBarbara","text":"Daniel Barbará"},{"@pid":"g/HGarciaMolina","text":"Hector Garcia-Molina"},{"@pid":"39/6317","text":"Soraya Abad"}]},"title":"Quasi-Copies - Efficient Data Sharing for Information Retrieval Systems.","venue":"EDBT","pages":"443-468","year":"1988","type":"Conference and Workshop Papers","key":"conf/edbt/AlonsoBGA88","doi":"10.1007/3-540-19074-0_67","ee":"https://doi.org/10.1007/3-540-19074-0_67","url":"https://dblp.org/rec/conf/edbt/AlonsoBGA88"},
+"url":"URL#5160695"
+},
+{
+"@score":"1",
+"@id":"5160696",
+"info":{"authors":{"author":[{"@pid":"a/PeterMGApers","text":"Peter M. G. Apers"},{"@pid":"k/MartinLKersten","text":"Martin L. Kersten"},{"@pid":"13/6777","text":"Hans Oerlemans"}]},"title":"PRISMA Database Machine - A Distributed, Main-Memory Approach.","venue":"EDBT","pages":"590-593","year":"1988","type":"Conference and Workshop Papers","key":"conf/edbt/ApersKO88","doi":"10.1007/3-540-19074-0_82","ee":"https://doi.org/10.1007/3-540-19074-0_82","url":"https://dblp.org/rec/conf/edbt/ApersKO88"},
+"url":"URL#5160696"
+},
+{
+"@score":"1",
+"@id":"5160697",
+"info":{"authors":{"author":{"@pid":"39/1371","text":"David Beech"}},"title":"A Foundation for Evolution from Relational to Object Databases.","venue":"EDBT","pages":"251-270","year":"1988","type":"Conference and Workshop Papers","key":"conf/edbt/Beech88","doi":"10.1007/3-540-19074-0_57","ee":"https://doi.org/10.1007/3-540-19074-0_57","url":"https://dblp.org/rec/conf/edbt/Beech88"},
+"url":"URL#5160697"
+},
+{
+"@score":"1",
+"@id":"5160698",
+"info":{"authors":{"author":[{"@pid":"b/CBeeri","text":"Catriel Beeri"},{"@pid":"s/HansJorgSchek","text":"Hans-Jörg Schek"},{"@pid":"w/GerhardWeikum","text":"Gerhard Weikum"}]},"title":"Multi-Level Transaction Management, Theoretical Art or Practical Need ?","venue":"EDBT","pages":"134-154","year":"1988","type":"Conference and Workshop Papers","key":"conf/edbt/BeeriSW88","doi":"10.1007/3-540-19074-0_51","ee":"https://doi.org/10.1007/3-540-19074-0_51","url":"https://dblp.org/rec/conf/edbt/BeeriSW88"},
+"url":"URL#5160698"
+},
+{
+"@score":"1",
+"@id":"5160699",
+"info":{"authors":{"author":[{"@pid":"67/6316","text":"Vincenzo Belcastro"},{"@pid":"46/6757","text":"A. Dutkowski"},{"@pid":"68/789","text":"W. Kaminski"},{"@pid":"38/6677","text":"M. Kowalewski"},{"@pid":"15/5445","text":"C. L. Mallamaci"},{"@pid":"15/6852","text":"S. Mezyk"},{"@pid":"28/3984","text":"Tommaso Mostardi"},{"@pid":"88/1504","text":"F. P. Scrocco"},{"@pid":"92/1994","text":"Witold Staniszkis"},{"@pid":"03/917","text":"G. Turco"}]},"title":"An Overview of the Distributed Query System DQS.","venue":"EDBT","pages":"170-189","year":"1988","type":"Conference and Workshop Papers","key":"conf/edbt/BelcastroDKKMMMSST88","doi":"10.1007/3-540-19074-0_53","ee":"https://doi.org/10.1007/3-540-19074-0_53","url":"https://dblp.org/rec/conf/edbt/BelcastroDKKMMMSST88"},
+"url":"URL#5160699"
+},
+{
+"@score":"1",
+"@id":"5160700",
+"info":{"authors":{"author":[{"@pid":"b/SBergamaschi","text":"Sonia Bergamaschi"},{"@pid":"29/2525","text":"Flavio Bonfatti"},{"@pid":"s/ClaudioSartori","text":"Claudio Sartori 0001"}]},"title":"Entity-Situation - A Model for the Knowledge Representation Module of a KBMS.","venue":"EDBT","pages":"578-582","year":"1988","type":"Conference and Workshop Papers","key":"conf/edbt/BergamaschiBS88","doi":"10.1007/3-540-19074-0_79","ee":"https://doi.org/10.1007/3-540-19074-0_79","url":"https://dblp.org/rec/conf/edbt/BergamaschiBS88"},
+"url":"URL#5160700"
+},
+{
+"@score":"1",
+"@id":"5160701",
+"info":{"authors":{"author":[{"@pid":"b/ElisaBertino","text":"Elisa Bertino"},{"@pid":"h/LauraMHaas","text":"Laura M. Haas"}]},"title":"Views and Security in Distributed Database Management Systems.","venue":"EDBT","pages":"155-169","year":"1988","type":"Conference and Workshop Papers","key":"conf/edbt/BertinoH88","doi":"10.1007/3-540-19074-0_52","ee":"https://doi.org/10.1007/3-540-19074-0_52","url":"https://dblp.org/rec/conf/edbt/BertinoH88"},
+"url":"URL#5160701"
+},
+{
+"@score":"1",
+"@id":"5160702",
+"info":{"authors":{"author":[{"@pid":"b/ElisaBertino","text":"Elisa Bertino"},{"@pid":"60/423","text":"Fausto Rabitti"},{"@pid":"89/2480","text":"Costantino Thanos"}]},"title":"MULTOS - a Document Server for Distributed Office Systems.","venue":"EDBT","pages":"606-615","year":"1988","type":"Conference and Workshop Papers","key":"conf/edbt/BertinoRT88","doi":"10.1007/3-540-19074-0_85","ee":"https://doi.org/10.1007/3-540-19074-0_85","url":"https://dblp.org/rec/conf/edbt/BertinoRT88"},
+"url":"URL#5160702"
+},
+{
+"@score":"1",
+"@id":"5160703",
+"info":{"authors":{"author":[{"@pid":"b/FrancoisBry","text":"François Bry"},{"@pid":"d/HendrikDecker","text":"Hendrik Decker"},{"@pid":"m/RManthey","text":"Rainer Manthey"}]},"title":"A Uniform Approach to Constraint Satisfaction and Constraint Satisfiability in Deductive Databases.","venue":"EDBT","pages":"488-505","year":"1988","type":"Conference and Workshop Papers","key":"conf/edbt/BryDM88","doi":"10.1007/3-540-19074-0_69","ee":"https://doi.org/10.1007/3-540-19074-0_69","url":"https://dblp.org/rec/conf/edbt/BryDM88"},
+"url":"URL#5160703"
+},
+{
+"@score":"1",
+"@id":"5160704",
+"info":{"authors":{"author":{"@pid":"35/5530","text":"Stephanie J. Cammarata"}},"title":"An Intelligent Information Dictionary for Semantic Manipulation of Relational Databases.","venue":"EDBT","pages":"214-230","year":"1988","type":"Conference and Workshop Papers","key":"conf/edbt/Cammarata88","doi":"10.1007/3-540-19074-0_55","ee":"https://doi.org/10.1007/3-540-19074-0_55","url":"https://dblp.org/rec/conf/edbt/Cammarata88"},
+"url":"URL#5160704"
+},
+{
+"@score":"1",
+"@id":"5160705",
+"info":{"authors":{"author":{"@pid":"c/LucaCardelli","text":"Luca Cardelli"}},"title":"Types for Data-Oriented Languages.","venue":"EDBT","pages":"1-15","year":"1988","type":"Conference and Workshop Papers","key":"conf/edbt/Cardelli88","doi":"10.1007/3-540-19074-0_44","ee":"https://doi.org/10.1007/3-540-19074-0_44","url":"https://dblp.org/rec/conf/edbt/Cardelli88"},
+"url":"URL#5160705"
+},
+{
+"@score":"1",
+"@id":"5160706",
+"info":{"authors":{"author":[{"@pid":"65/2577","text":"Corine Cauvet"},{"@pid":"01/3771","text":"C. Proix"},{"@pid":"r/CRolland","text":"Colette Rolland"}]},"title":"Information System Design - An Expert System Approach.","venue":"EDBT","pages":"113-133","year":"1988","type":"Conference and Workshop Papers","key":"conf/edbt/CauvetPR88","doi":"10.1007/3-540-19074-0_50","ee":"https://doi.org/10.1007/3-540-19074-0_50","url":"https://dblp.org/rec/conf/edbt/CauvetPR88"},
+"url":"URL#5160706"
+},
+{
+"@score":"1",
+"@id":"5160707",
+"info":{"authors":{"author":[{"@pid":"c/StefanoCeri","text":"Stefano Ceri"},{"@pid":"c/SCrespiReghizzi","text":"Stefano Crespi-Reghizzi"},{"@pid":"g/GeorgGottlob","text":"Georg Gottlob"},{"@pid":"06/950","text":"F. Lamperti"},{"@pid":"23/1696","text":"Luigi Lavazza"},{"@pid":"t/LetiziaTanca","text":"Letizia Tanca"},{"@pid":"z/RZicari","text":"Roberto Zicari"}]},"title":"The Algres Project.","venue":"EDBT","pages":"551-555","year":"1988","type":"Conference and Workshop Papers","key":"conf/edbt/CeriCGLLTZ88","doi":"10.1007/3-540-19074-0_74","ee":"https://doi.org/10.1007/3-540-19074-0_74","url":"https://dblp.org/rec/conf/edbt/CeriCGLLTZ88"},
+"url":"URL#5160707"
+},
+{
+"@score":"1",
+"@id":"5160708",
+"info":{"authors":{"author":[{"@pid":"c/SoonMyoungChung","text":"Soon Myoung Chung"},{"@pid":"76/6677","text":"P. Bruce Berra"}]},"title":"A Comparison of Concatenated and Superimposed Code Word Surrogate Files for Very Large Data/Knowledge Bases.","venue":"EDBT","pages":"364-387","year":"1988","type":"Conference and Workshop Papers","key":"conf/edbt/ChungB88","doi":"10.1007/3-540-19074-0_63","ee":"https://doi.org/10.1007/3-540-19074-0_63","url":"https://dblp.org/rec/conf/edbt/ChungB88"},
+"url":"URL#5160708"
+},
+{
+"@score":"1",
+"@id":"5160709",
+"info":{"authors":{"author":[{"@pid":"37/4841","text":"Lawrence Chung"},{"@pid":"55/1224","text":"Daniel Rios-Zertuche"},{"@pid":"35/6670","text":"Brian A. Nixon"},{"@pid":"m/JohnMylopoulos","text":"John Mylopoulos"}]},"title":"Process Management and Assertion Enforcement for a Semantic Data Model.","venue":"EDBT","pages":"469-487","year":"1988","type":"Conference and Workshop Papers","key":"conf/edbt/ChungRNM88","doi":"10.1007/3-540-19074-0_68","ee":"https://doi.org/10.1007/3-540-19074-0_68","url":"https://dblp.org/rec/conf/edbt/ChungRNM88"},
+"url":"URL#5160709"
+},
+{
+"@score":"1",
+"@id":"5160710",
+"info":{"authors":{"author":[{"@pid":"52/3797","text":"M. Driouche"},{"@pid":"48/1355","text":"Y. Gicquel"},{"@pid":"33/3592","text":"Brigitte Kerhervé"},{"@pid":"74/3443","text":"G. Le Gac"},{"@pid":"13/4298","text":"Yann Lepetit"},{"@pid":"66/7046","text":"G. Nicaud"}]},"title":"Sabrina-RT, A Distributed DBMS for Telecommunications.","venue":"EDBT","pages":"594-599","year":"1988","type":"Conference and Workshop Papers","key":"conf/edbt/DrioucheGKGLN88","doi":"10.1007/3-540-19074-0_83","ee":"https://doi.org/10.1007/3-540-19074-0_83","url":"https://dblp.org/rec/conf/edbt/DrioucheGKGLN88"},
+"url":"URL#5160710"
+},
+{
+"@score":"1",
+"@id":"5160711",
+"info":{"authors":{"author":[{"@pid":"90/710","text":"Dirk Ellinghaus"},{"@pid":"36/3562","text":"Matthias Hallmann"},{"@pid":"90/2374","text":"Bernhard Holtkamp"},{"@pid":"45/5999","text":"Klaus-Dieter Kreplin"}]},"title":"A Multidatabase System for Transnational Accounting.","venue":"EDBT","pages":"600-605","year":"1988","type":"Conference and Workshop Papers","key":"conf/edbt/EllinghausHHK88","doi":"10.1007/3-540-19074-0_84","ee":"https://doi.org/10.1007/3-540-19074-0_84","url":"https://dblp.org/rec/conf/edbt/EllinghausHHK88"},
+"url":"URL#5160711"
+},
+{
+"@score":"1",
+"@id":"5160712",
+"info":{"authors":{"author":[{"@pid":"g/PeterMDGray","text":"Peter M. D. Gray"},{"@pid":"34/7020","text":"David S. Moffat"},{"@pid":"p/NWPaton","text":"Norman W. Paton"}]},"title":"A Prolog Interface to a Functional Data Model Database.","venue":"EDBT","pages":"34-48","year":"1988","type":"Conference and Workshop Papers","key":"conf/edbt/GrayMP88","doi":"10.1007/3-540-19074-0_46","ee":"https://doi.org/10.1007/3-540-19074-0_46","url":"https://dblp.org/rec/conf/edbt/GrayMP88"},
+"url":"URL#5160712"
+},
+{
+"@score":"1",
+"@id":"5160713",
+"info":{"authors":{"author":{"@pid":"g/RHGuting","text":"Ralf Hartmut Güting"}},"title":"Geo-Relational Algebra - A Model and Query Language for Geometric Database Systems.","venue":"EDBT","pages":"506-527","year":"1988","type":"Conference and Workshop Papers","key":"conf/edbt/Guting88","doi":"10.1007/3-540-19074-0_70","ee":"https://doi.org/10.1007/3-540-19074-0_70","url":"https://dblp.org/rec/conf/edbt/Guting88"},
+"url":"URL#5160713"
+},
+{
+"@score":"1",
+"@id":"5160714",
+"info":{"authors":{"author":[{"@pid":"h/JiaweiHan","text":"Jiawei Han 0001"},{"@pid":"53/6168","text":"Ghassan Z. Qadah"},{"@pid":"75/1885","text":"Chinying Chaou"}]},"title":"The Processing and Evaluation of Transitive Closure Queries.","venue":"EDBT","pages":"49-75","year":"1988","type":"Conference and Workshop Papers","key":"conf/edbt/HanQC88","doi":"10.1007/3-540-19074-0_47","ee":"https://doi.org/10.1007/3-540-19074-0_47","url":"https://dblp.org/rec/conf/edbt/HanQC88"},
+"url":"URL#5160714"
+},
+{
+"@score":"1",
+"@id":"5160715",
+"info":{"authors":{"author":{"@pid":"13/1397","text":"Serge Himbaut"}},"title":"Tell-Me - A Natural Language Query System.","venue":"EDBT","pages":"583-587","year":"1988","type":"Conference and Workshop Papers","key":"conf/edbt/Himbaut88","doi":"10.1007/3-540-19074-0_80","ee":"https://doi.org/10.1007/3-540-19074-0_80","url":"https://dblp.org/rec/conf/edbt/Himbaut88"},
+"url":"URL#5160715"
+},
+{
+"@score":"1",
+"@id":"5160716",
+"info":{"authors":{"author":[{"@pid":"22/3245","text":"Andreas Hutflesz"},{"@pid":"s/HansWernerSix","text":"Hans-Werner Six"},{"@pid":"w/PeterWidmayer","text":"Peter Widmayer"}]},"title":"The Twin Grid File - A Nearly Space Optimal Index Structure.","venue":"EDBT","pages":"352-363","year":"1988","type":"Conference and Workshop Papers","key":"conf/edbt/HutfleszSW88","doi":"10.1007/3-540-19074-0_62","ee":"https://doi.org/10.1007/3-540-19074-0_62","url":"https://dblp.org/rec/conf/edbt/HutfleszSW88"},
+"url":"URL#5160716"
+},
+{
+"@score":"1",
+"@id":"5160717",
+"info":{"authors":{"author":[{"@pid":"06/2432","text":"Wolfgang Johannsen"},{"@pid":"l/WLamersdorf","text":"Winfried Lamersdorf"},{"@pid":"80/4128","text":"Kurt Reinhardt"},{"@pid":"s/JoachimWSchmidt","text":"Joachim W. Schmidt"}]},"title":"The DURES Project - Extending Datbases into an Open System Architecture.","venue":"EDBT","pages":"616-620","year":"1988","type":"Conference and Workshop Papers","key":"conf/edbt/JohannsenLRS88","doi":"10.1007/3-540-19074-0_86","ee":"https://doi.org/10.1007/3-540-19074-0_86","url":"https://dblp.org/rec/conf/edbt/JohannsenLRS88"},
+"url":"URL#5160717"
+},
+{
+"@score":"1",
+"@id":"5160718",
+"info":{"authors":{"author":[{"@pid":"d/AKotzDittrich","text":"Angelika M. Kotz"},{"@pid":"d/KRDittrich","text":"Klaus R. Dittrich"},{"@pid":"m/JuttaMulle","text":"Jutta A. Mülle"}]},"title":"Supporting Semantic Rules by a Generalized Event/Trigger Mechanism.","venue":"EDBT","pages":"76-91","year":"1988","type":"Conference and Workshop Papers","key":"conf/edbt/KotzDM88","doi":"10.1007/3-540-19074-0_48","ee":"https://doi.org/10.1007/3-540-19074-0_48","url":"https://dblp.org/rec/conf/edbt/KotzDM88"},
+"url":"URL#5160718"
+},
+{
+"@score":"1",
+"@id":"5160719",
+"info":{"authors":{"author":[{"@pid":"97/5651","text":"Ravi Krishnamurthy"},{"@pid":"z/CZaniolo","text":"Carlo Zaniolo"}]},"title":"Optimization in a Logic Based Language for Knowledge and Data Intensive Applications.","venue":"EDBT","pages":"16-33","year":"1988","type":"Conference and Workshop Papers","key":"conf/edbt/KrishnamurthyZ88","doi":"10.1007/3-540-19074-0_45","ee":"https://doi.org/10.1007/3-540-19074-0_45","url":"https://dblp.org/rec/conf/edbt/KrishnamurthyZ88"},
+"url":"URL#5160719"
+},
+{
+"@score":"1",
+"@id":"5160720",
+"info":{"authors":{"author":[{"@pid":"k/AkhilKumar","text":"Akhil Kumar 0001"},{"@pid":"s/ArieSegev","text":"Arie Segev"}]},"title":"Optimizing Voting-Type Algorithms for Replicated Data.","venue":"EDBT","pages":"428-442","year":"1988","type":"Conference and Workshop Papers","key":"conf/edbt/KumarS88","doi":"10.1007/3-540-19074-0_66","ee":"https://doi.org/10.1007/3-540-19074-0_66","url":"https://dblp.org/rec/conf/edbt/KumarS88"},
+"url":"URL#5160720"
+},
+{
+"@score":"1",
+"@id":"5160721",
+"info":{"authors":{"author":[{"@pid":"82/67","text":"Christophe Lécluse"},{"@pid":"29/2689","text":"Philippe Richard"},{"@pid":"56/5816","text":"Fernando Vélez"}]},"title":"O2, an Object-Oriented Data Model.","venue":"EDBT","pages":"556-562","year":"1988","type":"Conference and Workshop Papers","key":"conf/edbt/LecluseRV88","doi":"10.1007/3-540-19074-0_75","ee":"https://doi.org/10.1007/3-540-19074-0_75","url":"https://dblp.org/rec/conf/edbt/LecluseRV88"},
+"url":"URL#5160721"
+},
+{
+"@score":"1",
+"@id":"5160722",
+"info":{"authors":{"author":[{"@pid":"l/MarkLevene","text":"Mark Levene"},{"@pid":"l/GeorgeLoizou","text":"George Loizou"}]},"title":"A Universal Relation Model for Nested Relations.","venue":"EDBT","pages":"294-308","year":"1988","type":"Conference and Workshop Papers","key":"conf/edbt/LeveneL88","doi":"10.1007/3-540-19074-0_59","ee":"https://doi.org/10.1007/3-540-19074-0_59","url":"https://dblp.org/rec/conf/edbt/LeveneL88"},
+"url":"URL#5160722"
+},
+{
+"@score":"1",
+"@id":"5160723",
+"info":{"authors":{"author":[{"@pid":"12/2734","text":"Witold Litwin"},{"@pid":"53/5403","text":"Djamel Eddine Zegour"},{"@pid":"33/6327","text":"Gérard Lévy"}]},"title":"Multilevel Trie Hashing.","venue":"EDBT","pages":"309-335","year":"1988","type":"Conference and Workshop Papers","key":"conf/edbt/LitwinZL88","doi":"10.1007/3-540-19074-0_60","ee":"https://doi.org/10.1007/3-540-19074-0_60","url":"https://dblp.org/rec/conf/edbt/LitwinZL88"},
+"url":"URL#5160723"
+},
+{
+"@score":"1",
+"@id":"5160724",
+"info":{"authors":{"author":[{"@pid":"26/1286","text":"Nikos A. Lorentzos"},{"@pid":"56/2745","text":"Roger G. Johnson"}]},"title":"An Extension of the Relational Model to Support Generic Intervals.","venue":"EDBT","pages":"528-542","year":"1988","type":"Conference and Workshop Papers","key":"conf/edbt/LorentzosJ88","doi":"10.1007/3-540-19074-0_71","ee":"https://doi.org/10.1007/3-540-19074-0_71","url":"https://dblp.org/rec/conf/edbt/LorentzosJ88"},
+"url":"URL#5160724"
+},
+{
+"@score":"1",
+"@id":"5160725",
+"info":{"authors":{"author":[{"@pid":"91/6028","text":"Jack Metthey"},{"@pid":"37/5385","text":"José Cotta"}]},"title":"ESPRIT - Trends &amp; Challenges in DB Technology.","venue":"EDBT","pages":"543-548","year":"1988","type":"Conference and Workshop Papers","key":"conf/edbt/MettheyC88","doi":"10.1007/3-540-19074-0_72","ee":"https://doi.org/10.1007/3-540-19074-0_72","url":"https://dblp.org/rec/conf/edbt/MettheyC88"},
+"url":"URL#5160725"
+},
+{
+"@score":"1",
+"@id":"5160726",
+"info":{"authors":{"author":[{"@pid":"88/6580","text":"Amir Milo"},{"@pid":"w/OuriWolfson","text":"Ouri Wolfson"}]},"title":"Placement of Replicated Items in Distributed Databases.","venue":"EDBT","pages":"414-427","year":"1988","type":"Conference and Workshop Papers","key":"conf/edbt/MiloW88","doi":"10.1007/3-540-19074-0_65","ee":"https://doi.org/10.1007/3-540-19074-0_65","url":"https://dblp.org/rec/conf/edbt/MiloW88"},
+"url":"URL#5160726"
+},
+{
+"@score":"1",
+"@id":"5160727",
+"info":{"authors":{"author":{"@pid":"35/1356","text":"Giuseppe Pelagatti"}},"title":"Distributed Database Applications - Introduction by the Session Chairman.","venue":"EDBT","pages":"588-589","year":"1988","type":"Conference and Workshop Papers","key":"conf/edbt/Pelagatti88","doi":"10.1007/3-540-19074-0_81","ee":"https://doi.org/10.1007/3-540-19074-0_81","url":"https://dblp.org/rec/conf/edbt/Pelagatti88"},
+"url":"URL#5160727"
+},
+{
+"@score":"1",
+"@id":"5160728",
+"info":{"authors":{"author":{"@pid":"53/6168","text":"Ghassan Z. Qadah"}},"title":"Filter-Based Join Algorithms on Uniprocessor and Distributed-Memory Multiprocessor Database Machines.","venue":"EDBT","pages":"388-413","year":"1988","type":"Conference and Workshop Papers","key":"conf/edbt/Qadah88","doi":"10.1007/3-540-19074-0_64","ee":"https://doi.org/10.1007/3-540-19074-0_64","url":"https://dblp.org/rec/conf/edbt/Qadah88"},
+"url":"URL#5160728"
+},
+{
+"@score":"1",
+"@id":"5160729",
+"info":{"authors":{"author":[{"@pid":"60/423","text":"Fausto Rabitti"},{"@pid":"89/5812","text":"Darrell Woelk"},{"@pid":"86/2627-1","text":"Won Kim 0001"}]},"title":"A Model of Authorization for Object-Oriented and Semantic Databases.","venue":"EDBT","pages":"231-250","year":"1988","type":"Conference and Workshop Papers","key":"conf/edbt/RabittiWK88","doi":"10.1007/3-540-19074-0_56","ee":"https://doi.org/10.1007/3-540-19074-0_56","url":"https://dblp.org/rec/conf/edbt/RabittiWK88"},
+"url":"URL#5160729"
+},
+{
+"@score":"1",
+"@id":"5160730",
+"info":{"authors":{"author":{"@pid":"s/DomenicoSacca","text":"Domenico Saccà"}},"title":"Support for Data- and Knowledge-Based Applications - Introduction by the Session Chairman.","venue":"EDBT","pages":"549-550","year":"1988","type":"Conference and Workshop Papers","key":"conf/edbt/Sacca88","doi":"10.1007/3-540-19074-0_73","ee":"https://doi.org/10.1007/3-540-19074-0_73","url":"https://dblp.org/rec/conf/edbt/Sacca88"},
+"url":"URL#5160730"
+},
+{
+"@score":"1",
+"@id":"5160731",
+"info":{"authors":{"author":{"@pid":"64/561","text":"Ming-Chien Shan"}},"title":"Optimal Plan Search in a Rule-Based Query Optimizer.","venue":"EDBT","pages":"92-112","year":"1988","type":"Conference and Workshop Papers","key":"conf/edbt/Shan88","doi":"10.1007/3-540-19074-0_49","ee":"https://doi.org/10.1007/3-540-19074-0_49","url":"https://dblp.org/rec/conf/edbt/Shan88"},
+"url":"URL#5160731"
+},
+{
+"@score":"1",
+"@id":"5160732",
+"info":{"authors":{"author":[{"@pid":"s/AmitPSheth","text":"Amit P. Sheth"},{"@pid":"34/655","text":"James A. Larson"},{"@pid":"67/184","text":"Evan Watkins"}]},"title":"TAILOR, A Tool for Updating Views.","venue":"EDBT","pages":"190-213","year":"1988","type":"Conference and Workshop Papers","key":"conf/edbt/ShethLW88","doi":"10.1007/3-540-19074-0_54","ee":"https://doi.org/10.1007/3-540-19074-0_54","url":"https://dblp.org/rec/conf/edbt/ShethLW88"},
+"url":"URL#5160732"
+},
+{
+"@score":"1",
+"@id":"5160733",
+"info":{"authors":{"author":{"@pid":"46/4350","text":"Andrea Sikeler"}},"title":"VAR-PAGE-LRU A Buffer Replacement Algorithm Supporting Different Page Sizes.","venue":"EDBT","pages":"336-351","year":"1988","type":"Conference and Workshop Papers","key":"conf/edbt/Sikeler88","doi":"10.1007/3-540-19074-0_61","ee":"https://doi.org/10.1007/3-540-19074-0_61","url":"https://dblp.org/rec/conf/edbt/Sikeler88"},
+"url":"URL#5160733"
+},
+{
+"@score":"1",
+"@id":"5160734",
+"info":{"title":"Towards KBMS for Software Development - An Overview of the DAIDA Project.","venue":"EDBT","pages":"572-577","year":"1988","type":"Conference and Workshop Papers","key":"conf/edbt/Team88","doi":"10.1007/3-540-19074-0_78","ee":"https://doi.org/10.1007/3-540-19074-0_78","url":"https://dblp.org/rec/conf/edbt/Team88"},
+"url":"URL#5160734"
+},
+{
+"@score":"1",
+"@id":"5160735",
+"info":{"authors":{"author":{"@pid":"59/3968","text":"Alexandre V. Zamulin"}},"title":"Data Base Programming Tools in the Atlant Language.","venue":"EDBT","pages":"563-566","year":"1988","type":"Conference and Workshop Papers","key":"conf/edbt/Zamulin88","doi":"10.1007/3-540-19074-0_76","ee":"https://doi.org/10.1007/3-540-19074-0_76","url":"https://dblp.org/rec/conf/edbt/Zamulin88"},
+"url":"URL#5160735"
+},
+{
+"@score":"1",
+"@id":"5166936",
+"info":{"authors":{"author":[{"@pid":"s/JoachimWSchmidt","text":"Joachim W. Schmidt"},{"@pid":"c/StefanoCeri","text":"Stefano Ceri"},{"@pid":"m/MMissikoff","text":"Michele Missikoff"}]},"title":"Advances in Database Technology - EDBT&apos;88, Proceedings of the International Conference on Extending Database Technology, Venice, Italy, March 14-18, 1988","venue":["EDBT","Lecture Notes in Computer Science"],"volume":"303","publisher":"Springer","year":"1988","type":"Editorship","key":"conf/edbt/88","doi":"10.1007/3-540-19074-0","ee":"https://doi.org/10.1007/3-540-19074-0","url":"https://dblp.org/rec/conf/edbt/88"},
+"url":"URL#5166936"
+}
+]
+}
 }
 }

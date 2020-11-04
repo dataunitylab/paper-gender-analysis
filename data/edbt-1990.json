@@ -1,23 +1,218 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"edbt\"/\"edbt1990\".\"bht",
+"query":":facetid:toc:db\"/\"conf\"/\"edbt\"/\"edbt90\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.29"
+"text":"129.85"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"31",
+"@dc":"31",
+"@oc":"31",
+"@id":"17178269",
+"text":":facetid:toc:db/conf/edbt/edbt90.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"31",
+"@computed":"31",
+"@sent":"31",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"5115374",
+"info":{"authors":{"author":[{"@pid":"32/5577","text":"T. Lougenia Anderson"},{"@pid":"55/1946","text":"Arne-Jørgen Berre"},{"@pid":"92/6112","text":"Moira Mallison"},{"@pid":"05/5534","text":"Harry H. Porter"},{"@pid":"06/6892","text":"Bruce Schneider"}]},"title":"The HyperModel Benchmark.","venue":"EDBT","pages":"317-331","year":"1990","type":"Conference and Workshop Papers","key":"conf/edbt/AndersonBMPS90","doi":"10.1007/BFB0022180","ee":"https://doi.org/10.1007/BFb0022180","url":"https://dblp.org/rec/conf/edbt/AndersonBMPS90"},
+"url":"URL#5115374"
+},
+{
+"@score":"1",
+"@id":"5115375",
+"info":{"authors":{"author":[{"@pid":"93/3152","text":"Francisca Antunes"},{"@pid":"66/4152","text":"Seán Baker"},{"@pid":"18/6068-1","text":"Brian Caulfield 0001"},{"@pid":"39/764","text":"Mauricio Lopez"},{"@pid":"37/5129","text":"Mark Sheppard"}]},"title":"A Pragmatic Approach for Integrating Data Management and Tasks Management - Modelling and Implementation Issues.","venue":"EDBT","pages":"422-436","year":"1990","type":"Conference and Workshop Papers","key":"conf/edbt/AntunesBCLS90","doi":"10.1007/BFB0022187","ee":"https://doi.org/10.1007/BFb0022187","url":"https://dblp.org/rec/conf/edbt/AntunesBCLS90"},
+"url":"URL#5115375"
+},
+{
+"@score":"1",
+"@id":"5115376",
+"info":{"authors":{"author":{"@pid":"b/RABaezaYates","text":"Ricardo A. Baeza-Yates"}},"title":"An Adaptive Overflow Technique for B-trees.","venue":"EDBT","pages":"16-28","year":"1990","type":"Conference and Workshop Papers","key":"conf/edbt/Baeza-Yates90","doi":"10.1007/BFB0022161","ee":"https://doi.org/10.1007/BFb0022161","url":"https://dblp.org/rec/conf/edbt/Baeza-Yates90"},
+"url":"URL#5115376"
+},
+{
+"@score":"1",
+"@id":"5115377",
+"info":{"authors":{"author":[{"@pid":"b/DBarbara","text":"Daniel Barbará"},{"@pid":"g/HGarciaMolina","text":"Hector Garcia-Molina"},{"@pid":"81/3102","text":"Daryl Porter"}]},"title":"A Probalilistic Relational Data Model.","venue":"EDBT","pages":"60-74","year":"1990","type":"Conference and Workshop Papers","key":"conf/edbt/BarbaraGP90","doi":"10.1007/BFB0022164","ee":"https://doi.org/10.1007/BFb0022164","url":"https://dblp.org/rec/conf/edbt/BarbaraGP90"},
+"url":"URL#5115377"
+},
+{
+"@score":"1",
+"@id":"5115378",
+"info":{"authors":{"author":{"@pid":"78/4814","text":"Gilles Barbedette"}},"title":"LISPO2 - a Persistent Object-Oriented Lisp.","venue":"EDBT","pages":"332-347","year":"1990","type":"Conference and Workshop Papers","key":"conf/edbt/Barbedette90","doi":"10.1007/BFB0022181","ee":"https://doi.org/10.1007/BFb0022181","url":"https://dblp.org/rec/conf/edbt/Barbedette90"},
+"url":"URL#5115378"
+},
+{
+"@score":"1",
+"@id":"5115379",
+"info":{"authors":{"author":[{"@pid":"b/CBeeri","text":"Catriel Beeri"},{"@pid":"20/563","text":"Yoram Kornatzky"}]},"title":"The Many Faces of Query Monotonicity.","venue":"EDBT","pages":"120-135","year":"1990","type":"Conference and Workshop Papers","key":"conf/edbt/BeeriK90","doi":"10.1007/BFB0022167","ee":"https://doi.org/10.1007/BFb0022167","url":"https://dblp.org/rec/conf/edbt/BeeriK90"},
+"url":"URL#5115379"
+},
+{
+"@score":"1",
+"@id":"5115380",
+"info":{"authors":{"author":{"@pid":"b/ElisaBertino","text":"Elisa Bertino"}},"title":"Optimization of Queries using Nested Indices.","venue":"EDBT","pages":"44-59","year":"1990","type":"Conference and Workshop Papers","key":"conf/edbt/Bertino90","doi":"10.1007/BFB0022163","ee":"https://doi.org/10.1007/BFb0022163","url":"https://dblp.org/rec/conf/edbt/Bertino90"},
+"url":"URL#5115380"
+},
+{
+"@score":"1",
+"@id":"5115381",
+"info":{"authors":{"author":[{"@pid":"b/AJBonner","text":"Anthony J. Bonner"},{"@pid":"i/TomaszImielinski","text":"Tomasz Imielinski"}]},"title":"The Reuse and Modification of Rulebases by Predicate Substituation.","venue":"EDBT","pages":"437-451","year":"1990","type":"Conference and Workshop Papers","key":"conf/edbt/BonnerI90","doi":"10.1007/BFB0022188","ee":"https://doi.org/10.1007/BFb0022188","url":"https://dblp.org/rec/conf/edbt/BonnerI90"},
+"url":"URL#5115381"
+},
+{
+"@score":"1",
+"@id":"5115382",
+"info":{"authors":{"author":[{"@pid":"09/2345","text":"Michèle Cart"},{"@pid":"08/3501","text":"Jean Ferrié"}]},"title":"Integrating Concurrency Control into an Object-Oriented Database System.","venue":"EDBT","pages":"363-377","year":"1990","type":"Conference and Workshop Papers","key":"conf/edbt/CartF90","doi":"10.1007/BFB0022183","ee":"https://doi.org/10.1007/BFb0022183","url":"https://dblp.org/rec/conf/edbt/CartF90"},
+"url":"URL#5115382"
+},
+{
+"@score":"1",
+"@id":"5115383",
+"info":{"authors":{"author":[{"@pid":"c/SChakravarthy","text":"Sharma Chakravarthy"},{"@pid":"75/2288","text":"Susan Nesson"}]},"title":"Making an Object-Oriented DBMS Active - Design, Implementation, and Evaluation of a Prototype.","venue":"EDBT","pages":"393-406","year":"1990","type":"Conference and Workshop Papers","key":"conf/edbt/ChakravarthyN90","doi":"10.1007/BFB0022185","ee":"https://doi.org/10.1007/BFb0022185","url":"https://dblp.org/rec/conf/edbt/ChakravarthyN90"},
+"url":"URL#5115383"
+},
+{
+"@score":"1",
+"@id":"5115384",
+"info":{"authors":{"author":{"@pid":"c/ALPChen","text":"Arbee L. P. Chen"}},"title":"A Localized Approach to Distributed Query Processing.","venue":"EDBT","pages":"188-202","year":"1990","type":"Conference and Workshop Papers","key":"conf/edbt/Chen90","doi":"10.1007/BFB0022171","ee":"https://doi.org/10.1007/BFb0022171","url":"https://dblp.org/rec/conf/edbt/Chen90"},
+"url":"URL#5115384"
+},
+{
+"@score":"1",
+"@id":"5115385",
+"info":{"authors":{"author":[{"@pid":"91/4807","text":"Danette Chimenti"},{"@pid":"52/4057","text":"Ruben Gamboa"},{"@pid":"97/5651","text":"Ravi Krishnamurthy"}]},"title":"Abstract Machine for LDL.","venue":"EDBT","pages":"153-168","year":"1990","type":"Conference and Workshop Papers","key":"conf/edbt/ChimentiGK90","doi":"10.1007/BFB0022169","ee":"https://doi.org/10.1007/BFb0022169","url":"https://dblp.org/rec/conf/edbt/ChimentiGK90"},
+"url":"URL#5115385"
+},
+{
+"@score":"1",
+"@id":"5115386",
+"info":{"authors":{"author":[{"@pid":"c/RCHConnor","text":"Richard C. H. Connor"},{"@pid":"d/AlanDearle","text":"Alan Dearle"},{"@pid":"82/2183","text":"Ronald Morrison"},{"@pid":"b/AlfredLBrown","text":"Fred Brown"}]},"title":"Existentially Quantified Typed as a Database Viewing Mechanism.","venue":"EDBT","pages":"301-315","year":"1990","type":"Conference and Workshop Papers","key":"conf/edbt/ConnorDMB90","doi":"10.1007/BFB0022178","ee":"https://doi.org/10.1007/BFb0022178","url":"https://dblp.org/rec/conf/edbt/ConnorDMB90"},
+"url":"URL#5115386"
+},
+{
+"@score":"1",
+"@id":"5115387",
+"info":{"authors":{"author":[{"@pid":"37/3701","text":"George P. Copeland"},{"@pid":"f/MJFranklin","text":"Michael J. Franklin"},{"@pid":"w/GerhardWeikum","text":"Gerhard Weikum"}]},"title":"Uniform Object Management.","venue":"EDBT","pages":"253-268","year":"1990","type":"Conference and Workshop Papers","key":"conf/edbt/CopelandFW90","doi":"10.1007/BFB0022175","ee":"https://doi.org/10.1007/BFb0022175","url":"https://dblp.org/rec/conf/edbt/CopelandFW90"},
+"url":"URL#5115387"
+},
+{
+"@score":"1",
+"@id":"5115388",
+"info":{"authors":{"author":[{"@pid":"33/4586","text":"Ulrich Herrmann"},{"@pid":"d/PDadam","text":"Peter Dadam"},{"@pid":"k/KKuspert","text":"Klaus Küspert"},{"@pid":"60/3546","text":"E. A. Roman"},{"@pid":"19/4663","text":"Gunter Schlageter"}]},"title":"A Lock Technique for Disjoint and Non-Disjoint Complex Objects.","venue":"EDBT","pages":"219-237","year":"1990","type":"Conference and Workshop Papers","key":"conf/edbt/HerrmannDKRS90","doi":"10.1007/BFB0022173","ee":"https://doi.org/10.1007/BFb0022173","url":"https://dblp.org/rec/conf/edbt/HerrmannDKRS90"},
+"url":"URL#5115388"
+},
+{
+"@score":"1",
+"@id":"5115389",
+"info":{"authors":{"author":[{"@pid":"76/1968","text":"Klaus Hülsmann"},{"@pid":"s/GunterSaake","text":"Gunter Saake"}]},"title":"Representation of the Historical Information Necessary for Temporal Integrity Monitoring.","venue":"EDBT","pages":"378-392","year":"1990","type":"Conference and Workshop Papers","key":"conf/edbt/HulsmannS90","doi":"10.1007/BFB0022184","ee":"https://doi.org/10.1007/BFb0022184","url":"https://dblp.org/rec/conf/edbt/HulsmannS90"},
+"url":"URL#5115389"
+},
+{
+"@score":"1",
+"@id":"5115390",
+"info":{"authors":{"author":[{"@pid":"70/4065","text":"B. Paul Jenq"},{"@pid":"89/5812","text":"Darrell Woelk"},{"@pid":"86/2627-1","text":"Won Kim 0001"},{"@pid":"11/2967","text":"Wan-Lik Lee"}]},"title":"Query Processing in Distributed ORION.","venue":"EDBT","pages":"169-187","year":"1990","type":"Conference and Workshop Papers","key":"conf/edbt/JenqWKL90","doi":"10.1007/BFB0022170","ee":"https://doi.org/10.1007/BFb0022170","url":"https://dblp.org/rec/conf/edbt/JenqWKL90"},
+"url":"URL#5115390"
+},
+{
+"@score":"1",
+"@id":"5115391",
+"info":{"authors":{"author":{"@pid":"k/LeonidAKalinichenko","text":"Leonid A. Kalinichenko"}},"title":"Methods and Tools for Equivalent Data Model Mapping Construction.","venue":"EDBT","pages":"92-119","year":"1990","type":"Conference and Workshop Papers","key":"conf/edbt/Kalinichenko90","doi":"10.1007/BFB0022166","ee":"https://doi.org/10.1007/BFb0022166","url":"https://dblp.org/rec/conf/edbt/Kalinichenko90"},
+"url":"URL#5115391"
+},
+{
+"@score":"1",
+"@id":"5115392",
+"info":{"authors":{"author":[{"@pid":"13/5539","text":"Yuki Kusumi"},{"@pid":"n/ShojiroNishio","text":"Shojiro Nishio"},{"@pid":"72/3440","text":"Toshiharu Hasegawa"}]},"title":"File Access Level Optimization Using Page Access Graph on Recursive Query Evaluation.","venue":"EDBT","pages":"136-152","year":"1990","type":"Conference and Workshop Papers","key":"conf/edbt/KusumiNH90","doi":"10.1007/BFB0022168","ee":"https://doi.org/10.1007/BFb0022168","url":"https://dblp.org/rec/conf/edbt/KusumiNH90"},
+"url":"URL#5115392"
+},
+{
+"@score":"1",
+"@id":"5115393",
+"info":{"authors":{"author":[{"@pid":"39/1385","text":"Peter Lyngbæk"},{"@pid":"w/KevinWilkinson","text":"W. Kevin Wilkinson"},{"@pid":"30/1809","text":"Waqar Hasan"}]},"title":"The Iris Kernel Architecture.","venue":"EDBT","pages":"348-362","year":"1990","type":"Conference and Workshop Papers","key":"conf/edbt/LyngbaekWH90","doi":"10.1007/BFB0022182","ee":"https://doi.org/10.1007/BFb0022182","url":"https://dblp.org/rec/conf/edbt/LyngbaekWH90"},
+"url":"URL#5115393"
+},
+{
+"@score":"1",
+"@id":"5115394",
+"info":{"authors":{"author":{"@pid":"m/DavidMaier","text":"David Maier 0001"}},"title":"Panel - Has Theory Brought Anything to Database Systems and Will It in the Future?","venue":"EDBT","pages":"316","year":"1990","type":"Conference and Workshop Papers","key":"conf/edbt/Maier90","doi":"10.1007/BFB0022179","ee":"https://doi.org/10.1007/BFb0022179","url":"https://dblp.org/rec/conf/edbt/Maier90"},
+"url":"URL#5115394"
+},
+{
+"@score":"1",
+"@id":"5115395",
+"info":{"authors":{"author":{"@pid":"m/MMissikoff","text":"Michele Missikoff"}},"title":"Panel - &quot;Why are object-oriented folks producing systems, while deductive foks are producing papers?&quot;.","venue":"EDBT","pages":"452","year":"1990","type":"Conference and Workshop Papers","key":"conf/edbt/Missikoff90","doi":"10.1007/BFB0022189","ee":"https://doi.org/10.1007/BFb0022189","url":"https://dblp.org/rec/conf/edbt/Missikoff90"},
+"url":"URL#5115395"
+},
+{
+"@score":"1",
+"@id":"5115396",
+"info":{"authors":{"author":[{"@pid":"m/CMohan","text":"C. Mohan 0001"},{"@pid":"11/633","text":"Don Haderle"},{"@pid":"36/3235","text":"Yun Wang"},{"@pid":"30/1628","text":"Josephine M. Cheng"}]},"title":"Single Table Access Using Multiple Indexes - Optimization, Execution, and Concurrency Control Techniques.","venue":"EDBT","pages":"29-43","year":"1990","type":"Conference and Workshop Papers","key":"conf/edbt/MohanHWC90","doi":"10.1007/BFB0022162","ee":"https://doi.org/10.1007/BFb0022162","url":"https://dblp.org/rec/conf/edbt/MohanHWC90"},
+"url":"URL#5115396"
+},
+{
+"@score":"1",
+"@id":"5115397",
+"info":{"authors":{"author":[{"@pid":"n/ShamkantBNavathe","text":"Shamkant B. Navathe"},{"@pid":"98/3180","text":"Aloysius Cornelio"}]},"title":"Modeling Physical Systems by Complex Structural Objects and Complex Functional Objects.","venue":"EDBT","pages":"238-252","year":"1990","type":"Conference and Workshop Papers","key":"conf/edbt/NavatheC90","doi":"10.1007/BFB0022174","ee":"https://doi.org/10.1007/BFb0022174","url":"https://dblp.org/rec/conf/edbt/NavatheC90"},
+"url":"URL#5115397"
+},
+{
+"@score":"1",
+"@id":"5115398",
+"info":{"authors":{"author":[{"@pid":"p/APoulovassilis","text":"Alexandra Poulovassilis"},{"@pid":"k/PeterJHKing","text":"Peter J. H. King"}]},"title":"Extending the Functional Data Model to Computational Completeness.","venue":"EDBT","pages":"75-91","year":"1990","type":"Conference and Workshop Papers","key":"conf/edbt/PoulovassilisK90","doi":"10.1007/BFB0022165","ee":"https://doi.org/10.1007/BFb0022165","url":"https://dblp.org/rec/conf/edbt/PoulovassilisK90"},
+"url":"URL#5115398"
+},
+{
+"@score":"1",
+"@id":"5115399",
+"info":{"authors":{"author":[{"@pid":"60/423","text":"Fausto Rabitti"},{"@pid":"s/PasqualeSavino","text":"Pasquale Savino"}]},"title":"Retrieval of Multimedia Documents by Imprecise Query Specification.","venue":"EDBT","pages":"203-218","year":"1990","type":"Conference and Workshop Papers","key":"conf/edbt/RabittiS90","doi":"10.1007/BFB0022172","ee":"https://doi.org/10.1007/BFb0022172","url":"https://dblp.org/rec/conf/edbt/RabittiS90"},
+"url":"URL#5115399"
+},
+{
+"@score":"1",
+"@id":"5115400",
+"info":{"authors":{"author":[{"@pid":"r/EARundensteiner","text":"Elke A. Rundensteiner"},{"@pid":"b/LubomirBic","text":"Lubomir Bic"}]},"title":"Set Operations in a Data Model Supporting Complex Objects.","venue":"EDBT","pages":"286-300","year":"1990","type":"Conference and Workshop Papers","key":"conf/edbt/RundensteinerB90","doi":"10.1007/BFB0022177","ee":"https://doi.org/10.1007/BFb0022177","url":"https://dblp.org/rec/conf/edbt/RundensteinerB90"},
+"url":"URL#5115400"
+},
+{
+"@score":"1",
+"@id":"5115401",
+"info":{"authors":{"author":[{"@pid":"s/DavidWStemple","text":"David W. Stemple"},{"@pid":"f/LeonidasFegaras","text":"Leonidas Fegaras"},{"@pid":"s/TimSheard","text":"Tim Sheard"},{"@pid":"59/5498","text":"Adolfo Socorro"}]},"title":"Exceeding the Limits of Polymorphism in Database Programming Languages.","venue":"EDBT","pages":"269-285","year":"1990","type":"Conference and Workshop Papers","key":"conf/edbt/StempleFSS90","doi":"10.1007/BFB0022176","ee":"https://doi.org/10.1007/BFb0022176","url":"https://dblp.org/rec/conf/edbt/StempleFSS90"},
+"url":"URL#5115401"
+},
+{
+"@score":"1",
+"@id":"5115402",
+"info":{"authors":{"author":{"@pid":"z/CZaniolo","text":"Carlo Zaniolo"}},"title":"Deductive Databases - Theory Meets Practice.","venue":"EDBT","pages":"1-15","year":"1990","type":"Conference and Workshop Papers","key":"conf/edbt/Zaniolo90","doi":"10.1007/BFB0022160","ee":"https://doi.org/10.1007/BFb0022160","url":"https://dblp.org/rec/conf/edbt/Zaniolo90"},
+"url":"URL#5115402"
+},
+{
+"@score":"1",
+"@id":"5115403",
+"info":{"authors":{"author":[{"@pid":"07/4783","text":"Yuli Zhou"},{"@pid":"40/4895","text":"Meichun Hsu"}]},"title":"A Theory for Rule Triggering Systems.","venue":"EDBT","pages":"407-421","year":"1990","type":"Conference and Workshop Papers","key":"conf/edbt/ZhouH90","doi":"10.1007/BFB0022186","ee":"https://doi.org/10.1007/BFb0022186","url":"https://dblp.org/rec/conf/edbt/ZhouH90"},
+"url":"URL#5115403"
+},
+{
+"@score":"1",
+"@id":"5125481",
+"info":{"authors":{"author":[{"@pid":"28/718","text":"François Bancilhon"},{"@pid":"89/2480","text":"Costantino Thanos"},{"@pid":"t/DennisTsichritzis","text":"Dennis Tsichritzis"}]},"title":"Advances in Database Technology - EDBT&apos;90. International Conference on Extending Database Technology, Venice, Italy, March 26-30, 1990, Proceedings","venue":["EDBT","Lecture Notes in Computer Science"],"volume":"416","publisher":"Springer","year":"1990","type":"Editorship","key":"conf/edbt/90","doi":"10.1007/BFB0022159","ee":"https://doi.org/10.1007/BFb0022159","url":"https://dblp.org/rec/conf/edbt/90"},
+"url":"URL#5125481"
+}
+]
+}
 }
 }

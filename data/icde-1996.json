@@ -1,23 +1,518 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"icde\"/\"icde1996\".\"bht",
+"query":":facetid:toc:db\"/\"conf\"/\"icde\"/\"icde96\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.56"
+"text":"120.79"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"81",
+"@dc":"81",
+"@oc":"81",
+"@id":"17185816",
+"text":":facetid:toc:db/conf/icde/icde96.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"81",
+"@computed":"81",
+"@sent":"81",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"4890835",
+"info":{"authors":{"author":[{"@pid":"32/3483","text":"Swarup Acharya"},{"@pid":"f/MJFranklin","text":"Michael J. Franklin"},{"@pid":"z/SBZdonik","text":"Stanley B. Zdonik"}]},"title":"Prefetching from Broadcast Disks.","venue":"ICDE","pages":"276-285","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/AcharyaFZ96","doi":"10.1109/ICDE.1996.492116","ee":"https://doi.org/10.1109/ICDE.1996.492116","url":"https://dblp.org/rec/conf/icde/AcharyaFZ96"},
+"url":"URL#4890835"
+},
+{
+"@score":"1",
+"@id":"4890836",
+"info":{"authors":{"author":[{"@pid":"a/AAiken","text":"Alexander Aiken"},{"@pid":"15/4651","text":"Jolly Chen"},{"@pid":"s/MichaelStonebraker","text":"Michael Stonebraker"},{"@pid":"63/6133","text":"Allison Woodruff"}]},"title":"Tioga-2 - A Direct Manipulation Database Visualization Environment.","venue":"ICDE","pages":"208-217","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/AikenCSW96","doi":"10.1109/ICDE.1996.492109","ee":"https://doi.org/10.1109/ICDE.1996.492109","url":"https://dblp.org/rec/conf/icde/AikenCSW96"},
+"url":"URL#4890836"
+},
+{
+"@score":"1",
+"@id":"4890837",
+"info":{"authors":{"author":[{"@pid":"a/GustavoAlonso","text":"Gustavo Alonso"},{"@pid":"a/DivyakantAgrawal","text":"Divyakant Agrawal"},{"@pid":"a/AmrElAbbadi","text":"Amr El Abbadi"},{"@pid":"76/4667","text":"Mohan Kamath"},{"@pid":"70/6642","text":"Roger Günthör"},{"@pid":"m/CMohan","text":"C. Mohan 0001"}]},"title":"Advanced Transaction Models in Workflow Contexts.","venue":"ICDE","pages":"574-581","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/AlonsoAAKGM96","doi":"10.1109/ICDE.1996.492208","ee":"https://doi.org/10.1109/ICDE.1996.492208","url":"https://dblp.org/rec/conf/icde/AlonsoAAKGM96"},
+"url":"URL#4890837"
+},
+{
+"@score":"1",
+"@id":"4890838",
+"info":{"authors":{"author":{"@pid":"06/1753","text":"David B. Andersen"}},"title":"A Proposed Method for Creating VCR Functions using MPEG Streams.","venue":"ICDE","pages":"380-382","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/Andersen96","doi":"10.1109/ICDE.1996.492186","ee":"https://doi.org/10.1109/ICDE.1996.492186","url":"https://dblp.org/rec/conf/icde/Andersen96"},
+"url":"URL#4890838"
+},
+{
+"@score":"1",
+"@id":"4890839",
+"info":{"authors":{"author":{"@pid":"49/3422","text":"Gennady Antoshenkov"}},"title":"Dynamic Optimization of Index Scans Restricted by Booleans.","venue":"ICDE","pages":"430-440","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/Antoshenkov96","doi":"10.1109/ICDE.1996.492192","ee":"https://doi.org/10.1109/ICDE.1996.492192","url":"https://dblp.org/rec/conf/icde/Antoshenkov96"},
+"url":"URL#4890839"
+},
+{
+"@score":"1",
+"@id":"4890840",
+"info":{"authors":{"author":[{"@pid":"49/3422","text":"Gennady Antoshenkov"},{"@pid":"l/DavidBLomet","text":"David B. Lomet"},{"@pid":"50/4282","text":"James Murray"}]},"title":"Order Preserving Compression.","venue":"ICDE","pages":"655-663","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/AntoshenkovLM96","doi":"10.1109/ICDE.1996.492216","ee":"https://doi.org/10.1109/ICDE.1996.492216","url":"https://dblp.org/rec/conf/icde/AntoshenkovLM96"},
+"url":"URL#4890840"
+},
+{
+"@score":"1",
+"@id":"4890841",
+"info":{"authors":{"author":[{"@pid":"01/2558","text":"Nevzat Hurkan Balkir"},{"@pid":"27/2217","text":"Eser Sükan"},{"@pid":"o/GultekinOzsoyoglu","text":"Gultekin Özsoyoglu"},{"@pid":"o/ZMeralOzsoyoglu","text":"Z. Meral Özsoyoglu"}]},"title":"VISUAL - A Graphical Icon-Based Query Language.","venue":"ICDE","pages":"524-533","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/BalkirSOO96","doi":"10.1109/ICDE.1996.492203","ee":"https://doi.org/10.1109/ICDE.1996.492203","url":"https://dblp.org/rec/conf/icde/BalkirSOO96"},
+"url":"URL#4890841"
+},
+{
+"@score":"1",
+"@id":"4890842",
+"info":{"authors":{"author":[{"@pid":"b/DBarbara","text":"Daniel Barbará"},{"@pid":"m/SharadMehrotra","text":"Sharad Mehrotra"},{"@pid":"58/4933","text":"Padmavathi Vallabhaneni"}]},"title":"The Gold Text Indexing Engine.","venue":"ICDE","pages":"172-179","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/BarbaraMV96","doi":"10.1109/ICDE.1996.492103","ee":"https://doi.org/10.1109/ICDE.1996.492103","url":"https://dblp.org/rec/conf/icde/BarbaraMV96"},
+"url":"URL#4890842"
+},
+{
+"@score":"1",
+"@id":"4890843",
+"info":{"authors":{"author":{"@pid":"56/4021","text":"Dirk Bartels"}},"title":"ODMG Update.","venue":"ICDE","pages":"674-676","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/Bartels96","url":"https://dblp.org/rec/conf/icde/Bartels96"},
+"url":"URL#4890843"
+},
+{
+"@score":"1",
+"@id":"4890844",
+"info":{"authors":{"author":{"@pid":"b/ABestavros","text":"Azer Bestavros"}},"title":"Speculative Data Dissemination and Service to Reduce Server Load, Network Traffic and Service Time in Distributed Information Systems.","venue":"ICDE","pages":"180-187","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/Bestavros96","doi":"10.1109/ICDE.1996.492104","ee":"https://doi.org/10.1109/ICDE.1996.492104","url":"https://dblp.org/rec/conf/icde/Bestavros96"},
+"url":"URL#4890844"
+},
+{
+"@score":"1",
+"@id":"4890845",
+"info":{"authors":{"author":[{"@pid":"85/2528","text":"Gautam Bhargava"},{"@pid":"63/552","text":"Piyush Goel"},{"@pid":"90/5439","text":"Balakrishna R. Iyer"}]},"title":"Efficient Processing of Outer Joins and Aggregate Functions.","venue":"ICDE","pages":"441-449","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/BhargavaGI96","doi":"10.1109/ICDE.1996.492193","ee":"https://doi.org/10.1109/ICDE.1996.492193","url":"https://dblp.org/rec/conf/icde/BhargavaGI96"},
+"url":"URL#4890845"
+},
+{
+"@score":"1",
+"@id":"4890846",
+"info":{"authors":{"author":{"@pid":"79/2594","text":"José A. Blakeley"}},"title":"OLE DB - A Component DBMS Architecture.","venue":"ICDE","pages":"203-204","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/Blakeley96","doi":"10.1109/ICDE.1996.492108","ee":"https://doi.org/10.1109/ICDE.1996.492108","url":"https://dblp.org/rec/conf/icde/Blakeley96"},
+"url":"URL#4890846"
+},
+{
+"@score":"1",
+"@id":"4890847",
+"info":{"authors":{"author":[{"@pid":"b/TBrinkhoff","text":"Thomas Brinkhoff"},{"@pid":"k/HansPeterKriegel","text":"Hans-Peter Kriegel"},{"@pid":"s/BernhardSeeger","text":"Bernhard Seeger"}]},"title":"Parallel Processing of Spatial Joins Using R-trees.","venue":"ICDE","pages":"258-265","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/BrinkhoffKS96","doi":"10.1109/ICDE.1996.492114","ee":"https://doi.org/10.1109/ICDE.1996.492114","url":"https://dblp.org/rec/conf/icde/BrinkhoffKS96"},
+"url":"URL#4890847"
+},
+{
+"@score":"1",
+"@id":"4890848",
+"info":{"authors":{"author":[{"@pid":"b/PeterABuhr","text":"Peter A. Buhr"},{"@pid":"59/5488","text":"Anil K. Goel"},{"@pid":"n/NaomiNishimura","text":"Naomi Nishimura"},{"@pid":"12/3497","text":"Prabhakar Ragde"}]},"title":"Parallel Pointer-Based Join Algorithms in Memory-mapped Environments.","venue":"ICDE","pages":"266-275","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/BuhrGNR96","doi":"10.1109/ICDE.1996.492115","ee":"https://doi.org/10.1109/ICDE.1996.492115","url":"https://dblp.org/rec/conf/icde/BuhrGNR96"},
+"url":"URL#4890848"
+},
+{
+"@score":"1",
+"@id":"4890849",
+"info":{"authors":{"author":[{"@pid":"17/1259","text":"Jacques Calmet"},{"@pid":"24/1948","text":"Dirk Debertin"},{"@pid":"45/1970","text":"Sebastian Jekutsch"},{"@pid":"53/3371","text":"Joachim Schü"}]},"title":"An Executable Graphical Representation of Mediatory Information Systems.","venue":"ICDE","pages":"124-131","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/CalmetDJS96","doi":"10.1109/ICDE.1996.492096","ee":"https://doi.org/10.1109/ICDE.1996.492096","url":"https://dblp.org/rec/conf/icde/CalmetDJS96"},
+"url":"URL#4890849"
+},
+{
+"@score":"1",
+"@id":"4890850",
+"info":{"authors":{"author":{"@pid":"89/4274","text":"David Campbell"}},"title":"Transaction Coordination for the New Millennium - SQL Server Meets OLE Transactions.","venue":"ICDE","pages":"162","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/Campbell96","doi":"10.1109/ICDE.1996.492101","ee":"https://doi.org/10.1109/ICDE.1996.492101","url":"https://dblp.org/rec/conf/icde/Campbell96"},
+"url":"URL#4890850"
+},
+{
+"@score":"1",
+"@id":"4890851",
+"info":{"authors":{"author":[{"@pid":"c/KSelcukCandan","text":"K. Selçuk Candan"},{"@pid":"j/SushilJajodia","text":"Sushil Jajodia"},{"@pid":"s/VSSubrahmanian","text":"V. S. Subrahmanian"}]},"title":"Secure Mediated Databases.","venue":"ICDE","pages":"28-37","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/CandanJS96","doi":"10.1109/ICDE.1996.492086","ee":"https://doi.org/10.1109/ICDE.1996.492086","url":"https://dblp.org/rec/conf/icde/CandanJS96"},
+"url":"URL#4890851"
+},
+{
+"@score":"1",
+"@id":"4890852",
+"info":{"authors":{"author":[{"@pid":"c/SurajitChaudhuri","text":"Surajit Chaudhuri"},{"@pid":"56/4267","text":"Ashok K. Chandra"},{"@pid":"76/2198","text":"Umeshwar Dayal"},{"@pid":"g/JimGray","text":"Jim Gray 0001"},{"@pid":"s/MichaelStonebraker","text":"Michael Stonebraker"},{"@pid":"w/GioWiederhold","text":"Gio Wiederhold"},{"@pid":"v/MosheYVardi","text":"Moshe Y. Vardi"}]},"title":"Database Research - Lead, Follow, or Get Out of the Way? - Panel Abstract.","venue":"ICDE","pages":"190","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/ChaudhuriCDGSWV96","url":"https://dblp.org/rec/conf/icde/ChaudhuriCDGSWV96"},
+"url":"URL#4890852"
+},
+{
+"@score":"1",
+"@id":"4890853",
+"info":{"authors":{"author":[{"@pid":"c/SSChawathe","text":"Sudarshan S. Chawathe"},{"@pid":"g/HGarciaMolina","text":"Hector Garcia-Molina"},{"@pid":"w/JenniferWidom","text":"Jennifer Widom"}]},"title":"A Toolkit for Constraint Management in Heterogeneous Information Systems.","venue":"ICDE","pages":"56-65","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/ChawatheGW96","doi":"10.1109/ICDE.1996.492089","ee":"https://doi.org/10.1109/ICDE.1996.492089","url":"https://dblp.org/rec/conf/icde/ChawatheGW96"},
+"url":"URL#4890853"
+},
+{
+"@score":"1",
+"@id":"4890854",
+"info":{"authors":{"author":{"@pid":"32/2369","text":"I-Min A. Chen"}},"title":"Query Answering Using Discovered Rules.","venue":"ICDE","pages":"402-411","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/Chen96","doi":"10.1109/ICDE.1996.492189","ee":"https://doi.org/10.1109/ICDE.1996.492189","url":"https://dblp.org/rec/conf/icde/Chen96"},
+"url":"URL#4890854"
+},
+{
+"@score":"1",
+"@id":"4890855",
+"info":{"authors":{"author":[{"@pid":"00/536","text":"Qiming Chen"},{"@pid":"76/2198","text":"Umeshwar Dayal"}]},"title":"A Transactional Nested Process Management System.","venue":"ICDE","pages":"566-573","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/ChenD96","doi":"10.1109/ICDE.1996.492207","ee":"https://doi.org/10.1109/ICDE.1996.492207","url":"https://dblp.org/rec/conf/icde/ChenD96"},
+"url":"URL#4890855"
+},
+{
+"@score":"1",
+"@id":"4890856",
+"info":{"authors":{"author":[{"@pid":"c/DWLCheung","text":"David Wai-Lok Cheung"},{"@pid":"h/JiaweiHan","text":"Jiawei Han 0001"},{"@pid":"n/VTYNg","text":"Vincent T. Y. Ng"},{"@pid":"13/3638","text":"C. Y. Wong"}]},"title":"Maintenance of Discovered Association Rules in Large Databases - An Incremental Updating Technique.","venue":"ICDE","pages":"106-114","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/CheungHNW96","doi":"10.1109/ICDE.1996.492094","ee":"https://doi.org/10.1109/ICDE.1996.492094","url":"https://dblp.org/rec/conf/icde/CheungHNW96"},
+"url":"URL#4890856"
+},
+{
+"@score":"1",
+"@id":"4890857",
+"info":{"authors":{"author":[{"@pid":"70/6934","text":"Parvathi Chundi"},{"@pid":"80/6105","text":"Daniel J. Rosenkrantz"},{"@pid":"94/2464","text":"S. S. Ravi"}]},"title":"Deferred Updates and Data Placement in Distributed Databases.","venue":"ICDE","pages":"469-476","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/ChundiRR96","doi":"10.1109/ICDE.1996.492196","ee":"https://doi.org/10.1109/ICDE.1996.492196","url":"https://dblp.org/rec/conf/icde/ChundiRR96"},
+"url":"URL#4890857"
+},
+{
+"@score":"1",
+"@id":"4890858",
+"info":{"authors":{"author":[{"@pid":"36/688","text":"Samuel DeFazio"},{"@pid":"67/5256","text":"Jagannathan Srinivasan"}]},"title":"Database Extensions for Complex Domains","venue":"ICDE","pages":"200-202","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/DeFazioS96","doi":"10.1109/ICDE.1996.492107","ee":"https://doi.org/10.1109/ICDE.1996.492107","url":"https://dblp.org/rec/conf/icde/DeFazioS96"},
+"url":"URL#4890858"
+},
+{
+"@score":"1",
+"@id":"4890859",
+"info":{"authors":{"author":[{"@pid":"d/LMLDelcambre","text":"Lois M. L. Delcambre"},{"@pid":"03/4306","text":"Jimmy Langston"}]},"title":"Reusing (Shrink Wrap) Schemas by Modifying Concept Schemas.","venue":"ICDE","pages":"326-333","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/DelcambreL96","doi":"10.1109/ICDE.1996.492180","ee":"https://doi.org/10.1109/ICDE.1996.492180","url":"https://dblp.org/rec/conf/icde/DelcambreL96"},
+"url":"URL#4890859"
+},
+{
+"@score":"1",
+"@id":"4890860",
+"info":{"authors":{"author":[{"@pid":"16/4446","text":"Weimin Du"},{"@pid":"64/561","text":"Ming-Chien Shan"},{"@pid":"92/3402","text":"Chris Whitney"}]},"title":"SONET Configuration Management with OpenPM.","venue":"ICDE","pages":"295-299","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/DuSW96","doi":"10.1109/ICDE.1996.492176","ee":"https://doi.org/10.1109/ICDE.1996.492176","url":"https://dblp.org/rec/conf/icde/DuSW96"},
+"url":"URL#4890860"
+},
+{
+"@score":"1",
+"@id":"4890861",
+"info":{"authors":{"author":[{"@pid":"91/4612","text":"Wolfgang Eßmayr"},{"@pid":"97/2412","text":"Fritz Kastner"},{"@pid":"p/GPernul","text":"Günther Pernul"},{"@pid":"14/1323","text":"Stefan Preishuber"},{"@pid":"t/AMinTjoa","text":"A Min Tjoa"}]},"title":"Authorization and Access Control in IRO-DB.","venue":"ICDE","pages":"40-47","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/EsmayrKPPT96","doi":"10.1109/ICDE.1996.492087","ee":"https://doi.org/10.1109/ICDE.1996.492087","url":"https://dblp.org/rec/conf/icde/EsmayrKPPT96"},
+"url":"URL#4890861"
+},
+{
+"@score":"1",
+"@id":"4890862",
+"info":{"authors":{"author":[{"@pid":"70/4024","text":"Daniel Alexander Ford"},{"@pid":"m/JussiMyllymaki","text":"Jussi Myllymaki"}]},"title":"A Log-Structured Organization for Tertiary Storage.","venue":"ICDE","pages":"20-27","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/FordM96","doi":"10.1109/ICDE.1996.492085","ee":"https://doi.org/10.1109/ICDE.1996.492085","url":"https://dblp.org/rec/conf/icde/FordM96"},
+"url":"URL#4890862"
+},
+{
+"@score":"1",
+"@id":"4890863",
+"info":{"authors":{"author":[{"@pid":"69/4051","text":"Vibby Gottemukkala"},{"@pid":"o/EdwardOmiecinski","text":"Edward Omiecinski"},{"@pid":"r/URamachandran","text":"Umakishore Ramachandran"}]},"title":"Relaxed Index Consistency for a Client-Server Database.","venue":"ICDE","pages":"352-361","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/GottemukkalaOR96","doi":"10.1109/ICDE.1996.492183","ee":"https://doi.org/10.1109/ICDE.1996.492183","url":"https://dblp.org/rec/conf/icde/GottemukkalaOR96"},
+"url":"URL#4890863"
+},
+{
+"@score":"1",
+"@id":"4890864",
+"info":{"authors":{"author":{"@pid":"g/GoetzGraefe","text":"Goetz Graefe"}},"title":"The Microsoft Relational Engine.","venue":"ICDE","pages":"160-161","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/Graefe96","doi":"10.1109/ICDE.1996.492100","ee":"https://doi.org/10.1109/ICDE.1996.492100","url":"https://dblp.org/rec/conf/icde/Graefe96"},
+"url":"URL#4890864"
+},
+{
+"@score":"1",
+"@id":"4890865",
+"info":{"authors":{"author":[{"@pid":"g/JimGray","text":"Jim Gray 0001"},{"@pid":"02/5473","text":"Adam Bosworth"},{"@pid":"57/2527","text":"Andrew Layman"},{"@pid":"p/HamidPirahesh","text":"Hamid Pirahesh"}]},"title":"Data Cube - A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Total.","venue":"ICDE","pages":"152-159","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/GrayBLP96","doi":"10.1109/ICDE.1996.492099","ee":"https://doi.org/10.1109/ICDE.1996.492099","url":"https://dblp.org/rec/conf/icde/GrayBLP96"},
+"url":"URL#4890865"
+},
+{
+"@score":"1",
+"@id":"4890866",
+"info":{"authors":{"author":{"@pid":"g/EhudGudes","text":"Ehud Gudes"}},"title":"A Uniform Indexing Scheme for Object-Oriented Databases.","venue":"ICDE","pages":"238-246","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/Gudes96","doi":"10.1109/ICDE.1996.492112","ee":"https://doi.org/10.1109/ICDE.1996.492112","url":"https://dblp.org/rec/conf/icde/Gudes96"},
+"url":"URL#4890866"
+},
+{
+"@score":"1",
+"@id":"4890867",
+"info":{"authors":{"author":[{"@pid":"29/2567","text":"Yoshinori Hara"},{"@pid":"51/6682","text":"Kyoji Hirata"},{"@pid":"87/2445","text":"Hajime Takano"},{"@pid":"36/5620","text":"Shigehito Kawasaki"}]},"title":"Hypermedia Database &quot;Himotoki&quot; and Its Applications.","venue":"ICDE","pages":"372-379","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/HaraHTK96","doi":"10.1109/ICDE.1996.492185","ee":"https://doi.org/10.1109/ICDE.1996.492185","url":"https://dblp.org/rec/conf/icde/HaraHTK96"},
+"url":"URL#4890867"
+},
+{
+"@score":"1",
+"@id":"4890868",
+"info":{"authors":{"author":[{"@pid":"h/KimmoHatonen","text":"Kimmo Hätönen"},{"@pid":"k/MikaKlemettinen","text":"Mika Klemettinen"},{"@pid":"m/HMannila","text":"Heikki Mannila"},{"@pid":"87/2457","text":"Pirjo Ronkainen"},{"@pid":"t/HannuToivonen","text":"Hannu Toivonen"}]},"title":"Knowledge Discovery from Telecommunication Network Alarm Databases.","venue":"ICDE","pages":"115-122","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/HatonenKMRT96","doi":"10.1109/ICDE.1996.492095","ee":"https://doi.org/10.1109/ICDE.1996.492095","url":"https://dblp.org/rec/conf/icde/HatonenKMRT96"},
+"url":"URL#4890868"
+},
+{
+"@score":"1",
+"@id":"4890869",
+"info":{"authors":{"author":{"@pid":"h/AndreasHenrich","text":"Andreas Henrich"}},"title":"Improving the Performance of Multi-Dimensional Access Structures Based on k-d-Trees.","venue":"ICDE","pages":"68-75","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/Henrich96","doi":"10.1109/ICDE.1996.492090","ee":"https://doi.org/10.1109/ICDE.1996.492090","url":"https://dblp.org/rec/conf/icde/Henrich96"},
+"url":"URL#4890869"
+},
+{
+"@score":"1",
+"@id":"4890870",
+"info":{"authors":{"author":[{"@pid":"h/XiaohuaHu","text":"Xiaohua Hu"},{"@pid":"c/NickCercone","text":"Nick Cercone"}]},"title":"Mining Knowledge Rules from Databases - A Rough Set Approach.","venue":"ICDE","pages":"96-105","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/HuC96","doi":"10.1109/ICDE.1996.492093","ee":"https://doi.org/10.1109/ICDE.1996.492093","url":"https://dblp.org/rec/conf/icde/HuC96"},
+"url":"URL#4890870"
+},
+{
+"@score":"1",
+"@id":"4890871",
+"info":{"authors":{"author":[{"@pid":"71/4152-4","text":"Hiroshi Ishikawa 0004"},{"@pid":"69/1817","text":"Koki Kato"},{"@pid":"89/6930","text":"Miyuki Ono"},{"@pid":"93/2502","text":"Naomi Yoshikawa"},{"@pid":"84/492","text":"Kazumi Kubota"},{"@pid":"57/273","text":"Akiko Kondo"}]},"title":"A Next Generation Industry Multimedia Database System.","venue":"ICDE","pages":"364-371","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/IshikawaKOYKK96","doi":"10.1109/ICDE.1996.492184","ee":"https://doi.org/10.1109/ICDE.1996.492184","url":"https://dblp.org/rec/conf/icde/IshikawaKOYKK96"},
+"url":"URL#4890871"
+},
+{
+"@score":"1",
+"@id":"4890872",
+"info":{"authors":{"author":[{"@pid":"85/1173","text":"Sungwon Jung"},{"@pid":"p/SaktiPramanik","text":"Sakti Pramanik"}]},"title":"HiTi Graph Model of Topographical Roadmaps in Navigation Systems.","venue":"ICDE","pages":"76-84","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/JungP96","doi":"10.1109/ICDE.1996.492091","ee":"https://doi.org/10.1109/ICDE.1996.492091","url":"https://dblp.org/rec/conf/icde/JungP96"},
+"url":"URL#4890872"
+},
+{
+"@score":"1",
+"@id":"4890873",
+"info":{"authors":{"author":[{"@pid":"12/4057","text":"Anton P. Karadimce"},{"@pid":"62/1192","text":"Susan Darling Urban"}]},"title":"Refined Triggering Graphs - A Logic-Based Approach to Termination Analysis in an Active Object-Oriented Database.","venue":"ICDE","pages":"384-391","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/KaradimceU96","doi":"10.1109/ICDE.1996.492187","ee":"https://doi.org/10.1109/ICDE.1996.492187","url":"https://dblp.org/rec/conf/icde/KaradimceU96"},
+"url":"URL#4890873"
+},
+{
+"@score":"1",
+"@id":"4890874",
+"info":{"authors":{"author":[{"@pid":"29/3467","text":"Arthur M. Keller"},{"@pid":"50/4607","text":"Don Brown"},{"@pid":"58/5980","text":"Anna-Lena Neches"},{"@pid":"71/3269","text":"Sherif Danish"},{"@pid":"b/DBarbara","text":"Daniel Barbará"}]},"title":"Electronic Catalogs - Panel.","venue":"ICDE","pages":"612","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/KellerBNDB96","url":"https://dblp.org/rec/conf/icde/KellerBNDB96"},
+"url":"URL#4890874"
+},
+{
+"@score":"1",
+"@id":"4890875",
+"info":{"authors":{"author":[{"@pid":"02/451","text":"Harumi A. Kuno"},{"@pid":"r/EARundensteiner","text":"Elke A. Rundensteiner"}]},"title":"Using Object-Oriented Principles to Optimize Update Propagation to Materialized Views.","venue":"ICDE","pages":"310-317","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/KunoR96","doi":"10.1109/ICDE.1996.492178","ee":"https://doi.org/10.1109/ICDE.1996.492178","url":"https://dblp.org/rec/conf/icde/KunoR96"},
+"url":"URL#4890875"
+},
+{
+"@score":"1",
+"@id":"4890876",
+"info":{"authors":{"author":[{"@pid":"53/1724","text":"Tobin J. Lehman"},{"@pid":"41/4472","text":"Patrick Gainer"}]},"title":"DB2 LOBs - The Teenage Years.","venue":"ICDE","pages":"192-199","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/LehmanG96","doi":"10.1109/ICDE.1996.492106","ee":"https://doi.org/10.1109/ICDE.1996.492106","url":"https://dblp.org/rec/conf/icde/LehmanG96"},
+"url":"URL#4890876"
+},
+{
+"@score":"1",
+"@id":"4890877",
+"info":{"authors":{"author":[{"@pid":"30/5849","text":"Chung-Sheng Li"},{"@pid":"y/PhilipSYu","text":"Philip S. Yu"},{"@pid":"c/VittorioCastelli","text":"Vittorio Castelli"}]},"title":"HierarchyScan - A Hierarchical Similarity Search Algorithm for Databases of Long Sequences.","venue":"ICDE","pages":"546-553","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/LiYC96","doi":"10.1109/ICDE.1996.492205","ee":"https://doi.org/10.1109/ICDE.1996.492205","url":"https://dblp.org/rec/conf/icde/LiYC96"},
+"url":"URL#4890877"
+},
+{
+"@score":"1",
+"@id":"4890878",
+"info":{"authors":{"author":[{"@pid":"l/DFLieuwen","text":"Daniel F. Lieuwen"},{"@pid":"88/911","text":"Narain H. Gehani"},{"@pid":"95/6276","text":"Robert M. Arlein"}]},"title":"The Ode Active Database - Trigger Semantics and Implementation.","venue":"ICDE","pages":"412-420","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/LieuwenGA96","doi":"10.1109/ICDE.1996.492190","ee":"https://doi.org/10.1109/ICDE.1996.492190","url":"https://dblp.org/rec/conf/icde/LieuwenGA96"},
+"url":"URL#4890878"
+},
+{
+"@score":"1",
+"@id":"4890879",
+"info":{"authors":{"author":[{"@pid":"01/973","text":"Chengwen Liu"},{"@pid":"86/475-9","text":"Hao Chen 0009"},{"@pid":"92/2285","text":"Warren Krueger"}]},"title":"A Distributed Query Processing Strategy Using Placement Dependency.","venue":"ICDE","pages":"477-484","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/LiuCK96","doi":"10.1109/ICDE.1996.492197","ee":"https://doi.org/10.1109/ICDE.1996.492197","url":"https://dblp.org/rec/conf/icde/LiuCK96"},
+"url":"URL#4890879"
+},
+{
+"@score":"1",
+"@id":"4890880",
+"info":{"authors":{"author":[{"@pid":"89/6946","text":"Ming-Ling Lo"},{"@pid":"r/ChinyaVRavishankar","text":"Chinya V. Ravishankar"}]},"title":"Towards Eliminating Random I/O in Hash Joins.","venue":"ICDE","pages":"422-429","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/LoR96","doi":"10.1109/ICDE.1996.492191","ee":"https://doi.org/10.1109/ICDE.1996.492191","url":"https://dblp.org/rec/conf/icde/LoR96"},
+"url":"URL#4890880"
+},
+{
+"@score":"1",
+"@id":"4890881",
+"info":{"authors":{"author":{"@pid":"m/StuartEMadnick","text":"Stuart E. Madnick"}},"title":"Are We Moving Toward an Information SuperHighway or a Tower of Babel? The Challenge of Large-Scale Semantic Heterogeneity.","venue":"ICDE","pages":"2-8","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/Madnick96","doi":"10.1109/ICDE.1996.492083","ee":"https://doi.org/10.1109/ICDE.1996.492083","url":"https://dblp.org/rec/conf/icde/Madnick96"},
+"url":"URL#4890881"
+},
+{
+"@score":"1",
+"@id":"4890882",
+"info":{"authors":{"author":[{"@pid":"12/3128","text":"Raul Medina-Mora"},{"@pid":"60/4915","text":"Kelly W. Cartron"}]},"title":"ActionWorkflow in Use - Clark County Department of Business License.","venue":"ICDE","pages":"288-294","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/Medina-MoraC96","doi":"10.1109/ICDE.1996.492117","ee":"https://doi.org/10.1109/ICDE.1996.492117","url":"https://dblp.org/rec/conf/icde/Medina-MoraC96"},
+"url":"URL#4890882"
+},
+{
+"@score":"1",
+"@id":"4890883",
+"info":{"authors":{"author":{"@pid":"60/927","text":"Jim Melton"}},"title":"SQL3 Update.","venue":"ICDE","pages":"666-672","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/Melton96","doi":"10.1109/ICDE.1996.492217","ee":"https://doi.org/10.1109/ICDE.1996.492217","url":"https://dblp.org/rec/conf/icde/Melton96"},
+"url":"URL#4890883"
+},
+{
+"@score":"1",
+"@id":"4890884",
+"info":{"authors":{"author":[{"@pid":"m/WeiyiMeng","text":"Weiyi Meng"},{"@pid":"y/ClementTYu","text":"Clement T. Yu"},{"@pid":"w/WeiWang","text":"Wei Wang 0010"},{"@pid":"r/NaphtaliRishe","text":"Naphtali Rishe"}]},"title":"Performance Analysis of Several Algorithms for Processing Joins between Textual Attributes.","venue":"ICDE","pages":"636-644","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/MengYWR96","doi":"10.1109/ICDE.1996.492214","ee":"https://doi.org/10.1109/ICDE.1996.492214","url":"https://dblp.org/rec/conf/icde/MengYWR96"},
+"url":"URL#4890884"
+},
+{
+"@score":"1",
+"@id":"4890885",
+"info":{"authors":{"author":[{"@pid":"56/3431","text":"Kenneth Moore"},{"@pid":"05/201","text":"Michelle Peterson"}]},"title":"A Groupware Benchmark Based on Lotus Notes.","venue":"ICDE","pages":"500-507","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/MooreP96","doi":"10.1109/ICDE.1996.492200","ee":"https://doi.org/10.1109/ICDE.1996.492200","url":"https://dblp.org/rec/conf/icde/MooreP96"},
+"url":"URL#4890885"
+},
+{
+"@score":"1",
+"@id":"4890886",
+"info":{"authors":{"author":[{"@pid":"71/2317","text":"Naoto Oki"},{"@pid":"26/3696","text":"Kunio Teramoto"},{"@pid":"45/2122","text":"Ken-ichi Okada"},{"@pid":"12/1996","text":"Yutaka Matsushita"}]},"title":"Auditory Browsing for Acquisition of Information in Cyberspace.","venue":"ICDE","pages":"510-515","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/OkiTOM96","doi":"10.1109/ICDE.1996.492201","ee":"https://doi.org/10.1109/ICDE.1996.492201","url":"https://dblp.org/rec/conf/icde/OkiTOM96"},
+"url":"URL#4890886"
+},
+{
+"@score":"1",
+"@id":"4890887",
+"info":{"authors":{"author":[{"@pid":"o/GultekinOzsoyoglu","text":"Gultekin Özsoyoglu"},{"@pid":"24/3268","text":"Veli Hakkoymaz"},{"@pid":"58/4410","text":"Joel Kraft"}]},"title":"Automating the Assembly of Presentations from Multimedia Databases.","venue":"ICDE","pages":"593-601","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/OzsoyogluHK96","doi":"10.1109/ICDE.1996.492210","ee":"https://doi.org/10.1109/ICDE.1996.492210","url":"https://dblp.org/rec/conf/icde/OzsoyogluHK96"},
+"url":"URL#4890887"
+},
+{
+"@score":"1",
+"@id":"4890888",
+"info":{"authors":{"author":[{"@pid":"p/EPanagos","text":"Euthimios Panagos"},{"@pid":"b/ABiliris","text":"Alexandros Biliris"},{"@pid":"j/HVJagadish","text":"H. V. Jagadish"},{"@pid":"r/RajeevRastogi","text":"Rajeev Rastogi"}]},"title":"Client-Based Logging for High Performance Distributed Architectures.","venue":"ICDE","pages":"344-351","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/PanagosBJR96","doi":"10.1109/ICDE.1996.492182","ee":"https://doi.org/10.1109/ICDE.1996.492182","url":"https://dblp.org/rec/conf/icde/PanagosBJR96"},
+"url":"URL#4890888"
+},
+{
+"@score":"1",
+"@id":"4890889",
+"info":{"authors":{"author":[{"@pid":"p/YPapakonstantinou","text":"Yannis Papakonstantinou"},{"@pid":"g/HGarciaMolina","text":"Hector Garcia-Molina"},{"@pid":"u/JeffreyDUllman","text":"Jeffrey D. Ullman"}]},"title":"MedMaker - A Mediation System Based on Declarative Specifications.","venue":"ICDE","pages":"132-141","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/PapakonstantinouGU96","doi":"10.1109/ICDE.1996.492097","ee":"https://doi.org/10.1109/ICDE.1996.492097","url":"https://dblp.org/rec/conf/icde/PapakonstantinouGU96"},
+"url":"URL#4890889"
+},
+{
+"@score":"1",
+"@id":"4890890",
+"info":{"authors":{"author":[{"@pid":"21/5251","text":"Ajit K. Patankar"},{"@pid":"s/ArieSegev","text":"Arie Segev"},{"@pid":"s/JGeorgeShanthikumar","text":"J. George Shanthikumar"}]},"title":"A Directory Service for a Federation of CIM Databases with Migrating Objects.","venue":"ICDE","pages":"142-150","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/PatankarSS96","doi":"10.1109/ICDE.1996.492098","ee":"https://doi.org/10.1109/ICDE.1996.492098","url":"https://dblp.org/rec/conf/icde/PatankarSS96"},
+"url":"URL#4890890"
+},
+{
+"@score":"1",
+"@id":"4890891",
+"info":{"authors":{"author":[{"@pid":"p/JMPetit","text":"Jean-Marc Petit"},{"@pid":"t/FaroukToumani","text":"Farouk Toumani"},{"@pid":"b/JFBoulicaut","text":"Jean-François Boulicaut"},{"@pid":"06/3741","text":"Jacques Kouloumdjian"}]},"title":"Towards the Reverse Engineering of Denormalized Relational Databases.","venue":"ICDE","pages":"218-227","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/PetitTBK96","doi":"10.1109/ICDE.1996.492110","ee":"https://doi.org/10.1109/ICDE.1996.492110","url":"https://dblp.org/rec/conf/icde/PetitTBK96"},
+"url":"URL#4890891"
+},
+{
+"@score":"1",
+"@id":"4890892",
+"info":{"authors":{"author":{"@pid":"91/2417","text":"Xiaolei Qian"}},"title":"Query Folding.","venue":"ICDE","pages":"48-55","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/Qian96","doi":"10.1109/ICDE.1996.492088","ee":"https://doi.org/10.1109/ICDE.1996.492088","url":"https://dblp.org/rec/conf/icde/Qian96"},
+"url":"URL#4890892"
+},
+{
+"@score":"1",
+"@id":"4890893",
+"info":{"authors":{"author":[{"@pid":"01/5888","text":"Arun Ramanujapuram"},{"@pid":"81/2427","text":"Jim E. Greer"}]},"title":"A Hybrid Object Clustering Strategy for Large Knowledge-Based Systems.","venue":"ICDE","pages":"247-256","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/RamanujapuramG96","doi":"10.1109/ICDE.1996.492113","ee":"https://doi.org/10.1109/ICDE.1996.492113","url":"https://dblp.org/rec/conf/icde/RamanujapuramG96"},
+"url":"URL#4890893"
+},
+{
+"@score":"1",
+"@id":"4890894",
+"info":{"authors":{"author":[{"@pid":"91/2981","text":"Holger Riedel"},{"@pid":"h/AHeuer","text":"Andreas Heuer 0001"}]},"title":"Evaluation and Optimization of the LIVING IN A LATTICE Rule Language.","venue":"ICDE","pages":"318-325","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/RiedelH96","doi":"10.1109/ICDE.1996.492179","ee":"https://doi.org/10.1109/ICDE.1996.492179","url":"https://dblp.org/rec/conf/icde/RiedelH96"},
+"url":"URL#4890894"
+},
+{
+"@score":"1",
+"@id":"4890895",
+"info":{"authors":{"author":[{"@pid":"s/BettySalzberg","text":"Betty Salzberg"},{"@pid":"94/2724","text":"Dimitri Tombroff"}]},"title":"DSDT - Durable Scripts Containing Database Transactions.","venue":"ICDE","pages":"624-633","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/SalzbergT96","doi":"10.1109/ICDE.1996.492213","ee":"https://doi.org/10.1109/ICDE.1996.492213","url":"https://dblp.org/rec/conf/icde/SalzbergT96"},
+"url":"URL#4890895"
+},
+{
+"@score":"1",
+"@id":"4890896",
+"info":{"authors":{"author":{"@pid":"52/6810","text":"Sunil K. Sarin"}},"title":"Workflow and Data Management in InConcert.","venue":"ICDE","pages":"497-499","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/Sarin96","doi":"10.1109/ICDE.1996.492199","ee":"https://doi.org/10.1109/ICDE.1996.492199","url":"https://dblp.org/rec/conf/icde/Sarin96"},
+"url":"URL#4890896"
+},
+{
+"@score":"1",
+"@id":"4890897",
+"info":{"authors":{"author":[{"@pid":"s/PraveenSeshadri","text":"Praveen Seshadri"},{"@pid":"p/HamidPirahesh","text":"Hamid Pirahesh"},{"@pid":"36/6355","text":"T. Y. Cliff Leung"}]},"title":"Complex Query Decorrelation.","venue":"ICDE","pages":"450-458","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/SeshadriPL96","doi":"10.1109/ICDE.1996.492194","ee":"https://doi.org/10.1109/ICDE.1996.492194","url":"https://dblp.org/rec/conf/icde/SeshadriPL96"},
+"url":"URL#4890897"
+},
+{
+"@score":"1",
+"@id":"4890898",
+"info":{"authors":{"author":[{"@pid":"63/2826","text":"Hagit Shatkay"},{"@pid":"z/SBZdonik","text":"Stanley B. Zdonik"}]},"title":"Approximate Queries and Representations for Large Data Sequences.","venue":"ICDE","pages":"536-545","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/ShatkayZ96","doi":"10.1109/ICDE.1996.492204","ee":"https://doi.org/10.1109/ICDE.1996.492204","url":"https://dblp.org/rec/conf/icde/ShatkayZ96"},
+"url":"URL#4890898"
+},
+{
+"@score":"1",
+"@id":"4890899",
+"info":{"authors":{"author":[{"@pid":"s/AmitPSheth","text":"Amit P. Sheth"},{"@pid":"m/RobertMeersman","text":"Robert Meersman"},{"@pid":"n/ErichJNeuhold","text":"Erich J. Neuhold"},{"@pid":"p/CaltonPu","text":"Calton Pu"},{"@pid":"s/VSSubrahmanian","text":"V. S. Subrahmanian"}]},"title":"What&apos;s in a WWW Link? - Panel.","venue":"ICDE","pages":"308","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/ShethMNPS96","url":"https://dblp.org/rec/conf/icde/ShethMNPS96"},
+"url":"URL#4890899"
+},
+{
+"@score":"1",
+"@id":"4890900",
+"info":{"authors":{"author":[{"@pid":"92/2517","text":"Boris Shidlovsky"},{"@pid":"b/ElisaBertino","text":"Elisa Bertino"}]},"title":"A Graph-Theoretic Approach to Indexing in Object-Oriented Databases.","venue":"ICDE","pages":"230-237","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/ShidlovskyB96","doi":"10.1109/ICDE.1996.492111","ee":"https://doi.org/10.1109/ICDE.1996.492111","url":"https://dblp.org/rec/conf/icde/ShidlovskyB96"},
+"url":"URL#4890900"
+},
+{
+"@score":"1",
+"@id":"4890901",
+"info":{"authors":{"author":[{"@pid":"34/2083","text":"Jeff Sidell"},{"@pid":"a/PMAoki","text":"Paul M. Aoki"},{"@pid":"s/AdamSah","text":"Adam Sah"},{"@pid":"86/1617","text":"Carl Staelin"},{"@pid":"s/MichaelStonebraker","text":"Michael Stonebraker"},{"@pid":"79/1685","text":"Andrew Yu"}]},"title":"Data Replication in Mariposa.","venue":"ICDE","pages":"485-494","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/SidellASSSY96","doi":"10.1109/ICDE.1996.492198","ee":"https://doi.org/10.1109/ICDE.1996.492198","url":"https://dblp.org/rec/conf/icde/SidellASSSY96"},
+"url":"URL#4890901"
+},
+{
+"@score":"1",
+"@id":"4890902",
+"info":{"authors":{"author":{"@pid":"s/MunindarPSingh","text":"Munindar P. Singh"}},"title":"Synthesizing Distributed Constrained Events from Transactional Workflow.","venue":"ICDE","pages":"616-623","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/Singh96","doi":"10.1109/ICDE.1996.492212","ee":"https://doi.org/10.1109/ICDE.1996.492212","url":"https://dblp.org/rec/conf/icde/Singh96"},
+"url":"URL#4890902"
+},
+{
+"@score":"1",
+"@id":"4890903",
+"info":{"authors":{"author":[{"@pid":"s/MartinSkold","text":"Martin Sköld"},{"@pid":"r/TRisch","text":"Tore Risch"}]},"title":"Using Partial Differencing for Efficient Monitoring of Deferred Complex Rule Conditions.","venue":"ICDE","pages":"392-401","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/SkoldR96","doi":"10.1109/ICDE.1996.492188","ee":"https://doi.org/10.1109/ICDE.1996.492188","url":"https://dblp.org/rec/conf/icde/SkoldR96"},
+"url":"URL#4890903"
+},
+{
+"@score":"1",
+"@id":"4890904",
+"info":{"authors":{"author":[{"@pid":"12/648","text":"Konstantinos Stathatos"},{"@pid":"88/3764","text":"Stephen Kelley"},{"@pid":"r/NickRoussopoulos","text":"Nick Roussopoulos"},{"@pid":"b/JohnSBaras","text":"John S. Baras"}]},"title":"Consistency and Performance of Concurrent Interactive Database Applications.","venue":"ICDE","pages":"602-609","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/StathatosKRB96","doi":"10.1109/ICDE.1996.492211","ee":"https://doi.org/10.1109/ICDE.1996.492211","url":"https://dblp.org/rec/conf/icde/StathatosKRB96"},
+"url":"URL#4890904"
+},
+{
+"@score":"1",
+"@id":"4890905",
+"info":{"authors":{"author":[{"@pid":"63/4429","text":"Renu Tewari"},{"@pid":"43/6432","text":"Daniel M. Dias"},{"@pid":"84/6670","text":"Rajat Mukherjee"},{"@pid":"v/HarrickMVin","text":"Harrick M. Vin"}]},"title":"High Availability in Clustered Multimedia Servers.","venue":"ICDE","pages":"645-654","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/TewariDMV96","doi":"10.1109/ICDE.1996.492215","ee":"https://doi.org/10.1109/ICDE.1996.492215","url":"https://dblp.org/rec/conf/icde/TewariDMV96"},
+"url":"URL#4890905"
+},
+{
+"@score":"1",
+"@id":"4890906",
+"info":{"authors":{"author":[{"@pid":"t/HeikoThimm","text":"Heiko Thimm"},{"@pid":"k/WolfgangKlas","text":"Wolfgang Klas"}]},"title":"Delta-Sets for Optimized Reactive Adaptive Playout Management in Distributed Multimedia Database Systems.","venue":"ICDE","pages":"584-592","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/ThimmK96","doi":"10.1109/ICDE.1996.492209","ee":"https://doi.org/10.1109/ICDE.1996.492209","url":"https://dblp.org/rec/conf/icde/ThimmK96"},
+"url":"URL#4890906"
+},
+{
+"@score":"1",
+"@id":"4890907",
+"info":{"authors":{"author":[{"@pid":"08/5705","text":"Manolis M. Tsangaris"},{"@pid":"45/2192","text":"Madhur Kohli"},{"@pid":"16/3083","text":"Shamim A. Naqvi"},{"@pid":"68/5385","text":"Richard Nunziata"},{"@pid":"07/6646","text":"Yatin P. Saraiya"}]},"title":"PICSDesk - A Case Study on Business Process Re-engineering.","venue":"ICDE","pages":"300-306","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/TsangarisKNNS96","doi":"10.1109/ICDE.1996.492177","ee":"https://doi.org/10.1109/ICDE.1996.492177","url":"https://dblp.org/rec/conf/icde/TsangarisKNNS96"},
+"url":"URL#4890907"
+},
+{
+"@score":"1",
+"@id":"4890908",
+"info":{"authors":{"author":[{"@pid":"99/1152","text":"Marc Volz"},{"@pid":"a/KarlAberer","text":"Karl Aberer"},{"@pid":"b/KBohm","text":"Klemens Böhm"}]},"title":"Applying a Flexible OODBMS-IRS-Coupling for Structured Document Handling.","venue":"ICDE","pages":"10-19","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/VolzAB96","doi":"10.1109/ICDE.1996.492084","ee":"https://doi.org/10.1109/ICDE.1996.492084","url":"https://dblp.org/rec/conf/icde/VolzAB96"},
+"url":"URL#4890908"
+},
+{
+"@score":"1",
+"@id":"4890909",
+"info":{"authors":{"author":[{"@pid":"70/2191-2","text":"David A. White 0002"},{"@pid":"j/RameshJain","text":"Ramesh C. Jain"}]},"title":"Similarity Indexing with the SS-tree.","venue":"ICDE","pages":"516-523","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/WhiteJ96","doi":"10.1109/ICDE.1996.492202","ee":"https://doi.org/10.1109/ICDE.1996.492202","url":"https://dblp.org/rec/conf/icde/WhiteJ96"},
+"url":"URL#4890909"
+},
+{
+"@score":"1",
+"@id":"4890910",
+"info":{"authors":{"author":[{"@pid":"06/2204","text":"Dirk Wodtke"},{"@pid":"79/1331","text":"Jeanine Weißenfels"},{"@pid":"w/GerhardWeikum","text":"Gerhard Weikum"},{"@pid":"d/AKotzDittrich","text":"Angelika Kotz Dittrich"}]},"title":"The Mentor Project - Steps Toward Enterprise-Wide Workflow Management.","venue":"ICDE","pages":"556-565","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/WodtkeWWD96","doi":"10.1109/ICDE.1996.492206","ee":"https://doi.org/10.1109/ICDE.1996.492206","url":"https://dblp.org/rec/conf/icde/WodtkeWWD96"},
+"url":"URL#4890910"
+},
+{
+"@score":"1",
+"@id":"4890911",
+"info":{"authors":{"author":[{"@pid":"83/4296","text":"Jongho Won"},{"@pid":"e/RamezElmasri","text":"Ramez Elmasri"}]},"title":"Representing Retroactive and Proactive Versions in Bi-Temporal Databases.","venue":"ICDE","pages":"85-94","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/WonE96","doi":"10.1109/ICDE.1996.492092","ee":"https://doi.org/10.1109/ICDE.1996.492092","url":"https://dblp.org/rec/conf/icde/WonE96"},
+"url":"URL#4890911"
+},
+{
+"@score":"1",
+"@id":"4890912",
+"info":{"authors":{"author":[{"@pid":"85/3566","text":"Kun-Lung Wu"},{"@pid":"y/PhilipSYu","text":"Philip S. Yu"},{"@pid":"c/MingSyanChen","text":"Ming-Syan Chen"}]},"title":"Energy-Efficient Caching for Wireless Mobile Computing.","venue":"ICDE","pages":"336-343","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/WuYC96","doi":"10.1109/ICDE.1996.492181","ee":"https://doi.org/10.1109/ICDE.1996.492181","url":"https://dblp.org/rec/conf/icde/WuYC96"},
+"url":"URL#4890912"
+},
+{
+"@score":"1",
+"@id":"4890913",
+"info":{"authors":{"author":[{"@pid":"49/6363","text":"Ge Yu 0001"},{"@pid":"k/KunihikoKaneko","text":"Kunihiko Kaneko"},{"@pid":"16/2875","text":"Guangyi Bai"},{"@pid":"29/5712","text":"Akifumi Makinouchi"}]},"title":"Transaction Management for a Distributed Object Storage System WAKASHI - Design, Implementation and Performance.","venue":"ICDE","pages":"460-468","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/YuKBM96","doi":"10.1109/ICDE.1996.492195","ee":"https://doi.org/10.1109/ICDE.1996.492195","url":"https://dblp.org/rec/conf/icde/YuKBM96"},
+"url":"URL#4890913"
+},
+{
+"@score":"1",
+"@id":"4890914",
+"info":{"authors":{"author":[{"@pid":"10/1339","text":"Budi Yuwono"},{"@pid":"l/DikLunLee","text":"Dik Lun Lee"}]},"title":"Search and Ranking Algorithms for Locating Resources on the World Wide Web.","venue":"ICDE","pages":"164-171","year":"1996","type":"Conference and Workshop Papers","key":"conf/icde/YuwonoL96","doi":"10.1109/ICDE.1996.492102","ee":"https://doi.org/10.1109/ICDE.1996.492102","url":"https://dblp.org/rec/conf/icde/YuwonoL96"},
+"url":"URL#4890914"
+},
+{
+"@score":"1",
+"@id":"4905567",
+"info":{"authors":{"author":{"@pid":"s/StanleyYWSu","text":"Stanley Y. W. Su"}},"title":"Proceedings of the Twelfth International Conference on Data Engineering, February 26 - March 1, 1996, New Orleans, Louisiana, USA","publisher":"IEEE Computer Society","year":"1996","type":"Editorship","key":"conf/icde/96","ee":"https://ieeexplore.ieee.org/xpl/conhome/3551/proceeding","url":"https://dblp.org/rec/conf/icde/96"},
+"url":"URL#4905567"
+}
+]
+}
 }
 }

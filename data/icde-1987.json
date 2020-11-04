@@ -1,23 +1,572 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"icde\"/\"icde1987\".\"bht",
+"query":":facetid:toc:db\"/\"conf\"/\"icde\"/\"icde87\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.51"
+"text":"146.93"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"90",
+"@dc":"90",
+"@oc":"90",
+"@id":"17185807",
+"text":":facetid:toc:db/conf/icde/icde87.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"90",
+"@computed":"90",
+"@sent":"90",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"5179638",
+"info":{"authors":{"author":{"@pid":"a/RAgrawal","text":"Rakesh Agrawal 0001"}},"title":"Alpha - An Extension of Relational Algebra to Express a Class of Recursive Queries.","venue":"ICDE","pages":"580-590","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/Agrawal87","doi":"10.1109/ICDE.1987.7272427","ee":"https://doi.org/10.1109/ICDE.1987.7272427","url":"https://dblp.org/rec/conf/icde/Agrawal87"},
+"url":"URL#5179638"
+},
+{
+"@score":"1",
+"@id":"5179639",
+"info":{"authors":{"author":[{"@pid":"84/447","text":"Mohan Ahuja"},{"@pid":"13/1022","text":"James C. Browne"}]},"title":"Concurrency Control by Pre-Ordering Entities in Databases with Multi-Versioned Entities.","venue":"ICDE","pages":"312-321","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/AhujaB87","doi":"10.1109/ICDE.1987.7272396","ee":"https://doi.org/10.1109/ICDE.1987.7272396","url":"https://dblp.org/rec/conf/icde/AhujaB87"},
+"url":"URL#5179639"
+},
+{
+"@score":"1",
+"@id":"5179640",
+"info":{"authors":{"author":[{"@pid":"69/1552","text":"Karlheinz Allgeyer"},{"@pid":"02/421","text":"Klaus Kratzer"}]},"title":"Expert System Based Configuration of VSAM Files.","venue":"ICDE","pages":"150-156","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/AllgeyerK87","doi":"10.1109/ICDE.1987.7272368","ee":"https://doi.org/10.1109/ICDE.1987.7272368","url":"https://dblp.org/rec/conf/icde/AllgeyerK87"},
+"url":"URL#5179640"
+},
+{
+"@score":"1",
+"@id":"5179641",
+"info":{"authors":{"author":[{"@pid":"08/338","text":"Hassanein H. Amer"},{"@pid":"m/EdwardJMcCluskey","text":"Edward J. McCluskey"}]},"title":"Modeling the Effect of Chip Failures on Cache Memory Systems.","venue":"ICDE","pages":"340-346","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/AmerM87","doi":"10.1109/ICDE.1987.7272399","ee":"https://doi.org/10.1109/ICDE.1987.7272399","url":"https://dblp.org/rec/conf/icde/AmerM87"},
+"url":"URL#5179641"
+},
+{
+"@score":"1",
+"@id":"5179642",
+"info":{"authors":{"author":[{"@pid":"b/BRBadrinath","text":"B. R. Badrinath"},{"@pid":"r/KrithiRamamritham","text":"Krithi Ramamritham"}]},"title":"Semantics-Based Concurrency Control - Beyond Commutativity.","venue":"ICDE","pages":"304-311","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/BadrinathR87","doi":"10.1109/ICDE.1987.7272395","ee":"https://doi.org/10.1109/ICDE.1987.7272395","url":"https://dblp.org/rec/conf/icde/BadrinathR87"},
+"url":"URL#5179642"
+},
+{
+"@score":"1",
+"@id":"5179643",
+"info":{"authors":{"author":{"@pid":"43/2195","text":"Harut Barsamian"}},"title":"Symbolic Processing (Panel Abstract).","venue":"ICDE","pages":"286","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/Barsamian87","doi":"10.1109/ICDE.1987.7272388","ee":"https://doi.org/10.1109/ICDE.1987.7272388","url":"https://dblp.org/rec/conf/icde/Barsamian87"},
+"url":"URL#5179643"
+},
+{
+"@score":"1",
+"@id":"5179644",
+"info":{"authors":{"author":[{"@pid":"b/ChaitanyaKBaru","text":"Chaitanya K. Baru"},{"@pid":"f/OphirFrieder","text":"Ophir Frieder"}]},"title":"Implementing Relational Database Operations in a Cube-Connected Multicomputer System.","venue":"ICDE","pages":"36-43","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/BaruF87","doi":"10.1109/ICDE.1987.7272354","ee":"https://doi.org/10.1109/ICDE.1987.7272354","url":"https://dblp.org/rec/conf/icde/BaruF87"},
+"url":"URL#5179644"
+},
+{
+"@score":"1",
+"@id":"5179645",
+"info":{"authors":{"author":[{"@pid":"52/960","text":"Farokh B. Bastani"},{"@pid":"51/5492","text":"I-Ling Yen"}]},"title":"A Fault Tolerant Replicated Storage System.","venue":"ICDE","pages":"449-454","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/BastaniY87","doi":"10.1109/ICDE.1987.7272411","ee":"https://doi.org/10.1109/ICDE.1987.7272411","url":"https://dblp.org/rec/conf/icde/BastaniY87"},
+"url":"URL#5179645"
+},
+{
+"@score":"1",
+"@id":"5179646",
+"info":{"authors":{"author":[{"@pid":"03/2311","text":"Dina Bitton"},{"@pid":"72/4721","text":"Maria Hanrahan"},{"@pid":"68/5489","text":"Carolyn Turbyfill"}]},"title":"Performance of Complex Queries in Main Memory Database Systems.","venue":"ICDE","pages":"72-81","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/BittonHT87","doi":"10.1109/ICDE.1987.7272358","ee":"https://doi.org/10.1109/ICDE.1987.7272358","url":"https://dblp.org/rec/conf/icde/BittonHT87"},
+"url":"URL#5179646"
+},
+{
+"@score":"1",
+"@id":"5179647",
+"info":{"authors":{"author":[{"@pid":"b/WABurkhard","text":"Walter A. Burkhard"},{"@pid":"34/1911","text":"Bruce E. Martin"},{"@pid":"p/JehanFrancoisParis","text":"Jehan-François Pâris"}]},"title":"The Gemini Replicated File System Test-bed.","venue":"ICDE","pages":"441-448","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/BurkhardMP87","doi":"10.1109/ICDE.1987.7272410","ee":"https://doi.org/10.1109/ICDE.1987.7272410","url":"https://dblp.org/rec/conf/icde/BurkhardMP87"},
+"url":"URL#5179647"
+},
+{
+"@score":"1",
+"@id":"5179648",
+"info":{"authors":{"author":{"@pid":"c/AFCardenas","text":"Alfonso F. Cardenas"}},"title":"Generalized Pictorial Data Management.","venue":"ICDE","pages":"287-288","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/Cardenas87","doi":"10.1109/ICDE.1987.7272389","ee":"https://doi.org/10.1109/ICDE.1987.7272389","url":"https://dblp.org/rec/conf/icde/Cardenas87"},
+"url":"URL#5179648"
+},
+{
+"@score":"1",
+"@id":"5179649",
+"info":{"authors":{"author":[{"@pid":"16/3230","text":"Lin Chiu"},{"@pid":"l/MingTLiu","text":"Ming T. Liu"}]},"title":"An Optimistic Concurrency Control Mechanism without Freezing for Distributed Database Systems.","venue":"ICDE","pages":"322-329","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/ChiuL87","doi":"10.1109/ICDE.1987.7272397","ee":"https://doi.org/10.1109/ICDE.1987.7272397","url":"https://dblp.org/rec/conf/icde/ChiuL87"},
+"url":"URL#5179649"
+},
+{
+"@score":"1",
+"@id":"5179650",
+"info":{"authors":{"author":[{"@pid":"11/3810","text":"James Clifford"},{"@pid":"38/6477","text":"Albert Croker"}]},"title":"The Historical Relational Data Model (HRDM) and Algebra Based on Lifespans.","venue":"ICDE","pages":"528-537","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/CliffordC87","doi":"10.1109/ICDE.1987.7272420","ee":"https://doi.org/10.1109/ICDE.1987.7272420","url":"https://dblp.org/rec/conf/icde/CliffordC87"},
+"url":"URL#5179650"
+},
+{
+"@score":"1",
+"@id":"5179651",
+"info":{"authors":{"author":[{"@pid":"88/6897","text":"Douglas W. Cornell"},{"@pid":"y/PhilipSYu","text":"Philip S. Yu"}]},"title":"A Vertical Partitioning Algorithm for Relational Databases.","venue":"ICDE","pages":"30-35","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/CornellY87","doi":"10.1109/ICDE.1987.7272353","ee":"https://doi.org/10.1109/ICDE.1987.7272353","url":"https://dblp.org/rec/conf/icde/CornellY87"},
+"url":"URL#5179651"
+},
+{
+"@score":"1",
+"@id":"5179652",
+"info":{"authors":{"author":{"@pid":"47/3352","text":"Phillip Crews"}},"title":"tbt Expert - A Case Study in Interating Expert System Technology with Computer Assisted Instruction.","venue":"ICDE","pages":"556-562","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/Crews87","doi":"10.1109/ICDE.1987.7272423","ee":"https://doi.org/10.1109/ICDE.1987.7272423","url":"https://dblp.org/rec/conf/icde/Crews87"},
+"url":"URL#5179652"
+},
+{
+"@score":"1",
+"@id":"5179653",
+"info":{"authors":{"author":[{"@pid":"30/3110","text":"Bogdan D. Czejdo"},{"@pid":"r/MRusinkiewicz","text":"Marek Rusinkiewicz"},{"@pid":"e/DWEmbley","text":"David W. Embley"}]},"title":"An Approach to Schema Integration and Query Formulation in Federated Database Systems.","venue":"ICDE","pages":"477-484","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/CzejdoRE87","doi":"10.1109/ICDE.1987.7272414","ee":"https://doi.org/10.1109/ICDE.1987.7272414","url":"https://dblp.org/rec/conf/icde/CzejdoRE87"},
+"url":"URL#5179653"
+},
+{
+"@score":"1",
+"@id":"5179654",
+"info":{"authors":{"author":{"@pid":"55/1746","text":"G. Barbara Demo"}},"title":"Recursive Versus Iterative Schemes for Least Fix Point Computation in Logic Databases.","venue":"ICDE","pages":"130-137","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/Demo87","doi":"10.1109/ICDE.1987.7272366","ee":"https://doi.org/10.1109/ICDE.1987.7272366","url":"https://dblp.org/rec/conf/icde/Demo87"},
+"url":"URL#5179654"
+},
+{
+"@score":"1",
+"@id":"5179655",
+"info":{"authors":{"author":[{"@pid":"d/StevenADemurjian","text":"Steven A. Demurjian"},{"@pid":"88/3763","text":"David K. Hsiao"}]},"title":"The Multi-Lingual Database System.","venue":"ICDE","pages":"44-51","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/DemurjianH87","doi":"10.1109/ICDE.1987.7272355","ee":"https://doi.org/10.1109/ICDE.1987.7272355","url":"https://dblp.org/rec/conf/icde/DemurjianH87"},
+"url":"URL#5179655"
+},
+{
+"@score":"1",
+"@id":"5179656",
+"info":{"authors":{"author":[{"@pid":"83/5434","text":"Jim Diederich"},{"@pid":"02/3286","text":"Jack Milton"}]},"title":"ODDESSY - An Object-Oriented Database Design System.","venue":"ICDE","pages":"235-244","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/DiederichM87","doi":"10.1109/ICDE.1987.7272378","ee":"https://doi.org/10.1109/ICDE.1987.7272378","url":"https://dblp.org/rec/conf/icde/DiederichM87"},
+"url":"URL#5179656"
+},
+{
+"@score":"1",
+"@id":"5179657",
+"info":{"authors":{"author":{"@pid":"d/KRDittrich","text":"Klaus R. Dittrich"}},"title":"Controlled Cooperation in Engineering Database Systems.","venue":"ICDE","pages":"510-515","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/Dittrich87","doi":"10.1109/ICDE.1987.7272418","ee":"https://doi.org/10.1109/ICDE.1987.7272418","url":"https://dblp.org/rec/conf/icde/Dittrich87"},
+"url":"URL#5179657"
+},
+{
+"@score":"1",
+"@id":"5179658",
+"info":{"authors":{"author":[{"@pid":"d/DHCDu","text":"David Hung-Chang Du"},{"@pid":"91/2618","text":"Subbarao Ghanta"}]},"title":"A Framework for Efficient IC/VLSI CAD Databases.","venue":"ICDE","pages":"619-625","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/DuG87","doi":"10.1109/ICDE.1987.7272431","ee":"https://doi.org/10.1109/ICDE.1987.7272431","url":"https://dblp.org/rec/conf/icde/DuG87"},
+"url":"URL#5179658"
+},
+{
+"@score":"1",
+"@id":"5179659",
+"info":{"authors":{"author":[{"@pid":"d/DHCDu","text":"David Hung-Chang Du"},{"@pid":"91/2618","text":"Subbarao Ghanta"},{"@pid":"m/KurtMaly","text":"Kurt Maly"},{"@pid":"39/224","text":"Suzanne M. Sharrock"}]},"title":"An Efficient File Structure for Document Retrieval in the Automated Office Environment.","venue":"ICDE","pages":"165-172","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/DuGMS87","doi":"10.1109/ICDE.1987.7272370","ee":"https://doi.org/10.1109/ICDE.1987.7272370","url":"https://dblp.org/rec/conf/icde/DuGMS87"},
+"url":"URL#5179659"
+},
+{
+"@score":"1",
+"@id":"5179660",
+"info":{"authors":{"author":[{"@pid":"44/2917","text":"Aral Ege"},{"@pid":"e/ClarenceAEllis","text":"Clarence A. Ellis"}]},"title":"Design and Implementation of GORDION, an Object Base Management System.","venue":"ICDE","pages":"226-234","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/EgeE87","doi":"10.1109/ICDE.1987.7272377","ee":"https://doi.org/10.1109/ICDE.1987.7272377","url":"https://dblp.org/rec/conf/icde/EgeE87"},
+"url":"URL#5179660"
+},
+{
+"@score":"1",
+"@id":"5179661",
+"info":{"authors":{"author":{"@pid":"d/MargaretHDunham","text":"Margaret H. Eich"}},"title":"A Classification and Comparison of Main Memory Database Recovery Techniques.","venue":"ICDE","pages":"332-339","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/Eich87","doi":"10.1109/ICDE.1987.7272398","ee":"https://doi.org/10.1109/ICDE.1987.7272398","url":"https://dblp.org/rec/conf/icde/Eich87"},
+"url":"URL#5179661"
+},
+{
+"@score":"1",
+"@id":"5179662",
+"info":{"authors":{"author":[{"@pid":"e/RamezElmasri","text":"Ramez Elmasri"},{"@pid":"54/4406","text":"P. Srinivas"},{"@pid":"60/633","text":"Gomer Thomas"}]},"title":"Fragmentation and Query Decomposition in the ECR Model.","venue":"ICDE","pages":"468-476","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/ElmasriST87","doi":"10.1109/ICDE.1987.7272413","ee":"https://doi.org/10.1109/ICDE.1987.7272413","url":"https://dblp.org/rec/conf/icde/ElmasriST87"},
+"url":"URL#5179662"
+},
+{
+"@score":"1",
+"@id":"5179663",
+"info":{"authors":{"author":{"@pid":"28/5402","text":"Anthony J. Gadient"}},"title":"Engineering Information Systems - Implementation Approaches and Issues.","venue":"ICDE","pages":"576-578","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/Gadient87","doi":"10.1109/ICDE.1987.7272426","ee":"https://doi.org/10.1109/ICDE.1987.7272426","url":"https://dblp.org/rec/conf/icde/Gadient87"},
+"url":"URL#5179663"
+},
+{
+"@score":"1",
+"@id":"5179664",
+"info":{"authors":{"author":[{"@pid":"g/HGarciaMolina","text":"Hector Garcia-Molina"},{"@pid":"54/2441","text":"Boris Kogan"}]},"title":"Achieving High Availability in Distributed Databases.","venue":"ICDE","pages":"430-440","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/Garcia-MolinaK87","doi":"10.1109/ICDE.1987.7272409","ee":"https://doi.org/10.1109/ICDE.1987.7272409","url":"https://dblp.org/rec/conf/icde/Garcia-MolinaK87"},
+"url":"URL#5179664"
+},
+{
+"@score":"1",
+"@id":"5179665",
+"info":{"authors":{"author":{"@pid":"12/2024","text":"William B. Gevarter"}},"title":"Automatic Probabilistic Knowledge Acquisition from Data.","venue":"ICDE","pages":"277-280","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/Gevarter87","doi":"10.1109/ICDE.1987.7272384","ee":"https://doi.org/10.1109/ICDE.1987.7272384","url":"https://dblp.org/rec/conf/icde/Gevarter87"},
+"url":"URL#5179665"
+},
+{
+"@score":"1",
+"@id":"5179666",
+"info":{"authors":{"author":{"@pid":"86/222","text":"Sakti P. Ghosh"}},"title":"Data Engineering for Intelligent Inference - Statistical Data.","venue":"ICDE","pages":"281","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/Ghosh87","doi":"10.1109/ICDE.1987.7272385","ee":"https://doi.org/10.1109/ICDE.1987.7272385","url":"https://dblp.org/rec/conf/icde/Ghosh87"},
+"url":"URL#5179666"
+},
+{
+"@score":"1",
+"@id":"5179667",
+"info":{"authors":{"author":[{"@pid":"g/HenryMGladney","text":"Henry M. Gladney"},{"@pid":"54/240","text":"Douglas J. Lorch"},{"@pid":"22/2669","text":"Richard L. Mattson"}]},"title":"A Version Management Method for Distributed Information.","venue":"ICDE","pages":"570-574","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/GladneyLM87","doi":"10.1109/ICDE.1987.7272425","ee":"https://doi.org/10.1109/ICDE.1987.7272425","url":"https://dblp.org/rec/conf/icde/GladneyLM87"},
+"url":"URL#5179667"
+},
+{
+"@score":"1",
+"@id":"5179668",
+"info":{"authors":{"author":[{"@pid":"39/985","text":"Ulrich Güntzer"},{"@pid":"k/WKiessling","text":"Werner Kießling"},{"@pid":"b/RudolfBayer","text":"Rudolf Bayer"}]},"title":"On the Evaluation of Recursion in (Deductive) Database Systems by Efficient Differential Fixpoint Iteration.","venue":"ICDE","pages":"120-129","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/GuntzerKB87","doi":"10.1109/ICDE.1987.7272365","ee":"https://doi.org/10.1109/ICDE.1987.7272365","url":"https://dblp.org/rec/conf/icde/GuntzerKB87"},
+"url":"URL#5179668"
+},
+{
+"@score":"1",
+"@id":"5179669",
+"info":{"authors":{"author":{"@pid":"h/AnnaHac","text":"Anna Hac"}},"title":"A Performance Model of Synchronization Mechanisms in a File System.","venue":"ICDE","pages":"251-258","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/Hac87","doi":"10.1109/ICDE.1987.7272380","ee":"https://doi.org/10.1109/ICDE.1987.7272380","url":"https://dblp.org/rec/conf/icde/Hac87"},
+"url":"URL#5179669"
+},
+{
+"@score":"1",
+"@id":"5179670",
+"info":{"authors":{"author":[{"@pid":"h/MartinHardwick","text":"Martin Hardwick"},{"@pid":"s/GeorgeSamaras","text":"George Samaras"},{"@pid":"s/DavidLSpooner","text":"David L. Spooner"}]},"title":"Evaluating Recursive Queries in CAD Using an Extended Projection Function.","venue":"ICDE","pages":"138-148","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/HardwickSS87","doi":"10.1109/ICDE.1987.7272367","ee":"https://doi.org/10.1109/ICDE.1987.7272367","url":"https://dblp.org/rec/conf/icde/HardwickSS87"},
+"url":"URL#5179670"
+},
+{
+"@score":"1",
+"@id":"5179671",
+"info":{"authors":{"author":[{"@pid":"77/6819","text":"Ronda R. Henning"},{"@pid":"62/3970","text":"Brian S. Hubbard"},{"@pid":"06/3885","text":"Swen A. Walker"}]},"title":"Computer Architectures, Database Security, and An Evaluation Metric.","venue":"ICDE","pages":"518-525","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/HenningHW87","doi":"10.1109/ICDE.1987.7272419","ee":"https://doi.org/10.1109/ICDE.1987.7272419","url":"https://dblp.org/rec/conf/icde/HenningHW87"},
+"url":"URL#5179671"
+},
+{
+"@score":"1",
+"@id":"5179672",
+"info":{"authors":{"author":[{"@pid":"60/2741","text":"Timothy R. Hill"},{"@pid":"97/3116","text":"Ananth Srinivasan"}]},"title":"A Regression Approach to Performance Analysis for the Differential File Architecture.","venue":"ICDE","pages":"157-164","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/HillS87","doi":"10.1109/ICDE.1987.7272369","ee":"https://doi.org/10.1109/ICDE.1987.7272369","url":"https://dblp.org/rec/conf/icde/HillS87"},
+"url":"URL#5179672"
+},
+{
+"@score":"1",
+"@id":"5179673",
+"info":{"authors":{"author":[{"@pid":"04/3128","text":"Patrick D. Hogan"},{"@pid":"64/5088","text":"Thomas L. Kotlarek"}]},"title":"Satellite Data Management for Effective Data Access.","venue":"ICDE","pages":"494-500","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/HoganK87","doi":"10.1109/ICDE.1987.7272416","ee":"https://doi.org/10.1109/ICDE.1987.7272416","url":"https://dblp.org/rec/conf/icde/HoganK87"},
+"url":"URL#5179673"
+},
+{
+"@score":"1",
+"@id":"5179674",
+"info":{"authors":{"author":{"@pid":"88/3763","text":"David K. Hsiao"}},"title":"Database Systems as Controllers, Managers and Linguists - A Study of the Relationship of Database and Operating Systems.","venue":"ICDE","pages":"26-27","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/Hsiao87","doi":"10.1109/ICDE.1987.7272351","ee":"https://doi.org/10.1109/ICDE.1987.7272351","url":"https://dblp.org/rec/conf/icde/Hsiao87"},
+"url":"URL#5179674"
+},
+{
+"@score":"1",
+"@id":"5179675",
+"info":{"authors":{"author":[{"@pid":"51/4363","text":"Ching-Liang Huang"},{"@pid":"74/571","text":"Victor O. K. Li"}]},"title":"A Termination Protocol for Simple Network Partitioning in Distributed Database Systems.","venue":"ICDE","pages":"455-465","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/HuangL87","doi":"10.1109/ICDE.1987.7272412","ee":"https://doi.org/10.1109/ICDE.1987.7272412","url":"https://dblp.org/rec/conf/icde/HuangL87"},
+"url":"URL#5179675"
+},
+{
+"@score":"1",
+"@id":"5179676",
+"info":{"authors":{"author":[{"@pid":"40/2365","text":"Hidenori Itoh"},{"@pid":"23/2552","text":"Masaaki Abe"},{"@pid":"s/ChiakiSakama","text":"Chiaki Sakama"},{"@pid":"34/4171","text":"Yuji Mitomo"}]},"title":"Parallel Control Techniques for Dedicated Relational Database Engines.","venue":"ICDE","pages":"208-215","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/ItohASM87","doi":"10.1109/ICDE.1987.7272375","ee":"https://doi.org/10.1109/ICDE.1987.7272375","url":"https://dblp.org/rec/conf/icde/ItohASM87"},
+"url":"URL#5179676"
+},
+{
+"@score":"1",
+"@id":"5179677",
+"info":{"authors":{"author":{"@pid":"j/SushilJajodia","text":"Sushil Jajodia"}},"title":"Managing Replicated Files in Partitioned Distributed Database Systems.","venue":"ICDE","pages":"412-418","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/Jajodia87","doi":"10.1109/ICDE.1987.7272407","ee":"https://doi.org/10.1109/ICDE.1987.7272407","url":"https://dblp.org/rec/conf/icde/Jajodia87"},
+"url":"URL#5179677"
+},
+{
+"@score":"1",
+"@id":"5179678",
+"info":{"authors":{"author":[{"@pid":"j/SushilJajodia","text":"Sushil Jajodia"},{"@pid":"99/395","text":"Catherine A. Meadows"}]},"title":"Mutual Consistency in Decentralized Distributed Systems.","venue":"ICDE","pages":"396-404","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/JajodiaM87","doi":"10.1109/ICDE.1987.7272405","ee":"https://doi.org/10.1109/ICDE.1987.7272405","url":"https://dblp.org/rec/conf/icde/JajodiaM87"},
+"url":"URL#5179678"
+},
+{
+"@score":"1",
+"@id":"5179679",
+"info":{"authors":{"author":[{"@pid":"45/2476","text":"Bao-Chyuan Jenq"},{"@pid":"27/1695","text":"Walter H. Kohler"},{"@pid":"t/DonaldFTowsley","text":"Donald F. Towsley"}]},"title":"A Queueing Network Model for a Distributed Database Testbed System.","venue":"ICDE","pages":"62-71","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/JenqKT87","doi":"10.1109/ICDE.1987.7272357","ee":"https://doi.org/10.1109/ICDE.1987.7272357","url":"https://dblp.org/rec/conf/icde/JenqKT87"},
+"url":"URL#5179679"
+},
+{
+"@score":"1",
+"@id":"5179680",
+"info":{"authors":{"author":[{"@pid":"14/180","text":"Hyunchul Kang"},{"@pid":"r/NickRoussopoulos","text":"Nick Roussopoulos"}]},"title":"Using 2-way Semijoins in Distributed Query Processing.","venue":"ICDE","pages":"644-651","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/KangR87","doi":"10.1109/ICDE.1987.7272434","ee":"https://doi.org/10.1109/ICDE.1987.7272434","url":"https://dblp.org/rec/conf/icde/KangR87"},
+"url":"URL#5179680"
+},
+{
+"@score":"1",
+"@id":"5179681",
+"info":{"authors":{"author":[{"@pid":"84/300","text":"Mimi Kao"},{"@pid":"c/NickCercone","text":"Nick Cercone"},{"@pid":"l/WoShunLuk","text":"Wo-Shun Luk"}]},"title":"What do you mean &quot;Null&quot;? Turning Null Responses into Quality Responses.","venue":"ICDE","pages":"356-364","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/KaoCL87","doi":"10.1109/ICDE.1987.7272401","ee":"https://doi.org/10.1109/ICDE.1987.7272401","url":"https://dblp.org/rec/conf/icde/KaoCL87"},
+"url":"URL#5179681"
+},
+{
+"@score":"1",
+"@id":"5179682",
+"info":{"authors":{"author":[{"@pid":"14/6635","text":"Setrag Khoshafian"},{"@pid":"37/3701","text":"George P. Copeland"},{"@pid":"01/1415","text":"Thomas Jagodis"},{"@pid":"75/2562","text":"Haran Boral"},{"@pid":"v/PatrickValduriez","text":"Patrick Valduriez"}]},"title":"A Query Processing Strategy for the Decomposed Storage Model.","venue":"ICDE","pages":"636-643","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/KhoshafianCJBV87","doi":"10.1109/ICDE.1987.7272433","ee":"https://doi.org/10.1109/ICDE.1987.7272433","url":"https://dblp.org/rec/conf/icde/KhoshafianCJBV87"},
+"url":"URL#5179682"
+},
+{
+"@score":"1",
+"@id":"5179683",
+"info":{"authors":{"author":{"@pid":"k/DennisFKibler","text":"Dennis F. Kibler"}},"title":"The Qualitative Character of Intelligence.","venue":"ICDE","pages":"289-290","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/Kibler87","doi":"10.1109/ICDE.1987.7272390","ee":"https://doi.org/10.1109/ICDE.1987.7272390","url":"https://dblp.org/rec/conf/icde/Kibler87"},
+"url":"URL#5179683"
+},
+{
+"@score":"1",
+"@id":"5179684",
+"info":{"authors":{"author":[{"@pid":"k/MichaelKifer","text":"Michael Kifer"},{"@pid":"l/EliezerLLozinskii","text":"Eliezer L. Lozinskii"}]},"title":"Implementing Logic Programs as a Database System.","venue":"ICDE","pages":"375-385","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/KiferL87","doi":"10.1109/ICDE.1987.7272403","ee":"https://doi.org/10.1109/ICDE.1987.7272403","url":"https://dblp.org/rec/conf/icde/KiferL87"},
+"url":"URL#5179684"
+},
+{
+"@score":"1",
+"@id":"5179685",
+"info":{"authors":{"author":[{"@pid":"86/2627-1","text":"Won Kim 0001"},{"@pid":"99/1836","text":"Hong-Tai Chou"},{"@pid":"00/1969","text":"Jay Banerjee"}]},"title":"Operations and Implementation of Complex Objects.","venue":"ICDE","pages":"626-633","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/KimCB87","doi":"10.1109/ICDE.1987.7272432","ee":"https://doi.org/10.1109/ICDE.1987.7272432","url":"https://dblp.org/rec/conf/icde/KimCB87"},
+"url":"URL#5179685"
+},
+{
+"@score":"1",
+"@id":"5179686",
+"info":{"authors":{"author":[{"@pid":"86/2627-1","text":"Won Kim 0001"},{"@pid":"89/5812","text":"Darrell Woelk"},{"@pid":"73/2040","text":"Jorge F. Garza"},{"@pid":"99/1836","text":"Hong-Tai Chou"},{"@pid":"00/1969","text":"Jay Banerjee"},{"@pid":"72/5113","text":"Nat Ballou"}]},"title":"Enhancing the Object-Oriented Concepts for Database Support.","venue":"ICDE","pages":"291-292","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/KimWGCBB87","doi":"10.1109/ICDE.1987.7272391","ee":"https://doi.org/10.1109/ICDE.1987.7272391","url":"https://dblp.org/rec/conf/icde/KimWGCBB87"},
+"url":"URL#5179686"
+},
+{
+"@score":"1",
+"@id":"5179687",
+"info":{"authors":{"author":[{"@pid":"k/MasaruKitsuregawa","text":"Masaru Kitsuregawa"},{"@pid":"36/2711","text":"Miyuki Nakano"},{"@pid":"86/1280","text":"Lilian Harada"},{"@pid":"44/3483","text":"Mikio Takagi"}]},"title":"Functional Disk System for Relational Database.","venue":"ICDE","pages":"88-95","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/KitsuregawaNHT87","doi":"10.1109/ICDE.1987.7272361","ee":"https://doi.org/10.1109/ICDE.1987.7272361","url":"https://dblp.org/rec/conf/icde/KitsuregawaNHT87"},
+"url":"URL#5179687"
+},
+{
+"@score":"1",
+"@id":"5179688",
+"info":{"authors":{"author":{"@pid":"16/4247","text":"Alexis Koster"}},"title":"Parallel Processing of Relational Databases on a Cellular Tree Machine.","venue":"ICDE","pages":"200-207","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/Koster87","doi":"10.1109/ICDE.1987.7272374","ee":"https://doi.org/10.1109/ICDE.1987.7272374","url":"https://dblp.org/rec/conf/icde/Koster87"},
+"url":"URL#5179688"
+},
+{
+"@score":"1",
+"@id":"5179689",
+"info":{"authors":{"author":[{"@pid":"k/HansPeterKriegel","text":"Hans-Peter Kriegel"},{"@pid":"s/BernhardSeeger","text":"Bernhard Seeger"}]},"title":"Multidimensional Dynamic Quantile Hashing is Very Efficient for Non-Uniform Record Distributions.","venue":"ICDE","pages":"10-17","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/KriegelS87","doi":"10.1109/ICDE.1987.7272349","ee":"https://doi.org/10.1109/ICDE.1987.7272349","url":"https://dblp.org/rec/conf/icde/KriegelS87"},
+"url":"URL#5179689"
+},
+{
+"@score":"1",
+"@id":"5179690",
+"info":{"authors":{"author":[{"@pid":"14/1600","text":"Ming-Yee Lai"},{"@pid":"72/5311","text":"Tony T. Lee"}]},"title":"Protocol Verification Using Relational Database Systems.","venue":"ICDE","pages":"347-354","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/LaiL87","doi":"10.1109/ICDE.1987.7272400","ee":"https://doi.org/10.1109/ICDE.1987.7272400","url":"https://dblp.org/rec/conf/icde/LaiL87"},
+"url":"URL#5179690"
+},
+{
+"@score":"1",
+"@id":"5179691",
+"info":{"authors":{"author":{"@pid":"l/MLenzerini","text":"Maurizio Lenzerini"}},"title":"Covering and Disjointness Constraints in Type Networks.","venue":"ICDE","pages":"386-393","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/Lenzerini87","doi":"10.1109/ICDE.1987.7272404","ee":"https://doi.org/10.1109/ICDE.1987.7272404","url":"https://dblp.org/rec/conf/icde/Lenzerini87"},
+"url":"URL#5179691"
+},
+{
+"@score":"1",
+"@id":"5179692",
+"info":{"authors":{"author":[{"@pid":"18/6870","text":"Jianzhong Li"},{"@pid":"49/144","text":"Harry K. T. Wong"}]},"title":"Batched Interpolation Searching on Databases.","venue":"ICDE","pages":"18-24","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/LiW87","doi":"10.1109/ICDE.1987.7272350","ee":"https://doi.org/10.1109/ICDE.1987.7272350","url":"https://dblp.org/rec/conf/icde/LiW87"},
+"url":"URL#5179692"
+},
+{
+"@score":"1",
+"@id":"5179693",
+"info":{"authors":{"author":{"@pid":"l/VLinnemann","text":"Volker Linnemann"}},"title":"Non First Normal Form Relations and Recursive Queries - An SQL-Based Approach.","venue":"ICDE","pages":"591-598","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/Linnemann87","doi":"10.1109/ICDE.1987.7272428","ee":"https://doi.org/10.1109/ICDE.1987.7272428","url":"https://dblp.org/rec/conf/icde/Linnemann87"},
+"url":"URL#5179693"
+},
+{
+"@score":"1",
+"@id":"5179694",
+"info":{"authors":{"author":[{"@pid":"l/HongjunLu","text":"Hongjun Lu"},{"@pid":"18/1425","text":"Krishna P. Mikkilineni"},{"@pid":"24/4000","text":"James P. Richardson"}]},"title":"Design and Evaluation of Algorithms to Compute the Transitive Closure of a Database Relation.","venue":"ICDE","pages":"112-119","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/LuMR87","doi":"10.1109/ICDE.1987.7272364","ee":"https://doi.org/10.1109/ICDE.1987.7272364","url":"https://dblp.org/rec/conf/icde/LuMR87"},
+"url":"URL#5179694"
+},
+{
+"@score":"1",
+"@id":"5179695",
+"info":{"authors":{"author":[{"@pid":"52/4777","text":"Vincent Y. Lum"},{"@pid":"86/222","text":"Sakti P. Ghosh"}]},"title":"Data Engineering for Intelligent Inference (Panel Abstract).","venue":"ICDE","pages":"276","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/LumG87","doi":"10.1109/ICDE.1987.7272383","ee":"https://doi.org/10.1109/ICDE.1987.7272383","url":"https://dblp.org/rec/conf/icde/LumG87"},
+"url":"URL#5179695"
+},
+{
+"@score":"1",
+"@id":"5179696",
+"info":{"authors":{"author":[{"@pid":"04/6083","text":"Dana E. Madison"},{"@pid":"35/32","text":"C. Thomas Wu"}]},"title":"An Expert System Interface and Data Requirements for the Integrated Product Design and Manufacturing Process.","venue":"ICDE","pages":"610-618","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/MadisonW87","doi":"10.1109/ICDE.1987.7272430","ee":"https://doi.org/10.1109/ICDE.1987.7272430","url":"https://dblp.org/rec/conf/icde/MadisonW87"},
+"url":"URL#5179696"
+},
+{
+"@score":"1",
+"@id":"5179697",
+"info":{"authors":{"author":[{"@pid":"33/1838","text":"John H. Maloney"},{"@pid":"b/APBlack","text":"Andrew P. Black"}]},"title":"File Sessions - A Technique and its Application to the UNIX File System.","venue":"ICDE","pages":"54-61","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/MaloneyB87","doi":"10.1109/ICDE.1987.7272356","ee":"https://doi.org/10.1109/ICDE.1987.7272356","url":"https://dblp.org/rec/conf/icde/MaloneyB87"},
+"url":"URL#5179697"
+},
+{
+"@score":"1",
+"@id":"5179698",
+"info":{"authors":{"author":[{"@pid":"m/JEliotBMoss","text":"J. Eliot B. Moss"},{"@pid":"29/2176","text":"Bruce Leban"},{"@pid":"c/PKChrysanthis","text":"Panos K. Chrysanthis"}]},"title":"Finer Grained Concurrency for the Database Cache.","venue":"ICDE","pages":"96-103","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/MossLC87","doi":"10.1109/ICDE.1987.7272362","ee":"https://doi.org/10.1109/ICDE.1987.7272362","url":"https://dblp.org/rec/conf/icde/MossLC87"},
+"url":"URL#5179698"
+},
+{
+"@score":"1",
+"@id":"5179699",
+"info":{"authors":{"author":{"@pid":"37/5707","text":"Emmanuel O. Onuegbe"}},"title":"Database Management System Requirements for Software Engineering Environments.","venue":"ICDE","pages":"501-509","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/Onuegbe87","doi":"10.1109/ICDE.1987.7272417","ee":"https://doi.org/10.1109/ICDE.1987.7272417","url":"https://dblp.org/rec/conf/icde/Onuegbe87"},
+"url":"URL#5179699"
+},
+{
+"@score":"1",
+"@id":"5179700",
+"info":{"authors":{"author":{"@pid":"o/GultekinOzsoyoglu","text":"Gultekin Özsoyoglu"}},"title":"Synthetic Query Response Construction in Scientific Databases with Time Constraints and Incomplete Information.","venue":"ICDE","pages":"282","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/Ozsoyoglu87","doi":"10.1109/ICDE.1987.7272386","ee":"https://doi.org/10.1109/ICDE.1987.7272386","url":"https://dblp.org/rec/conf/icde/Ozsoyoglu87"},
+"url":"URL#5179700"
+},
+{
+"@score":"1",
+"@id":"5179701",
+"info":{"authors":{"author":[{"@pid":"o/ZMeralOzsoyoglu","text":"Z. Meral Özsoyoglu"},{"@pid":"y/LiYanYuan","text":"Li-Yan Yuan"}]},"title":"A Design Method for Nested Relational Databases.","venue":"ICDE","pages":"599-608","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/OzsoyogluY87","doi":"10.1109/ICDE.1987.7272429","ee":"https://doi.org/10.1109/ICDE.1987.7272429","url":"https://dblp.org/rec/conf/icde/OzsoyogluY87"},
+"url":"URL#5179701"
+},
+{
+"@score":"1",
+"@id":"5179702",
+"info":{"authors":{"author":[{"@pid":"81/5177","text":"C. V. Ramamoorthy"},{"@pid":"s/PCYSheu","text":"Phillip C.-Y. Sheu"}]},"title":"Logic-oriented Object Bases.","venue":"ICDE","pages":"218-225","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/RamamoorthyS87","doi":"10.1109/ICDE.1987.7272376","ee":"https://doi.org/10.1109/ICDE.1987.7272376","url":"https://dblp.org/rec/conf/icde/RamamoorthyS87"},
+"url":"URL#5179702"
+},
+{
+"@score":"1",
+"@id":"5179703",
+"info":{"authors":{"author":{"@pid":"89/1998","text":"K. V. S. Ramarao"}},"title":"Detection of Mutual Inconsistency in Distributed Databases.","venue":"ICDE","pages":"405-411","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/Ramarao87","doi":"10.1109/ICDE.1987.7272406","ee":"https://doi.org/10.1109/ICDE.1987.7272406","url":"https://dblp.org/rec/conf/icde/Ramarao87"},
+"url":"URL#5179703"
+},
+{
+"@score":"1",
+"@id":"5179704",
+"info":{"authors":{"author":[{"@pid":"r/ALNarasimhaReddy","text":"A. L. Narasimha Reddy"},{"@pid":"b/PrithvirajBanerjee","text":"Prithviraj Banerjee"}]},"title":"A Fault Secure Dictionary Machine.","venue":"ICDE","pages":"104-110","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/ReddyB87","doi":"10.1109/ICDE.1987.7272363","ee":"https://doi.org/10.1109/ICDE.1987.7272363","url":"https://dblp.org/rec/conf/icde/ReddyB87"},
+"url":"URL#5179704"
+},
+{
+"@score":"1",
+"@id":"5179705",
+"info":{"authors":{"author":{"@pid":"86/3458","text":"Gruia-Catalin Roman"}},"title":"Data Engineering in Software Development Environments.","venue":"ICDE","pages":"85-86","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/Roman87","doi":"10.1109/ICDE.1987.7272360","ee":"https://doi.org/10.1109/ICDE.1987.7272360","url":"https://dblp.org/rec/conf/icde/Roman87"},
+"url":"URL#5179705"
+},
+{
+"@score":"1",
+"@id":"5179706",
+"info":{"authors":{"author":[{"@pid":"r/DoronRotem","text":"Doron Rotem"},{"@pid":"s/ArieSegev","text":"Arie Segev"}]},"title":"Physical Organization of Temporal Data.","venue":"ICDE","pages":"547-553","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/RotemS87","doi":"10.1109/ICDE.1987.7272422","ee":"https://doi.org/10.1109/ICDE.1987.7272422","url":"https://dblp.org/rec/conf/icde/RotemS87"},
+"url":"URL#5179706"
+},
+{
+"@score":"1",
+"@id":"5179707",
+"info":{"authors":{"author":{"@pid":"r/NeilCRowe","text":"Neil C. Rowe"}},"title":"Subclass Equal Instances, Thanks to Statistical Databases.","venue":"ICDE","pages":"283-284","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/Rowe87","doi":"10.1109/ICDE.1987.7272387","ee":"https://doi.org/10.1109/ICDE.1987.7272387","url":"https://dblp.org/rec/conf/icde/Rowe87"},
+"url":"URL#5179707"
+},
+{
+"@score":"1",
+"@id":"5179708",
+"info":{"authors":{"author":[{"@pid":"76/5140","text":"William D. Ruchte"},{"@pid":"49/3406","text":"Alan L. Tharp"}]},"title":"Linear Hashing with Priority Splitting - A Method for Improving the Retrieval Performance of Linear Hashing.","venue":"ICDE","pages":"2-9","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/RuchteT87","doi":"10.1109/ICDE.1987.7272348","ee":"https://doi.org/10.1109/ICDE.1987.7272348","url":"https://dblp.org/rec/conf/icde/RuchteT87"},
+"url":"URL#5179708"
+},
+{
+"@score":"1",
+"@id":"5179709",
+"info":{"authors":{"author":[{"@pid":"s/AmitPSheth","text":"Amit P. Sheth"},{"@pid":"57/1382","text":"Anoop Singhal"},{"@pid":"l/MingTLiu","text":"Ming T. Liu"}]},"title":"Performance Analysis of Resiliency Mechanisms in Distributed Datbase Systems.","venue":"ICDE","pages":"419-428","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/ShethSL87","doi":"10.1109/ICDE.1987.7272408","ee":"https://doi.org/10.1109/ICDE.1987.7272408","url":"https://dblp.org/rec/conf/icde/ShethSL87"},
+"url":"URL#5179709"
+},
+{
+"@score":"1",
+"@id":"5179710",
+"info":{"authors":{"author":{"@pid":"26/2804","text":"Nan C. Shu"}},"title":"Automatic Data Transformation and Restructuring.","venue":"ICDE","pages":"173-180","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/Shu87","doi":"10.1109/ICDE.1987.7272371","ee":"https://doi.org/10.1109/ICDE.1987.7272371","url":"https://dblp.org/rec/conf/icde/Shu87"},
+"url":"URL#5179710"
+},
+{
+"@score":"1",
+"@id":"5179711",
+"info":{"authors":{"author":{"@pid":"72/197","text":"Richard L. Shuey"}},"title":"Panel on &quot;Distributed Operating Systems and Distributed Databases&quot;.","venue":"ICDE","pages":"28","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/Shuey87","doi":"10.1109/ICDE.1987.7272352","ee":"https://doi.org/10.1109/ICDE.1987.7272352","url":"https://dblp.org/rec/conf/icde/Shuey87"},
+"url":"URL#5179711"
+},
+{
+"@score":"1",
+"@id":"5179712",
+"info":{"authors":{"author":[{"@pid":"16/5880","text":"Roger K. Shultz"},{"@pid":"17/949","text":"Ila Miller"}]},"title":"Tree Structured Multiple Processor Join Methods.","venue":"ICDE","pages":"190-199","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/ShultzM87","doi":"10.1109/ICDE.1987.7272373","ee":"https://doi.org/10.1109/ICDE.1987.7272373","url":"https://dblp.org/rec/conf/icde/ShultzM87"},
+"url":"URL#5179712"
+},
+{
+"@score":"1",
+"@id":"5179713",
+"info":{"authors":{"author":[{"@pid":"s/NicolasSpyratos","text":"Nicolas Spyratos"},{"@pid":"82/67","text":"Christophe Lécluse"}]},"title":"Incorporating Functional Dependencies in Deductive Query Answering.","venue":"ICDE","pages":"658-664","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/SpyratosL87","doi":"10.1109/ICDE.1987.7272436","ee":"https://doi.org/10.1109/ICDE.1987.7272436","url":"https://dblp.org/rec/conf/icde/SpyratosL87"},
+"url":"URL#5179713"
+},
+{
+"@score":"1",
+"@id":"5179714",
+"info":{"authors":{"author":[{"@pid":"s/MichaelStonebraker","text":"Michael Stonebraker"},{"@pid":"69/6449","text":"Eric N. Hanson"},{"@pid":"94/3216","text":"Chin-Heng Hong"}]},"title":"The Design of the Postgres Rules System.","venue":"ICDE","pages":"365-374","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/StonebrakerHH87","doi":"10.1109/ICDE.1987.7272402","ee":"https://doi.org/10.1109/ICDE.1987.7272402","url":"https://dblp.org/rec/conf/icde/StonebrakerHH87"},
+"url":"URL#5179714"
+},
+{
+"@score":"1",
+"@id":"5179715",
+"info":{"authors":{"author":{"@pid":"44/2525","text":"Kazuo Sugihara"}},"title":"Concurrency Control Based on Distributed Cycle Detection.","venue":"ICDE","pages":"267-274","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/Sugihara87","doi":"10.1109/ICDE.1987.7272382","ee":"https://doi.org/10.1109/ICDE.1987.7272382","url":"https://dblp.org/rec/conf/icde/Sugihara87"},
+"url":"URL#5179715"
+},
+{
+"@score":"1",
+"@id":"5179716",
+"info":{"authors":{"author":{"@pid":"10/3450","text":"Abdullah Uz Tansel"}},"title":"A Statistical Interface for Historical Relational Databases.","venue":"ICDE","pages":"538-546","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/Tansel87","doi":"10.1109/ICDE.1987.7272421","ee":"https://doi.org/10.1109/ICDE.1987.7272421","url":"https://dblp.org/rec/conf/icde/Tansel87"},
+"url":"URL#5179716"
+},
+{
+"@score":"1",
+"@id":"5179717",
+"info":{"authors":{"author":[{"@pid":"t/HenryTirri","text":"Henry Tirri"},{"@pid":"97/1190","text":"Kari-Jouko Räihä"}]},"title":"Concurrency Control for Relational Databases.","venue":"ICDE","pages":"298-303","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/TirriR87","doi":"10.1109/ICDE.1987.7272394","ee":"https://doi.org/10.1109/ICDE.1987.7272394","url":"https://dblp.org/rec/conf/icde/TirriR87"},
+"url":"URL#5179717"
+},
+{
+"@score":"1",
+"@id":"5179718",
+"info":{"authors":{"author":[{"@pid":"08/5198","text":"Shun&apos;ichi Torii"},{"@pid":"44/3885","text":"Keiji Kojima"},{"@pid":"99/63","text":"Seiichi Yoshizumi"},{"@pid":"37/6363","text":"Akiharu Sakata"},{"@pid":"33/5965","text":"Yoshifumi Takamoto"},{"@pid":"25/4303","text":"Shun Kawabe"},{"@pid":"00/7031","text":"Masami Takahashi"},{"@pid":"64/719","text":"Tsuguo Ishizuka"}]},"title":"A Relational Database System Architecture Based on a Vector Processing Method.","venue":"ICDE","pages":"182-189","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/ToriiKYSTKTI87","doi":"10.1109/ICDE.1987.7272372","ee":"https://doi.org/10.1109/ICDE.1987.7272372","url":"https://dblp.org/rec/conf/icde/ToriiKYSTKTI87"},
+"url":"URL#5179718"
+},
+{
+"@score":"1",
+"@id":"5179719",
+"info":{"authors":{"author":[{"@pid":"62/1192","text":"Susan Darling Urban"},{"@pid":"d/LMLDelcambre","text":"Lois M. L. Delcambre"}]},"title":"Perspectives of a Semantic Schema.","venue":"ICDE","pages":"485-492","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/UrbanD87","doi":"10.1109/ICDE.1987.7272415","ee":"https://doi.org/10.1109/ICDE.1987.7272415","url":"https://dblp.org/rec/conf/icde/UrbanD87"},
+"url":"URL#5179719"
+},
+{
+"@score":"1",
+"@id":"5179720",
+"info":{"authors":{"author":{"@pid":"w/BenjaminWWah","text":"Benjamin W. Wah"}},"title":"Design Methodologies of Computers for Aritificial Intelligence Processing.","venue":"ICDE","pages":"293-294","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/Wah87","doi":"10.1109/ICDE.1987.7272392","ee":"https://doi.org/10.1109/ICDE.1987.7272392","url":"https://dblp.org/rec/conf/icde/Wah87"},
+"url":"URL#5179720"
+},
+{
+"@score":"1",
+"@id":"5179721",
+"info":{"authors":{"author":{"@pid":"35/4945","text":"Terry A. Welch"}},"title":"Symbolic Processing - Issues and Opportunities.","venue":"ICDE","pages":"295","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/Welch87","doi":"10.1109/ICDE.1987.7272393","ee":"https://doi.org/10.1109/ICDE.1987.7272393","url":"https://dblp.org/rec/conf/icde/Welch87"},
+"url":"URL#5179721"
+},
+{
+"@score":"1",
+"@id":"5179722",
+"info":{"authors":{"author":[{"@pid":"w/GioWiederhold","text":"Gio Wiederhold"},{"@pid":"91/2417","text":"Xiaolei Qian"}]},"title":"Modeling Asynchrony in Distributed Databases.","venue":"ICDE","pages":"246-250","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/WiederholdQ87","doi":"10.1109/ICDE.1987.7272379","ee":"https://doi.org/10.1109/ICDE.1987.7272379","url":"https://dblp.org/rec/conf/icde/WiederholdQ87"},
+"url":"URL#5179722"
+},
+{
+"@score":"1",
+"@id":"5179723",
+"info":{"authors":{"author":{"@pid":"38/6649","text":"Andrew H. Wilson"}},"title":"Solution Patterns for Common Data Design Problems.","venue":"ICDE","pages":"563-569","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/Wilson87","doi":"10.1109/ICDE.1987.7272424","ee":"https://doi.org/10.1109/ICDE.1987.7272424","url":"https://dblp.org/rec/conf/icde/Wilson87"},
+"url":"URL#5179723"
+},
+{
+"@score":"1",
+"@id":"5179724",
+"info":{"authors":{"author":{"@pid":"w/OuriWolfson","text":"Ouri Wolfson"}},"title":"The Performance of Locking Protocols in Distributed Databases.","venue":"ICDE","pages":"259-266","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/Wolfson87","doi":"10.1109/ICDE.1987.7272381","ee":"https://doi.org/10.1109/ICDE.1987.7272381","url":"https://dblp.org/rec/conf/icde/Wolfson87"},
+"url":"URL#5179724"
+},
+{
+"@score":"1",
+"@id":"5179725",
+"info":{"authors":{"author":{"@pid":"51/247","text":"Stephen S. Yau"}},"title":"Relationship Between Data Engineering and Software Engineering (Abstract).","venue":"ICDE","pages":"84","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/Yau87","doi":"10.1109/ICDE.1987.7272359","ee":"https://doi.org/10.1109/ICDE.1987.7272359","url":"https://dblp.org/rec/conf/icde/Yau87"},
+"url":"URL#5179725"
+},
+{
+"@score":"1",
+"@id":"5179726",
+"info":{"authors":{"author":[{"@pid":"y/ClementTYu","text":"Clement T. Yu"},{"@pid":"50/5179","text":"Weining Zhang"}]},"title":"Efficient Recursive Query Processing using Wavefront Methods.","venue":"ICDE","pages":"652-657","year":"1987","type":"Conference and Workshop Papers","key":"conf/icde/YuZ87","doi":"10.1109/ICDE.1987.7272435","ee":"https://doi.org/10.1109/ICDE.1987.7272435","url":"https://dblp.org/rec/conf/icde/YuZ87"},
+"url":"URL#5179726"
+},
+{
+"@score":"1",
+"@id":"5183538",
+"info":{"title":"Proceedings of the Third International Conference on Data Engineering, February 3-5, 1987, Los Angeles, California, USA","publisher":"IEEE Computer Society","year":"1987","type":"Editorship","key":"conf/icde/87","ee":"https://ieeexplore.ieee.org/xpl/conhome/7239493/proceeding","url":"https://dblp.org/rec/conf/icde/87"},
+"url":"URL#5183538"
+}
+]
+}
 }
 }

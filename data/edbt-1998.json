@@ -1,23 +1,236 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"edbt\"/\"edbt1998\".\"bht",
+"query":":facetid:toc:db\"/\"conf\"/\"edbt\"/\"edbt98\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.28"
+"text":"114.66"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"34",
+"@dc":"34",
+"@oc":"34",
+"@id":"17178273",
+"text":":facetid:toc:db/conf/edbt/edbt98.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"34",
+"@computed":"34",
+"@sent":"34",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"4775127",
+"info":{"authors":{"author":[{"@pid":"a/RAgrawal","text":"Rakesh Agrawal 0001"},{"@pid":"g/DimitriosGunopulos","text":"Dimitrios Gunopulos"},{"@pid":"l/FrankLeymann","text":"Frank Leymann"}]},"title":"Mining Process Models from Workflow Logs.","venue":"EDBT","pages":"469-483","year":"1998","type":"Conference and Workshop Papers","key":"conf/edbt/AgrawalGL98","doi":"10.1007/BFB0101003","ee":"https://doi.org/10.1007/BFb0101003","url":"https://dblp.org/rec/conf/edbt/AgrawalGL98"},
+"url":"URL#4775127"
+},
+{
+"@score":"1",
+"@id":"4775128",
+"info":{"authors":{"author":[{"@pid":"06/6157","text":"Michael O. Akinde"},{"@pid":"29/2643","text":"Ole Guttorm Jensen"},{"@pid":"b/MichaelHBohlen","text":"Michael H. Böhlen"}]},"title":"Minimizing Detail Data in Data Warehouses.","venue":"EDBT","pages":"293-307","year":"1998","type":"Conference and Workshop Papers","key":"conf/edbt/AkindeJB98","doi":"10.1007/BFB0100992","ee":"https://doi.org/10.1007/BFb0100992","url":"https://dblp.org/rec/conf/edbt/AkindeJB98"},
+"url":"URL#4775128"
+},
+{
+"@score":"1",
+"@id":"4775129",
+"info":{"authors":{"author":[{"@pid":"99/2198","text":"Jaber Al-Marri"},{"@pid":"g/SGhandeharizadeh","text":"Shahram Ghandeharizadeh"}]},"title":"An Evaluation of Alternative Disk Scheduling Techniques in Support of Variable Bit Rate Continuous Media.","venue":"EDBT","pages":"231-245","year":"1998","type":"Conference and Workshop Papers","key":"conf/edbt/Al-MarriG98","doi":"10.1007/BFB0100988","ee":"https://doi.org/10.1007/BFb0100988","url":"https://dblp.org/rec/conf/edbt/Al-MarriG98"},
+"url":"URL#4775129"
+},
+{
+"@score":"1",
+"@id":"4775130",
+"info":{"authors":{"author":[{"@pid":"a/PAtzeni","text":"Paolo Atzeni"},{"@pid":"m/GMecca","text":"Giansalvatore Mecca"},{"@pid":"m/PaoloMerialdo","text":"Paolo Merialdo"}]},"title":"Design and Maintenance of Data-Intensive Web Sites.","venue":"EDBT","pages":"436-450","year":"1998","type":"Conference and Workshop Papers","key":"conf/edbt/AtzeniMM98","doi":"10.1007/BFB0101001","ee":"https://doi.org/10.1007/BFb0101001","url":"https://dblp.org/rec/conf/edbt/AtzeniMM98"},
+"url":"URL#4775130"
+},
+{
+"@score":"1",
+"@id":"4775131",
+"info":{"authors":{"author":[{"@pid":"b/VBenzaken","text":"Véronique Benzaken"},{"@pid":"78/2230","text":"Xavier Schaefer"}]},"title":"Static Management of Integrity in Object-Oriented Databases - Design and Implementation.","venue":"EDBT","pages":"311-325","year":"1998","type":"Conference and Workshop Papers","key":"conf/edbt/BenzakenS98","doi":"10.1007/BFB0100993","ee":"https://doi.org/10.1007/BFb0100993","url":"https://dblp.org/rec/conf/edbt/BenzakenS98"},
+"url":"URL#4775131"
+},
+{
+"@score":"1",
+"@id":"4775132",
+"info":{"authors":{"author":[{"@pid":"b/SBerchtold","text":"Stefan Berchtold"},{"@pid":"b/ChBohm","text":"Christian Böhm"},{"@pid":"k/HansPeterKriegel","text":"Hans-Peter Kriegel"}]},"title":"Improving the Query Performance of High-Dimensional Index Structures by Bulk-Load Operations.","venue":"EDBT","pages":"216-230","year":"1998","type":"Conference and Workshop Papers","key":"conf/edbt/BerchtoldBK98","doi":"10.1007/BFB0100987","ee":"https://doi.org/10.1007/BFb0100987","url":"https://dblp.org/rec/conf/edbt/BerchtoldBK98"},
+"url":"URL#4775132"
+},
+{
+"@score":"1",
+"@id":"4775133",
+"info":{"authors":{"author":[{"@pid":"b/ElisaBertino","text":"Elisa Bertino"},{"@pid":"c/BarbaraCatania","text":"Barbara Catania"},{"@pid":"92/2517","text":"Boris Shidlovsky"}]},"title":"Towards Optimal Indexing for Segment Databases.","venue":"EDBT","pages":"39-53","year":"1998","type":"Conference and Workshop Papers","key":"conf/edbt/BertinoCS98","doi":"10.1007/BFB0100976","ee":"https://doi.org/10.1007/BFb0100976","url":"https://dblp.org/rec/conf/edbt/BertinoCS98"},
+"url":"URL#4775133"
+},
+{
+"@score":"1",
+"@id":"4775134",
+"info":{"authors":{"author":[{"@pid":"c/LucaCabibbo","text":"Luca Cabibbo"},{"@pid":"t/RiccardoTorlone","text":"Riccardo Torlone"}]},"title":"A Logical Approach to Multidimensional Databases.","venue":"EDBT","pages":"183-197","year":"1998","type":"Conference and Workshop Papers","key":"conf/edbt/CabibboT98","doi":"10.1007/BFB0100985","ee":"https://doi.org/10.1007/BFb0100985","url":"https://dblp.org/rec/conf/edbt/CabibboT98"},
+"url":"URL#4775134"
+},
+{
+"@score":"1",
+"@id":"4775135",
+"info":{"authors":{"author":[{"@pid":"c/PaoloCiaccia","text":"Paolo Ciaccia"},{"@pid":"p/MPatella","text":"Marco Patella"},{"@pid":"z/PZezula","text":"Pavel Zezula"}]},"title":"Processing Complex Similarity Queries with Distance-Based Access Methods.","venue":"EDBT","pages":"9-23","year":"1998","type":"Conference and Workshop Papers","key":"conf/edbt/CiacciaPZ98","doi":"10.1007/BFB0100974","ee":"https://doi.org/10.1007/BFb0100974","url":"https://dblp.org/rec/conf/edbt/CiacciaPZ98"},
+"url":"URL#4775135"
+},
+{
+"@score":"1",
+"@id":"4775136",
+"info":{"authors":{"author":[{"@pid":"d/JeromeDarmont","text":"Jérôme Darmont"},{"@pid":"66/1507","text":"Bertrand Petit"},{"@pid":"50/3708","text":"Michel Schneider"}]},"title":"OCB - A Generic Benchmark to Evaluate the Performances of Object-Oriented Database Systems.","venue":"EDBT","pages":"326-340","year":"1998","type":"Conference and Workshop Papers","key":"conf/edbt/DarmontPS98","doi":"10.1007/BFB0100994","ee":"https://doi.org/10.1007/BFb0100994","url":"https://dblp.org/rec/conf/edbt/DarmontPS98"},
+"url":"URL#4775136"
+},
+{
+"@score":"1",
+"@id":"4775137",
+"info":{"authors":{"author":[{"@pid":"e/MartinEster","text":"Martin Ester"},{"@pid":"51/836","text":"Rüdiger Wittmann"}]},"title":"Incremental Generalization for Mining in a Data Warehousing Environment.","venue":"EDBT","pages":"135-149","year":"1998","type":"Conference and Workshop Papers","key":"conf/edbt/EsterW98","doi":"10.1007/BFB0100982","ee":"https://doi.org/10.1007/BFb0100982","url":"https://dblp.org/rec/conf/edbt/EsterW98"},
+"url":"URL#4775137"
+},
+{
+"@score":"1",
+"@id":"4775138",
+"info":{"authors":{"author":[{"@pid":"58/4464","text":"Ling Feng"},{"@pid":"l/HongjunLu","text":"Hongjun Lu"},{"@pid":"t/YCTay","text":"Y. C. Tay"},{"@pid":"t/AnthonyKHTung","text":"Anthony K. H. Tung"}]},"title":"Buffer Management in Distributed Database Systems - A Data Mining Based Approach.","venue":"EDBT","pages":"246-260","year":"1998","type":"Conference and Workshop Papers","key":"conf/edbt/FengLTS98","doi":"10.1007/BFB0100989","ee":"https://doi.org/10.1007/BFb0100989","url":"https://dblp.org/rec/conf/edbt/FengLTS98"},
+"url":"URL#4775138"
+},
+{
+"@score":"1",
+"@id":"4775139",
+"info":{"authors":{"author":[{"@pid":"f/PieroFraternali","text":"Piero Fraternali"},{"@pid":"p/PaoloPaolini","text":"Paolo Paolini"}]},"title":"A Conceptual Model and a Tool Environment for Developing More Scalable, Dynamic, and Customizable Web Applications.","venue":"EDBT","pages":"421-435","year":"1998","type":"Conference and Workshop Papers","key":"conf/edbt/FraternaliP98","doi":"10.1007/BFB0101000","ee":"https://doi.org/10.1007/BFb0101000","url":"https://dblp.org/rec/conf/edbt/FraternaliP98"},
+"url":"URL#4775139"
+},
+{
+"@score":"1",
+"@id":"4775140",
+"info":{"authors":{"author":[{"@pid":"f/NFuhr","text":"Norbert Fuhr"},{"@pid":"r/TRolleke","text":"Thomas Rölleke"}]},"title":"HySpirit - A Probabilistic Inference Engine for Hypermedia Retrieval in Large Databases.","venue":"EDBT","pages":"24-38","year":"1998","type":"Conference and Workshop Papers","key":"conf/edbt/FuhrR98","doi":"10.1007/BFB0100975","ee":"https://doi.org/10.1007/BFb0100975","url":"https://dblp.org/rec/conf/edbt/FuhrR98"},
+"url":"URL#4775140"
+},
+{
+"@score":"1",
+"@id":"4775141",
+"info":{"authors":{"author":[{"@pid":"72/6093","text":"Takeshi Fukuda"},{"@pid":"35/2082","text":"Hirofumi Matsuzawa"}]},"title":"Parallel Processing of Multiple Aggregate Queries on Shared-Nothing Multiprocessors.","venue":"EDBT","pages":"278-292","year":"1998","type":"Conference and Workshop Papers","key":"conf/edbt/FukudaM98","doi":"10.1007/BFB0100991","ee":"https://doi.org/10.1007/BFb0100991","url":"https://dblp.org/rec/conf/edbt/FukudaM98"},
+"url":"URL#4775141"
+},
+{
+"@score":"1",
+"@id":"4775142",
+"info":{"authors":{"author":[{"@pid":"92/1572","text":"Anthony Kosky"},{"@pid":"32/2369","text":"I-Min A. Chen"},{"@pid":"m/VMMarkowitz","text":"Victor M. Markowitz"},{"@pid":"25/1416","text":"Ernest Szeto"}]},"title":"Exploring Heterogeneous Biological Databases - Tools and Applications.","venue":"EDBT","pages":"499-513","year":"1998","type":"Conference and Workshop Papers","key":"conf/edbt/KoskyCMS98","doi":"10.1007/BFB0101005","ee":"https://doi.org/10.1007/BFb0101005","url":"https://dblp.org/rec/conf/edbt/KoskyCMS98"},
+"url":"URL#4775142"
+},
+{
+"@score":"1",
+"@id":"4775143",
+"info":{"authors":{"author":[{"@pid":"04/1907","text":"Sin Yeung Lee"},{"@pid":"l/TokWangLing","text":"Tok Wang Ling"}]},"title":"A Path Removing Technique for Detecting Trigger Termination.","venue":"EDBT","pages":"341-355","year":"1998","type":"Conference and Workshop Papers","key":"conf/edbt/LeeL98","doi":"10.1007/BFB0100995","ee":"https://doi.org/10.1007/BFb0100995","url":"https://dblp.org/rec/conf/edbt/LeeL98"},
+"url":"URL#4775143"
+},
+{
+"@score":"1",
+"@id":"4775144",
+"info":{"authors":{"author":{"@pid":"l/WLehner","text":"Wolfgang Lehner"}},"title":"Modelling Large Scale OLAP Scenarios.","venue":"EDBT","pages":"153-167","year":"1998","type":"Conference and Workshop Papers","key":"conf/edbt/Lehner98","doi":"10.1007/BFB0100983","ee":"https://doi.org/10.1007/BFb0100983","url":"https://dblp.org/rec/conf/edbt/Lehner98"},
+"url":"URL#4775144"
+},
+{
+"@score":"1",
+"@id":"4775145",
+"info":{"authors":{"author":[{"@pid":"20/6369","text":"Dao-I Lin"},{"@pid":"k/ZviMKedem","text":"Zvi M. Kedem"}]},"title":"Pincer-Search - A New Algorithm for Discovering the Maximum Frequent Set.","venue":"EDBT","pages":"105-119","year":"1998","type":"Conference and Workshop Papers","key":"conf/edbt/LinK98","doi":"10.1007/BFB0100980","ee":"https://doi.org/10.1007/BFb0100980","url":"https://dblp.org/rec/conf/edbt/LinK98"},
+"url":"URL#4775145"
+},
+{
+"@score":"1",
+"@id":"4775146",
+"info":{"authors":{"author":[{"@pid":"l/BertramLudascher","text":"Bertram Ludäscher"},{"@pid":"m/WolfgangMay","text":"Wolfgang May"}]},"title":"Referential Actions - From Logical Semantics to Implementation.","venue":"EDBT","pages":"404-418","year":"1998","type":"Conference and Workshop Papers","key":"conf/edbt/LudascherM98","doi":"10.1007/BFB0100999","ee":"https://doi.org/10.1007/BFb0100999","url":"https://dblp.org/rec/conf/edbt/LudascherM98"},
+"url":"URL#4775146"
+},
+{
+"@score":"1",
+"@id":"4775147",
+"info":{"authors":{"author":[{"@pid":"m/GMecca","text":"Giansalvatore Mecca"},{"@pid":"m/AOMendelzon","text":"Alberto O. Mendelzon"},{"@pid":"m/PaoloMerialdo","text":"Paolo Merialdo"}]},"title":"Efficient Queries over Web Views.","venue":"EDBT","pages":"72-86","year":"1998","type":"Conference and Workshop Papers","key":"conf/edbt/MeccaMM98","doi":"10.1007/BFB0100978","ee":"https://doi.org/10.1007/BFb0100978","url":"https://dblp.org/rec/conf/edbt/MeccaMM98"},
+"url":"URL#4775147"
+},
+{
+"@score":"1",
+"@id":"4775148",
+"info":{"authors":{"author":[{"@pid":"m/GeorgeAMihaila","text":"George A. Mihaila"},{"@pid":"r/LouiqaRaschid","text":"Louiqa Raschid"},{"@pid":"t/AnthonyTomasic","text":"Anthony Tomasic"}]},"title":"Equal Time for Data on the Internet with WebSemantics.","venue":"EDBT","pages":"87-101","year":"1998","type":"Conference and Workshop Papers","key":"conf/edbt/MihailaRT98","doi":"10.1007/BFB0100979","ee":"https://doi.org/10.1007/BFb0100979","url":"https://dblp.org/rec/conf/edbt/MihailaRT98"},
+"url":"URL#4775148"
+},
+{
+"@score":"1",
+"@id":"4775149",
+"info":{"authors":{"author":[{"@pid":"76/4130","text":"Anisoara Nica"},{"@pid":"51/2101","text":"Amy J. Lee"},{"@pid":"r/EARundensteiner","text":"Elke A. Rundensteiner"}]},"title":"The CVS Algorithm for View Synchronization in Evolvable Large-Scale Information Systems.","venue":"EDBT","pages":"359-373","year":"1998","type":"Conference and Workshop Papers","key":"conf/edbt/NicaLR98","doi":"10.1007/BFB0100996","ee":"https://doi.org/10.1007/BFb0100996","url":"https://dblp.org/rec/conf/edbt/NicaLR98"},
+"url":"URL#4775149"
+},
+{
+"@score":"1",
+"@id":"4775150",
+"info":{"authors":{"author":[{"@pid":"r/KARoss","text":"Kenneth A. Ross"},{"@pid":"s/DiveshSrivastava","text":"Divesh Srivastava"},{"@pid":"c/DChatziantoniou","text":"Damianos Chatziantoniou"}]},"title":"Complex Aggregation at Multiple Granularities.","venue":"EDBT","pages":"263-277","year":"1998","type":"Conference and Workshop Papers","key":"conf/edbt/RossSC98","doi":"10.1007/BFB0100990","ee":"https://doi.org/10.1007/BFb0100990","url":"https://dblp.org/rec/conf/edbt/RossSC98"},
+"url":"URL#4775150"
+},
+{
+"@score":"1",
+"@id":"4775151",
+"info":{"authors":{"author":[{"@pid":"s/SunitaSarawagi","text":"Sunita Sarawagi"},{"@pid":"a/RAgrawal","text":"Rakesh Agrawal 0001"},{"@pid":"m/NimrodMegiddo","text":"Nimrod Megiddo"}]},"title":"Discovery-Driven Exploration of OLAP Data Cubes.","venue":"EDBT","pages":"168-182","year":"1998","type":"Conference and Workshop Papers","key":"conf/edbt/SarawagiAM98","doi":"10.1007/BFB0100984","ee":"https://doi.org/10.1007/BFb0100984","url":"https://dblp.org/rec/conf/edbt/SarawagiAM98"},
+"url":"URL#4775151"
+},
+{
+"@score":"1",
+"@id":"4775152",
+"info":{"authors":{"author":[{"@pid":"46/1244","text":"Wolfgang Scheufele"},{"@pid":"m/GuidoMoerkotte","text":"Guido Moerkotte"}]},"title":"Efficient Dynamic Programming Algorithms for Ordering Expensive Joins and Selections.","venue":"EDBT","pages":"201-215","year":"1998","type":"Conference and Workshop Papers","key":"conf/edbt/ScheufeleM98","doi":"10.1007/BFB0100986","ee":"https://doi.org/10.1007/BFb0100986","url":"https://dblp.org/rec/conf/edbt/ScheufeleM98"},
+"url":"URL#4775152"
+},
+{
+"@score":"1",
+"@id":"4775153",
+"info":{"authors":{"author":{"@pid":"77/566","text":"Shin-Chung Shao"}},"title":"Multivariate and Multidimensional OLAP.","venue":"EDBT","pages":"120-134","year":"1998","type":"Conference and Workshop Papers","key":"conf/edbt/Shao98","doi":"10.1007/BFB0100981","ee":"https://doi.org/10.1007/BFb0100981","url":"https://dblp.org/rec/conf/edbt/Shao98"},
+"url":"URL#4775153"
+},
+{
+"@score":"1",
+"@id":"4775154",
+"info":{"authors":{"author":[{"@pid":"t/JianTang","text":"Jian Tang 0001"},{"@pid":"22/852","text":"San-Yih Hwang"}]},"title":"A Scheme to Specify and Implement Ad-Hoc Recovery in Workflow Systems.","venue":"EDBT","pages":"484-498","year":"1998","type":"Conference and Workshop Papers","key":"conf/edbt/TangH98","doi":"10.1007/BFB0101004","ee":"https://doi.org/10.1007/BFb0101004","url":"https://dblp.org/rec/conf/edbt/TangH98"},
+"url":"URL#4775154"
+},
+{
+"@score":"1",
+"@id":"4775155",
+"info":{"authors":{"author":[{"@pid":"42/6933","text":"Motomichi Toyama"},{"@pid":"20/4672","text":"Takuhiro Nagafuji"}]},"title":"Dynamic and Structured Presentation of Database Contents on the Web.","venue":"EDBT","pages":"451-465","year":"1998","type":"Conference and Workshop Papers","key":"conf/edbt/ToyamaN98","doi":"10.1007/BFB0101002","ee":"https://doi.org/10.1007/BFb0101002","url":"https://dblp.org/rec/conf/edbt/ToyamaN98"},
+"url":"URL#4775155"
+},
+{
+"@score":"1",
+"@id":"4775156",
+"info":{"authors":{"author":{"@pid":"89/1336","text":"Dimitra Vista"}},"title":"Integration of Incremental View Maintenance into Query Optimizers.","venue":"EDBT","pages":"374-388","year":"1998","type":"Conference and Workshop Papers","key":"conf/edbt/Vista98","doi":"10.1007/BFB0100997","ee":"https://doi.org/10.1007/BFb0100997","url":"https://dblp.org/rec/conf/edbt/Vista98"},
+"url":"URL#4775156"
+},
+{
+"@score":"1",
+"@id":"4775157",
+"info":{"authors":{"author":{"@pid":"w/GerhardWeikum","text":"Gerhard Weikum"}},"title":"On the Ubiquity of Information Services and the Absence of Guaranteed Service Quality.","venue":"EDBT","pages":"3-6","year":"1998","type":"Conference and Workshop Papers","key":"conf/edbt/Weikum98","doi":"10.1007/BFB0100973","ee":"https://doi.org/10.1007/BFb0100973","url":"https://dblp.org/rec/conf/edbt/Weikum98"},
+"url":"URL#4775157"
+},
+{
+"@score":"1",
+"@id":"4775158",
+"info":{"authors":{"author":[{"@pid":"y/JunYang1","text":"Jun Yang 0001"},{"@pid":"w/JenniferWidom","text":"Jennifer Widom"}]},"title":"Maintaining Temporal Views over Non-Temporal Information Sources for Data Warehousing.","venue":"EDBT","pages":"389-403","year":"1998","type":"Conference and Workshop Papers","key":"conf/edbt/YangW98","doi":"10.1007/BFB0100998","ee":"https://doi.org/10.1007/BFb0100998","url":"https://dblp.org/rec/conf/edbt/YangW98"},
+"url":"URL#4775158"
+},
+{
+"@score":"1",
+"@id":"4775159",
+"info":{"authors":{"author":[{"@pid":"y/RamanaYerneni","text":"Ramana Yerneni"},{"@pid":"p/YPapakonstantinou","text":"Yannis Papakonstantinou"},{"@pid":"a/SergeAbiteboul","text":"Serge Abiteboul"},{"@pid":"g/HGarciaMolina","text":"Hector Garcia-Molina"}]},"title":"Fusion Queries over Internet Databases.","venue":"EDBT","pages":"57-71","year":"1998","type":"Conference and Workshop Papers","key":"conf/edbt/YerneniPAG98","doi":"10.1007/BFB0100977","ee":"https://doi.org/10.1007/BFb0100977","url":"https://dblp.org/rec/conf/edbt/YerneniPAG98"},
+"url":"URL#4775159"
+},
+{
+"@score":"1",
+"@id":"4800353",
+"info":{"authors":{"author":[{"@pid":"s/HansJorgSchek","text":"Hans-Jörg Schek"},{"@pid":"90/366","text":"Fèlix Saltor"},{"@pid":"97/3810","text":"Isidro Ramos"},{"@pid":"a/GustavoAlonso","text":"Gustavo Alonso"}]},"title":"Advances in Database Technology - EDBT&apos;98, 6th International Conference on Extending Database Technology, Valencia, Spain, March 23-27, 1998, Proceedings","venue":["EDBT","Lecture Notes in Computer Science"],"volume":"1377","publisher":"Springer","year":"1998","type":"Editorship","key":"conf/edbt/98","doi":"10.1007/BFB0100972","ee":"https://doi.org/10.1007/BFb0100972","url":"https://dblp.org/rec/conf/edbt/98"},
+"url":"URL#4800353"
+}
+]
+}
 }
 }

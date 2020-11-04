@@ -1,23 +1,338 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"sigmod\"/\"sigmod1987\".\"bht",
+"query":":facetid:toc:db\"/\"conf\"/\"sigmod\"/\"sigmod87\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.50"
+"text":"116.90"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"51",
+"@dc":"51",
+"@oc":"51",
+"@id":"17205154",
+"text":":facetid:toc:db/conf/sigmod/sigmod87.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"51",
+"@computed":"51",
+"@sent":"51",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"5182467",
+"info":{"authors":{"author":[{"@pid":"a/SergeAbiteboul","text":"Serge Abiteboul"},{"@pid":"k/ParisCKanellakis","text":"Paris C. Kanellakis"},{"@pid":"g/GostaGrahne","text":"Gösta Grahne"}]},"title":"On the Representation and Querying of Sets of Possible Worlds.","venue":"SIGMOD Conference","pages":"34-48","year":"1987","type":"Conference and Workshop Papers","key":"conf/sigmod/AbiteboulKG87","doi":"10.1145/38713.38724","ee":"https://doi.org/10.1145/38713.38724","url":"https://dblp.org/rec/conf/sigmod/AbiteboulKG87"},
+"url":"URL#5182467"
+},
+{
+"@score":"1",
+"@id":"5182468",
+"info":{"authors":{"author":[{"@pid":"15/1018","text":"Hussien Aly"},{"@pid":"o/ZMeralOzsoyoglu","text":"Z. Meral Özsoyoglu"}]},"title":"Non-deterministic Modelling of Logical Queries in Deductive Databases.","venue":"SIGMOD Conference","pages":"60-72","year":"1987","type":"Conference and Workshop Papers","key":"conf/sigmod/AlyO87","doi":"10.1145/38713.38726","ee":"https://doi.org/10.1145/38713.38726","url":"https://dblp.org/rec/conf/sigmod/AlyO87"},
+"url":"URL#5182468"
+},
+{
+"@score":"1",
+"@id":"5182469",
+"info":{"authors":{"author":[{"@pid":"00/1969","text":"Jay Banerjee"},{"@pid":"86/2627-1","text":"Won Kim 0001"},{"@pid":"k/HyoungJooKim","text":"Hyoung-Joo Kim"},{"@pid":"k/HenryFKorth","text":"Henry F. Korth"}]},"title":"Semantics and Implementation of Schema Evolution in Object-Oriented Databases.","venue":"SIGMOD Conference","pages":"311-322","year":"1987","type":"Conference and Workshop Papers","key":"conf/sigmod/BanerjeeKKK87","doi":"10.1145/38713.38748","ee":"https://doi.org/10.1145/38713.38748","url":"https://dblp.org/rec/conf/sigmod/BanerjeeKKK87"},
+"url":"URL#5182469"
+},
+{
+"@score":"1",
+"@id":"5182470",
+"info":{"authors":{"author":{"@pid":"03/2311","text":"Dina Bitton"}},"title":"Technology Trends in Mass-Storage Systems.","venue":"SIGMOD Conference","pages":"7-8","year":"1987","type":"Conference and Workshop Papers","key":"conf/sigmod/Bitton87","url":"https://dblp.org/rec/conf/sigmod/Bitton87"},
+"url":"URL#5182470"
+},
+{
+"@score":"1",
+"@id":"5182471",
+"info":{"authors":{"author":{"@pid":"06/4023","text":"Margaret H. Butler"}},"title":"Storage Reclamation in Object Oriented Database Systems.","venue":"SIGMOD Conference","pages":"410-425","year":"1987","type":"Conference and Workshop Papers","key":"conf/sigmod/Butler87","doi":"10.1145/38713.38757","ee":"https://doi.org/10.1145/38713.38757","url":"https://dblp.org/rec/conf/sigmod/Butler87"},
+"url":"URL#5182471"
+},
+{
+"@score":"1",
+"@id":"5182472",
+"info":{"authors":{"author":[{"@pid":"c/WBruceCroft","text":"W. Bruce Croft"},{"@pid":"s/DavidWStemple","text":"David W. Stemple"}]},"title":"Supporting Offics Document Architectures with Constrained Types.","venue":"SIGMOD Conference","pages":"504-509","year":"1987","type":"Conference and Workshop Papers","key":"conf/sigmod/CroftS87","doi":"10.1145/38713.38764","ee":"https://doi.org/10.1145/38713.38764","url":"https://dblp.org/rec/conf/sigmod/CroftS87"},
+"url":"URL#5182472"
+},
+{
+"@score":"1",
+"@id":"5182473",
+"info":{"authors":{"author":[{"@pid":"c/IFCruz","text":"Isabel F. Cruz"},{"@pid":"m/AOMendelzon","text":"Alberto O. Mendelzon"},{"@pid":"w/PeterTWood","text":"Peter T. Wood"}]},"title":"A Graphical Query Language Supporting Recursion.","venue":"SIGMOD Conference","pages":"323-330","year":"1987","type":"Conference and Workshop Papers","key":"conf/sigmod/CruzMW87","doi":"10.1145/38713.38749","ee":"https://doi.org/10.1145/38713.38749","url":"https://dblp.org/rec/conf/sigmod/CruzMW87"},
+"url":"URL#5182473"
+},
+{
+"@score":"1",
+"@id":"5182474",
+"info":{"authors":{"author":[{"@pid":"61/4188","text":"Dean S. Daniels"},{"@pid":"s/AlfredZSpector","text":"Alfred Z. Spector"},{"@pid":"57/3190","text":"Dean S. Thompson"}]},"title":"Distributed Logging for Transaction Processing.","venue":"SIGMOD Conference","pages":"82-96","year":"1987","type":"Conference and Workshop Papers","key":"conf/sigmod/DanielsST87","doi":"10.1145/38713.38728","ee":"https://doi.org/10.1145/38713.38728","url":"https://dblp.org/rec/conf/sigmod/DanielsST87"},
+"url":"URL#5182474"
+},
+{
+"@score":"1",
+"@id":"5182475",
+"info":{"authors":{"author":[{"@pid":"f/CFaloutsos","text":"Christos Faloutsos"},{"@pid":"s/TimosKSellis","text":"Timos K. Sellis"},{"@pid":"r/NickRoussopoulos","text":"Nick Roussopoulos"}]},"title":"Analysis of Object Oriented Spatial Access Methods.","venue":"SIGMOD Conference","pages":"426-439","year":"1987","type":"Conference and Workshop Papers","key":"conf/sigmod/FaloutsosSR87","doi":"10.1145/38713.38758","ee":"https://doi.org/10.1145/38713.38758","url":"https://dblp.org/rec/conf/sigmod/FaloutsosSR87"},
+"url":"URL#5182475"
+},
+{
+"@score":"1",
+"@id":"5182476",
+"info":{"authors":{"author":{"@pid":"48/3564","text":"Michael Freeston"}},"title":"The BANG File - A New Kind of Grid File.","venue":"SIGMOD Conference","pages":"260-269","year":"1987","type":"Conference and Workshop Papers","key":"conf/sigmod/Freeston87","doi":"10.1145/38713.38743","ee":"https://doi.org/10.1145/38713.38743","url":"https://dblp.org/rec/conf/sigmod/Freeston87"},
+"url":"URL#5182476"
+},
+{
+"@score":"1",
+"@id":"5182477",
+"info":{"authors":{"author":{"@pid":"f/JCFreytag","text":"Johann Christoph Freytag"}},"title":"A Rule-Based View of Query Optimization.","venue":"SIGMOD Conference","pages":"173-180","year":"1987","type":"Conference and Workshop Papers","key":"conf/sigmod/Freytag87","doi":"10.1145/38713.38735","ee":"https://doi.org/10.1145/38713.38735","url":"https://dblp.org/rec/conf/sigmod/Freytag87"},
+"url":"URL#5182477"
+},
+{
+"@score":"1",
+"@id":"5182478",
+"info":{"authors":{"author":[{"@pid":"01/1668","text":"Richard A. Ganski"},{"@pid":"49/144","text":"Harry K. T. Wong"}]},"title":"Optimization of Nested SQL Queries Revisited.","venue":"SIGMOD Conference","pages":"23-33","year":"1987","type":"Conference and Workshop Papers","key":"conf/sigmod/GanskiW87","doi":"10.1145/38713.38723","ee":"https://doi.org/10.1145/38713.38723","url":"https://dblp.org/rec/conf/sigmod/GanskiW87"},
+"url":"URL#5182478"
+},
+{
+"@score":"1",
+"@id":"5182479",
+"info":{"authors":{"author":[{"@pid":"g/HGarciaMolina","text":"Hector Garcia-Molina"},{"@pid":"s/KennethSalem","text":"Kenneth Salem"}]},"title":"Sagas.","venue":"SIGMOD Conference","pages":"249-259","year":"1987","type":"Conference and Workshop Papers","key":"conf/sigmod/Garcia-MolinaS87","doi":"10.1145/38713.38742","ee":"https://doi.org/10.1145/38713.38742","url":"https://dblp.org/rec/conf/sigmod/Garcia-MolinaS87"},
+"url":"URL#5182479"
+},
+{
+"@score":"1",
+"@id":"5182480",
+"info":{"authors":{"author":[{"@pid":"g/GoetzGraefe","text":"Goetz Graefe"},{"@pid":"d/DJDeWitt","text":"David J. DeWitt"}]},"title":"The EXODUS Optimizer Generator.","venue":"SIGMOD Conference","pages":"160-172","year":"1987","type":"Conference and Workshop Papers","key":"conf/sigmod/GraefeD87","doi":"10.1145/38713.38734","ee":"https://doi.org/10.1145/38713.38734","url":"https://dblp.org/rec/conf/sigmod/GraefeD87"},
+"url":"URL#5182480"
+},
+{
+"@score":"1",
+"@id":"5182481",
+"info":{"authors":{"author":{"@pid":"g/JimGray","text":"Jim Gray 0001"}},"title":"Operating System Support for Data Management Systems.","venue":"SIGMOD Conference","pages":"4","year":"1987","type":"Conference and Workshop Papers","key":"conf/sigmod/Gray87","url":"https://dblp.org/rec/conf/sigmod/Gray87"},
+"url":"URL#5182481"
+},
+{
+"@score":"1",
+"@id":"5182482",
+"info":{"authors":{"author":[{"@pid":"g/JimGray","text":"Jim Gray 0001"},{"@pid":"74/6386","text":"Gianfranco R. Putzolu"}]},"title":"The 5 Minute Rule for Trading Memory for Disk Accesses and The 10 Byte Rule for Trading Memory for CPU Time.","venue":"SIGMOD Conference","pages":"395-398","year":"1987","type":"Conference and Workshop Papers","key":"conf/sigmod/GrayP87","doi":"10.1145/38713.38755","ee":"https://doi.org/10.1145/38713.38755","url":"https://dblp.org/rec/conf/sigmod/GrayP87"},
+"url":"URL#5182482"
+},
+{
+"@score":"1",
+"@id":"5182483",
+"info":{"authors":{"author":{"@pid":"14/2407","text":"Frank G. Halasz"}},"title":"The Impact of Software Engineering Environments on the Design of Data Management Systems.","venue":"SIGMOD Conference","pages":"3","year":"1987","type":"Conference and Workshop Papers","key":"conf/sigmod/Halasz87","url":"https://dblp.org/rec/conf/sigmod/Halasz87"},
+"url":"URL#5182483"
+},
+{
+"@score":"1",
+"@id":"5182484",
+"info":{"authors":{"author":[{"@pid":"h/JiaweiHan","text":"Jiawei Han 0001"},{"@pid":"h/LawrenceJHenschen","text":"Lawrence J. Henschen"}]},"title":"Handling Redundancy in the Processing of Recursive Database Queries.","venue":"SIGMOD Conference","pages":"73-81","year":"1987","type":"Conference and Workshop Papers","key":"conf/sigmod/HanH87","doi":"10.1145/38713.38727","ee":"https://doi.org/10.1145/38713.38727","url":"https://dblp.org/rec/conf/sigmod/HanH87"},
+"url":"URL#5182484"
+},
+{
+"@score":"1",
+"@id":"5182485",
+"info":{"authors":{"author":{"@pid":"69/6449","text":"Eric N. Hanson"}},"title":"A Performance Analysis of View Materialization Strategies.","venue":"SIGMOD Conference","pages":"440-453","year":"1987","type":"Conference and Workshop Papers","key":"conf/sigmod/Hanson87","doi":"10.1145/38713.38759","ee":"https://doi.org/10.1145/38713.38759","url":"https://dblp.org/rec/conf/sigmod/Hanson87"},
+"url":"URL#5182485"
+},
+{
+"@score":"1",
+"@id":"5182486",
+"info":{"authors":{"author":[{"@pid":"h/TheoHarder","text":"Theo Härder"},{"@pid":"r/KurtRothermel","text":"Kurt Rothermel"}]},"title":"Concepts for Transaction Recovery in Nested Transactions.","venue":"SIGMOD Conference","pages":"239-248","year":"1987","type":"Conference and Workshop Papers","key":"conf/sigmod/HarderR87","doi":"10.1145/38713.38741","ee":"https://doi.org/10.1145/38713.38741","url":"https://dblp.org/rec/conf/sigmod/HarderR87"},
+"url":"URL#5182486"
+},
+{
+"@score":"1",
+"@id":"5182487",
+"info":{"authors":{"author":{"@pid":"h/MartinHardwick","text":"Martin Hardwick"}},"title":"Why Rose is Fast - Five Optimizations in the Design of an Experimental Database System for CAD/CAM Applications.","venue":"SIGMOD Conference","pages":"292-298","year":"1987","type":"Conference and Workshop Papers","key":"conf/sigmod/Hardwick87","doi":"10.1145/38713.38746","ee":"https://doi.org/10.1145/38713.38746","url":"https://dblp.org/rec/conf/sigmod/Hardwick87"},
+"url":"URL#5182487"
+},
+{
+"@score":"1",
+"@id":"5182488",
+"info":{"authors":{"author":[{"@pid":"02/526","text":"Gary E. Herman"},{"@pid":"83/5507","text":"Gita Gopal"},{"@pid":"172/8540","text":"Kuo Chi Lee"},{"@pid":"90/460","text":"Abel Weinrib"}]},"title":"The Datacycle Architecture for Very High Throughput Database Systems.","venue":"SIGMOD Conference","pages":"97-103","year":"1987","type":"Conference and Workshop Papers","key":"conf/sigmod/HermanGLW87","doi":"10.1145/38713.38729","ee":"https://doi.org/10.1145/38713.38729","url":"https://dblp.org/rec/conf/sigmod/HermanGLW87"},
+"url":"URL#5182488"
+},
+{
+"@score":"1",
+"@id":"5182489",
+"info":{"authors":{"author":[{"@pid":"h/ScottEHudson","text":"Scott E. Hudson"},{"@pid":"64/2075","text":"Roger King"}]},"title":"Object-Oriented Database Support for Software Environments.","venue":"SIGMOD Conference","pages":"491-503","year":"1987","type":"Conference and Workshop Papers","key":"conf/sigmod/HudsonK87","doi":"10.1145/38713.38763","ee":"https://doi.org/10.1145/38713.38763","url":"https://dblp.org/rec/conf/sigmod/HudsonK87"},
+"url":"URL#5182489"
+},
+{
+"@score":"1",
+"@id":"5182490",
+"info":{"authors":{"author":{"@pid":"23/6799","text":"Kurt Ingenthron"}},"title":"Thoughts on Database Research - A User Perspective.","venue":"SIGMOD Conference","pages":"2","year":"1987","type":"Conference and Workshop Papers","key":"conf/sigmod/Ingenthron87","doi":"10.1145/38713.38716","ee":"https://doi.org/10.1145/38713.38716","url":"https://dblp.org/rec/conf/sigmod/Ingenthron87"},
+"url":"URL#5182490"
+},
+{
+"@score":"1",
+"@id":"5182491",
+"info":{"authors":{"author":[{"@pid":"i/YEIoannidis","text":"Yannis E. Ioannidis"},{"@pid":"95/2864","text":"Eugene Wong 0001"}]},"title":"Query Optimization by Simulated Annealing.","venue":"SIGMOD Conference","pages":"9-22","year":"1987","type":"Conference and Workshop Papers","key":"conf/sigmod/Ioannidis87","doi":"10.1145/38713.38722","ee":"https://doi.org/10.1145/38713.38722","url":"https://dblp.org/rec/conf/sigmod/Ioannidis87"},
+"url":"URL#5182491"
+},
+{
+"@score":"1",
+"@id":"5182492",
+"info":{"authors":{"author":[{"@pid":"j/HVJagadish","text":"H. V. Jagadish"},{"@pid":"a/RAgrawal","text":"Rakesh Agrawal 0001"},{"@pid":"55/2490","text":"Linda Ness"}]},"title":"A Study of Transitive Closure As a Recursion Mechanism.","venue":"SIGMOD Conference","pages":"331-344","year":"1987","type":"Conference and Workshop Papers","key":"conf/sigmod/JagadishAN87","doi":"10.1145/38713.38750","ee":"https://doi.org/10.1145/38713.38750","url":"https://dblp.org/rec/conf/sigmod/JagadishAN87"},
+"url":"URL#5182492"
+},
+{
+"@score":"1",
+"@id":"5182493",
+"info":{"authors":{"author":[{"@pid":"j/SushilJajodia","text":"Sushil Jajodia"},{"@pid":"99/479","text":"David Mutchler"}]},"title":"Dynamic Voting.","venue":"SIGMOD Conference","pages":"227-238","year":"1987","type":"Conference and Workshop Papers","key":"conf/sigmod/JajodiaM87","doi":"10.1145/38713.38740","ee":"https://doi.org/10.1145/38713.38740","url":"https://dblp.org/rec/conf/sigmod/JajodiaM87"},
+"url":"URL#5182493"
+},
+{
+"@score":"1",
+"@id":"5182494",
+"info":{"authors":{"author":[{"@pid":"k/AlfonsKemper","text":"Alfons Kemper"},{"@pid":"l/PCLockemann","text":"Peter C. Lockemann"},{"@pid":"14/6785","text":"Mechtild Wallrath"}]},"title":"An Object-Oriented Database System for Engineering Applications.","venue":"SIGMOD Conference","pages":"299-310","year":"1987","type":"Conference and Workshop Papers","key":"conf/sigmod/KemperLW87","doi":"10.1145/38713.38747","ee":"https://doi.org/10.1145/38713.38747","url":"https://dblp.org/rec/conf/sigmod/KemperLW87"},
+"url":"URL#5182494"
+},
+{
+"@score":"1",
+"@id":"5182495",
+"info":{"authors":{"author":[{"@pid":"53/1724","text":"Tobin J. Lehman"},{"@pid":"31/3455","text":"Michael J. Carey 0001"}]},"title":"A Recovery Algorithm for A High-Performance Memory-Resident Database System.","venue":"SIGMOD Conference","pages":"104-117","year":"1987","type":"Conference and Workshop Papers","key":"conf/sigmod/LehmanC87","doi":"10.1145/38713.38730","ee":"https://doi.org/10.1145/38713.38730","url":"https://dblp.org/rec/conf/sigmod/LehmanC87"},
+"url":"URL#5182495"
+},
+{
+"@score":"1",
+"@id":"5182496",
+"info":{"authors":{"author":[{"@pid":"l/BruceGLindsay1","text":"Bruce G. Lindsay 0001"},{"@pid":"02/5355","text":"John McPherson"},{"@pid":"p/HamidPirahesh","text":"Hamid Pirahesh"}]},"title":"A Data Management Extension Architecture.","venue":"SIGMOD Conference","pages":"220-226","year":"1987","type":"Conference and Workshop Papers","key":"conf/sigmod/LindsayMP87","doi":"10.1145/38713.38739","ee":"https://doi.org/10.1145/38713.38739","url":"https://dblp.org/rec/conf/sigmod/LindsayMP87"},
+"url":"URL#5182496"
+},
+{
+"@score":"1",
+"@id":"5182497",
+"info":{"authors":{"author":[{"@pid":"39/1385","text":"Peter Lyngbæk"},{"@pid":"v/VictorVianu","text":"Victor Vianu"}]},"title":"Mapping a Semantic Database Model to the Relational Model.","venue":"SIGMOD Conference","pages":"132-142","year":"1987","type":"Conference and Workshop Papers","key":"conf/sigmod/LyngbaekV87","doi":"10.1145/38713.38732","ee":"https://doi.org/10.1145/38713.38732","url":"https://dblp.org/rec/conf/sigmod/LyngbaekV87"},
+"url":"URL#5182497"
+},
+{
+"@score":"1",
+"@id":"5182498",
+"info":{"authors":{"author":[{"@pid":"90/6769","text":"L. Edwin McKenzie"},{"@pid":"s/RichardTSnodgrass","text":"Richard T. Snodgrass"}]},"title":"Extending the Relational Algebra to Support Transaction Time.","venue":"SIGMOD Conference","pages":"467-478","year":"1987","type":"Conference and Workshop Papers","key":"conf/sigmod/McKenzieS87","doi":"10.1145/38713.38761","ee":"https://doi.org/10.1145/38713.38761","url":"https://dblp.org/rec/conf/sigmod/McKenzieS87"},
+"url":"URL#5182498"
+},
+{
+"@score":"1",
+"@id":"5182499",
+"info":{"authors":{"author":{"@pid":"m/CMohan","text":"C. Mohan 0001"}},"title":"Directions in System Architectures for High Transaction Rates.","venue":"SIGMOD Conference","pages":"6","year":"1987","type":"Conference and Workshop Papers","key":"conf/sigmod/Mohan87","url":"https://dblp.org/rec/conf/sigmod/Mohan87"},
+"url":"URL#5182499"
+},
+{
+"@score":"1",
+"@id":"5182500",
+"info":{"authors":{"author":{"@pid":"13/4481","text":"Matthew Morgenstern"}},"title":"Security and Inference in Multilevel Database and Knowledge-Base Systems.","venue":"SIGMOD Conference","pages":"357-373","year":"1987","type":"Conference and Workshop Papers","key":"conf/sigmod/Morgenstern87","doi":"10.1145/38713.38752","ee":"https://doi.org/10.1145/38713.38752","url":"https://dblp.org/rec/conf/sigmod/Morgenstern87"},
+"url":"URL#5182500"
+},
+{
+"@score":"1",
+"@id":"5182501",
+"info":{"authors":{"author":{"@pid":"69/5666","text":"Raymond K. Neff"}},"title":"Data Bases, Compound Objects, and Networked Workstations - Beyond Distributed Computing.","venue":"SIGMOD Conference","pages":"1","year":"1987","type":"Conference and Workshop Papers","key":"conf/sigmod/Neff87","doi":"10.1145/38713.38767","ee":"https://doi.org/10.1145/38713.38767","url":"https://dblp.org/rec/conf/sigmod/Neff87"},
+"url":"URL#5182501"
+},
+{
+"@score":"1",
+"@id":"5182502",
+"info":{"authors":{"author":[{"@pid":"n/RandalCNelson","text":"Randal C. Nelson"},{"@pid":"s/HananSamet","text":"Hanan Samet"}]},"title":"A Population Analysis for Hierarchical Data Structures.","venue":"SIGMOD Conference","pages":"270-277","year":"1987","type":"Conference and Workshop Papers","key":"conf/sigmod/NelsonS87","doi":"10.1145/38713.38744","ee":"https://doi.org/10.1145/38713.38744","url":"https://dblp.org/rec/conf/sigmod/NelsonS87"},
+"url":"URL#5182502"
+},
+{
+"@score":"1",
+"@id":"5182503",
+"info":{"authors":{"author":[{"@pid":"35/6670","text":"Brian A. Nixon"},{"@pid":"37/4841","text":"Lawrence Chung"},{"@pid":"75/6748","text":"David Lauzon"},{"@pid":"b/ABorgida","text":"Alexander Borgida"},{"@pid":"m/JohnMylopoulos","text":"John Mylopoulos"},{"@pid":"14/6653","text":"Martin Stanley"}]},"title":"Implementation of a Compiler for a Semantic Data Model - Experiences with Taxis.","venue":"SIGMOD Conference","pages":"118-131","year":"1987","type":"Conference and Workshop Papers","key":"conf/sigmod/NixonCLBMS87","doi":"10.1145/38713.38731","ee":"https://doi.org/10.1145/38713.38731","url":"https://dblp.org/rec/conf/sigmod/NixonCLBMS87"},
+"url":"URL#5182503"
+},
+{
+"@score":"1",
+"@id":"5182504",
+"info":{"authors":{"author":[{"@pid":"63/5493","text":"H.-Bernhard Paul"},{"@pid":"s/HansJorgSchek","text":"Hans-Jörg Schek"},{"@pid":"s/MarcHScholl","text":"Marc H. Scholl"},{"@pid":"w/GerhardWeikum","text":"Gerhard Weikum"},{"@pid":"49/4182","text":"Uwe Deppisch"}]},"title":"Architecture and Implementation of the Darmstadt Database Kernel System.","venue":"SIGMOD Conference","pages":"196-207","year":"1987","type":"Conference and Workshop Papers","key":"conf/sigmod/PaulSSWD87","doi":"10.1145/38713.38737","ee":"https://doi.org/10.1145/38713.38737","url":"https://dblp.org/rec/conf/sigmod/PaulSSWD87"},
+"url":"URL#5182504"
+},
+{
+"@score":"1",
+"@id":"5182505",
+"info":{"authors":{"author":[{"@pid":"41/538","text":"Joel E. Richardson"},{"@pid":"31/3455","text":"Michael J. Carey 0001"}]},"title":"Programming Constructs for Database System Implementation in EXODUS.","venue":"SIGMOD Conference","pages":"208-219","year":"1987","type":"Conference and Workshop Papers","key":"conf/sigmod/RichardsonC87","doi":"10.1145/38713.38738","ee":"https://doi.org/10.1145/38713.38738","url":"https://dblp.org/rec/conf/sigmod/RichardsonC87"},
+"url":"URL#5182505"
+},
+{
+"@score":"1",
+"@id":"5182506",
+"info":{"authors":{"author":[{"@pid":"24/4000","text":"James P. Richardson"},{"@pid":"l/HongjunLu","text":"Hongjun Lu"},{"@pid":"18/1425","text":"Krishna P. Mikkilineni"}]},"title":"Design and Evaluation of Parallel Pipelined Join Algorithms.","venue":"SIGMOD Conference","pages":"399-409","year":"1987","type":"Conference and Workshop Papers","key":"conf/sigmod/RichardsonLM87","doi":"10.1145/38713.38756","ee":"https://doi.org/10.1145/38713.38756","url":"https://dblp.org/rec/conf/sigmod/RichardsonLM87"},
+"url":"URL#5182506"
+},
+{
+"@score":"1",
+"@id":"5182507",
+"info":{"authors":{"author":[{"@pid":"70/2878","text":"Mark A. Roth"},{"@pid":"k/HenryFKorth","text":"Henry F. Korth"}]},"title":"The Design of ¬1NF Relational Databases into Nested Normal Form.","venue":"SIGMOD Conference","pages":"143-159","year":"1987","type":"Conference and Workshop Papers","key":"conf/sigmod/RothK87","doi":"10.1145/38713.38733","ee":"https://doi.org/10.1145/38713.38733","url":"https://dblp.org/rec/conf/sigmod/RothK87"},
+"url":"URL#5182507"
+},
+{
+"@score":"1",
+"@id":"5182508",
+"info":{"authors":{"author":{"@pid":"04/5241","text":"W. Bradley Rubenstein"}},"title":"A Database Design for Musical Information.","venue":"SIGMOD Conference","pages":"479-490","year":"1987","type":"Conference and Workshop Papers","key":"conf/sigmod/Rubenstein87","doi":"10.1145/38713.38762","ee":"https://doi.org/10.1145/38713.38762","url":"https://dblp.org/rec/conf/sigmod/Rubenstein87"},
+"url":"URL#5182508"
+},
+{
+"@score":"1",
+"@id":"5182509",
+"info":{"authors":{"author":[{"@pid":"04/5241","text":"W. Bradley Rubenstein"},{"@pid":"88/6924","text":"M. S. Kubicar"},{"@pid":"67/2932","text":"R. G. G. Cattell"}]},"title":"Benchmarking Simple Database Operations.","venue":"SIGMOD Conference","pages":"387-394","year":"1987","type":"Conference and Workshop Papers","key":"conf/sigmod/RubensteinKC87","doi":"10.1145/38713.38754","ee":"https://doi.org/10.1145/38713.38754","url":"https://dblp.org/rec/conf/sigmod/RubensteinKC87"},
+"url":"URL#5182509"
+},
+{
+"@score":"1",
+"@id":"5182510",
+"info":{"authors":{"author":[{"@pid":"s/DomenicoSacca","text":"Domenico Saccà"},{"@pid":"z/CZaniolo","text":"Carlo Zaniolo"}]},"title":"Magic Counting Methods.","venue":"SIGMOD Conference","pages":"49-59","year":"1987","type":"Conference and Workshop Papers","key":"conf/sigmod/SaccaZ87","doi":"10.1145/38713.38725","ee":"https://doi.org/10.1145/38713.38725","url":"https://dblp.org/rec/conf/sigmod/SaccaZ87"},
+"url":"URL#5182510"
+},
+{
+"@score":"1",
+"@id":"5182511",
+"info":{"authors":{"author":[{"@pid":"s/ArieSegev","text":"Arie Segev"},{"@pid":"s/ArieShoshani","text":"Arie Shoshani"}]},"title":"Logical Modeling of Temporal Data.","venue":"SIGMOD Conference","pages":"454-466","year":"1987","type":"Conference and Workshop Papers","key":"conf/sigmod/SegevS87","doi":"10.1145/38713.38760","ee":"https://doi.org/10.1145/38713.38760","url":"https://dblp.org/rec/conf/sigmod/SegevS87"},
+"url":"URL#5182511"
+},
+{
+"@score":"1",
+"@id":"5182512",
+"info":{"authors":{"author":{"@pid":"s/TimosKSellis","text":"Timos K. Sellis"}},"title":"Efficiently Supporting Procedures in Relational Database Systems.","venue":"SIGMOD Conference","pages":"278-291","year":"1987","type":"Conference and Workshop Papers","key":"conf/sigmod/Sellis87","doi":"10.1145/38713.38745","ee":"https://doi.org/10.1145/38713.38745","url":"https://dblp.org/rec/conf/sigmod/Sellis87"},
+"url":"URL#5182512"
+},
+{
+"@score":"1",
+"@id":"5182513",
+"info":{"authors":{"author":[{"@pid":"70/4581","text":"Sreekumar T. Shenoy"},{"@pid":"o/ZMeralOzsoyoglu","text":"Z. Meral Özsoyoglu"}]},"title":"A System for Semantic Query Optimization.","venue":"SIGMOD Conference","pages":"181-195","year":"1987","type":"Conference and Workshop Papers","key":"conf/sigmod/ShenoyO87","doi":"10.1145/38713.38736","ee":"https://doi.org/10.1145/38713.38736","url":"https://dblp.org/rec/conf/sigmod/ShenoyO87"},
+"url":"URL#5182513"
+},
+{
+"@score":"1",
+"@id":"5182514",
+"info":{"authors":{"author":[{"@pid":"s/DavidWStemple","text":"David W. Stemple"},{"@pid":"03/2361","text":"Subhasish Mazumdar"},{"@pid":"s/TimSheard","text":"Tim Sheard"}]},"title":"On the Modes and Meaning of Feedback to Transaction Designers.","venue":"SIGMOD Conference","pages":"374-386","year":"1987","type":"Conference and Workshop Papers","key":"conf/sigmod/StempleMS87","doi":"10.1145/38713.38753","ee":"https://doi.org/10.1145/38713.38753","url":"https://dblp.org/rec/conf/sigmod/StempleMS87"},
+"url":"URL#5182514"
+},
+{
+"@score":"1",
+"@id":"5182515",
+"info":{"authors":{"author":{"@pid":"w/GioWiederhold","text":"Gio Wiederhold"}},"title":"Experience with Knowledge Bases.","venue":"SIGMOD Conference","pages":"5","year":"1987","type":"Conference and Workshop Papers","key":"conf/sigmod/Wiederhold87","url":"https://dblp.org/rec/conf/sigmod/Wiederhold87"},
+"url":"URL#5182515"
+},
+{
+"@score":"1",
+"@id":"5182516",
+"info":{"authors":{"author":[{"@pid":"50/5179","text":"Weining Zhang"},{"@pid":"y/ClementTYu","text":"Clement T. Yu"}]},"title":"A Necessary Condition for a Doubly Recursive Rule to be Equivalent to a Linear Recursive Rule.","venue":"SIGMOD Conference","pages":"345-356","year":"1987","type":"Conference and Workshop Papers","key":"conf/sigmod/ZhangY87","doi":"10.1145/38713.38751","ee":"https://doi.org/10.1145/38713.38751","url":"https://dblp.org/rec/conf/sigmod/ZhangY87"},
+"url":"URL#5182516"
+},
+{
+"@score":"1",
+"@id":"5183585",
+"info":{"authors":{"author":[{"@pid":"76/2198","text":"Umeshwar Dayal"},{"@pid":"17/2969","text":"Irving L. Traiger"}]},"title":"Proceedings of the Association for Computing Machinery Special Interest Group on Management of Data 1987 Annual Conference, San Francisco, CA, USA, May 27-29, 1987","publisher":"ACM Press","year":"1987","type":"Editorship","key":"conf/sigmod/87","url":"https://dblp.org/rec/conf/sigmod/87"},
+"url":"URL#5183585"
+}
+]
+}
 }
 }

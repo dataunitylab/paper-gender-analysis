@@ -1,23 +1,194 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"sigmod\"/\"sigmod1975\".\"bht",
+"query":":facetid:toc:db\"/\"conf\"/\"sigmod\"/\"sigmod75\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.39"
+"text":"122.83"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"27",
+"@dc":"27",
+"@oc":"27",
+"@id":"17205142",
+"text":":facetid:toc:db/conf/sigmod/sigmod75.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"27",
+"@computed":"27",
+"@sent":"27",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"5286189",
+"info":{"authors":{"author":[{"@pid":"33/2015","text":"Morton M. Astrahan"},{"@pid":"c/DDChamberlin","text":"Donald D. Chamberlin"}]},"title":"Implementation of a Structured English Query Language (Abstract).","venue":"SIGMOD Conference","pages":"54","year":"1975","type":"Conference and Workshop Papers","key":"conf/sigmod/AstrahanC75","doi":"10.1145/500080.500088","ee":"https://doi.org/10.1145/500080.500088","url":"https://dblp.org/rec/conf/sigmod/AstrahanC75"},
+"url":"URL#5286189"
+},
+{
+"@score":"1",
+"@id":"5286191",
+"info":{"authors":{"author":[{"@pid":"67/5555","text":"David E. Bakkom"},{"@pid":"74/2644","text":"James A. Behymer"}]},"title":"Implementation of a Prototype Generalized File Translator.","venue":"SIGMOD Conference","pages":"99-110","year":"1975","type":"Conference and Workshop Papers","key":"conf/sigmod/BakkomB75","doi":"10.1145/500080.500095","ee":"https://doi.org/10.1145/500080.500095","url":"https://dblp.org/rec/conf/sigmod/BakkomB75"},
+"url":"URL#5286191"
+},
+{
+"@score":"1",
+"@id":"5286192",
+"info":{"authors":{"author":[{"@pid":"88/5781","text":"Ann Ellis Bandurski"},{"@pid":"55/171","text":"David K. Jefferson"}]},"title":"Data Description for Computer-Aided Design.","venue":"SIGMOD Conference","pages":"193-202","year":"1975","type":"Conference and Workshop Papers","key":"conf/sigmod/BandurskiJ75","doi":"10.1145/500080.500107","ee":"https://doi.org/10.1145/500080.500107","url":"https://dblp.org/rec/conf/sigmod/BandurskiJ75"},
+"url":"URL#5286192"
+},
+{
+"@score":"1",
+"@id":"5286195",
+"info":{"authors":{"author":[{"@pid":"b/PhilipABernstein","text":"Philip A. Bernstein"},{"@pid":"65/4959","text":"J. Richard Swenson"},{"@pid":"t/DennisTsichritzis","text":"Dennis Tsichritzis"}]},"title":"A Unified Approach to Functional Dependencies and Relations.","venue":"SIGMOD Conference","pages":"237-245","year":"1975","type":"Conference and Workshop Papers","key":"conf/sigmod/BernsteinST75","doi":"10.1145/500080.500112","ee":"https://doi.org/10.1145/500080.500112","url":"https://dblp.org/rec/conf/sigmod/BernsteinST75"},
+"url":"URL#5286195"
+},
+{
+"@score":"1",
+"@id":"5286197",
+"info":{"authors":{"author":{"@pid":"c/ShiKuoChang","text":"Shi-Kuo Chang"}},"title":"Data Base Decomposition in a Hierarchical Computer System.","venue":"SIGMOD Conference","pages":"48-53","year":"1975","type":"Conference and Workshop Papers","key":"conf/sigmod/Chang75","doi":"10.1145/500080.500086","ee":"https://doi.org/10.1145/500080.500086","url":"https://dblp.org/rec/conf/sigmod/Chang75"},
+"url":"URL#5286197"
+},
+{
+"@score":"1",
+"@id":"5286198",
+"info":{"authors":{"author":{"@pid":"34/7031","text":"Thomas J. Cook"}},"title":"A Data Base Management System Design Philosophy.","venue":"SIGMOD Conference","pages":"15-22","year":"1975","type":"Conference and Workshop Papers","key":"conf/sigmod/Cook75","doi":"10.1145/500080.500083","ee":"https://doi.org/10.1145/500080.500083","url":"https://dblp.org/rec/conf/sigmod/Cook75"},
+"url":"URL#5286198"
+},
+{
+"@score":"1",
+"@id":"5286199",
+"info":{"authors":{"author":[{"@pid":"46/5875","text":"R. F. Deutscher"},{"@pid":"76/3827","text":"Paul G. Sorenson"},{"@pid":"69/1123","text":"J. Paul Tremblay"}]},"title":"Distribution-Dependent Hashing Functions and Their Characteristics.","venue":"SIGMOD Conference","pages":"224-236","year":"1975","type":"Conference and Workshop Papers","key":"conf/sigmod/DeutscherST75","doi":"10.1145/500080.500111","ee":"https://doi.org/10.1145/500080.500111","url":"https://dblp.org/rec/conf/sigmod/DeutscherST75"},
+"url":"URL#5286199"
+},
+{
+"@score":"1",
+"@id":"5286200",
+"info":{"authors":{"author":[{"@pid":"84/910","text":"Raymond Fadous"},{"@pid":"80/2391","text":"John Forsyth"}]},"title":"Finding Candidate Keys for Relational Data Bases.","venue":"SIGMOD Conference","pages":"203-210","year":"1975","type":"Conference and Workshop Papers","key":"conf/sigmod/FadousF75","doi":"10.1145/500080.500109","ee":"https://doi.org/10.1145/500080.500109","url":"https://dblp.org/rec/conf/sigmod/FadousF75"},
+"url":"URL#5286200"
+},
+{
+"@score":"1",
+"@id":"5286202",
+"info":{"authors":{"author":[{"@pid":"f/EBFernandez","text":"Eduardo B. Fernández"},{"@pid":"21/4030","text":"Rita C. Summers"},{"@pid":"59/2563","text":"Charles D. Coleman"}]},"title":"An Authorization Model for a Shared Data Base.","venue":"SIGMOD Conference","pages":"23-31","year":"1975","type":"Conference and Workshop Papers","key":"conf/sigmod/FernandezSC75","doi":"10.1145/500080.500084","ee":"https://doi.org/10.1145/500080.500084","url":"https://dblp.org/rec/conf/sigmod/FernandezSC75"},
+"url":"URL#5286202"
+},
+{
+"@score":"1",
+"@id":"5286204",
+"info":{"authors":{"author":{"@pid":"71/2056","text":"Rob Gerritsen"}},"title":"A Preliminary System for the Design of DBTG Data Structures (Abstract).","venue":"SIGMOD Conference","pages":"166","year":"1975","type":"Conference and Workshop Papers","key":"conf/sigmod/Gerritsen75","doi":"10.1145/500080.500104","ee":"https://doi.org/10.1145/500080.500104","url":"https://dblp.org/rec/conf/sigmod/Gerritsen75"},
+"url":"URL#5286204"
+},
+{
+"@score":"1",
+"@id":"5286206",
+"info":{"authors":{"author":{"@pid":"88/669","text":"Leo R. Gotlieb"}},"title":"Computing Joins of Relations.","venue":"SIGMOD Conference","pages":"55-63","year":"1975","type":"Conference and Workshop Papers","key":"conf/sigmod/Gotlieb75","doi":"10.1145/500080.500089","ee":"https://doi.org/10.1145/500080.500089","url":"https://dblp.org/rec/conf/sigmod/Gotlieb75"},
+"url":"URL#5286206"
+},
+{
+"@score":"1",
+"@id":"5286211",
+"info":{"authors":{"author":{"@pid":"64/4","text":"William C. McGee"}},"title":"File-Level Operations on Network Data Structures.","venue":"SIGMOD Conference","pages":"32-47","year":"1975","type":"Conference and Workshop Papers","key":"conf/sigmod/McGee75","doi":"10.1145/500080.500085","ee":"https://doi.org/10.1145/500080.500085","url":"https://dblp.org/rec/conf/sigmod/McGee75"},
+"url":"URL#5286211"
+},
+{
+"@score":"1",
+"@id":"5286214",
+"info":{"authors":{"author":{"@pid":"m/JackMinker","text":"Jack Minker"}},"title":"Performing Inferences over Relation Data Bases.","venue":"SIGMOD Conference","pages":"79-91","year":"1975","type":"Conference and Workshop Papers","key":"conf/sigmod/Minker75","doi":"10.1145/500080.500092","ee":"https://doi.org/10.1145/500080.500092","url":"https://dblp.org/rec/conf/sigmod/Minker75"},
+"url":"URL#5286214"
+},
+{
+"@score":"1",
+"@id":"5286215",
+"info":{"authors":{"author":[{"@pid":"41/4386","text":"J. H. Mommens"},{"@pid":"58/1294","text":"S. E. Smith"}]},"title":"Automatic Generation of Physical Data Base Structures.","venue":"SIGMOD Conference","pages":"157-165","year":"1975","type":"Conference and Workshop Papers","key":"conf/sigmod/MommensS75","doi":"10.1145/500080.500103","ee":"https://doi.org/10.1145/500080.500103","url":"https://dblp.org/rec/conf/sigmod/MommensS75"},
+"url":"URL#5286215"
+},
+{
+"@score":"1",
+"@id":"5286216",
+"info":{"authors":{"author":[{"@pid":"n/ShamkantBNavathe","text":"Shamkant B. Navathe"},{"@pid":"36/5323","text":"Alan G. Merten"}]},"title":"Investigations into the Application of the Relational Model to Data Translation.","venue":"SIGMOD Conference","pages":"123-138","year":"1975","type":"Conference and Workshop Papers","key":"conf/sigmod/NavatheM75","doi":"10.1145/500080.500098","ee":"https://doi.org/10.1145/500080.500098","url":"https://dblp.org/rec/conf/sigmod/NavatheM75"},
+"url":"URL#5286216"
+},
+{
+"@score":"1",
+"@id":"5286217",
+"info":{"authors":{"author":{"@pid":"81/2454","text":"Robert L. Rappaport"}},"title":"File Structure Design to Facilitate On-Line Instantaneous Updating.","venue":"SIGMOD Conference","pages":"1-14","year":"1975","type":"Conference and Workshop Papers","key":"conf/sigmod/Rappaport75","doi":"10.1145/500080.500082","ee":"https://doi.org/10.1145/500080.500082","url":"https://dblp.org/rec/conf/sigmod/Rappaport75"},
+"url":"URL#5286217"
+},
+{
+"@score":"1",
+"@id":"5286219",
+"info":{"authors":{"author":{"@pid":"96/5511","text":"Mario Schkolnick"}},"title":"Secondary Index Optimization.","venue":"SIGMOD Conference","pages":"186-192","year":"1975","type":"Conference and Workshop Papers","key":"conf/sigmod/Schkolnick75","doi":"10.1145/500080.500106","ee":"https://doi.org/10.1145/500080.500106","url":"https://dblp.org/rec/conf/sigmod/Schkolnick75"},
+"url":"URL#5286219"
+},
+{
+"@score":"1",
+"@id":"5286220",
+"info":{"authors":{"author":[{"@pid":"97/33","text":"Hans Albrecht Schmid"},{"@pid":"65/4959","text":"J. Richard Swenson"}]},"title":"On the Semantics of the Relational Data Model.","venue":"SIGMOD Conference","pages":"211-223","year":"1975","type":"Conference and Workshop Papers","key":"conf/sigmod/SchmidS75","doi":"10.1145/500080.500110","ee":"https://doi.org/10.1145/500080.500110","url":"https://dblp.org/rec/conf/sigmod/SchmidS75"},
+"url":"URL#5286220"
+},
+{
+"@score":"1",
+"@id":"5286221",
+"info":{"authors":{"author":{"@pid":"49/2888","text":"G. Michael Schneider"}},"title":"DSCL - A Data Specification and Conversion Language for Networks.","venue":"SIGMOD Conference","pages":"139-148","year":"1975","type":"Conference and Workshop Papers","key":"conf/sigmod/Schneider75","doi":"10.1145/500080.500099","ee":"https://doi.org/10.1145/500080.500099","url":"https://dblp.org/rec/conf/sigmod/Schneider75"},
+"url":"URL#5286221"
+},
+{
+"@score":"1",
+"@id":"5286222",
+"info":{"authors":{"author":[{"@pid":"60/6731","text":"L. S. Schneider"},{"@pid":"17/763","text":"C. R. Spath"}]},"title":"Quantitative Data Description.","venue":"SIGMOD Conference","pages":"167-185","year":"1975","type":"Conference and Workshop Papers","key":"conf/sigmod/SchneiderS75","doi":"10.1145/500080.500105","ee":"https://doi.org/10.1145/500080.500105","url":"https://dblp.org/rec/conf/sigmod/SchneiderS75"},
+"url":"URL#5286222"
+},
+{
+"@score":"1",
+"@id":"5286223",
+"info":{"authors":{"author":{"@pid":"s/ArieShoshani","text":"Arie Shoshani"}},"title":"A Logical-Level Approach to Data Base Conversion.","venue":"SIGMOD Conference","pages":"112-122","year":"1975","type":"Conference and Workshop Papers","key":"conf/sigmod/Shoshani75","doi":"10.1145/500080.500097","ee":"https://doi.org/10.1145/500080.500097","url":"https://dblp.org/rec/conf/sigmod/Shoshani75"},
+"url":"URL#5286223"
+},
+{
+"@score":"1",
+"@id":"5286224",
+"info":{"authors":{"author":[{"@pid":"26/2804","text":"Nan C. Shu"},{"@pid":"60/2167","text":"Barron C. Housel"},{"@pid":"52/4777","text":"Vincent Y. Lum"}]},"title":"CONVERT - A High Level Translation Definition Language for Data Conversion (Abstract).","venue":"SIGMOD Conference","pages":"111","year":"1975","type":"Conference and Workshop Papers","key":"conf/sigmod/ShuHL75","doi":"10.1145/500080.500096","ee":"https://doi.org/10.1145/500080.500096","url":"https://dblp.org/rec/conf/sigmod/ShuHL75"},
+"url":"URL#5286224"
+},
+{
+"@score":"1",
+"@id":"5286226",
+"info":{"authors":{"author":[{"@pid":"35/3801","text":"John Miles Smith"},{"@pid":"25/3902","text":"Philip Yen-Tang Chang"}]},"title":"Optimizing the Performance of a Relational Algebra Data Base Interface (Abstract).","venue":"SIGMOD Conference","pages":"64","year":"1975","type":"Conference and Workshop Papers","key":"conf/sigmod/SmithC75","doi":"10.1145/500080.500090","ee":"https://doi.org/10.1145/500080.500090","url":"https://dblp.org/rec/conf/sigmod/SmithC75"},
+"url":"URL#5286226"
+},
+{
+"@score":"1",
+"@id":"5286227",
+"info":{"authors":{"author":{"@pid":"83/2995","text":"Thomas B. Steel Jr."}},"title":"Data Base Standardization - A Status Report.","venue":"SIGMOD Conference","pages":"149-156","year":"1975","type":"Conference and Workshop Papers","key":"conf/sigmod/Steel75","doi":"10.1145/500080.500101","ee":"https://doi.org/10.1145/500080.500101","url":"https://dblp.org/rec/conf/sigmod/Steel75"},
+"url":"URL#5286227"
+},
+{
+"@score":"1",
+"@id":"5286228",
+"info":{"authors":{"author":{"@pid":"s/MichaelStonebraker","text":"Michael Stonebraker"}},"title":"Implementation of Integrity Constraints and Views by Query Modification.","venue":"SIGMOD Conference","pages":"65-78","year":"1975","type":"Conference and Workshop Papers","key":"conf/sigmod/Stonebraker75","doi":"10.1145/500080.500091","ee":"https://doi.org/10.1145/500080.500091","url":"https://dblp.org/rec/conf/sigmod/Stonebraker75"},
+"url":"URL#5286228"
+},
+{
+"@score":"1",
+"@id":"5286231",
+"info":{"authors":{"author":[{"@pid":"21/6094","text":"James W. Welch"},{"@pid":"77/2843","text":"J. Wesley Graham"}]},"title":"Information Retrieval in Files Described Using Sets.","venue":"SIGMOD Conference","pages":"92-98","year":"1975","type":"Conference and Workshop Papers","key":"conf/sigmod/WelchG75","doi":"10.1145/500080.500093","ee":"https://doi.org/10.1145/500080.500093","url":"https://dblp.org/rec/conf/sigmod/WelchG75"},
+"url":"URL#5286231"
+},
+{
+"@score":"1",
+"@id":"5286462",
+"info":{"authors":{"author":{"@pid":"64/6064","text":"W. Frank King"}},"title":"Proceedings of the 1975 ACM SIGMOD International Conference on Management of Data, San Jose, California, USA, May 14-16, 1975.","publisher":"ACM","year":"1975","type":"Editorship","key":"conf/sigmod/75","url":"https://dblp.org/rec/conf/sigmod/75"},
+"url":"URL#5286462"
+}
+]
+}
 }
 }

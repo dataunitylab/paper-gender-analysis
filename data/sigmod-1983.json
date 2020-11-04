@@ -1,23 +1,212 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"sigmod\"/\"sigmod1983\".\"bht",
+"query":":facetid:toc:db\"/\"conf\"/\"sigmod\"/\"sigmod83\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.36"
+"text":"103.25"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"30",
+"@dc":"30",
+"@oc":"30",
+"@id":"17205150",
+"text":":facetid:toc:db/conf/sigmod/sigmod83.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"30",
+"@computed":"30",
+"@sent":"30",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"5233331",
+"info":{"authors":{"author":[{"@pid":"93/2221","text":"Gad Ariav"},{"@pid":"11/3810","text":"James Clifford"},{"@pid":"j/MatthiasJarke","text":"Matthias Jarke"}]},"title":"Time and Databases.","venue":"SIGMOD Conference","pages":"243-245","year":"1983","type":"Conference and Workshop Papers","key":"conf/sigmod/AriavCJ83","doi":"10.1145/582192.582232","ee":"https://doi.org/10.1145/582192.582232","url":"https://dblp.org/rec/conf/sigmod/AriavCJ83"},
+"url":"URL#5233331"
+},
+{
+"@score":"1",
+"@id":"5233333",
+"info":{"authors":{"author":{"@pid":"b/PhilipABernstein","text":"Philip A. Bernstein"}},"title":"Database Theory - Where Has It Been? Where Is It Going? (Abstract).","venue":"SIGMOD Conference","pages":"2","year":"1983","type":"Conference and Workshop Papers","key":"conf/sigmod/Bernstein83","doi":"10.1145/582192.582195","ee":"https://doi.org/10.1145/582192.582195","url":"https://dblp.org/rec/conf/sigmod/Bernstein83"},
+"url":"URL#5233333"
+},
+{
+"@score":"1",
+"@id":"5233337",
+"info":{"authors":{"author":{"@pid":"31/3455","text":"Michael J. Carey 0001"}},"title":"An Abstract Model of Database Concurrency Control Algorithms.","venue":"SIGMOD Conference","pages":"97-107","year":"1983","type":"Conference and Workshop Papers","key":"conf/sigmod/Carey83","doi":"10.1145/582192.582211","ee":"https://doi.org/10.1145/582192.582211","url":"https://dblp.org/rec/conf/sigmod/Carey83"},
+"url":"URL#5233337"
+},
+{
+"@score":"1",
+"@id":"5233339",
+"info":{"authors":{"author":[{"@pid":"16/4154","text":"Arvola Chan"},{"@pid":"76/2198","text":"Umeshwar Dayal"},{"@pid":"17/466","text":"Stephen Fox"},{"@pid":"28/4334","text":"Nathan Goodman"},{"@pid":"09/2596","text":"Daniel R. Ries"},{"@pid":"60/5458","text":"Dale Skeen"}]},"title":"Overview of an Ada Compatible Distributed Database Manager.","venue":"SIGMOD Conference","pages":"228-237","year":"1983","type":"Conference and Workshop Papers","key":"conf/sigmod/ChanDFGRS83","doi":"10.1145/582192.582229","ee":"https://doi.org/10.1145/582192.582229","url":"https://dblp.org/rec/conf/sigmod/ChanDFGRS83"},
+"url":"URL#5233339"
+},
+{
+"@score":"1",
+"@id":"5233341",
+"info":{"authors":{"author":{"@pid":"66/2056","text":"Stavros Christodoulakis"}},"title":"Estimating Block Transfers and Join Sizes.","venue":"SIGMOD Conference","pages":"40-54","year":"1983","type":"Conference and Workshop Papers","key":"conf/sigmod/Christodoulakis83","doi":"10.1145/582192.582204","ee":"https://doi.org/10.1145/582192.582204","url":"https://dblp.org/rec/conf/sigmod/Christodoulakis83"},
+"url":"URL#5233341"
+},
+{
+"@score":"1",
+"@id":"5233343",
+"info":{"authors":{"author":[{"@pid":"60/5778","text":"Alessandro D&apos;Atri"},{"@pid":"65/4096","text":"Marina Moscarini"},{"@pid":"s/NicolasSpyratos","text":"Nicolas Spyratos"}]},"title":"Answering Queries in Relational Databases.","venue":"SIGMOD Conference","pages":"173-177","year":"1983","type":"Conference and Workshop Papers","key":"conf/sigmod/DAtriMS83","doi":"10.1145/582192.582221","ee":"https://doi.org/10.1145/582192.582221","url":"https://dblp.org/rec/conf/sigmod/DAtriMS83"},
+"url":"URL#5233343"
+},
+{
+"@score":"1",
+"@id":"5233345",
+"info":{"authors":{"author":{"@pid":"92/5019","text":"C. J. Date"}},"title":"Database Usability (Abstract).","venue":"SIGMOD Conference","pages":"1","year":"1983","type":"Conference and Workshop Papers","key":"conf/sigmod/Date83","doi":"10.1145/582192.582194","ee":"https://doi.org/10.1145/582192.582194","url":"https://dblp.org/rec/conf/sigmod/Date83"},
+"url":"URL#5233345"
+},
+{
+"@score":"1",
+"@id":"5233350",
+"info":{"authors":{"author":{"@pid":"g/JimGray","text":"Jim Gray 0001"}},"title":"Practical Problems in Data Management - A Position Paper.","venue":"SIGMOD Conference","pages":"3","year":"1983","type":"Conference and Workshop Papers","key":"conf/sigmod/Gray83","doi":"10.1145/582192.582196","ee":"https://doi.org/10.1145/582192.582196","url":"https://dblp.org/rec/conf/sigmod/Gray83"},
+"url":"URL#5233350"
+},
+{
+"@score":"1",
+"@id":"5233353",
+"info":{"authors":{"author":[{"@pid":"h/PeterHoneyman","text":"Peter Honeyman"},{"@pid":"44/2304","text":"Edward Sciore"}]},"title":"A New Characterization of Independence.","venue":"SIGMOD Conference","pages":"92-96","year":"1983","type":"Conference and Workshop Papers","key":"conf/sigmod/HoneymanS83","doi":"10.1145/582192.582209","ee":"https://doi.org/10.1145/582192.582209","url":"https://dblp.org/rec/conf/sigmod/HoneymanS83"},
+"url":"URL#5233353"
+},
+{
+"@score":"1",
+"@id":"5233354",
+"info":{"authors":{"author":[{"@pid":"i/TomaszImielinski","text":"Tomasz Imielinski"},{"@pid":"80/3449","text":"Witold Lipski Jr."}]},"title":"Incomplete Information and Dependencies in Relational Databases.","venue":"SIGMOD Conference","pages":"178-184","year":"1983","type":"Conference and Workshop Papers","key":"conf/sigmod/ImielinskiL83","doi":"10.1145/582192.582222","ee":"https://doi.org/10.1145/582192.582222","url":"https://dblp.org/rec/conf/sigmod/ImielinskiL83"},
+"url":"URL#5233354"
+},
+{
+"@score":"1",
+"@id":"5233355",
+"info":{"authors":{"author":[{"@pid":"j/MatthiasJarke","text":"Matthias Jarke"},{"@pid":"00/2557","text":"Jürgen Koch"}]},"title":"Range Nesting - A Fast Method to Evaluate Quantified Queries.","venue":"SIGMOD Conference","pages":"196-206","year":"1983","type":"Conference and Workshop Papers","key":"conf/sigmod/JarkeK83","doi":"10.1145/582192.582225","ee":"https://doi.org/10.1145/582192.582225","url":"https://dblp.org/rec/conf/sigmod/JarkeK83"},
+"url":"URL#5233355"
+},
+{
+"@score":"1",
+"@id":"5233358",
+"info":{"authors":{"author":[{"@pid":"k/YahikoKambayashi","text":"Yahiko Kambayashi"},{"@pid":"y/MasatoshiYoshikawa","text":"Masatoshi Yoshikawa"}]},"title":"Query Processing Utilizing Dependencies and Horizontal Decomposition.","venue":"SIGMOD Conference","pages":"55-67","year":"1983","type":"Conference and Workshop Papers","key":"conf/sigmod/KambayashiY83","doi":"10.1145/582192.582205","ee":"https://doi.org/10.1145/582192.582205","url":"https://dblp.org/rec/conf/sigmod/KambayashiY83"},
+"url":"URL#5233358"
+},
+{
+"@score":"1",
+"@id":"5233360",
+"info":{"authors":{"author":[{"@pid":"27/1695","text":"Walter H. Kohler"},{"@pid":"29/2892","text":"Kenneth C. Wilner"},{"@pid":"s/JohnAStankovic","text":"John A. Stankovic"}]},"title":"An Experimental Comparison of Locking Policies in a Testbed Database System.","venue":"SIGMOD Conference","pages":"108-119","year":"1983","type":"Conference and Workshop Papers","key":"conf/sigmod/KohlerWS83","doi":"10.1145/582192.582212","ee":"https://doi.org/10.1145/582192.582212","url":"https://dblp.org/rec/conf/sigmod/KohlerWS83"},
+"url":"URL#5233360"
+},
+{
+"@score":"1",
+"@id":"5233361",
+"info":{"authors":{"author":[{"@pid":"36/2009","text":"Sharon McCure Kuck"},{"@pid":"26/5086","text":"Yehoshua Sagiv"}]},"title":"Designing Globally Consistent Network Schemas.","venue":"SIGMOD Conference","pages":"185-195","year":"1983","type":"Conference and Workshop Papers","key":"conf/sigmod/KuckS83","doi":"10.1145/582192.582223","ee":"https://doi.org/10.1145/582192.582223","url":"https://dblp.org/rec/conf/sigmod/KuckS83"},
+"url":"URL#5233361"
+},
+{
+"@score":"1",
+"@id":"5233365",
+"info":{"authors":{"author":[{"@pid":"97/2463","text":"Kent Laver"},{"@pid":"m/AOMendelzon","text":"Alberto O. Mendelzon"},{"@pid":"32/3985","text":"Marc H. Graham"}]},"title":"Functional Dependencies on Cyclic Database Schemes.","venue":"SIGMOD Conference","pages":"79-91","year":"1983","type":"Conference and Workshop Papers","key":"conf/sigmod/LaverMG83","doi":"10.1145/582192.582208","ee":"https://doi.org/10.1145/582192.582208","url":"https://dblp.org/rec/conf/sigmod/LaverMG83"},
+"url":"URL#5233365"
+},
+{
+"@score":"1",
+"@id":"5233368",
+"info":{"authors":{"author":[{"@pid":"21/2457","text":"Guy M. Lohman"},{"@pid":"68/520","text":"Joseph C. Stoltzfus"},{"@pid":"75/6207","text":"Anita N. Benson"},{"@pid":"14/1379","text":"Michael D. Martin"},{"@pid":"c/AFCardenas","text":"Alfonso F. Cardenas"}]},"title":"Remotely-Sensed Geophysical Databases - Experience and Implications for Generalized DBMS.","venue":"SIGMOD Conference","pages":"146-160","year":"1983","type":"Conference and Workshop Papers","key":"conf/sigmod/LohmanSBMC83","doi":"10.1145/582192.582218","ee":"https://doi.org/10.1145/582192.582218","url":"https://dblp.org/rec/conf/sigmod/LohmanSBMC83"},
+"url":"URL#5233368"
+},
+{
+"@score":"1",
+"@id":"5233369",
+"info":{"authors":{"author":{"@pid":"l/DavidBLomet","text":"David B. Lomet"}},"title":"A High Performance, Universal, Key Associative Access Method.","venue":"SIGMOD Conference","pages":"120-133","year":"1983","type":"Conference and Workshop Papers","key":"conf/sigmod/Lomet83","doi":"10.1145/582192.582213","ee":"https://doi.org/10.1145/582192.582213","url":"https://dblp.org/rec/conf/sigmod/Lomet83"},
+"url":"URL#5233369"
+},
+{
+"@score":"1",
+"@id":"5233371",
+"info":{"authors":{"author":[{"@pid":"m/DavidMaier","text":"David Maier 0001"},{"@pid":"72/5303","text":"David Rozenshtein"},{"@pid":"w/DavidScottWarren","text":"David Scott Warren"}]},"title":"Windows on the World.","venue":"SIGMOD Conference","pages":"68-78","year":"1983","type":"Conference and Workshop Papers","key":"conf/sigmod/MaierRW83","doi":"10.1145/582192.582207","ee":"https://doi.org/10.1145/582192.582207","url":"https://dblp.org/rec/conf/sigmod/MaierRW83"},
+"url":"URL#5233371"
+},
+{
+"@score":"1",
+"@id":"5233372",
+"info":{"authors":{"author":[{"@pid":"m/DavidMaier","text":"David Maier 0001"},{"@pid":"u/JeffreyDUllman","text":"Jeffrey D. Ullman"}]},"title":"Fragments of Relations.","venue":"SIGMOD Conference","pages":"15-22","year":"1983","type":"Conference and Workshop Papers","key":"conf/sigmod/MaierU83","doi":"10.1145/582192.582200","ee":"https://doi.org/10.1145/582192.582200","url":"https://dblp.org/rec/conf/sigmod/MaierU83"},
+"url":"URL#5233372"
+},
+{
+"@score":"1",
+"@id":"5233376",
+"info":{"authors":{"author":[{"@pid":"m/MMissikoff","text":"Michele Missikoff"},{"@pid":"s/MichelScholl","text":"Michel Scholl"}]},"title":"Relational Queries in a Domain Based DBMS.","venue":"SIGMOD Conference","pages":"219-227","year":"1983","type":"Conference and Workshop Papers","key":"conf/sigmod/MissikoffS83","doi":"10.1145/582192.582227","ee":"https://doi.org/10.1145/582192.582227","url":"https://dblp.org/rec/conf/sigmod/MissikoffS83"},
+"url":"URL#5233376"
+},
+{
+"@score":"1",
+"@id":"5233377",
+"info":{"authors":{"author":{"@pid":"n/ErichJNeuhold","text":"Erich J. Neuhold"}},"title":"Views on Data Management.","venue":"SIGMOD Conference","pages":"4-5","year":"1983","type":"Conference and Workshop Papers","key":"conf/sigmod/Neuhold83","doi":"10.1145/582192.582197","ee":"https://doi.org/10.1145/582192.582197","url":"https://dblp.org/rec/conf/sigmod/Neuhold83"},
+"url":"URL#5233377"
+},
+{
+"@score":"1",
+"@id":"5233384",
+"info":{"authors":{"author":{"@pid":"r/NeilCRowe","text":"Neil C. Rowe"}},"title":"Top-Down Statistical Estimation on a Database.","venue":"SIGMOD Conference","pages":"135-145","year":"1983","type":"Conference and Workshop Papers","key":"conf/sigmod/Rowe83","doi":"10.1145/582192.582217","ee":"https://doi.org/10.1145/582192.582217","url":"https://dblp.org/rec/conf/sigmod/Rowe83"},
+"url":"URL#5233384"
+},
+{
+"@score":"1",
+"@id":"5233385",
+"info":{"authors":{"author":[{"@pid":"26/2804","text":"Nan C. Shu"},{"@pid":"49/144","text":"Harry K. T. Wong"},{"@pid":"52/4777","text":"Vincent Y. Lum"}]},"title":"Forms Approach to Requirements Specification for Database Design.","venue":"SIGMOD Conference","pages":"161-172","year":"1983","type":"Conference and Workshop Papers","key":"conf/sigmod/ShuWL83","doi":"10.1145/582192.582219","ee":"https://doi.org/10.1145/582192.582219","url":"https://dblp.org/rec/conf/sigmod/ShuWL83"},
+"url":"URL#5233385"
+},
+{
+"@score":"1",
+"@id":"5233386",
+"info":{"authors":{"author":{"@pid":"s/MichaelStonebraker","text":"Michael Stonebraker"}},"title":"DBMS and AI - Is There any Common Point of View?","venue":"SIGMOD Conference","pages":"134","year":"1983","type":"Conference and Workshop Papers","key":"conf/sigmod/Stonebraker83","doi":"10.1145/582192.582215","ee":"https://doi.org/10.1145/582192.582215","url":"https://dblp.org/rec/conf/sigmod/Stonebraker83"},
+"url":"URL#5233386"
+},
+{
+"@score":"1",
+"@id":"5233392",
+"info":{"authors":{"author":[{"@pid":"00/708","text":"Paul F. Wilms"},{"@pid":"l/BruceGLindsay1","text":"Bruce G. Lindsay 0001"},{"@pid":"48/1954","text":"Patricia G. Selinger"}]},"title":"&quot;I wish I were over there&quot; - Distributed Execution Protocols for Data Definition in R*.","venue":"SIGMOD Conference","pages":"238-242","year":"1983","type":"Conference and Workshop Papers","key":"conf/sigmod/WilmsLS83","doi":"10.1145/582192.582230","ee":"https://doi.org/10.1145/582192.582230","url":"https://dblp.org/rec/conf/sigmod/WilmsLS83"},
+"url":"URL#5233392"
+},
+{
+"@score":"1",
+"@id":"5233393",
+"info":{"authors":{"author":[{"@pid":"95/2864","text":"Eugene Wong 0001"},{"@pid":"k/RandyHKatz","text":"Randy H. Katz"}]},"title":"Distributing A Database for Parallelism.","venue":"SIGMOD Conference","pages":"23-29","year":"1983","type":"Conference and Workshop Papers","key":"conf/sigmod/WongK83","doi":"10.1145/582192.582201","ee":"https://doi.org/10.1145/582192.582201","url":"https://dblp.org/rec/conf/sigmod/WongK83"},
+"url":"URL#5233393"
+},
+{
+"@score":"1",
+"@id":"5233394",
+"info":{"authors":{"author":{"@pid":"69/2088","text":"David D. Wright"}},"title":"On Merging Partitioned Databases.","venue":"SIGMOD Conference","pages":"6-14","year":"1983","type":"Conference and Workshop Papers","key":"conf/sigmod/Wright83","doi":"10.1145/582192.582199","ee":"https://doi.org/10.1145/582192.582199","url":"https://dblp.org/rec/conf/sigmod/Wright83"},
+"url":"URL#5233394"
+},
+{
+"@score":"1",
+"@id":"5233395",
+"info":{"authors":{"author":[{"@pid":"y/ClementTYu","text":"Clement T. Yu"},{"@pid":"75/1660","text":"C. C. Chang"}]},"title":"On the Design of a Query Processing Strategy in a Distributed Database Environment.","venue":"SIGMOD Conference","pages":"30-39","year":"1983","type":"Conference and Workshop Papers","key":"conf/sigmod/YuC83","doi":"10.1145/582192.582203","ee":"https://doi.org/10.1145/582192.582203","url":"https://dblp.org/rec/conf/sigmod/YuC83"},
+"url":"URL#5233395"
+},
+{
+"@score":"1",
+"@id":"5233396",
+"info":{"authors":{"author":{"@pid":"z/CZaniolo","text":"Carlo Zaniolo"}},"title":"The Database Language GEM.","venue":"SIGMOD Conference","pages":"207-218","year":"1983","type":"Conference and Workshop Papers","key":"conf/sigmod/Zaniolo83","doi":"10.1145/582192.582226","ee":"https://doi.org/10.1145/582192.582226","url":"https://dblp.org/rec/conf/sigmod/Zaniolo83"},
+"url":"URL#5233396"
+},
+{
+"@score":"1",
+"@id":"5233993",
+"info":{"authors":{"author":[{"@pid":"d/DJDeWitt","text":"David J. DeWitt"},{"@pid":"g/GeorgesGardarin","text":"Georges Gardarin"}]},"title":"SIGMOD&apos;83, Proceedings of Annual Meeting, San Jose, California, USA, May 23-26, 1983.","publisher":"ACM Press","year":"1983","type":"Editorship","key":"conf/sigmod/83","url":"https://dblp.org/rec/conf/sigmod/83"},
+"url":"URL#5233993"
+}
+]
+}
 }
 }

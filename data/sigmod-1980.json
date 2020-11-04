@@ -1,23 +1,176 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"sigmod\"/\"sigmod1980\".\"bht",
+"query":":facetid:toc:db\"/\"conf\"/\"sigmod\"/\"sigmod80\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.51"
+"text":"107.20"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"24",
+"@dc":"24",
+"@oc":"24",
+"@id":"17205147",
+"text":":facetid:toc:db/conf/sigmod/sigmod80.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"24",
+"@computed":"24",
+"@sent":"24",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"5258290",
+"info":{"authors":{"author":[{"@pid":"58/17","text":"James E. Allchin"},{"@pid":"29/3467","text":"Arthur M. Keller"},{"@pid":"w/GioWiederhold","text":"Gio Wiederhold"}]},"title":"FLASH - A Language-Independent, Portable File Access System.","venue":"SIGMOD Conference","pages":"151-156","year":"1980","type":"Conference and Workshop Papers","key":"conf/sigmod/AllchinKW80","doi":"10.1145/582250.582274","ee":"https://doi.org/10.1145/582250.582274","url":"https://dblp.org/rec/conf/sigmod/AllchinKW80"},
+"url":"URL#5258290"
+},
+{
+"@score":"1",
+"@id":"5258294",
+"info":{"authors":{"author":[{"@pid":"28/718","text":"François Bancilhon"},{"@pid":"s/MichelScholl","text":"Michel Scholl"}]},"title":"On Designing an I/O Processor for a Relational Data Base Machine.","venue":"SIGMOD Conference","pages":"93-93g","year":"1980","type":"Conference and Workshop Papers","key":"conf/sigmod/BancilhonS80","doi":"10.1145/582250.582265","ee":"https://doi.org/10.1145/582250.582265","url":"https://dblp.org/rec/conf/sigmod/BancilhonS80"},
+"url":"URL#5258294"
+},
+{
+"@score":"1",
+"@id":"5258297",
+"info":{"authors":{"author":[{"@pid":"75/2562","text":"Haran Boral"},{"@pid":"d/DJDeWitt","text":"David J. DeWitt"}]},"title":"Design Considerations for Data-flow Database Machines.","venue":"SIGMOD Conference","pages":"94-104","year":"1980","type":"Conference and Workshop Papers","key":"conf/sigmod/BoralD80","doi":"10.1145/582250.582266","ee":"https://doi.org/10.1145/582250.582266","url":"https://dblp.org/rec/conf/sigmod/BoralD80"},
+"url":"URL#5258297"
+},
+{
+"@score":"1",
+"@id":"5258302",
+"info":{"authors":{"author":{"@pid":"51/3766","text":"John F. Burger"}},"title":"Semantic Database Mapping in EUFID.","venue":"SIGMOD Conference","pages":"67-74","year":"1980","type":"Conference and Workshop Papers","key":"conf/sigmod/Burger80","doi":"10.1145/582250.582262","ee":"https://doi.org/10.1145/582250.582262","url":"https://dblp.org/rec/conf/sigmod/Burger80"},
+"url":"URL#5258302"
+},
+{
+"@score":"1",
+"@id":"5258305",
+"info":{"authors":{"author":{"@pid":"67/2932","text":"R. G. G. Cattell"}},"title":"An Entity-based Database User Interface.","venue":"SIGMOD Conference","pages":"144-150","year":"1980","type":"Conference and Workshop Papers","key":"conf/sigmod/Cattell80","doi":"10.1145/582250.582273","ee":"https://doi.org/10.1145/582250.582273","url":"https://dblp.org/rec/conf/sigmod/Cattell80"},
+"url":"URL#5258305"
+},
+{
+"@score":"1",
+"@id":"5258307",
+"info":{"authors":{"author":[{"@pid":"99/4354","text":"Jo-Mei Chang"},{"@pid":"53/198","text":"King-sun Fu"}]},"title":"A Dynamic Clustering Technique for Physical Database Design.","venue":"SIGMOD Conference","pages":"188-199","year":"1980","type":"Conference and Workshop Papers","key":"conf/sigmod/ChangF80","doi":"10.1145/582250.582280","ee":"https://doi.org/10.1145/582250.582280","url":"https://dblp.org/rec/conf/sigmod/ChangF80"},
+"url":"URL#5258307"
+},
+{
+"@score":"1",
+"@id":"5258308",
+"info":{"authors":{"author":[{"@pid":"c/ChinChenChang","text":"Chin-Chen Chang 0001"},{"@pid":"l/RichardCTLee","text":"Richard C. T. Lee"},{"@pid":"d/DHCDu","text":"David Hung-Chang Du"}]},"title":"Some Properties of Cartesian Product Files.","venue":"SIGMOD Conference","pages":"157-168","year":"1980","type":"Conference and Workshop Papers","key":"conf/sigmod/ChangLD80","doi":"10.1145/582250.582276","ee":"https://doi.org/10.1145/582250.582276","url":"https://dblp.org/rec/conf/sigmod/ChangLD80"},
+"url":"URL#5258308"
+},
+{
+"@score":"1",
+"@id":"5258309",
+"info":{"authors":{"author":[{"@pid":"87/4870","text":"D. M. Chiu"},{"@pid":"82/3624","text":"Yu-Chi Ho"}]},"title":"A Methodology for Interpreting Tree Queries Into Optimal Semi-Join Expressions.","venue":"SIGMOD Conference","pages":"169-178","year":"1980","type":"Conference and Workshop Papers","key":"conf/sigmod/ChiuH80","doi":"10.1145/582250.582277","ee":"https://doi.org/10.1145/582250.582277","url":"https://dblp.org/rec/conf/sigmod/ChiuH80"},
+"url":"URL#5258309"
+},
+{
+"@score":"1",
+"@id":"5258316",
+"info":{"authors":{"author":[{"@pid":"d/ADogac","text":"Asuman Dogac"},{"@pid":"75/1313","text":"Esen A. Ozkarahan"}]},"title":"A Generalized DBMS Implementation on a Database Machine.","venue":"SIGMOD Conference","pages":"133-143","year":"1980","type":"Conference and Workshop Papers","key":"conf/sigmod/DogacO80","doi":"10.1145/582250.582272","ee":"https://doi.org/10.1145/582250.582272","url":"https://dblp.org/rec/conf/sigmod/DogacO80"},
+"url":"URL#5258316"
+},
+{
+"@score":"1",
+"@id":"5258322",
+"info":{"authors":{"author":[{"@pid":"g/EhudGudes","text":"Ehud Gudes"},{"@pid":"t/ShalomTsur","text":"Shalom Tsur"}]},"title":"Experiments with B-Tree Reorganization.","venue":"SIGMOD Conference","pages":"200-206","year":"1980","type":"Conference and Workshop Papers","key":"conf/sigmod/GudesT80","doi":"10.1145/582250.582281","ee":"https://doi.org/10.1145/582250.582281","url":"https://dblp.org/rec/conf/sigmod/GudesT80"},
+"url":"URL#5258322"
+},
+{
+"@score":"1",
+"@id":"5258323",
+"info":{"authors":{"author":[{"@pid":"46/4470","text":"Michael Hammer"},{"@pid":"98/5739","text":"Brian Berkowitz"}]},"title":"DIAL - A Programming Language for Data Intensive Applications.","venue":"SIGMOD Conference","pages":"75-92","year":"1980","type":"Conference and Workshop Papers","key":"conf/sigmod/HammerB80","doi":"10.1145/582250.582263","ee":"https://doi.org/10.1145/582250.582263","url":"https://dblp.org/rec/conf/sigmod/HammerB80"},
+"url":"URL#5258323"
+},
+{
+"@score":"1",
+"@id":"5258330",
+"info":{"authors":{"author":[{"@pid":"k/RandyHKatz","text":"Randy H. Katz"},{"@pid":"95/2864","text":"Eugene Wong 0001"}]},"title":"An Access Path Model for Physical Database Design.","venue":"SIGMOD Conference","pages":"22-29","year":"1980","type":"Conference and Workshop Papers","key":"conf/sigmod/KatzW80","doi":"10.1145/582250.582254","ee":"https://doi.org/10.1145/582250.582254","url":"https://dblp.org/rec/conf/sigmod/KatzW80"},
+"url":"URL#5258330"
+},
+{
+"@score":"1",
+"@id":"5258332",
+"info":{"authors":{"author":{"@pid":"86/2627-1","text":"Won Kim 0001"}},"title":"A New Way to Compute the Product and Join of Relations.","venue":"SIGMOD Conference","pages":"179-187","year":"1980","type":"Conference and Workshop Papers","key":"conf/sigmod/Kim80","doi":"10.1145/582250.582278","ee":"https://doi.org/10.1145/582250.582278","url":"https://dblp.org/rec/conf/sigmod/Kim80"},
+"url":"URL#5258332"
+},
+{
+"@score":"1",
+"@id":"5258335",
+"info":{"authors":{"author":[{"@pid":"k/HTKung","text":"H. T. Kung 0001"},{"@pid":"78/2438","text":"Philip L. Lehman"}]},"title":"Systolic (VLSI) Arrays for Relational Database Operations.","venue":"SIGMOD Conference","pages":"105-116","year":"1980","type":"Conference and Workshop Papers","key":"conf/sigmod/KungL80","doi":"10.1145/582250.582267","ee":"https://doi.org/10.1145/582250.582267","url":"https://dblp.org/rec/conf/sigmod/KungL80"},
+"url":"URL#5258335"
+},
+{
+"@score":"1",
+"@id":"5258336",
+"info":{"authors":{"author":[{"@pid":"30/47","text":"Yat-Sang Kwong"},{"@pid":"w/DerickWood","text":"Derick Wood"}]},"title":"On B-Trees - Routing Schemes and Concurrency.","venue":"SIGMOD Conference","pages":"207-211","year":"1980","type":"Conference and Workshop Papers","key":"conf/sigmod/KwongW80","doi":"10.1145/582250.582282","ee":"https://doi.org/10.1145/582250.582282","url":"https://dblp.org/rec/conf/sigmod/KwongW80"},
+"url":"URL#5258336"
+},
+{
+"@score":"1",
+"@id":"5258338",
+"info":{"authors":{"author":[{"@pid":"51/2495","text":"K. Lam"},{"@pid":"y/ClementTYu","text":"Clement T. Yu"}]},"title":"An Approximation Algorithm for a File-Allocation Problem in a Hierarchical Distributed System.","venue":"SIGMOD Conference","pages":"125-132","year":"1980","type":"Conference and Workshop Papers","key":"conf/sigmod/LamY80","doi":"10.1145/582250.582270","ee":"https://doi.org/10.1145/582250.582270","url":"https://dblp.org/rec/conf/sigmod/LamY80"},
+"url":"URL#5258338"
+},
+{
+"@score":"1",
+"@id":"5258342",
+"info":{"authors":{"author":{"@pid":"82/5403","text":"Mary E. S. Loomis"}},"title":"The 78 CODASYL Database Model - A Comparison with Preceding Specifications.","venue":"SIGMOD Conference","pages":"30-44","year":"1980","type":"Conference and Workshop Papers","key":"conf/sigmod/Loomis80","doi":"10.1145/582250.582256","ee":"https://doi.org/10.1145/582250.582256","url":"https://dblp.org/rec/conf/sigmod/Loomis80"},
+"url":"URL#5258342"
+},
+{
+"@score":"1",
+"@id":"5258344",
+"info":{"authors":{"author":[{"@pid":"l/EwingLLusk","text":"Ewing L. Lusk"},{"@pid":"o/RossAOverbeek","text":"Ross A. Overbeek"},{"@pid":"78/160","text":"Bruce D. Parrello"}]},"title":"A Practical Design Methodology for the Implementation of IMS Databases, Using the Entity-Relationship Model.","venue":"SIGMOD Conference","pages":"9-21","year":"1980","type":"Conference and Workshop Papers","key":"conf/sigmod/LuskOP80","doi":"10.1145/582250.582253","ee":"https://doi.org/10.1145/582250.582253","url":"https://dblp.org/rec/conf/sigmod/LuskOP80"},
+"url":"URL#5258344"
+},
+{
+"@score":"1",
+"@id":"5258346",
+"info":{"authors":{"author":[{"@pid":"12/1996","text":"Yutaka Matsushita"},{"@pid":"47/5343","text":"Haruaki Yamazaki"},{"@pid":"73/5151","text":"Sadayuki Hikita"},{"@pid":"66/5264","text":"Isamu Yoshida"}]},"title":"Cost Evaluation of Directory Management Schemes for Distributed Database Systems.","venue":"SIGMOD Conference","pages":"117-124","year":"1980","type":"Conference and Workshop Papers","key":"conf/sigmod/MatsushitaYHY80","doi":"10.1145/582250.582269","ee":"https://doi.org/10.1145/582250.582269","url":"https://dblp.org/rec/conf/sigmod/MatsushitaYHY80"},
+"url":"URL#5258346"
+},
+{
+"@score":"1",
+"@id":"5258362",
+"info":{"authors":{"author":[{"@pid":"p/DSParkerJr","text":"Douglas Stott Parker Jr."},{"@pid":"49/3842","text":"Kamran Parsaye-Ghomi"}]},"title":"Inferences Involving Embedded Multivalued Dependencies and Transitive Dependencies.","venue":"SIGMOD Conference","pages":"52-57","year":"1980","type":"Conference and Workshop Papers","key":"conf/sigmod/ParkerP80","doi":"10.1145/582250.582259","ee":"https://doi.org/10.1145/582250.582259","url":"https://dblp.org/rec/conf/sigmod/ParkerP80"},
+"url":"URL#5258362"
+},
+{
+"@score":"1",
+"@id":"5258371",
+"info":{"authors":{"author":[{"@pid":"s/FereidoonSadri","text":"Fereidoon Sadri"},{"@pid":"u/JeffreyDUllman","text":"Jeffrey D. Ullman"}]},"title":"The Interaction between Functional Dependencies and Template Dependencies.","venue":"SIGMOD Conference","pages":"45-51","year":"1980","type":"Conference and Workshop Papers","key":"conf/sigmod/SadriU80","doi":"10.1145/582250.582258","ee":"https://doi.org/10.1145/582250.582258","url":"https://dblp.org/rec/conf/sigmod/SadriU80"},
+"url":"URL#5258371"
+},
+{
+"@score":"1",
+"@id":"5258372",
+"info":{"authors":{"author":{"@pid":"11/1941","text":"Hirotaka Sakai"}},"title":"Entity-Relationship Approach to the Conceptual Schema Design.","venue":"SIGMOD Conference","pages":"1-8","year":"1980","type":"Conference and Workshop Papers","key":"conf/sigmod/Sakai80","doi":"10.1145/582250.582252","ee":"https://doi.org/10.1145/582250.582252","url":"https://dblp.org/rec/conf/sigmod/Sakai80"},
+"url":"URL#5258372"
+},
+{
+"@score":"1",
+"@id":"5258381",
+"info":{"authors":{"author":[{"@pid":"s/MichaelStonebraker","text":"Michael Stonebraker"},{"@pid":"22/1581","text":"Kenneth Keller"}]},"title":"Embedding Expert Knowledge and Hypothetical Data Bases Into a Data Base System.","venue":"SIGMOD Conference","pages":"58-66","year":"1980","type":"Conference and Workshop Papers","key":"conf/sigmod/StonebrakerK80","doi":"10.1145/582250.582261","ee":"https://doi.org/10.1145/582250.582261","url":"https://dblp.org/rec/conf/sigmod/StonebrakerK80"},
+"url":"URL#5258381"
+},
+{
+"@score":"1",
+"@id":"5258747",
+"info":{"authors":{"author":[{"@pid":"c/PPChen","text":"Peter P. Chen"},{"@pid":"65/6045","text":"R. Clay Sprowls"}]},"title":"Proceedings of the 1980 ACM SIGMOD International Conference on Management of Data, Santa Monica, California, USA, May 14-16, 1980.","publisher":"ACM Press","year":"1980","type":"Editorship","key":"conf/sigmod/80","url":"https://dblp.org/rec/conf/sigmod/80"},
+"url":"URL#5258747"
+}
+]
+}
 }
 }

@@ -1,23 +1,260 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"sigmod\"/\"sigmod1986\".\"bht",
+"query":":facetid:toc:db\"/\"conf\"/\"sigmod\"/\"sigmod86\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.33"
+"text":"111.78"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"38",
+"@dc":"38",
+"@oc":"38",
+"@id":"17205153",
+"text":":facetid:toc:db/conf/sigmod/sigmod86.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"38",
+"@computed":"38",
+"@sent":"38",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"5198048",
+"info":{"authors":{"author":[{"@pid":"41/5076","text":"Ilsoo Ahn"},{"@pid":"s/RichardTSnodgrass","text":"Richard T. Snodgrass"}]},"title":"Performance Evaluation of a Temporal Database Management System.","venue":"SIGMOD Conference","pages":"96-107","year":"1986","type":"Conference and Workshop Papers","key":"conf/sigmod/AhnS86","doi":"10.1145/16894.16864","ee":"https://doi.org/10.1145/16894.16864","url":"https://dblp.org/rec/conf/sigmod/AhnS86"},
+"url":"URL#5198048"
+},
+{
+"@score":"1",
+"@id":"5198049",
+"info":{"authors":{"author":[{"@pid":"32/5577","text":"T. Lougenia Anderson"},{"@pid":"93/2221","text":"Gad Ariav"}]},"title":"User Interfaces and Database Management Systems.","venue":"SIGMOD Conference","pages":"293-294","year":"1986","type":"Conference and Workshop Papers","key":"conf/sigmod/AndersonA86","doi":"10.1145/16894.16883","ee":"https://doi.org/10.1145/16894.16883","url":"https://dblp.org/rec/conf/sigmod/AndersonA86"},
+"url":"URL#5198049"
+},
+{
+"@score":"1",
+"@id":"5198050",
+"info":{"authors":{"author":[{"@pid":"28/718","text":"François Bancilhon"},{"@pid":"r/RaghuRamakrishnan","text":"Raghu Ramakrishnan"}]},"title":"An Amateur&apos;s Introduction to Recursive Query Processing Strategies.","venue":"SIGMOD Conference","pages":"16-52","year":"1986","type":"Conference and Workshop Papers","key":"conf/sigmod/BancilhonR86","doi":"10.1145/16894.16859","ee":"https://doi.org/10.1145/16894.16859","url":"https://dblp.org/rec/conf/sigmod/BancilhonR86"},
+"url":"URL#5198050"
+},
+{
+"@score":"1",
+"@id":"5198051",
+"info":{"authors":{"author":[{"@pid":"b/DSBatory","text":"Don S. Batory"},{"@pid":"57/3783","text":"Michael V. Mannino"}]},"title":"Panel on Extensible Database Systems.","venue":"SIGMOD Conference","pages":"187-190","year":"1986","type":"Conference and Workshop Papers","key":"conf/sigmod/BatoryM86","doi":"10.1145/16894.16873","ee":"https://doi.org/10.1145/16894.16873","url":"https://dblp.org/rec/conf/sigmod/BatoryM86"},
+"url":"URL#5198051"
+},
+{
+"@score":"1",
+"@id":"5198052",
+"info":{"authors":{"author":[{"@pid":"b/JBiskup","text":"Joachim Biskup"},{"@pid":"63/4803","text":"Bernhard Convent"}]},"title":"A Formal View Integration Method.","venue":"SIGMOD Conference","pages":"398-407","year":"1986","type":"Conference and Workshop Papers","key":"conf/sigmod/BiskupC86","doi":"10.1145/16894.16893","ee":"https://doi.org/10.1145/16894.16893","url":"https://dblp.org/rec/conf/sigmod/BiskupC86"},
+"url":"URL#5198052"
+},
+{
+"@score":"1",
+"@id":"5198053",
+"info":{"authors":{"author":{"@pid":"03/2311","text":"Dina Bitton"}},"title":"The Effect of Large Main memory on Database Systems.","venue":"SIGMOD Conference","pages":"337-339","year":"1986","type":"Conference and Workshop Papers","key":"conf/sigmod/Bitton86","doi":"10.1145/16894.16887","ee":"https://doi.org/10.1145/16894.16887","url":"https://dblp.org/rec/conf/sigmod/Bitton86"},
+"url":"URL#5198053"
+},
+{
+"@score":"1",
+"@id":"5198054",
+"info":{"authors":{"author":[{"@pid":"79/2594","text":"José A. Blakeley"},{"@pid":"l/PALarson","text":"Per-Åke Larson"},{"@pid":"t/FrankWmTompa","text":"Frank Wm. Tompa"}]},"title":"Efficiently Updating Materialized Views.","venue":"SIGMOD Conference","pages":"61-71","year":"1986","type":"Conference and Workshop Papers","key":"conf/sigmod/BlakeleyLT86","doi":"10.1145/16894.16861","ee":"https://doi.org/10.1145/16894.16861","url":"https://dblp.org/rec/conf/sigmod/BlakeleyLT86"},
+"url":"URL#5198054"
+},
+{
+"@score":"1",
+"@id":"5198055",
+"info":{"authors":{"author":{"@pid":"97/6001","text":"Jorge B. Bocca"}},"title":"On the Evaluation Strategy of EDUCE.","venue":"SIGMOD Conference","pages":"368-378","year":"1986","type":"Conference and Workshop Papers","key":"conf/sigmod/Bocca86","doi":"10.1145/16894.16890","ee":"https://doi.org/10.1145/16894.16890","url":"https://dblp.org/rec/conf/sigmod/Bocca86"},
+"url":"URL#5198055"
+},
+{
+"@score":"1",
+"@id":"5198056",
+"info":{"authors":{"author":{"@pid":"75/2562","text":"Haran Boral"}},"title":"Database System Performance Measurement.","venue":"SIGMOD Conference","pages":"153-154","year":"1986","type":"Conference and Workshop Papers","key":"conf/sigmod/Boral86","doi":"10.1145/16894.16869","ee":"https://doi.org/10.1145/16894.16869","url":"https://dblp.org/rec/conf/sigmod/Boral86"},
+"url":"URL#5198056"
+},
+{
+"@score":"1",
+"@id":"5198057",
+"info":{"authors":{"author":[{"@pid":"b/PeterBuneman","text":"Peter Buneman"},{"@pid":"a/MalcolmPAtkinson","text":"Malcolm P. Atkinson"}]},"title":"Inheritance and Persistence in Database Programming Languages.","venue":"SIGMOD Conference","pages":"4-15","year":"1986","type":"Conference and Workshop Papers","key":"conf/sigmod/BunemanA86","doi":"10.1145/16894.16858","ee":"https://doi.org/10.1145/16894.16858","url":"https://dblp.org/rec/conf/sigmod/BunemanA86"},
+"url":"URL#5198057"
+},
+{
+"@score":"1",
+"@id":"5198058",
+"info":{"authors":{"author":[{"@pid":"31/3455","text":"Michael J. Carey 0001"},{"@pid":"l/HongjunLu","text":"Hongjun Lu"}]},"title":"Load Balancing in a Locally Distributed Database System.","venue":"SIGMOD Conference","pages":"108-119","year":"1986","type":"Conference and Workshop Papers","key":"conf/sigmod/CareyL86","doi":"10.1145/16894.16865","ee":"https://doi.org/10.1145/16894.16865","url":"https://dblp.org/rec/conf/sigmod/CareyL86"},
+"url":"URL#5198058"
+},
+{
+"@score":"1",
+"@id":"5198059",
+"info":{"authors":{"author":{"@pid":"00/536","text":"Qiming Chen"}},"title":"A Rule-Based Object/Task Modelling Approach.","venue":"SIGMOD Conference","pages":"281-292","year":"1986","type":"Conference and Workshop Papers","key":"conf/sigmod/Chen86","doi":"10.1145/16894.16882","ee":"https://doi.org/10.1145/16894.16882","url":"https://dblp.org/rec/conf/sigmod/Chen86"},
+"url":"URL#5198059"
+},
+{
+"@score":"1",
+"@id":"5198060",
+"info":{"authors":{"author":[{"@pid":"66/2056","text":"Stavros Christodoulakis"},{"@pid":"42/2421","text":"F. Ho"},{"@pid":"66/1350","text":"M. Theodoridou"}]},"title":"The Multimedia Object Presentation Manager of MINOS - A Symmetric Approach.","venue":"SIGMOD Conference","pages":"295-310","year":"1986","type":"Conference and Workshop Papers","key":"conf/sigmod/ChrstodoulakisHT86","doi":"10.1145/16894.16884","ee":"https://doi.org/10.1145/16894.16884","url":"https://dblp.org/rec/conf/sigmod/ChrstodoulakisHT86"},
+"url":"URL#5198060"
+},
+{
+"@score":"1",
+"@id":"5198061",
+"info":{"authors":{"author":[{"@pid":"d/PDadam","text":"Peter Dadam"},{"@pid":"k/KKuspert","text":"Klaus Küspert"},{"@pid":"92/52","text":"F. Andersen"},{"@pid":"32/6205","text":"Henk M. Blanken"},{"@pid":"63/3462","text":"R. Erbe"},{"@pid":"95/1922","text":"Jürgen Günauer"},{"@pid":"52/4777","text":"Vincent Y. Lum"},{"@pid":"18/3138","text":"Peter Pistor"},{"@pid":"80/1573","text":"Georg Walch"}]},"title":"A DBMS Prototype to Support Extended NF2 Relations - An Integrated View on Flat Tables and Hierarchies.","venue":"SIGMOD Conference","pages":"356-367","year":"1986","type":"Conference and Workshop Papers","key":"conf/sigmod/DadamKABEGLPW86","doi":"10.1145/16894.16889","ee":"https://doi.org/10.1145/16894.16889","url":"https://dblp.org/rec/conf/sigmod/DadamKABEGLPW86"},
+"url":"URL#5198061"
+},
+{
+"@score":"1",
+"@id":"5198062",
+"info":{"authors":{"author":[{"@pid":"99/550","text":"Norman M. Delisle"},{"@pid":"13/4535","text":"Mayer D. Schwartz"}]},"title":"Neptune - a Hypertext System for CAD Applications.","venue":"SIGMOD Conference","pages":"132-143","year":"1986","type":"Conference and Workshop Papers","key":"conf/sigmod/DelisleS86","doi":"10.1145/16894.16867","ee":"https://doi.org/10.1145/16894.16867","url":"https://dblp.org/rec/conf/sigmod/DelisleS86"},
+"url":"URL#5198062"
+},
+{
+"@score":"1",
+"@id":"5198063",
+"info":{"authors":{"author":{"@pid":"f/CFaloutsos","text":"Christos Faloutsos"}},"title":"Multiattribute Hashing Using Gray Codes.","venue":"SIGMOD Conference","pages":"227-238","year":"1986","type":"Conference and Workshop Papers","key":"conf/sigmod/Faloutsos86","doi":"10.1145/16894.16877","ee":"https://doi.org/10.1145/16894.16877","url":"https://dblp.org/rec/conf/sigmod/Faloutsos86"},
+"url":"URL#5198063"
+},
+{
+"@score":"1",
+"@id":"5198064",
+"info":{"authors":{"author":[{"@pid":"96/5521","text":"Claude Frasson"},{"@pid":"55/3938","text":"Mohammed Er-radi"}]},"title":"Principles of an Icons-Based Command Language.","venue":"SIGMOD Conference","pages":"144-152","year":"1986","type":"Conference and Workshop Papers","key":"conf/sigmod/FrassonE86","doi":"10.1145/16894.16868","ee":"https://doi.org/10.1145/16894.16868","url":"https://dblp.org/rec/conf/sigmod/FrassonE86"},
+"url":"URL#5198064"
+},
+{
+"@score":"1",
+"@id":"5198065",
+"info":{"authors":{"author":[{"@pid":"f/JCFreytag","text":"Johann Christoph Freytag"},{"@pid":"28/4334","text":"Nathan Goodman"}]},"title":"Rule-Based Translation of Relational Queries into Iterative Programs.","venue":"SIGMOD Conference","pages":"206-214","year":"1986","type":"Conference and Workshop Papers","key":"conf/sigmod/FreytagG86","doi":"10.1145/16894.16875","ee":"https://doi.org/10.1145/16894.16875","url":"https://dblp.org/rec/conf/sigmod/FreytagG86"},
+"url":"URL#5198065"
+},
+{
+"@score":"1",
+"@id":"5198066",
+"info":{"authors":{"author":[{"@pid":"g/GeorgesGardarin","text":"Georges Gardarin"},{"@pid":"78/5517","text":"Christophe de Maindreville"}]},"title":"Evaluation of Database Recursive Logic Programs as Recurrent Function Series.","venue":"SIGMOD Conference","pages":"177-186","year":"1986","type":"Conference and Workshop Papers","key":"conf/sigmod/GardarinM86","doi":"10.1145/16894.16872","ee":"https://doi.org/10.1145/16894.16872","url":"https://dblp.org/rec/conf/sigmod/GardarinM86"},
+"url":"URL#5198066"
+},
+{
+"@score":"1",
+"@id":"5198067",
+"info":{"authors":{"author":{"@pid":"g/AllenVanGelder","text":"Allen Van Gelder"}},"title":"A Message Passing Framework for Logical Query Evaluation.","venue":"SIGMOD Conference","pages":"155-165","year":"1986","type":"Conference and Workshop Papers","key":"conf/sigmod/Gelder86","doi":"10.1145/16894.16870","ee":"https://doi.org/10.1145/16894.16870","url":"https://dblp.org/rec/conf/sigmod/Gelder86"},
+"url":"URL#5198067"
+},
+{
+"@score":"1",
+"@id":"5198068",
+"info":{"authors":{"author":[{"@pid":"h/MehdiTHarandi","text":"Mehdi T. Harandi"},{"@pid":"11/6013","text":"Thierry Schang"},{"@pid":"74/3102","text":"Seth Cohen"}]},"title":"Rule Base Management Using Meta Knowledge.","venue":"SIGMOD Conference","pages":"261-267","year":"1986","type":"Conference and Workshop Papers","key":"conf/sigmod/HarandiSC86","doi":"10.1145/16894.16880","ee":"https://doi.org/10.1145/16894.16880","url":"https://dblp.org/rec/conf/sigmod/HarandiSC86"},
+"url":"URL#5198068"
+},
+{
+"@score":"1",
+"@id":"5198069",
+"info":{"authors":{"author":{"@pid":"i/TomaszImielinski","text":"Tomasz Imielinski"}},"title":"Query Processing in Deductive Databases with Incomplete Information.","venue":"SIGMOD Conference","pages":"268-280","year":"1986","type":"Conference and Workshop Papers","key":"conf/sigmod/Imielinski86","doi":"10.1145/16894.16881","ee":"https://doi.org/10.1145/16894.16881","url":"https://dblp.org/rec/conf/sigmod/Imielinski86"},
+"url":"URL#5198069"
+},
+{
+"@score":"1",
+"@id":"5198070",
+"info":{"authors":{"author":[{"@pid":"k/RandyHKatz","text":"Randy H. Katz"},{"@pid":"20/3536","text":"Ellis E. Chang"},{"@pid":"05/3107","text":"Rajiv Bhateja"}]},"title":"Version Modeling Concepts for Computer-Aided Design Databases.","venue":"SIGMOD Conference","pages":"379-386","year":"1986","type":"Conference and Workshop Papers","key":"conf/sigmod/KatzCB86","doi":"10.1145/16894.16891","ee":"https://doi.org/10.1145/16894.16891","url":"https://dblp.org/rec/conf/sigmod/KatzCB86"},
+"url":"URL#5198070"
+},
+{
+"@score":"1",
+"@id":"5198071",
+"info":{"authors":{"author":[{"@pid":"53/1724","text":"Tobin J. Lehman"},{"@pid":"31/3455","text":"Michael J. Carey 0001"}]},"title":"Query Processing in Main Memory Database Management Systems.","venue":"SIGMOD Conference","pages":"239-250","year":"1986","type":"Conference and Workshop Papers","key":"conf/sigmod/LehmanC86","doi":"10.1145/16894.16878","ee":"https://doi.org/10.1145/16894.16878","url":"https://dblp.org/rec/conf/sigmod/LehmanC86"},
+"url":"URL#5198071"
+},
+{
+"@score":"1",
+"@id":"5198072",
+"info":{"authors":{"author":[{"@pid":"l/BruceGLindsay1","text":"Bruce G. Lindsay 0001"},{"@pid":"h/LauraMHaas","text":"Laura M. Haas"},{"@pid":"m/CMohan","text":"C. Mohan 0001"},{"@pid":"p/HamidPirahesh","text":"Hamid Pirahesh"},{"@pid":"00/708","text":"Paul F. Wilms"}]},"title":"A Snapshot Differential Refresh Algorithm.","venue":"SIGMOD Conference","pages":"53-60","year":"1986","type":"Conference and Workshop Papers","key":"conf/sigmod/LindsayHM86","doi":"10.1145/16894.16860","ee":"https://doi.org/10.1145/16894.16860","url":"https://dblp.org/rec/conf/sigmod/LindsayHM86"},
+"url":"URL#5198072"
+},
+{
+"@score":"1",
+"@id":"5198073",
+"info":{"authors":{"author":{"@pid":"l/UdoWLipeck","text":"Udo W. Lipeck"}},"title":"Stepwise Specification of Dynamic Database Behaviour.","venue":"SIGMOD Conference","pages":"387-397","year":"1986","type":"Conference and Workshop Papers","key":"conf/sigmod/Lipeck86","doi":"10.1145/16894.16892","ee":"https://doi.org/10.1145/16894.16892","url":"https://dblp.org/rec/conf/sigmod/Lipeck86"},
+"url":"URL#5198073"
+},
+{
+"@score":"1",
+"@id":"5198074",
+"info":{"authors":{"author":[{"@pid":"69/473","text":"Lothar F. Mackert"},{"@pid":"21/2457","text":"Guy M. Lohman"}]},"title":"R* Optimizer Validation and Performance Evaluation for Local Queries.","venue":"SIGMOD Conference","pages":"84-95","year":"1986","type":"Conference and Workshop Papers","key":"conf/sigmod/MackertL86","doi":"10.1145/16894.16863","ee":"https://doi.org/10.1145/16894.16863","url":"https://dblp.org/rec/conf/sigmod/MackertL86"},
+"url":"URL#5198074"
+},
+{
+"@score":"1",
+"@id":"5198075",
+"info":{"authors":{"author":[{"@pid":"m/JEliotBMoss","text":"J. Eliot B. Moss"},{"@pid":"45/1479","text":"Nancy D. Griffeth"},{"@pid":"32/3985","text":"Marc H. Graham"}]},"title":"Abstraction in Recovery Management.","venue":"SIGMOD Conference","pages":"72-83","year":"1986","type":"Conference and Workshop Papers","key":"conf/sigmod/MossGG86","doi":"10.1145/16894.16862","ee":"https://doi.org/10.1145/16894.16862","url":"https://dblp.org/rec/conf/sigmod/MossGG86"},
+"url":"URL#5198075"
+},
+{
+"@score":"1",
+"@id":"5198076",
+"info":{"authors":{"author":{"@pid":"m/AmihaiMotro","text":"Amihai Motro"}},"title":"Constructing Queries from Tokens.","venue":"SIGMOD Conference","pages":"120-131","year":"1986","type":"Conference and Workshop Papers","key":"conf/sigmod/Motro86","doi":"10.1145/16894.16866","ee":"https://doi.org/10.1145/16894.16866","url":"https://dblp.org/rec/conf/sigmod/Motro86"},
+"url":"URL#5198076"
+},
+{
+"@score":"1",
+"@id":"5198077",
+"info":{"authors":{"author":{"@pid":"41/4016","text":"Jack A. Orenstein"}},"title":"Spatial Query Processing in an Object-Oriented Database System.","venue":"SIGMOD Conference","pages":"326-336","year":"1986","type":"Conference and Workshop Papers","key":"conf/sigmod/Orenstein86","doi":"10.1145/16894.16886","ee":"https://doi.org/10.1145/16894.16886","url":"https://dblp.org/rec/conf/sigmod/Orenstein86"},
+"url":"URL#5198077"
+},
+{
+"@score":"1",
+"@id":"5198078",
+"info":{"authors":{"author":[{"@pid":"r/ArnonRosenthal","text":"Arnon Rosenthal"},{"@pid":"61/810","text":"Sandra Heiler"},{"@pid":"76/2198","text":"Umeshwar Dayal"},{"@pid":"04/2682","text":"Frank Manola"}]},"title":"Traversal Recursion - A Practical Approach to Supporting Recursive Applications.","venue":"SIGMOD Conference","pages":"166-176","year":"1986","type":"Conference and Workshop Papers","key":"conf/sigmod/RosenthalHDM86","doi":"10.1145/16894.16871","ee":"https://doi.org/10.1145/16894.16871","url":"https://dblp.org/rec/conf/sigmod/RosenthalHDM86"},
+"url":"URL#5198078"
+},
+{
+"@score":"1",
+"@id":"5198079",
+"info":{"authors":{"author":{"@pid":"r/NickRoussopoulos","text":"Nick Roussopoulos"}},"title":"Engineering Information Systems - Builders and Designers Perspective.","venue":"SIGMOD Conference","pages":"1-3","year":"1986","type":"Conference and Workshop Papers","key":"conf/sigmod/Roussopoulos86","doi":"10.1145/16894.16857","ee":"https://doi.org/10.1145/16894.16857","url":"https://dblp.org/rec/conf/sigmod/Roussopoulos86"},
+"url":"URL#5198079"
+},
+{
+"@score":"1",
+"@id":"5198080",
+"info":{"authors":{"author":{"@pid":"s/TimosKSellis","text":"Timos K. Sellis"}},"title":"Global Query Optimization.","venue":"SIGMOD Conference","pages":"191-205","year":"1986","type":"Conference and Workshop Papers","key":"conf/sigmod/Sellis86","doi":"10.1145/16894.16874","ee":"https://doi.org/10.1145/16894.16874","url":"https://dblp.org/rec/conf/sigmod/Sellis86"},
+"url":"URL#5198080"
+},
+{
+"@score":"1",
+"@id":"5198081",
+"info":{"authors":{"author":[{"@pid":"s/MichaelStonebraker","text":"Michael Stonebraker"},{"@pid":"r/LawrenceARowe","text":"Lawrence A. Rowe"}]},"title":"The Design of Postgres.","venue":"SIGMOD Conference","pages":"340-355","year":"1986","type":"Conference and Workshop Papers","key":"conf/sigmod/StonebrakerR86","doi":"10.1145/16894.16888","ee":"https://doi.org/10.1145/16894.16888","url":"https://dblp.org/rec/conf/sigmod/StonebrakerR86"},
+"url":"URL#5198081"
+},
+{
+"@score":"1",
+"@id":"5198082",
+"info":{"authors":{"author":[{"@pid":"w/HWedekind","text":"Hartmut Wedekind"},{"@pid":"09/3144","text":"Georg Zörntlein"}]},"title":"Prefetching in Realtime Database Applications.","venue":"SIGMOD Conference","pages":"215-226","year":"1986","type":"Conference and Workshop Papers","key":"conf/sigmod/WedekindZ86","doi":"10.1145/16894.16876","ee":"https://doi.org/10.1145/16894.16876","url":"https://dblp.org/rec/conf/sigmod/WedekindZ86"},
+"url":"URL#5198082"
+},
+{
+"@score":"1",
+"@id":"5198083",
+"info":{"authors":{"author":{"@pid":"w/DanEWillard","text":"Dan E. Willard"}},"title":"Good Worst-Case Algorithms for Inserting and Deleting Records in Dense Sequential Files.","venue":"SIGMOD Conference","pages":"251-260","year":"1986","type":"Conference and Workshop Papers","key":"conf/sigmod/Willard86","doi":"10.1145/16894.16879","ee":"https://doi.org/10.1145/16894.16879","url":"https://dblp.org/rec/conf/sigmod/Willard86"},
+"url":"URL#5198083"
+},
+{
+"@score":"1",
+"@id":"5198084",
+"info":{"authors":{"author":[{"@pid":"89/5812","text":"Darrell Woelk"},{"@pid":"86/2627-1","text":"Won Kim 0001"},{"@pid":"82/2278","text":"Willis Luther"}]},"title":"An Object-Oriented Approach to Multimedia Databases.","venue":"SIGMOD Conference","pages":"311-325","year":"1986","type":"Conference and Workshop Papers","key":"conf/sigmod/WoelkKL86","doi":"10.1145/16894.16885","ee":"https://doi.org/10.1145/16894.16885","url":"https://dblp.org/rec/conf/sigmod/WoelkKL86"},
+"url":"URL#5198084"
+},
+{
+"@score":"1",
+"@id":"5198962",
+"info":{"authors":{"author":{"@pid":"z/CZaniolo","text":"Carlo Zaniolo"}},"title":"Proceedings of the 1986 ACM SIGMOD International Conference on Management of Data, Washington, DC, USA, May 28-30, 1986.","publisher":"ACM Press","year":"1986","type":"Editorship","key":"conf/sigmod/86","url":"https://dblp.org/rec/conf/sigmod/86"},
+"url":"URL#5198962"
+}
+]
+}
 }
 }

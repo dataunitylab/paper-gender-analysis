@@ -1,23 +1,278 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"sigmod\"/\"sigmod1985\".\"bht",
+"query":":facetid:toc:db\"/\"conf\"/\"sigmod\"/\"sigmod85\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.52"
+"text":"105.40"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"41",
+"@dc":"41",
+"@oc":"41",
+"@id":"17205152",
+"text":":facetid:toc:db/conf/sigmod/sigmod85.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"41",
+"@computed":"41",
+"@sent":"41",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"5211094",
+"info":{"authors":{"author":[{"@pid":"75/2226","text":"Shridhar Acharya"},{"@pid":"63/6482","text":"Gael N. Buckley"}]},"title":"Transaction Restarts in Prolog Database Systems.","venue":"SIGMOD Conference","pages":"364-373","year":"1985","type":"Conference and Workshop Papers","key":"conf/sigmod/AcharyaB85","doi":"10.1145/318898.318986","ee":"https://doi.org/10.1145/318898.318986","url":"https://dblp.org/rec/conf/sigmod/AcharyaB85"},
+"url":"URL#5211094"
+},
+{
+"@score":"1",
+"@id":"5211095",
+"info":{"authors":{"author":[{"@pid":"a/RAgrawal","text":"Rakesh Agrawal 0001"},{"@pid":"31/3455","text":"Michael J. Carey 0001"},{"@pid":"l/MironLivny","text":"Miron Livny"}]},"title":"Models for Studying Concurrency Control Performance - Alternatives and Implications.","venue":"SIGMOD Conference","pages":"108-121","year":"1985","type":"Conference and Workshop Papers","key":"conf/sigmod/AgrawalCL85","doi":"10.1145/318898.318909","ee":"https://doi.org/10.1145/318898.318909","url":"https://dblp.org/rec/conf/sigmod/AgrawalCL85"},
+"url":"URL#5211095"
+},
+{
+"@score":"1",
+"@id":"5211096",
+"info":{"authors":{"author":[{"@pid":"a/RAgrawal","text":"Rakesh Agrawal 0001"},{"@pid":"d/DJDeWitt","text":"David J. DeWitt"}]},"title":"Recovery Architectures for Multiprocessor Database Machines.","venue":"SIGMOD Conference","pages":"131-145","year":"1985","type":"Conference and Workshop Papers","key":"conf/sigmod/AgrawalD85","doi":"10.1145/318898.318912","ee":"https://doi.org/10.1145/318898.318912","url":"https://dblp.org/rec/conf/sigmod/AgrawalD85"},
+"url":"URL#5211096"
+},
+{
+"@score":"1",
+"@id":"5211097",
+"info":{"authors":{"author":[{"@pid":"97/786","text":"Federico Barbic"},{"@pid":"p/BarbaraPernici","text":"Barbara Pernici"}]},"title":"Time Modeling in Office Information Systems.","venue":"SIGMOD Conference","pages":"51-62","year":"1985","type":"Conference and Workshop Papers","key":"conf/sigmod/BarbicP85","doi":"10.1145/318898.318902","ee":"https://doi.org/10.1145/318898.318902","url":"https://dblp.org/rec/conf/sigmod/BarbicP85"},
+"url":"URL#5211097"
+},
+{
+"@score":"1",
+"@id":"5211098",
+"info":{"authors":{"author":[{"@pid":"69/1334","text":"Carlo Batini"},{"@pid":"c/StefanoCeri","text":"Stefano Ceri"}]},"title":"Database Design - Methodologies, Tools, and Environments (Panel).","venue":"SIGMOD Conference","pages":"148-150","year":"1985","type":"Conference and Workshop Papers","key":"conf/sigmod/BatiniC85","doi":"10.1145/318898.318913","ee":"https://doi.org/10.1145/318898.318913","url":"https://dblp.org/rec/conf/sigmod/BatiniC85"},
+"url":"URL#5211098"
+},
+{
+"@score":"1",
+"@id":"5211099",
+"info":{"authors":{"author":[{"@pid":"b/DSBatory","text":"Don S. Batory"},{"@pid":"86/2627-1","text":"Won Kim 0001"}]},"title":"Modeling Concepts for VLSI CAD Objects (Abstract).","venue":"SIGMOD Conference","pages":"446","year":"1985","type":"Conference and Workshop Papers","key":"conf/sigmod/BatoryK85","doi":"10.1145/318898.320001","ee":"https://doi.org/10.1145/318898.320001","url":"https://dblp.org/rec/conf/sigmod/BatoryK85"},
+"url":"URL#5211099"
+},
+{
+"@score":"1",
+"@id":"5211100",
+"info":{"authors":{"author":[{"@pid":"67/4253","text":"D. A. Beckley"},{"@pid":"e/MarthaWEvens","text":"Martha W. Evens"},{"@pid":"45/667","text":"V. K. Raman"}]},"title":"Multikey Retrieval from K-d Trees and Quad-Trees.","venue":"SIGMOD Conference","pages":"291-301","year":"1985","type":"Conference and Workshop Papers","key":"conf/sigmod/BeckleyER85","doi":"10.1145/318898.318925","ee":"https://doi.org/10.1145/318898.318925","url":"https://dblp.org/rec/conf/sigmod/BeckleyER85"},
+"url":"URL#5211100"
+},
+{
+"@score":"1",
+"@id":"5211101",
+"info":{"authors":{"author":{"@pid":"b/BKBhargava","text":"Bharat K. Bhargava"}},"title":"Reliability in Distributed Database Systems (Panel).","venue":"SIGMOD Conference","pages":"420-422","year":"1985","type":"Conference and Workshop Papers","key":"conf/sigmod/Bhargava85","doi":"10.1145/318898.318992","ee":"https://doi.org/10.1145/318898.318992","url":"https://dblp.org/rec/conf/sigmod/Bhargava85"},
+"url":"URL#5211101"
+},
+{
+"@score":"1",
+"@id":"5211102",
+"info":{"authors":{"author":[{"@pid":"51/3764","text":"Tomas Blain"},{"@pid":"72/1677","text":"Michael Dohler"},{"@pid":"40/123","text":"Ralph Michaelis"},{"@pid":"31/3558","text":"Emran Qureshi"}]},"title":"Managing the Printed Circuit Board Design Process.","venue":"SIGMOD Conference","pages":"447-456","year":"1985","type":"Conference and Workshop Papers","key":"conf/sigmod/BlainDMQ85","doi":"10.1145/318898.318997","ee":"https://doi.org/10.1145/318898.318997","url":"https://dblp.org/rec/conf/sigmod/BlainDMQ85"},
+"url":"URL#5211102"
+},
+{
+"@score":"1",
+"@id":"5211103",
+"info":{"authors":{"author":{"@pid":"66/2056","text":"Stavros Christodoulakis"}},"title":"Issues in the Architecture of a Document Archiver using Optical Disk Technology.","venue":"SIGMOD Conference","pages":"34-50","year":"1985","type":"Conference and Workshop Papers","key":"conf/sigmod/Christodoulakis85","doi":"10.1145/318898.318901","ee":"https://doi.org/10.1145/318898.318901","url":"https://dblp.org/rec/conf/sigmod/Christodoulakis85"},
+"url":"URL#5211103"
+},
+{
+"@score":"1",
+"@id":"5211104",
+"info":{"authors":{"author":{"@pid":"66/2056","text":"Stavros Christodoulakis"}},"title":"Multimedia Database Management Systems (Panel).","venue":"SIGMOD Conference","pages":"304-305","year":"1985","type":"Conference and Workshop Papers","key":"conf/sigmod/Christodoulakis85a","doi":"10.1145/318898.318927","ee":"https://doi.org/10.1145/318898.318927","url":"https://dblp.org/rec/conf/sigmod/Christodoulakis85a"},
+"url":"URL#5211104"
+},
+{
+"@score":"1",
+"@id":"5211105",
+"info":{"authors":{"author":[{"@pid":"11/3810","text":"James Clifford"},{"@pid":"10/3450","text":"Abdullah Uz Tansel"}]},"title":"On An Algebra For Historical Relational Databases - Two Views.","venue":"SIGMOD Conference","pages":"247-265","year":"1985","type":"Conference and Workshop Papers","key":"conf/sigmod/CliffordT85","doi":"10.1145/318898.318922","ee":"https://doi.org/10.1145/318898.318922","url":"https://dblp.org/rec/conf/sigmod/CliffordT85"},
+"url":"URL#5211105"
+},
+{
+"@score":"1",
+"@id":"5211106",
+"info":{"authors":{"author":[{"@pid":"37/3701","text":"George P. Copeland"},{"@pid":"14/6635","text":"Setrag Khoshafian"}]},"title":"A Decomposition Storage Model.","venue":"SIGMOD Conference","pages":"268-279","year":"1985","type":"Conference and Workshop Papers","key":"conf/sigmod/CopelandK85","doi":"10.1145/318898.318923","ee":"https://doi.org/10.1145/318898.318923","url":"https://dblp.org/rec/conf/sigmod/CopelandK85"},
+"url":"URL#5211106"
+},
+{
+"@score":"1",
+"@id":"5211107",
+"info":{"authors":{"author":[{"@pid":"55/1746","text":"G. Barbara Demo"},{"@pid":"14/728","text":"Sukhamay Kundu"}]},"title":"Analysis of the Context Dependency of CODASYL Find-Statements with Application to Database Program Conversion.","venue":"SIGMOD Conference","pages":"354-361","year":"1985","type":"Conference and Workshop Papers","key":"conf/sigmod/DemoK85","doi":"10.1145/318898.318936","ee":"https://doi.org/10.1145/318898.318936","url":"https://dblp.org/rec/conf/sigmod/DemoK85"},
+"url":"URL#5211107"
+},
+{
+"@score":"1",
+"@id":"5211108",
+"info":{"authors":{"author":[{"@pid":"e/CFEick","text":"Christoph F. Eick"},{"@pid":"l/PCLockemann","text":"Peter C. Lockemann"}]},"title":"Acquisition of Terminological Knowledge Using Database Design Techniques.","venue":"SIGMOD Conference","pages":"84-94","year":"1985","type":"Conference and Workshop Papers","key":"conf/sigmod/EickL85","doi":"10.1145/318898.318905","ee":"https://doi.org/10.1145/318898.318905","url":"https://dblp.org/rec/conf/sigmod/EickL85"},
+"url":"URL#5211108"
+},
+{
+"@score":"1",
+"@id":"5211109",
+"info":{"authors":{"author":{"@pid":"f/CFaloutsos","text":"Christos Faloutsos"}},"title":"Signature files - Design and Performance Comparison of Some Signature Extraction Methods.","venue":"SIGMOD Conference","pages":"63-82","year":"1985","type":"Conference and Workshop Papers","key":"conf/sigmod/Faloutsos85","doi":"10.1145/318898.318903","ee":"https://doi.org/10.1145/318898.318903","url":"https://dblp.org/rec/conf/sigmod/Faloutsos85"},
+"url":"URL#5211109"
+},
+{
+"@score":"1",
+"@id":"5211110",
+"info":{"authors":{"author":[{"@pid":"37/2266","text":"Shinya Fushimi"},{"@pid":"k/MasaruKitsuregawa","text":"Masaru Kitsuregawa"},{"@pid":"38/4014","text":"Masaya Nakayama"},{"@pid":"67/1012","text":"Hidehiko Tanaka"},{"@pid":"71/6241","text":"Tohru Moto-Oka"}]},"title":"Algorithm and Performance Evaluation of Adaptive Multidimensional Clustering Technique.","venue":"SIGMOD Conference","pages":"308-318","year":"1985","type":"Conference and Workshop Papers","key":"conf/sigmod/FushimiKNTM85","doi":"10.1145/318898.318928","ee":"https://doi.org/10.1145/318898.318928","url":"https://dblp.org/rec/conf/sigmod/FushimiKNTM85"},
+"url":"URL#5211110"
+},
+{
+"@score":"1",
+"@id":"5211111",
+"info":{"authors":{"author":[{"@pid":"57/4521","text":"Kenneth J. Goldman"},{"@pid":"58/6348","text":"Sally A. Goldman"},{"@pid":"k/ParisCKanellakis","text":"Paris C. Kanellakis"},{"@pid":"z/SBZdonik","text":"Stanley B. Zdonik"}]},"title":"ISIS - Interface for a Semantic Information System.","venue":"SIGMOD Conference","pages":"328-342","year":"1985","type":"Conference and Workshop Papers","key":"conf/sigmod/GoldmanGKZ85","doi":"10.1145/318898.318933","ee":"https://doi.org/10.1145/318898.318933","url":"https://dblp.org/rec/conf/sigmod/GoldmanGKZ85"},
+"url":"URL#5211111"
+},
+{
+"@score":"1",
+"@id":"5211112",
+"info":{"authors":{"author":{"@pid":"g/PeterMDGray","text":"Peter M. D. Gray"}},"title":"Efficient Prolog Access to CODASYL and FDM Databases.","venue":"SIGMOD Conference","pages":"437-443","year":"1985","type":"Conference and Workshop Papers","key":"conf/sigmod/Gray85","doi":"10.1145/318898.318994","ee":"https://doi.org/10.1145/318898.318994","url":"https://dblp.org/rec/conf/sigmod/Gray85"},
+"url":"URL#5211112"
+},
+{
+"@score":"1",
+"@id":"5211113",
+"info":{"authors":{"author":[{"@pid":"32/4465","text":"Arding Hsu"},{"@pid":"i/TomaszImielinski","text":"Tomasz Imielinski"}]},"title":"Integrity Checking for Multiple Updates.","venue":"SIGMOD Conference","pages":"152-168","year":"1985","type":"Conference and Workshop Papers","key":"conf/sigmod/HsuI85","doi":"10.1145/318898.318914","ee":"https://doi.org/10.1145/318898.318914","url":"https://dblp.org/rec/conf/sigmod/HsuI85"},
+"url":"URL#5211113"
+},
+{
+"@score":"1",
+"@id":"5211114",
+"info":{"authors":{"author":[{"@pid":"93/6123","text":"Nabil Kamel"},{"@pid":"64/2075","text":"Roger King"}]},"title":"A Model of Data Distribution Based on Texture Analysis.","venue":"SIGMOD Conference","pages":"319-325","year":"1985","type":"Conference and Workshop Papers","key":"conf/sigmod/KamelK85","doi":"10.1145/318898.318929","ee":"https://doi.org/10.1145/318898.318929","url":"https://dblp.org/rec/conf/sigmod/KamelK85"},
+"url":"URL#5211114"
+},
+{
+"@score":"1",
+"@id":"5211115",
+"info":{"authors":{"author":{"@pid":"44/6097","text":"Kyoji Kawagoe"}},"title":"Modified Dynamic Hashing.","venue":"SIGMOD Conference","pages":"201-213","year":"1985","type":"Conference and Workshop Papers","key":"conf/sigmod/Kawagoe85","doi":"10.1145/318898.318917","ee":"https://doi.org/10.1145/318898.318917","url":"https://dblp.org/rec/conf/sigmod/Kawagoe85"},
+"url":"URL#5211115"
+},
+{
+"@score":"1",
+"@id":"5211116",
+"info":{"authors":{"author":{"@pid":"k/LarryKerschberg","text":"Larry Kerschberg"}},"title":"Expert Database Systems (Workshop Rewiew).","venue":"SIGMOD Conference","pages":"414-417","year":"1985","type":"Conference and Workshop Papers","key":"conf/sigmod/Kerschberg85","doi":"10.1145/318898.318991","ee":"https://doi.org/10.1145/318898.318991","url":"https://dblp.org/rec/conf/sigmod/Kerschberg85"},
+"url":"URL#5211116"
+},
+{
+"@score":"1",
+"@id":"5211117",
+"info":{"authors":{"author":[{"@pid":"21/1678","text":"Peter Klahold"},{"@pid":"19/4663","text":"Gunter Schlageter"},{"@pid":"u/RainerUnland","text":"Rainer Unland"},{"@pid":"09/4698","text":"Wolfgang Wilkes"}]},"title":"A Transaction Model Supporting Complex Applications in Integrated Information Systems.","venue":"SIGMOD Conference","pages":"388-401","year":"1985","type":"Conference and Workshop Papers","key":"conf/sigmod/KlaholdSUW85","doi":"10.1145/318898.318989","ee":"https://doi.org/10.1145/318898.318989","url":"https://dblp.org/rec/conf/sigmod/KlaholdSUW85"},
+"url":"URL#5211117"
+},
+{
+"@score":"1",
+"@id":"5211118",
+"info":{"authors":{"author":{"@pid":"k/DavidChenhoKung","text":"David Chenho Kung"}},"title":"On Verification of Database Temporal Constraints.","venue":"SIGMOD Conference","pages":"169-179","year":"1985","type":"Conference and Workshop Papers","key":"conf/sigmod/Kung85","doi":"10.1145/318898.318911","ee":"https://doi.org/10.1145/318898.318911","url":"https://dblp.org/rec/conf/sigmod/Kung85"},
+"url":"URL#5211118"
+},
+{
+"@score":"1",
+"@id":"5211119",
+"info":{"authors":{"author":[{"@pid":"71/4080","text":"Gabriel M. Kuper"},{"@pid":"v/MosheYVardi","text":"Moshe Y. Vardi"}]},"title":"On the Expressive Power of the Logical Data Model (Preliminary Report).","venue":"SIGMOD Conference","pages":"180-187","year":"1985","type":"Conference and Workshop Papers","key":"conf/sigmod/KuperV85","doi":"10.1145/318898.318915","ee":"https://doi.org/10.1145/318898.318915","url":"https://dblp.org/rec/conf/sigmod/KuperV85"},
+"url":"URL#5211119"
+},
+{
+"@score":"1",
+"@id":"5211120",
+"info":{"authors":{"author":[{"@pid":"l/PALarson","text":"Per-Åke Larson"},{"@pid":"r/MVRamakrishna","text":"M. V. Ramakrishna"}]},"title":"External Perfect Hashing.","venue":"SIGMOD Conference","pages":"190-200","year":"1985","type":"Conference and Workshop Papers","key":"conf/sigmod/LarsonR85","doi":"10.1145/318898.318916","ee":"https://doi.org/10.1145/318898.318916","url":"https://dblp.org/rec/conf/sigmod/LarsonR85"},
+"url":"URL#5211120"
+},
+{
+"@score":"1",
+"@id":"5211121",
+"info":{"authors":{"author":{"@pid":"10/3587","text":"Ekow J. Otoo"}},"title":"A Multidimensional Digital Hashing Scheme for Files With Composite Keys.","venue":"SIGMOD Conference","pages":"214-229","year":"1985","type":"Conference and Workshop Papers","key":"conf/sigmod/Otoo85","doi":"10.1145/318898.318918","ee":"https://doi.org/10.1145/318898.318918","url":"https://dblp.org/rec/conf/sigmod/Otoo85"},
+"url":"URL#5211121"
+},
+{
+"@score":"1",
+"@id":"5211122",
+"info":{"authors":{"author":[{"@pid":"o/GultekinOzsoyoglu","text":"Gultekin Özsoyoglu"},{"@pid":"o/ZMeralOzsoyoglu","text":"Z. Meral Özsoyoglu"},{"@pid":"92/2097","text":"Francisco Mata"}]},"title":"A Language and a Physical Organization Technique for Summary Tables.","venue":"SIGMOD Conference","pages":"3-16","year":"1985","type":"Conference and Workshop Papers","key":"conf/sigmod/OzsoyogluOM85","doi":"10.1145/318898.318899","ee":"https://doi.org/10.1145/318898.318899","url":"https://dblp.org/rec/conf/sigmod/OzsoyogluOM85"},
+"url":"URL#5211122"
+},
+{
+"@score":"1",
+"@id":"5211123",
+"info":{"authors":{"author":[{"@pid":"66/138","text":"Thomas W. Page Jr."},{"@pid":"27/5556","text":"Matthew J. Weinstein"},{"@pid":"62/6214","text":"Gerald J. Popek"}]},"title":"Genesis - A Distributed Database Operating System.","venue":"SIGMOD Conference","pages":"374-387","year":"1985","type":"Conference and Workshop Papers","key":"conf/sigmod/PageWP85","doi":"10.1145/318898.318988","ee":"https://doi.org/10.1145/318898.318988","url":"https://dblp.org/rec/conf/sigmod/PageWP85"},
+"url":"URL#5211123"
+},
+{
+"@score":"1",
+"@id":"5211124",
+"info":{"authors":{"author":{"@pid":"r/JohnTRobinson","text":"John T. Robinson"}},"title":"A Fast General-Purpose Hardware Synchronisation Mechanism.","venue":"SIGMOD Conference","pages":"122-130","year":"1985","type":"Conference and Workshop Papers","key":"conf/sigmod/Robinson85","doi":"10.1145/318898.318910","ee":"https://doi.org/10.1145/318898.318910","url":"https://dblp.org/rec/conf/sigmod/Robinson85"},
+"url":"URL#5211124"
+},
+{
+"@score":"1",
+"@id":"5211125",
+"info":{"authors":{"author":[{"@pid":"r/NickRoussopoulos","text":"Nick Roussopoulos"},{"@pid":"39/993","text":"Daniel Leifker"}]},"title":"Direct Spatial Search on Pictorial Databases Using Packed R-Trees.","venue":"SIGMOD Conference","pages":"17-31","year":"1985","type":"Conference and Workshop Papers","key":"conf/sigmod/RoussopoulosL85","doi":"10.1145/318898.318900","ee":"https://doi.org/10.1145/318898.318900","url":"https://dblp.org/rec/conf/sigmod/RoussopoulosL85"},
+"url":"URL#5211125"
+},
+{
+"@score":"1",
+"@id":"5211126",
+"info":{"authors":{"author":[{"@pid":"s/TimosKSellis","text":"Timos K. Sellis"},{"@pid":"s/LeonardDShapiro","text":"Leonard D. Shapiro"}]},"title":"Optimization of Extended Database Query Languages.","venue":"SIGMOD Conference","pages":"424-436","year":"1985","type":"Conference and Workshop Papers","key":"conf/sigmod/SellisS85","doi":"10.1145/318898.318993","ee":"https://doi.org/10.1145/318898.318993","url":"https://dblp.org/rec/conf/sigmod/SellisS85"},
+"url":"URL#5211126"
+},
+{
+"@score":"1",
+"@id":"5211127",
+"info":{"authors":{"author":[{"@pid":"68/2757","text":"D. G. Shin"},{"@pid":"i/KekiBIrani","text":"Keki B. Irani"}]},"title":"Partitioning a Relational Database Horizontally Using a Knowledge-Based Approach.","venue":"SIGMOD Conference","pages":"95-105","year":"1985","type":"Conference and Workshop Papers","key":"conf/sigmod/ShinI85","doi":"10.1145/318898.318906","ee":"https://doi.org/10.1145/318898.318906","url":"https://dblp.org/rec/conf/sigmod/ShinI85"},
+"url":"URL#5211127"
+},
+{
+"@score":"1",
+"@id":"5211128",
+"info":{"authors":{"author":{"@pid":"s/EdgarHSibley","text":"Edgar H. Sibley"}},"title":"Pragmatics of Database Management (Panel).","venue":"SIGMOD Conference","pages":"232-234","year":"1985","type":"Conference and Workshop Papers","key":"conf/sigmod/Sibley85","doi":"10.1145/318898.318920","ee":"https://doi.org/10.1145/318898.318920","url":"https://dblp.org/rec/conf/sigmod/Sibley85"},
+"url":"URL#5211128"
+},
+{
+"@score":"1",
+"@id":"5211129",
+"info":{"authors":{"author":[{"@pid":"94/4398","text":"Mukul K. Sinha"},{"@pid":"93/1159","text":"P. D. Nanadikar"},{"@pid":"43/6388","text":"S. L. Mehndiratta"}]},"title":"Timestamp Based Certification Schemes for Transactions in Distributed Database Systems.","venue":"SIGMOD Conference","pages":"402-411","year":"1985","type":"Conference and Workshop Papers","key":"conf/sigmod/SinhaNM85","doi":"10.1145/318898.318990","ee":"https://doi.org/10.1145/318898.318990","url":"https://dblp.org/rec/conf/sigmod/SinhaNM85"},
+"url":"URL#5211129"
+},
+{
+"@score":"1",
+"@id":"5211130",
+"info":{"authors":{"author":[{"@pid":"s/RichardTSnodgrass","text":"Richard T. Snodgrass"},{"@pid":"41/5076","text":"Ilsoo Ahn"}]},"title":"A Taxonomy of Time in Databases.","venue":"SIGMOD Conference","pages":"236-246","year":"1985","type":"Conference and Workshop Papers","key":"conf/sigmod/SnodgrassA85","doi":"10.1145/318898.318921","ee":"https://doi.org/10.1145/318898.318921","url":"https://dblp.org/rec/conf/sigmod/SnodgrassA85"},
+"url":"URL#5211130"
+},
+{
+"@score":"1",
+"@id":"5211131",
+"info":{"authors":{"author":{"@pid":"u/JeffreyDUllman","text":"Jeffrey D. Ullman"}},"title":"Implementation of Logical Query Languages for Databases (Abstract).","venue":"SIGMOD Conference","pages":"444","year":"1985","type":"Conference and Workshop Papers","key":"conf/sigmod/Ullman85","doi":"10.1145/318898.320000","ee":"https://doi.org/10.1145/318898.320000","url":"https://dblp.org/rec/conf/sigmod/Ullman85"},
+"url":"URL#5211131"
+},
+{
+"@score":"1",
+"@id":"5211132",
+"info":{"authors":{"author":[{"@pid":"v/GottfriedVossen","text":"Gottfried Vossen"},{"@pid":"84/4836","text":"Volkert Brosda"}]},"title":"A High-Level User Interface for Update and Retrieval in Relational Databases - Language Aspects.","venue":"SIGMOD Conference","pages":"343-353","year":"1985","type":"Conference and Workshop Papers","key":"conf/sigmod/VossenB85","doi":"10.1145/318898.318934","ee":"https://doi.org/10.1145/318898.318934","url":"https://dblp.org/rec/conf/sigmod/VossenB85"},
+"url":"URL#5211132"
+},
+{
+"@score":"1",
+"@id":"5211133",
+"info":{"authors":{"author":[{"@pid":"y/ClementTYu","text":"Clement T. Yu"},{"@pid":"20/2532","text":"C. H. Chen"}]},"title":"Adaptive Information System Design - One Query at a Time.","venue":"SIGMOD Conference","pages":"280-290","year":"1985","type":"Conference and Workshop Papers","key":"conf/sigmod/YuC85","doi":"10.1145/318898.318924","ee":"https://doi.org/10.1145/318898.318924","url":"https://dblp.org/rec/conf/sigmod/YuC85"},
+"url":"URL#5211133"
+},
+{
+"@score":"1",
+"@id":"5211884",
+"info":{"authors":{"author":{"@pid":"n/ShamkantBNavathe","text":"Shamkant B. Navathe"}},"title":"Proceedings of the 1985 ACM SIGMOD International Conference on Management of Data, Austin, Texas, USA, May 28-31, 1985.","publisher":"ACM Press","year":"1985","type":"Editorship","key":"conf/sigmod/85","url":"https://dblp.org/rec/conf/sigmod/85"},
+"url":"URL#5211884"
+}
+]
+}
 }
 }

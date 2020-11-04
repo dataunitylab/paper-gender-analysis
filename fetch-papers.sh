@@ -25,9 +25,16 @@ function get_dblp_json() {
 }
 
 get_dblp_json conf cidr 2003 2020 0 2
-get_dblp_json conf edbt 1988 2020 0
-get_dblp_json conf icde 1984 2020 0
-get_dblp_json conf sigmod 1975 2020 0
+
+get_dblp_json conf edbt 88 99 1900
+get_dblp_json conf edbt 2000 2020 0
+
+get_dblp_json conf icde 84 99 1900
+get_dblp_json conf icde 2000 2020 0
+
+get_dblp_json conf sigmod 75 99 1900
+get_dblp_json conf sigmod 2000 2020 0
+
 get_dblp_json journals pvldb 1 13 2007
 get_dblp_json journals tods 1 45 1975
 

@@ -1,23 +1,200 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"sigmod\"/\"sigmod1978\".\"bht",
+"query":":facetid:toc:db\"/\"conf\"/\"sigmod\"/\"sigmod78\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.32"
+"text":"139.24"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"28",
+"@dc":"28",
+"@oc":"28",
+"@id":"17205145",
+"text":":facetid:toc:db/conf/sigmod/sigmod78.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"28",
+"@computed":"28",
+"@sent":"28",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"5270797",
+"info":{"authors":{"author":[{"@pid":"a/AVAho","text":"Alfred V. Aho"},{"@pid":"26/5086","text":"Yehoshua Sagiv"},{"@pid":"u/JeffreyDUllman","text":"Jeffrey D. Ullman"}]},"title":"Efficient Optimization of a Class of Relational Expressions (Abstract).","venue":"SIGMOD Conference","pages":"39","year":"1978","type":"Conference and Workshop Papers","key":"conf/sigmod/AhoSU78","doi":"10.1145/509252.509268","ee":"https://doi.org/10.1145/509252.509268","url":"https://dblp.org/rec/conf/sigmod/AhoSU78"},
+"url":"URL#5270797"
+},
+{
+"@score":"1",
+"@id":"5270799",
+"info":{"authors":{"author":{"@pid":"14/4166","text":"John L. Berg"}},"title":"The Practitioner&apos;s Viewpoint.","venue":"SIGMOD Conference","pages":"118","year":"1978","type":"Conference and Workshop Papers","key":"conf/sigmod/Berg78","doi":"10.1145/509252.509282","ee":"https://doi.org/10.1145/509252.509282","url":"https://dblp.org/rec/conf/sigmod/Berg78"},
+"url":"URL#5270799"
+},
+{
+"@score":"1",
+"@id":"5270800",
+"info":{"authors":{"author":{"@pid":"38/695","text":"Brett Berlin"}},"title":"DBMS Selection and Evaluation - Perspectives and Practical Issues.","venue":"SIGMOD Conference","pages":"37-38","year":"1978","type":"Conference and Workshop Papers","key":"conf/sigmod/Berlin78","doi":"10.1145/509252.509266","ee":"https://doi.org/10.1145/509252.509266","url":"https://dblp.org/rec/conf/sigmod/Berlin78"},
+"url":"URL#5270800"
+},
+{
+"@score":"1",
+"@id":"5270803",
+"info":{"authors":{"author":[{"@pid":"93/5797","text":"J. D. Clark"},{"@pid":"71/1833","text":"Jeffrey A. Hoffer"}]},"title":"A Procedure for the Determination of Attribute Access Probabilities.","venue":"SIGMOD Conference","pages":"110-117","year":"1978","type":"Conference and Workshop Papers","key":"conf/sigmod/ClarkH78","doi":"10.1145/509252.509280","ee":"https://doi.org/10.1145/509252.509280","url":"https://dblp.org/rec/conf/sigmod/ClarkH78"},
+"url":"URL#5270803"
+},
+{
+"@score":"1",
+"@id":"5270804",
+"info":{"authors":{"author":{"@pid":"34/7031","text":"Thomas J. Cook"}},"title":"A Dynamic Address Computation Mechanism for Use in Database Management.","venue":"SIGMOD Conference","pages":"78-87","year":"1978","type":"Conference and Workshop Papers","key":"conf/sigmod/Cook78","doi":"10.1145/509252.509274","ee":"https://doi.org/10.1145/509252.509274","url":"https://dblp.org/rec/conf/sigmod/Cook78"},
+"url":"URL#5270804"
+},
+{
+"@score":"1",
+"@id":"5270806",
+"info":{"authors":{"author":[{"@pid":"98/280","text":"J. P. DeBlasis"},{"@pid":"42/7044","text":"T. H. Johnson"}]},"title":"Review of Data Base Administrators Functions from a Survey.","venue":"SIGMOD Conference","pages":"101-109","year":"1978","type":"Conference and Workshop Papers","key":"conf/sigmod/DeBlasisJ78","doi":"10.1145/509252.509279","ee":"https://doi.org/10.1145/509252.509279","url":"https://dblp.org/rec/conf/sigmod/DeBlasisJ78"},
+"url":"URL#5270806"
+},
+{
+"@score":"1",
+"@id":"5270807",
+"info":{"authors":{"author":[{"@pid":"38/2827","text":"Robert S. Epstein"},{"@pid":"s/MichaelStonebraker","text":"Michael Stonebraker"},{"@pid":"95/2864","text":"Eugene Wong 0001"}]},"title":"Distributed Query Processing in a Relational Data Base System.","venue":"SIGMOD Conference","pages":"169-180","year":"1978","type":"Conference and Workshop Papers","key":"conf/sigmod/EpsteinSW78","doi":"10.1145/509252.509292","ee":"https://doi.org/10.1145/509252.509292","url":"https://dblp.org/rec/conf/sigmod/EpsteinSW78"},
+"url":"URL#5270807"
+},
+{
+"@score":"1",
+"@id":"5270809",
+"info":{"authors":{"author":[{"@pid":"06/6011","text":"Donald E. Swartwout"},{"@pid":"61/6855","text":"James P. Fry"}]},"title":"Towards the Support of Integrated Views of Multiple Databases - An Aggregate Schema Facility.","venue":"SIGMOD Conference","pages":"132-143","year":"1978","type":"Conference and Workshop Papers","key":"conf/sigmod/FryS78","doi":"10.1145/509252.509285","ee":"https://doi.org/10.1145/509252.509285","url":"https://dblp.org/rec/conf/sigmod/FryS78"},
+"url":"URL#5270809"
+},
+{
+"@score":"1",
+"@id":"5270812",
+"info":{"authors":{"author":{"@pid":"45/1479","text":"Nancy D. Griffeth"}},"title":"Nonprocedural Query Processing for Databases with Access Paths.","venue":"SIGMOD Conference","pages":"160-168","year":"1978","type":"Conference and Workshop Papers","key":"conf/sigmod/Griffeth78","doi":"10.1145/509252.509291","ee":"https://doi.org/10.1145/509252.509291","url":"https://dblp.org/rec/conf/sigmod/Griffeth78"},
+"url":"URL#5270812"
+},
+{
+"@score":"1",
+"@id":"5270813",
+"info":{"authors":{"author":[{"@pid":"46/4470","text":"Michael Hammer"},{"@pid":"m/DennisMcLeod","text":"Dennis McLeod"}]},"title":"The Semantic Data Model - A Modelling Mechanism for Data Base Applications.","venue":"SIGMOD Conference","pages":"26-36","year":"1978","type":"Conference and Workshop Papers","key":"conf/sigmod/HammerM78","doi":"10.1145/509252.509264","ee":"https://doi.org/10.1145/509252.509264","url":"https://dblp.org/rec/conf/sigmod/HammerM78"},
+"url":"URL#5270813"
+},
+{
+"@score":"1",
+"@id":"5270814",
+"info":{"authors":{"author":[{"@pid":"46/4470","text":"Michael Hammer"},{"@pid":"52/6810","text":"Sunil K. Sarin"}]},"title":"Efficient Monitoring of Database Assertions (Abstract).","venue":"SIGMOD Conference","pages":"159","year":"1978","type":"Conference and Workshop Papers","key":"conf/sigmod/HammerS78","doi":"10.1145/509252.509290","ee":"https://doi.org/10.1145/509252.509290","url":"https://dblp.org/rec/conf/sigmod/HammerS78"},
+"url":"URL#5270814"
+},
+{
+"@score":"1",
+"@id":"5270818",
+"info":{"authors":{"author":[{"@pid":"66/1845","text":"R. M. Lee"},{"@pid":"71/2056","text":"Rob Gerritsen"}]},"title":"Extended Semantics for Generalization Hierarchies.","venue":"SIGMOD Conference","pages":"18-25","year":"1978","type":"Conference and Workshop Papers","key":"conf/sigmod/LeeG78","doi":"10.1145/509252.509263","ee":"https://doi.org/10.1145/509252.509263","url":"https://dblp.org/rec/conf/sigmod/LeeG78"},
+"url":"URL#5270818"
+},
+{
+"@score":"1",
+"@id":"5270819",
+"info":{"authors":{"author":[{"@pid":"00/4611","text":"Y. Edmund Lien"},{"@pid":"74/1361","text":"Peter J. Weinberger"}]},"title":"Consistency, Concurrency and Crash Recovery.","venue":"SIGMOD Conference","pages":"9-14","year":"1978","type":"Conference and Workshop Papers","key":"conf/sigmod/LienW78","doi":"10.1145/509252.509258","ee":"https://doi.org/10.1145/509252.509258","url":"https://dblp.org/rec/conf/sigmod/LienW78"},
+"url":"URL#5270819"
+},
+{
+"@score":"1",
+"@id":"5270821",
+"info":{"authors":{"author":[{"@pid":"39/4304","text":"J. G. Malkin"},{"@pid":"11/2281","text":"B. F. Anderson"}]},"title":"A Case Management System - Three Views of an Application.","venue":"SIGMOD Conference","pages":"89-100","year":"1978","type":"Conference and Workshop Papers","key":"conf/sigmod/MalkinA78","doi":"10.1145/509252.509278","ee":"https://doi.org/10.1145/509252.509278","url":"https://dblp.org/rec/conf/sigmod/MalkinA78"},
+"url":"URL#5270821"
+},
+{
+"@score":"1",
+"@id":"5270822",
+"info":{"authors":{"author":[{"@pid":"m/STMarch","text":"Salvatore T. March"},{"@pid":"s/DennisGSeverance","text":"Dennis G. Severance"}]},"title":"A Mathematical Modeling Approach to the Automatic Selection of Database Designs.","venue":"SIGMOD Conference","pages":"52-65","year":"1978","type":"Conference and Workshop Papers","key":"conf/sigmod/MarchS78","doi":"10.1145/509252.509272","ee":"https://doi.org/10.1145/509252.509272","url":"https://dblp.org/rec/conf/sigmod/MarchS78"},
+"url":"URL#5270822"
+},
+{
+"@score":"1",
+"@id":"5270825",
+"info":{"authors":{"author":[{"@pid":"m/DAMenasce","text":"Daniel A. Menascé"},{"@pid":"62/6214","text":"Gerald J. Popek"},{"@pid":"m/RichardRMuntz","text":"Richard R. Muntz"}]},"title":"A Locking Protocol for Resource Coordination in Distributed Databases (Abstract).","venue":"SIGMOD Conference","pages":"2","year":"1978","type":"Conference and Workshop Papers","key":"conf/sigmod/MenascePM78","doi":"10.1145/509252.509256","ee":"https://doi.org/10.1145/509252.509256","url":"https://dblp.org/rec/conf/sigmod/MenascePM78"},
+"url":"URL#5270825"
+},
+{
+"@score":"1",
+"@id":"5270826",
+"info":{"authors":{"author":{"@pid":"m/HLMorgan","text":"Howard L. Morgan"}},"title":"Natural Language Interfaces.","venue":"SIGMOD Conference","pages":"1","year":"1978","type":"Conference and Workshop Papers","key":"conf/sigmod/Morgan78","doi":"10.1145/509252.509254","ee":"https://doi.org/10.1145/509252.509254","url":"https://dblp.org/rec/conf/sigmod/Morgan78"},
+"url":"URL#5270826"
+},
+{
+"@score":"1",
+"@id":"5270827",
+"info":{"authors":{"author":[{"@pid":"m/JohnMylopoulos","text":"John Mylopoulos"},{"@pid":"b/PhilipABernstein","text":"Philip A. Bernstein"},{"@pid":"49/144","text":"Harry K. T. Wong"}]},"title":"A Language Facility for Designing Interactive Database-Intensive Applications (Abstract).","venue":"SIGMOD Conference","pages":"17","year":"1978","type":"Conference and Workshop Papers","key":"conf/sigmod/MylopoulosBW78","doi":"10.1145/509252.509262","ee":"https://doi.org/10.1145/509252.509262","url":"https://dblp.org/rec/conf/sigmod/MylopoulosBW78"},
+"url":"URL#5270827"
+},
+{
+"@score":"1",
+"@id":"5270828",
+"info":{"authors":{"author":[{"@pid":"78/540","text":"J. Nations"},{"@pid":"s/StanleyYWSu","text":"Stanley Y. W. Su"}]},"title":"Some DML Instruction Sequences for Application Program Analysis and Conversion.","venue":"SIGMOD Conference","pages":"120-131","year":"1978","type":"Conference and Workshop Papers","key":"conf/sigmod/NationsS78","doi":"10.1145/509252.509284","ee":"https://doi.org/10.1145/509252.509284","url":"https://dblp.org/rec/conf/sigmod/NationsS78"},
+"url":"URL#5270828"
+},
+{
+"@score":"1",
+"@id":"5270829",
+"info":{"authors":{"author":[{"@pid":"n/ShamkantBNavathe","text":"Shamkant B. Navathe"},{"@pid":"96/5511","text":"Mario Schkolnick"}]},"title":"View Representation in Logical Database Design.","venue":"SIGMOD Conference","pages":"144-156","year":"1978","type":"Conference and Workshop Papers","key":"conf/sigmod/NavatheS78","doi":"10.1145/509252.509286","ee":"https://doi.org/10.1145/509252.509286","url":"https://dblp.org/rec/conf/sigmod/NavatheS78"},
+"url":"URL#5270829"
+},
+{
+"@score":"1",
+"@id":"5270830",
+"info":{"authors":{"author":{"@pid":"98/6811","text":"Jean-Marie Nicolas 0001"}},"title":"First Order Logic Formalization for Functional, Multivalued and Mutual Dependencies.","venue":"SIGMOD Conference","pages":"40-46","year":"1978","type":"Conference and Workshop Papers","key":"conf/sigmod/Nicolas78","doi":"10.1145/509252.509269","ee":"https://doi.org/10.1145/509252.509269","url":"https://dblp.org/rec/conf/sigmod/Nicolas78"},
+"url":"URL#5270830"
+},
+{
+"@score":"1",
+"@id":"5270831",
+"info":{"authors":{"author":{"@pid":"15/1857","text":"T. William Olle"}},"title":"The Conceptual Schema Controversy.","venue":"SIGMOD Conference","pages":"88","year":"1978","type":"Conference and Workshop Papers","key":"conf/sigmod/Olle78","doi":"10.1145/509252.509276","ee":"https://doi.org/10.1145/509252.509276","url":"https://dblp.org/rec/conf/sigmod/Olle78"},
+"url":"URL#5270831"
+},
+{
+"@score":"1",
+"@id":"5270834",
+"info":{"authors":{"author":{"@pid":"80/6105","text":"Daniel J. Rosenkrantz"}},"title":"Dynamic Database Dumping.","venue":"SIGMOD Conference","pages":"3-8","year":"1978","type":"Conference and Workshop Papers","key":"conf/sigmod/Rosenkrantz78","doi":"10.1145/509252.509257","ee":"https://doi.org/10.1145/509252.509257","url":"https://dblp.org/rec/conf/sigmod/Rosenkrantz78"},
+"url":"URL#5270834"
+},
+{
+"@score":"1",
+"@id":"5270837",
+"info":{"authors":{"author":{"@pid":"s/StanleyYWSu","text":"Stanley Y. W. Su"}},"title":"Database Machines.","venue":"SIGMOD Conference","pages":"157-158","year":"1978","type":"Conference and Workshop Papers","key":"conf/sigmod/Su78","doi":"10.1145/509252.509288","ee":"https://doi.org/10.1145/509252.509288","url":"https://dblp.org/rec/conf/sigmod/Su78"},
+"url":"URL#5270837"
+},
+{
+"@score":"1",
+"@id":"5270839",
+"info":{"authors":{"author":{"@pid":"59/4650","text":"Jerry Winkler"}},"title":"Managing the Data Resource.","venue":"SIGMOD Conference","pages":"15-16","year":"1978","type":"Conference and Workshop Papers","key":"conf/sigmod/Winkler78","doi":"10.1145/509252.509260","ee":"https://doi.org/10.1145/509252.509260","url":"https://dblp.org/rec/conf/sigmod/Winkler78"},
+"url":"URL#5270839"
+},
+{
+"@score":"1",
+"@id":"5270840",
+"info":{"authors":{"author":[{"@pid":"05/5717","text":"Sumiyasu Yamamoto"},{"@pid":"30/2512","text":"Shinsei Tazawa"},{"@pid":"30/4244","text":"Kazuhiko Ushio"},{"@pid":"93/2315","text":"Hideto Ikeda"}]},"title":"Design of a Generalized Balanced Multiple-Valued File Organization Scheme of Order Two.","venue":"SIGMOD Conference","pages":"47-51","year":"1978","type":"Conference and Workshop Papers","key":"conf/sigmod/YamamotoTUI78","doi":"10.1145/509252.509271","ee":"https://doi.org/10.1145/509252.509271","url":"https://dblp.org/rec/conf/sigmod/YamamotoTUI78"},
+"url":"URL#5270840"
+},
+{
+"@score":"1",
+"@id":"5270841",
+"info":{"authors":{"author":[{"@pid":"91/2156","text":"S. Bing Yao"},{"@pid":"31/3367","text":"D. DeJong"}]},"title":"Evaluation of Database Access Paths.","venue":"SIGMOD Conference","pages":"66-77","year":"1978","type":"Conference and Workshop Papers","key":"conf/sigmod/YaoD78","doi":"10.1145/509252.509273","ee":"https://doi.org/10.1145/509252.509273","url":"https://dblp.org/rec/conf/sigmod/YaoD78"},
+"url":"URL#5270841"
+},
+{
+"@score":"1",
+"@id":"5271213",
+"info":{"authors":{"author":[{"@pid":"72/14","text":"Eugene I. Lowenthal"},{"@pid":"13/1761","text":"Nell B. Dale"}]},"title":"Proceedings of the 1978 ACM SIGMOD International Conference on Management of Data, Austin, Texas, USA, May 31 - June 2, 1978","publisher":"ACM","year":"1978","type":"Editorship","key":"conf/sigmod/78","url":"https://dblp.org/rec/conf/sigmod/78"},
+"url":"URL#5271213"
+}
+]
+}
 }
 }

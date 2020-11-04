@@ -1,23 +1,164 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"sigmod\"/\"sigmod1976\".\"bht",
+"query":":facetid:toc:db\"/\"conf\"/\"sigmod\"/\"sigmod76\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.30"
+"text":"105.45"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"22",
+"@dc":"22",
+"@oc":"22",
+"@id":"17205143",
+"text":":facetid:toc:db/conf/sigmod/sigmod76.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"22",
+"@computed":"22",
+"@sent":"22",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"5281640",
+"info":{"authors":{"author":{"@pid":"11/162","text":"Leland L. Beck"}},"title":"An Approach to the Creation of Structured Data Processing Systems.","venue":"SIGMOD Conference","pages":"179-188","year":"1976","type":"Conference and Workshop Papers","key":"conf/sigmod/Beck76","url":"https://dblp.org/rec/conf/sigmod/Beck76"},
+"url":"URL#5281640"
+},
+{
+"@score":"1",
+"@id":"5281641",
+"info":{"authors":{"author":[{"@pid":"62/2441","text":"C. Robert Carlson"},{"@pid":"70/5731","text":"Robert S. Kaplan"}]},"title":"A Generalized Access Path Model and its Application to a Relational Data Base System.","venue":"SIGMOD Conference","pages":"143-154","year":"1976","type":"Conference and Workshop Papers","key":"conf/sigmod/CarlsonK76","doi":"10.1145/509383.509403","ee":"https://doi.org/10.1145/509383.509403","url":"https://dblp.org/rec/conf/sigmod/CarlsonK76"},
+"url":"URL#5281641"
+},
+{
+"@score":"1",
+"@id":"5281642",
+"info":{"authors":{"author":[{"@pid":"32/4556","text":"Alfred G. Dale"},{"@pid":"13/1761","text":"Nell B. Dale"}]},"title":"Schema and Occurence Structure Transformations in Hierarchical Systems.","venue":"SIGMOD Conference","pages":"157-168","year":"1976","type":"Conference and Workshop Papers","key":"conf/sigmod/DaleD76","url":"https://dblp.org/rec/conf/sigmod/DaleD76"},
+"url":"URL#5281642"
+},
+{
+"@score":"1",
+"@id":"5281643",
+"info":{"authors":{"author":{"@pid":"92/5019","text":"C. J. Date"}},"title":"An Architecture for High-Level Language Database Extensions.","venue":"SIGMOD Conference","pages":"101-122","year":"1976","type":"Conference and Workshop Papers","key":"conf/sigmod/Date76","doi":"10.1145/509383.509400","ee":"https://doi.org/10.1145/509383.509400","url":"https://dblp.org/rec/conf/sigmod/Date76"},
+"url":"URL#5281643"
+},
+{
+"@score":"1",
+"@id":"5281644",
+"info":{"authors":{"author":[{"@pid":"35/5262","text":"Claude Deheneffe"},{"@pid":"69/4256","text":"Henri Hennebert"}]},"title":"NUL - A Navigational User&apos;s Language for a Network Structured Data Base.","venue":"SIGMOD Conference","pages":"135-142","year":"1976","type":"Conference and Workshop Papers","key":"conf/sigmod/DeheneffeH76","doi":"10.1145/509383.509402","ee":"https://doi.org/10.1145/509383.509402","url":"https://dblp.org/rec/conf/sigmod/DeheneffeH76"},
+"url":"URL#5281644"
+},
+{
+"@score":"1",
+"@id":"5281645",
+"info":{"authors":{"author":[{"@pid":"86/6819","text":"Nicholas J. Giordano"},{"@pid":"66/3961","text":"Marvin S. Schwarz"}]},"title":"Data Base Recovery at CMIC.","venue":"SIGMOD Conference","pages":"33-42","year":"1976","type":"Conference and Workshop Papers","key":"conf/sigmod/GiordanoS76","doi":"10.1145/509383.509390","ee":"https://doi.org/10.1145/509383.509390","url":"https://dblp.org/rec/conf/sigmod/GiordanoS76"},
+"url":"URL#5281645"
+},
+{
+"@score":"1",
+"@id":"5281646",
+"info":{"authors":{"author":[{"@pid":"43/2549","text":"Patricia P. Griffiths"},{"@pid":"59/3575","text":"Bradford W. Wade"}]},"title":"An Authorization Mechanism for a Relational Data Base System (Abstract).","venue":"SIGMOD Conference","pages":"51","year":"1976","type":"Conference and Workshop Papers","key":"conf/sigmod/GriffithsW76","doi":"10.1145/509383.509393","ee":"https://doi.org/10.1145/509383.509393","url":"https://dblp.org/rec/conf/sigmod/GriffithsW76"},
+"url":"URL#5281646"
+},
+{
+"@score":"1",
+"@id":"5281647",
+"info":{"authors":{"author":[{"@pid":"46/4470","text":"Michael Hammer"},{"@pid":"16/4154","text":"Arvola Chan"}]},"title":"Index Selection in a Self-Adaptive Data Base Management System.","venue":"SIGMOD Conference","pages":"1-8","year":"1976","type":"Conference and Workshop Papers","key":"conf/sigmod/HammerC76","doi":"10.1145/509383.509385","ee":"https://doi.org/10.1145/509383.509385","url":"https://dblp.org/rec/conf/sigmod/HammerC76"},
+"url":"URL#5281647"
+},
+{
+"@score":"1",
+"@id":"5281648",
+"info":{"authors":{"author":{"@pid":"02/588","text":"Beverly K. Kahn"}},"title":"A Method for Describing Information Required by the Database Design Process.","venue":"SIGMOD Conference","pages":"53-64","year":"1976","type":"Conference and Workshop Papers","key":"conf/sigmod/Kahn76","doi":"10.1145/509383.509395","ee":"https://doi.org/10.1145/509383.509395","url":"https://dblp.org/rec/conf/sigmod/Kahn76"},
+"url":"URL#5281648"
+},
+{
+"@score":"1",
+"@id":"5281649",
+"info":{"authors":{"author":{"@pid":"09/3242","text":"Philip P. Macri"}},"title":"Deadlock Detection and Resolution in a CODASYL Based Data Management System.","venue":"SIGMOD Conference","pages":"45-49","year":"1976","type":"Conference and Workshop Papers","key":"conf/sigmod/Macri76","doi":"10.1145/509383.509392","ee":"https://doi.org/10.1145/509383.509392","url":"https://dblp.org/rec/conf/sigmod/Macri76"},
+"url":"URL#5281649"
+},
+{
+"@score":"1",
+"@id":"5281650",
+"info":{"authors":{"author":{"@pid":"m/NaftalyHMinsky","text":"Naftaly H. Minsky"}},"title":"Files with Semantics.","venue":"SIGMOD Conference","pages":"65-73","year":"1976","type":"Conference and Workshop Papers","key":"conf/sigmod/Minsky76","doi":"10.1145/509383.509396","ee":"https://doi.org/10.1145/509383.509396","url":"https://dblp.org/rec/conf/sigmod/Minsky76"},
+"url":"URL#5281650"
+},
+{
+"@score":"1",
+"@id":"5281651",
+"info":{"authors":{"author":{"@pid":"44/6781","text":"Robert M. Pecherer"}},"title":"Efficient Exploration of Product Spaces.","venue":"SIGMOD Conference","pages":"169-177","year":"1976","type":"Conference and Workshop Papers","key":"conf/sigmod/Pecherer76","url":"https://dblp.org/rec/conf/sigmod/Pecherer76"},
+"url":"URL#5281651"
+},
+{
+"@score":"1",
+"@id":"5281652",
+"info":{"authors":{"author":{"@pid":"60/6731","text":"L. S. Schneider"}},"title":"A Relational View of the Data Independent Accessing Model.","venue":"SIGMOD Conference","pages":"75-90","year":"1976","type":"Conference and Workshop Papers","key":"conf/sigmod/Schneider76","doi":"10.1145/509383.509397","ee":"https://doi.org/10.1145/509383.509397","url":"https://dblp.org/rec/conf/sigmod/Schneider76"},
+"url":"URL#5281652"
+},
+{
+"@score":"1",
+"@id":"5281653",
+"info":{"authors":{"author":[{"@pid":"s/DennisGSeverance","text":"Dennis G. Severance"},{"@pid":"21/2457","text":"Guy M. Lohman"}]},"title":"Differential Files - Their Application to the Maintenance of Large Data Bases (Abstract).","venue":"SIGMOD Conference","pages":"43","year":"1976","type":"Conference and Workshop Papers","key":"conf/sigmod/SeveranceL76","doi":"10.1145/509383.509391","ee":"https://doi.org/10.1145/509383.509391","url":"https://dblp.org/rec/conf/sigmod/SeveranceL76"},
+"url":"URL#5281653"
+},
+{
+"@score":"1",
+"@id":"5281654",
+"info":{"authors":{"author":{"@pid":"66/5372","text":"G. C. H. Sharman"}},"title":"A Constructive Definition of Third Normal Form.","venue":"SIGMOD Conference","pages":"91-99","year":"1976","type":"Conference and Workshop Papers","key":"conf/sigmod/Sharman76","doi":"10.1145/509383.509398","ee":"https://doi.org/10.1145/509383.509398","url":"https://dblp.org/rec/conf/sigmod/Sharman76"},
+"url":"URL#5281654"
+},
+{
+"@score":"1",
+"@id":"5281655",
+"info":{"authors":{"author":[{"@pid":"77/5109","text":"Stephen W. Sherman"},{"@pid":"35/6661","text":"Richard S. Brice"}]},"title":"Performance of a Data Base Manager in a Virtual Memory System (Abstract).","venue":"SIGMOD Conference","pages":"31","year":"1976","type":"Conference and Workshop Papers","key":"conf/sigmod/ShermanB76","doi":"10.1145/509383.509388","ee":"https://doi.org/10.1145/509383.509388","url":"https://dblp.org/rec/conf/sigmod/ShermanB76"},
+"url":"URL#5281655"
+},
+{
+"@score":"1",
+"@id":"5281656",
+"info":{"authors":{"author":[{"@pid":"t/TobyJTeorey","text":"Toby J. Teorey"},{"@pid":"23/3067","text":"K. Sundar Das"}]},"title":"Application of an Analytical Model to Evaluate Storage Structures.","venue":"SIGMOD Conference","pages":"9-19","year":"1976","type":"Conference and Workshop Papers","key":"conf/sigmod/TeoreyD76","doi":"10.1145/509383.509386","ee":"https://doi.org/10.1145/509383.509386","url":"https://dblp.org/rec/conf/sigmod/TeoreyD76"},
+"url":"URL#5281656"
+},
+{
+"@score":"1",
+"@id":"5281657",
+"info":{"authors":{"author":{"@pid":"t/DennisTsichritzis","text":"Dennis Tsichritzis"}},"title":"LSL - A Link and Selector Language.","venue":"SIGMOD Conference","pages":"123-133","year":"1976","type":"Conference and Workshop Papers","key":"conf/sigmod/Tsichritzis76","doi":"10.1145/509383.509401","ee":"https://doi.org/10.1145/509383.509401","url":"https://dblp.org/rec/conf/sigmod/Tsichritzis76"},
+"url":"URL#5281657"
+},
+{
+"@score":"1",
+"@id":"5281658",
+"info":{"authors":{"author":[{"@pid":"21/6094","text":"James W. Welch"},{"@pid":"77/2843","text":"J. Wesley Graham"}]},"title":"Retrieval Using Ordered Lists in Inverted and Multilist Files.","venue":"SIGMOD Conference","pages":"21-29","year":"1976","type":"Conference and Workshop Papers","key":"conf/sigmod/WelchG76","doi":"10.1145/509383.509387","ee":"https://doi.org/10.1145/509383.509387","url":"https://dblp.org/rec/conf/sigmod/WelchG76"},
+"url":"URL#5281658"
+},
+{
+"@score":"1",
+"@id":"5281659",
+"info":{"authors":{"author":[{"@pid":"59/2558","text":"Edward W. Winters"},{"@pid":"90/6209","text":"Alan F. Dickey"}]},"title":"A Business Application of Data Translation.","venue":"SIGMOD Conference","pages":"189-196","year":"1976","type":"Conference and Workshop Papers","key":"conf/sigmod/WintersD76","url":"https://dblp.org/rec/conf/sigmod/WintersD76"},
+"url":"URL#5281659"
+},
+{
+"@score":"1",
+"@id":"5281660",
+"info":{"authors":{"author":[{"@pid":"95/2864","text":"Eugene Wong 0001"},{"@pid":"39/1200","text":"Karel Youssefi"}]},"title":"Decomposition - A Strategy for Query Processing (Abstract).","venue":"SIGMOD Conference","pages":"155","year":"1976","type":"Conference and Workshop Papers","key":"conf/sigmod/WongY76","url":"https://dblp.org/rec/conf/sigmod/WongY76"},
+"url":"URL#5281660"
+},
+{
+"@score":"1",
+"@id":"5281846",
+"info":{"authors":{"author":{"@pid":"91/3701","text":"James B. Rothnie Jr."}},"title":"Proceedings of the 1976 ACM SIGMOD International Conference on Management of Data, Washington, DC, USA, June 2-4, 1976.","publisher":"ACM","year":"1976","type":"Editorship","key":"conf/sigmod/76","url":"https://dblp.org/rec/conf/sigmod/76"},
+"url":"URL#5281846"
+}
+]
+}
 }
 }

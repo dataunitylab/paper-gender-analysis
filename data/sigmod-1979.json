@@ -1,23 +1,182 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"sigmod\"/\"sigmod1979\".\"bht",
+"query":":facetid:toc:db\"/\"conf\"/\"sigmod\"/\"sigmod79\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.41"
+"text":"127.90"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"25",
+"@dc":"25",
+"@oc":"25",
+"@id":"17205146",
+"text":":facetid:toc:db/conf/sigmod/sigmod79.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"25",
+"@computed":"25",
+"@sent":"25",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"5264706",
+"info":{"authors":{"author":[{"@pid":"85/4395","text":"Dushan Z. Badal"},{"@pid":"62/6214","text":"Gerald J. Popek"}]},"title":"Cost and Performance Analysis of Semantic Integrity Validation Methods.","venue":"SIGMOD Conference","pages":"109-115","year":"1979","type":"Conference and Workshop Papers","key":"conf/sigmod/BadalP79","doi":"10.1145/582095.582112","ee":"https://doi.org/10.1145/582095.582112","url":"https://dblp.org/rec/conf/sigmod/BadalP79"},
+"url":"URL#5264706"
+},
+{
+"@score":"1",
+"@id":"5264707",
+"info":{"authors":{"author":[{"@pid":"b/JBiskup","text":"Joachim Biskup"},{"@pid":"76/2198","text":"Umeshwar Dayal"},{"@pid":"b/PhilipABernstein","text":"Philip A. Bernstein"}]},"title":"Synthesizing Independent Database Schemas.","venue":"SIGMOD Conference","pages":"143-151","year":"1979","type":"Conference and Workshop Papers","key":"conf/sigmod/BiskupDB79","doi":"10.1145/582095.582118","ee":"https://doi.org/10.1145/582095.582118","url":"https://dblp.org/rec/conf/sigmod/BiskupDB79"},
+"url":"URL#5264707"
+},
+{
+"@score":"1",
+"@id":"5264708",
+"info":{"authors":{"author":[{"@pid":"b/PeterBuneman","text":"Peter Buneman"},{"@pid":"67/1874","text":"Robert E. Frankel"}]},"title":"FQL - A Functional Query Language.","venue":"SIGMOD Conference","pages":"52-58","year":"1979","type":"Conference and Workshop Papers","key":"conf/sigmod/BunemanF79","doi":"10.1145/582095.582104","ee":"https://doi.org/10.1145/582095.582104","url":"https://dblp.org/rec/conf/sigmod/BunemanF79"},
+"url":"URL#5264708"
+},
+{
+"@score":"1",
+"@id":"5264709",
+"info":{"authors":{"author":{"@pid":"c/EFCodd","text":"E. F. Codd"}},"title":"Extending the Data Base Relational Model to Capture More Meaning (Abstract).","venue":"SIGMOD Conference","pages":"161","year":"1979","type":"Conference and Workshop Papers","key":"conf/sigmod/Codd79","doi":"10.1145/582095.582122","ee":"https://doi.org/10.1145/582095.582122","url":"https://dblp.org/rec/conf/sigmod/Codd79"},
+"url":"URL#5264709"
+},
+{
+"@score":"1",
+"@id":"5264710",
+"info":{"authors":{"author":{"@pid":"d/DJDeWitt","text":"David J. DeWitt"}},"title":"Query Execution in DIRECT.","venue":"SIGMOD Conference","pages":"13-22","year":"1979","type":"Conference and Workshop Papers","key":"conf/sigmod/DeWitt79","doi":"10.1145/582095.582098","ee":"https://doi.org/10.1145/582095.582098","url":"https://dblp.org/rec/conf/sigmod/DeWitt79"},
+"url":"URL#5264710"
+},
+{
+"@score":"1",
+"@id":"5264711",
+"info":{"authors":{"author":[{"@pid":"e/RamezElmasri","text":"Ramez Elmasri"},{"@pid":"w/GioWiederhold","text":"Gio Wiederhold"}]},"title":"Data Model Integration Using the Structural Model.","venue":"SIGMOD Conference","pages":"191-202","year":"1979","type":"Conference and Workshop Papers","key":"conf/sigmod/El-MasriW79","doi":"10.1145/582095.582127","ee":"https://doi.org/10.1145/582095.582127","url":"https://dblp.org/rec/conf/sigmod/El-MasriW79"},
+"url":"URL#5264711"
+},
+{
+"@score":"1",
+"@id":"5264712",
+"info":{"authors":{"author":{"@pid":"f/RonaldFagin","text":"Ronald Fagin"}},"title":"Normal Forms and Relational Database Operators.","venue":"SIGMOD Conference","pages":"153-160","year":"1979","type":"Conference and Workshop Papers","key":"conf/sigmod/Fagin79","doi":"10.1145/582095.582120","ee":"https://doi.org/10.1145/582095.582120","url":"https://dblp.org/rec/conf/sigmod/Fagin79"},
+"url":"URL#5264712"
+},
+{
+"@score":"1",
+"@id":"5264713",
+"info":{"authors":{"author":[{"@pid":"46/4470","text":"Michael Hammer"},{"@pid":"89/2634","text":"Bahram Niamir"}]},"title":"A Heuristic Approach to Attribute Partitioning.","venue":"SIGMOD Conference","pages":"93-101","year":"1979","type":"Conference and Workshop Papers","key":"conf/sigmod/HammerN79","doi":"10.1145/582095.582110","ee":"https://doi.org/10.1145/582095.582110","url":"https://dblp.org/rec/conf/sigmod/HammerN79"},
+"url":"URL#5264713"
+},
+{
+"@score":"1",
+"@id":"5264714",
+"info":{"authors":{"author":[{"@pid":"87/6282","text":"Paula B. Hawthorn"},{"@pid":"s/MichaelStonebraker","text":"Michael Stonebraker"}]},"title":"Performance Analysis of a Relational Data Base Management System.","venue":"SIGMOD Conference","pages":"1-12","year":"1979","type":"Conference and Workshop Papers","key":"conf/sigmod/HawthornS79","doi":"10.1145/582095.582097","ee":"https://doi.org/10.1145/582095.582097","url":"https://dblp.org/rec/conf/sigmod/HawthornS79"},
+"url":"URL#5264714"
+},
+{
+"@score":"1",
+"@id":"5264715",
+"info":{"authors":{"author":[{"@pid":"h/HarryBHuntIII","text":"Harry B. Hunt III"},{"@pid":"80/6105","text":"Daniel J. Rosenkrantz"}]},"title":"The Complexity of Testing Predicate Locks.","venue":"SIGMOD Conference","pages":"127-133","year":"1979","type":"Conference and Workshop Papers","key":"conf/sigmod/HuntR79","doi":"10.1145/582095.582115","ee":"https://doi.org/10.1145/582095.582115","url":"https://dblp.org/rec/conf/sigmod/HuntR79"},
+"url":"URL#5264715"
+},
+{
+"@score":"1",
+"@id":"5264716",
+"info":{"authors":{"author":[{"@pid":"i/KekiBIrani","text":"Keki B. Irani"},{"@pid":"84/1424","text":"Hing-Lung Lin"}]},"title":"Queuing Network Models for Concurrent Transaction Processing in a Database System.","venue":"SIGMOD Conference","pages":"134-142","year":"1979","type":"Conference and Workshop Papers","key":"conf/sigmod/IraniL79","doi":"10.1145/582095.582116","ee":"https://doi.org/10.1145/582095.582116","url":"https://dblp.org/rec/conf/sigmod/IraniL79"},
+"url":"URL#5264716"
+},
+{
+"@score":"1",
+"@id":"5264717",
+"info":{"authors":{"author":[{"@pid":"k/HTKung","text":"H. T. Kung 0001"},{"@pid":"p/CHPapadimitriou","text":"Christos H. Papadimitriou"}]},"title":"An Optimality Theory of Concurrency Control for Databases.","venue":"SIGMOD Conference","pages":"116-126","year":"1979","type":"Conference and Workshop Papers","key":"conf/sigmod/KungP79","doi":"10.1145/582095.582114","ee":"https://doi.org/10.1145/582095.582114","url":"https://dblp.org/rec/conf/sigmod/KungP79"},
+"url":"URL#5264717"
+},
+{
+"@score":"1",
+"@id":"5264718",
+"info":{"authors":{"author":{"@pid":"l/DavidBLomet","text":"David B. Lomet"}},"title":"Multi-Table Search for B-Tree Files.","venue":"SIGMOD Conference","pages":"35-42","year":"1979","type":"Conference and Workshop Papers","key":"conf/sigmod/Lomet79","doi":"10.1145/582095.582101","ee":"https://doi.org/10.1145/582095.582101","url":"https://dblp.org/rec/conf/sigmod/Lomet79"},
+"url":"URL#5264718"
+},
+{
+"@score":"1",
+"@id":"5264719",
+"info":{"authors":{"author":[{"@pid":"m/DavidMaier","text":"David Maier 0001"},{"@pid":"m/AOMendelzon","text":"Alberto O. Mendelzon"},{"@pid":"26/5086","text":"Yehoshua Sagiv"}]},"title":"Testing Implications of Data Dependencies (Abstract).","venue":"SIGMOD Conference","pages":"152","year":"1979","type":"Conference and Workshop Papers","key":"conf/sigmod/MaierMS79","doi":"10.1145/582095.582119","ee":"https://doi.org/10.1145/582095.582119","url":"https://dblp.org/rec/conf/sigmod/MaierMS79"},
+"url":"URL#5264719"
+},
+{
+"@score":"1",
+"@id":"5264720",
+"info":{"authors":{"author":[{"@pid":"35/1356","text":"Giuseppe Pelagatti"},{"@pid":"s/FASchreiber","text":"Fabio Alberto Schreiber"}]},"title":"Evaluation of Transmission Requirements in Distributed Database Access.","venue":"SIGMOD Conference","pages":"102-108","year":"1979","type":"Conference and Workshop Papers","key":"conf/sigmod/PelagattiS79","doi":"10.1145/582095.582111","ee":"https://doi.org/10.1145/582095.582111","url":"https://dblp.org/rec/conf/sigmod/PelagattiS79"},
+"url":"URL#5264720"
+},
+{
+"@score":"1",
+"@id":"5264721",
+"info":{"authors":{"author":[{"@pid":"r/ArnoldLRosenberg","text":"Arnold L. Rosenberg"},{"@pid":"s/LawrenceSnyder","text":"Lawrence Snyder"}]},"title":"Compact B-Trees.","venue":"SIGMOD Conference","pages":"43-51","year":"1979","type":"Conference and Workshop Papers","key":"conf/sigmod/RosenbergS79","doi":"10.1145/582095.582102","ee":"https://doi.org/10.1145/582095.582102","url":"https://dblp.org/rec/conf/sigmod/RosenbergS79"},
+"url":"URL#5264721"
+},
+{
+"@score":"1",
+"@id":"5264722",
+"info":{"authors":{"author":[{"@pid":"r/LawrenceARowe","text":"Lawrence A. Rowe"},{"@pid":"79/1603","text":"Kurt A. Shoens"}]},"title":"Data Abstractions, Views and Updates in RIGEL.","venue":"SIGMOD Conference","pages":"71-81","year":"1979","type":"Conference and Workshop Papers","key":"conf/sigmod/RoweS79","doi":"10.1145/582095.582107","ee":"https://doi.org/10.1145/582095.582107","url":"https://dblp.org/rec/conf/sigmod/RoweS79"},
+"url":"URL#5264722"
+},
+{
+"@score":"1",
+"@id":"5264723",
+"info":{"authors":{"author":{"@pid":"44/2304","text":"Edward Sciore"}},"title":"Improving Semantic Specification in a Relational Database.","venue":"SIGMOD Conference","pages":"170-178","year":"1979","type":"Conference and Workshop Papers","key":"conf/sigmod/Sciore79","doi":"10.1145/582095.582124","ee":"https://doi.org/10.1145/582095.582124","url":"https://dblp.org/rec/conf/sigmod/Sciore79"},
+"url":"URL#5264723"
+},
+{
+"@score":"1",
+"@id":"5264724",
+"info":{"authors":{"author":[{"@pid":"48/1954","text":"Patricia G. Selinger"},{"@pid":"33/2015","text":"Morton M. Astrahan"},{"@pid":"c/DDChamberlin","text":"Donald D. Chamberlin"},{"@pid":"67/3397","text":"Raymond A. Lorie"},{"@pid":"35/5645","text":"Thomas G. Price"}]},"title":"Access Path Selection in a Relational Database Management System.","venue":"SIGMOD Conference","pages":"23-34","year":"1979","type":"Conference and Workshop Papers","key":"conf/sigmod/SelingerACLP79","doi":"10.1145/582095.582099","ee":"https://doi.org/10.1145/582095.582099","url":"https://dblp.org/rec/conf/sigmod/SelingerACLP79"},
+"url":"URL#5264724"
+},
+{
+"@score":"1",
+"@id":"5264725",
+"info":{"authors":{"author":{"@pid":"75/665","text":"David W. Shipman"}},"title":"The Functional Data Model and the Data Language DAPLEX (Abstract).","venue":"SIGMOD Conference","pages":"59","year":"1979","type":"Conference and Workshop Papers","key":"conf/sigmod/Shipman79","doi":"10.1145/582095.582105","ee":"https://doi.org/10.1145/582095.582105","url":"https://dblp.org/rec/conf/sigmod/Shipman79"},
+"url":"URL#5264725"
+},
+{
+"@score":"1",
+"@id":"5264726",
+"info":{"authors":{"author":{"@pid":"v/YannisVassiliou","text":"Yannis Vassiliou"}},"title":"Null Values in Data Base Management - A Denotational Semantics Approach.","venue":"SIGMOD Conference","pages":"162-169","year":"1979","type":"Conference and Workshop Papers","key":"conf/sigmod/Vassiliou79","doi":"10.1145/582095.582123","ee":"https://doi.org/10.1145/582095.582123","url":"https://dblp.org/rec/conf/sigmod/Vassiliou79"},
+"url":"URL#5264726"
+},
+{
+"@score":"1",
+"@id":"5264727",
+"info":{"authors":{"author":{"@pid":"91/2540","text":"Anthony I. Wasserman"}},"title":"The Data Management Facilities of PLAIN.","venue":"SIGMOD Conference","pages":"60-70","year":"1979","type":"Conference and Workshop Papers","key":"conf/sigmod/Wasserman79","doi":"10.1145/582095.582106","ee":"https://doi.org/10.1145/582095.582106","url":"https://dblp.org/rec/conf/sigmod/Wasserman79"},
+"url":"URL#5264727"
+},
+{
+"@score":"1",
+"@id":"5264728",
+"info":{"authors":{"author":[{"@pid":"y/ClementTYu","text":"Clement T. Yu"},{"@pid":"51/2495","text":"K. Lam"},{"@pid":"65/1531","text":"M. K. Siu"},{"@pid":"o/ZMeralOzsoyoglu","text":"Z. Meral Özsoyoglu"}]},"title":"Performance Analysis of three Related Assignment Problems.","venue":"SIGMOD Conference","pages":"82-92","year":"1979","type":"Conference and Workshop Papers","key":"conf/sigmod/YuLSO79","doi":"10.1145/582095.582109","ee":"https://doi.org/10.1145/582095.582109","url":"https://dblp.org/rec/conf/sigmod/YuLSO79"},
+"url":"URL#5264728"
+},
+{
+"@score":"1",
+"@id":"5264729",
+"info":{"authors":{"author":{"@pid":"z/CZaniolo","text":"Carlo Zaniolo"}},"title":"Design of Relational Views over Network Schemas.","venue":"SIGMOD Conference","pages":"179-190","year":"1979","type":"Conference and Workshop Papers","key":"conf/sigmod/Zaniolo79","doi":"10.1145/582095.582126","ee":"https://doi.org/10.1145/582095.582126","url":"https://dblp.org/rec/conf/sigmod/Zaniolo79"},
+"url":"URL#5264729"
+},
+{
+"@score":"1",
+"@id":"5265053",
+"info":{"authors":{"author":{"@pid":"b/PhilipABernstein","text":"Philip A. Bernstein"}},"title":"Proceedings of the 1979 ACM SIGMOD International Conference on Management of Data, Boston, Massachusetts, USA, May 30 - June 1.","publisher":"ACM","year":"1979","type":"Editorship","key":"conf/sigmod/79","url":"https://dblp.org/rec/conf/sigmod/79"},
+"url":"URL#5265053"
+}
+]
+}
 }
 }
