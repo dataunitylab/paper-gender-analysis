@@ -41,6 +41,7 @@ def infer_genders():
             for (index, author) in enumerate(author_info):
                 # Initialize a new data point
                 datum = collections.OrderedDict(
+                    paper_id=paper['@id'],
                     conf=conf,
                     year=year,
                     author_position=None,
