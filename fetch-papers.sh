@@ -35,7 +35,8 @@ get_dblp_json conf icde 2000 2020 0
 get_dblp_json conf sigmod 75 99 1900
 get_dblp_json conf sigmod 2000 2020 0
 
-get_dblp_json journals pvldb 1 13 2007
+get_dblp_json journals vldb 1 29 1991
+
 get_dblp_json journals tods 1 45 1975
 
 #get_dblp_json conf kdd 2010 2020 0
