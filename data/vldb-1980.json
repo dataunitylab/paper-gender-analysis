@@ -1,0 +1,332 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"vldb\"/\"vldb80\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"101.76"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"50",
+"@dc":"50",
+"@oc":"50",
+"@id":"17494927",
+"text":":facetid:toc:db/conf/vldb/vldb80.bht"
+}
+},
+"hits":{
+"@total":"50",
+"@computed":"50",
+"@sent":"50",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"5343157",
+"info":{"authors":{"author":[{"@pid":"a/MEAdiba","text":"Michel E. Adiba"},{"@pid":"l/BruceGLindsay1","text":"Bruce G. Lindsay 0001"}]},"title":"Database Snapshots.","venue":"VLDB","pages":"86-91","year":"1980","type":"Conference and Workshop Papers","key":"conf/vldb/AdibaL80","url":"https://dblp.org/rec/conf/vldb/AdibaL80"},
+"url":"URL#5343157"
+},
+{
+"@score":"1",
+"@id":"5343158",
+"info":{"authors":{"author":{"@pid":"85/4395","text":"Dushan Z. Badal"}},"title":"The Analysis of the Effects of Concurrency Control on Distributed Database System Performance.","venue":"VLDB","pages":"376-383","year":"1980","type":"Conference and Workshop Papers","key":"conf/vldb/Badal80","url":"https://dblp.org/rec/conf/vldb/Badal80"},
+"url":"URL#5343158"
+},
+{
+"@score":"1",
+"@id":"5343159",
+"info":{"authors":{"author":[{"@pid":"b/RudolfBayer","text":"Rudolf Bayer"},{"@pid":"40/322","text":"Klaus Elhardt"},{"@pid":"73/5107","text":"Hans Heller"},{"@pid":"r/AngelikaReiser","text":"Angelika Reiser"}]},"title":"Distributed Concurrency Control in Database Systems.","venue":"VLDB","pages":"275-284","year":"1980","type":"Conference and Workshop Papers","key":"conf/vldb/BayerEHR80","url":"https://dblp.org/rec/conf/vldb/BayerEHR80"},
+"url":"URL#5343159"
+},
+{
+"@score":"1",
+"@id":"5343160",
+"info":{"authors":{"author":[{"@pid":"b/PhilipABernstein","text":"Philip A. Bernstein"},{"@pid":"16/662","text":"Barbara T. Blaustein"},{"@pid":"c/EdmundMClarke","text":"Edmund M. Clarke"}]},"title":"Fast Maintenance of Semantic Integrity Assertions Using Redundant Aggregate Data.","venue":"VLDB","pages":"126-136","year":"1980","type":"Conference and Workshop Papers","key":"conf/vldb/BernsteinBC80","url":"https://dblp.org/rec/conf/vldb/BernsteinBC80"},
+"url":"URL#5343160"
+},
+{
+"@score":"1",
+"@id":"5343161",
+"info":{"authors":{"author":[{"@pid":"b/PhilipABernstein","text":"Philip A. Bernstein"},{"@pid":"28/4334","text":"Nathan Goodman"}]},"title":"What does Boyce-Codd Normal Form Do?","venue":"VLDB","pages":"245-259","year":"1980","type":"Conference and Workshop Papers","key":"conf/vldb/BernsteinG80","url":"https://dblp.org/rec/conf/vldb/BernsteinG80"},
+"url":"URL#5343161"
+},
+{
+"@score":"1",
+"@id":"5343162",
+"info":{"authors":{"author":[{"@pid":"b/PhilipABernstein","text":"Philip A. Bernstein"},{"@pid":"28/4334","text":"Nathan Goodman"}]},"title":"Timestamp-Based Algorithms for Concurrency Control in Distributed Database Systems.","venue":"VLDB","pages":"285-300","year":"1980","type":"Conference and Workshop Papers","key":"conf/vldb/BernsteinG80a","url":"https://dblp.org/rec/conf/vldb/BernsteinG80a"},
+"url":"URL#5343162"
+},
+{
+"@score":"1",
+"@id":"5343163",
+"info":{"authors":{"author":[{"@pid":"69/6880","text":"Jean Le Bihan"},{"@pid":"56/2978","text":"Christian Esculier"},{"@pid":"52/3372","text":"Gérard Le Lann"},{"@pid":"12/2734","text":"Witold Litwin"},{"@pid":"g/GeorgesGardarin","text":"Georges Gardarin"},{"@pid":"16/4142","text":"S. Sedillort"},{"@pid":"53/3782","text":"L. Treille"}]},"title":"SIRIUS - A French Nationwide Project on Distributed Data Bases.","venue":"VLDB","pages":"75-85","year":"1980","type":"Conference and Workshop Papers","key":"conf/vldb/BihanELLGST80","url":"https://dblp.org/rec/conf/vldb/BihanELLGST80"},
+"url":"URL#5343163"
+},
+{
+"@score":"1",
+"@id":"5343164",
+"info":{"authors":{"author":{"@pid":"95/3763","text":"Michael L. Brodie"}},"title":"Data Abstraction, Databases and Conceptual Modelling.","venue":"VLDB","pages":"105-108","year":"1980","type":"Conference and Workshop Papers","key":"conf/vldb/Brodie80","url":"https://dblp.org/rec/conf/vldb/Brodie80"},
+"url":"URL#5343164"
+},
+{
+"@score":"1",
+"@id":"5343165",
+"info":{"authors":{"author":{"@pid":"95/3763","text":"Michael L. Brodie"}},"title":"Standardization and the Relational Approach to Databases - An ANSI Task Group Status Report.","venue":"VLDB","pages":"326-327","year":"1980","type":"Conference and Workshop Papers","key":"conf/vldb/Brodie80a","url":"https://dblp.org/rec/conf/vldb/Brodie80a"},
+"url":"URL#5343165"
+},
+{
+"@score":"1",
+"@id":"5343166",
+"info":{"authors":{"author":[{"@pid":"13/43","text":"Wing Kai Cheng"},{"@pid":"52/6441","text":"Geneva G. Belford"}]},"title":"Update Synchronization in Distributed Databases.","venue":"VLDB","pages":"301-308","year":"1980","type":"Conference and Workshop Papers","key":"conf/vldb/Cheng80","url":"https://dblp.org/rec/conf/vldb/Cheng80"},
+"url":"URL#5343166"
+},
+{
+"@score":"1",
+"@id":"5343167",
+"info":{"authors":{"author":{"@pid":"92/5019","text":"C. J. Date"}},"title":"An Introduction to the Unified Database Language (UDL).","venue":"VLDB","pages":"15-32","year":"1980","type":"Conference and Workshop Papers","key":"conf/vldb/Date80","url":"https://dblp.org/rec/conf/vldb/Date80"},
+"url":"URL#5343167"
+},
+{
+"@score":"1",
+"@id":"5343168",
+"info":{"authors":{"author":{"@pid":"31/4123","text":"Robert Demolombe"}},"title":"Estimation of the Number of Tuples Satisfying a Query Expressed in Predicate Calculus Language.","venue":"VLDB","pages":"55-63","year":"1980","type":"Conference and Workshop Papers","key":"conf/vldb/Demolombe80","url":"https://dblp.org/rec/conf/vldb/Demolombe80"},
+"url":"URL#5343168"
+},
+{
+"@score":"1",
+"@id":"5343169",
+"info":{"authors":{"author":[{"@pid":"83/1507","text":"Donald R. Deutsch"},{"@pid":"58/6077","text":"Eric K. Clemons"}]},"title":"DBMS Standards - Current Status and Future Directions.","venue":"VLDB","pages":"431-433","year":"1980","type":"Conference and Workshop Papers","key":"conf/vldb/DeutschC80","url":"https://dblp.org/rec/conf/vldb/DeutschC80"},
+"url":"URL#5343169"
+},
+{
+"@score":"1",
+"@id":"5343170",
+"info":{"authors":{"author":[{"@pid":"e/SJEggers","text":"Susan J. Eggers"},{"@pid":"s/ArieShoshani","text":"Arie Shoshani"}]},"title":"Efficient Access of Compressed Data.","venue":"VLDB","pages":"205-211","year":"1980","type":"Conference and Workshop Papers","key":"conf/vldb/EggersS80","url":"https://dblp.org/rec/conf/vldb/EggersS80"},
+"url":"URL#5343170"
+},
+{
+"@score":"1",
+"@id":"5343171",
+"info":{"authors":{"author":[{"@pid":"38/2827","text":"Robert S. Epstein"},{"@pid":"s/MichaelStonebraker","text":"Michael Stonebraker"}]},"title":"Analysis of Distributed Data Base Processing Strategies.","venue":"VLDB","pages":"92-101","year":"1980","type":"Conference and Workshop Papers","key":"conf/vldb/EpsteinS80","url":"https://dblp.org/rec/conf/vldb/EpsteinS80"},
+"url":"URL#5343171"
+},
+{
+"@score":"1",
+"@id":"5343172",
+"info":{"authors":{"author":[{"@pid":"77/4188","text":"Lenny Freilich"},{"@pid":"46/6589","text":"Paul J. Sadowski"}]},"title":"Managing Systems That Manage Data.","venue":"VLDB","pages":"155","year":"1980","type":"Conference and Workshop Papers","key":"conf/vldb/FreilichS80","url":"https://dblp.org/rec/conf/vldb/FreilichS80"},
+"url":"URL#5343172"
+},
+{
+"@score":"1",
+"@id":"5343173",
+"info":{"authors":{"author":[{"@pid":"g/GeorgesGardarin","text":"Georges Gardarin"},{"@pid":"28/4334","text":"Nathan Goodman"},{"@pid":"l/BruceGLindsay1","text":"Bruce G. Lindsay 0001"},{"@pid":"30/4111","text":"Rudolf Munz"},{"@pid":"91/3701","text":"James B. Rothnie Jr."}]},"title":"Distributed Database Systems.","venue":"VLDB","pages":"201-202","year":"1980","type":"Conference and Workshop Papers","key":"conf/vldb/GardarinGLMR80","url":"https://dblp.org/rec/conf/vldb/GardarinGLMR80"},
+"url":"URL#5343173"
+},
+{
+"@score":"1",
+"@id":"5343174",
+"info":{"authors":{"author":{"@pid":"g/CCGotlieb","text":"C. C. Gotlieb"}},"title":"Some Large Questions about Very Large Data Bases.","venue":"VLDB","pages":"3-7","year":"1980","type":"Conference and Workshop Papers","key":"conf/vldb/Gotlieb80","url":"https://dblp.org/rec/conf/vldb/Gotlieb80"},
+"url":"URL#5343174"
+},
+{
+"@score":"1",
+"@id":"5343175",
+"info":{"authors":{"author":[{"@pid":"46/4470","text":"Michael Hammer"},{"@pid":"z/SBZdonik","text":"Stanley B. Zdonik"}]},"title":"Knowledge-Based Query Processing.","venue":"VLDB","pages":"137-147","year":"1980","type":"Conference and Workshop Papers","key":"conf/vldb/HammerZ80","url":"https://dblp.org/rec/conf/vldb/HammerZ80"},
+"url":"URL#5343175"
+},
+{
+"@score":"1",
+"@id":"5343176",
+"info":{"authors":{"author":{"@pid":"87/6282","text":"Paula B. Hawthorn"}},"title":"Database Machines.","venue":"VLDB","pages":"393-395","year":"1980","type":"Conference and Workshop Papers","key":"conf/vldb/Hawthorn80","url":"https://dblp.org/rec/conf/vldb/Hawthorn80"},
+"url":"URL#5343176"
+},
+{
+"@score":"1",
+"@id":"5343177",
+"info":{"authors":{"author":{"@pid":"h/PeterHoneyman","text":"Peter Honeyman"}},"title":"Extension Joins.","venue":"VLDB","pages":"239-244","year":"1980","type":"Conference and Workshop Papers","key":"conf/vldb/Honeyman80","url":"https://dblp.org/rec/conf/vldb/Honeyman80"},
+"url":"URL#5343177"
+},
+{
+"@score":"1",
+"@id":"5343178",
+"info":{"authors":{"author":{"@pid":"55/171","text":"David K. Jefferson"}},"title":"The Development and Application of Data Base Design Tools and Methodology.","venue":"VLDB","pages":"153-154","year":"1980","type":"Conference and Workshop Papers","key":"conf/vldb/Jefferson80","url":"https://dblp.org/rec/conf/vldb/Jefferson80"},
+"url":"URL#5343178"
+},
+{
+"@score":"1",
+"@id":"5343179",
+"info":{"authors":{"author":[{"@pid":"k/ZviMKedem","text":"Zvi M. Kedem"},{"@pid":"s/AbrahamSilberschatz","text":"Abraham Silberschatz"}]},"title":"Non-Two-Phase Locking Protocols with Shared and Exclusive Locks.","venue":"VLDB","pages":"309-317","year":"1980","type":"Conference and Workshop Papers","key":"conf/vldb/KedemS80","url":"https://dblp.org/rec/conf/vldb/KedemS80"},
+"url":"URL#5343179"
+},
+{
+"@score":"1",
+"@id":"5343180",
+"info":{"authors":{"author":{"@pid":"k/WilliamKent","text":"William Kent"}},"title":"Splitting the Conceptual Schema.","venue":"VLDB","pages":"10-14","year":"1980","type":"Conference and Workshop Papers","key":"conf/vldb/Kent80","url":"https://dblp.org/rec/conf/vldb/Kent80"},
+"url":"URL#5343180"
+},
+{
+"@score":"1",
+"@id":"5343181",
+"info":{"authors":{"author":{"@pid":"l/PALarson","text":"Per-Åke Larson"}},"title":"Linear Hashing with Partial Expansions.","venue":"VLDB","pages":"224-232","year":"1980","type":"Conference and Workshop Papers","key":"conf/vldb/Larson80","url":"https://dblp.org/rec/conf/vldb/Larson80"},
+"url":"URL#5343181"
+},
+{
+"@score":"1",
+"@id":"5343182",
+"info":{"authors":{"author":{"@pid":"12/2734","text":"Witold Litwin"}},"title":"Linear Hashing - A New Tool for File and Table Addressing.","venue":"VLDB","pages":"212-223","year":"1980","type":"Conference and Workshop Papers","key":"conf/vldb/Litwin80","url":"https://dblp.org/rec/conf/vldb/Litwin80"},
+"url":"URL#5343182"
+},
+{
+"@score":"1",
+"@id":"5343183",
+"info":{"authors":{"author":[{"@pid":"m/DAMenasce","text":"Daniel A. Menascé"},{"@pid":"00/3581","text":"Oscar E. Landes"}]},"title":"On the Design of a Reliable Storage Component for Distributed Database Management Systems.","venue":"VLDB","pages":"365-375","year":"1980","type":"Conference and Workshop Papers","key":"conf/vldb/MenasceL80","url":"https://dblp.org/rec/conf/vldb/MenasceL80"},
+"url":"URL#5343183"
+},
+{
+"@score":"1",
+"@id":"5343184",
+"info":{"authors":{"author":[{"@pid":"m/JohnMylopoulos","text":"John Mylopoulos"},{"@pid":"49/144","text":"Harry K. T. Wong"}]},"title":"Some Features of the TAXIS Data Model.","venue":"VLDB","pages":"399-410","year":"1980","type":"Conference and Workshop Papers","key":"conf/vldb/MylopoulosW80","url":"https://dblp.org/rec/conf/vldb/MylopoulosW80"},
+"url":"URL#5343184"
+},
+{
+"@score":"1",
+"@id":"5343185",
+"info":{"authors":{"author":{"@pid":"17/5903","text":"K. K. Nambiar"}},"title":"Some Analytic Tools for the Design of Relational Database Systems.","venue":"VLDB","pages":"417-428","year":"1980","type":"Conference and Workshop Papers","key":"conf/vldb/Nambiar80","url":"https://dblp.org/rec/conf/vldb/Nambiar80"},
+"url":"URL#5343185"
+},
+{
+"@score":"1",
+"@id":"5343186",
+"info":{"authors":{"author":{"@pid":"n/ShamkantBNavathe","text":"Shamkant B. Navathe"}},"title":"An Intuitive Approach to Normalize Network Structured Data.","venue":"VLDB","pages":"350-358","year":"1980","type":"Conference and Workshop Papers","key":"conf/vldb/Navathe80","url":"https://dblp.org/rec/conf/vldb/Navathe80"},
+"url":"URL#5343186"
+},
+{
+"@score":"1",
+"@id":"5343187",
+"info":{"authors":{"author":{"@pid":"74/5201","text":"Emile Peeters"}},"title":"EEV Evaluation and Implementation of Database Systems.","venue":"VLDB","pages":"328-329","year":"1980","type":"Conference and Workshop Papers","key":"conf/vldb/Peeters80","url":"https://dblp.org/rec/conf/vldb/Peeters80"},
+"url":"URL#5343187"
+},
+{
+"@score":"1",
+"@id":"5343188",
+"info":{"authors":{"author":{"@pid":"18/6676","text":"Dorothy A. Phillips"}},"title":"Telidon and the Human Factors of Videotex Data Bases.","venue":"VLDB","pages":"330-331","year":"1980","type":"Conference and Workshop Papers","key":"conf/vldb/Phillips80","url":"https://dblp.org/rec/conf/vldb/Phillips80"},
+"url":"URL#5343188"
+},
+{
+"@score":"1",
+"@id":"5343189",
+"info":{"authors":{"author":{"@pid":"99/308","text":"Jonathan V. Post"}},"title":"Quintillabit - Parameters of a Hyperlarge Database.","venue":"VLDB","pages":"156-158","year":"1980","type":"Conference and Workshop Papers","key":"conf/vldb/Post80","url":"https://dblp.org/rec/conf/vldb/Post80"},
+"url":"URL#5343189"
+},
+{
+"@score":"1",
+"@id":"5343190",
+"info":{"authors":{"author":{"@pid":"r/TRisch","text":"Tore Risch"}},"title":"Production Program Generation in a Flexible Data Dictionary System.","venue":"VLDB","pages":"343-349","year":"1980","type":"Conference and Workshop Papers","key":"conf/vldb/Risch80","url":"https://dblp.org/rec/conf/vldb/Risch80"},
+"url":"URL#5343190"
+},
+{
+"@score":"1",
+"@id":"5343191",
+"info":{"authors":{"author":[{"@pid":"80/6105","text":"Daniel J. Rosenkrantz"},{"@pid":"h/HarryBHuntIII","text":"Harry B. Hunt III"}]},"title":"Processing Conjunctive Predicates and Queries.","venue":"VLDB","pages":"64-72","year":"1980","type":"Conference and Workshop Papers","key":"conf/vldb/RosenkrantzH80","url":"https://dblp.org/rec/conf/vldb/RosenkrantzH80"},
+"url":"URL#5343191"
+},
+{
+"@score":"1",
+"@id":"5343192",
+"info":{"authors":{"author":[{"@pid":"s/BShneiderman","text":"Ben Shneiderman"},{"@pid":"92/262","text":"Glenn Thomas"}]},"title":"Path Expressions for Complex Queries and Automatic Database Program Conversion.","venue":"VLDB","pages":"33-44","year":"1980","type":"Conference and Workshop Papers","key":"conf/vldb/ShneidermanT80","url":"https://dblp.org/rec/conf/vldb/ShneidermanT80"},
+"url":"URL#5343192"
+},
+{
+"@score":"1",
+"@id":"5343193",
+"info":{"authors":{"author":{"@pid":"59/5379","text":"Steven H. Spewak"}},"title":"A Pragmatic Approach to Database Design.","venue":"VLDB","pages":"151-152","year":"1980","type":"Conference and Workshop Papers","key":"conf/vldb/Spewak80","url":"https://dblp.org/rec/conf/vldb/Spewak80"},
+"url":"URL#5343193"
+},
+{
+"@score":"1",
+"@id":"5343194",
+"info":{"authors":{"author":{"@pid":"s/NicolasSpyratos","text":"Nicolas Spyratos"}},"title":"Translation Structures of Relational Views.","venue":"VLDB","pages":"411-416","year":"1980","type":"Conference and Workshop Papers","key":"conf/vldb/Spyratos80","url":"https://dblp.org/rec/conf/vldb/Spyratos80"},
+"url":"URL#5343194"
+},
+{
+"@score":"1",
+"@id":"5343195",
+"info":{"authors":{"author":{"@pid":"83/2995","text":"Thomas B. Steel Jr."}},"title":"Status Report on ISO/TC97/SC5/WG3 - Data Base Management Systems.","venue":"VLDB","pages":"321-325","year":"1980","type":"Conference and Workshop Papers","key":"conf/vldb/Steel80","url":"https://dblp.org/rec/conf/vldb/Steel80"},
+"url":"URL#5343195"
+},
+{
+"@score":"1",
+"@id":"5343196",
+"info":{"authors":{"author":{"@pid":"s/RudiStuder","text":"Rudi Studer"}},"title":"A Dialogue Interface for Data Base Applications.","venue":"VLDB","pages":"167-182","year":"1980","type":"Conference and Workshop Papers","key":"conf/vldb/Studer80","url":"https://dblp.org/rec/conf/vldb/Studer80"},
+"url":"URL#5343196"
+},
+{
+"@score":"1",
+"@id":"5343197",
+"info":{"authors":{"author":{"@pid":"06/6011","text":"Donald E. Swartwout"}},"title":"Database Theory and its Relationship to Practice.","venue":"VLDB","pages":"361","year":"1980","type":"Conference and Workshop Papers","key":"conf/vldb/Swartwout80","url":"https://dblp.org/rec/conf/vldb/Swartwout80"},
+"url":"URL#5343197"
+},
+{
+"@score":"1",
+"@id":"5343198",
+"info":{"authors":{"author":[{"@pid":"31/2629","text":"M. Tamir"},{"@pid":"98/236","text":"T. Missinai"},{"@pid":"33/6736","text":"Joel Arditi"},{"@pid":"90/1100","text":"E. Raban"},{"@pid":"08/5421","text":"S. Sole"},{"@pid":"91/4877","text":"S. Timor"},{"@pid":"27/5306","text":"E. Zukovsky"}]},"title":"DB1 - A DBMS-Based Application Generator.","venue":"VLDB","pages":"335-342","year":"1980","type":"Conference and Workshop Papers","key":"conf/vldb/TamirMARSTZ80","url":"https://dblp.org/rec/conf/vldb/TamirMARSTZ80"},
+"url":"URL#5343198"
+},
+{
+"@score":"1",
+"@id":"5343199",
+"info":{"authors":{"author":{"@pid":"t/DennisTsichritzis","text":"Dennis Tsichritzis"}},"title":"OFS - An Integrated Form Management System.","venue":"VLDB","pages":"161-166","year":"1980","type":"Conference and Workshop Papers","key":"conf/vldb/Tsichritzis80","url":"https://dblp.org/rec/conf/vldb/Tsichritzis80"},
+"url":"URL#5343199"
+},
+{
+"@score":"1",
+"@id":"5343200",
+"info":{"authors":{"author":{"@pid":"v/YannisVassiliou","text":"Yannis Vassiliou"}},"title":"Functional Dependencies and Incomplete Information.","venue":"VLDB","pages":"260-269","year":"1980","type":"Conference and Workshop Papers","key":"conf/vldb/Vassiliou80","url":"https://dblp.org/rec/conf/vldb/Vassiliou80"},
+"url":"URL#5343200"
+},
+{
+"@score":"1",
+"@id":"5343201",
+"info":{"authors":{"author":{"@pid":"96/2229","text":"Adrian Walker"}},"title":"On Retrieval from a Small Version of a Large Data Base.","venue":"VLDB","pages":"47-54","year":"1980","type":"Conference and Workshop Papers","key":"conf/vldb/Walker80","url":"https://dblp.org/rec/conf/vldb/Walker80"},
+"url":"URL#5343201"
+},
+{
+"@score":"1",
+"@id":"5343202",
+"info":{"authors":{"author":{"@pid":"24/3444","text":"W. A. Walker"}},"title":"Data Planning.","venue":"VLDB","pages":"235","year":"1980","type":"Conference and Workshop Papers","key":"conf/vldb/Walker80a","url":"https://dblp.org/rec/conf/vldb/Walker80a"},
+"url":"URL#5343202"
+},
+{
+"@score":"1",
+"@id":"5343203",
+"info":{"authors":{"author":{"@pid":"w/BerndWalter","text":"Bernd Walter"}},"title":"Strategies for Handling Transactions in Distributed Data Base Systems During Recovery.","venue":"VLDB","pages":"384-389","year":"1980","type":"Conference and Workshop Papers","key":"conf/vldb/Walter80","url":"https://dblp.org/rec/conf/vldb/Walter80"},
+"url":"URL#5343203"
+},
+{
+"@score":"1",
+"@id":"5343204",
+"info":{"authors":{"author":{"@pid":"84/3340","text":"Gerald A. Wilson"}},"title":"A Conceptual Model for Semantic Integrity Checking.","venue":"VLDB","pages":"111-125","year":"1980","type":"Conference and Workshop Papers","key":"conf/vldb/Wilson80","url":"https://dblp.org/rec/conf/vldb/Wilson80"},
+"url":"URL#5343204"
+},
+{
+"@score":"1",
+"@id":"5343205",
+"info":{"authors":{"author":[{"@pid":"84/3340","text":"Gerald A. Wilson"},{"@pid":"58/221","text":"Christopher F. Herot"}]},"title":"Semantics vs. Graphics - To Show or not to Show.","venue":"VLDB","pages":"183-197","year":"1980","type":"Conference and Workshop Papers","key":"conf/vldb/WilsonH80","url":"https://dblp.org/rec/conf/vldb/WilsonH80"},
+"url":"URL#5343205"
+},
+{
+"@score":"1",
+"@id":"5343367",
+"info":{"title":"Sixth International Conference on Very Large Data Bases, October 1-3, 1980, Montreal, Quebec, Canada, Proceedings.","publisher":"IEEE Computer Society","year":"1980","type":"Editorship","key":"conf/vldb/80","url":"https://dblp.org/rec/conf/vldb/80"},
+"url":"URL#5343367"
+}
+]
+}
+}
+}

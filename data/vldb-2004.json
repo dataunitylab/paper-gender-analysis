@@ -1,0 +1,938 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"vldb\"/\"vldb2004\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"159.88"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"151",
+"@dc":"151",
+"@oc":"151",
+"@id":"17494916",
+"text":":facetid:toc:db/conf/vldb/vldb2004.bht"
+}
+},
+"hits":{
+"@total":"151",
+"@computed":"151",
+"@sent":"151",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"4387386",
+"info":{"authors":{"author":[{"@pid":"a/DJAbadi","text":"Daniel J. Abadi"},{"@pid":"l/WolfgangLindner","text":"Wolfgang Lindner 0001"},{"@pid":"m/SamuelMadden","text":"Samuel Madden"},{"@pid":"77/2502","text":"Jörg Schuler"}]},"title":"An Integration Framework for Sensor Networks and Data Stream Management Systems.","venue":"VLDB","pages":"1361-1364","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/AbadiLMS04","doi":"10.1016/B978-012088469-8.50147-9","ee":"http://www.vldb.org/conf/2004/DEMP28.PDF","url":"https://dblp.org/rec/conf/vldb/AbadiLMS04"},
+"url":"URL#4387386"
+},
+{
+"@score":"1",
+"@id":"4387387",
+"info":{"authors":{"author":[{"@pid":"a/SergeAbiteboul","text":"Serge Abiteboul"},{"@pid":"05/6762","text":"Bogdan Alexe"},{"@pid":"b/OmarBenjelloun","text":"Omar Benjelloun"},{"@pid":"05/6939","text":"Bogdan Cautis"},{"@pid":"74/6086","text":"Irini Fundulaki"},{"@pid":"m/TovaMilo","text":"Tova Milo"},{"@pid":"s/ArnaudSahuguet","text":"Arnaud Sahuguet"}]},"title":"An Electronic Patient Record &quot;on Steroids&quot; - Distributed, Peer-to-Peer, Secure and Privacy-conscious.","venue":"VLDB","pages":"1273-1276","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/AbiteboulABCFMS04","doi":"10.1016/B978-012088469-8.50125-X","ee":"http://www.vldb.org/conf/2004/DEMP6a.PDF","url":"https://dblp.org/rec/conf/vldb/AbiteboulABCFMS04"},
+"url":"URL#4387387"
+},
+{
+"@score":"1",
+"@id":"4387388",
+"info":{"authors":{"author":[{"@pid":"01/3996","text":"Ashraf Aboulnaga"},{"@pid":"h/PeterJHaas","text":"Peter J. Haas"},{"@pid":"31/3001","text":"Sam Lightstone"},{"@pid":"21/2457","text":"Guy M. Lohman"},{"@pid":"m/VMarkl","text":"Volker Markl"},{"@pid":"01/734","text":"Ivan Popivanov"},{"@pid":"r/VijayshankarRaman","text":"Vijayshankar Raman"}]},"title":"Automated Statistics Collection in DB2 UDB.","venue":"VLDB","pages":"1146-1157","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/AboulnagaHLLMPR04","doi":"10.1016/B978-012088469-8.50100-5","ee":"http://www.vldb.org/conf/2004/IND5P3.PDF","url":"https://dblp.org/rec/conf/vldb/AboulnagaHLLMPR04"},
+"url":"URL#4387388"
+},
+{
+"@score":"1",
+"@id":"4387389",
+"info":{"authors":{"author":[{"@pid":"75/3847","text":"Gagan Aggarwal"},{"@pid":"66/1099","text":"Mayank Bawa"},{"@pid":"93/3997","text":"Prasanna Ganesan"},{"@pid":"g/HGarciaMolina","text":"Hector Garcia-Molina"},{"@pid":"29/4781","text":"Krishnaram Kenthapadi"},{"@pid":"55/693","text":"Nina Mishra"},{"@pid":"m/RajeevMotwani","text":"Rajeev Motwani 0001"},{"@pid":"46/2539","text":"Utkarsh Srivastava"},{"@pid":"t/DilysThomas","text":"Dilys Thomas"},{"@pid":"w/JenniferWidom","text":"Jennifer Widom"},{"@pid":"x/YingXu0002","text":"Ying Xu 0002"}]},"title":"Vision Paper - Enabling Privacy for the Paranoids.","venue":"VLDB","pages":"708-719","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/AggarwalBGGKMMSTW04","doi":"10.1016/B978-012088469-8.50063-2","ee":"http://www.vldb.org/conf/2004/RS19P1.PDF","url":"https://dblp.org/rec/conf/vldb/AggarwalBGGKMMSTW04"},
+"url":"URL#4387389"
+},
+{
+"@score":"1",
+"@id":"4387390",
+"info":{"authors":{"author":[{"@pid":"a/CharuCAggarwal","text":"Charu C. Aggarwal"},{"@pid":"h/JiaweiHan","text":"Jiawei Han 0001"},{"@pid":"24/2006","text":"Jianyong Wang"},{"@pid":"y/PhilipSYu","text":"Philip S. Yu"}]},"title":"A Framework for Projected Clustering of High Dimensional Data Streams.","venue":"VLDB","pages":"852-863","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/AggarwalHWY04","doi":"10.1016/B978-012088469-8.50075-9","ee":"http://www.vldb.org/conf/2004/RS21P7.PDF","url":"https://dblp.org/rec/conf/vldb/AggarwalHWY04"},
+"url":"URL#4387390"
+},
+{
+"@score":"1",
+"@id":"4387391",
+"info":{"authors":{"author":[{"@pid":"a/RAgrawal","text":"Rakesh Agrawal 0001"},{"@pid":"b/RobertoJBayardo","text":"Roberto J. Bayardo Jr."},{"@pid":"f/CFaloutsos","text":"Christos Faloutsos"},{"@pid":"k/JerryKiernan","text":"Jerry Kiernan"},{"@pid":"r/RalfRantzau","text":"Ralf Rantzau"},{"@pid":"s/RamSrikant","text":"Ramakrishnan Srikant"}]},"title":"Auditing Compliance with a Hippocratic Database.","venue":"VLDB","pages":"516-527","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/AgrawalBFKRS04","doi":"10.1016/B978-012088469-8.50047-4","ee":"http://www.vldb.org/conf/2004/RS13P2.PDF","url":"https://dblp.org/rec/conf/vldb/AgrawalBFKRS04"},
+"url":"URL#4387391"
+},
+{
+"@score":"1",
+"@id":"4387392",
+"info":{"authors":{"author":[{"@pid":"a/SanjayAgrawal","text":"Sanjay Agrawal 0001"},{"@pid":"c/SurajitChaudhuri","text":"Surajit Chaudhuri"},{"@pid":"33/6917","text":"Lubor Kollár"},{"@pid":"m/APMarathe","text":"Arunprasad P. Marathe"},{"@pid":"n/VivekRNarasayya","text":"Vivek R. Narasayya"},{"@pid":"33/882","text":"Manoj Syamala"}]},"title":"Database Tuning Advisor for Microsoft SQL Server 2005.","venue":"VLDB","pages":"1110-1121","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/AgrawalCKMNS04","doi":"10.1016/B978-012088469-8.50097-8","ee":"https://doi.org/10.1016/B978-012088469-8.50097-8","url":"https://dblp.org/rec/conf/vldb/AgrawalCKMNS04"},
+"url":"URL#4387392"
+},
+{
+"@score":"1",
+"@id":"4387393",
+"info":{"authors":{"author":[{"@pid":"a/RAgrawal","text":"Rakesh Agrawal 0001"},{"@pid":"s/RamSrikant","text":"Ramakrishnan Srikant"}]},"title":"Whither Data Mining?","venue":"VLDB","pages":"9","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/AgrawalS04","doi":"10.1016/B978-012088469-8.50004-8","ee":"http://www.vldb.org/conf/2004/KEY3.PDF","url":"https://dblp.org/rec/conf/vldb/AgrawalS04"},
+"url":"URL#4387393"
+},
+{
+"@score":"1",
+"@id":"4387394",
+"info":{"authors":{"author":[{"@pid":"99/770","text":"Yanif Ahmad"},{"@pid":"c/UgurCetintemel","text":"Ugur Çetintemel"}]},"title":"Networked Query Processing for Distributed Stream-Based Applications.","venue":"VLDB","pages":"456-467","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/AhmadC04","doi":"10.1016/B978-012088469-8.50042-5","ee":"http://www.vldb.org/conf/2004/RS11P4.PDF","url":"https://dblp.org/rec/conf/vldb/AhmadC04"},
+"url":"URL#4387394"
+},
+{
+"@score":"1",
+"@id":"4387395",
+"info":{"authors":{"author":{"@pid":"a/AnastassiaAilamaki","text":"Anastassia Ailamaki"}},"title":"Database Architecture for New Hardware.","venue":"VLDB","pages":"1241","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/Ailamaki04","doi":"10.1016/B978-012088469-8.50114-5","ee":"http://www.vldb.org/conf/2004/TUT1.PDF","url":"https://dblp.org/rec/conf/vldb/Ailamaki04"},
+"url":"URL#4387395"
+},
+{
+"@score":"1",
+"@id":"4387396",
+"info":{"authors":{"author":[{"@pid":"a/ArvindArasu","text":"Arvind Arasu"},{"@pid":"c/MitchCherniack","text":"Mitch Cherniack"},{"@pid":"58/6473","text":"Eduardo F. Galvez"},{"@pid":"m/DavidMaier","text":"David Maier 0001"},{"@pid":"36/1442","text":"Anurag Maskey"},{"@pid":"79/5102","text":"Esther Ryvkina"},{"@pid":"s/MichaelStonebraker","text":"Michael Stonebraker"},{"@pid":"62/3468","text":"Richard Tibbetts"}]},"title":"Linear Road - A Stream Data Management Benchmark.","venue":"VLDB","pages":"480-491","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/ArasuCGMMRST04","doi":"10.1016/B978-012088469-8.50044-9","ee":"http://www.vldb.org/conf/2004/RS12P1.PDF","url":"https://dblp.org/rec/conf/vldb/ArasuCGMMRST04"},
+"url":"URL#4387396"
+},
+{
+"@score":"1",
+"@id":"4387397",
+"info":{"authors":{"author":[{"@pid":"a/ArvindArasu","text":"Arvind Arasu"},{"@pid":"w/JenniferWidom","text":"Jennifer Widom"}]},"title":"Resource Sharing in Continuous Sliding-Window Aggregates.","venue":"VLDB","pages":"336-347","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/ArasuW04","doi":"10.1016/B978-012088469-8.50032-2","ee":"http://www.vldb.org/conf/2004/RS9P2.PDF","url":"https://dblp.org/rec/conf/vldb/ArasuW04"},
+"url":"URL#4387397"
+},
+{
+"@score":"1",
+"@id":"4387398",
+"info":{"authors":{"author":[{"@pid":"b/RABaezaYates","text":"Ricardo A. Baeza-Yates"},{"@pid":"c/MPConsens","text":"Mariano P. Consens"}]},"title":"The Continued Saga of DB-IR Integration.","venue":"VLDB","pages":"1245","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/Baeza-YatesC04","doi":"10.1016/B978-012088469-8.50118-2","ee":"http://www.vldb.org/conf/2004/TUT5.PDF","url":"https://dblp.org/rec/conf/vldb/Baeza-YatesC04"},
+"url":"URL#4387398"
+},
+{
+"@score":"1",
+"@id":"4387399",
+"info":{"authors":{"author":[{"@pid":"b/KarimBaina","text":"Karim Baïna"},{"@pid":"b/BoualemBenatallah","text":"Boualem Benatallah"},{"@pid":"20/11","text":"Hye-Young Paik"},{"@pid":"t/FaroukToumani","text":"Farouk Toumani"},{"@pid":"11/567","text":"Christophe Rey"},{"@pid":"15/1652","text":"Agnieszka Rutkowska"},{"@pid":"60/4137","text":"Bryan Harianto"}]},"title":"WS-CatalogNet - An Infrastructure for Creating, Peering, and Querying e-Catalog Communities.","venue":"VLDB","pages":"1325-1328","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/BainaBPTRRH04","doi":"10.1016/B978-012088469-8.50138-8","ee":"http://www.vldb.org/conf/2004/DEMP19.PDF","url":"https://dblp.org/rec/conf/vldb/BainaBPTRRH04"},
+"url":"URL#4387399"
+},
+{
+"@score":"1",
+"@id":"4387400",
+"info":{"authors":{"author":[{"@pid":"b/WTBalke","text":"Wolf-Tilo Balke"},{"@pid":"39/985","text":"Ulrich Güntzer"}]},"title":"Multi-objective Query Processing for Database Systems.","venue":"VLDB","pages":"936-947","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/BalkeG04","doi":"10.1016/B978-012088469-8.50082-6","ee":"http://www.vldb.org/conf/2004/RS24P1.PDF","url":"https://dblp.org/rec/conf/vldb/BalkeG04"},
+"url":"URL#4387400"
+},
+{
+"@score":"1",
+"@id":"4387401",
+"info":{"authors":{"author":[{"@pid":"44/4147","text":"Andrey Balmin"},{"@pid":"42/5855","text":"Vagelis Hristidis"},{"@pid":"p/YPapakonstantinou","text":"Yannis Papakonstantinou"}]},"title":"ObjectRank - Authority-Based Keyword Search in Databases.","venue":"VLDB","pages":"564-575","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/BalminHP04","doi":"10.1016/B978-012088469-8.50051-6","ee":"http://www.vldb.org/conf/2004/RS15P2.PDF","url":"https://dblp.org/rec/conf/vldb/BalminHP04"},
+"url":"URL#4387401"
+},
+{
+"@score":"1",
+"@id":"4387402",
+"info":{"authors":{"author":[{"@pid":"44/4147","text":"Andrey Balmin"},{"@pid":"o/FatmaOzcan","text":"Fatma Özcan"},{"@pid":"b/KevinSBeyer","text":"Kevin S. Beyer"},{"@pid":"93/595","text":"Roberta Cochrane"},{"@pid":"p/HamidPirahesh","text":"Hamid Pirahesh"}]},"title":"A Framework for Using Materialized XPath Views in XML Query Processing.","venue":"VLDB","pages":"60-71","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/BalminOBCP04","doi":"10.1016/B978-012088469-8.50009-7","ee":"http://www.vldb.org/conf/2004/RS2P2.PDF","url":"https://dblp.org/rec/conf/vldb/BalminOBCP04"},
+"url":"URL#4387402"
+},
+{
+"@score":"1",
+"@id":"4387403",
+"info":{"authors":{"author":[{"@pid":"10/2626","text":"Nagender Bandi"},{"@pid":"75/956","text":"Chengyu Sun"},{"@pid":"a/AmrElAbbadi","text":"Amr El Abbadi"},{"@pid":"a/DivyakantAgrawal","text":"Divyakant Agrawal"}]},"title":"Hardware Acceleration in Commercial Databases - A Case Study of Spatial Operations.","venue":"VLDB","pages":"1021-1032","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/BandiSAA04","doi":"10.1016/B978-012088469-8.50089-9","ee":"http://www.vldb.org/conf/2004/IND2P1.PDF","url":"https://dblp.org/rec/conf/vldb/BandiSAA04"},
+"url":"URL#4387403"
+},
+{
+"@score":"1",
+"@id":"4387404",
+"info":{"authors":{"author":[{"@pid":"b/CBeeri","text":"Catriel Beeri"},{"@pid":"k/YaronKanza","text":"Yaron Kanza"},{"@pid":"87/6462","text":"Eliyahu Safra"},{"@pid":"26/5086","text":"Yehoshua Sagiv"}]},"title":"Object Fusion in Geographic Information Systems.","venue":"VLDB","pages":"816-827","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/BeeriKSS04","doi":"10.1016/B978-012088469-8.50072-3","ee":"http://www.vldb.org/conf/2004/RS21P4.PDF","url":"https://dblp.org/rec/conf/vldb/BeeriKSS04"},
+"url":"URL#4387404"
+},
+{
+"@score":"1",
+"@id":"4387405",
+"info":{"authors":{"author":[{"@pid":"52/617","text":"Andreas Behm"},{"@pid":"08/2629","text":"Serge Rielau"},{"@pid":"46/5927","text":"Richard Swagerman"}]},"title":"Returning Modified Rows - SELECT Statements with Side Effects.","venue":"VLDB","pages":"987-997","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/BehmRS04","doi":"10.1016/B978-012088469-8.50086-3","ee":"http://www.vldb.org/conf/2004/IND1P1.PDF","url":"https://dblp.org/rec/conf/vldb/BehmRS04"},
+"url":"URL#4387405"
+},
+{
+"@score":"1",
+"@id":"4387406",
+"info":{"authors":{"author":[{"@pid":"60/4735","text":"Deepavali Bhagwat"},{"@pid":"c/LauraChiticariu","text":"Laura Chiticariu"},{"@pid":"t/WangChiewTan","text":"Wang Chiew Tan"},{"@pid":"90/2948","text":"Gaurav Vijayvargiya"}]},"title":"An Annotation Management System for Relational Databases.","venue":"VLDB","pages":"900-911","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/BhagwatCTV04","doi":"10.1016/B978-012088469-8.50079-6","ee":"http://www.vldb.org/conf/2004/RS23P1.PDF","url":"https://dblp.org/rec/conf/vldb/BhagwatCTV04"},
+"url":"URL#4387406"
+},
+{
+"@score":"1",
+"@id":"4387407",
+"info":{"authors":{"author":{"@pid":"06/3766","text":"Ramesh Bhashyam"}},"title":"Technology Challenges in a Data Warehouse.","venue":"VLDB","pages":"1225-1226","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/Bhashyam04","doi":"10.1016/B978-012088469-8.50110-8","ee":"http://www.vldb.org/conf/2004/IND8P2.PDF","url":"https://dblp.org/rec/conf/vldb/Bhashyam04"},
+"url":"URL#4387407"
+},
+{
+"@score":"1",
+"@id":"4387408",
+"info":{"authors":{"author":[{"@pid":"98/4768","text":"Toby Bloom"},{"@pid":"77/1414","text":"Ted Sharpe"}]},"title":"Managing Data from High-Throughput Genomic Processing - A Case Study.","venue":"VLDB","pages":"1198-1201","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/BloomS04","doi":"10.1016/B978-012088469-8.50106-6","ee":"http://www.vldb.org/conf/2004/IND7P1.PDF","url":"https://dblp.org/rec/conf/vldb/BloomS04"},
+"url":"URL#4387408"
+},
+{
+"@score":"1",
+"@id":"4387409",
+"info":{"authors":{"author":[{"@pid":"34/1731","text":"Christof Bornhövd"},{"@pid":"64/4492","text":"Tao Lin"},{"@pid":"83/3329","text":"Stephan Haller"},{"@pid":"00/6864","text":"Joachim Schaper"}]},"title":"Integrating Automatic Data Acquisition with Business Processes - Experiences with SAP&apos;s Auto-ID Infrastructure.","venue":"VLDB","pages":"1182-1188","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/BornhovdLHS04","doi":"10.1016/B978-012088469-8.50103-0","ee":"http://www.vldb.org/conf/2004/IND6P1.PDF","url":"https://dblp.org/rec/conf/vldb/BornhovdLHS04"},
+"url":"URL#4387409"
+},
+{
+"@score":"1",
+"@id":"4387410",
+"info":{"authors":{"author":[{"@pid":"b/LucBouganim","text":"Luc Bouganim"},{"@pid":"29/6336","text":"François Dang Ngoc"},{"@pid":"p/PPucheral","text":"Philippe Pucheral"}]},"title":"Client-Based Access Control Management for XML documents.","venue":"VLDB","pages":"84-95","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/BouganimNP04","doi":"10.1016/B978-012088469-8.50011-5","ee":"http://www.vldb.org/conf/2004/RS3P1.PDF","url":"https://dblp.org/rec/conf/vldb/BouganimNP04"},
+"url":"URL#4387410"
+},
+{
+"@score":"1",
+"@id":"4387411",
+"info":{"authors":{"author":[{"@pid":"84/2055","text":"Vanessa P. Braganholo"},{"@pid":"d/SBDavidson","text":"Susan B. Davidson"},{"@pid":"h/CarlosAHeuser","text":"Carlos A. Heuser"}]},"title":"From XML View Updates to Relational View Updates - old solutions to a new problem.","venue":"VLDB","pages":"276-287","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/BraganholoDH04","doi":"10.1016/B978-012088469-8.50027-9","ee":"http://www.vldb.org/conf/2004/RS7P3.PDF","url":"https://dblp.org/rec/conf/vldb/BraganholoDH04"},
+"url":"URL#4387411"
+},
+{
+"@score":"1",
+"@id":"4387412",
+"info":{"authors":{"author":{"@pid":"89/4274","text":"David Campbell"}},"title":"Production Database Systems - Making Them Easy is Hard Work.","venue":"VLDB","pages":"1196-1197","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/Campbell04","doi":"10.1016/B978-012088469-8.50105-4","ee":"http://www.vldb.org/conf/2004/IND6P3.PDF","url":"https://dblp.org/rec/conf/vldb/Campbell04"},
+"url":"URL#4387412"
+},
+{
+"@score":"1",
+"@id":"4387413",
+"info":{"authors":{"author":[{"@pid":"c/SangKyunCha","text":"Sang Kyun Cha"},{"@pid":"32/3438","text":"Changbin Song"}]},"title":"P*TIME - Highly Scalable OLTP DBMS for Managing Update-Intensive Stream Workload.","venue":"VLDB","pages":"1033-1044","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/Cha04","doi":"10.1016/B978-012088469-8.50090-5","ee":"http://www.vldb.org/conf/2004/IND2P2.PDF","url":"https://dblp.org/rec/conf/vldb/Cha04"},
+"url":"URL#4387413"
+},
+{
+"@score":"1",
+"@id":"4387414",
+"info":{"authors":{"author":[{"@pid":"c/CheeYongChan","text":"Chee Yong Chan"},{"@pid":"94/2372","text":"Wenfei Fan"},{"@pid":"10/1103","text":"Yiming Zeng"}]},"title":"Taming XPath Queries by Minimizing Wildcard Steps.","venue":"VLDB","pages":"156-167","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/ChanFZ04","doi":"10.1016/B978-012088469-8.50017-6","ee":"http://www.vldb.org/conf/2004/RS4P4.PDF","url":"https://dblp.org/rec/conf/vldb/ChanFZ04"},
+"url":"URL#4387414"
+},
+{
+"@score":"1",
+"@id":"4387415",
+"info":{"authors":{"author":[{"@pid":"62/2845","text":"Sirish Chandrasekaran"},{"@pid":"f/MJFranklin","text":"Michael J. Franklin"}]},"title":"Remembrance of Streams Past - Overload-Sensitive Management of Archived Streams.","venue":"VLDB","pages":"348-359","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/ChandrasekaranF04","doi":"10.1016/B978-012088469-8.50033-4","ee":"http://www.vldb.org/conf/2004/RS9P3.PDF","url":"https://dblp.org/rec/conf/vldb/ChandrasekaranF04"},
+"url":"URL#4387415"
+},
+{
+"@score":"1",
+"@id":"4387416",
+"info":{"authors":{"author":[{"@pid":"c/SurajitChaudhuri","text":"Surajit Chaudhuri"},{"@pid":"07/1181","text":"Gautam Das 0001"},{"@pid":"42/5855","text":"Vagelis Hristidis"},{"@pid":"w/GerhardWeikum","text":"Gerhard Weikum"}]},"title":"Probabilistic Ranking of Database Query Results.","venue":"VLDB","pages":"888-899","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/ChaudhuriDHW04","doi":"10.1016/B978-012088469-8.50078-4","ee":"http://www.vldb.org/conf/2004/RS22P3.PDF","url":"https://dblp.org/rec/conf/vldb/ChaudhuriDHW04"},
+"url":"URL#4387416"
+},
+{
+"@score":"1",
+"@id":"4387417",
+"info":{"authors":{"author":[{"@pid":"c/SurajitChaudhuri","text":"Surajit Chaudhuri"},{"@pid":"59/847","text":"Benoît Dageville"},{"@pid":"21/2457","text":"Guy M. Lohman"}]},"title":"Self-Managing Technology in Database Management Systems.","venue":"VLDB","pages":"1243","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/ChaudhuriDL04","doi":"10.1016/B978-012088469-8.50116-9","ee":"http://www.vldb.org/conf/2004/TUT3.PDF","url":"https://dblp.org/rec/conf/vldb/ChaudhuriDL04"},
+"url":"URL#4387417"
+},
+{
+"@score":"1",
+"@id":"4387418",
+"info":{"authors":{"author":[{"@pid":"c/SSChawathe","text":"Sudarshan S. Chawathe"},{"@pid":"46/6036","text":"Venkat Krishnamurthy"},{"@pid":"38/6426","text":"Sridhar Ramachandran"},{"@pid":"90/3360","text":"Sanjay E. Sarma"}]},"title":"Managing RFID Data.","venue":"VLDB","pages":"1189-1195","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/ChawatheKRS04","doi":"10.1016/B978-012088469-8.50104-2","ee":"http://www.vldb.org/conf/2004/IND6P2.PDF","url":"https://dblp.org/rec/conf/vldb/ChawatheKRS04"},
+"url":"URL#4387418"
+},
+{
+"@score":"1",
+"@id":"4387419",
+"info":{"authors":{"author":[{"@pid":"c/LeiChen0002","text":"Lei Chen 0002"},{"@pid":"n/RTNg","text":"Raymond T. Ng"}]},"title":"On The Marriage of Lp-norms and Edit Distance.","venue":"VLDB","pages":"792-803","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/ChenN04","doi":"10.1016/B978-012088469-8.50070-X","ee":"http://www.vldb.org/conf/2004/RS21P2.PDF","url":"https://dblp.org/rec/conf/vldb/ChenN04"},
+"url":"URL#4387419"
+},
+{
+"@score":"1",
+"@id":"4387420",
+"info":{"authors":{"author":[{"@pid":"89/2619","text":"Reynold Cheng"},{"@pid":"55/6753","text":"Yuni Xia"},{"@pid":"p/SunilPrabhakar","text":"Sunil Prabhakar"},{"@pid":"75/3500","text":"Rahul Shah"},{"@pid":"v/JeffreyScottVitter","text":"Jeffrey Scott Vitter"}]},"title":"Efficient Indexing Methods for Probabilistic Threshold Queries over Uncertain Data.","venue":"VLDB","pages":"876-887","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/ChengXPSV04","doi":"10.1016/B978-012088469-8.50077-2","ee":"http://www.vldb.org/conf/2004/RS22P2.PDF","url":"https://dblp.org/rec/conf/vldb/ChengXPSV04"},
+"url":"URL#4387420"
+},
+{
+"@score":"1",
+"@id":"4387421",
+"info":{"authors":{"author":[{"@pid":"07/1560","text":"Byron Choi"},{"@pid":"94/2372","text":"Wenfei Fan"},{"@pid":"02/5610","text":"Xibei Jia"},{"@pid":"00/1800","text":"Arek Kasprzyk"}]},"title":"A Uniform System for Publishing and Maintaining XML Data.","venue":"VLDB","pages":"1301-1304","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/ChoiFJK04","doi":"10.1016/B978-012088469-8.50132-7","ee":"http://www.vldb.org/conf/2004/DEMP13.PDF","url":"https://dblp.org/rec/conf/vldb/ChoiFJK04"},
+"url":"URL#4387421"
+},
+{
+"@score":"1",
+"@id":"4387422",
+"info":{"authors":{"author":[{"@pid":"41/2531","text":"Owen Cooper"},{"@pid":"21/1630","text":"Anil Edakkunni"},{"@pid":"f/MJFranklin","text":"Michael J. Franklin"},{"@pid":"82/5918-1","text":"Wei Hong 0001"},{"@pid":"55/453","text":"Shawn R. Jeffery"},{"@pid":"k/SaileshKrishnamurthy","text":"Sailesh Krishnamurthy"},{"@pid":"95/459","text":"Frederick Reiss"},{"@pid":"r/SRizvi","text":"Shariq Rizvi"},{"@pid":"41/3679","text":"Eugene Wu 0002"}]},"title":"HiFi - A Unified Architecture for High Fan-in Systems.","venue":"VLDB","pages":"1357-1360","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/CooperEFHJKRRW04","doi":"10.1016/B978-012088469-8.50146-7","ee":"http://www.vldb.org/conf/2004/DEMP27.PDF","url":"https://dblp.org/rec/conf/vldb/CooperEFHJKRRW04"},
+"url":"URL#4387422"
+},
+{
+"@score":"1",
+"@id":"4387423",
+"info":{"authors":{"author":[{"@pid":"26/1870","text":"Valter Crescenzi"},{"@pid":"m/GMecca","text":"Giansalvatore Mecca"},{"@pid":"m/PaoloMerialdo","text":"Paolo Merialdo"},{"@pid":"28/1062","text":"Paolo Missier"}]},"title":"An Automatic Data Grabber for Large Web Sites.","venue":"VLDB","pages":"1321-1324","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/CrescenziMMM04","doi":"10.1016/B978-012088469-8.50137-6","ee":"http://www.vldb.org/conf/2004/DEMP18.PDF","url":"https://dblp.org/rec/conf/vldb/CrescenziMMM04"},
+"url":"URL#4387423"
+},
+{
+"@score":"1",
+"@id":"4387424",
+"info":{"authors":{"author":[{"@pid":"33/5504","text":"Conor Cunningham"},{"@pid":"g/GoetzGraefe","text":"Goetz Graefe"},{"@pid":"84/3247","text":"César A. Galindo-Legaria"}]},"title":"PIVOT and UNPIVOT - Optimization and Execution Strategies in an RDBMS.","venue":"VLDB","pages":"998-1009","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/CunninghamGG04","doi":"10.1016/B978-012088469-8.50087-5","ee":"http://www.vldb.org/conf/2004/IND1P2.PDF","url":"https://dblp.org/rec/conf/vldb/CunninghamGG04"},
+"url":"URL#4387424"
+},
+{
+"@score":"1",
+"@id":"4387425",
+"info":{"authors":{"author":[{"@pid":"59/847","text":"Benoît Dageville"},{"@pid":"80/2197","text":"Dinesh Das"},{"@pid":"52/6497","text":"Karl Dias"},{"@pid":"26/3600","text":"Khaled Yagoub"},{"@pid":"04/4426","text":"Mohamed Zaït"},{"@pid":"60/3441","text":"Mohamed Ziauddin"}]},"title":"Automatic SQL Tuning in Oracle 10g.","venue":"VLDB","pages":"1098-1109","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/DagevilleDDYZZ04","doi":"10.1016/B978-012088469-8.50096-6","ee":"http://www.vldb.org/conf/2004/IND4P2.PDF","url":"https://dblp.org/rec/conf/vldb/DagevilleDDYZZ04"},
+"url":"URL#4387425"
+},
+{
+"@score":"1",
+"@id":"4387426",
+"info":{"authors":{"author":[{"@pid":"03/6610","text":"Nilesh N. Dalvi"},{"@pid":"s/DanSuciu","text":"Dan Suciu"}]},"title":"Efficient Query Evaluation on Probabilistic Databases.","venue":"VLDB","pages":"864-875","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/DalviS04","doi":"10.1016/B978-012088469-8.50076-0","ee":"http://www.vldb.org/conf/2004/RS22P1.PDF","url":"https://dblp.org/rec/conf/vldb/DalviS04"},
+"url":"URL#4387426"
+},
+{
+"@score":"1",
+"@id":"4387427",
+"info":{"authors":{"author":[{"@pid":"40/4423","text":"Souripriya Das"},{"@pid":"28/4369","text":"Eugene Inseok Chong"},{"@pid":"86/6860","text":"George Eadon"},{"@pid":"67/5256","text":"Jagannathan Srinivasan"}]},"title":"Supporting Ontology-Based Semantic matching in RDBMS.","venue":"VLDB","pages":"1054-1065","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/DasCES04","doi":"10.1016/B978-012088469-8.50092-9","ee":"http://www.vldb.org/conf/2004/IND3P1.PDF","url":"https://dblp.org/rec/conf/vldb/DasCES04"},
+"url":"URL#4387427"
+},
+{
+"@score":"1",
+"@id":"4387428",
+"info":{"authors":{"author":[{"@pid":"06/6865","text":"Abhinandan Das"},{"@pid":"g/SumitGanguly","text":"Sumit Ganguly"},{"@pid":"g/MinosNGarofalakis","text":"Minos N. Garofalakis"},{"@pid":"r/RajeevRastogi","text":"Rajeev Rastogi"}]},"title":"Distributed Set Expression Cardinality Estimation.","venue":"VLDB","pages":"312-323","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/DasGGR04","doi":"10.1016/B978-012088469-8.50030-9","ee":"http://www.vldb.org/conf/2004/RS8P3.PDF","url":"https://dblp.org/rec/conf/vldb/DasGGR04"},
+"url":"URL#4387428"
+},
+{
+"@score":"1",
+"@id":"4387429",
+"info":{"authors":{"author":[{"@pid":"d/AmolDeshpande","text":"Amol Deshpande"},{"@pid":"38/769","text":"Carlos Guestrin"},{"@pid":"m/SamuelMadden","text":"Samuel Madden"},{"@pid":"h/JosephMHellerstein","text":"Joseph M. Hellerstein"},{"@pid":"82/5918-1","text":"Wei Hong 0001"}]},"title":"Model-Driven Data Acquisition in Sensor Networks.","venue":"VLDB","pages":"588-599","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/DeshpandeGMHH04","doi":"10.1016/B978-012088469-8.50053-X","ee":"http://www.vldb.org/conf/2004/RS16P1.PDF","url":"https://dblp.org/rec/conf/vldb/DeshpandeGMHH04"},
+"url":"URL#4387429"
+},
+{
+"@score":"1",
+"@id":"4387430",
+"info":{"authors":{"author":[{"@pid":"d/AmolDeshpande","text":"Amol Deshpande"},{"@pid":"h/JosephMHellerstein","text":"Joseph M. Hellerstein"}]},"title":"Lifting the Burden of History from Adaptive Query Processing.","venue":"VLDB","pages":"948-959","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/DeshpandeH04","doi":"10.1016/B978-012088469-8.50083-8","ee":"http://www.vldb.org/conf/2004/RS24P2.PDF","url":"https://dblp.org/rec/conf/vldb/DeshpandeH04"},
+"url":"URL#4387430"
+},
+{
+"@score":"1",
+"@id":"4387431",
+"info":{"authors":{"author":[{"@pid":"d/AlinDeutsch","text":"Alin Deutsch"},{"@pid":"p/YPapakonstantinou","text":"Yannis Papakonstantinou"},{"@pid":"27/0","text":"Yu Xu"}]},"title":"The NEXT Logical Framework for XQuery.","venue":"VLDB","pages":"168-179","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/DeutschPX04","doi":"10.1016/B978-012088469-8.50018-8","ee":"http://www.vldb.org/conf/2004/RS4P5.PDF","url":"https://dblp.org/rec/conf/vldb/DeutschPX04"},
+"url":"URL#4387431"
+},
+{
+"@score":"1",
+"@id":"4387432",
+"info":{"authors":{"author":[{"@pid":"d/YanleiDiao","text":"Yanlei Diao"},{"@pid":"r/SRizvi","text":"Shariq Rizvi"},{"@pid":"f/MJFranklin","text":"Michael J. Franklin"}]},"title":"Towards an Internet-Scale XML Dissemination Service.","venue":"VLDB","pages":"612-623","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/DiaoRF04","doi":"10.1016/B978-012088469-8.50055-3","ee":"http://www.vldb.org/conf/2004/RS16P3.PDF","url":"https://dblp.org/rec/conf/vldb/DiaoRF04"},
+"url":"URL#4387432"
+},
+{
+"@score":"1",
+"@id":"4387433",
+"info":{"authors":{"author":[{"@pid":"d/XinLunaDong","text":"Xin Dong 0001"},{"@pid":"h/AlonYHalevy","text":"Alon Y. Halevy"},{"@pid":"76/5642","text":"Jayant Madhavan"},{"@pid":"38/6131","text":"Ema Nemes"},{"@pid":"29/4190","text":"Jun Zhang"}]},"title":"Simlarity Search for Web Services.","venue":"VLDB","pages":"372-383","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/DongHMNZ04","doi":"10.1016/B978-012088469-8.50035-8","ee":"http://www.vldb.org/conf/2004/RS10P1.PDF","url":"https://dblp.org/rec/conf/vldb/DongHMNZ04"},
+"url":"URL#4387433"
+},
+{
+"@score":"1",
+"@id":"4387434",
+"info":{"authors":{"author":[{"@pid":"d/XinLunaDong","text":"Xin Dong 0001"},{"@pid":"h/AlonYHalevy","text":"Alon Y. Halevy"},{"@pid":"56/1548","text":"Igor Tatarinov"}]},"title":"Containment of Nested XML Queries.","venue":"VLDB","pages":"132-143","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/DongHT04","doi":"10.1016/B978-012088469-8.50015-2","ee":"http://www.vldb.org/conf/2004/RS4P2.PDF","url":"https://dblp.org/rec/conf/vldb/DongHT04"},
+"url":"URL#4387434"
+},
+{
+"@score":"1",
+"@id":"4387435",
+"info":{"authors":{"author":[{"@pid":"14/2676","text":"Fang Du"},{"@pid":"a/SihemAmerYahia","text":"Sihem Amer-Yahia"},{"@pid":"f/JulianaFreire","text":"Juliana Freire"}]},"title":"ShreX - Managing XML Documents in Relational Databases.","venue":"VLDB","pages":"1297-1300","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/DuAF04","doi":"10.1016/B978-012088469-8.50131-5","ee":"http://www.vldb.org/conf/2004/DEMP12.PDF","url":"https://dblp.org/rec/conf/vldb/DuAF04"},
+"url":"URL#4387435"
+},
+{
+"@score":"1",
+"@id":"4387436",
+"info":{"authors":{"author":[{"@pid":"e/MartinEster","text":"Martin Ester"},{"@pid":"k/HansPeterKriegel","text":"Hans-Peter Kriegel"},{"@pid":"77/4813","text":"Matthias Schubert"}]},"title":"Accurate and Efficient Crawling for Relevant Websites.","venue":"VLDB","pages":"396-407","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/EsterKS04","doi":"10.1016/B978-012088469-8.50037-1","ee":"http://www.vldb.org/conf/2004/RS10P3.PDF","url":"https://dblp.org/rec/conf/vldb/EsterKS04"},
+"url":"URL#4387436"
+},
+{
+"@score":"1",
+"@id":"4387437",
+"info":{"authors":{"author":{"@pid":"54/3488-1","text":"Wei Fan 0001"}},"title":"StreamMiner - A Classifier Ensemble-based Engine to Mine Concept-drifting Data Streams.","venue":"VLDB","pages":"1257-1260","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/Fan04","doi":"10.1016/B978-012088469-8.50121-2","ee":"http://www.vldb.org/conf/2004/DEMP3.PDF","url":"https://dblp.org/rec/conf/vldb/Fan04"},
+"url":"URL#4387437"
+},
+{
+"@score":"1",
+"@id":"4387438",
+"info":{"authors":{"author":[{"@pid":"54/3895","text":"Marcus Fontoura"},{"@pid":"03/6706","text":"Eugene J. Shekita"},{"@pid":"28/6399","text":"Jason Y. Zien"},{"@pid":"76/717","text":"Sridhar Rajagopalan"},{"@pid":"n/AndreasNeumann","text":"Andreas Neumann 0001"}]},"title":"High Performance Index Build Algorithms for Intranet Search Engines.","venue":"VLDB","pages":"1158-1169","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/FontouraSZRN04","doi":"10.1016/B978-012088469-8.50101-7","ee":"http://www.vldb.org/conf/2004/IND5P4.PDF","url":"https://dblp.org/rec/conf/vldb/FontouraSZRN04"},
+"url":"URL#4387438"
+},
+{
+"@score":"1",
+"@id":"4387439",
+"info":{"authors":{"author":[{"@pid":"f/EnricoFranconi","text":"Enrico Franconi"},{"@pid":"71/4080","text":"Gabriel M. Kuper"},{"@pid":"35/4309","text":"Andrei Lopatenko"},{"@pid":"82/1159","text":"Ilya Zaihrayeu"}]},"title":"Queries and Updates in the coDB Peer to Peer Database System.","venue":"VLDB","pages":"1277-1280","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/FranconiKLZ04","doi":"10.1016/B978-012088469-8.50126-1","ee":"http://www.vldb.org/conf/2004/DEMP7.PDF","url":"https://dblp.org/rec/conf/vldb/FranconiKLZ04"},
+"url":"URL#4387439"
+},
+{
+"@score":"1",
+"@id":"4387440",
+"info":{"authors":{"author":[{"@pid":"93/3997","text":"Prasanna Ganesan"},{"@pid":"66/1099","text":"Mayank Bawa"},{"@pid":"g/HGarciaMolina","text":"Hector Garcia-Molina"}]},"title":"Online Balancing of Range-Partitioned Data with Applications to Peer-to-Peer Systems.","venue":"VLDB","pages":"444-455","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/GanesanBG04","doi":"10.1016/B978-012088469-8.50041-3","ee":"http://www.vldb.org/conf/2004/RS11P3.PDF","url":"https://dblp.org/rec/conf/vldb/GanesanBG04"},
+"url":"URL#4387440"
+},
+{
+"@score":"1",
+"@id":"4387441",
+"info":{"authors":{"author":[{"@pid":"g/FlorisGeerts","text":"Floris Geerts"},{"@pid":"m/HMannila","text":"Heikki Mannila"},{"@pid":"t/EvimariaTerzi","text":"Evimaria Terzi"}]},"title":"Relational link-based ranking.","venue":"VLDB","pages":"552-563","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/GeertsMT04","doi":"10.1016/B978-012088469-8.50050-4","ee":"http://www.vldb.org/conf/2004/RS15P1.PDF","url":"https://dblp.org/rec/conf/vldb/GeertsMT04"},
+"url":"URL#4387441"
+},
+{
+"@score":"1",
+"@id":"4387442",
+"info":{"authors":{"author":{"@pid":"g/GoetzGraefe","text":"Goetz Graefe"}},"title":"Write-Optimized B-Trees.","venue":"VLDB","pages":"672-683","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/Graefe04","doi":"10.1016/B978-012088469-8.50060-7","ee":"http://www.vldb.org/conf/2004/RS18P2.PDF","url":"https://dblp.org/rec/conf/vldb/Graefe04"},
+"url":"URL#4387442"
+},
+{
+"@score":"1",
+"@id":"4387443",
+"info":{"authors":{"author":[{"@pid":"g/JensGraupmann","text":"Jens Graupmann"},{"@pid":"83/3993","text":"Michael Biwer"},{"@pid":"z/ChristianZimmer","text":"Christian Zimmer 0001"},{"@pid":"36/5518","text":"Patrick Zimmer"},{"@pid":"b/MatthiasBender","text":"Matthias Bender 0001"},{"@pid":"t/MartinTheobald","text":"Martin Theobald"},{"@pid":"w/GerhardWeikum","text":"Gerhard Weikum"}]},"title":"COMPASS - A Concept-based Web Search Engine for HTML, XML, and Deep Web Data.","venue":"VLDB","pages":"1313-1316","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/GraupmannBZZBTW04","doi":"10.1016/B978-012088469-8.50135-2","ee":"http://www.vldb.org/conf/2004/DEMP16.PDF","url":"https://dblp.org/rec/conf/vldb/GraupmannBZZBTW04"},
+"url":"URL#4387443"
+},
+{
+"@score":"1",
+"@id":"4387444",
+"info":{"authors":{"author":[{"@pid":"g/TorstenGrust","text":"Torsten Grust"},{"@pid":"s/SherifSakr","text":"Sherif Sakr"},{"@pid":"t/JensTeubner","text":"Jens Teubner"}]},"title":"XQuery on SQL Hosts.","venue":"VLDB","pages":"252-263","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/GrustST04","doi":"10.1016/B978-012088469-8.50025-5","ee":"http://www.vldb.org/conf/2004/RS7P1.PDF","url":"https://dblp.org/rec/conf/vldb/GrustST04"},
+"url":"URL#4387444"
+},
+{
+"@score":"1",
+"@id":"4387445",
+"info":{"authors":{"author":[{"@pid":"g/SudiptoGuha","text":"Sudipto Guha"},{"@pid":"k/NickKoudas","text":"Nick Koudas"},{"@pid":"73/6838","text":"Amit Marathe"},{"@pid":"s/DiveshSrivastava","text":"Divesh Srivastava"}]},"title":"Merging the Results of Approximate Match Operations.","venue":"VLDB","pages":"636-647","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/GuhaKMS04","doi":"10.1016/B978-012088469-8.50057-7","ee":"http://www.vldb.org/conf/2004/RS17P2.PDF","url":"https://dblp.org/rec/conf/vldb/GuhaKMS04"},
+"url":"URL#4387445"
+},
+{
+"@score":"1",
+"@id":"4387446",
+"info":{"authors":{"author":[{"@pid":"g/SudiptoGuha","text":"Sudipto Guha"},{"@pid":"48/5544","text":"Chulyun Kim"},{"@pid":"s/KyuseokShim","text":"Kyuseok Shim"}]},"title":"XWAVE - Approximate Extended Wavelets for Streaming Data.","venue":"VLDB","pages":"288-299","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/GuhaKS04","doi":"10.1016/B978-012088469-8.50028-0","ee":"http://www.vldb.org/conf/2004/RS8P1.PDF","url":"https://dblp.org/rec/conf/vldb/GuhaKS04"},
+"url":"URL#4387446"
+},
+{
+"@score":"1",
+"@id":"4387447",
+"info":{"authors":{"author":[{"@pid":"g/SudiptoGuha","text":"Sudipto Guha"},{"@pid":"s/KyuseokShim","text":"Kyuseok Shim"},{"@pid":"18/6817","text":"Jungchul Woo"}]},"title":"REHIST - Relative Error Histogram Construction Algorithms.","venue":"VLDB","pages":"300-311","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/GuhaSW04","doi":"10.1016/B978-012088469-8.50029-2","ee":"http://www.vldb.org/conf/2004/RS8P2.PDF","url":"https://dblp.org/rec/conf/vldb/GuhaSW04"},
+"url":"URL#4387447"
+},
+{
+"@score":"1",
+"@id":"4387448",
+"info":{"authors":{"author":[{"@pid":"g/ZoltanGyongyi","text":"Zoltán Gyöngyi"},{"@pid":"g/HGarciaMolina","text":"Hector Garcia-Molina"},{"@pid":"p/JanOPedersen","text":"Jan O. Pedersen 0001"}]},"title":"Combating Web Spam with TrustRank.","venue":"VLDB","pages":"576-587","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/GyongyiGP04","doi":"10.1016/B978-012088469-8.50052-8","ee":"http://www.vldb.org/conf/2004/RS15P3.PDF","url":"https://dblp.org/rec/conf/vldb/GyongyiGP04"},
+"url":"URL#4387448"
+},
+{
+"@score":"1",
+"@id":"4387449",
+"info":{"authors":{"author":[{"@pid":"h/CHalaschekW","text":"Christian Halaschek-Wiener"},{"@pid":"a/BoanergesAlemanMeza","text":"Boanerges Aleman-Meza"},{"@pid":"b/IBudakArpinar","text":"Ismailcem Budak Arpinar"},{"@pid":"s/AmitPSheth","text":"Amit P. Sheth"}]},"title":"Discovering and Ranking Semantic Associations over a Large RDF Metabase.","venue":"VLDB","pages":"1317-1320","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/HalaschekAAS04","doi":"10.1016/B978-012088469-8.50136-4","ee":"http://www.vldb.org/conf/2004/DEMP17.PDF","url":"https://dblp.org/rec/conf/vldb/HalaschekAAS04"},
+"url":"URL#4387449"
+},
+{
+"@score":"1",
+"@id":"4387450",
+"info":{"authors":{"author":{"@pid":"h/AlonYHalevy","text":"Alon Y. Halevy"}},"title":"Structures, Semantics and Statistics.","venue":"VLDB","pages":"4-6","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/Halevy04","doi":"10.1016/B978-012088469-8.50003-6","ee":"http://www.vldb.org/conf/2004/KEY2.PDF","url":"https://dblp.org/rec/conf/vldb/Halevy04"},
+"url":"URL#4387450"
+},
+{
+"@score":"1",
+"@id":"4387451",
+"info":{"authors":{"author":[{"@pid":"00/232","text":"Alan Halverson"},{"@pid":"67/3556","text":"Vanja Josifovski"},{"@pid":"21/2457","text":"Guy M. Lohman"},{"@pid":"p/HamidPirahesh","text":"Hamid Pirahesh"},{"@pid":"46/190","text":"Mathias Mörschel"}]},"title":"ROX - Relational Over XML.","venue":"VLDB","pages":"264-275","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/HalversonJLPM04","doi":"10.1016/B978-012088469-8.50026-7","ee":"http://www.vldb.org/conf/2004/RS7P2.PDF","url":"https://dblp.org/rec/conf/vldb/HalversonJLPM04"},
+"url":"URL#4387451"
+},
+{
+"@score":"1",
+"@id":"4387452",
+"info":{"authors":{"author":[{"@pid":"38/6308","text":"Stavros Harizopoulos"},{"@pid":"a/AnastassiaAilamaki","text":"Anastassia Ailamaki"}]},"title":"STEPS towards Cache-resident Transaction Processing.","venue":"VLDB","pages":"660-671","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/HarizopoulosA04","doi":"10.1016/B978-012088469-8.50059-0","ee":"http://www.vldb.org/conf/2004/RS18P1.PDF","url":"https://dblp.org/rec/conf/vldb/HarizopoulosA04"},
+"url":"URL#4387452"
+},
+{
+"@score":"1",
+"@id":"4387453",
+"info":{"authors":{"author":{"@pid":"h/JosephMHellerstein","text":"Joseph M. Hellerstein"}},"title":"Architectures and Algorithms for Internet-Scale (P2P) Data Management.","venue":"VLDB","pages":"1244","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/Hellerstein04","doi":"10.1016/B978-012088469-8.50117-0","ee":"http://www.vldb.org/conf/2004/TUT4.PDF","url":"https://dblp.org/rec/conf/vldb/Hellerstein04"},
+"url":"URL#4387453"
+},
+{
+"@score":"1",
+"@id":"4387454",
+"info":{"authors":{"author":[{"@pid":"10/1309","text":"Bijit Hore"},{"@pid":"m/SharadMehrotra","text":"Sharad Mehrotra"},{"@pid":"08/1183","text":"Gene Tsudik"}]},"title":"A Privacy-Preserving Index for Range Queries.","venue":"VLDB","pages":"720-731","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/HoreMT04","doi":"10.1016/B978-012088469-8.50064-4","ee":"http://www.vldb.org/conf/2004/RS19P2.PDF","url":"https://dblp.org/rec/conf/vldb/HoreMT04"},
+"url":"URL#4387454"
+},
+{
+"@score":"1",
+"@id":"4387455",
+"info":{"authors":{"author":[{"@pid":"h/BillHowe","text":"Bill Howe"},{"@pid":"m/DavidMaier","text":"David Maier 0001"}]},"title":"Algebraic Manipulation of Scientific Datasets.","venue":"VLDB","pages":"924-935","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/HoweM04","doi":"10.1016/B978-012088469-8.50081-4","ee":"http://www.vldb.org/conf/2004/RS23P3.PDF","url":"https://dblp.org/rec/conf/vldb/HoweM04"},
+"url":"URL#4387455"
+},
+{
+"@score":"1",
+"@id":"4387456",
+"info":{"authors":{"author":[{"@pid":"i/IhabFIlyas","text":"Ihab F. Ilyas"},{"@pid":"m/VMarkl","text":"Volker Markl"},{"@pid":"h/PeterJHaas","text":"Peter J. Haas"},{"@pid":"41/6335","text":"Paul G. Brown"},{"@pid":"01/3996","text":"Ashraf Aboulnaga"}]},"title":"CORDS - Automatic Generation of Correlation Statistics in DB2.","venue":"VLDB","pages":"1341-1344","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/IlyasMHBA04","doi":"10.1016/B978-012088469-8.50142-X","ee":"http://www.vldb.org/conf/2004/DEMP23.PDF","url":"https://dblp.org/rec/conf/vldb/IlyasMHBA04"},
+"url":"URL#4387456"
+},
+{
+"@score":"1",
+"@id":"4387457",
+"info":{"authors":{"author":[{"@pid":"61/3506","text":"Glenn Simmons Iwerks"},{"@pid":"s/HananSamet","text":"Hanan Samet"},{"@pid":"79/5323","text":"Kenneth P. Smith"}]},"title":"Maintenance of Spatial Semijoin Queries on Moving Points.","venue":"VLDB","pages":"828-839","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/IwerksSS04","doi":"10.1016/B978-012088469-8.50073-5","ee":"http://www.vldb.org/conf/2004/RS21P5.PDF","url":"https://dblp.org/rec/conf/vldb/IwerksSS04"},
+"url":"URL#4387457"
+},
+{
+"@score":"1",
+"@id":"4387458",
+"info":{"authors":{"author":[{"@pid":"j/ChristianSJensen","text":"Christian S. Jensen"},{"@pid":"l/DanLin","text":"Dan Lin 0001"},{"@pid":"o/BengChinOoi","text":"Beng Chin Ooi"}]},"title":"Query and Update Efficient B+-Tree Based Indexing of Moving Objects.","venue":"VLDB","pages":"768-779","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/JensenLO04","doi":"10.1016/B978-012088469-8.50068-1","ee":"http://www.vldb.org/conf/2004/RS20P3.PDF","url":"https://dblp.org/rec/conf/vldb/JensenLO04"},
+"url":"URL#4387458"
+},
+{
+"@score":"1",
+"@id":"4387459",
+"info":{"authors":{"author":[{"@pid":"77/5094","text":"Daxin Jiang"},{"@pid":"p/JianPei","text":"Jian Pei"},{"@pid":"z/AidongZhang","text":"Aidong Zhang"}]},"title":"GPX - Interactive Mining of Gene Expression Data.","venue":"VLDB","pages":"1249-1252","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/JiangPZ04","doi":"10.1016/B978-012088469-8.50119-4","ee":"http://www.vldb.org/conf/2004/DEMP1.PDF","url":"https://dblp.org/rec/conf/vldb/JiangPZ04"},
+"url":"URL#4387459"
+},
+{
+"@score":"1",
+"@id":"4387460",
+"info":{"authors":{"author":[{"@pid":"j/DavidSJohnson","text":"David S. Johnson"},{"@pid":"38/5647","text":"Shankar Krishnan"},{"@pid":"32/6443","text":"Jatin Chhugani"},{"@pid":"81/6554-1","text":"Subodh Kumar 0001"},{"@pid":"12/4662","text":"Suresh Venkatasubramanian"}]},"title":"Compressing Large Boolean Matrices using Reordering Techniques.","venue":"VLDB","pages":"13-23","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/JohnsonKCKV04","doi":"10.1016/B978-012088469-8.50005-X","ee":"http://www.vldb.org/conf/2004/RS1P1.PDF","url":"https://dblp.org/rec/conf/vldb/JohnsonKCKV04"},
+"url":"URL#4387460"
+},
+{
+"@score":"1",
+"@id":"4387461",
+"info":{"authors":{"author":[{"@pid":"41/5464","text":"Anastasios Kementsietsidis"},{"@pid":"76/6735","text":"Marcelo Arenas"}]},"title":"Data Sharing Through Query Translation in Autonomous Sources.","venue":"VLDB","pages":"468-479","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/KementsietsidisA04","doi":"10.1016/B978-012088469-8.50043-7","ee":"http://www.vldb.org/conf/2004/RS11P5.PDF","url":"https://dblp.org/rec/conf/vldb/KementsietsidisA04"},
+"url":"URL#4387461"
+},
+{
+"@score":"1",
+"@id":"4387462",
+"info":{"authors":{"author":[{"@pid":"84/114","text":"Daniel Kifer"},{"@pid":"15/6319","text":"Shai Ben-David"},{"@pid":"g/JohannesGehrke","text":"Johannes Gehrke"}]},"title":"Detecting Change in Data Streams.","venue":"VLDB","pages":"180-191","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/KiferBG04","doi":"10.1016/B978-012088469-8.50019-X","ee":"http://www.vldb.org/conf/2004/RS5P1.PDF","url":"https://dblp.org/rec/conf/vldb/KiferBG04"},
+"url":"URL#4387462"
+},
+{
+"@score":"1",
+"@id":"4387463",
+"info":{"authors":{"author":[{"@pid":"k/ChristophKoch","text":"Christoph Koch 0001"},{"@pid":"s/StefanieScherzinger","text":"Stefanie Scherzinger"},{"@pid":"s/NicoleSchweikardt","text":"Nicole Schweikardt"},{"@pid":"00/5643","text":"Bernhard Stegmaier"}]},"title":"Schema-based Scheduling of Event Processors and Buffer Minimization for Queries on Structured Data Streams.","venue":"VLDB","pages":"228-239","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/KochSSS04","doi":"10.1016/B978-012088469-8.50023-1","ee":"http://www.vldb.org/conf/2004/RS6P2.PDF","url":"https://dblp.org/rec/conf/vldb/KochSSS04"},
+"url":"URL#4387463"
+},
+{
+"@score":"1",
+"@id":"4387464",
+"info":{"authors":{"author":[{"@pid":"k/ChristophKoch","text":"Christoph Koch 0001"},{"@pid":"s/StefanieScherzinger","text":"Stefanie Scherzinger"},{"@pid":"s/NicoleSchweikardt","text":"Nicole Schweikardt"},{"@pid":"00/5643","text":"Bernhard Stegmaier"}]},"title":"FluXQuery - An Optimizing XQuery Processor for Streaming XML Data.","venue":"VLDB","pages":"1309-1312","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/KochSSS04a","doi":"10.1016/B978-012088469-8.50134-0","ee":"http://www.vldb.org/conf/2004/DEMP15.PDF","url":"https://dblp.org/rec/conf/vldb/KochSSS04a"},
+"url":"URL#4387464"
+},
+{
+"@score":"1",
+"@id":"4387465",
+"info":{"authors":{"author":[{"@pid":"72/5849","text":"Mohammad R. Kolahdouzan"},{"@pid":"s/CyrusShahabi","text":"Cyrus Shahabi"}]},"title":"Voronoi-Based K Nearest Neighbor Search for Spatial Network Databases.","venue":"VLDB","pages":"840-851","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/KolahdouzanS04","doi":"10.1016/B978-012088469-8.50074-7","ee":"http://www.vldb.org/conf/2004/RS21P6.PDF","url":"https://dblp.org/rec/conf/vldb/KolahdouzanS04"},
+"url":"URL#4387465"
+},
+{
+"@score":"1",
+"@id":"4387466",
+"info":{"authors":{"author":[{"@pid":"k/NickKoudas","text":"Nick Koudas"},{"@pid":"73/6838","text":"Amit Marathe"},{"@pid":"s/DiveshSrivastava","text":"Divesh Srivastava"}]},"title":"Flexible String Matching Against Large Databases in Practice.","venue":"VLDB","pages":"1078-1086","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/KoudasMS04","doi":"10.1016/B978-012088469-8.50094-2","ee":"http://www.vldb.org/conf/2004/IND3P3.PDF","url":"https://dblp.org/rec/conf/vldb/KoudasMS04"},
+"url":"URL#4387466"
+},
+{
+"@score":"1",
+"@id":"4387467",
+"info":{"authors":{"author":[{"@pid":"k/NickKoudas","text":"Nick Koudas"},{"@pid":"o/BengChinOoi","text":"Beng Chin Ooi"},{"@pid":"t/KianLeeTan","text":"Kian-Lee Tan"},{"@pid":"03/505","text":"Rui Zhang 0003"}]},"title":"Approximate NN queries on Streams with Guaranteed Error/performance Bounds.","venue":"VLDB","pages":"804-815","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/KoudasOT004","doi":"10.1016/B978-012088469-8.50071-1","ee":"http://www.vldb.org/conf/2004/RS21P3.PDF","url":"https://dblp.org/rec/conf/vldb/KoudasOT004"},
+"url":"URL#4387467"
+},
+{
+"@score":"1",
+"@id":"4387468",
+"info":{"authors":{"author":[{"@pid":"23/6960","text":"Tobias Kraft"},{"@pid":"93/151","text":"Holger Schwarz"}]},"title":"CHICAGO - A Test and Evaluation Environment for Coarse-Grained Optimization.","venue":"VLDB","pages":"1345-1348","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/KraftS04","doi":"10.1016/B978-012088469-8.50143-1","ee":"http://www.vldb.org/conf/2004/DEMP24.PDF","url":"https://dblp.org/rec/conf/vldb/KraftS04"},
+"url":"URL#4387468"
+},
+{
+"@score":"1",
+"@id":"4387469",
+"info":{"authors":{"author":[{"@pid":"k/SaileshKrishnamurthy","text":"Sailesh Krishnamurthy"},{"@pid":"f/MJFranklin","text":"Michael J. Franklin"},{"@pid":"h/JosephMHellerstein","text":"Joseph M. Hellerstein"},{"@pid":"69/4172","text":"Garrett Jacobson"}]},"title":"The Case for Precision Sharing.","venue":"VLDB","pages":"972-986","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/KrishnamurthyFHJ04","doi":"10.1016/B978-012088469-8.50085-1","ee":"http://www.vldb.org/conf/2004/RS24P4.PDF","url":"https://dblp.org/rec/conf/vldb/KrishnamurthyFHJ04"},
+"url":"URL#4387469"
+},
+{
+"@score":"1",
+"@id":"4387470",
+"info":{"authors":{"author":[{"@pid":"51/6067","text":"Rajasekar Krishnamurthy"},{"@pid":"09/2901","text":"Raghav Kaushik"},{"@pid":"n/JeffreyFNaughton","text":"Jeffrey F. Naughton"}]},"title":"Efficient XML-to-SQL Query Translation - Where to Add the Intelligence?","venue":"VLDB","pages":"144-155","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/KrishnamurthyKN04","doi":"10.1016/B978-012088469-8.50016-4","ee":"http://www.vldb.org/conf/2004/RS4P3.PDF","url":"https://dblp.org/rec/conf/vldb/KrishnamurthyKN04"},
+"url":"URL#4387470"
+},
+{
+"@score":"1",
+"@id":"4387471",
+"info":{"authors":{"author":[{"@pid":"28/3951","text":"Muralidhar Krishnaprasad"},{"@pid":"23/6821","text":"Zhen Hua Liu"},{"@pid":"65/2392","text":"Anand Manikutty"},{"@pid":"32/5969","text":"James W. Warner"},{"@pid":"79/1817","text":"Vikas Arora"},{"@pid":"41/6901","text":"Susan Kotsovolos"}]},"title":"Query Rewrite for XML in Oracle XML DB.","venue":"VLDB","pages":"1122-1133","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/KrishnaprasadLMWAK04","doi":"10.1016/B978-012088469-8.50098-X","ee":"http://www.vldb.org/conf/2004/IND5P1.PDF","url":"https://dblp.org/rec/conf/vldb/KrishnaprasadLMWAK04"},
+"url":"URL#4387471"
+},
+{
+"@score":"1",
+"@id":"4387472",
+"info":{"authors":{"author":[{"@pid":"l/LVSLakshmanan","text":"Laks V. S. Lakshmanan"},{"@pid":"81/5709","text":"Ganesh Ramesh"},{"@pid":"52/4725","text":"Wendy Hui Wang"},{"@pid":"99/878","text":"Zheng (Jessica) Zhao"}]},"title":"On Testing Satisfiability of Tree Pattern Queries.","venue":"VLDB","pages":"120-131","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/LakshmananRWZ04","doi":"10.1016/B978-012088469-8.50014-0","ee":"http://www.vldb.org/conf/2004/RS4P1.PDF","url":"https://dblp.org/rec/conf/vldb/LakshmananRWZ04"},
+"url":"URL#4387472"
+},
+{
+"@score":"1",
+"@id":"4387473",
+"info":{"authors":{"author":[{"@pid":"14/3220","text":"Yan-Nei Law"},{"@pid":"w/HaixunWang","text":"Haixun Wang"},{"@pid":"z/CZaniolo","text":"Carlo Zaniolo"}]},"title":"Query Languages and Data Models for Database Sequences and Data Streams.","venue":"VLDB","pages":"492-503","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/LawWZ04","doi":"10.1016/B978-012088469-8.50045-0","ee":"http://www.vldb.org/conf/2004/RS12P2.PDF","url":"https://dblp.org/rec/conf/vldb/LawWZ04"},
+"url":"URL#4387473"
+},
+{
+"@score":"1",
+"@id":"4387474",
+"info":{"authors":{"author":[{"@pid":"95/5211","text":"Kristen LeFevre"},{"@pid":"a/RAgrawal","text":"Rakesh Agrawal 0001"},{"@pid":"58/4208","text":"Vuk Ercegovac"},{"@pid":"r/RaghuRamakrishnan","text":"Raghu Ramakrishnan"},{"@pid":"55/5399","text":"Yirong Xu"},{"@pid":"d/DJDeWitt","text":"David J. DeWitt"}]},"title":"Limiting Disclosure in Hippocratic Databases.","venue":"VLDB","pages":"108-119","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/LeFevreAERXD04","doi":"10.1016/B978-012088469-8.50013-9","ee":"http://www.vldb.org/conf/2004/RS3P3.PDF","url":"https://dblp.org/rec/conf/vldb/LeFevreAERXD04"},
+"url":"URL#4387474"
+},
+{
+"@score":"1",
+"@id":"4387475",
+"info":{"authors":{"author":[{"@pid":"77/709","text":"Xiaolei Li"},{"@pid":"h/JiaweiHan","text":"Jiawei Han 0001"},{"@pid":"56/5324","text":"Hector Gonzalez"}]},"title":"High-Dimensional OLAP - A Minimal Cubing Approach.","venue":"VLDB","pages":"528-539","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/LiHG04","doi":"10.1016/B978-012088469-8.50048-6","ee":"http://www.vldb.org/conf/2004/RS14P1.PDF","url":"https://dblp.org/rec/conf/vldb/LiHG04"},
+"url":"URL#4387475"
+},
+{
+"@score":"1",
+"@id":"4387476",
+"info":{"authors":{"author":[{"@pid":"64/6025","text":"Wei Li"},{"@pid":"34/5626","text":"Ari Mozes"}]},"title":"Computing Frequent Itemsets Inside Oracle 10G.","venue":"VLDB","pages":"1253-1256","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/LiM04","doi":"10.1016/B978-012088469-8.50120-0","ee":"http://www.vldb.org/conf/2004/DEMP2.PDF","url":"https://dblp.org/rec/conf/vldb/LiM04"},
+"url":"URL#4387476"
+},
+{
+"@score":"1",
+"@id":"4387477",
+"info":{"authors":{"author":[{"@pid":"60/2319","text":"Yunyao Li 0001"},{"@pid":"58/3771","text":"Cong Yu 0001"},{"@pid":"j/HVJagadish","text":"H. V. Jagadish"}]},"title":"Schema-Free XQuery.","venue":"VLDB","pages":"72-83","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/LiYJ04","doi":"10.1016/B978-012088469-8.50010-3","ee":"http://www.vldb.org/conf/2004/RS2P3.PDF","url":"https://dblp.org/rec/conf/vldb/LiYJ04"},
+"url":"URL#4387477"
+},
+{
+"@score":"1",
+"@id":"4387478",
+"info":{"authors":{"author":[{"@pid":"31/3001","text":"Sam Lightstone"},{"@pid":"19/2910","text":"Bishwaranjan Bhattacharjee"}]},"title":"Automated design of multidimensional clustering tables for relational databases.","venue":"VLDB","pages":"1170-1181","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/LightstoneB04","doi":"10.1016/B978-012088469-8.50102-9","ee":"http://www.vldb.org/conf/2004/IND5P5.PDF","url":"https://dblp.org/rec/conf/vldb/LightstoneB04"},
+"url":"URL#4387478"
+},
+{
+"@score":"1",
+"@id":"4387479",
+"info":{"authors":{"author":[{"@pid":"41/3979-1","text":"Jessica Lin 0001"},{"@pid":"k/EamonnJKeogh","text":"Eamonn J. Keogh"},{"@pid":"l/StefanoLonardi","text":"Stefano Lonardi"},{"@pid":"62/4035","text":"Jeffrey P. Lankford"},{"@pid":"32/2194","text":"Donna M. Nystrom"}]},"title":"VizTree - a Tool for Visually Mining and Monitoring Massive Time Series Databases.","venue":"VLDB","pages":"1269-1272","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/LinKLLN04","doi":"10.1016/B978-012088469-8.50124-8","ee":"http://www.vldb.org/conf/2004/DEMP6.PDF","url":"https://dblp.org/rec/conf/vldb/LinKLLN04"},
+"url":"URL#4387479"
+},
+{
+"@score":"1",
+"@id":"4387480",
+"info":{"authors":{"author":[{"@pid":"12/2734","text":"Witold Litwin"},{"@pid":"10/4428","text":"Rim Moussa"},{"@pid":"s/ThomasJESchwarz","text":"Thomas J. E. Schwarz"}]},"title":"LH*RS - A Highly Available Distributed Data Storage.","venue":"VLDB","pages":"1289-1292","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/LitwinMS04","doi":"10.1016/B978-012088469-8.50129-7","ee":"http://www.vldb.org/conf/2004/DEMP10.PDF","url":"https://dblp.org/rec/conf/vldb/LitwinMS04"},
+"url":"URL#4387480"
+},
+{
+"@score":"1",
+"@id":"4387481",
+"info":{"authors":{"author":[{"@pid":"l/DavidTLiu","text":"David T. Liu"},{"@pid":"f/MJFranklin","text":"Michael J. Franklin"}]},"title":"The Design of GridDB - A Data-Centric Overlay for the Scientific Grid.","venue":"VLDB","pages":"600-611","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/LiuF04","doi":"10.1016/B978-012088469-8.50054-1","ee":"http://www.vldb.org/conf/2004/RS16P2.PDF","url":"https://dblp.org/rec/conf/vldb/LiuF04"},
+"url":"URL#4387481"
+},
+{
+"@score":"1",
+"@id":"4387482",
+"info":{"authors":{"author":[{"@pid":"84/33","text":"Haifeng Liu"},{"@pid":"j/HansArnoJacobsen","text":"Hans-Arno Jacobsen"}]},"title":"A-ToPSS - A Publish/Subscribe System Supporting Imperfect Information Processing.","venue":"VLDB","pages":"1281-1284","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/LiuJ04","doi":"10.1016/B978-012088469-8.50127-3","ee":"http://www.vldb.org/conf/2004/DEMP8.PDF","url":"https://dblp.org/rec/conf/vldb/LiuJ04"},
+"url":"URL#4387482"
+},
+{
+"@score":"1",
+"@id":"4387483",
+"info":{"authors":{"author":[{"@pid":"75/3108","text":"Boon Thau Loo"},{"@pid":"h/JosephMHellerstein","text":"Joseph M. Hellerstein"},{"@pid":"h/RyanHuebsch","text":"Ryan Huebsch"},{"@pid":"34/5593","text":"Scott Shenker"},{"@pid":"s/IonStoica","text":"Ion Stoica"}]},"title":"Enhancing P2P File-Sharing with an Internet-Scale Query Processor.","venue":"VLDB","pages":"432-443","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/LooHHSS04","doi":"10.1016/B978-012088469-8.50040-1","ee":"http://www.vldb.org/conf/2004/RS11P2.PDF","url":"https://dblp.org/rec/conf/vldb/LooHHSS04"},
+"url":"URL#4387483"
+},
+{
+"@score":"1",
+"@id":"4387484",
+"info":{"authors":{"author":[{"@pid":"34/1334","text":"Roger MacNicol"},{"@pid":"18/1887","text":"Blaine French"}]},"title":"Sybase IQ Multiplex - Designed For Analytics.","venue":"VLDB","pages":"1227-1230","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/MacNicolF04","doi":"10.1016/B978-012088469-8.50111-X","ee":"http://www.vldb.org/conf/2004/IND8P3.PDF","url":"https://dblp.org/rec/conf/vldb/MacNicolF04"},
+"url":"URL#4387484"
+},
+{
+"@score":"1",
+"@id":"4387485",
+"info":{"authors":{"author":[{"@pid":"m/StefanManegold","text":"Stefan Manegold"},{"@pid":"b/PeterABoncz","text":"Peter A. Boncz"},{"@pid":"82/1319","text":"Niels Nes"}]},"title":"Cache-Conscious Radix-Decluster Projections.","venue":"VLDB","pages":"684-695","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/ManegoldBKN04","doi":"10.1016/B978-012088469-8.50061-9","ee":"http://www.vldb.org/conf/2004/RS18P3.PDF","url":"https://dblp.org/rec/conf/vldb/ManegoldBKN04"},
+"url":"URL#4387485"
+},
+{
+"@score":"1",
+"@id":"4387486",
+"info":{"authors":{"author":[{"@pid":"19/1463","text":"Sabine Mayer"},{"@pid":"g/TorstenGrust","text":"Torsten Grust"},{"@pid":"k/MauricevanKeulen","text":"Maurice van Keulen"},{"@pid":"t/JensTeubner","text":"Jens Teubner"}]},"title":"An Injection of Tree Awareness - Adding Staircase Join to PostgreSQL.","venue":"VLDB","pages":"1305-1308","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/MayerGKT04","doi":"10.1016/B978-012088469-8.50133-9","ee":"http://www.vldb.org/conf/2004/DEMP14.PDF","url":"https://dblp.org/rec/conf/vldb/MayerGKT04"},
+"url":"URL#4387486"
+},
+{
+"@score":"1",
+"@id":"4387487",
+"info":{"authors":{"author":[{"@pid":"m/AOMendelzon","text":"Alberto O. Mendelzon"},{"@pid":"98/2201","text":"Flavio Rizzolo"},{"@pid":"58/6139","text":"Alejandro A. Vaisman"}]},"title":"Indexing Temporal XML Documents.","venue":"VLDB","pages":"216-227","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/MendelzonRV04","doi":"10.1016/B978-012088469-8.50022-X","ee":"http://www.vldb.org/conf/2004/RS6P1.PDF","url":"https://dblp.org/rec/conf/vldb/MendelzonRV04"},
+"url":"URL#4387487"
+},
+{
+"@score":"1",
+"@id":"4387488",
+"info":{"authors":{"author":[{"@pid":"94/5893","text":"Mohamed F. Mokbel"},{"@pid":"x/XiaopengXiong","text":"Xiaopeng Xiong"},{"@pid":"a/WGAref","text":"Walid G. Aref"},{"@pid":"h/SusanneSHambrusch","text":"Susanne E. Hambrusch"},{"@pid":"p/SunilPrabhakar","text":"Sunil Prabhakar"},{"@pid":"13/6227","text":"Moustafa A. Hammad"}]},"title":"PLACE - A Query Processor for Handling Real-time Spatio-temporal Data Streams.","venue":"VLDB","pages":"1377-1380","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/MokbelXAHPH04","doi":"10.1016/B978-012088469-8.50151-0","ee":"http://www.vldb.org/conf/2004/DEMP32.PDF","url":"https://dblp.org/rec/conf/vldb/MokbelXAHPH04"},
+"url":"URL#4387488"
+},
+{
+"@score":"1",
+"@id":"4387489",
+"info":{"authors":{"author":[{"@pid":"m/SMukherjea","text":"Sougata Mukherjea"},{"@pid":"26/6942","text":"Bhuvan Bamba"}]},"title":"BioPatentMiner - An Information Retrieval System for BioMedical Patents.","venue":"VLDB","pages":"1066-1077","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/MukherjeaB04","doi":"10.1016/B978-012088469-8.50093-0","ee":"http://www.vldb.org/conf/2004/IND3P2.PDF","url":"https://dblp.org/rec/conf/vldb/MukherjeaB04"},
+"url":"URL#4387489"
+},
+{
+"@score":"1",
+"@id":"4387490",
+"info":{"authors":{"author":[{"@pid":"69/4971","text":"Rakesh Nagarajan"},{"@pid":"30/4834","text":"Mushtaq Ahmed"},{"@pid":"14/1482","text":"Aditya Phatak"}]},"title":"Database Challenges in the Integration of Biomedical Data Sets.","venue":"VLDB","pages":"1202-1213","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/NagarajanAP04","doi":"10.1016/B978-012088469-8.50107-8","ee":"http://www.vldb.org/conf/2004/IND7P2.PDF","url":"https://dblp.org/rec/conf/vldb/NagarajanAP04"},
+"url":"URL#4387490"
+},
+{
+"@score":"1",
+"@id":"4387491",
+"info":{"authors":{"author":[{"@pid":"n/ThomasNeumann","text":"Thomas Neumann 0001"},{"@pid":"m/GuidoMoerkotte","text":"Guido Moerkotte"}]},"title":"A Combined Framework for Grouping and Order Optimization.","venue":"VLDB","pages":"960-971","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/NeumannM04","doi":"10.1016/B978-012088469-8.50084-X","ee":"http://www.vldb.org/conf/2004/RS24P3.PDF","url":"https://dblp.org/rec/conf/vldb/NeumannM04"},
+"url":"URL#4387491"
+},
+{
+"@score":"1",
+"@id":"4387492",
+"info":{"authors":{"author":{"@pid":"61/6990","text":"William O&apos;Connell"}},"title":"Trends in Data Warehousing - A Practitioner&apos;s View.","venue":"VLDB","pages":"1224","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/OConnell04","doi":"10.1016/B978-012088469-8.50109-1","ee":"http://www.vldb.org/conf/2004/IND8P1.PDF","url":"https://dblp.org/rec/conf/vldb/OConnell04"},
+"url":"URL#4387492"
+},
+{
+"@score":"1",
+"@id":"4387493",
+"info":{"authors":{"author":[{"@pid":"61/6990","text":"William O&apos;Connell"},{"@pid":"63/3671","text":"Andrew Witkowski"},{"@pid":"06/3766","text":"Ramesh Bhashyam"},{"@pid":"c/SurajitChaudhuri","text":"Surajit Chaudhuri"}]},"title":"Where is Business Intelligence taking today&apos;s Database Systems?","venue":"VLDB","pages":"1237-1238","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/OConnellWBC04","doi":"10.1016/B978-012088469-8.50113-3","ee":"http://www.vldb.org/conf/2004/PAN2.PDF","url":"https://dblp.org/rec/conf/vldb/OConnellWBC04"},
+"url":"URL#4387493"
+},
+{
+"@score":"1",
+"@id":"4387494",
+"info":{"authors":{"author":[{"@pid":"89/2847","text":"Shankar Pal"},{"@pid":"24/2236","text":"Istvan Cseri"},{"@pid":"51/6210","text":"Gideon Schaller"},{"@pid":"81/1838","text":"Oliver Seeliger"},{"@pid":"31/3294","text":"Leo Giakoumakis"},{"@pid":"18/2377","text":"Vasili Vasili Zolotov"}]},"title":"Indexing XML Data Stored in a Relational Database.","venue":"VLDB","pages":"1134-1145","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/PalCSSGZ04","doi":"10.1016/B978-012088469-8.50099-1","ee":"http://www.vldb.org/conf/2004/IND5P2.PDF","url":"https://dblp.org/rec/conf/vldb/PalCSSGZ04"},
+"url":"URL#4387494"
+},
+{
+"@score":"1",
+"@id":"4387495",
+"info":{"authors":{"author":[{"@pid":"k/EamonnJKeogh","text":"Eamonn J. Keogh"},{"@pid":"p/ThemisPalpanas","text":"Themis Palpanas"},{"@pid":"z/VictorBZordan","text":"Victor B. Zordan"},{"@pid":"g/DimitriosGunopulos","text":"Dimitrios Gunopulos"},{"@pid":"24/4478","text":"Marc Cardle"}]},"title":"Indexing Large Human-Motion Databases.","venue":"VLDB","pages":"780-791","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/PalpanasCGKZ04","doi":"10.1016/B978-012088469-8.50069-3","ee":"http://www.vldb.org/conf/2004/RS21P1.PDF","url":"https://dblp.org/rec/conf/vldb/PalpanasCGKZ04"},
+"url":"URL#4387495"
+},
+{
+"@score":"1",
+"@id":"4387496",
+"info":{"authors":{"author":[{"@pid":"02/706","text":"Sandeep Pandey"},{"@pid":"96/5775","text":"Kedar Dhamdhere"},{"@pid":"o/ChristopherOlston","text":"Christopher Olston"}]},"title":"WIC - A General-Purpose Algorithm for Monitoring Web Information Sources.","venue":"VLDB","pages":"360-371","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/PandeyDO04","doi":"10.1016/B978-012088469-8.50034-6","ee":"http://www.vldb.org/conf/2004/RS9P4.PDF","url":"https://dblp.org/rec/conf/vldb/PandeyDO04"},
+"url":"URL#4387496"
+},
+{
+"@score":"1",
+"@id":"4387497",
+"info":{"authors":{"author":[{"@pid":"p/MeikelPoss","text":"Meikel Poess"},{"@pid":"75/1141","text":"John M. Stephens"}]},"title":"Generating Thousand Benchmark Queries in Seconds.","venue":"VLDB","pages":"1045-1053","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/Poess04","doi":"10.1016/B978-012088469-8.50091-7","ee":"http://www.vldb.org/conf/2004/IND2P3.PDF","url":"https://dblp.org/rec/conf/vldb/Poess04"},
+"url":"URL#4387497"
+},
+{
+"@score":"1",
+"@id":"4387498",
+"info":{"authors":{"author":[{"@pid":"r/VijayshankarRaman","text":"Vijayshankar Raman"},{"@pid":"m/VMarkl","text":"Volker Markl"},{"@pid":"64/3571","text":"David E. Simmen"},{"@pid":"21/2457","text":"Guy M. Lohman"},{"@pid":"p/HamidPirahesh","text":"Hamid Pirahesh"}]},"title":"Progressive Optimization in Action.","venue":"VLDB","pages":"1337-1340","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/RamanMSLP04","doi":"10.1016/B978-012088469-8.50141-8","ee":"http://www.vldb.org/conf/2004/DEMP22.PDF","url":"https://dblp.org/rec/conf/vldb/RamanMSLP04"},
+"url":"URL#4387498"
+},
+{
+"@score":"1",
+"@id":"4387499",
+"info":{"authors":{"author":[{"@pid":"20/4523","text":"Walid Rjaibi"},{"@pid":"33/3987","text":"Paul Bird"}]},"title":"A Multi-Purpose Implementation of Mandatory Access Control in Relational Database Management Systems.","venue":"VLDB","pages":"1010-1020","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/RjaibiB04","doi":"10.1016/B978-012088469-8.50088-7","ee":"http://www.vldb.org/conf/2004/IND1P3.PDF","url":"https://dblp.org/rec/conf/vldb/RjaibiB04"},
+"url":"URL#4387499"
+},
+{
+"@score":"1",
+"@id":"4387500",
+"info":{"authors":{"author":[{"@pid":"r/ArnonRosenthal","text":"Arnon Rosenthal"},{"@pid":"w/MarianneWinslett","text":"Marianne Winslett"}]},"title":"Security of Shared Data in Large Systems - State of the Art and Research Directions.","venue":"VLDB","pages":"1242","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/RosenthalW04","doi":"10.1016/B978-012088469-8.50115-7","ee":"http://www.vldb.org/conf/2004/TUT2.PDF","url":"https://dblp.org/rec/conf/vldb/RosenthalW04"},
+"url":"URL#4387500"
+},
+{
+"@score":"1",
+"@id":"4387501",
+"info":{"authors":{"author":[{"@pid":"r/KARoss","text":"Kenneth A. Ross"},{"@pid":"s/JuliaStoyanovich","text":"Julia Stoyanovich"}]},"title":"Symmetric Relations and Cardinality-Bounded Multisets in Database Systems.","venue":"VLDB","pages":"912-923","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/RossS04","doi":"10.1016/B978-012088469-8.50080-2","ee":"http://www.vldb.org/conf/2004/RS23P2.PDF","url":"https://dblp.org/rec/conf/vldb/RossS04"},
+"url":"URL#4387501"
+},
+{
+"@score":"1",
+"@id":"4387502",
+"info":{"authors":{"author":[{"@pid":"r/EARundensteiner","text":"Elke A. Rundensteiner"},{"@pid":"33/4992","text":"Luping Ding"},{"@pid":"72/248","text":"Timothy M. Sutherland"},{"@pid":"10/7026","text":"Yali Zhu"},{"@pid":"58/3019","text":"Bradford Pielech"},{"@pid":"80/6528","text":"Nishant K. Mehta"}]},"title":"CAPE - Continuous Query Engine with Heterogeneous-Grained Adaptivity.","venue":"VLDB","pages":"1353-1356","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/RundensteinerDSZPM04","doi":"10.1016/B978-012088469-8.50145-5","ee":"http://www.vldb.org/conf/2004/DEMP26.PDF","url":"https://dblp.org/rec/conf/vldb/RundensteinerDSZPM04"},
+"url":"URL#4387502"
+},
+{
+"@score":"1",
+"@id":"4387503",
+"info":{"authors":{"author":[{"@pid":"62/2898","text":"Parag Sarda"},{"@pid":"h/JayantRHaritsa","text":"Jayant R. Haritsa"}]},"title":"Green Query Optimization - Taming Query Optimization Overheads through Plan Recycling.","venue":"VLDB","pages":"1333-1336","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/SardaH04","doi":"10.1016/B978-012088469-8.50140-6","ee":"http://www.vldb.org/conf/2004/DEMP21.PDF","url":"https://dblp.org/rec/conf/vldb/SardaH04"},
+"url":"URL#4387503"
+},
+{
+"@score":"1",
+"@id":"4387504",
+"info":{"authors":{"author":[{"@pid":"99/4895","text":"Sven Schmidt"},{"@pid":"99/5231","text":"Henrike Berthold"},{"@pid":"l/WLehner","text":"Wolfgang Lehner"}]},"title":"QStream - Deterministic Querying of Data Streams.","venue":"VLDB","pages":"1365-1368","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/SchmidtBL04","doi":"10.1016/B978-012088469-8.50148-0","ee":"http://www.vldb.org/conf/2004/DEMP29.PDF","url":"https://dblp.org/rec/conf/vldb/SchmidtBL04"},
+"url":"URL#4387504"
+},
+{
+"@score":"1",
+"@id":"4387505",
+"info":{"authors":{"author":[{"@pid":"50/6733","text":"Minglong Shao"},{"@pid":"56/2687","text":"Jiri Schindler"},{"@pid":"52/1925","text":"Steven W. Schlosser"},{"@pid":"a/AnastassiaAilamaki","text":"Anastassia Ailamaki"},{"@pid":"g/GregoryRGanger","text":"Gregory R. Ganger"}]},"title":"Clotho - Decoupling memory page layout from storage organization.","venue":"VLDB","pages":"696-707","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/ShaoSSAG04","doi":"10.1016/B978-012088469-8.50062-0","ee":"http://www.vldb.org/conf/2004/RS18P4.PDF","url":"https://dblp.org/rec/conf/vldb/ShaoSSAG04"},
+"url":"URL#4387505"
+},
+{
+"@score":"1",
+"@id":"4387506",
+"info":{"authors":{"author":[{"@pid":"67/3593","text":"Mehdi Sharifzadeh"},{"@pid":"s/CyrusShahabi","text":"Cyrus Shahabi"},{"@pid":"37/1148","text":"Bahareh Navai"},{"@pid":"85/3263","text":"Farid Parvini"},{"@pid":"59/3290","text":"Albert A. Rizzo"}]},"title":"AIDA - an Adaptive Immersive Data Analyzer.","venue":"VLDB","pages":"1369-1372","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/SharifzadehSNPR04","doi":"10.1016/B978-012088469-8.50149-2","ee":"http://www.vldb.org/conf/2004/DEMP30.PDF","url":"https://dblp.org/rec/conf/vldb/SharifzadehSNPR04"},
+"url":"URL#4387506"
+},
+{
+"@score":"1",
+"@id":"4387507",
+"info":{"authors":{"author":[{"@pid":"58/3291","text":"Pavan Kumar C. Singitham"},{"@pid":"59/626","text":"Mahathi S. Mahabhashyam"},{"@pid":"r/PRaghavan","text":"Prabhakar Raghavan"}]},"title":"Efficiency-Quality Tradeoffs for Vector Score Aggregation.","venue":"VLDB","pages":"624-635","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/SingithamMR04","doi":"10.1016/B978-012088469-8.50056-5","ee":"http://www.vldb.org/conf/2004/RS17P1.PDF","url":"https://dblp.org/rec/conf/vldb/SingithamMR04"},
+"url":"URL#4387507"
+},
+{
+"@score":"1",
+"@id":"4387508",
+"info":{"authors":{"author":[{"@pid":"s/RaduSion","text":"Radu Sion"},{"@pid":"a/MikhailJAtallah","text":"Mikhail J. Atallah"},{"@pid":"p/SunilPrabhakar","text":"Sunil Prabhakar"}]},"title":"Resilient Rights Protection for Sensor Streams.","venue":"VLDB","pages":"732-743","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/SionAP04","doi":"10.1016/B978-012088469-8.50065-6","ee":"http://www.vldb.org/conf/2004/RS19P3.PDF","url":"https://dblp.org/rec/conf/vldb/SionAP04"},
+"url":"URL#4387508"
+},
+{
+"@score":"1",
+"@id":"4387509",
+"info":{"authors":{"author":[{"@pid":"65/5468","text":"Yannis Sismanis"},{"@pid":"r/NickRoussopoulos","text":"Nick Roussopoulos"}]},"title":"The Complexity of Fully Materialized Coalesced Cubes.","venue":"VLDB","pages":"540-551","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/SismanisR04","doi":"10.1016/B978-012088469-8.50049-8","ee":"http://www.vldb.org/conf/2004/RS14P2.PDF","url":"https://dblp.org/rec/conf/vldb/SismanisR04"},
+"url":"URL#4387509"
+},
+{
+"@score":"1",
+"@id":"4387510",
+"info":{"authors":{"author":[{"@pid":"79/5906","text":"Halvard Skogsrud"},{"@pid":"b/BoualemBenatallah","text":"Boualem Benatallah"},{"@pid":"c/FabioCasati","text":"Fabio Casati"},{"@pid":"51/348","text":"Manh Q. Dinh"}]},"title":"Trust-Serv - A Lightweight Trust Negotiation Service.","venue":"VLDB","pages":"1329-1332","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/SkogsrudBCD04","doi":"10.1016/B978-012088469-8.50139-X","ee":"http://www.vldb.org/conf/2004/DEMP20.PDF","url":"https://dblp.org/rec/conf/vldb/SkogsrudBCD04"},
+"url":"URL#4387510"
+},
+{
+"@score":"1",
+"@id":"4387511",
+"info":{"authors":{"author":[{"@pid":"s/RichardTSnodgrass","text":"Richard T. Snodgrass"},{"@pid":"23/5124","text":"Shilong (Stanley) Yao"},{"@pid":"c/ChristianSCollberg","text":"Christian S. Collberg"}]},"title":"Tamper Detection in Audit Logs.","venue":"VLDB","pages":"504-515","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/SnodgrassYC04","doi":"10.1016/B978-012088469-8.50046-2","ee":"http://www.vldb.org/conf/2004/RS13P1.PDF","url":"https://dblp.org/rec/conf/vldb/SnodgrassYC04"},
+"url":"URL#4387511"
+},
+{
+"@score":"1",
+"@id":"4387512",
+"info":{"authors":{"author":[{"@pid":"46/2539","text":"Utkarsh Srivastava"},{"@pid":"w/JenniferWidom","text":"Jennifer Widom"}]},"title":"Memory-Limited Execution of Windowed Stream Joins.","venue":"VLDB","pages":"324-335","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/SrivastavaW04","doi":"10.1016/B978-012088469-8.50031-0","ee":"http://www.vldb.org/conf/2004/RS9P1.PDF","url":"https://dblp.org/rec/conf/vldb/SrivastavaW04"},
+"url":"URL#4387512"
+},
+{
+"@score":"1",
+"@id":"4387513",
+"info":{"authors":{"author":[{"@pid":"60/5248","text":"Raymie Stata"},{"@pid":"21/3034","text":"Patrick Hunt"},{"@pid":"08/4813","text":"Thiruvalluvan M. G."}]},"title":"The Bloomba Personal Content Database.","venue":"VLDB","pages":"1214-1223","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/StataHG04","doi":"10.1016/B978-012088469-8.50108-X","ee":"http://www.vldb.org/conf/2004/IND7P3.PDF","url":"https://dblp.org/rec/conf/vldb/StataHG04"},
+"url":"URL#4387513"
+},
+{
+"@score":"1",
+"@id":"4387514",
+"info":{"authors":{"author":[{"@pid":"37/4431","text":"Hong Su"},{"@pid":"r/EARundensteiner","text":"Elke A. Rundensteiner"},{"@pid":"m/MuraliMani","text":"Murali Mani"}]},"title":"Semantic Query Optimization in an Automata-Algebra Combined XQuery Engine over XML Streams.","venue":"VLDB","pages":"1293-1296","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/SuRM04","doi":"10.1016/B978-012088469-8.50130-3","ee":"http://www.vldb.org/conf/2004/DEMP11.PDF","url":"https://dblp.org/rec/conf/vldb/SuRM04"},
+"url":"URL#4387514"
+},
+{
+"@score":"1",
+"@id":"4387515",
+"info":{"authors":{"author":[{"@pid":"t/KeishiTajima","text":"Keishi Tajima"},{"@pid":"84/6292","text":"Yoshiki Fukui"}]},"title":"Answering XPath Queries over Networks by Sending Minimal Views.","venue":"VLDB","pages":"48-59","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/TajimaF04","doi":"10.1016/B978-012088469-8.50008-5","ee":"http://www.vldb.org/conf/2004/RS2P1.PDF","url":"https://dblp.org/rec/conf/vldb/TajimaF04"},
+"url":"URL#4387515"
+},
+{
+"@score":"1",
+"@id":"4387516",
+"info":{"authors":{"author":[{"@pid":"t/YufeiTao","text":"Yufei Tao"},{"@pid":"p/DimitrisPapadias","text":"Dimitris Papadias"},{"@pid":"l/XianLian","text":"Xiang Lian"}]},"title":"Reverse kNN Search in Arbitrary Dimensionality.","venue":"VLDB","pages":"744-755","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/TaoPL04","doi":"10.1016/B978-012088469-8.50066-8","ee":"http://www.vldb.org/conf/2004/RS20P1.PDF","url":"https://dblp.org/rec/conf/vldb/TaoPL04"},
+"url":"URL#4387516"
+},
+{
+"@score":"1",
+"@id":"4387517",
+"info":{"authors":{"author":[{"@pid":"20/1055","text":"Sandeep Tata"},{"@pid":"22/5951","text":"Richard A. Hankins"},{"@pid":"p/JMPatel","text":"Jignesh M. Patel"}]},"title":"Practical Suffix Tree Construction.","venue":"VLDB","pages":"36-47","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/TataHP04","doi":"10.1016/B978-012088469-8.50007-3","ee":"http://www.vldb.org/conf/2004/RS1P3.PDF","url":"https://dblp.org/rec/conf/vldb/TataHP04"},
+"url":"URL#4387517"
+},
+{
+"@score":"1",
+"@id":"4387518",
+"info":{"authors":{"author":[{"@pid":"t/ErnestTeniente","text":"Ernest Teniente"},{"@pid":"80/1912","text":"Carles Farré"},{"@pid":"35/1865","text":"Toni Urpí"},{"@pid":"02/70","text":"Carlos Beltrán"},{"@pid":"89/8828","text":"David Gañán"}]},"title":"SVT - Schema Validation Tool for Microsoft SQL-Server.","venue":"VLDB","pages":"1349-1352","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/TenienteFUBG04","doi":"10.1016/B978-012088469-8.50144-3","ee":"http://www.vldb.org/conf/2004/DEMP25.PDF","url":"https://dblp.org/rec/conf/vldb/TenienteFUBG04"},
+"url":"URL#4387518"
+},
+{
+"@score":"1",
+"@id":"4387519",
+"info":{"authors":{"author":[{"@pid":"t/MartinTheobald","text":"Martin Theobald"},{"@pid":"w/GerhardWeikum","text":"Gerhard Weikum"},{"@pid":"s/RalfSchenkel","text":"Ralf Schenkel"}]},"title":"Top-k Query Evaluation with Probabilistic Guarantees.","venue":"VLDB","pages":"648-659","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/TheobaldWS04","doi":"10.1016/B978-012088469-8.50058-9","ee":"http://www.vldb.org/conf/2004/RS17P3.PDF","url":"https://dblp.org/rec/conf/vldb/TheobaldWS04"},
+"url":"URL#4387519"
+},
+{
+"@score":"1",
+"@id":"4387520",
+"info":{"authors":{"author":[{"@pid":"51/508","text":"Andreas Thor"},{"@pid":"r/ERahm","text":"Erhard Rahm"}]},"title":"AWESOME - A Data Warehouse-based System for Adaptive Website Recommendations.","venue":"VLDB","pages":"384-395","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/ThorR04","doi":"10.1016/B978-012088469-8.50036-X","ee":"http://www.vldb.org/conf/2004/RS10P2.PDF","url":"https://dblp.org/rec/conf/vldb/ThorR04"},
+"url":"URL#4387520"
+},
+{
+"@score":"1",
+"@id":"4387521",
+"info":{"authors":{"author":[{"@pid":"47/3962","text":"Thodoros Topaloglou"},{"@pid":"d/SBDavidson","text":"Susan B. Davidson"},{"@pid":"j/HVJagadish","text":"H. V. Jagadish"},{"@pid":"m/VMMarkowitz","text":"Victor M. Markowitz"},{"@pid":"69/5150","text":"Evan W. Steeg"},{"@pid":"55/3797","text":"Mike Tyers"}]},"title":"Biological Data Management - Research, Practice and Opportunities.","venue":"VLDB","pages":"1233-1236","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/TopaloglouDJMST04","doi":"10.1016/B978-012088469-8.50112-1","ee":"http://www.vldb.org/conf/2004/PAN1.PDF","url":"https://dblp.org/rec/conf/vldb/TopaloglouDJMST04"},
+"url":"URL#4387521"
+},
+{
+"@score":"1",
+"@id":"4387522",
+"info":{"authors":{"author":[{"@pid":"u/OzgurUlusoy","text":"Özgür Ulusoy"},{"@pid":"26/4312","text":"Ugur Güdükbay"},{"@pid":"55/1267","text":"Mehmet Emin Dönderler"},{"@pid":"s/ESaykol","text":"Ediz Saykol"},{"@pid":"26/4116","text":"Cemil Alper"}]},"title":"BilVideo Video Database Management System.","venue":"VLDB","pages":"1373-1376","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/UlusoyGDSA04","doi":"10.1016/B978-012088469-8.50150-9","ee":"http://www.vldb.org/conf/2004/DEMP31.PDF","url":"https://dblp.org/rec/conf/vldb/UlusoyGDSA04"},
+"url":"URL#4387522"
+},
+{
+"@score":"1",
+"@id":"4387523",
+"info":{"authors":{"author":[{"@pid":"41/3241","text":"Yuan Wang"},{"@pid":"d/DJDeWitt","text":"David J. DeWitt"}]},"title":"Computing PageRank in a Distributed Internet Search Engine System.","venue":"VLDB","pages":"420-431","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/WangD04","doi":"10.1016/B978-012088469-8.50039-5","ee":"http://www.vldb.org/conf/2004/RS11P1.PDF","url":"https://dblp.org/rec/conf/vldb/WangD04"},
+"url":"URL#4387523"
+},
+{
+"@score":"1",
+"@id":"4387524",
+"info":{"authors":{"author":[{"@pid":"w/WeiWang11","text":"Wei Wang 0011"},{"@pid":"61/3217","text":"Haifeng Jiang"},{"@pid":"l/HongjunLu","text":"Hongjun Lu"},{"@pid":"y/JXuYu","text":"Jeffrey Xu Yu"}]},"title":"Bloom Histogram - Path Selectivity Estimation for XML Data with Updates.","venue":"VLDB","pages":"240-251","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/WangJLY04","doi":"10.1016/B978-012088469-8.50024-3","ee":"http://www.vldb.org/conf/2004/RS6P3.PDF","url":"https://dblp.org/rec/conf/vldb/WangJLY04"},
+"url":"URL#4387524"
+},
+{
+"@score":"1",
+"@id":"4387525",
+"info":{"authors":{"author":[{"@pid":"15/6282","text":"Jiying Wang"},{"@pid":"w/JRWen","text":"Ji-Rong Wen"},{"@pid":"l/FHLochovsky","text":"Frederick H. Lochovsky"},{"@pid":"m/WYMa","text":"Wei-Ying Ma"}]},"title":"Instance-based Schema Matching for Web Databases by Domain-specific Query Probing.","venue":"VLDB","pages":"408-419","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/WangWLM04","doi":"10.1016/B978-012088469-8.50038-3","ee":"http://www.vldb.org/conf/2004/RS10P4.PDF","url":"https://dblp.org/rec/conf/vldb/WangWLM04"},
+"url":"URL#4387525"
+},
+{
+"@score":"1",
+"@id":"4387526",
+"info":{"authors":{"author":[{"@pid":"30/4395","text":"Kesheng Wu"},{"@pid":"10/3587","text":"Ekow J. Otoo"},{"@pid":"s/ArieShoshani","text":"Arie Shoshani"}]},"title":"On the performance of bitmap indices for high cardinality attributes.","venue":"VLDB","pages":"24-35","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/WuOS04","doi":"10.1016/B978-012088469-8.50006-1","ee":"http://www.vldb.org/conf/2004/RS1P2.PDF","url":"https://dblp.org/rec/conf/vldb/WuOS04"},
+"url":"URL#4387526"
+},
+{
+"@score":"1",
+"@id":"4387527",
+"info":{"authors":{"author":[{"@pid":"17/5650","text":"Chenyi Xia"},{"@pid":"l/HongjunLu","text":"Hongjun Lu"},{"@pid":"o/BengChinOoi","text":"Beng Chin Ooi"},{"@pid":"49/850","text":"Jin Hu"}]},"title":"Gorder - An Efficient Method for KNN Join Processing.","venue":"VLDB","pages":"756-767","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/XiaLOH04","doi":"10.1016/B978-012088469-8.50067-X","ee":"http://www.vldb.org/conf/2004/RS20P2.PDF","url":"https://dblp.org/rec/conf/vldb/XiaLOH04"},
+"url":"URL#4387527"
+},
+{
+"@score":"1",
+"@id":"4387528",
+"info":{"authors":{"author":[{"@pid":"66/3874","text":"Xin Xu"},{"@pid":"33/3180","text":"Gao Cong"},{"@pid":"o/BengChinOoi","text":"Beng Chin Ooi"},{"@pid":"t/KianLeeTan","text":"Kian-Lee Tan"},{"@pid":"t/AnthonyKHTung","text":"Anthony K. H. Tung"}]},"title":"Semantic Mining and Analysis of Gene Expression Data.","venue":"VLDB","pages":"1261-1264","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/XuCOTH04","doi":"10.1016/B978-012088469-8.50122-4","ee":"http://www.vldb.org/conf/2004/DEMP4.PDF","url":"https://dblp.org/rec/conf/vldb/XuCOTH04"},
+"url":"URL#4387528"
+},
+{
+"@score":"1",
+"@id":"4387529",
+"info":{"authors":{"author":[{"@pid":"19/5092","text":"Zhengdao Xu"},{"@pid":"j/HansArnoJacobsen","text":"Hans-Arno Jacobsen"}]},"title":"Efficient Constraint Processing for Highly Personalized Location Based Services.","venue":"VLDB","pages":"1285-1288","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/XuJ04","doi":"10.1016/B978-012088469-8.50128-5","ee":"http://www.vldb.org/conf/2004/DEMP9.PDF","url":"https://dblp.org/rec/conf/vldb/XuJ04"},
+"url":"URL#4387529"
+},
+{
+"@score":"1",
+"@id":"4387530",
+"info":{"authors":{"author":{"@pid":"08/6433","text":"David Yach"}},"title":"Databases in a Wireless World.","venue":"VLDB","pages":"3","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/Yach04","doi":"10.1016/B978-012088469-8.50002-4","ee":"http://www.vldb.org/conf/2004/KEY1.PDF","url":"https://dblp.org/rec/conf/vldb/Yach04"},
+"url":"URL#4387530"
+},
+{
+"@score":"1",
+"@id":"4387531",
+"info":{"authors":{"author":[{"@pid":"86/2859-1","text":"Xiaochun Yang 0001"},{"@pid":"l/ChenLi1","text":"Chen Li 0001"}]},"title":"Secure XML Publishing without Information Leakage in the Presence of Data Inference.","venue":"VLDB","pages":"96-107","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/YangL04","doi":"10.1016/B978-012088469-8.50012-7","ee":"http://www.vldb.org/conf/2004/RS3P2.PDF","url":"https://dblp.org/rec/conf/vldb/YangL04"},
+"url":"URL#4387531"
+},
+{
+"@score":"1",
+"@id":"4387532",
+"info":{"authors":{"author":[{"@pid":"y/JXuYu","text":"Jeffrey Xu Yu"},{"@pid":"c/ZhihongChong","text":"Zhihong Chong"},{"@pid":"l/HongjunLu","text":"Hongjun Lu"},{"@pid":"z/AoyingZhou","text":"Aoying Zhou"}]},"title":"False Positive or False Negative - Mining Frequent Itemsets from High Speed Transactional Data Streams.","venue":"VLDB","pages":"204-215","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/YuCLZ04","doi":"10.1016/B978-012088469-8.50021-8","ee":"http://www.vldb.org/conf/2004/RS5P3.PDF","url":"https://dblp.org/rec/conf/vldb/YuCLZ04"},
+"url":"URL#4387532"
+},
+{
+"@score":"1",
+"@id":"4387533",
+"info":{"authors":{"author":[{"@pid":"86/1953","text":"Ji Zhang"},{"@pid":"39/1841","text":"Meng Lou"},{"@pid":"l/TokWangLing","text":"Tok Wang Ling"},{"@pid":"45/1539","text":"Hai H. Wang"}]},"title":"HOS-Miner - A System for Detecting Outlying Subspaces of High-dimensional Data.","venue":"VLDB","pages":"1265-1268","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/ZhangLLW04","doi":"10.1016/B978-012088469-8.50123-6","ee":"http://www.vldb.org/conf/2004/DEMP5.PDF","url":"https://dblp.org/rec/conf/vldb/ZhangLLW04"},
+"url":"URL#4387533"
+},
+{
+"@score":"1",
+"@id":"4387534",
+"info":{"authors":{"author":[{"@pid":"69/1427","text":"Shanzhong Zhu"},{"@pid":"r/ChinyaVRavishankar","text":"Chinya V. Ravishankar"}]},"title":"Stochastic Consistency, and Scalable Pull-Based Caching for Erratic Data Sources.","venue":"VLDB","pages":"192-203","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/ZhuR04","doi":"10.1016/B978-012088469-8.50020-6","ee":"http://www.vldb.org/conf/2004/RS5P2.PDF","url":"https://dblp.org/rec/conf/vldb/ZhuR04"},
+"url":"URL#4387534"
+},
+{
+"@score":"1",
+"@id":"4387535",
+"info":{"authors":{"author":[{"@pid":"60/6783","text":"Daniel C. Zilio"},{"@pid":"r/JunRao","text":"Jun Rao"},{"@pid":"31/3001","text":"Sam Lightstone"},{"@pid":"21/2457","text":"Guy M. Lohman"},{"@pid":"16/5412","text":"Adam J. Storm"},{"@pid":"96/122","text":"Christian Garcia-Arellano"},{"@pid":"18/4601","text":"Scott Fadden"}]},"title":"DB2 Design Advisor - Integrated Automatic Physical Database Design.","venue":"VLDB","pages":"1087-1097","year":"2004","type":"Conference and Workshop Papers","key":"conf/vldb/ZilioRLLSGF04","doi":"10.1016/B978-012088469-8.50095-4","ee":"http://www.vldb.org/conf/2004/IND4P1.PDF","url":"https://dblp.org/rec/conf/vldb/ZilioRLLSGF04"},
+"url":"URL#4387535"
+},
+{
+"@score":"1",
+"@id":"4392963",
+"info":{"authors":{"author":[{"@pid":"n/MarioANascimento","text":"Mario A. Nascimento"},{"@pid":"o/MTamerOzsu","text":"M. Tamer Özsu"},{"@pid":"k/DonaldKossmann","text":"Donald Kossmann"},{"@pid":"m/RJMiller","text":"Renée J. Miller"},{"@pid":"79/2594","text":"José A. Blakeley"},{"@pid":"95/5216","text":"K. Bernhard Schiefer"}]},"title":"(e)Proceedings of the Thirtieth International Conference on Very Large Data Bases, VLDB 2004, Toronto, Canada, August 31 - September 3 2004","publisher":"Morgan Kaufmann","year":"2004","type":"Editorship","key":"conf/vldb/2004","ee":"https://www.sciencedirect.com/book/9780120884698/","url":"https://dblp.org/rec/conf/vldb/2004"},
+"url":"URL#4392963"
+}
+]
+}
+}
+}
