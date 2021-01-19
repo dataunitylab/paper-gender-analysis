@@ -5,6 +5,7 @@ import glob
 import sys
 
 import genderComputer
+import matplotlib.ticker as ticker
 import pandas as pd
 
 
@@ -94,7 +95,80 @@ def dataframe():
     df['female'] = df['female'] == 1
     df['unisex'] = df['unisex'] == 1
     df['unknown'] = df['unknown'] == 1
+
+    # Relabel VLDB to VLDB/PVLDB
+    df.loc[df.conf == 'vldb', 'conf'] = 'vldb/pvldb'
+
+    # Find the index of the last author of each
+    # paper and add to the original data frame
+    last_author_index = df.groupby(['paper_id'], sort=False)['author_position'].max().to_frame()
+    first_paper = df.groupby(['author_id'], sort=False)['year'] \
+                    .min().to_frame()
+    df = df.join(last_author_index, on='paper_id', rsuffix='_last')
+    df = df.join(first_paper, on='author_id', rsuffix='_first_paper') \
+           .sort_values(['paper_id', 'author_position'])
+
     return df
+
+
+def _first_female_author(group):
+    # Check for the first author of a paper being female
+    return group['female'].iloc[0]
+
+
+def _last_female_author(group):
+    # Check for the last author of a paper being female
+    return group['female'].iloc[group['author_position_last'].iloc[0]]
+
+
+def _any_female_author(group):
+    # Check for any author of a paper being female
+    return group['female'].any()
+
+
+def _all_female_author(group):
+    # Check for all authors of a paper being female
+    return group['female'].all()
+
+
+def aggregate_authorship(df):
+    aggregates = {}
+    funcs = {
+        'first': _first_female_author,
+        'last': _last_female_author,
+        'any': _any_female_author,
+        'all': _all_female_author
+    }
+    group_attrs = ['conf', 'year']
+    for (name, fn) in funcs.items():
+        # First group by paper ID to calculate values per paper
+        df_agg = df.groupby(['paper_id'] + group_attrs) \
+                   .apply(fn).to_frame('female')
+
+        # Then group by conference and year and calculate the percentage
+        aggregates[name] = df_agg.groupby(group_attrs).mean().multiply(100)
+
+    return aggregates
+
+
+def plot_authors(df, plot_label):
+    # Calculate the rolling mean across three years
+    rolling_mean = df.unstack(level=0).sort_values(['year']).ffill() \
+                     .rolling(window=3).mean()
+
+    # Generate a simple line plot
+    plot_title = 'Female authors by year (%s)' % plot_label
+    fig = rolling_mean.plot(figsize=(15, 8), title=plot_title)
+
+    # Add x-axis labels every other year
+    fig.xaxis.set_major_locator(ticker.MultipleLocator(2))
+
+    # y-axis is always a percentage of all papers
+    fig.set_ylabel('% of papers')
+
+    # Label based on uppercase journal name
+    fig.legend([c.split(', ')[1].rstrip(')').upper()
+                for c in fig.get_legend_handles_labels()[1]])
 
 
 def main():
