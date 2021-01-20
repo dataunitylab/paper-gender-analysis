@@ -1,9 +1,22 @@
 language: python
+
 python:
 - 3.7.9
+
 install:
 - pip install pipenv
 - pipenv install --dev
+
+cache:
+  directories:
+  - $PIP_CACHE_DIR
+  - $PIPENV_CACHE_DIR
+env:
+  global:
+  - PIP_CACHE_DIR=$HOME/.cache/pip
+  - PIPENV_CACHE_DIR=$HOME/.cache/pipenv
+  - PIPENV_VENV_IN_PROJECT=1
+  - PIPENV_IGNORE_VIRTUALENVS=1
 
 script:
 # Reexecute all notebooks and save the output
