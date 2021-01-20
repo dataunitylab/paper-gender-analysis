@@ -2,9 +2,11 @@ import collections
 import csv
 import json
 import glob
+import os
 import sys
 
 import genderComputer
+import matplotlib
 import matplotlib.ticker as ticker
 import pandas as pd
 
@@ -84,12 +86,13 @@ def infer_genders():
     return gender_counts
 
 
-def dataframe():
+def dataframe(genders=None):
     """
     Return the data as a Pandas DataFrame
     """
     # Infer genders for data files in the data/ directory
-    genders = infer_genders()
+    if genders is None:
+        genders = infer_genders()
     df = pd.DataFrame(genders)
     df['male'] = df['male'] == 1
     df['female'] = df['female'] == 1
@@ -151,7 +154,7 @@ def aggregate_authorship(df):
     return aggregates
 
 
-def plot_authors(df, plot_label):
+def plot_authors(df, plot_label, save=False):
     # Calculate the rolling mean across three years
     rolling_mean = df.unstack(level=0).sort_values(['year']).ffill() \
                      .rolling(window=3).mean()
@@ -170,19 +173,42 @@ def plot_authors(df, plot_label):
     fig.legend([c.split(', ')[1].rstrip(')').upper()
                 for c in fig.get_legend_handles_labels()[1]])
 
+    # Optionally save to file
+    if save:
+        # Set matplotlib parameters
+        matplotlib.use('pgf')
+        matplotlib.rcParams.update({
+            'pgf.texsystem': 'pdflatex',
+            'font.family': 'serif',
+            'text.usetex': True,
+            'pgf.rcfonts': False,
+        })
+
+        filename = plot_label.replace(' ', '_') + '.pgf'
+        fig.figure.set_tight_layout(True)
+        fig.figure.savefig(os.path.join('output', filename))
+
 
 def main():
     # Infer genders for data files in the data/ directory
     genders = infer_genders()
 
     # Write a header row
-    csv_writer = csv.writer(sys.stdout)
+    csv_writer = csv.writer(open(os.path.join('output', 'gender.csv'), 'w'))
     columns = genders[0].keys()
     csv_writer.writerow(columns)
 
     # Write values for each conference
     for row in genders:
         csv_writer.writerow(row.values())
+
+    # Save plots to file
+    df = dataframe(genders)
+    aggregates = aggregate_authorship(df)
+    plot_authors(aggregates['any'], 'any position', save=True)
+    plot_authors(aggregates['first'], 'first author', save=True)
+    plot_authors(aggregates['last'], 'last author', save=True)
+    plot_authors(aggregates['all'], 'all positions', save=True)
 
 
 if __name__ == '__main__':
