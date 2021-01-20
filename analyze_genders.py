@@ -154,17 +154,20 @@ def aggregate_authorship(df):
     return aggregates
 
 
-def plot_authors(df, plot_label, save=False):
+def plot_authors(df, plot_label, save=False, header=True):
     # Calculate the rolling mean across three years
     rolling_mean = df.unstack(level=0).sort_values(['year']).ffill() \
                      .rolling(window=3).mean()
 
     # Generate a simple line plot
-    plot_title = 'Female authors by year (%s)' % plot_label
+    if header:
+        plot_title = 'Female authors by year (%s)' % plot_label
+    else:
+        plot_title = None
     fig = rolling_mean.plot(figsize=(15, 8), title=plot_title)
 
     # Add x-axis labels every other year
-    fig.xaxis.set_major_locator(ticker.MultipleLocator(2))
+    fig.xaxis.set_major_locator(ticker.MultipleLocator(5))
 
     # y-axis is always a percentage of all papers
     fig.set_ylabel('% of papers')
@@ -182,6 +185,7 @@ def plot_authors(df, plot_label, save=False):
             'font.family': 'serif',
             'text.usetex': True,
             'pgf.rcfonts': False,
+            'font.size': 20,
         })
 
         filename = plot_label.replace(' ', '_') + '.pgf'
@@ -205,10 +209,10 @@ def main():
     # Save plots to file
     df = dataframe(genders)
     aggregates = aggregate_authorship(df)
-    plot_authors(aggregates['any'], 'any position', save=True)
-    plot_authors(aggregates['first'], 'first author', save=True)
-    plot_authors(aggregates['last'], 'last author', save=True)
-    plot_authors(aggregates['all'], 'all positions', save=True)
+    plot_authors(aggregates['any'], 'any position', save=True, header=False)
+    plot_authors(aggregates['first'], 'first author', save=True, header=False)
+    plot_authors(aggregates['last'], 'last author', save=True, header=False)
+    plot_authors(aggregates['all'], 'all positions', save=True, header=False)
 
 
 if __name__ == '__main__':
