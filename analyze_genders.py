@@ -209,10 +209,10 @@ def main():
     # Save plots to file
     df = dataframe(genders)
     aggregates = aggregate_authorship(df)
+    plot_authors(aggregates['all'], 'all positions', save=True, header=False)
     plot_authors(aggregates['any'], 'any position', save=True, header=False)
     plot_authors(aggregates['first'], 'first author', save=True, header=False)
     plot_authors(aggregates['last'], 'last author', save=True, header=False)
-    plot_authors(aggregates['all'], 'all positions', save=True, header=False)
 
 
 if __name__ == '__main__':
