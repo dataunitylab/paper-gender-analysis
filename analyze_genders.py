@@ -144,7 +144,7 @@ def _all_female_author(group):
     return group['female'].all()
 
 
-def aggregate_authorship(df):
+def aggregate_authorship(df, group_attrs=['conf', 'year']):
     aggregates = {}
     funcs = {
         'first': _first_female_author,
@@ -152,7 +152,6 @@ def aggregate_authorship(df):
         'any': _any_female_author,
         'all': _all_female_author
     }
-    group_attrs = ['conf', 'year']
     for (name, fn) in funcs.items():
         # First group by paper ID to calculate values per paper
         df_agg = df.groupby(['paper_id'] + group_attrs) \
