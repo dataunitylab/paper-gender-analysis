@@ -1,0 +1,200 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"osdi\"/\"osdi2004\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"146.11"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"28",
+"@dc":"28",
+"@oc":"28",
+"@id":"17580799",
+"text":":facetid:toc:db/conf/osdi/osdi2004.bht"
+}
+},
+"hits":{
+"@total":"28",
+"@computed":"28",
+"@sent":"28",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"4402707",
+"info":{"authors":{"author":[{"@pid":"b/PaulBarham","text":"Paul Barham 0001"},{"@pid":"21/2604","text":"Austin Donnelly"},{"@pid":"89/4883","text":"Rebecca Isaacs"},{"@pid":"28/5155","text":"Richard Mortier"}]},"title":"Using Magpie for Request Extraction and Workload Modelling.","venue":"OSDI","pages":"259-272","year":"2004","type":"Conference and Workshop Papers","key":"conf/osdi/BarhamDIM04","ee":"http://www.usenix.org/events/osdi04/tech/barham.html","url":"https://dblp.org/rec/conf/osdi/BarhamDIM04"},
+"url":"URL#4402707"
+},
+{
+"@score":"1",
+"@id":"4402708",
+"info":{"authors":{"author":[{"@pid":"91/800","text":"Herbert Bos"},{"@pid":"86/4441","text":"Willem de Bruijn"},{"@pid":"83/1786","text":"Mihai-Lucian Cristea"},{"@pid":"98/2634","text":"Trung Nguyen"},{"@pid":"44/3319","text":"Georgios Portokalidis"}]},"title":"FFPF - Fairly Fast Packet Filters.","venue":"OSDI","pages":"347-363","year":"2004","type":"Conference and Workshop Papers","key":"conf/osdi/BosBCNP04","ee":"http://www.usenix.org/events/osdi04/tech/bos.html","url":"https://dblp.org/rec/conf/osdi/BosBCNP04"},
+"url":"URL#4402708"
+},
+{
+"@score":"1",
+"@id":"4402710",
+"info":{"authors":{"author":[{"@pid":"c/GeorgeCandea","text":"George Candea"},{"@pid":"71/3137","text":"Shinichi Kawamoto"},{"@pid":"41/1809","text":"Yuichi Fujiki"},{"@pid":"01/3802","text":"Greg Friedman"},{"@pid":"90/5133","text":"Armando Fox"}]},"title":"Microreboot - A Technique for Cheap Recovery.","venue":"OSDI","pages":"31-44","year":"2004","type":"Conference and Workshop Papers","key":"conf/osdi/CandeaKFFF04","ee":"http://www.usenix.org/events/osdi04/tech/candea.html","url":"https://dblp.org/rec/conf/osdi/CandeaKFFF04"},
+"url":"URL#4402710"
+},
+{
+"@score":"1",
+"@id":"4402712",
+"info":{"authors":{"author":[{"@pid":"91/5001","text":"Ira Cohen"},{"@pid":"c/JSChase","text":"Jeffrey S. Chase"},{"@pid":"37/1288","text":"Moisés Goldszmidt"},{"@pid":"64/5765","text":"Terence Kelly"},{"@pid":"48/6862","text":"Julie Symons"}]},"title":"Correlating Instrumentation Data to System States - A Building Block for Automated Diagnosis and Control.","venue":"OSDI","pages":"231-244","year":"2004","type":"Conference and Workshop Papers","key":"conf/osdi/CohenCGKS04","ee":"http://www.usenix.org/events/osdi04/tech/cohen.html","url":"https://dblp.org/rec/conf/osdi/CohenCGKS04"},
+"url":"URL#4402712"
+},
+{
+"@score":"1",
+"@id":"4402713",
+"info":{"authors":{"author":[{"@pid":"d/JeffreyDean","text":"Jeffrey Dean"},{"@pid":"g/SGhemawat","text":"Sanjay Ghemawat"}]},"title":"MapReduce - Simplified Data Processing on Large Clusters.","venue":"OSDI","pages":"137-150","year":"2004","type":"Conference and Workshop Papers","key":"conf/osdi/DeanG04","ee":"http://www.usenix.org/events/osdi04/tech/dean.html","url":"https://dblp.org/rec/conf/osdi/DeanG04"},
+"url":"URL#4402713"
+},
+{
+"@score":"1",
+"@id":"4402714",
+"info":{"authors":{"author":[{"@pid":"10/3285","text":"John Dunagan"},{"@pid":"93/4141","text":"Nicholas J. A. Harvey"},{"@pid":"j/MichaelBJones","text":"Michael B. Jones"},{"@pid":"03/3188","text":"Dejan Kostic"},{"@pid":"56/724","text":"Marvin Theimer"},{"@pid":"06/915","text":"Alec Wolman"}]},"title":"FUSE - Lightweight Guaranteed Distributed Failure Notification.","venue":"OSDI","pages":"151-166","year":"2004","type":"Conference and Workshop Papers","key":"conf/osdi/DunaganHJKTW04","ee":"http://www.usenix.org/events/osdi04/tech/dunagan.html","url":"https://dblp.org/rec/conf/osdi/DunaganHJKTW04"},
+"url":"URL#4402714"
+},
+{
+"@score":"1",
+"@id":"4402715",
+"info":{"authors":{"author":[{"@pid":"92/1381","text":"Chris Gniady"},{"@pid":"b/AliRazaButt","text":"Ali Raza Butt"},{"@pid":"93/89","text":"Y. Charlie Hu"}]},"title":"Program-Counter-Based Pattern Classification in Buffer Caching.","venue":"OSDI","pages":"395-408","year":"2004","type":"Conference and Workshop Papers","key":"conf/osdi/GniadyBH04","ee":"http://www.usenix.org/events/osdi04/tech/gnaidy.html","url":"https://dblp.org/rec/conf/osdi/GniadyBH04"},
+"url":"URL#4402715"
+},
+{
+"@score":"1",
+"@id":"4402717",
+"info":{"authors":{"author":[{"@pid":"g/PKrishnaGummadi","text":"P. Krishna Gummadi"},{"@pid":"45/2026","text":"Harsha V. Madhyastha"},{"@pid":"g/StevenDGribble","text":"Steven D. Gribble"},{"@pid":"l/HenryMLevy","text":"Henry M. Levy"},{"@pid":"w/DavidWetherall","text":"David Wetherall"}]},"title":"Improving the Reliability of Internet Paths with One-hop Source Routing.","venue":"OSDI","pages":"183-198","year":"2004","type":"Conference and Workshop Papers","key":"conf/osdi/GummadiMGLW04","ee":"http://www.usenix.org/events/osdi04/tech/gummadi.html","url":"https://dblp.org/rec/conf/osdi/GummadiMGLW04"},
+"url":"URL#4402717"
+},
+{
+"@score":"1",
+"@id":"4402718",
+"info":{"authors":{"author":[{"@pid":"84/5664","text":"Haryadi S. Gunawi"},{"@pid":"a/AndreaCArpaciDusseau","text":"Andrea C. Arpaci-Dusseau"},{"@pid":"a/RemziHArpaciDusseau","text":"Remzi H. Arpaci-Dusseau"}]},"title":"Deploying Safe User-Level Network Services with icTCP.","venue":"OSDI","pages":"317-332","year":"2004","type":"Conference and Workshop Papers","key":"conf/osdi/GunawiAA04","ee":"http://www.usenix.org/events/osdi04/tech/gunawi.html","url":"https://dblp.org/rec/conf/osdi/GunawiAA04"},
+"url":"URL#4402718"
+},
+{
+"@score":"1",
+"@id":"4402722",
+"info":{"authors":{"author":[{"@pid":"50/6780","text":"Joshua LeVasseur"},{"@pid":"37/5148","text":"Volkmar Uhlig"},{"@pid":"52/5030","text":"Jan Stoess"},{"@pid":"57/1034","text":"Stefan Götz"}]},"title":"Unmodified Device Driver Reuse and Improved System Dependability via Virtual Machines.","venue":"OSDI","pages":"17-30","year":"2004","type":"Conference and Workshop Papers","key":"conf/osdi/LevasseurUSG04","ee":"http://www.usenix.org/events/osdi04/tech/levasseur.html","url":"https://dblp.org/rec/conf/osdi/LevasseurUSG04"},
+"url":"URL#4402722"
+},
+{
+"@score":"1",
+"@id":"4402723",
+"info":{"authors":{"author":[{"@pid":"78/1480","text":"Jinyuan Li"},{"@pid":"19/4756","text":"Maxwell N. Krohn"},{"@pid":"m/DMazieres","text":"David Mazières"},{"@pid":"s/DennisShasha","text":"Dennis E. Shasha"}]},"title":"Secure Untrusted Data Repository (SUNDR).","venue":"OSDI","pages":"121-136","year":"2004","type":"Conference and Workshop Papers","key":"conf/osdi/LiKMS04","ee":"http://www.usenix.org/events/osdi04/tech/li_j.html","url":"https://dblp.org/rec/conf/osdi/LiKMS04"},
+"url":"URL#4402723"
+},
+{
+"@score":"1",
+"@id":"4402724",
+"info":{"authors":{"author":[{"@pid":"41/2867","text":"Zhenmin Li"},{"@pid":"31/5916-1","text":"Shan Lu 0001"},{"@pid":"34/4470","text":"Suvda Myagmar"},{"@pid":"99/2747-1","text":"Yuanyuan Zhou 0001"}]},"title":"CP-Miner - A Tool for Finding Copy-paste and Related Bugs in Operating System Code.","venue":"OSDI","pages":"289-302","year":"2004","type":"Conference and Workshop Papers","key":"conf/osdi/LiLMZ04","ee":"http://www.usenix.org/events/osdi04/tech/li_z.html","url":"https://dblp.org/rec/conf/osdi/LiLMZ04"},
+"url":"URL#4402724"
+},
+{
+"@score":"1",
+"@id":"4402725",
+"info":{"authors":{"author":[{"@pid":"17/429","text":"John MacCormick"},{"@pid":"15/2269","text":"Nick Murphy"},{"@pid":"n/MarcNajork","text":"Marc Najork"},{"@pid":"13/3927","text":"Chandramohan A. Thekkath"},{"@pid":"z/LidongZhou","text":"Lidong Zhou"}]},"title":"Boxwood - Abstractions as the Foundation for Storage Infrastructure.","venue":"OSDI","pages":"105-120","year":"2004","type":"Conference and Workshop Papers","key":"conf/osdi/MacCormickMNTZ04","ee":"http://www.usenix.org/events/osdi04/tech/maccormick.html","url":"https://dblp.org/rec/conf/osdi/MacCormickMNTZ04"},
+"url":"URL#4402725"
+},
+{
+"@score":"1",
+"@id":"4402727",
+"info":{"authors":{"author":[{"@pid":"63/201","text":"Kiran Nagaraja"},{"@pid":"05/2943","text":"Fábio Oliveira"},{"@pid":"85/2722","text":"Ricardo Bianchini"},{"@pid":"55/3942","text":"Richard P. Martin"},{"@pid":"n/ThuDNguyen","text":"Thu D. Nguyen"}]},"title":"Understanding and Dealing with Operator Mistakes in Internet Services.","venue":"OSDI","pages":"61-76","year":"2004","type":"Conference and Workshop Papers","key":"conf/osdi/NagarajaOBMN04","ee":"http://www.usenix.org/events/osdi04/tech/naragaraja.html","url":"https://dblp.org/rec/conf/osdi/NagarajaOBMN04"},
+"url":"URL#4402727"
+},
+{
+"@score":"1",
+"@id":"4402728",
+"info":{"authors":{"author":[{"@pid":"97/1336","text":"Edmund B. Nightingale"},{"@pid":"14/85","text":"Jason Flinn"}]},"title":"Energy-Efficiency and Storage Flexibility in the Blue File System.","venue":"OSDI","pages":"363-378","year":"2004","type":"Conference and Workshop Papers","key":"conf/osdi/NightingaleF04","ee":"http://www.usenix.org/events/osdi04/tech/nightingale.html","url":"https://dblp.org/rec/conf/osdi/NightingaleF04"},
+"url":"URL#4402728"
+},
+{
+"@score":"1",
+"@id":"4402729",
+"info":{"authors":{"author":[{"@pid":"99/5854","text":"David P. Olshefski"},{"@pid":"n/JasonNieh","text":"Jason Nieh"},{"@pid":"06/2055","text":"Erich M. Nahum"}]},"title":"ksniffer - Determining the Remote Client Perceived Response Time from Live Packet Streams.","venue":"OSDI","pages":"333-346","year":"2004","type":"Conference and Workshop Papers","key":"conf/osdi/OlshefskiNN04","ee":"http://www.usenix.org/events/osdi04/tech/olshefski.html","url":"https://dblp.org/rec/conf/osdi/OlshefskiNN04"},
+"url":"URL#4402729"
+},
+{
+"@score":"1",
+"@id":"4402732",
+"info":{"authors":{"author":[{"@pid":"67/4936","text":"KyoungSoo Park"},{"@pid":"00/1016","text":"Vivek S. Pai"},{"@pid":"p/LLPeterson","text":"Larry L. Peterson"},{"@pid":"75/3158","text":"Zhe Wang"}]},"title":"CoDNS - Improving DNS Performance and Reliability via Cooperative Lookups.","venue":"OSDI","pages":"199-214","year":"2004","type":"Conference and Workshop Papers","key":"conf/osdi/ParkPPW04","ee":"http://www.usenix.org/events/osdi04/tech/park.html","url":"https://dblp.org/rec/conf/osdi/ParkPPW04"},
+"url":"URL#4402732"
+},
+{
+"@score":"1",
+"@id":"4402733",
+"info":{"authors":{"author":[{"@pid":"r/RvRenesse","text":"Robbert van Renesse"},{"@pid":"s/FredBSchneider","text":"Fred B. Schneider"}]},"title":"Chain Replication for Supporting High Throughput and Availability.","venue":"OSDI","pages":"91-104","year":"2004","type":"Conference and Workshop Papers","key":"conf/osdi/RenesseS04","ee":"http://www.usenix.org/events/osdi04/tech/renesse.html","url":"https://dblp.org/rec/conf/osdi/RenesseS04"},
+"url":"URL#4402733"
+},
+{
+"@score":"1",
+"@id":"4402734",
+"info":{"authors":{"author":[{"@pid":"r/MartinCRinard","text":"Martin C. Rinard"},{"@pid":"86/4141","text":"Cristian Cadar"},{"@pid":"68/4071","text":"Daniel Dumitran"},{"@pid":"04/2068","text":"Daniel M. Roy 0001"},{"@pid":"31/6731","text":"Tudor Leu"},{"@pid":"46/5700","text":"William S. Beebee"}]},"title":"Enhancing Server Availability and Security Through Failure-Oblivious Computing.","venue":"OSDI","pages":"303-316","year":"2004","type":"Conference and Workshop Papers","key":"conf/osdi/RinardCDRLB04","ee":"http://www.usenix.org/events/osdi04/tech/rinard.html","url":"https://dblp.org/rec/conf/osdi/RinardCDRLB04"},
+"url":"URL#4402734"
+},
+{
+"@score":"1",
+"@id":"4402735",
+"info":{"authors":{"author":[{"@pid":"93/2536","text":"Sumeet Singh"},{"@pid":"e/CristianEstan","text":"Cristian Estan"},{"@pid":"v/GeorgeVarghese","text":"George Varghese"},{"@pid":"s/StefanSavage","text":"Stefan Savage"}]},"title":"Automated Worm Fingerprinting.","venue":"OSDI","pages":"45-60","year":"2004","type":"Conference and Workshop Papers","key":"conf/osdi/SinghEVS04","ee":"http://www.usenix.org/events/osdi04/tech/singh.html","url":"https://dblp.org/rec/conf/osdi/SinghEVS04"},
+"url":"URL#4402735"
+},
+{
+"@score":"1",
+"@id":"4402736",
+"info":{"authors":{"author":[{"@pid":"s/MuthianSivathanu","text":"Muthian Sivathanu"},{"@pid":"94/6213","text":"Lakshmi N. Bairavasundaram"},{"@pid":"a/AndreaCArpaciDusseau","text":"Andrea C. Arpaci-Dusseau"},{"@pid":"a/RemziHArpaciDusseau","text":"Remzi H. Arpaci-Dusseau"}]},"title":"Life or Death at Block-Level.","venue":"OSDI","pages":"379-394","year":"2004","type":"Conference and Workshop Papers","key":"conf/osdi/SivathanuBAA04","ee":"http://www.usenix.org/events/osdi04/tech/sivathanu.html","url":"https://dblp.org/rec/conf/osdi/SivathanuBAA04"},
+"url":"URL#4402736"
+},
+{
+"@score":"1",
+"@id":"4402737",
+"info":{"authors":{"author":[{"@pid":"s/MichaelMSwift","text":"Michael M. Swift"},{"@pid":"45/3276","text":"Muthukaruppan Annamalai"},{"@pid":"b/BNBershad","text":"Brian N. Bershad"},{"@pid":"l/HenryMLevy","text":"Henry M. Levy"}]},"title":"Recovering Device Drivers (Awarded Best Paper!).","venue":"OSDI","pages":"1-16","year":"2004","type":"Conference and Workshop Papers","key":"conf/osdi/SwiftABL04","ee":"http://www.usenix.org/events/osdi04/tech/swift.html","url":"https://dblp.org/rec/conf/osdi/SwiftABL04"},
+"url":"URL#4402737"
+},
+{
+"@score":"1",
+"@id":"4402738",
+"info":{"authors":{"author":[{"@pid":"00/2879","text":"Michael Walfish"},{"@pid":"74/3199","text":"Jeremy Stribling"},{"@pid":"19/4756","text":"Maxwell N. Krohn"},{"@pid":"b/HariBalakrishnan","text":"Hari Balakrishnan"},{"@pid":"82/11191","text":"Robert Tappan Morris"},{"@pid":"34/5593","text":"Scott Shenker"}]},"title":"Middleboxes No Longer Considered Harmful.","venue":"OSDI","pages":"215-230","year":"2004","type":"Conference and Workshop Papers","key":"conf/osdi/WalfishSKBMS04","ee":"http://www.usenix.org/events/osdi04/tech/walfish.html","url":"https://dblp.org/rec/conf/osdi/WalfishSKBMS04"},
+"url":"URL#4402738"
+},
+{
+"@score":"1",
+"@id":"4402739",
+"info":{"authors":{"author":[{"@pid":"w/HelenJWang","text":"Helen J. Wang"},{"@pid":"27/1418","text":"John C. Platt"},{"@pid":"87/1254","text":"Yu Chen"},{"@pid":"28/875","text":"Ruyun Zhang"},{"@pid":"91/1356","text":"Yi-Min Wang"}]},"title":"Automatic Misconfiguration Troubleshooting with PeerPressure.","venue":"OSDI","pages":"245-258","year":"2004","type":"Conference and Workshop Papers","key":"conf/osdi/WangPCZW04","ee":"http://www.usenix.org/events/osdi04/tech/wang.html","url":"https://dblp.org/rec/conf/osdi/WangPCZW04"},
+"url":"URL#4402739"
+},
+{
+"@score":"1",
+"@id":"4402741",
+"info":{"authors":{"author":[{"@pid":"76/326","text":"Andrew Whitaker"},{"@pid":"76/3931","text":"Richard S. Cox"},{"@pid":"g/StevenDGribble","text":"Steven D. Gribble"}]},"title":"Configuration Debugging as Search - Finding the Needle in the Haystack.","venue":"OSDI","pages":"77-90","year":"2004","type":"Conference and Workshop Papers","key":"conf/osdi/WhitakerCG04","ee":"http://www.usenix.org/events/osdi04/tech/whitaker.html","url":"https://dblp.org/rec/conf/osdi/WhitakerCG04"},
+"url":"URL#4402741"
+},
+{
+"@score":"1",
+"@id":"4402744",
+"info":{"authors":{"author":[{"@pid":"71/3724","text":"Junfeng Yang"},{"@pid":"09/2839","text":"Paul Twohey"},{"@pid":"e/DREngler","text":"Dawson R. Engler"},{"@pid":"95/6578","text":"Madanlal Musuvathi"}]},"title":"Using Model Checking to Find Serious File System Errors (Awarded Best Paper!).","venue":"OSDI","pages":"273-288","year":"2004","type":"Conference and Workshop Papers","key":"conf/osdi/YangTEM04","ee":"http://www.usenix.org/events/osdi04/tech/yang.html","url":"https://dblp.org/rec/conf/osdi/YangTEM04"},
+"url":"URL#4402744"
+},
+{
+"@score":"1",
+"@id":"4402745",
+"info":{"authors":{"author":[{"@pid":"73/1844-5","text":"Ming Zhang 0005"},{"@pid":"91/195","text":"Chi Zhang"},{"@pid":"00/1016","text":"Vivek S. Pai"},{"@pid":"p/LLPeterson","text":"Larry L. Peterson"},{"@pid":"69/1132","text":"Randolph Y. Wang"}]},"title":"PlanetSeer - Internet Path Failure Monitoring and Characterization in Wide-Area Services.","venue":"OSDI","pages":"167-182","year":"2004","type":"Conference and Workshop Papers","key":"conf/osdi/ZhangZPPW04","ee":"http://www.usenix.org/events/osdi04/tech/zhang.html","url":"https://dblp.org/rec/conf/osdi/ZhangZPPW04"},
+"url":"URL#4402745"
+},
+{
+"@score":"1",
+"@id":"4421100",
+"info":{"authors":{"author":[{"@pid":"b/EricABrewer","text":"Eric A. Brewer"},{"@pid":"76/6411","text":"Peter Chen"}]},"title":"6th Symposium on Operating System Design and Implementation (OSDI 2004), San Francisco, California, USA, December 6-8, 2004","venue":"OSDI","publisher":"USENIX Association","year":"2004","type":"Editorship","key":"conf/osdi/2004","url":"https://dblp.org/rec/conf/osdi/2004"},
+"url":"URL#4421100"
+}
+]
+}
+}
+}

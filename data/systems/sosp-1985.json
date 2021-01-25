@@ -1,0 +1,152 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"sosp\"/\"sosp85\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"135.30"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"20",
+"@dc":"20",
+"@oc":"20",
+"@id":"17587912",
+"text":":facetid:toc:db/conf/sosp/sosp85.bht"
+}
+},
+"hits":{
+"@total":"20",
+"@computed":"20",
+"@sent":"20",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"5325228",
+"info":{"authors":{"author":{"@pid":"b/KPBirman","text":"Kenneth P. Birman"}},"title":"Replication and Fault-Tolerance in the ISIS System.","venue":"SOSP","pages":"79-86","year":"1985","type":"Conference and Workshop Papers","key":"conf/sosp/Birman85","doi":"10.1145/323647.323636","ee":"https://doi.org/10.1145/323647.323636","url":"https://dblp.org/rec/conf/sosp/Birman85"},
+"url":"URL#5325228"
+},
+{
+"@score":"1",
+"@id":"5325229",
+"info":{"authors":{"author":{"@pid":"b/APBlack","text":"Andrew P. Black"}},"title":"Supporting Distributed Applications - Experience with Eden.","venue":"SOSP","pages":"181-193","year":"1985","type":"Conference and Workshop Papers","key":"conf/sosp/Black85","doi":"10.1145/323647.323646","ee":"https://doi.org/10.1145/323647.323646","url":"https://dblp.org/rec/conf/sosp/Black85"},
+"url":"URL#5325229"
+},
+{
+"@score":"1",
+"@id":"5325230",
+"info":{"authors":{"author":[{"@pid":"21/2167","text":"Nicholas Carriero"},{"@pid":"g/DavidGelernter","text":"David Gelernter"}]},"title":"The S/Net&apos;s Linda Kernel (extended abstract).","venue":"SOSP","pages":"160","year":"1985","type":"Conference and Workshop Papers","key":"conf/sosp/CarrieroG85","doi":"10.1145/323647.323643","ee":"https://doi.org/10.1145/323647.323643","url":"https://dblp.org/rec/conf/sosp/CarrieroG85"},
+"url":"URL#5325230"
+},
+{
+"@score":"1",
+"@id":"5325231",
+"info":{"authors":{"author":{"@pid":"c/DavidDClark","text":"David D. Clark"}},"title":"The Structuring of Systems Using Upcalls.","venue":"SOSP","pages":"171-180","year":"1985","type":"Conference and Workshop Papers","key":"conf/sosp/Clark85","doi":"10.1145/323647.323645","ee":"https://doi.org/10.1145/323647.323645","url":"https://dblp.org/rec/conf/sosp/Clark85"},
+"url":"URL#5325231"
+},
+{
+"@score":"1",
+"@id":"5325232",
+"info":{"authors":{"author":{"@pid":"39/935","text":"Eric C. Cooper"}},"title":"Replicated Distributed Programs.","venue":"SOSP","pages":"63-78","year":"1985","type":"Conference and Workshop Papers","key":"conf/sosp/Cooper85","doi":"10.1145/323647.323635","ee":"https://doi.org/10.1145/323647.323635","url":"https://dblp.org/rec/conf/sosp/Cooper85"},
+"url":"URL#5325232"
+},
+{
+"@score":"1",
+"@id":"5325233",
+"info":{"authors":{"author":[{"@pid":"53/830","text":"Danco Davcev"},{"@pid":"b/WABurkhard","text":"Walter A. Burkhard"}]},"title":"Consistency and Recovery Control for Replicated Files.","venue":"SOSP","pages":"87-96","year":"1985","type":"Conference and Workshop Papers","key":"conf/sosp/DavcevB85","doi":"10.1145/323647.323637","ee":"https://doi.org/10.1145/323647.323637","url":"https://dblp.org/rec/conf/sosp/DavcevB85"},
+"url":"URL#5325233"
+},
+{
+"@score":"1",
+"@id":"5325234",
+"info":{"authors":{"author":[{"@pid":"43/1260","text":"Robert P. Fitzgerald"},{"@pid":"r/RichardFRashid","text":"Richard F. Rashid"}]},"title":"The Integration of Virtual Memory Management and Interprocess Communication in Accent (Abstract).","venue":"SOSP","pages":"13-14","year":"1985","type":"Conference and Workshop Papers","key":"conf/sosp/FitzgeraldR85","doi":"10.1145/323647.323630","ee":"https://doi.org/10.1145/323647.323630","url":"https://dblp.org/rec/conf/sosp/FitzgeraldR85"},
+"url":"URL#5325234"
+},
+{
+"@score":"1",
+"@id":"5325235",
+"info":{"authors":{"author":[{"@pid":"g/DavidKGifford","text":"David K. Gifford"},{"@pid":"95/1072","text":"Robert W. Baldwin"},{"@pid":"04/3324","text":"Stephen T. Berlin"},{"@pid":"76/3840","text":"John M. Lucassen"}]},"title":"An Architecture for Large Scale Information Systems.","venue":"SOSP","pages":"161-170","year":"1985","type":"Conference and Workshop Papers","key":"conf/sosp/GiffordBBL85","doi":"10.1145/323647.323644","ee":"https://doi.org/10.1145/323647.323644","url":"https://dblp.org/rec/conf/sosp/GiffordBBL85"},
+"url":"URL#5325235"
+},
+{
+"@score":"1",
+"@id":"5325236",
+"info":{"authors":{"author":[{"@pid":"90/3847","text":"Nancy P. Kronenberg"},{"@pid":"l/HenryMLevy","text":"Henry M. Levy"},{"@pid":"83/793","text":"William D. Strecker"}]},"title":"VAXclusters - A Closely-Coupled Distributed System (Abstract).","venue":"SOSP","pages":"1","year":"1985","type":"Conference and Workshop Papers","key":"conf/sosp/KronenbergLS85","doi":"10.1145/323647.323628","ee":"https://doi.org/10.1145/323647.323628","url":"https://dblp.org/rec/conf/sosp/KronenbergLS85"},
+"url":"URL#5325236"
+},
+{
+"@score":"1",
+"@id":"5325237",
+"info":{"authors":{"author":[{"@pid":"29/1210","text":"Mohammad Malkawi"},{"@pid":"21/127","text":"Janak H. Patel"}]},"title":"Compiler Directed Memory Management Policy For Numerical Programs.","venue":"SOSP","pages":"97-106","year":"1985","type":"Conference and Workshop Papers","key":"conf/sosp/MalkawiP85","doi":"10.1145/323647.323638","ee":"https://doi.org/10.1145/323647.323638","url":"https://dblp.org/rec/conf/sosp/MalkawiP85"},
+"url":"URL#5325237"
+},
+{
+"@score":"1",
+"@id":"5325238",
+"info":{"authors":{"author":[{"@pid":"m/SapeJMullender","text":"Sape J. Mullender"},{"@pid":"t/AndrewSTanenbaum","text":"Andrew S. Tanenbaum"}]},"title":"A Distributed File Service Based on Optimistic Concurrency Control.","venue":"SOSP","pages":"51-62","year":"1985","type":"Conference and Workshop Papers","key":"conf/sosp/MullenderT85","doi":"10.1145/323647.323634","ee":"https://doi.org/10.1145/323647.323634","url":"https://dblp.org/rec/conf/sosp/MullenderT85"},
+"url":"URL#5325238"
+},
+{
+"@score":"1",
+"@id":"5325239",
+"info":{"authors":{"author":[{"@pid":"10/651","text":"Brian M. Oki"},{"@pid":"l/BarbaraLiskov","text":"Barbara Liskov"},{"@pid":"19/2672","text":"Robert Scheifler"}]},"title":"Reliable Object Storage to Support Atomic Actions.","venue":"SOSP","pages":"147-159","year":"1985","type":"Conference and Workshop Papers","key":"conf/sosp/OkiLS85","doi":"10.1145/323647.323642","ee":"https://doi.org/10.1145/323647.323642","url":"https://dblp.org/rec/conf/sosp/OkiLS85"},
+"url":"URL#5325239"
+},
+{
+"@score":"1",
+"@id":"5325240",
+"info":{"authors":{"author":[{"@pid":"o/JohnKOusterhout","text":"John K. Ousterhout"},{"@pid":"72/2603","text":"Hervé Da Costa"},{"@pid":"26/424","text":"David Harrison"},{"@pid":"96/1650","text":"John A. Kunze"},{"@pid":"90/2338","text":"Michael D. Kupfer"},{"@pid":"95/4015","text":"James G. Thompson"}]},"title":"A Trace-Driven Analysis of the UNIX 4.2 BSD File System.","venue":"SOSP","pages":"15-24","year":"1985","type":"Conference and Workshop Papers","key":"conf/sosp/OusterhoutCHKKT85","doi":"10.1145/323647.323631","ee":"https://doi.org/10.1145/323647.323631","url":"https://dblp.org/rec/conf/sosp/OusterhoutCHKKT85"},
+"url":"URL#5325240"
+},
+{
+"@score":"1",
+"@id":"5325241",
+"info":{"authors":{"author":{"@pid":"63/10720","text":"Steven P. Reinhardt"}},"title":"A Data-Flow Approach to Multitasking ob CRAY X-MP Compputers.","venue":"SOSP","pages":"107-114","year":"1985","type":"Conference and Workshop Papers","key":"conf/sosp/Reinhardt85","doi":"10.1145/323647.323639","ee":"https://doi.org/10.1145/323647.323639","url":"https://dblp.org/rec/conf/sosp/Reinhardt85"},
+"url":"URL#5325241"
+},
+{
+"@score":"1",
+"@id":"5325242",
+"info":{"authors":{"author":[{"@pid":"s/MahadevSatyanarayanan","text":"Mahadev Satyanarayanan"},{"@pid":"84/488","text":"John H. Howard"},{"@pid":"52/1430","text":"David A. Nichols"},{"@pid":"43/2426","text":"Robert N. Sidebotham"},{"@pid":"s/AlfredZSpector","text":"Alfred Z. Spector"},{"@pid":"45/3686","text":"Michael J. West"}]},"title":"The ITC Distributed File System - Principles and Design.","venue":"SOSP","pages":"35-50","year":"1985","type":"Conference and Workshop Papers","key":"conf/sosp/SatyanarayananHNSSW85","doi":"10.1145/323647.323633","ee":"https://doi.org/10.1145/323647.323633","url":"https://dblp.org/rec/conf/sosp/SatyanarayananHNSSW85"},
+"url":"URL#5325242"
+},
+{
+"@score":"1",
+"@id":"5325243",
+"info":{"authors":{"author":[{"@pid":"s/MichaelDSchroeder","text":"Michael D. Schroeder"},{"@pid":"g/DavidKGifford","text":"David K. Gifford"},{"@pid":"n/RogerNeedham","text":"Roger M. Needham"}]},"title":"A Caching File System For a Programmer&apos;s Workstation.","venue":"SOSP","pages":"25-34","year":"1985","type":"Conference and Workshop Papers","key":"conf/sosp/SchroederGN85","doi":"10.1145/323647.323632","ee":"https://doi.org/10.1145/323647.323632","url":"https://dblp.org/rec/conf/sosp/SchroederGN85"},
+"url":"URL#5325243"
+},
+{
+"@score":"1",
+"@id":"5325244",
+"info":{"authors":{"author":[{"@pid":"s/AlfredZSpector","text":"Alfred Z. Spector"},{"@pid":"61/4188","text":"Dean S. Daniels"},{"@pid":"d/DanDuchamp","text":"Dan Duchamp"},{"@pid":"33/3104","text":"Jeffrey L. Eppinger"},{"@pid":"p/RandyFPausch","text":"Randy F. Pausch"}]},"title":"Distributed Transactions for Reliable Systems.","venue":"SOSP","pages":"127-146","year":"1985","type":"Conference and Workshop Papers","key":"conf/sosp/SpectorDDEP85","doi":"10.1145/323647.323641","ee":"https://doi.org/10.1145/323647.323641","url":"https://dblp.org/rec/conf/sosp/SpectorDDEP85"},
+"url":"URL#5325244"
+},
+{
+"@score":"1",
+"@id":"5325245",
+"info":{"authors":{"author":[{"@pid":"56/724","text":"Marvin Theimer"},{"@pid":"95/5851","text":"Keith A. Lantz"},{"@pid":"c/DRCheriton","text":"David R. Cheriton"}]},"title":"Preemptable Remote Execution Facilities for the V-System.","venue":"SOSP","pages":"2-12","year":"1985","type":"Conference and Workshop Papers","key":"conf/sosp/TheimerLC85","doi":"10.1145/323647.323629","ee":"https://doi.org/10.1145/323647.323629","url":"https://dblp.org/rec/conf/sosp/TheimerLC85"},
+"url":"URL#5325245"
+},
+{
+"@score":"1",
+"@id":"5325246",
+"info":{"authors":{"author":[{"@pid":"27/5556","text":"Matthew J. Weinstein"},{"@pid":"66/138","text":"Thomas W. Page Jr."},{"@pid":"67/4750","text":"Brian Livezey"},{"@pid":"62/6214","text":"Gerald J. Popek"}]},"title":"Transactions and Synchronization in a Distributed Operating System.","venue":"SOSP","pages":"115-126","year":"1985","type":"Conference and Workshop Papers","key":"conf/sosp/WeinsteinPLP85","doi":"10.1145/323647.323640","ee":"https://doi.org/10.1145/323647.323640","url":"https://dblp.org/rec/conf/sosp/WeinsteinPLP85"},
+"url":"URL#5325246"
+},
+{
+"@score":"1",
+"@id":"5325798",
+"info":{"authors":{"author":[{"@pid":"32/4888","text":"Forest Baskett"},{"@pid":"b/AndrewBirrell","text":"Andrew Birrell"},{"@pid":"c/DRCheriton","text":"David R. Cheriton"}]},"title":"Proceedings of the Tenth ACM Symposium on Operating System Principles, SOSP 1985, Orcas Island, Washington, USA, December 1-4, 1985","venue":"SOSP","publisher":"ACM","year":"1985","type":"Editorship","key":"conf/sosp/1985","doi":"10.1145/323647","ee":"https://doi.org/10.1145/323647","url":"https://dblp.org/rec/conf/sosp/1985"},
+"url":"URL#5325798"
+}
+]
+}
+}
+}

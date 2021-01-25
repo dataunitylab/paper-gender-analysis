@@ -1,0 +1,302 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"nsdi\"/\"nsdi2016\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"106.36"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"45",
+"@dc":"45",
+"@oc":"45",
+"@id":"17580403",
+"text":":facetid:toc:db/conf/nsdi/nsdi2016.bht"
+}
+},
+"hits":{
+"@total":"45",
+"@computed":"45",
+"@sent":"45",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"1710017",
+"info":{"authors":{"author":[{"@pid":"45/661-1","text":"Wei Bai 0001"},{"@pid":"c/LiChen8","text":"Li Chen 0008"},{"@pid":"c/KaiChen5","text":"Kai Chen 0005"},{"@pid":"96/1582","text":"Haitao Wu"}]},"title":"Enabling ECN in Multi-Service Multi-Queue Data Centers.","venue":"NSDI","pages":"537-549","year":"2016","type":"Conference and Workshop Papers","key":"conf/nsdi/0001C0W16","ee":"https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/bai","url":"https://dblp.org/rec/conf/nsdi/0001C0W16"},
+"url":"URL#1710017"
+},
+{
+"@score":"1",
+"@id":"1710018",
+"info":{"authors":{"author":[{"@pid":"162/5250","text":"Byungkwon Choi"},{"@pid":"197/7137","text":"Jongwook Chae"},{"@pid":"47/8398","text":"Muhammad Jamshed"},{"@pid":"67/4936","text":"KyoungSoo Park"},{"@pid":"12/5388","text":"Dongsu Han"}]},"title":"DFC - Accelerating String Pattern Matching for Network Applications.","venue":"NSDI","pages":"551-565","year":"2016","type":"Conference and Workshop Papers","key":"conf/nsdi/ChoiCJPH16","ee":"https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/choi","url":"https://dblp.org/rec/conf/nsdi/ChoiCJPH16"},
+"url":"URL#1710018"
+},
+{
+"@score":"1",
+"@id":"1710019",
+"info":{"authors":{"author":[{"@pid":"42/1518","text":"Mosharaf Chowdhury"},{"@pid":"02/1825","text":"Zhenhua Liu"},{"@pid":"71/4226-2","text":"Ali Ghodsi 0002"},{"@pid":"s/IonStoica","text":"Ion Stoica"}]},"title":"HUG - Multi-Resource Fairness for Correlated and Elastic Demands.","venue":"NSDI","pages":"407-424","year":"2016","type":"Conference and Workshop Papers","key":"conf/nsdi/ChowdhuryLGS16","ee":"https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/chowdhury","url":"https://dblp.org/rec/conf/nsdi/ChowdhuryLGS16"},
+"url":"URL#1710019"
+},
+{
+"@score":"1",
+"@id":"1710020",
+"info":{"authors":{"author":[{"@pid":"35/10805","text":"Asaf Cidon"},{"@pid":"164/7953","text":"Assaf Eisenman"},{"@pid":"37/8397","text":"Mohammad Alizadeh"},{"@pid":"50/1133","text":"Sachin Katti"}]},"title":"Cliffhanger - Scaling Performance Cliffs in Web Memory Caches.","venue":"NSDI","pages":"379-392","year":"2016","type":"Conference and Workshop Papers","key":"conf/nsdi/CidonEAK16","ee":"https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/cidon","url":"https://dblp.org/rec/conf/nsdi/CidonEAK16"},
+"url":"URL#1710020"
+},
+{
+"@score":"1",
+"@id":"1710021",
+"info":{"authors":{"author":[{"@pid":"91/2346-1","text":"Yong Cui 0001"},{"@pid":"142/3788","text":"Shihan Xiao"},{"@pid":"10/5630-1","text":"Xin Wang 0001"},{"@pid":"164/3739","text":"Zhenjie Yang"},{"@pid":"76/445-2","text":"Chao Zhu 0002"},{"@pid":"80/4579","text":"Xiangyang Li"},{"@pid":"27/3367","text":"Liu Yang"},{"@pid":"09/2730","text":"Ning Ge"}]},"title":"Diamond - Nesting the Data Center Network with Wireless Rings in 3D Space.","venue":"NSDI","pages":"657-669","year":"2016","type":"Conference and Workshop Papers","key":"conf/nsdi/CuiXWYZLYG16","ee":"https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/cui","url":"https://dblp.org/rec/conf/nsdi/CuiXWYZLYG16"},
+"url":"URL#1710021"
+},
+{
+"@score":"1",
+"@id":"1710022",
+"info":{"authors":{"author":[{"@pid":"80/186","text":"Ítalo Cunha"},{"@pid":"72/10364","text":"Pietro Marchetta"},{"@pid":"24/3165","text":"Matt Calder"},{"@pid":"128/9620","text":"Yi-Ching Chiu"},{"@pid":"122/4997","text":"Brandon Schlinker"},{"@pid":"197/7092","text":"Bruno V. A. Machado"},{"@pid":"58/1789","text":"Antonio Pescapè"},{"@pid":"87/7704","text":"Vasileios Giotsas"},{"@pid":"45/2026","text":"Harsha V. Madhyastha"},{"@pid":"66/2080","text":"Ethan Katz-Bassett"}]},"title":"Sibyl - A Practical Internet Route Oracle.","venue":"NSDI","pages":"325-344","year":"2016","type":"Conference and Workshop Papers","key":"conf/nsdi/CunhaMCCSMPGMK16","ee":"https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/cunha","url":"https://dblp.org/rec/conf/nsdi/CunhaMCCSMPGMK16"},
+"url":"URL#1710022"
+},
+{
+"@score":"1",
+"@id":"1710023",
+"info":{"authors":{"author":[{"@pid":"197/7062","text":"Daniel E. Eisenbud"},{"@pid":"79/1692","text":"Cheng Yi"},{"@pid":"197/7109","text":"Carlo Contavalli"},{"@pid":"197/7068","text":"Cody Smith"},{"@pid":"197/7105","text":"Roman Kononov"},{"@pid":"197/7048","text":"Eric Mann-Hielscher"},{"@pid":"197/7131","text":"Ardas Cilingiroglu"},{"@pid":"197/7111","text":"Bin Cheyney"},{"@pid":"119/2646","text":"Wentao Shang"},{"@pid":"197/7059","text":"Jinnah Dylan Hosein"}]},"title":"Maglev - A Fast and Reliable Software Network Load Balancer.","venue":"NSDI","pages":"523-535","year":"2016","type":"Conference and Workshop Papers","key":"conf/nsdi/EisenbudYCSKMCC16","ee":"https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/eisenbud","url":"https://dblp.org/rec/conf/nsdi/EisenbudYCSKMCC16"},
+"url":"URL#1710023"
+},
+{
+"@score":"1",
+"@id":"1710024",
+"info":{"authors":{"author":[{"@pid":"86/8318","text":"Ittay Eyal"},{"@pid":"119/8989","text":"Adem Efe Gencer"},{"@pid":"s/EminGunSirer","text":"Emin Gün Sirer"},{"@pid":"r/RvRenesse","text":"Robbert van Renesse"}]},"title":"Bitcoin-NG - A Scalable Blockchain Protocol.","venue":"NSDI","pages":"45-59","year":"2016","type":"Conference and Workshop Papers","key":"conf/nsdi/EyalGSR16","ee":"https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/eyal","url":"https://dblp.org/rec/conf/nsdi/EyalGSR16"},
+"url":"URL#1710024"
+},
+{
+"@score":"1",
+"@id":"1710025",
+"info":{"authors":{"author":[{"@pid":"03/3113","text":"Seyed Kaveh Fayaz"},{"@pid":"97/10584","text":"Tianlong Yu"},{"@pid":"163/2206","text":"Yoshiaki Tobioka"},{"@pid":"79/5752","text":"Sagar Chaki"},{"@pid":"45/4044","text":"Vyas Sekar"}]},"title":"BUZZ - Testing Context-Dependent Policies in Stateful Networks.","venue":"NSDI","pages":"275-289","year":"2016","type":"Conference and Workshop Papers","key":"conf/nsdi/FayazYTCS16","ee":"https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/fayaz","url":"https://dblp.org/rec/conf/nsdi/FayazYTCS16"},
+"url":"URL#1710025"
+},
+{
+"@score":"1",
+"@id":"1710026",
+"info":{"authors":{"author":[{"@pid":"135/5691","text":"Adriana B. Flores"},{"@pid":"34/7814","text":"Sadia Quadri"},{"@pid":"k/EWKnightly","text":"Edward W. Knightly"}]},"title":"A Scalable Multi-User Uplink for Wi-Fi.","venue":"NSDI","pages":"179-191","year":"2016","type":"Conference and Workshop Papers","key":"conf/nsdi/FloresQK16","ee":"https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/flores","url":"https://dblp.org/rec/conf/nsdi/FloresQK16"},
+"url":"URL#1710026"
+},
+{
+"@score":"1",
+"@id":"1710027",
+"info":{"authors":{"author":[{"@pid":"20/7539","text":"Trinabh Gupta"},{"@pid":"161/0113","text":"Natacha Crooks"},{"@pid":"197/7120","text":"Whitney Mulhern"},{"@pid":"68/8463","text":"Srinath T. V. Setty"},{"@pid":"a/LAlvisi","text":"Lorenzo Alvisi"},{"@pid":"00/2879","text":"Michael Walfish"}]},"title":"Scalable and Private Media Consumption with Popcorn.","venue":"NSDI","pages":"91-107","year":"2016","type":"Conference and Workshop Papers","key":"conf/nsdi/GuptaCMSAW16","ee":"https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/gupta-trinabh","url":"https://dblp.org/rec/conf/nsdi/GuptaCMSAW16"},
+"url":"URL#1710027"
+},
+{
+"@score":"1",
+"@id":"1710028",
+"info":{"authors":{"author":[{"@pid":"122/9141","text":"Arpit Gupta"},{"@pid":"166/1559","text":"Robert MacDavid"},{"@pid":"182/6218","text":"Rüdiger Birkner"},{"@pid":"24/5715","text":"Marco Canini"},{"@pid":"87/840","text":"Nick Feamster"},{"@pid":"r/JenniferRexford","text":"Jennifer Rexford"},{"@pid":"51/7546","text":"Laurent Vanbever"}]},"title":"An Industrial-Scale Software Defined Internet Exchange Point.","venue":"NSDI","pages":"1-14","year":"2016","type":"Conference and Workshop Papers","key":"conf/nsdi/GuptaMBCFRV16","ee":"https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/gupta","url":"https://dblp.org/rec/conf/nsdi/GuptaMBCFRV16"},
+"url":"URL#1710028"
+},
+{
+"@score":"1",
+"@id":"1710029",
+"info":{"authors":{"author":[{"@pid":"86/9074","text":"Victor Heorhiadi"},{"@pid":"r/MichaelKReiter","text":"Michael K. Reiter"},{"@pid":"45/4044","text":"Vyas Sekar"}]},"title":"Simplifying Software-Defined Network Optimization Using SOL.","venue":"NSDI","pages":"223-237","year":"2016","type":"Conference and Workshop Papers","key":"conf/nsdi/HeorhiadiRS16","ee":"https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/heorhiadi","url":"https://dblp.org/rec/conf/nsdi/HeorhiadiRS16"},
+"url":"URL#1710029"
+},
+{
+"@score":"1",
+"@id":"1710030",
+"info":{"authors":{"author":[{"@pid":"50/10703","text":"Zsolt István"},{"@pid":"165/4498","text":"David Sidler"},{"@pid":"a/GustavoAlonso","text":"Gustavo Alonso"},{"@pid":"57/6250","text":"Marko Vukolic"}]},"title":"Consensus in a Box - Inexpensive Coordination in Hardware.","venue":"NSDI","pages":"425-438","year":"2016","type":"Conference and Workshop Papers","key":"conf/nsdi/IstvanSAV16","ee":"https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/istvan","url":"https://dblp.org/rec/conf/nsdi/IstvanSAV16"},
+"url":"URL#1710030"
+},
+{
+"@score":"1",
+"@id":"1710031",
+"info":{"authors":{"author":[{"@pid":"49/8398","text":"Junchen Jiang"},{"@pid":"45/4044","text":"Vyas Sekar"},{"@pid":"117/4350","text":"Henry Milner"},{"@pid":"197/7061","text":"Davis Shepherd"},{"@pid":"s/IonStoica","text":"Ion Stoica"},{"@pid":"z/HuiZhang1","text":"Hui Zhang 0001"}]},"title":"CFA - A Practical Prediction System for Video QoE Optimization.","venue":"NSDI","pages":"137-150","year":"2016","type":"Conference and Workshop Papers","key":"conf/nsdi/JiangSMSS016","ee":"https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/jiang","url":"https://dblp.org/rec/conf/nsdi/JiangSMSS016"},
+"url":"URL#1710031"
+},
+{
+"@score":"1",
+"@id":"1710032",
+"info":{"authors":{"author":[{"@pid":"149/9282","text":"Bryce Kellogg"},{"@pid":"132/8491","text":"Vamsi Talla"},{"@pid":"63/3113","text":"Shyamnath Gollakota"},{"@pid":"s/JoshuaRSmith","text":"Joshua R. Smith 0001"}]},"title":"Passive Wi-Fi - Bringing Low Power to Wi-Fi Transmissions.","venue":"NSDI","pages":"151-164","year":"2016","type":"Conference and Workshop Papers","key":"conf/nsdi/KelloggTGS16","ee":"https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/kellogg","url":"https://dblp.org/rec/conf/nsdi/KelloggTGS16"},
+"url":"URL#1710032"
+},
+{
+"@score":"1",
+"@id":"1710033",
+"info":{"authors":{"author":[{"@pid":"88/10928","text":"Junaid Khalid"},{"@pid":"07/9556","text":"Aaron Gember-Jacobson"},{"@pid":"197/7065","text":"Roney Michael"},{"@pid":"197/7071","text":"Anubhavnidhi Abhashkumar"},{"@pid":"a/AdityaAkella","text":"Aditya Akella"}]},"title":"Paving the Way for NFV - Simplifying Middlebox Modifications Using StateAlyzr.","venue":"NSDI","pages":"239-253","year":"2016","type":"Conference and Workshop Papers","key":"conf/nsdi/KhalidGMAA16","ee":"https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/khalid","url":"https://dblp.org/rec/conf/nsdi/KhalidGMAA16"},
+"url":"URL#1710033"
+},
+{
+"@score":"1",
+"@id":"1710034",
+"info":{"authors":{"author":[{"@pid":"162/1936","text":"Anurag Khandelwal"},{"@pid":"41/5447-1","text":"Rachit Agarwal 0001"},{"@pid":"s/IonStoica","text":"Ion Stoica"}]},"title":"BlowFish - Dynamic Storage-Performance Tradeoff in Data Stores.","venue":"NSDI","pages":"485-500","year":"2016","type":"Conference and Workshop Papers","key":"conf/nsdi/Khandelwal0S16","ee":"https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/khandelwal","url":"https://dblp.org/rec/conf/nsdi/Khandelwal0S16"},
+"url":"URL#1710034"
+},
+{
+"@score":"1",
+"@id":"1710035",
+"info":{"authors":{"author":[{"@pid":"44/8573","text":"Trishank Karthik Kuppusamy"},{"@pid":"185/1711","text":"Santiago Torres-Arias"},{"@pid":"131/1063","text":"Vladimir Diaz"},{"@pid":"27/5136","text":"Justin Cappos"}]},"title":"Diplomat - Using Delegations to Protect Community Repositories.","venue":"NSDI","pages":"567-581","year":"2016","type":"Conference and Workshop Papers","key":"conf/nsdi/KuppusamyTDC16","ee":"https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/kuppusamy","url":"https://dblp.org/rec/conf/nsdi/KuppusamyTDC16"},
+"url":"URL#1710035"
+},
+{
+"@score":"1",
+"@id":"1710036",
+"info":{"authors":{"author":[{"@pid":"116/8770","text":"Chang Lan"},{"@pid":"37/8465","text":"Justine Sherry"},{"@pid":"91/275","text":"Raluca Ada Popa"},{"@pid":"68/5579","text":"Sylvia Ratnasamy"},{"@pid":"40/6686","text":"Zhi Liu"}]},"title":"Embark - Securely Outsourcing Middleboxes to the Cloud.","venue":"NSDI","pages":"255-273","year":"2016","type":"Conference and Workshop Papers","key":"conf/nsdi/LanSPRL16","ee":"https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/lan","url":"https://dblp.org/rec/conf/nsdi/LanSPRL16"},
+"url":"URL#1710036"
+},
+{
+"@score":"1",
+"@id":"1710037",
+"info":{"authors":{"author":[{"@pid":"94/7509","text":"Sergey Legtchenko"},{"@pid":"14/2116","text":"Nicholas Chen"},{"@pid":"197/7053","text":"Daniel Cletheroe"},{"@pid":"r/AITRowstron","text":"Antony I. T. Rowstron"},{"@pid":"120/5160","text":"Hugh Williams"},{"@pid":"75/781","text":"Xiaohan Zhao"}]},"title":"XFabric - A Reconfigurable In-Rack Network for Rack-Scale Computers.","venue":"NSDI","pages":"15-29","year":"2016","type":"Conference and Workshop Papers","key":"conf/nsdi/LegtchenkoCCRWZ16","ee":"https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/legtchenko","url":"https://dblp.org/rec/conf/nsdi/LegtchenkoCCRWZ16"},
+"url":"URL#1710037"
+},
+{
+"@score":"1",
+"@id":"1710038",
+"info":{"authors":{"author":[{"@pid":"75/10258","text":"Yuanjie Li"},{"@pid":"169/9944","text":"Haotian Deng"},{"@pid":"98/3313","text":"Chunyi Peng"},{"@pid":"167/4190","text":"Zengwen Yuan"},{"@pid":"63/2218","text":"Guan-Hua Tu"},{"@pid":"169/9913","text":"Jiayao Li"},{"@pid":"55/758","text":"Songwu Lu"}]},"title":"iCellular - Device-Customized Cellular Network Access on Commodity Smartphones.","venue":"NSDI","pages":"643-656","year":"2016","type":"Conference and Workshop Papers","key":"conf/nsdi/LiDPYTLL16","ee":"https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/li-yuanjie","url":"https://dblp.org/rec/conf/nsdi/LiDPYTLL16"},
+"url":"URL#1710038"
+},
+{
+"@score":"1",
+"@id":"1710039",
+"info":{"authors":{"author":[{"@pid":"52/4954","text":"Yuliang Li"},{"@pid":"62/675","text":"Rui Miao"},{"@pid":"55/4381","text":"Changhoon Kim"},{"@pid":"89/6345","text":"Minlan Yu"}]},"title":"FlowRadar - A Better NetFlow for Data Centers.","venue":"NSDI","pages":"311-324","year":"2016","type":"Conference and Workshop Papers","key":"conf/nsdi/LiMKY16","ee":"https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/li-yuliang","url":"https://dblp.org/rec/conf/nsdi/LiMKY16"},
+"url":"URL#1710039"
+},
+{
+"@score":"1",
+"@id":"1710040",
+"info":{"authors":{"author":[{"@pid":"98/8490","text":"Xiaozhou Li"},{"@pid":"118/7576","text":"Raghav Sethi"},{"@pid":"09/4259","text":"Michael Kaminsky"},{"@pid":"a/DavidGAndersen","text":"David G. Andersen"},{"@pid":"65/1370","text":"Michael J. Freedman"}]},"title":"Be Fast, Cheap and in Control with SwitchKV.","venue":"NSDI","pages":"31-44","year":"2016","type":"Conference and Workshop Papers","key":"conf/nsdi/LiSKAF16","ee":"https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/li-xiaozhou","url":"https://dblp.org/rec/conf/nsdi/LiSKAF16"},
+"url":"URL#1710040"
+},
+{
+"@score":"1",
+"@id":"1710041",
+"info":{"authors":{"author":[{"@pid":"61/1951-1","text":"Zhenhua Li 0001"},{"@pid":"59/6754-2","text":"Weiwei Wang 0002"},{"@pid":"90/7566","text":"Tianyin Xu"},{"@pid":"03/6531","text":"Xin Zhong"},{"@pid":"l/XiangYangLi","text":"Xiang-Yang Li 0001"},{"@pid":"27/2403","text":"Yunhao Liu"},{"@pid":"79/5135","text":"Christo Wilson"},{"@pid":"z/BenYZhao","text":"Ben Y. Zhao"}]},"title":"Exploring Cross-Application Cellular Traffic Optimization with Baidu TrafficGuard.","venue":"NSDI","pages":"61-76","year":"2016","type":"Conference and Workshop Papers","key":"conf/nsdi/LiWXZLLWZ16","ee":"https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/li-zhenhua","url":"https://dblp.org/rec/conf/nsdi/LiWXZLLWZ16"},
+"url":"URL#1710041"
+},
+{
+"@score":"1",
+"@id":"1710042",
+"info":{"authors":{"author":[{"@pid":"99/2649-16","text":"Wei Lin 0016"},{"@pid":"197/7055","text":"Haochuan Fan"},{"@pid":"36/5395","text":"Zhengping Qian"},{"@pid":"16/7298","text":"Junwei Xu"},{"@pid":"90/4655","text":"Sen Yang"},{"@pid":"84/2644","text":"Jingren Zhou"},{"@pid":"z/LidongZhou","text":"Lidong Zhou"}]},"title":"StreamScope - Continuous Reliable Distributed Processing of Big Data Streams.","venue":"NSDI","pages":"439-453","year":"2016","type":"Conference and Workshop Papers","key":"conf/nsdi/LinFQXYZZ16","ee":"https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/lin","url":"https://dblp.org/rec/conf/nsdi/LinFQXYZZ16"},
+"url":"URL#1710042"
+},
+{
+"@score":"1",
+"@id":"1710043",
+"info":{"authors":{"author":[{"@pid":"117/4311","text":"Hongqiang Harry Liu"},{"@pid":"44/8262","text":"Raajay Viswanathan"},{"@pid":"24/3165","text":"Matt Calder"},{"@pid":"a/AdityaAkella","text":"Aditya Akella"},{"@pid":"81/6327","text":"Ratul Mahajan"},{"@pid":"p/JPadhye","text":"Jitendra Padhye"},{"@pid":"73/1844-5","text":"Ming Zhang 0005"}]},"title":"Efficiently Delivering Online Services over Integrated Infrastructure.","venue":"NSDI","pages":"77-90","year":"2016","type":"Conference and Workshop Papers","key":"conf/nsdi/LiuVCAMPZ16","ee":"https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/liu","url":"https://dblp.org/rec/conf/nsdi/LiuVCAMPZ16"},
+"url":"URL#1710043"
+},
+{
+"@score":"1",
+"@id":"1710044",
+"info":{"authors":{"author":[{"@pid":"118/3442","text":"Radhika Mittal"},{"@pid":"41/5447-1","text":"Rachit Agarwal 0001"},{"@pid":"68/5579","text":"Sylvia Ratnasamy"},{"@pid":"34/5593","text":"Scott Shenker"}]},"title":"Universal Packet Scheduling.","venue":"NSDI","pages":"501-521","year":"2016","type":"Conference and Workshop Papers","key":"conf/nsdi/Mittal0RS16","ee":"https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/mittal","url":"https://dblp.org/rec/conf/nsdi/Mittal0RS16"},
+"url":"URL#1710044"
+},
+{
+"@score":"1",
+"@id":"1710045",
+"info":{"authors":{"author":[{"@pid":"03/1245","text":"Srinivas Narayana"},{"@pid":"173/5006","text":"Mina Tahmasbi"},{"@pid":"r/JenniferRexford","text":"Jennifer Rexford"},{"@pid":"53/5714","text":"David Walker"}]},"title":"Compiling Path Queries.","venue":"NSDI","pages":"207-222","year":"2016","type":"Conference and Workshop Papers","key":"conf/nsdi/NarayanaTRW16","ee":"https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/narayana","url":"https://dblp.org/rec/conf/nsdi/NarayanaTRW16"},
+"url":"URL#1710045"
+},
+{
+"@score":"1",
+"@id":"1710046",
+"info":{"authors":{"author":[{"@pid":"123/3350-1","text":"Ravi Netravali 0001"},{"@pid":"143/5695","text":"Ameesh Goyal"},{"@pid":"90/1843","text":"James Mickens"},{"@pid":"b/HariBalakrishnan","text":"Hari Balakrishnan"}]},"title":"Polaris - Faster Page Loads Using Fine-grained Dependency Tracking.","venue":"NSDI","pages":"123-136","year":"2016","type":"Conference and Workshop Papers","key":"conf/nsdi/NetravaliGMB16","ee":"https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/netravali","url":"https://dblp.org/rec/conf/nsdi/NetravaliGMB16"},
+"url":"URL#1710046"
+},
+{
+"@score":"1",
+"@id":"1710047",
+"info":{"authors":{"author":[{"@pid":"118/3429","text":"Qifan Pu"},{"@pid":"46/3744-1","text":"Haoyuan Li 0001"},{"@pid":"36/2133","text":"Matei Zaharia"},{"@pid":"71/4226-2","text":"Ali Ghodsi 0002"},{"@pid":"s/IonStoica","text":"Ion Stoica"}]},"title":"FairRide - Near-Optimal, Fair Cache Sharing.","venue":"NSDI","pages":"393-406","year":"2016","type":"Conference and Workshop Papers","key":"conf/nsdi/PuLZGS16","ee":"https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/pu","url":"https://dblp.org/rec/conf/nsdi/PuLZGS16"},
+"url":"URL#1710047"
+},
+{
+"@score":"1",
+"@id":"1710048",
+"info":{"authors":{"author":[{"@pid":"33/3932","text":"Yue Qiao"},{"@pid":"161/6176","text":"Ouyang Zhang"},{"@pid":"137/9454","text":"Wenjie Zhou"},{"@pid":"73/1997","text":"Kannan Srinivasan"},{"@pid":"a/AArora","text":"Anish Arora"}]},"title":"PhyCloak - Obfuscating Sensing from Communication Signals.","venue":"NSDI","pages":"685-699","year":"2016","type":"Conference and Workshop Papers","key":"conf/nsdi/QiaoZZSA16","ee":"https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/qiao","url":"https://dblp.org/rec/conf/nsdi/QiaoZZSA16"},
+"url":"URL#1710048"
+},
+{
+"@score":"1",
+"@id":"1710049",
+"info":{"authors":{"author":[{"@pid":"138/3618","text":"Nirupam Roy"},{"@pid":"19/6964","text":"Romit Roy Choudhury"}]},"title":"Ripple II - Faster Communication through Physical Vibration.","venue":"NSDI","pages":"671-684","year":"2016","type":"Conference and Workshop Papers","key":"conf/nsdi/RoyC16","ee":"https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/roy","url":"https://dblp.org/rec/conf/nsdi/RoyC16"},
+"url":"URL#1710049"
+},
+{
+"@score":"1",
+"@id":"1710050",
+"info":{"authors":{"author":[{"@pid":"13/4360","text":"Colin Scott"},{"@pid":"55/925","text":"Aurojit Panda"},{"@pid":"47/7562","text":"Vjekoslav Brajkovic"},{"@pid":"n/GeorgeCNecula","text":"George C. Necula"},{"@pid":"k/AKrishnamurthy","text":"Arvind Krishnamurthy"},{"@pid":"34/5593","text":"Scott Shenker"}]},"title":"Minimizing Faulty Executions of Distributed Systems.","venue":"NSDI","pages":"291-309","year":"2016","type":"Conference and Workshop Papers","key":"conf/nsdi/ScottPBNKS16","ee":"https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/scott","url":"https://dblp.org/rec/conf/nsdi/ScottPBNKS16"},
+"url":"URL#1710050"
+},
+{
+"@score":"1",
+"@id":"1710051",
+"info":{"authors":{"author":[{"@pid":"92/5928","text":"Alon Shalita"},{"@pid":"27/7164","text":"Brian Karrer"},{"@pid":"176/5533","text":"Igor Kabiljo"},{"@pid":"20/6874","text":"Arun Sharma"},{"@pid":"177/9049","text":"Alessandro Presta"},{"@pid":"120/7646","text":"Aaron Adcock"},{"@pid":"18/4304","text":"Herald Kllapi"},{"@pid":"82/5150","text":"Michael Stumm"}]},"title":"Social Hash - An Assignment Framework for Optimizing Distributed Systems Operations on Social Networks.","venue":"NSDI","pages":"455-468","year":"2016","type":"Conference and Workshop Papers","key":"conf/nsdi/ShalitaKKSPAKS16","ee":"https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/shalita","url":"https://dblp.org/rec/conf/nsdi/ShalitaKKSPAKS16"},
+"url":"URL#1710051"
+},
+{
+"@score":"1",
+"@id":"1710052",
+"info":{"authors":{"author":[{"@pid":"146/0105","text":"Sanjib Sur"},{"@pid":"58/4582-3","text":"Xinyu Zhang 0003"},{"@pid":"r/PRamanathan","text":"Parmesh Ramanathan"},{"@pid":"99/2097","text":"Ranveer Chandra"}]},"title":"BeamSpy - Enabling Robust 60 GHz Links Under Blockage.","venue":"NSDI","pages":"193-206","year":"2016","type":"Conference and Workshop Papers","key":"conf/nsdi/SurZRC16","ee":"https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/sur","url":"https://dblp.org/rec/conf/nsdi/SurZRC16"},
+"url":"URL#1710052"
+},
+{
+"@score":"1",
+"@id":"1710053",
+"info":{"authors":{"author":[{"@pid":"82/9385","text":"Florian Tschorsch"},{"@pid":"15/503-1","text":"Björn Scheuermann 0001"}]},"title":"Mind the Gap - Towards a Backpressure-Based Transport Protocol for the Tor Network.","venue":"NSDI","pages":"597-610","year":"2016","type":"Conference and Workshop Papers","key":"conf/nsdi/TschorschS16","ee":"https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/tschorsch","url":"https://dblp.org/rec/conf/nsdi/TschorschS16"},
+"url":"URL#1710053"
+},
+{
+"@score":"1",
+"@id":"1710054",
+"info":{"authors":{"author":[{"@pid":"81/1244","text":"Matthias Vallentin"},{"@pid":"p/VernPaxson","text":"Vern Paxson"},{"@pid":"s/RobinSommer","text":"Robin Sommer"}]},"title":"VAST - A Unified Platform for Interactive Network Forensics.","venue":"NSDI","pages":"345-362","year":"2016","type":"Conference and Workshop Papers","key":"conf/nsdi/VallentinPS16","ee":"https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/vallentin","url":"https://dblp.org/rec/conf/nsdi/VallentinPS16"},
+"url":"URL#1710054"
+},
+{
+"@score":"1",
+"@id":"1710055",
+"info":{"authors":{"author":[{"@pid":"149/9280","text":"Deepak Vasisht"},{"@pid":"44/8737","text":"Swarun Kumar"},{"@pid":"k/DinaKatabi","text":"Dina Katabi"}]},"title":"Decimeter-Level Localization with a Single WiFi Access Point.","venue":"NSDI","pages":"165-178","year":"2016","type":"Conference and Workshop Papers","key":"conf/nsdi/VasishtKK16","ee":"https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/vasisht","url":"https://dblp.org/rec/conf/nsdi/VasishtKK16"},
+"url":"URL#1710055"
+},
+{
+"@score":"1",
+"@id":"1710056",
+"info":{"authors":{"author":[{"@pid":"65/8569","text":"Shivaram Venkataraman"},{"@pid":"181/5822","text":"Zongheng Yang"},{"@pid":"f/MJFranklin","text":"Michael J. Franklin"},{"@pid":"r/BenRecht","text":"Benjamin Recht"},{"@pid":"s/IonStoica","text":"Ion Stoica"}]},"title":"Ernest - Efficient Performance Prediction for Large-Scale Advanced Analytics.","venue":"NSDI","pages":"363-378","year":"2016","type":"Conference and Workshop Papers","key":"conf/nsdi/VenkataramanYFR16","ee":"https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/venkataraman","url":"https://dblp.org/rec/conf/nsdi/VenkataramanYFR16"},
+"url":"URL#1710056"
+},
+{
+"@score":"1",
+"@id":"1710057",
+"info":{"authors":{"author":[{"@pid":"145/2112","text":"Xiao Sophia Wang"},{"@pid":"k/AKrishnamurthy","text":"Arvind Krishnamurthy"},{"@pid":"w/DavidWetherall","text":"David Wetherall"}]},"title":"Speeding up Web Page Loads with Shandian.","venue":"NSDI","pages":"109-122","year":"2016","type":"Conference and Workshop Papers","key":"conf/nsdi/WangKW16","ee":"https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/wang","url":"https://dblp.org/rec/conf/nsdi/WangKW16"},
+"url":"URL#1710057"
+},
+{
+"@score":"1",
+"@id":"1710058",
+"info":{"authors":{"author":[{"@pid":"23/1556","text":"Frank Wang"},{"@pid":"90/1843","text":"James Mickens"},{"@pid":"99/5780","text":"Nickolai Zeldovich"},{"@pid":"v/VinodVaikuntanathan","text":"Vinod Vaikuntanathan"}]},"title":"Sieve - Cryptographically Enforced Access Control for User Data in Untrusted Clouds.","venue":"NSDI","pages":"611-626","year":"2016","type":"Conference and Workshop Papers","key":"conf/nsdi/WangMZV16","ee":"https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/wang-frank","url":"https://dblp.org/rec/conf/nsdi/WangMZV16"},
+"url":"URL#1710058"
+},
+{
+"@score":"1",
+"@id":"1710059",
+"info":{"authors":{"author":[{"@pid":"60/9826","text":"Yuanzhong Xu"},{"@pid":"189/0088","text":"Tyler Hunt"},{"@pid":"94/8239","text":"Youngjin Kwon"},{"@pid":"119/7735","text":"Martin Georgiev"},{"@pid":"46/6275","text":"Vitaly Shmatikov"},{"@pid":"76/6082","text":"Emmett Witchel"}]},"title":"Earp - Principled Storage, Sharing, and Protection for Mobile Apps.","venue":"NSDI","pages":"627-642","year":"2016","type":"Conference and Workshop Papers","key":"conf/nsdi/XuHKGSW16","ee":"https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/xu","url":"https://dblp.org/rec/conf/nsdi/XuHKGSW16"},
+"url":"URL#1710059"
+},
+{
+"@score":"1",
+"@id":"1710060",
+"info":{"authors":{"author":[{"@pid":"23/7560","text":"Ennan Zhai"},{"@pid":"13/5827","text":"David Isaac Wolinsky"},{"@pid":"03/2050","text":"Ruichuan Chen"},{"@pid":"12/7905","text":"Ewa Syta"},{"@pid":"155/6789","text":"Chao Teng"},{"@pid":"f/BryanFord","text":"Bryan Ford"}]},"title":"AnonRep - Towards Tracking-Resistant Anonymous Reputation.","venue":"NSDI","pages":"583-596","year":"2016","type":"Conference and Workshop Papers","key":"conf/nsdi/ZhaiWCSTF16","ee":"https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/zhai","url":"https://dblp.org/rec/conf/nsdi/ZhaiWCSTF16"},
+"url":"URL#1710060"
+},
+{
+"@score":"1",
+"@id":"1749346",
+"info":{"authors":{"author":[{"@pid":"71/6861","text":"Katerina J. Argyraki"},{"@pid":"89/4883","text":"Rebecca Isaacs"}]},"title":"13th USENIX Symposium on Networked Systems Design and Implementation, NSDI 2016, Santa Clara, CA, USA, March 16-18, 2016","venue":"NSDI","publisher":"USENIX Association","year":"2016","type":"Editorship","key":"conf/nsdi/2016","ee":"https://www.usenix.org/conference/nsdi16","url":"https://dblp.org/rec/conf/nsdi/2016"},
+"url":"URL#1749346"
+}
+]
+}
+}
+}

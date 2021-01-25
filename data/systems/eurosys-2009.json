@@ -1,0 +1,188 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"eurosys\"/\"eurosys2009\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"141.25"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"26",
+"@dc":"26",
+"@oc":"26",
+"@id":"17561569",
+"text":":facetid:toc:db/conf/eurosys/eurosys2009.bht"
+}
+},
+"hits":{
+"@total":"26",
+"@computed":"26",
+"@sent":"26",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"3481118",
+"info":{"authors":{"author":[{"@pid":"54/2333","text":"Jeff Arnold"},{"@pid":"k/MFransKaashoek","text":"M. Frans Kaashoek"}]},"title":"Ksplice - automatic rebootless kernel updates.","venue":"EuroSys","pages":"187-198","year":"2009","type":"Conference and Workshop Papers","key":"conf/eurosys/ArnoldK09","doi":"10.1145/1519065.1519085","ee":"https://doi.org/10.1145/1519065.1519085","url":"https://dblp.org/rec/conf/eurosys/ArnoldK09"},
+"url":"URL#3481118"
+},
+{
+"@score":"1",
+"@id":"3481119",
+"info":{"authors":{"author":[{"@pid":"28/7551","text":"Anton Burtsev"},{"@pid":"50/7551","text":"Prashanth Radhakrishnan"},{"@pid":"h/MikeHibler","text":"Mike Hibler"},{"@pid":"l/JayLepreau","text":"Jay Lepreau"}]},"title":"Transparent checkpoints of closed distributed systems in Emulab.","venue":"EuroSys","pages":"173-186","year":"2009","type":"Conference and Workshop Papers","key":"conf/eurosys/BurtsevRHL09","doi":"10.1145/1519065.1519084","ee":"https://doi.org/10.1145/1519065.1519084","url":"https://dblp.org/rec/conf/eurosys/BurtsevRHL09"},
+"url":"URL#3481119"
+},
+{
+"@score":"1",
+"@id":"3481120",
+"info":{"authors":{"author":[{"@pid":"18/1967","text":"Sameh Elnikety"},{"@pid":"d/StevenGDropsho","text":"Steven G. Dropsho"},{"@pid":"58/170","text":"Emmanuel Cecchet"},{"@pid":"z/WZwaenepoel","text":"Willy Zwaenepoel"}]},"title":"Predicting replicated database scalability from standalone database profiling.","venue":"EuroSys","pages":"303-316","year":"2009","type":"Conference and Workshop Papers","key":"conf/eurosys/ElniketyDCZ09","doi":"10.1145/1519065.1519098","ee":"https://doi.org/10.1145/1519065.1519098","url":"https://dblp.org/rec/conf/eurosys/ElniketyDCZ09"},
+"url":"URL#3481120"
+},
+{
+"@score":"1",
+"@id":"3481121",
+"info":{"authors":{"author":[{"@pid":"72/5851","text":"Qi Gao"},{"@pid":"35/4073","text":"Wenbin Zhang"},{"@pid":"56/5140","text":"Yan Tang"},{"@pid":"31/3488","text":"Feng Qin"}]},"title":"First-aid - surviving and preventing memory management bugs during production runs.","venue":"EuroSys","pages":"159-172","year":"2009","type":"Conference and Workshop Papers","key":"conf/eurosys/GaoZTQ09","doi":"10.1145/1519065.1519083","ee":"https://doi.org/10.1145/1519065.1519083","url":"https://dblp.org/rec/conf/eurosys/GaoZTQ09"},
+"url":"URL#3481121"
+},
+{
+"@score":"1",
+"@id":"3481122",
+"info":{"authors":{"author":[{"@pid":"18/4286","text":"Sriram Govindan"},{"@pid":"16/817","text":"Jeonghwan Choi"},{"@pid":"61/6430","text":"Bhuvan Urgaonkar"},{"@pid":"72/3356","text":"Anand Sivasubramaniam"},{"@pid":"64/1895","text":"Andrea Baldini"}]},"title":"Statistical profiling-based techniques for effective power provisioning in data centers.","venue":"EuroSys","pages":"317-330","year":"2009","type":"Conference and Workshop Papers","key":"conf/eurosys/GovindanCUSB09","doi":"10.1145/1519065.1519099","ee":"https://doi.org/10.1145/1519065.1519099","url":"https://dblp.org/rec/conf/eurosys/GovindanCUSB09"},
+"url":"URL#3481122"
+},
+{
+"@score":"1",
+"@id":"3481123",
+"info":{"authors":{"author":[{"@pid":"28/4918","text":"Charles Krasic"},{"@pid":"63/4024","text":"Mayukh Saubhasik"},{"@pid":"26/7550","text":"Anirban Sinha"},{"@pid":"g/AshvinGoel","text":"Ashvin Goel"}]},"title":"Fair and timely scheduling via cooperative polling.","venue":"EuroSys","pages":"103-116","year":"2009","type":"Conference and Workshop Papers","key":"conf/eurosys/KrasicSSG09","doi":"10.1145/1519065.1519077","ee":"https://doi.org/10.1145/1519065.1519077","url":"https://dblp.org/rec/conf/eurosys/KrasicSSG09"},
+"url":"URL#3481123"
+},
+{
+"@score":"1",
+"@id":"3481124",
+"info":{"authors":{"author":[{"@pid":"11/1308","text":"Horacio Andrés Lagar-Cavilla"},{"@pid":"10/7551","text":"Joseph Andrew Whitney"},{"@pid":"09/3159","text":"Adin Matthew Scannell"},{"@pid":"58/7550","text":"Philip Patchin"},{"@pid":"02/4684","text":"Stephen M. Rumble"},{"@pid":"59/2063","text":"Eyal de Lara"},{"@pid":"10/6530","text":"Michael Brudno"},{"@pid":"s/MahadevSatyanarayanan","text":"Mahadev Satyanarayanan"}]},"title":"SnowFlock - rapid virtual machine cloning for cloud computing.","venue":"EuroSys","pages":"1-12","year":"2009","type":"Conference and Workshop Papers","key":"conf/eurosys/Lagar-CavillaWSPRLBS09","doi":"10.1145/1519065.1519067","ee":"https://doi.org/10.1145/1519065.1519067","url":"https://dblp.org/rec/conf/eurosys/Lagar-CavillaWSPRLBS09"},
+"url":"URL#3481124"
+},
+{
+"@score":"1",
+"@id":"3481125",
+"info":{"authors":{"author":[{"@pid":"51/1043","text":"Geoffrey Lefebvre"},{"@pid":"33/6584","text":"Brendan Cully"},{"@pid":"f/MJFeeley","text":"Michael J. Feeley"},{"@pid":"40/920","text":"Norman C. Hutchinson"},{"@pid":"70/5879","text":"Andrew Warfield"}]},"title":"Tralfamadore - unifying source code and execution experience.","venue":"EuroSys","pages":"199-204","year":"2009","type":"Conference and Workshop Papers","key":"conf/eurosys/LefebvreCFHW09","doi":"10.1145/1519065.1519087","ee":"https://doi.org/10.1145/1519065.1519087","url":"https://dblp.org/rec/conf/eurosys/LefebvreCFHW09"},
+"url":"URL#3481125"
+},
+{
+"@score":"1",
+"@id":"3481126",
+"info":{"authors":{"author":[{"@pid":"21/6955","text":"Prince Mahajan"},{"@pid":"15/5513","text":"Ramakrishna Kotla"},{"@pid":"m/CCMarshall","text":"Catherine C. Marshall"},{"@pid":"85/4250","text":"Venugopalan Ramasubramanian"},{"@pid":"r/TLRodeheffer","text":"Thomas L. Rodeheffer"},{"@pid":"06/965","text":"Douglas B. Terry"},{"@pid":"76/4863","text":"Ted Wobber"}]},"title":"Effective and efficient compromise recovery for weakly consistent replication.","venue":"EuroSys","pages":"131-144","year":"2009","type":"Conference and Workshop Papers","key":"conf/eurosys/MahajanKMRRTW09","doi":"10.1145/1519065.1519080","ee":"https://doi.org/10.1145/1519065.1519080","url":"https://dblp.org/rec/conf/eurosys/MahajanKMRRTW09"},
+"url":"URL#3481126"
+},
+{
+"@score":"1",
+"@id":"3481127",
+"info":{"authors":{"author":[{"@pid":"45/2517","text":"Dushyanth Narayanan"},{"@pid":"44/5931","text":"Eno Thereska"},{"@pid":"21/2604","text":"Austin Donnelly"},{"@pid":"18/1967","text":"Sameh Elnikety"},{"@pid":"r/AITRowstron","text":"Antony I. T. Rowstron"}]},"title":"Migrating server storage to SSDs - analysis of tradeoffs.","venue":"EuroSys","pages":"145-158","year":"2009","type":"Conference and Workshop Papers","key":"conf/eurosys/NarayananTDER09","doi":"10.1145/1519065.1519081","ee":"https://doi.org/10.1145/1519065.1519081","url":"https://dblp.org/rec/conf/eurosys/NarayananTDER09"},
+"url":"URL#3481127"
+},
+{
+"@score":"1",
+"@id":"3481128",
+"info":{"authors":{"author":[{"@pid":"23/6528","text":"Pradeep Padala"},{"@pid":"62/1113","text":"Kai-Yuan Hou"},{"@pid":"s/KangGShin","text":"Kang G. Shin"},{"@pid":"00/6373","text":"Xiaoyun Zhu"},{"@pid":"79/2184","text":"Mustafa Uysal"},{"@pid":"99/3189","text":"Zhikui Wang"},{"@pid":"11/3042","text":"Sharad Singhal"},{"@pid":"40/3294","text":"Arif Merchant"}]},"title":"Automated control of multiple virtualized resources.","venue":"EuroSys","pages":"13-26","year":"2009","type":"Conference and Workshop Papers","key":"conf/eurosys/PadalaHSZUWSM09","doi":"10.1145/1519065.1519068","ee":"https://doi.org/10.1145/1519065.1519068","url":"https://dblp.org/rec/conf/eurosys/PadalaHSZUWSM09"},
+"url":"URL#3481128"
+},
+{
+"@score":"1",
+"@id":"3481129",
+"info":{"authors":{"author":[{"@pid":"07/7551","text":"Alexander Rasmussen"},{"@pid":"89/1263","text":"Emre Kiciman"},{"@pid":"46/2924","text":"V. Benjamin Livshits"},{"@pid":"95/6578","text":"Madanlal Musuvathi"}]},"title":"Improving the responsiveness of internet services with automatic cache placement.","venue":"EuroSys","pages":"27-32","year":"2009","type":"Conference and Workshop Papers","key":"conf/eurosys/RasmussenKLM09","doi":"10.1145/1519065.1519069","ee":"https://doi.org/10.1145/1519065.1519069","url":"https://dblp.org/rec/conf/eurosys/RasmussenKLM09"},
+"url":"URL#3481129"
+},
+{
+"@score":"1",
+"@id":"3481130",
+"info":{"authors":{"author":[{"@pid":"17/697","text":"Charles Reis"},{"@pid":"g/StevenDGribble","text":"Steven D. Gribble"}]},"title":"Isolating web programs in modern browser architectures.","venue":"EuroSys","pages":"219-232","year":"2009","type":"Conference and Workshop Papers","key":"conf/eurosys/ReisG09","doi":"10.1145/1519065.1519090","ee":"https://doi.org/10.1145/1519065.1519090","url":"https://dblp.org/rec/conf/eurosys/ReisG09"},
+"url":"URL#3481130"
+},
+{
+"@score":"1",
+"@id":"3481131",
+"info":{"authors":{"author":[{"@pid":"73/887","text":"Ryan Riley"},{"@pid":"80/6988","text":"Xuxian Jiang"},{"@pid":"59/5539","text":"Dongyan Xu"}]},"title":"Multi-aspect profiling of kernel rootkit behavior.","venue":"EuroSys","pages":"47-60","year":"2009","type":"Conference and Workshop Papers","key":"conf/eurosys/RileyJX09","doi":"10.1145/1519065.1519072","ee":"https://doi.org/10.1145/1519065.1519072","url":"https://dblp.org/rec/conf/eurosys/RileyJX09"},
+"url":"URL#3481131"
+},
+{
+"@score":"1",
+"@id":"3481132",
+"info":{"authors":{"author":[{"@pid":"r/AmitabhaRoy0002","text":"Amitabha Roy 0002"},{"@pid":"69/6457","text":"Steven Hand"},{"@pid":"61/3834","text":"Tim Harris 0001"}]},"title":"A runtime system for software lock elision.","venue":"EuroSys","pages":"261-274","year":"2009","type":"Conference and Workshop Papers","key":"conf/eurosys/RoyHH09","doi":"10.1145/1519065.1519094","ee":"https://doi.org/10.1145/1519065.1519094","url":"https://dblp.org/rec/conf/eurosys/RoyHH09"},
+"url":"URL#3481132"
+},
+{
+"@score":"1",
+"@id":"3481133",
+"info":{"authors":{"author":[{"@pid":"91/7451","text":"Leonid Ryzhyk"},{"@pid":"52/3642","text":"Peter Chubb"},{"@pid":"28/6197","text":"Ihor Kuz"},{"@pid":"h/GernotHeiser","text":"Gernot Heiser"}]},"title":"Dingo - taming device drivers.","venue":"EuroSys","pages":"275-288","year":"2009","type":"Conference and Workshop Papers","key":"conf/eurosys/RyzhykCKH09","doi":"10.1145/1519065.1519095","ee":"https://doi.org/10.1145/1519065.1519095","url":"https://dblp.org/rec/conf/eurosys/RyzhykCKH09"},
+"url":"URL#3481133"
+},
+{
+"@score":"1",
+"@id":"3481134",
+"info":{"authors":{"author":[{"@pid":"89/5040","text":"Babak Salamat"},{"@pid":"93/2983","text":"Todd Jackson"},{"@pid":"44/2121","text":"Andreas Gal"},{"@pid":"f/MichaelFranz","text":"Michael Franz"}]},"title":"Orchestra - intrusion detection using parallel execution and monitoring of program variants in user-space.","venue":"EuroSys","pages":"33-46","year":"2009","type":"Conference and Workshop Papers","key":"conf/eurosys/SalamatJGF09","doi":"10.1145/1519065.1519071","ee":"https://doi.org/10.1145/1519065.1519071","url":"https://dblp.org/rec/conf/eurosys/SalamatJGF09"},
+"url":"URL#3481134"
+},
+{
+"@score":"1",
+"@id":"3481135",
+"info":{"authors":{"author":[{"@pid":"55/6285","text":"Asia Slowinska"},{"@pid":"91/800","text":"Herbert Bos"}]},"title":"Pointless tainting? - evaluating the practicality of pointer tainting.","venue":"EuroSys","pages":"61-74","year":"2009","type":"Conference and Workshop Papers","key":"conf/eurosys/SlowinskaB09","doi":"10.1145/1519065.1519073","ee":"https://doi.org/10.1145/1519065.1519073","url":"https://dblp.org/rec/conf/eurosys/SlowinskaB09"},
+"url":"URL#3481135"
+},
+{
+"@score":"1",
+"@id":"3481136",
+"info":{"authors":{"author":[{"@pid":"23/5913","text":"David C. Snowdon"},{"@pid":"11/7452","text":"Etienne Le Sueur"},{"@pid":"20/1072","text":"Stefan M. Petters"},{"@pid":"h/GernotHeiser","text":"Gernot Heiser"}]},"title":"Koala - a platform for OS-level power management.","venue":"EuroSys","pages":"289-302","year":"2009","type":"Conference and Workshop Papers","key":"conf/eurosys/SnowdonSPH09","doi":"10.1145/1519065.1519097","ee":"https://doi.org/10.1145/1519065.1519097","url":"https://dblp.org/rec/conf/eurosys/SnowdonSPH09"},
+"url":"URL#3481136"
+},
+{
+"@score":"1",
+"@id":"3481137",
+"info":{"authors":{"author":[{"@pid":"35/680","text":"Craig A. N. Soules"},{"@pid":"k/KimberlyKeeton","text":"Kimberly Keeton"},{"@pid":"65/4172","text":"Charles B. Morrey III"}]},"title":"SCAN-Lite - enterprise-wide analysis on the cheap.","venue":"EuroSys","pages":"117-130","year":"2009","type":"Conference and Workshop Papers","key":"conf/eurosys/SoulesKMM09","doi":"10.1145/1519065.1519079","ee":"https://doi.org/10.1145/1519065.1519079","url":"https://dblp.org/rec/conf/eurosys/SoulesKMM09"},
+"url":"URL#3481137"
+},
+{
+"@score":"1",
+"@id":"3481138",
+"info":{"authors":{"author":[{"@pid":"26/1498","text":"Haris Volos 0001"},{"@pid":"67/7550","text":"Andres Jaan Tack"},{"@pid":"46/7004","text":"Neelam Goyal"},{"@pid":"s/MichaelMSwift","text":"Michael M. Swift"},{"@pid":"54/3313","text":"Adam Welc"}]},"title":"xCalls - safe I/O in memory transactions.","venue":"EuroSys","pages":"247-260","year":"2009","type":"Conference and Workshop Papers","key":"conf/eurosys/VolosTGSW09","doi":"10.1145/1519065.1519093","ee":"https://doi.org/10.1145/1519065.1519093","url":"https://dblp.org/rec/conf/eurosys/VolosTGSW09"},
+"url":"URL#3481138"
+},
+{
+"@score":"1",
+"@id":"3481139",
+"info":{"authors":{"author":[{"@pid":"79/5135","text":"Christo Wilson"},{"@pid":"63/7550","text":"Bryce Boe"},{"@pid":"27/4656","text":"Alessandra Sala"},{"@pid":"19/8210","text":"Krishna P. N. Puttaswamy"},{"@pid":"z/BenYZhao","text":"Ben Y. Zhao"}]},"title":"User interactions in social networks and their implications.","venue":"EuroSys","pages":"205-218","year":"2009","type":"Conference and Workshop Papers","key":"conf/eurosys/WilsonBSPZ09","doi":"10.1145/1519065.1519089","ee":"https://doi.org/10.1145/1519065.1519089","url":"https://dblp.org/rec/conf/eurosys/WilsonBSPZ09"},
+"url":"URL#3481139"
+},
+{
+"@score":"1",
+"@id":"3481140",
+"info":{"authors":{"author":[{"@pid":"24/1123","text":"Alexander Yip"},{"@pid":"78/6040","text":"Neha Narula"},{"@pid":"19/4756","text":"Maxwell N. Krohn"},{"@pid":"82/11191","text":"Robert Tappan Morris"}]},"title":"Privacy-preserving browser-side scripting with BFlow.","venue":"EuroSys","pages":"233-246","year":"2009","type":"Conference and Workshop Papers","key":"conf/eurosys/YipNKM09","doi":"10.1145/1519065.1519091","ee":"https://doi.org/10.1145/1519065.1519091","url":"https://dblp.org/rec/conf/eurosys/YipNKM09"},
+"url":"URL#3481140"
+},
+{
+"@score":"1",
+"@id":"3481141",
+"info":{"authors":{"author":[{"@pid":"49/4478","text":"Xiao Zhang"},{"@pid":"62/1421","text":"Sandhya Dwarkadas"},{"@pid":"80/1422","text":"Kai Shen"}]},"title":"Towards practical page coloring-based multicore cache management.","venue":"EuroSys","pages":"89-102","year":"2009","type":"Conference and Workshop Papers","key":"conf/eurosys/ZhangDS09","doi":"10.1145/1519065.1519076","ee":"https://doi.org/10.1145/1519065.1519076","url":"https://dblp.org/rec/conf/eurosys/ZhangDS09"},
+"url":"URL#3481141"
+},
+{
+"@score":"1",
+"@id":"3481142",
+"info":{"authors":{"author":[{"@pid":"87/5809-5","text":"Zhe Zhang 0005"},{"@pid":"10/2888","text":"Amit Kulkarni"},{"@pid":"m/XiaosongMa","text":"Xiaosong Ma"},{"@pid":"99/2747","text":"Yuanyuan Zhou"}]},"title":"Memory resource allocation for file system prefetching - from a supply chain management perspective.","venue":"EuroSys","pages":"75-88","year":"2009","type":"Conference and Workshop Papers","key":"conf/eurosys/ZhangKMZ09","doi":"10.1145/1519065.1519075","ee":"https://doi.org/10.1145/1519065.1519075","url":"https://dblp.org/rec/conf/eurosys/ZhangKMZ09"},
+"url":"URL#3481142"
+},
+{
+"@score":"1",
+"@id":"3567440",
+"info":{"authors":{"author":[{"@pid":"26/6488","text":"Wolfgang Schröder-Preikschat"},{"@pid":"w/JohnWilkes","text":"John Wilkes"},{"@pid":"89/4883","text":"Rebecca Isaacs"}]},"title":"Proceedings of the 2009 EuroSys Conference, Nuremberg, Germany, April 1-3, 2009","venue":"EuroSys","publisher":"ACM","year":"2009","type":"Editorship","key":"conf/eurosys/2009","url":"https://dblp.org/rec/conf/eurosys/2009"},
+"url":"URL#3567440"
+}
+]
+}
+}
+}

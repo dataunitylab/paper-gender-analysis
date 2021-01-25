@@ -1,0 +1,176 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"sosp\"/\"sosp2009\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"101.43"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"24",
+"@dc":"24",
+"@oc":"24",
+"@id":"17587898",
+"text":":facetid:toc:db/conf/sosp/sosp2009.bht"
+}
+},
+"hits":{
+"@total":"24",
+"@computed":"24",
+"@sent":"24",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"3553637",
+"info":{"authors":{"author":[{"@pid":"14/1888","text":"Gautam Altekar"},{"@pid":"s/IonStoica","text":"Ion Stoica"}]},"title":"ODR - output-deterministic replay for multicore debugging.","venue":"SOSP","pages":"193-206","year":"2009","type":"Conference and Workshop Papers","key":"conf/sosp/AltekarS09","doi":"10.1145/1629575.1629594","ee":"https://doi.org/10.1145/1629575.1629594","url":"https://dblp.org/rec/conf/sosp/AltekarS09"},
+"url":"URL#3553637"
+},
+{
+"@score":"1",
+"@id":"3553638",
+"info":{"authors":{"author":[{"@pid":"a/DavidGAndersen","text":"David G. Andersen"},{"@pid":"07/270","text":"Jason Franklin"},{"@pid":"09/4259","text":"Michael Kaminsky"},{"@pid":"14/877","text":"Amar Phanishayee"},{"@pid":"05/7452","text":"Lawrence Tan"},{"@pid":"08/2793","text":"Vijay Vasudevan"}]},"title":"FAWN - a fast array of wimpy nodes.","venue":"SOSP","pages":"1-14","year":"2009","type":"Conference and Workshop Papers","key":"conf/sosp/AndersenFKPTV09","doi":"10.1145/1629575.1629577","ee":"https://doi.org/10.1145/1629575.1629577","url":"https://dblp.org/rec/conf/sosp/AndersenFKPTV09"},
+"url":"URL#3553638"
+},
+{
+"@score":"1",
+"@id":"3553640",
+"info":{"authors":{"author":[{"@pid":"53/6957","text":"Andrew Baumann"},{"@pid":"b/PaulBarham","text":"Paul Barham 0001"},{"@pid":"50/3978","text":"Pierre-Évariste Dagand"},{"@pid":"61/3834","text":"Tim Harris 0001"},{"@pid":"89/4883","text":"Rebecca Isaacs"},{"@pid":"43/3917","text":"Simon Peter"},{"@pid":"r/TimothyRoscoe","text":"Timothy Roscoe"},{"@pid":"08/7451","text":"Adrian Schüpbach"},{"@pid":"17/3909","text":"Akhilesh Singhania"}]},"title":"The multikernel - a new OS architecture for scalable multicore systems.","venue":"SOSP","pages":"29-44","year":"2009","type":"Conference and Workshop Papers","key":"conf/sosp/BaumannBDHIPRSS09","doi":"10.1145/1629575.1629579","ee":"https://doi.org/10.1145/1629575.1629579","url":"https://dblp.org/rec/conf/sosp/BaumannBDHIPRSS09"},
+"url":"URL#3553640"
+},
+{
+"@score":"1",
+"@id":"3553641",
+"info":{"authors":{"author":[{"@pid":"c/MiguelCastro","text":"Miguel Castro 0001"},{"@pid":"35/6770","text":"Manuel Costa"},{"@pid":"99/1869","text":"Jean-Philippe Martin"},{"@pid":"56/6925","text":"Marcus Peinado"},{"@pid":"88/6274","text":"Periklis Akritidis"},{"@pid":"21/2604","text":"Austin Donnelly"},{"@pid":"b/PaulBarham","text":"Paul Barham 0001"},{"@pid":"46/5660","text":"Richard Black"}]},"title":"Fast byte-granularity software fault isolation.","venue":"SOSP","pages":"45-58","year":"2009","type":"Conference and Workshop Papers","key":"conf/sosp/CastroCMPADBB09","doi":"10.1145/1629575.1629581","ee":"https://doi.org/10.1145/1629575.1629581","url":"https://dblp.org/rec/conf/sosp/CastroCMPADBB09"},
+"url":"URL#3553641"
+},
+{
+"@score":"1",
+"@id":"3553642",
+"info":{"authors":{"author":[{"@pid":"48/4792","text":"Yang Chen"},{"@pid":"30/3112","text":"Omprakash Gnawali"},{"@pid":"26/4263","text":"Maria A. Kazandjieva"},{"@pid":"91/2665","text":"Philip Levis"},{"@pid":"r/JohnRegehr","text":"John Regehr"}]},"title":"Surviving sensor network software faults.","venue":"SOSP","pages":"235-246","year":"2009","type":"Conference and Workshop Papers","key":"conf/sosp/ChenGKLR09","doi":"10.1145/1629575.1629598","ee":"https://doi.org/10.1145/1629575.1629598","url":"https://dblp.org/rec/conf/sosp/ChenGKLR09"},
+"url":"URL#3553642"
+},
+{
+"@score":"1",
+"@id":"3553643",
+"info":{"authors":{"author":[{"@pid":"17/597","text":"Allen Clement"},{"@pid":"23/6695","text":"Manos Kapritsos"},{"@pid":"68/311","text":"Sangmin Lee"},{"@pid":"w/YangWang9","text":"Yang Wang 0009"},{"@pid":"a/LAlvisi","text":"Lorenzo Alvisi"},{"@pid":"d/MDahlin","text":"Michael Dahlin"},{"@pid":"18/7452","text":"Taylor Riche"}]},"title":"Upright cluster services.","venue":"SOSP","pages":"277-290","year":"2009","type":"Conference and Workshop Papers","key":"conf/sosp/ClementKLWADR09","doi":"10.1145/1629575.1629602","ee":"https://doi.org/10.1145/1629575.1629602","url":"https://dblp.org/rec/conf/sosp/ClementKLWADR09"},
+"url":"URL#3553643"
+},
+{
+"@score":"1",
+"@id":"3553644",
+"info":{"authors":{"author":[{"@pid":"32/474","text":"Jeremy Condit"},{"@pid":"97/1336","text":"Edmund B. Nightingale"},{"@pid":"69/6042-1","text":"Christopher Frost 0001"},{"@pid":"i/EnginIpek","text":"Engin Ipek"},{"@pid":"l/BenjaminCLee","text":"Benjamin C. Lee"},{"@pid":"b/DougBurger","text":"Doug Burger"},{"@pid":"82/4070","text":"Derrick Coetzee"}]},"title":"Better I/O through byte-addressable, persistent memory.","venue":"SOSP","pages":"133-146","year":"2009","type":"Conference and Workshop Papers","key":"conf/sosp/ConditNFILBC09","doi":"10.1145/1629575.1629589","ee":"https://doi.org/10.1145/1629575.1629589","url":"https://dblp.org/rec/conf/sosp/ConditNFILBC09"},
+"url":"URL#3553644"
+},
+{
+"@score":"1",
+"@id":"3553646",
+"info":{"authors":{"author":[{"@pid":"29/7452","text":"Mihai Dobrescu"},{"@pid":"91/2516","text":"Norbert Egi"},{"@pid":"71/6861","text":"Katerina J. Argyraki"},{"@pid":"34/3515","text":"Byung-Gon Chun"},{"@pid":"38/3635","text":"Kevin R. Fall"},{"@pid":"13/3120","text":"Gianluca Iannaccone"},{"@pid":"55/5574","text":"Allan Knies"},{"@pid":"75/4301","text":"Maziar Manesh"},{"@pid":"68/5579","text":"Sylvia Ratnasamy"}]},"title":"RouteBricks - exploiting parallelism to scale software routers.","venue":"SOSP","pages":"15-28","year":"2009","type":"Conference and Workshop Papers","key":"conf/sosp/DobrescuEACFIKMR09","doi":"10.1145/1629575.1629578","ee":"https://doi.org/10.1145/1629575.1629578","url":"https://dblp.org/rec/conf/sosp/DobrescuEACFIKMR09"},
+"url":"URL#3553646"
+},
+{
+"@score":"1",
+"@id":"3553647",
+"info":{"authors":{"author":[{"@pid":"10/3285","text":"John Dunagan"},{"@pid":"79/3207","text":"Alice X. Zheng"},{"@pid":"92/908","text":"Daniel R. Simon"}]},"title":"Heat-ray - combating identity snowball attacks using machinelearning, combinatorial optimization and attack graphs.","venue":"SOSP","pages":"305-320","year":"2009","type":"Conference and Workshop Papers","key":"conf/sosp/DunaganZS09","doi":"10.1145/1629575.1629605","ee":"https://doi.org/10.1145/1629575.1629605","url":"https://dblp.org/rec/conf/sosp/DunaganZS09"},
+"url":"URL#3553647"
+},
+{
+"@score":"1",
+"@id":"3553648",
+"info":{"authors":{"author":[{"@pid":"32/7452","text":"Kirk Glerum"},{"@pid":"08/7452","text":"Kinshuman Kinshumann"},{"@pid":"97/7452","text":"Steve Greenberg"},{"@pid":"94/7452","text":"Gabriel Aul"},{"@pid":"63/7452","text":"Vince R. Orgovan"},{"@pid":"48/5875","text":"Greg Nichols"},{"@pid":"56/1597","text":"David Grant"},{"@pid":"64/3464","text":"Gretchen Loihle"},{"@pid":"58/3811","text":"Galen C. Hunt"}]},"title":"Debugging in the (very) large - ten years of implementation and experience.","venue":"SOSP","pages":"103-116","year":"2009","type":"Conference and Workshop Papers","key":"conf/sosp/GlerumKGAONGLH09","doi":"10.1145/1629575.1629586","ee":"https://doi.org/10.1145/1629575.1629586","url":"https://dblp.org/rec/conf/sosp/GlerumKGAONGLH09"},
+"url":"URL#3553648"
+},
+{
+"@score":"1",
+"@id":"3553649",
+"info":{"authors":{"author":[{"@pid":"17/5751","text":"Michael Isard"},{"@pid":"93/843","text":"Vijayan Prabhakaran"},{"@pid":"60/5888","text":"Jon Currey"},{"@pid":"w/UdiWieder","text":"Udi Wieder"},{"@pid":"06/3696","text":"Kunal Talwar"},{"@pid":"g/AndrewVGoldberg","text":"Andrew V. Goldberg"}]},"title":"Quincy - fair scheduling for distributed computing clusters.","venue":"SOSP","pages":"261-276","year":"2009","type":"Conference and Workshop Papers","key":"conf/sosp/IsardPCWTG09","doi":"10.1145/1629575.1629601","ee":"https://doi.org/10.1145/1629575.1629601","url":"https://dblp.org/rec/conf/sosp/IsardPCWTG09"},
+"url":"URL#3553649"
+},
+{
+"@score":"1",
+"@id":"3553650",
+"info":{"authors":{"author":[{"@pid":"42/4496","text":"Asim Kadav"},{"@pid":"00/5158","text":"Matthew J. Renzelmann"},{"@pid":"s/MichaelMSwift","text":"Michael M. Swift"}]},"title":"Tolerating hardware device failures in software.","venue":"SOSP","pages":"59-72","year":"2009","type":"Conference and Workshop Papers","key":"conf/sosp/KadavRS09","doi":"10.1145/1629575.1629582","ee":"https://doi.org/10.1145/1629575.1629582","url":"https://dblp.org/rec/conf/sosp/KadavRS09"},
+"url":"URL#3553650"
+},
+{
+"@score":"1",
+"@id":"3553652",
+"info":{"authors":{"author":[{"@pid":"74/2171","text":"Gerwin Klein"},{"@pid":"e/KElphinstone","text":"Kevin Elphinstone"},{"@pid":"h/GernotHeiser","text":"Gernot Heiser"},{"@pid":"11/6441","text":"June Andronick"},{"@pid":"76/5940","text":"David Cock"},{"@pid":"45/5675","text":"Philip Derrin"},{"@pid":"65/6124","text":"Dhammika Elkaduwe"},{"@pid":"54/1933","text":"Kai Engelhardt"},{"@pid":"87/2179","text":"Rafal Kolanski"},{"@pid":"10/3457","text":"Michael Norrish"},{"@pid":"98/1593","text":"Thomas Sewell"},{"@pid":"53/6157","text":"Harvey Tuch"},{"@pid":"73/608","text":"Simon Winwood"}]},"title":"seL4 - formal verification of an OS kernel.","venue":"SOSP","pages":"207-220","year":"2009","type":"Conference and Workshop Papers","key":"conf/sosp/KleinEHACDEEKNSTW09","doi":"10.1145/1629575.1629596","ee":"https://doi.org/10.1145/1629575.1629596","url":"https://dblp.org/rec/conf/sosp/KleinEHACDEEKNSTW09"},
+"url":"URL#3553652"
+},
+{
+"@score":"1",
+"@id":"3553653",
+"info":{"authors":{"author":[{"@pid":"20/5913","text":"Jed Liu"},{"@pid":"79/7451","text":"Michael D. George"},{"@pid":"25/378","text":"K. Vikram"},{"@pid":"63/216","text":"Xin Qi"},{"@pid":"77/7452","text":"Lucas Waye"},{"@pid":"m/AndrewCMyers","text":"Andrew C. Myers"}]},"title":"Fabric - a platform for secure distributed computation and storage.","venue":"SOSP","pages":"321-334","year":"2009","type":"Conference and Workshop Papers","key":"conf/sosp/LiuGVQWM09","doi":"10.1145/1629575.1629606","ee":"https://doi.org/10.1145/1629575.1629606","url":"https://dblp.org/rec/conf/sosp/LiuGVQWM09"},
+"url":"URL#3553653"
+},
+{
+"@score":"1",
+"@id":"3553654",
+"info":{"authors":{"author":[{"@pid":"18/4125","text":"Mike Mammarella"},{"@pid":"11/6201","text":"Shant Hovsepian"},{"@pid":"78/5231","text":"Eddie Kohler"}]},"title":"Modular data storage with Anvil.","venue":"SOSP","pages":"147-160","year":"2009","type":"Conference and Workshop Papers","key":"conf/sosp/MammarellaHK09","doi":"10.1145/1629575.1629590","ee":"https://doi.org/10.1145/1629575.1629590","url":"https://dblp.org/rec/conf/sosp/MammarellaHK09"},
+"url":"URL#3553654"
+},
+{
+"@score":"1",
+"@id":"3553655",
+"info":{"authors":{"author":[{"@pid":"97/1336","text":"Edmund B. Nightingale"},{"@pid":"55/6118","text":"Orion Hodson"},{"@pid":"38/6971","text":"Ross McIlroy"},{"@pid":"22/3053","text":"Chris Hawblitzel"},{"@pid":"58/3811","text":"Galen C. Hunt"}]},"title":"Helios - heterogeneous multiprocessing with satellite kernels.","venue":"SOSP","pages":"221-234","year":"2009","type":"Conference and Workshop Papers","key":"conf/sosp/NightingaleHMHH09","doi":"10.1145/1629575.1629597","ee":"https://doi.org/10.1145/1629575.1629597","url":"https://dblp.org/rec/conf/sosp/NightingaleHMHH09"},
+"url":"URL#3553655"
+},
+{
+"@score":"1",
+"@id":"3553657",
+"info":{"authors":{"author":[{"@pid":"03/6317","text":"Soyeon Park"},{"@pid":"99/2747-1","text":"Yuanyuan Zhou 0001"},{"@pid":"61/2220","text":"Weiwei Xiong"},{"@pid":"21/4635","text":"Zuoning Yin"},{"@pid":"45/8524","text":"Rini Kaushik"},{"@pid":"48/5575","text":"Kyu H. Lee"},{"@pid":"31/5916-1","text":"Shan Lu 0001"}]},"title":"PRES - probabilistic replay with execution sketching on multiprocessors.","venue":"SOSP","pages":"177-192","year":"2009","type":"Conference and Workshop Papers","key":"conf/sosp/ParkZXYKLL09","doi":"10.1145/1629575.1629593","ee":"https://doi.org/10.1145/1629575.1629593","url":"https://dblp.org/rec/conf/sosp/ParkZXYKLL09"},
+"url":"URL#3553657"
+},
+{
+"@score":"1",
+"@id":"3553658",
+"info":{"authors":{"author":[{"@pid":"24/972","text":"Jeff H. Perkins"},{"@pid":"k/SunghunKim","text":"Sunghun Kim 0001"},{"@pid":"08/4601","text":"Samuel Larsen"},{"@pid":"a/SPAmarasinghe","text":"Saman P. Amarasinghe"},{"@pid":"92/2089","text":"Jonathan Bachrach"},{"@pid":"07/3119","text":"Michael Carbin"},{"@pid":"51/1907","text":"Carlos Pacheco"},{"@pid":"09/7453","text":"Frank Sherwood"},{"@pid":"37/1475","text":"Stelios Sidiroglou"},{"@pid":"78/7451","text":"Greg Sullivan"},{"@pid":"37/1143","text":"Weng-Fai Wong"},{"@pid":"35/5726","text":"Yoav Zibin"},{"@pid":"e/MDErnst","text":"Michael D. Ernst"},{"@pid":"r/MartinCRinard","text":"Martin C. Rinard"}]},"title":"Automatically patching errors in deployed software.","venue":"SOSP","pages":"87-102","year":"2009","type":"Conference and Workshop Papers","key":"conf/sosp/PerkinsKLABCPSSSWZER09","doi":"10.1145/1629575.1629585","ee":"https://doi.org/10.1145/1629575.1629585","url":"https://dblp.org/rec/conf/sosp/PerkinsKLABCPSSSWZER09"},
+"url":"URL#3553658"
+},
+{
+"@score":"1",
+"@id":"3553659",
+"info":{"authors":{"author":[{"@pid":"08/4732","text":"Donald E. Porter"},{"@pid":"80/77","text":"Owen S. Hofmann"},{"@pid":"46/991","text":"Christopher J. Rossbach"},{"@pid":"76/7451","text":"Alexander Benn"},{"@pid":"76/6082","text":"Emmett Witchel"}]},"title":"Operating systems transactions.","venue":"SOSP","pages":"161-176","year":"2009","type":"Conference and Workshop Papers","key":"conf/sosp/PorterHRBW09","doi":"10.1145/1629575.1629591","ee":"https://doi.org/10.1145/1629575.1629591","url":"https://dblp.org/rec/conf/sosp/PorterHRBW09"},
+"url":"URL#3553659"
+},
+{
+"@score":"1",
+"@id":"3553662",
+"info":{"authors":{"author":[{"@pid":"91/7451","text":"Leonid Ryzhyk"},{"@pid":"52/3642","text":"Peter Chubb"},{"@pid":"28/6197","text":"Ihor Kuz"},{"@pid":"11/7452","text":"Etienne Le Sueur"},{"@pid":"h/GernotHeiser","text":"Gernot Heiser"}]},"title":"Automatic device driver synthesis with termite.","venue":"SOSP","pages":"73-86","year":"2009","type":"Conference and Workshop Papers","key":"conf/sosp/RyzhykCKSH09","doi":"10.1145/1629575.1629583","ee":"https://doi.org/10.1145/1629575.1629583","url":"https://dblp.org/rec/conf/sosp/RyzhykCKSH09"},
+"url":"URL#3553662"
+},
+{
+"@score":"1",
+"@id":"3553664",
+"info":{"authors":{"author":[{"@pid":"32/1213-12","text":"Wei Xu 0012"},{"@pid":"90/3799","text":"Ling Huang"},{"@pid":"90/5133","text":"Armando Fox"},{"@pid":"p/DAPatterson","text":"David A. Patterson"},{"@pid":"j/MichaelIJordan","text":"Michael I. Jordan"}]},"title":"Detecting large-scale system problems by mining console logs.","venue":"SOSP","pages":"117-132","year":"2009","type":"Conference and Workshop Papers","key":"conf/sosp/XuHFPJ09","doi":"10.1145/1629575.1629587","ee":"https://doi.org/10.1145/1629575.1629587","url":"https://dblp.org/rec/conf/sosp/XuHFPJ09"},
+"url":"URL#3553664"
+},
+{
+"@score":"1",
+"@id":"3553665",
+"info":{"authors":{"author":[{"@pid":"24/1123","text":"Alexander Yip"},{"@pid":"08/5760-5","text":"Xi Wang 0005"},{"@pid":"99/5780","text":"Nickolai Zeldovich"},{"@pid":"k/MFransKaashoek","text":"M. Frans Kaashoek"}]},"title":"Improving application security with data flow assertions.","venue":"SOSP","pages":"291-304","year":"2009","type":"Conference and Workshop Papers","key":"conf/sosp/YipWZK09","doi":"10.1145/1629575.1629604","ee":"https://doi.org/10.1145/1629575.1629604","url":"https://dblp.org/rec/conf/sosp/YipWZK09"},
+"url":"URL#3553665"
+},
+{
+"@score":"1",
+"@id":"3553666",
+"info":{"authors":{"author":[{"@pid":"98/809","text":"Yuan Yu"},{"@pid":"93/4467","text":"Pradeep Kumar Gunda"},{"@pid":"17/5751","text":"Michael Isard"}]},"title":"Distributed aggregation for data-parallel computing - interfaces and implementations.","venue":"SOSP","pages":"247-260","year":"2009","type":"Conference and Workshop Papers","key":"conf/sosp/YuGI09","doi":"10.1145/1629575.1629600","ee":"https://doi.org/10.1145/1629575.1629600","url":"https://dblp.org/rec/conf/sosp/YuGI09"},
+"url":"URL#3553666"
+},
+{
+"@score":"1",
+"@id":"3568506",
+"info":{"authors":{"author":[{"@pid":"81/5025","text":"Jeanna Neefe Matthews"},{"@pid":"a/ThomasEAnderson","text":"Thomas E. Anderson"}]},"title":"Proceedings of the 22nd ACM Symposium on Operating Systems Principles 2009, SOSP 2009, Big Sky, Montana, USA, October 11-14, 2009","venue":"SOSP","publisher":"ACM","year":"2009","type":"Editorship","key":"conf/sosp/2009","doi":"10.1145/1629575","ee":"https://doi.org/10.1145/1629575","url":"https://dblp.org/rec/conf/sosp/2009"},
+"url":"URL#3568506"
+}
+]
+}
+}
+}

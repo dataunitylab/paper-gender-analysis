@@ -1,0 +1,206 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"fast\"/\"fast2017\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"131.76"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"29",
+"@dc":"29",
+"@oc":"29",
+"@id":"17561996",
+"text":":facetid:toc:db/conf/fast/fast2017.bht"
+}
+},
+"hits":{
+"@total":"29",
+"@computed":"29",
+"@sent":"29",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"1320140",
+"info":{"authors":{"author":[{"@pid":"159/2251","text":"Abutalib Aghayev"},{"@pid":"30/5836","text":"Theodore Y. Ts&apos;o"},{"@pid":"g/GarthAGibson","text":"Garth Gibson"},{"@pid":"76/3749","text":"Peter Desnoyers"}]},"title":"Evolving Ext4 for Shingled Disks.","venue":"FAST","pages":"105-120","year":"2017","type":"Conference and Workshop Papers","key":"conf/fast/AghayevTGD17","ee":"https://www.usenix.org/conference/fast17/technical-sessions/presentation/aghayev","url":"https://dblp.org/rec/conf/fast/AghayevTGD17"},
+"url":"URL#1320140"
+},
+{
+"@score":"1",
+"@id":"1320141",
+"info":{"authors":{"author":[{"@pid":"30/8166","text":"Matias Bjørling"},{"@pid":"g/JavierGonzalez","text":"Javier Gonzalez"},{"@pid":"b/PBonnet","text":"Philippe Bonnet"}]},"title":"LightNVM - The Linux Open-Channel SSD Subsystem.","venue":"FAST","pages":"359-374","year":"2017","type":"Conference and Workshop Papers","key":"conf/fast/BjorlingGB17","ee":"https://www.usenix.org/conference/fast17/technical-sessions/presentation/bjorling","url":"https://dblp.org/rec/conf/fast/BjorlingGB17"},
+"url":"URL#1320141"
+},
+{
+"@score":"1",
+"@id":"1320142",
+"info":{"authors":{"author":[{"@pid":"35/191","text":"Edward Bortnikov"},{"@pid":"24/490","text":"Eshcar Hillel"},{"@pid":"k/IditKeidar","text":"Idit Keidar"},{"@pid":"37/10440","text":"Ivan Kelly"},{"@pid":"85/4713","text":"Matthieu Morel"},{"@pid":"197/7188","text":"Sameer Paranjpye"},{"@pid":"56/4483","text":"Francisco Perez-Sorrosal"},{"@pid":"81/4697","text":"Ohad Shacham"}]},"title":"Omid, Reloaded - Scalable and Highly-Available Transaction Processing.","venue":"FAST","pages":"167-180","year":"2017","type":"Conference and Workshop Papers","key":"conf/fast/BortnikovHKKMPP17","ee":"https://www.usenix.org/conference/fast17/technical-sessions/presentation/shacham","url":"https://dblp.org/rec/conf/fast/BortnikovHKKMPP17"},
+"url":"URL#1320142"
+},
+{
+"@score":"1",
+"@id":"1320143",
+"info":{"authors":{"author":[{"@pid":"98/6208","text":"Zhen Cao"},{"@pid":"73/5769","text":"Vasily Tarasov"},{"@pid":"197/7181","text":"Hari Prasath Raman"},{"@pid":"56/3008","text":"Dean Hildebrand"},{"@pid":"71/1341","text":"Erez Zadok"}]},"title":"On the Performance Variation in Modern Storage Stacks.","venue":"FAST","pages":"329-344","year":"2017","type":"Conference and Workshop Papers","key":"conf/fast/CaoTRHZ17","ee":"https://www.usenix.org/conference/fast17/technical-sessions/presentation/cao","url":"https://dblp.org/rec/conf/fast/CaoTRHZ17"},
+"url":"URL#1320143"
+},
+{
+"@score":"1",
+"@id":"1320144",
+"info":{"authors":{"author":[{"@pid":"99/311-0013","text":"Ming Chen 0013"},{"@pid":"56/3008","text":"Dean Hildebrand"},{"@pid":"197/7176","text":"Henry Nelson"},{"@pid":"197/7195","text":"Jasmit Saluja"},{"@pid":"197/7191","text":"Ashok Sankar Harihara Subramony"},{"@pid":"71/1341","text":"Erez Zadok"}]},"title":"vNFS - Maximizing NFS Performance with Compounds and Vectorized I/O.","venue":"FAST","pages":"301-314","year":"2017","type":"Conference and Workshop Papers","key":"conf/fast/ChenHNSSZ17","ee":"https://www.usenix.org/conference/fast17/technical-sessions/presentation/chen","url":"https://dblp.org/rec/conf/fast/ChenHNSSZ17"},
+"url":"URL#1320144"
+},
+{
+"@score":"1",
+"@id":"1320145",
+"info":{"authors":{"author":[{"@pid":"177/6207","text":"Alexander Conway"},{"@pid":"132/1905","text":"Ainesh Bakshi"},{"@pid":"135/5282","text":"Yizheng Jiao"},{"@pid":"122/2884","text":"William Jannen"},{"@pid":"01/2142-1","text":"Yang Zhan 0001"},{"@pid":"98/4381","text":"Jun Yuan"},{"@pid":"b/MichaelABender","text":"Michael A. Bender"},{"@pid":"47/6172","text":"Rob Johnson"},{"@pid":"77/1312","text":"Bradley C. Kuszmaul"},{"@pid":"08/4732","text":"Donald E. Porter"},{"@pid":"f/MartinFarachColton","text":"Martin Farach-Colton"}]},"title":"File Systems Fated for Senescence? Nonsense, Says Science!","venue":"FAST","pages":"45-58","year":"2017","type":"Conference and Workshop Papers","key":"conf/fast/ConwayBJJZYBJKP17","ee":"https://www.usenix.org/conference/fast17/technical-sessions/presentation/conway","url":"https://dblp.org/rec/conf/fast/ConwayBJJZYBJKP17"},
+"url":"URL#1320145"
+},
+{
+"@score":"1",
+"@id":"1320146",
+"info":{"authors":{"author":[{"@pid":"154/0889","text":"Xianzheng Dou"},{"@pid":"c/PeterMChen","text":"Peter M. Chen"},{"@pid":"14/85","text":"Jason Flinn"}]},"title":"Knockoff - Cheap Versions in the Cloud.","venue":"FAST","pages":"73-88","year":"2017","type":"Conference and Workshop Papers","key":"conf/fast/DouCF17","ee":"https://www.usenix.org/conference/fast17/technical-sessions/presentation/dou","url":"https://dblp.org/rec/conf/fast/DouCF17"},
+"url":"URL#1320146"
+},
+{
+"@score":"1",
+"@id":"1320147",
+"info":{"authors":{"author":[{"@pid":"d/FredDouglis","text":"Fred Douglis"},{"@pid":"96/10309","text":"Abhinav Duggal"},{"@pid":"06/4348","text":"Philip Shilane"},{"@pid":"78/902","text":"Tony Wong"},{"@pid":"197/7187","text":"Shiqin Yan"},{"@pid":"04/646","text":"Fabiano C. Botelho"}]},"title":"The Logic of Physical Garbage Collection in Deduplicating Storage.","venue":"FAST","pages":"29-44","year":"2017","type":"Conference and Workshop Papers","key":"conf/fast/DouglisDSWYB17","ee":"https://www.usenix.org/conference/fast17/technical-sessions/presentation/douglis","url":"https://dblp.org/rec/conf/fast/DouglisDSWYB17"},
+"url":"URL#1320147"
+},
+{
+"@score":"1",
+"@id":"1320148",
+"info":{"authors":{"author":[{"@pid":"150/3388","text":"Aishwarya Ganesan"},{"@pid":"154/0847","text":"Ramnatthan Alagappan"},{"@pid":"a/AndreaCArpaciDusseau","text":"Andrea C. Arpaci-Dusseau"},{"@pid":"a/RemziHArpaciDusseau","text":"Remzi H. Arpaci-Dusseau"}]},"title":"Redundancy Does Not Imply Fault Tolerance - Analysis of Distributed Storage Reactions to Single Errors and Corruptions.","venue":"FAST","pages":"149-166","year":"2017","type":"Conference and Workshop Papers","key":"conf/fast/GanesanAAA17","ee":"https://www.usenix.org/conference/fast17/technical-sessions/presentation/ganesan","url":"https://dblp.org/rec/conf/fast/GanesanAAA17"},
+"url":"URL#1320148"
+},
+{
+"@score":"1",
+"@id":"1320149",
+"info":{"authors":{"author":[{"@pid":"72/10632","text":"Alireza Haghdoost"},{"@pid":"11/4257","text":"Weiping He"},{"@pid":"197/7186","text":"Jerry Fredin"},{"@pid":"d/DHCDu","text":"David H. C. Du"}]},"title":"On the Accuracy and Scalability of Intensive I/O Workload Replay.","venue":"FAST","pages":"315-328","year":"2017","type":"Conference and Workshop Papers","key":"conf/fast/HaghdoostHFD17","ee":"https://www.usenix.org/conference/fast17/technical-sessions/presentation/haghdoost","url":"https://dblp.org/rec/conf/fast/HaghdoostHFD17"},
+"url":"URL#1320149"
+},
+{
+"@score":"1",
+"@id":"1320150",
+"info":{"authors":{"author":[{"@pid":"11/4257","text":"Weiping He"},{"@pid":"d/DHCDu","text":"David H. C. Du"}]},"title":"SMaRT - An Approach to Shingled Magnetic Recording Translation.","venue":"FAST","pages":"121-134","year":"2017","type":"Conference and Workshop Papers","key":"conf/fast/HeD17","ee":"https://www.usenix.org/conference/fast17/technical-sessions/presentation/he","url":"https://dblp.org/rec/conf/fast/HeD17"},
+"url":"URL#1320150"
+},
+{
+"@score":"1",
+"@id":"1320151",
+"info":{"authors":{"author":[{"@pid":"51/494-6","text":"Jian Huang 0006"},{"@pid":"51/8142","text":"Anirudh Badam"},{"@pid":"181/1421","text":"Laura Caulfield"},{"@pid":"85/6293","text":"Suman Nath"},{"@pid":"88/4889","text":"Sudipta Sengupta"},{"@pid":"24/7446","text":"Bikash Sharma"},{"@pid":"60/6934","text":"Moinuddin K. Qureshi"}]},"title":"FlashBlox - Achieving Both Performance Isolation and Uniform Lifetime for Virtualized SSDs.","venue":"FAST","pages":"375-390","year":"2017","type":"Conference and Workshop Papers","key":"conf/fast/HuangBCNSSQ17","ee":"https://www.usenix.org/conference/fast17/technical-sessions/presentation/huang","url":"https://dblp.org/rec/conf/fast/HuangBCNSSQ17"},
+"url":"URL#1320151"
+},
+{
+"@score":"1",
+"@id":"1320152",
+"info":{"authors":{"author":{"@pid":"k/KimberlyKeeton","text":"Kimberly Keeton"}},"title":"Memory-Driven Computing.","venue":"FAST","year":"2017","type":"Conference and Workshop Papers","key":"conf/fast/Keeton17","url":"https://dblp.org/rec/conf/fast/Keeton17"},
+"url":"URL#1320152"
+},
+{
+"@score":"1",
+"@id":"1320153",
+"info":{"authors":{"author":[{"@pid":"30/4355","text":"Ram Kesavan"},{"@pid":"177/9993","text":"Rohit Singh"},{"@pid":"197/7175","text":"Travis Grusecki"},{"@pid":"124/5787","text":"Yuvraj Patel"}]},"title":"Algorithms and Data Structures for Efficient Free Space Reclamation in WAFL.","venue":"FAST","pages":"1-14","year":"2017","type":"Conference and Workshop Papers","key":"conf/fast/KesavanSGP17","ee":"https://www.usenix.org/conference/fast17/technical-sessions/presentation/kesavan","url":"https://dblp.org/rec/conf/fast/KesavanSGP17"},
+"url":"URL#1320153"
+},
+{
+"@score":"1",
+"@id":"1320154",
+"info":{"authors":{"author":[{"@pid":"41/5288","text":"Sangwook Kim"},{"@pid":"48/3659","text":"Hwanju Kim"},{"@pid":"29/3723","text":"Joonwon Lee"},{"@pid":"57/1613","text":"Jinkyu Jeong"}]},"title":"Enlightening the I/O Path - A Holistic Approach for Application Performance.","venue":"FAST","pages":"345-358","year":"2017","type":"Conference and Workshop Papers","key":"conf/fast/KimKLJ17","ee":"https://www.usenix.org/conference/fast17/technical-sessions/presentation/kim-sangwook","url":"https://dblp.org/rec/conf/fast/KimKLJ17"},
+"url":"URL#1320154"
+},
+{
+"@score":"1",
+"@id":"1320155",
+"info":{"authors":{"author":[{"@pid":"129/2682","text":"Hyukjoong Kim"},{"@pid":"05/3861","text":"Dongkun Shin"},{"@pid":"158/6165","text":"Yunho Jeong"},{"@pid":"32/699","text":"Kyung Ho Kim"}]},"title":"SHRD - Improving Spatial Locality in Flash Storage Accesses by Sequentializing in Host and Randomizing in Device.","venue":"FAST","pages":"271-284","year":"2017","type":"Conference and Workshop Papers","key":"conf/fast/KimSJK17","ee":"https://www.usenix.org/conference/fast17/technical-sessions/presentation/kim","url":"https://dblp.org/rec/conf/fast/KimSJK17"},
+"url":"URL#1320155"
+},
+{
+"@score":"1",
+"@id":"1320156",
+"info":{"authors":{"author":[{"@pid":"31/9638","text":"Harendra Kumar"},{"@pid":"124/5787","text":"Yuvraj Patel"},{"@pid":"30/4355","text":"Ram Kesavan"},{"@pid":"197/7177","text":"Sumith Makam"}]},"title":"High Performance Metadata Integrity Protection in the WAFL Copy-on-Write File System.","venue":"FAST","pages":"197-212","year":"2017","type":"Conference and Workshop Papers","key":"conf/fast/KumarPKM17","ee":"https://www.usenix.org/conference/fast17/technical-sessions/presentation/kumar","url":"https://dblp.org/rec/conf/fast/KumarPKM17"},
+"url":"URL#1320156"
+},
+{
+"@score":"1",
+"@id":"1320157",
+"info":{"authors":{"author":[{"@pid":"162/0997-1","text":"Florian Lautenschlager 0001"},{"@pid":"93/1672","text":"Michael Philippsen"},{"@pid":"162/1086","text":"Andreas Kumlehn"},{"@pid":"97/9325","text":"Josef Adersberger"}]},"title":"Chronix - Long Term Storage and Retrieval Technology for Anomaly Detection in Operational Data.","venue":"FAST","pages":"229-242","year":"2017","type":"Conference and Workshop Papers","key":"conf/fast/LautenschlagerP17","ee":"https://www.usenix.org/conference/fast17/technical-sessions/presentation/lautenschlager","url":"https://dblp.org/rec/conf/fast/LautenschlagerP17"},
+"url":"URL#1320157"
+},
+{
+"@score":"1",
+"@id":"1320158",
+"info":{"authors":{"author":[{"@pid":"197/7193","text":"Se Kwon Lee"},{"@pid":"197/7190","text":"K. Hyun Lim"},{"@pid":"197/7180","text":"Hyunsub Song"},{"@pid":"39/6491","text":"Beomseok Nam"},{"@pid":"81/970","text":"Sam H. Noh"}]},"title":"WORT - Write Optimal Radix Tree for Persistent Memory Storage Systems.","venue":"FAST","pages":"257-270","year":"2017","type":"Conference and Workshop Papers","key":"conf/fast/LeeLSNN17","ee":"https://www.usenix.org/conference/fast17/technical-sessions/presentation/lee-se-kwon","url":"https://dblp.org/rec/conf/fast/LeeLSNN17"},
+"url":"URL#1320158"
+},
+{
+"@score":"1",
+"@id":"1320159",
+"info":{"authors":{"author":[{"@pid":"49/5981","text":"Yin Li"},{"@pid":"w/HaoWang42","text":"Hao Wang 0042"},{"@pid":"54/3054","text":"Xuebin Zhang"},{"@pid":"59/5646","text":"Ning Zheng"},{"@pid":"164/4211","text":"Shafa Dahandeh"},{"@pid":"07/4227-2","text":"Tong Zhang 0002"}]},"title":"Facilitating Magnetic Recording Technology Scaling for Data Center Hard Disk Drives through Filesystem-Level Transparent Local Erasure Coding.","venue":"FAST","pages":"135-148","year":"2017","type":"Conference and Workshop Papers","key":"conf/fast/LiWZZD017","ee":"https://www.usenix.org/conference/fast17/technical-sessions/presentation/li","url":"https://dblp.org/rec/conf/fast/LiWZZD017"},
+"url":"URL#1320159"
+},
+{
+"@score":"1",
+"@id":"1320160",
+"info":{"authors":{"author":[{"@pid":"43/6690-1","text":"Hang Liu 0001"},{"@pid":"39/560","text":"H. Howie Huang"}]},"title":"Graphene - Fine-Grained IO Management for Graph Computing.","venue":"FAST","pages":"285-300","year":"2017","type":"Conference and Workshop Papers","key":"conf/fast/LiuH17","ee":"https://www.usenix.org/conference/fast17/technical-sessions/presentation/liu","url":"https://dblp.org/rec/conf/fast/LiuH17"},
+"url":"URL#1320160"
+},
+{
+"@score":"1",
+"@id":"1320161",
+"info":{"authors":{"author":[{"@pid":"46/9716","text":"Salman Niazi"},{"@pid":"128/1882","text":"Mahmoud Ismail"},{"@pid":"h/SeifHaridi","text":"Seif Haridi"},{"@pid":"d/JimDowling","text":"Jim Dowling"},{"@pid":"182/1928","text":"Steffen Grohsschmiedt"},{"@pid":"67/5612","text":"Mikael Ronström"}]},"title":"HopsFS - Scaling Hierarchical File System Metadata Using NewSQL Databases.","venue":"FAST","pages":"89-104","year":"2017","type":"Conference and Workshop Papers","key":"conf/fast/NiaziIHDGR17","ee":"https://www.usenix.org/conference/fast17/technical-sessions/presentation/niazi","url":"https://dblp.org/rec/conf/fast/NiaziIHDGR17"},
+"url":"URL#1320161"
+},
+{
+"@score":"1",
+"@id":"1320162",
+"info":{"authors":{"author":[{"@pid":"135/6845","text":"Thanumalayan Sankaranarayana Pillai"},{"@pid":"154/0847","text":"Ramnatthan Alagappan"},{"@pid":"60/378","text":"Lanyue Lu"},{"@pid":"07/10563","text":"Vijay Chidambaram"},{"@pid":"a/AndreaCArpaciDusseau","text":"Andrea C. Arpaci-Dusseau"},{"@pid":"a/RemziHArpaciDusseau","text":"Remzi H. Arpaci-Dusseau"}]},"title":"Application Crash Consistency and Performance with CCFS.","venue":"FAST","pages":"181-196","year":"2017","type":"Conference and Workshop Papers","key":"conf/fast/PillaiALCAA17","ee":"https://www.usenix.org/conference/fast17/technical-sessions/presentation/pillai","url":"https://dblp.org/rec/conf/fast/PillaiALCAA17"},
+"url":"URL#1320162"
+},
+{
+"@score":"1",
+"@id":"1320163",
+"info":{"authors":{"author":[{"@pid":"150/0554","text":"Zhaoyan Shen"},{"@pid":"21/3047-5","text":"Feng Chen 0005"},{"@pid":"116/8410","text":"Yichen Jia"},{"@pid":"08/6845","text":"Zili Shao"}]},"title":"DIDACache - A Deep Integration of Device and Application for Flash Based Key-Value Caching.","venue":"FAST","pages":"391-405","year":"2017","type":"Conference and Workshop Papers","key":"conf/fast/ShenCJS17","ee":"https://www.usenix.org/conference/fast17/technical-sessions/presentation/shen","url":"https://dblp.org/rec/conf/fast/ShenCJS17"},
+"url":"URL#1320163"
+},
+{
+"@score":"1",
+"@id":"1320164",
+"info":{"authors":{"author":[{"@pid":"80/8752","text":"Raúl Gracia Tinedo"},{"@pid":"169/8816","text":"Josep Sampé"},{"@pid":"173/0608","text":"Edgar Zamora-Gómez"},{"@pid":"69/1023","text":"Marc Sánchez Artigas"},{"@pid":"63/4811","text":"Pedro García López"},{"@pid":"28/3824","text":"Yosef Moatti"},{"@pid":"69/3567","text":"Eran Rom"}]},"title":"Crystal - Software-Defined Storage for Multi-Tenant Object Stores.","venue":"FAST","pages":"243-256","year":"2017","type":"Conference and Workshop Papers","key":"conf/fast/TinedoSZALMR17","ee":"https://www.usenix.org/conference/fast17/technical-sessions/presentation/gracia-tinedo","url":"https://dblp.org/rec/conf/fast/TinedoSZALMR17"},
+"url":"URL#1320164"
+},
+{
+"@score":"1",
+"@id":"1320165",
+"info":{"authors":{"author":[{"@pid":"181/8119","text":"Bharath Kumar Reddy Vangoor"},{"@pid":"73/5769","text":"Vasily Tarasov"},{"@pid":"71/1341","text":"Erez Zadok"}]},"title":"To FUSE or Not to FUSE - Performance of User-Space File Systems.","venue":"FAST","pages":"59-72","year":"2017","type":"Conference and Workshop Papers","key":"conf/fast/VangoorTZ17","ee":"https://www.usenix.org/conference/fast17/technical-sessions/presentation/vangoor","url":"https://dblp.org/rec/conf/fast/VangoorTZ17"},
+"url":"URL#1320165"
+},
+{
+"@score":"1",
+"@id":"1320166",
+"info":{"authors":{"author":[{"@pid":"48/4559","text":"Jake Wires"},{"@pid":"70/5879","text":"Andrew Warfield"}]},"title":"Mirador - An Active Control Plane for Datacenter Storage.","venue":"FAST","pages":"213-228","year":"2017","type":"Conference and Workshop Papers","key":"conf/fast/WiresW17","ee":"https://www.usenix.org/conference/fast17/technical-sessions/presentation/wires","url":"https://dblp.org/rec/conf/fast/WiresW17"},
+"url":"URL#1320166"
+},
+{
+"@score":"1",
+"@id":"1320167",
+"info":{"authors":{"author":[{"@pid":"197/7187","text":"Shiqin Yan"},{"@pid":"197/7182","text":"Huaicheng Li"},{"@pid":"141/9091","text":"Mingzhe Hao"},{"@pid":"197/7183","text":"Michael Hao Tong"},{"@pid":"06/3975","text":"Swaminathan Sundararaman"},{"@pid":"c/AAChien","text":"Andrew A. Chien"},{"@pid":"84/5664","text":"Haryadi S. Gunawi"}]},"title":"Tiny-Tail Flash - Near-Perfect Elimination of Garbage Collection Tail Latencies in NAND SSDs.","venue":"FAST","pages":"15-28","year":"2017","type":"Conference and Workshop Papers","key":"conf/fast/YanLHTSCG17","ee":"https://www.usenix.org/conference/fast17/technical-sessions/presentation/yan","url":"https://dblp.org/rec/conf/fast/YanLHTSCG17"},
+"url":"URL#1320167"
+},
+{
+"@score":"1",
+"@id":"1433368",
+"info":{"authors":{"author":[{"@pid":"44/5151","text":"Geoff Kuenning"},{"@pid":"40/1118","text":"Carl A. Waldspurger"}]},"title":"15th USENIX Conference on File and Storage Technologies, FAST 2017, Santa Clara, CA, USA, February 27 - March 2, 2017","venue":"FAST","publisher":"USENIX Association","year":"2017","type":"Editorship","key":"conf/fast/2017","ee":"https://www.usenix.org/conference/fast17","url":"https://dblp.org/rec/conf/fast/2017"},
+"url":"URL#1433368"
+}
+]
+}
+}
+}

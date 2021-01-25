@@ -1,0 +1,158 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"sosp\"/\"sosp89\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"102.83"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"21",
+"@dc":"21",
+"@oc":"21",
+"@id":"17587914",
+"text":":facetid:toc:db/conf/sosp/sosp89.bht"
+}
+},
+"hits":{
+"@total":"21",
+"@computed":"21",
+"@sent":"21",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"5259765",
+"info":{"authors":{"author":[{"@pid":"74/1476","text":"Vadim Abrossimov"},{"@pid":"04/1812","text":"Marc Rozier"},{"@pid":"s/MarcShapiro","text":"Marc Shapiro 0001"}]},"title":"Generic Virtual Memory Management for Operating System Kernels.","venue":"SOSP","pages":"123-136","year":"1989","type":"Conference and Workshop Papers","key":"conf/sosp/AbrossimovR89","doi":"10.1145/74850.74863","ee":"https://doi.org/10.1145/74850.74863","url":"https://dblp.org/rec/conf/sosp/AbrossimovR89"},
+"url":"URL#5259765"
+},
+{
+"@score":"1",
+"@id":"5259766",
+"info":{"authors":{"author":[{"@pid":"19/2920","text":"Ronald E. Barkley"},{"@pid":"25/4350","text":"T. Paul Lee"}]},"title":"A Lazy Buddy System Bounded by Two Coalescing Delays per Class.","venue":"SOSP","pages":"167-176","year":"1989","type":"Conference and Workshop Papers","key":"conf/sosp/BarkleyL89","doi":"10.1145/74850.74867","ee":"https://doi.org/10.1145/74850.74867","url":"https://dblp.org/rec/conf/sosp/BarkleyL89"},
+"url":"URL#5259766"
+},
+{
+"@score":"1",
+"@id":"5259767",
+"info":{"authors":{"author":[{"@pid":"b/BNBershad","text":"Brian N. Bershad"},{"@pid":"a/ThomasEAnderson","text":"Thomas E. Anderson"},{"@pid":"l/EDLazowska","text":"Edward D. Lazowska"},{"@pid":"l/HenryMLevy","text":"Henry M. Levy"}]},"title":"Lightweight Remote Procedure Call.","venue":"SOSP","pages":"102-113","year":"1989","type":"Conference and Workshop Papers","key":"conf/sosp/BershadALL89","doi":"10.1145/74850.74861","ee":"https://doi.org/10.1145/74850.74861","url":"https://dblp.org/rec/conf/sosp/BershadALL89"},
+"url":"URL#5259767"
+},
+{
+"@score":"1",
+"@id":"5259768",
+"info":{"authors":{"author":[{"@pid":"b/WJBolosky","text":"William J. Bolosky"},{"@pid":"43/1260","text":"Robert P. Fitzgerald"},{"@pid":"s/MichaelLScott","text":"Michael L. Scott"}]},"title":"Simple But Effective Techniques for NUMA Memory Management.","venue":"SOSP","pages":"19-31","year":"1989","type":"Conference and Workshop Papers","key":"conf/sosp/BoloskyFS89","doi":"10.1145/74850.74854","ee":"https://doi.org/10.1145/74850.74854","url":"https://dblp.org/rec/conf/sosp/BoloskyFS89"},
+"url":"URL#5259768"
+},
+{
+"@score":"1",
+"@id":"5259769",
+"info":{"authors":{"author":[{"@pid":"74/3086","text":"Andrew Braunstein"},{"@pid":"65/2586","text":"Mark Riley"},{"@pid":"w/JohnWilkes","text":"John Wilkes"}]},"title":"Improving the Efficiency of UNIX File Buffer Caches.","venue":"SOSP","pages":"71-82","year":"1989","type":"Conference and Workshop Papers","key":"conf/sosp/BraunsteinRW89","doi":"10.1145/74850.74858","ee":"https://doi.org/10.1145/74850.74858","url":"https://dblp.org/rec/conf/sosp/BraunsteinRW89"},
+"url":"URL#5259769"
+},
+{
+"@score":"1",
+"@id":"5259770",
+"info":{"authors":{"author":[{"@pid":"73/615","text":"Michael Burrows"},{"@pid":"a/MartinAbadi","text":"Martín Abadi"},{"@pid":"n/RogerNeedham","text":"Roger M. Needham"}]},"title":"A Logic of Authentication.","venue":"SOSP","pages":"1-13","year":"1989","type":"Conference and Workshop Papers","key":"conf/sosp/BurrowsAN89","doi":"10.1145/74850.74852","ee":"https://doi.org/10.1145/74850.74852","url":"https://dblp.org/rec/conf/sosp/BurrowsAN89"},
+"url":"URL#5259770"
+},
+{
+"@score":"1",
+"@id":"5259771",
+"info":{"authors":{"author":[{"@pid":"c/JSChase","text":"Jeffrey S. Chase"},{"@pid":"03/3444","text":"Franz G. Amador"},{"@pid":"l/EDLazowska","text":"Edward D. Lazowska"},{"@pid":"l/HenryMLevy","text":"Henry M. Levy"},{"@pid":"72/2095","text":"Richard J. Littlefield"}]},"title":"The Amber System - Parallel Programming on a Network of Multiprocessors.","venue":"SOSP","pages":"147-158","year":"1989","type":"Conference and Workshop Papers","key":"conf/sosp/ChaseALLL89","doi":"10.1145/74850.74865","ee":"https://doi.org/10.1145/74850.74865","url":"https://dblp.org/rec/conf/sosp/ChaseALLL89"},
+"url":"URL#5259771"
+},
+{
+"@score":"1",
+"@id":"5259772",
+"info":{"authors":{"author":[{"@pid":"c/AlanLCox","text":"Alan L. Cox"},{"@pid":"82/3240","text":"Robert J. Fowler"}]},"title":"The Implementation of a Coherent Memory Abstraction on a NUMA Multiprocessor - Experiences with PLATINUM.","venue":"SOSP","pages":"32-44","year":"1989","type":"Conference and Workshop Papers","key":"conf/sosp/CoxF89","doi":"10.1145/74850.74855","ee":"https://doi.org/10.1145/74850.74855","url":"https://dblp.org/rec/conf/sosp/CoxF89"},
+"url":"URL#5259772"
+},
+{
+"@score":"1",
+"@id":"5259773",
+"info":{"authors":{"author":{"@pid":"d/DanDuchamp","text":"Dan Duchamp"}},"title":"Analysis of Transaction Management Performance.","venue":"SOSP","pages":"177-190","year":"1989","type":"Conference and Workshop Papers","key":"conf/sosp/Duchamp89","doi":"10.1145/74850.74868","ee":"https://doi.org/10.1145/74850.74868","url":"https://dblp.org/rec/conf/sosp/Duchamp89"},
+"url":"URL#5259773"
+},
+{
+"@score":"1",
+"@id":"5259774",
+"info":{"authors":{"author":[{"@pid":"09/1471","text":"David A. Edwards"},{"@pid":"27/1471","text":"Martin S. McKendry"}]},"title":"Exploiting Read-Mostly Workloads in The FileNet File System.","venue":"SOSP","pages":"58-70","year":"1989","type":"Conference and Workshop Papers","key":"conf/sosp/EdwardsM89","doi":"10.1145/74850.74857","ee":"https://doi.org/10.1145/74850.74857","url":"https://dblp.org/rec/conf/sosp/EdwardsM89"},
+"url":"URL#5259774"
+},
+{
+"@score":"1",
+"@id":"5259775",
+"info":{"authors":{"author":[{"@pid":"f/BrettDFleisch","text":"Brett D. Fleisch"},{"@pid":"62/6214","text":"Gerald J. Popek"}]},"title":"Mirage - A Coherent Distributed Shared Memory Design.","venue":"SOSP","pages":"211-223","year":"1989","type":"Conference and Workshop Papers","key":"conf/sosp/FleischP89","doi":"10.1145/74850.74871","ee":"https://doi.org/10.1145/74850.74871","url":"https://dblp.org/rec/conf/sosp/FleischP89"},
+"url":"URL#5259775"
+},
+{
+"@score":"1",
+"@id":"5259776",
+"info":{"authors":{"author":[{"@pid":"47/950","text":"Cary G. Gray"},{"@pid":"c/DRCheriton","text":"David R. Cheriton"}]},"title":"Leases - An Efficient Fault-Tolerant Mechanism for Distributed File Cache Consistency.","venue":"SOSP","pages":"202-210","year":"1989","type":"Conference and Workshop Papers","key":"conf/sosp/GrayC89","doi":"10.1145/74850.74870","ee":"https://doi.org/10.1145/74850.74870","url":"https://dblp.org/rec/conf/sosp/GrayC89"},
+"url":"URL#5259776"
+},
+{
+"@score":"1",
+"@id":"5259777",
+"info":{"authors":{"author":[{"@pid":"40/920","text":"Norman C. Hutchinson"},{"@pid":"p/LLPeterson","text":"Larry L. Peterson"},{"@pid":"46/4532","text":"Mark B. Abbott"},{"@pid":"93/1254","text":"Sean W. O&apos;Malley"}]},"title":"RPC in the x-Kernel - Evaluating New Design Techniques.","venue":"SOSP","pages":"91-101","year":"1989","type":"Conference and Workshop Papers","key":"conf/sosp/HutchinsonPAO89","doi":"10.1145/74850.74860","ee":"https://doi.org/10.1145/74850.74860","url":"https://dblp.org/rec/conf/sosp/HutchinsonPAO89"},
+"url":"URL#5259777"
+},
+{
+"@score":"1",
+"@id":"5259778",
+"info":{"authors":{"author":[{"@pid":"15/3130","text":"T. Mark A. Lomas"},{"@pid":"46/6786","text":"Li Gong"},{"@pid":"s/JeromeHSaltzer","text":"Jerome H. Saltzer"},{"@pid":"n/RogerNeedham","text":"Roger M. Needham"}]},"title":"Reducing Risks from Poorly Chosen Keys.","venue":"SOSP","pages":"14-18","year":"1989","type":"Conference and Workshop Papers","key":"conf/sosp/LomasGSN89","doi":"10.1145/74850.74853","ee":"https://doi.org/10.1145/74850.74853","url":"https://dblp.org/rec/conf/sosp/LomasGSN89"},
+"url":"URL#5259778"
+},
+{
+"@score":"1",
+"@id":"5259779",
+"info":{"authors":{"author":[{"@pid":"66/5507","text":"Henry Massalin"},{"@pid":"p/CaltonPu","text":"Calton Pu"}]},"title":"Threads and Input/Output in the Synthesis Kernel.","venue":"SOSP","pages":"191-201","year":"1989","type":"Conference and Workshop Papers","key":"conf/sosp/MassalinP89","doi":"10.1145/74850.74869","ee":"https://doi.org/10.1145/74850.74869","url":"https://dblp.org/rec/conf/sosp/MassalinP89"},
+"url":"URL#5259779"
+},
+{
+"@score":"1",
+"@id":"5259780",
+"info":{"authors":{"author":{"@pid":"54/7010","text":"Bryan S. Rosenburg"}},"title":"Low-Synchronization Translation Lookaside Buffer Consistency in Large-Scale Shared-Memory Multiprocessors.","venue":"SOSP","pages":"137-146","year":"1989","type":"Conference and Workshop Papers","key":"conf/sosp/Rosenburg89","doi":"10.1145/74850.74864","ee":"https://doi.org/10.1145/74850.74864","url":"https://dblp.org/rec/conf/sosp/Rosenburg89"},
+"url":"URL#5259780"
+},
+{
+"@score":"1",
+"@id":"5259781",
+"info":{"authors":{"author":[{"@pid":"s/MichaelDSchroeder","text":"Michael D. Schroeder"},{"@pid":"73/615","text":"Michael Burrows"}]},"title":"Performance of Firefly RPC.","venue":"SOSP","pages":"83-90","year":"1989","type":"Conference and Workshop Papers","key":"conf/sosp/SchroederB89","doi":"10.1145/74850.74859","ee":"https://doi.org/10.1145/74850.74859","url":"https://dblp.org/rec/conf/sosp/SchroederB89"},
+"url":"URL#5259781"
+},
+{
+"@score":"1",
+"@id":"5259782",
+"info":{"authors":{"author":[{"@pid":"15/2307","text":"V. Srinivasan"},{"@pid":"m/JeffreyCMogul","text":"Jeffrey C. Mogul"}]},"title":"Spritely NFS - Experiments with Cache-Consistency Protocols.","venue":"SOSP","pages":"45-57","year":"1989","type":"Conference and Workshop Papers","key":"conf/sosp/SrinivasanM89","doi":"10.1145/74850.74856","ee":"https://doi.org/10.1145/74850.74856","url":"https://dblp.org/rec/conf/sosp/SrinivasanM89"},
+"url":"URL#5259782"
+},
+{
+"@score":"1",
+"@id":"5259783",
+"info":{"authors":{"author":[{"@pid":"73/1920","text":"Andrew Tucker"},{"@pid":"g/AnoopGupta","text":"Anoop Gupta"}]},"title":"Process Control and Scheduling Issues for Multiprogrammed Shared-Memory Multiprocessors.","venue":"SOSP","pages":"159-166","year":"1989","type":"Conference and Workshop Papers","key":"conf/sosp/TuckerG89","doi":"10.1145/74850.74866","ee":"https://doi.org/10.1145/74850.74866","url":"https://dblp.org/rec/conf/sosp/TuckerG89"},
+"url":"URL#5259783"
+},
+{
+"@score":"1",
+"@id":"5259784",
+"info":{"authors":{"author":[{"@pid":"w/MarkWeiser","text":"Mark D. Weiser"},{"@pid":"03/5860","text":"Alan J. Demers"},{"@pid":"h/CarlHHauser","text":"Carl Hauser"}]},"title":"The Portable Common Runtime Approach to Interoperability.","venue":"SOSP","pages":"114-122","year":"1989","type":"Conference and Workshop Papers","key":"conf/sosp/WeiserDH89","doi":"10.1145/74850.74862","ee":"https://doi.org/10.1145/74850.74862","url":"https://dblp.org/rec/conf/sosp/WeiserDH89"},
+"url":"URL#5259784"
+},
+{
+"@score":"1",
+"@id":"5260957",
+"info":{"authors":{"author":{"@pid":"a/GregoryRAndrews","text":"Gregory R. Andrews"}},"title":"Proceedings of the Twelfth ACM Symposium on Operating System Principles, SOSP 1989, The Wigwam, Litchfield Park, Arizona, USA, December 3-6, 1989","venue":"SOSP","publisher":"ACM","year":"1989","type":"Editorship","key":"conf/sosp/1989","doi":"10.1145/74850","ee":"https://doi.org/10.1145/74850","url":"https://dblp.org/rec/conf/sosp/1989"},
+"url":"URL#5260957"
+}
+]
+}
+}
+}

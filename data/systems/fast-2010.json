@@ -1,0 +1,164 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"fast\"/\"fast2010\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"96.93"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"22",
+"@dc":"22",
+"@oc":"22",
+"@id":"17561989",
+"text":":facetid:toc:db/conf/fast/fast2010.bht"
+}
+},
+"hits":{
+"@total":"22",
+"@computed":"22",
+"@sent":"22",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"3258706",
+"info":{"authors":{"author":[{"@pid":"45/8142","text":"Simona Boboila"},{"@pid":"76/3749","text":"Peter Desnoyers"}]},"title":"Write Endurance in Flash Drives - Measurements and Analysis.","venue":"FAST","pages":"115-128","year":"2010","type":"Conference and Workshop Papers","key":"conf/fast/BoboilaD10","ee":"http://www.usenix.org/events/fast10/tech/full_papers/boboila.pdf","url":"https://dblp.org/rec/conf/fast/BoboilaD10"},
+"url":"URL#3258706"
+},
+{
+"@score":"1",
+"@id":"3258708",
+"info":{"authors":{"author":[{"@pid":"06/715","text":"Marc Eshel"},{"@pid":"43/3416","text":"Roger L. Haskin"},{"@pid":"56/3008","text":"Dean Hildebrand"},{"@pid":"98/79","text":"Manoj Naik"},{"@pid":"60/1686","text":"Frank B. Schmuck"},{"@pid":"63/4429","text":"Renu Tewari"}]},"title":"Panache - A Parallel File System Cache for Global File Access.","venue":"FAST","pages":"155-168","year":"2010","type":"Conference and Workshop Papers","key":"conf/fast/EshelHHNST10","ee":"http://www.usenix.org/events/fast10/tech/full_papers/eshel.pdf","url":"https://dblp.org/rec/conf/fast/EshelHHNST10"},
+"url":"URL#3258708"
+},
+{
+"@score":"1",
+"@id":"3258710",
+"info":{"authors":{"author":[{"@pid":"87/1601","text":"Ajay Gulati"},{"@pid":"28/5197","text":"Chethan Kumar"},{"@pid":"05/6418","text":"Irfan Ahmad"},{"@pid":"29/8142","text":"Karan Kumar"}]},"title":"BASIL - Automated IO Load Balancing Across Storage Devices.","venue":"FAST","pages":"169-182","year":"2010","type":"Conference and Workshop Papers","key":"conf/fast/GulatiKAK10","ee":"http://www.usenix.org/events/fast10/tech/full_papers/gulati.pdf","url":"https://dblp.org/rec/conf/fast/GulatiKAK10"},
+"url":"URL#3258710"
+},
+{
+"@score":"1",
+"@id":"3258711",
+"info":{"authors":{"author":[{"@pid":"j/WJJosephson","text":"William K. Josephson"},{"@pid":"59/3870","text":"Lars Ailo Bongo"},{"@pid":"34/4662","text":"David Flynn"},{"@pid":"l/KaiLi1","text":"Kai Li 0001"}]},"title":"DFS - A File System for Virtualized Flash Storage.","venue":"FAST","pages":"85-100","year":"2010","type":"Conference and Workshop Papers","key":"conf/fast/JosephsonBFL10","ee":"http://www.usenix.org/events/fast10/tech/full_papers/josephson.pdf","url":"https://dblp.org/rec/conf/fast/JosephsonBFL10"},
+"url":"URL#3258711"
+},
+{
+"@score":"1",
+"@id":"3258712",
+"info":{"authors":{"author":[{"@pid":"33/8142","text":"Michael P. Kasick"},{"@pid":"80/323","text":"Jiaqi Tan"},{"@pid":"10/3954","text":"Rajeev Gandhi"},{"@pid":"n/PriyaNarasimhan","text":"Priya Narasimhan"}]},"title":"Black-Box Problem Diagnosis in Parallel File Systems.","venue":"FAST","pages":"43-56","year":"2010","type":"Conference and Workshop Papers","key":"conf/fast/KasickTGN10","ee":"http://www.usenix.org/events/fast10/tech/full_papers/kasick.pdf","url":"https://dblp.org/rec/conf/fast/KasickTGN10"},
+"url":"URL#3258712"
+},
+{
+"@score":"1",
+"@id":"3258714",
+"info":{"authors":{"author":[{"@pid":"22/4828","text":"Ricardo Koller"},{"@pid":"13/4977","text":"Raju Rangaswami"}]},"title":"I/O Deduplication - Utilizing Content Similarity to Improve I/O Performance.","venue":"FAST","pages":"211-224","year":"2010","type":"Conference and Workshop Papers","key":"conf/fast/KollerR10","ee":"http://www.usenix.org/events/fast10/tech/full_papers/koller.pdf","url":"https://dblp.org/rec/conf/fast/KollerR10"},
+"url":"URL#3258714"
+},
+{
+"@score":"1",
+"@id":"3258715",
+"info":{"authors":{"author":[{"@pid":"74/7252","text":"Erik Kruus"},{"@pid":"51/6366","text":"Cristian Ungureanu"},{"@pid":"23/7015","text":"Cezary Dubnicki"}]},"title":"Bimodal Content Defined Chunking for Backup Streams.","venue":"FAST","pages":"239-252","year":"2010","type":"Conference and Workshop Papers","key":"conf/fast/KruusUD10","ee":"http://www.usenix.org/events/fast10/tech/full_papers/kruus.pdf","url":"https://dblp.org/rec/conf/fast/KruusUD10"},
+"url":"URL#3258715"
+},
+{
+"@score":"1",
+"@id":"3258716",
+"info":{"authors":{"author":[{"@pid":"85/147","text":"Peter Macko"},{"@pid":"s/MargoISeltzer","text":"Margo I. Seltzer"},{"@pid":"s/KeithASmith","text":"Keith A. Smith"}]},"title":"Tracking Back References in a Write-Anywhere File System.","venue":"FAST","pages":"15-28","year":"2010","type":"Conference and Workshop Papers","key":"conf/fast/MackoSS10","ee":"http://www.usenix.org/events/fast10/tech/full_papers/macko.pdf","url":"https://dblp.org/rec/conf/fast/MackoSS10"},
+"url":"URL#3258716"
+},
+{
+"@score":"1",
+"@id":"3258717",
+"info":{"authors":{"author":[{"@pid":"23/4765","text":"Kiran-Kumar Muniswamy-Reddy"},{"@pid":"85/147","text":"Peter Macko"},{"@pid":"s/MargoISeltzer","text":"Margo I. Seltzer"}]},"title":"Provenance for the Cloud.","venue":"FAST","pages":"197-210","year":"2010","type":"Conference and Workshop Papers","key":"conf/fast/Muniswamy-ReddyMS10","ee":"http://www.usenix.org/events/fast10/tech/full_papers/muniswamy-reddy.pdf","url":"https://dblp.org/rec/conf/fast/Muniswamy-ReddyMS10"},
+"url":"URL#3258717"
+},
+{
+"@score":"1",
+"@id":"3258718",
+"info":{"authors":{"author":[{"@pid":"35/3425","text":"Alina Oprea"},{"@pid":"j/AriJuels","text":"Ari Juels"}]},"title":"A Clean-Slate Look at Disk Scrubbing.","venue":"FAST","pages":"57-70","year":"2010","type":"Conference and Workshop Papers","key":"conf/fast/OpreaJ10","ee":"http://www.usenix.org/events/fast10/tech/full_papers/oprea.pdf","url":"https://dblp.org/rec/conf/fast/OpreaJ10"},
+"url":"URL#3258718"
+},
+{
+"@score":"1",
+"@id":"3258719",
+"info":{"authors":{"author":[{"@pid":"61/5178","text":"Sarp Oral"},{"@pid":"89/1110","text":"Feiyi Wang"},{"@pid":"42/8142","text":"David Dillow"},{"@pid":"23/3104","text":"Galen M. Shipman"},{"@pid":"270/3920","text":"Ross G. Miller"},{"@pid":"89/7436","text":"Oleg Drokin"}]},"title":"Efficient Object Storage Journaling in a Distributed Parallel File System.","venue":"FAST","pages":"143-154","year":"2010","type":"Conference and Workshop Papers","key":"conf/fast/OralWDSMD10","ee":"http://www.usenix.org/events/fast10/tech/full_papers/oral.pdf","url":"https://dblp.org/rec/conf/fast/OralWDSMD10"},
+"url":"URL#3258719"
+},
+{
+"@score":"1",
+"@id":"3258720",
+"info":{"authors":{"author":[{"@pid":"s/BiancaSchroeder","text":"Bianca Schroeder"},{"@pid":"23/8142","text":"Sotirios Damouras"},{"@pid":"52/2893","text":"Phillipa Gill"}]},"title":"Understanding Latent Sector Errors and How to Protect Against Them.","venue":"FAST","pages":"71-84","year":"2010","type":"Conference and Workshop Papers","key":"conf/fast/SchroederDG10","ee":"http://www.usenix.org/events/fast10/tech/full_papers/schroeder.pdf","url":"https://dblp.org/rec/conf/fast/SchroederDG10"},
+"url":"URL#3258720"
+},
+{
+"@score":"1",
+"@id":"3258721",
+"info":{"authors":{"author":[{"@pid":"84/3804","text":"Priya Sehgal"},{"@pid":"73/5769","text":"Vasily Tarasov"},{"@pid":"71/1341","text":"Erez Zadok"}]},"title":"Evaluating Performance and Energy in File System Server Workloads.","venue":"FAST","pages":"253-266","year":"2010","type":"Conference and Workshop Papers","key":"conf/fast/SehgalTZ10","ee":"http://www.usenix.org/events/fast10/tech/full_papers/sehgal.pdf","url":"https://dblp.org/rec/conf/fast/SehgalTZ10"},
+"url":"URL#3258721"
+},
+{
+"@score":"1",
+"@id":"3258723",
+"info":{"authors":{"author":[{"@pid":"55/500","text":"Gokul Soundararajan"},{"@pid":"93/843","text":"Vijayan Prabhakaran"},{"@pid":"b/MBalakrishnan","text":"Mahesh Balakrishnan 0001"},{"@pid":"76/4863","text":"Ted Wobber"}]},"title":"Extending SSD Lifetimes with Disk-Based Write Caches.","venue":"FAST","pages":"101-114","year":"2010","type":"Conference and Workshop Papers","key":"conf/fast/SoundararajanPBW10","ee":"http://www.usenix.org/events/fast10/tech/full_papers/soundararajan.pdf","url":"https://dblp.org/rec/conf/fast/SoundararajanPBW10"},
+"url":"URL#3258723"
+},
+{
+"@score":"1",
+"@id":"3258724",
+"info":{"authors":{"author":[{"@pid":"06/3975","text":"Swaminathan Sundararaman"},{"@pid":"s/SriramSubramanian","text":"Sriram Subramanian"},{"@pid":"87/5546","text":"Abhishek Rajimwale"},{"@pid":"a/AndreaCArpaciDusseau","text":"Andrea C. Arpaci-Dusseau"},{"@pid":"a/RemziHArpaciDusseau","text":"Remzi H. Arpaci-Dusseau"},{"@pid":"s/MichaelMSwift","text":"Michael M. Swift"}]},"title":"Membrane - Operating System Support for Restartable File Systems.","venue":"FAST","pages":"281-294","year":"2010","type":"Conference and Workshop Papers","key":"conf/fast/SundararamanSRAAS10","ee":"http://www.usenix.org/events/fast10/tech/full_papers/sundararaman.pdf","url":"https://dblp.org/rec/conf/fast/SundararamanSRAAS10"},
+"url":"URL#3258724"
+},
+{
+"@score":"1",
+"@id":"3258725",
+"info":{"authors":{"author":[{"@pid":"25/65","text":"Tiankai Tu"},{"@pid":"60/89","text":"Charles A. Rendleman"},{"@pid":"50/3434","text":"Patrick J. Miller"},{"@pid":"06/3348","text":"Federico D. Sacerdoti"},{"@pid":"23/256","text":"Ron O. Dror"},{"@pid":"70/662","text":"David E. Shaw"}]},"title":"Accelerating Parallel Analysis of Scientific Simulation Data via Zazen.","venue":"FAST","pages":"129-142","year":"2010","type":"Conference and Workshop Papers","key":"conf/fast/TuRMSDS10","ee":"http://www.usenix.org/events/fast10/tech/full_papers/tu.pdf","url":"https://dblp.org/rec/conf/fast/TuRMSDS10"},
+"url":"URL#3258725"
+},
+{
+"@score":"1",
+"@id":"3258727",
+"info":{"authors":{"author":[{"@pid":"51/6366","text":"Cristian Ungureanu"},{"@pid":"91/2185","text":"Benjamin Atkin"},{"@pid":"60/3321","text":"Akshat Aranya"},{"@pid":"24/8142","text":"Salil Gokhale"},{"@pid":"43/4806","text":"Stephen Rago"},{"@pid":"30/8142","text":"Grzegorz Calkowski"},{"@pid":"23/7015","text":"Cezary Dubnicki"},{"@pid":"90/4643","text":"Aniruddha Bohra"}]},"title":"HydraFS - A High-Throughput File System for the HYDRAstor Content-Addressable Storage System.","venue":"FAST","pages":"225-238","year":"2010","type":"Conference and Workshop Papers","key":"conf/fast/UngureanuAAGRCDB10","ee":"http://www.usenix.org/events/fast10/tech/full_papers/ungureanu.pdf","url":"https://dblp.org/rec/conf/fast/UngureanuAAGRCDB10"},
+"url":"URL#3258727"
+},
+{
+"@score":"1",
+"@id":"3258728",
+"info":{"authors":{"author":[{"@pid":"52/1896","text":"Kaushik Veeraraghavan"},{"@pid":"14/85","text":"Jason Flinn"},{"@pid":"97/1336","text":"Edmund B. Nightingale"},{"@pid":"n/BrianDNoble","text":"Brian Noble"}]},"title":"quFiles - The Right File at the Right Time.","venue":"FAST","pages":"1-14","year":"2010","type":"Conference and Workshop Papers","key":"conf/fast/VeeraraghavanFNN10","ee":"http://www.usenix.org/events/fast10/tech/full_papers/veeraraghavan.pdf","url":"https://dblp.org/rec/conf/fast/VeeraraghavanFNN10"},
+"url":"URL#3258728"
+},
+{
+"@score":"1",
+"@id":"3258729",
+"info":{"authors":{"author":[{"@pid":"23/669","text":"Akshat Verma"},{"@pid":"22/4828","text":"Ricardo Koller"},{"@pid":"72/4561","text":"Luis Useche"},{"@pid":"13/4977","text":"Raju Rangaswami"}]},"title":"SRCMap - Energy Proportional Storage Using Dynamic Consolidation.","venue":"FAST","pages":"267-280","year":"2010","type":"Conference and Workshop Papers","key":"conf/fast/VermaKUR10","ee":"http://www.usenix.org/events/fast10/tech/full_papers/verma.pdf","url":"https://dblp.org/rec/conf/fast/VermaKUR10"},
+"url":"URL#3258729"
+},
+{
+"@score":"1",
+"@id":"3258730",
+"info":{"authors":{"author":[{"@pid":"36/8142","text":"Neeraja J. Yadwadkar"},{"@pid":"b/CBhattacharyya","text":"Chiranjib Bhattacharyya"},{"@pid":"48/2735","text":"Kanchi Gopinath"},{"@pid":"96/1802","text":"Thirumale Niranjan"},{"@pid":"59/5125","text":"Sai Susarla"}]},"title":"Discovery of Application Workloads from Network File Traces.","venue":"FAST","pages":"183-196","year":"2010","type":"Conference and Workshop Papers","key":"conf/fast/YadwadkarBGNS10","ee":"http://www.usenix.org/events/fast10/tech/full_papers/yadwadkar.pdf","url":"https://dblp.org/rec/conf/fast/YadwadkarBGNS10"},
+"url":"URL#3258730"
+},
+{
+"@score":"1",
+"@id":"3258732",
+"info":{"authors":{"author":[{"@pid":"33/7992","text":"Yupu Zhang"},{"@pid":"87/5546","text":"Abhishek Rajimwale"},{"@pid":"a/AndreaCArpaciDusseau","text":"Andrea C. Arpaci-Dusseau"},{"@pid":"a/RemziHArpaciDusseau","text":"Remzi H. Arpaci-Dusseau"}]},"title":"End-to-end Data Integrity for File Systems - A ZFS Case Study.","venue":"FAST","pages":"29-42","year":"2010","type":"Conference and Workshop Papers","key":"conf/fast/ZhangRAA10","ee":"http://www.usenix.org/events/fast10/tech/full_papers/zhang.pdf","url":"https://dblp.org/rec/conf/fast/ZhangRAA10"},
+"url":"URL#3258732"
+},
+{
+"@score":"1",
+"@id":"3350632",
+"info":{"authors":{"author":[{"@pid":"b/RandalCBurns","text":"Randal C. Burns"},{"@pid":"k/KimberlyKeeton","text":"Kimberly Keeton"}]},"title":"8th USENIX Conference on File and Storage Technologies, San Jose, CA, USA, February 23-26, 2010","venue":"FAST","publisher":"USENIX","year":"2010","type":"Editorship","key":"conf/fast/2010","url":"https://dblp.org/rec/conf/fast/2010"},
+"url":"URL#3350632"
+}
+]
+}
+}
+}

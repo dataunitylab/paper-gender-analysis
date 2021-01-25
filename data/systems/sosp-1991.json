@@ -1,0 +1,146 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"sosp\"/\"sosp91\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"118.71"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"19",
+"@dc":"19",
+"@oc":"19",
+"@id":"17587915",
+"text":":facetid:toc:db/conf/sosp/sosp91.bht"
+}
+},
+"hits":{
+"@total":"19",
+"@computed":"19",
+"@sent":"19",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"5209335",
+"info":{"authors":{"author":[{"@pid":"a/ThomasEAnderson","text":"Thomas E. Anderson"},{"@pid":"b/BNBershad","text":"Brian N. Bershad"},{"@pid":"l/EDLazowska","text":"Edward D. Lazowska"},{"@pid":"l/HenryMLevy","text":"Henry M. Levy"}]},"title":"Scheduler Activations - Effective Kernel Support for the User-Level Management of Parallelism.","venue":"SOSP","pages":"95-109","year":"1991","type":"Conference and Workshop Papers","key":"conf/sosp/AndersonBLL91","doi":"10.1145/121132.121151","ee":"https://doi.org/10.1145/121132.121151","url":"https://dblp.org/rec/conf/sosp/AndersonBLL91"},
+"url":"URL#5209335"
+},
+{
+"@score":"1",
+"@id":"5209336",
+"info":{"authors":{"author":[{"@pid":"b/MaryBaker","text":"Mary Baker"},{"@pid":"h/JohnHHartman","text":"John H. Hartman"},{"@pid":"90/2338","text":"Michael D. Kupfer"},{"@pid":"90/4169","text":"Ken Shirriff"},{"@pid":"o/JohnKOusterhout","text":"John K. Ousterhout"}]},"title":"Measurements of a Distributed File System.","venue":"SOSP","pages":"198-212","year":"1991","type":"Conference and Workshop Papers","key":"conf/sosp/BakerHKSO91","doi":"10.1145/121132.121164","ee":"https://doi.org/10.1145/121132.121164","url":"https://dblp.org/rec/conf/sosp/BakerHKSO91"},
+"url":"URL#5209336"
+},
+{
+"@score":"1",
+"@id":"5209337",
+"info":{"authors":{"author":[{"@pid":"c/JohnBCarter","text":"John B. Carter"},{"@pid":"b/JKBennett","text":"John K. Bennett"},{"@pid":"z/WZwaenepoel","text":"Willy Zwaenepoel"}]},"title":"Implementation and Performance of Munin.","venue":"SOSP","pages":"152-164","year":"1991","type":"Conference and Workshop Papers","key":"conf/sosp/CarterBZ91","doi":"10.1145/121132.121159","ee":"https://doi.org/10.1145/121132.121159","url":"https://dblp.org/rec/conf/sosp/CarterBZ91"},
+"url":"URL#5209337"
+},
+{
+"@score":"1",
+"@id":"5209338",
+"info":{"authors":{"author":[{"@pid":"09/5874","text":"Richard Draves"},{"@pid":"b/BNBershad","text":"Brian N. Bershad"},{"@pid":"r/RichardFRashid","text":"Richard F. Rashid"},{"@pid":"17/6120","text":"Randall W. Dean"}]},"title":"Using Continuations to Implement Thread Management and Communication in Operating Systems.","venue":"SOSP","pages":"122-136","year":"1991","type":"Conference and Workshop Papers","key":"conf/sosp/DravesBRD91","doi":"10.1145/121132.121155","ee":"https://doi.org/10.1145/121132.121155","url":"https://dblp.org/rec/conf/sosp/DravesBRD91"},
+"url":"URL#5209338"
+},
+{
+"@score":"1",
+"@id":"5209339",
+"info":{"authors":{"author":[{"@pid":"g/DavidKGifford","text":"David K. Gifford"},{"@pid":"79/630","text":"Pierre Jouvelot"},{"@pid":"74/2146","text":"Mark A. Sheldon"},{"@pid":"88/6703","text":"James O&apos;Toole"}]},"title":"Semantic File Systems.","venue":"SOSP","pages":"16-25","year":"1991","type":"Conference and Workshop Papers","key":"conf/sosp/GiffordJSO91","doi":"10.1145/121132.121138","ee":"https://doi.org/10.1145/121132.121138","url":"https://dblp.org/rec/conf/sosp/GiffordJSO91"},
+"url":"URL#5209339"
+},
+{
+"@score":"1",
+"@id":"5209340",
+"info":{"authors":{"author":[{"@pid":"g/RameshGovindan","text":"Ramesh Govindan"},{"@pid":"00/4091","text":"David P. Anderson"}]},"title":"Scheduling and IPC Mechanisms for Continuous Media.","venue":"SOSP","pages":"68-80","year":"1991","type":"Conference and Workshop Papers","key":"conf/sosp/GovindanA91","doi":"10.1145/121132.121147","ee":"https://doi.org/10.1145/121132.121147","url":"https://dblp.org/rec/conf/sosp/GovindanA91"},
+"url":"URL#5209340"
+},
+{
+"@score":"1",
+"@id":"5209341",
+"info":{"authors":{"author":[{"@pid":"k/AnnaRKarlin","text":"Anna R. Karlin"},{"@pid":"l/KaiLi1","text":"Kai Li 0001"},{"@pid":"m/MarkSManasse","text":"Mark S. Manasse"},{"@pid":"06/3161","text":"Susan S. Owicki"}]},"title":"Empirical Studies of Competitive Spinning for a Shared-Memory Multiprocessor.","venue":"SOSP","pages":"41-55","year":"1991","type":"Conference and Workshop Papers","key":"conf/sosp/KarlinLMO91","doi":"10.1145/121132.286599","ee":"https://doi.org/10.1145/121132.286599","url":"https://dblp.org/rec/conf/sosp/KarlinLMO91"},
+"url":"URL#5209341"
+},
+{
+"@score":"1",
+"@id":"5209342",
+"info":{"authors":{"author":[{"@pid":"12/56","text":"James J. Kistler"},{"@pid":"s/MahadevSatyanarayanan","text":"Mahadev Satyanarayanan"}]},"title":"Disconnected Operation in the Coda File System.","venue":"SOSP","pages":"213-225","year":"1991","type":"Conference and Workshop Papers","key":"conf/sosp/KistlerS91","doi":"10.1145/121132.121166","ee":"https://doi.org/10.1145/121132.121166","url":"https://dblp.org/rec/conf/sosp/KistlerS91"},
+"url":"URL#5209342"
+},
+{
+"@score":"1",
+"@id":"5209343",
+"info":{"authors":{"author":[{"@pid":"53/2531","text":"Richard P. LaRowe Jr."},{"@pid":"e/CSEllis","text":"Carla Schlatter Ellis"},{"@pid":"16/6459","text":"Laurence S. Kaplan"}]},"title":"The Robustness of NUMA Memory Management.","venue":"SOSP","pages":"137-151","year":"1991","type":"Conference and Workshop Papers","key":"conf/sosp/LaRoweEK91","doi":"10.1145/121132.121158","ee":"https://doi.org/10.1145/121132.121158","url":"https://dblp.org/rec/conf/sosp/LaRoweEK91"},
+"url":"URL#5209343"
+},
+{
+"@score":"1",
+"@id":"5209344",
+"info":{"authors":{"author":[{"@pid":"l/ButlerWLampson","text":"Butler W. Lampson"},{"@pid":"a/MartinAbadi","text":"Martín Abadi"},{"@pid":"73/615","text":"Michael Burrows"},{"@pid":"88/1825","text":"Edward Wobber"}]},"title":"Authentication in Distributed Systems - Theory and Practice.","venue":"SOSP","pages":"165-182","year":"1991","type":"Conference and Workshop Papers","key":"conf/sosp/LampsonABW91","doi":"10.1145/121132.121160","ee":"https://doi.org/10.1145/121132.121160","url":"https://dblp.org/rec/conf/sosp/LampsonABW91"},
+"url":"URL#5209344"
+},
+{
+"@score":"1",
+"@id":"5209345",
+"info":{"authors":{"author":[{"@pid":"l/BarbaraLiskov","text":"Barbara Liskov"},{"@pid":"g/SGhemawat","text":"Sanjay Ghemawat"},{"@pid":"g/RobertGruber","text":"Robert Gruber"},{"@pid":"38/2987-1","text":"Paul Johnson 0001"},{"@pid":"s/LiubaShrira","text":"Liuba Shrira"},{"@pid":"55/6103","text":"Michael Williams"}]},"title":"Replication in the Harp File System.","venue":"SOSP","pages":"226-238","year":"1991","type":"Conference and Workshop Papers","key":"conf/sosp/LiskovGGJSW91","doi":"10.1145/121132.121169","ee":"https://doi.org/10.1145/121132.121169","url":"https://dblp.org/rec/conf/sosp/LiskovGGJSW91"},
+"url":"URL#5209345"
+},
+{
+"@score":"1",
+"@id":"5209346",
+"info":{"authors":{"author":[{"@pid":"15/4610","text":"Brian D. Marsh"},{"@pid":"s/MichaelLScott","text":"Michael L. Scott"},{"@pid":"77/2432","text":"Thomas J. LeBlanc"},{"@pid":"m/EvangelosPMarkatos","text":"Evangelos P. Markatos"}]},"title":"First-Class User-Level Theads.","venue":"SOSP","pages":"110-121","year":"1991","type":"Conference and Workshop Papers","key":"conf/sosp/MarshSLM91","doi":"10.1145/121132.344329","ee":"https://doi.org/10.1145/121132.344329","url":"https://dblp.org/rec/conf/sosp/MarshSLM91"},
+"url":"URL#5209346"
+},
+{
+"@score":"1",
+"@id":"5209347",
+"info":{"authors":{"author":[{"@pid":"55/3013","text":"Keith Muller"},{"@pid":"p/JPasquale","text":"Joseph Pasquale"}]},"title":"A High Performance Multi-Structured File System Design.","venue":"SOSP","pages":"56-67","year":"1991","type":"Conference and Workshop Papers","key":"conf/sosp/MullerP91","doi":"10.1145/121132.286600","ee":"https://doi.org/10.1145/121132.286600","url":"https://dblp.org/rec/conf/sosp/MullerP91"},
+"url":"URL#5209347"
+},
+{
+"@score":"1",
+"@id":"5209348",
+"info":{"authors":{"author":[{"@pid":"r/PVRangan","text":"P. Venkat Rangan"},{"@pid":"v/HarrickMVin","text":"Harrick M. Vin"}]},"title":"Designing File Systems for Digital Video and Audio.","venue":"SOSP","pages":"81-94","year":"1991","type":"Conference and Workshop Papers","key":"conf/sosp/RanganV91","doi":"10.1145/121132.121149","ee":"https://doi.org/10.1145/121132.121149","url":"https://dblp.org/rec/conf/sosp/RanganV91"},
+"url":"URL#5209348"
+},
+{
+"@score":"1",
+"@id":"5209349",
+"info":{"authors":{"author":[{"@pid":"r/TLRodeheffer","text":"Thomas L. Rodeheffer"},{"@pid":"s/MichaelDSchroeder","text":"Michael D. Schroeder"}]},"title":"Automatic Reconfiguration in Autonet.","venue":"SOSP","pages":"183-197","year":"1991","type":"Conference and Workshop Papers","key":"conf/sosp/RodehefferS91","doi":"10.1145/121132.121162","ee":"https://doi.org/10.1145/121132.121162","url":"https://dblp.org/rec/conf/sosp/RodehefferS91"},
+"url":"URL#5209349"
+},
+{
+"@score":"1",
+"@id":"5209350",
+"info":{"authors":{"author":[{"@pid":"r/MendelRosenblum","text":"Mendel Rosenblum"},{"@pid":"o/JohnKOusterhout","text":"John K. Ousterhout"}]},"title":"The Design and Implementation of a Log-Structured File System.","venue":"SOSP","pages":"1-15","year":"1991","type":"Conference and Workshop Papers","key":"conf/sosp/RosenblumO91","doi":"10.1145/121132.121137","ee":"https://doi.org/10.1145/121132.121137","url":"https://dblp.org/rec/conf/sosp/RosenblumO91"},
+"url":"URL#5209350"
+},
+{
+"@score":"1",
+"@id":"5209351",
+"info":{"authors":{"author":[{"@pid":"60/1686","text":"Frank B. Schmuck"},{"@pid":"21/89","text":"James C. Wyllie"}]},"title":"Experience with Transactions in QuickSilver.","venue":"SOSP","pages":"239-253","year":"1991","type":"Conference and Workshop Papers","key":"conf/sosp/SchmuckW91","doi":"10.1145/121132.121171","ee":"https://doi.org/10.1145/121132.121171","url":"https://dblp.org/rec/conf/sosp/SchmuckW91"},
+"url":"URL#5209351"
+},
+{
+"@score":"1",
+"@id":"5209352",
+"info":{"authors":{"author":[{"@pid":"97/1861","text":"Raj Vaswani"},{"@pid":"z/JZahorjan","text":"John Zahorjan"}]},"title":"The Implications of Cache Affinity on Processor Scheduling for Multiprogrammed, Shared Memory Multiprocessors.","venue":"SOSP","pages":"26-40","year":"1991","type":"Conference and Workshop Papers","key":"conf/sosp/VaswaniZ91","doi":"10.1145/121132.121140","ee":"https://doi.org/10.1145/121132.121140","url":"https://dblp.org/rec/conf/sosp/VaswaniZ91"},
+"url":"URL#5209352"
+},
+{
+"@score":"1",
+"@id":"5211377",
+"info":{"authors":{"author":{"@pid":"l/HenryMLevy","text":"Henry M. Levy"}},"title":"Proceedings of the Thirteenth ACM Symposium on Operating System Principles, SOSP 1991, Asilomar Conference Center, Pacific Grove, California, USA, October 13-16, 1991","venue":"SOSP","publisher":"ACM","year":"1991","type":"Editorship","key":"conf/sosp/1991","doi":"10.1145/121132","ee":"https://doi.org/10.1145/121132","url":"https://dblp.org/rec/conf/sosp/1991"},
+"url":"URL#5211377"
+}
+]
+}
+}
+}

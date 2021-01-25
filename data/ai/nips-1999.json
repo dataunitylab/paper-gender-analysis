@@ -1,0 +1,938 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"nips\"/\"nips1999\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"118.32"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"151",
+"@dc":"151",
+"@oc":"151",
+"@id":"17580115",
+"text":":facetid:toc:db/conf/nips/nips1999.bht"
+}
+},
+"hits":{
+"@total":"151",
+"@computed":"151",
+"@sent":"151",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"4783155",
+"info":{"authors":{"author":[{"@pid":"67/1208","text":"Sara A. Solla"},{"@pid":"82/4320","text":"Todd K. Leen"},{"@pid":"m/KRMuller","text":"Klaus-Robert Müller"}]},"title":"Advances in Neural Information Processing Systems 12, [NIPS Conference, Denver, Colorado, USA, November 29 - December 4, 1999]","venue":"NIPS","publisher":"The MIT Press","year":"2000","type":"Editorship","key":"conf/nips/1999","ee":"https://proceedings.neurips.cc/paper/1999","url":"https://dblp.org/rec/conf/nips/1999"},
+"url":"URL#4783155"
+},
+{
+"@score":"1",
+"@id":"4841732",
+"info":{"authors":{"author":[{"@pid":"06/4056","text":"Péter Adorján"},{"@pid":"92/2096","text":"Lars Schwabe"},{"@pid":"36/4668","text":"Christian Piepenbrock"},{"@pid":"o/KlausObermayer","text":"Klaus Obermayer"}]},"title":"Recurrent Cortical Competition - Strengthen or Weaken?","venue":"NIPS","pages":"89-95","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/AdorjanSPO99","ee":"http://papers.nips.cc/paper/1676-recurrent-cortical-competition-strengthen-or-weaken","url":"https://dblp.org/rec/conf/nips/AdorjanSPO99"},
+"url":"URL#4841732"
+},
+{
+"@score":"1",
+"@id":"4841733",
+"info":{"authors":{"author":[{"@pid":"44/6667","text":"Christophe Andrieu"},{"@pid":"45/735","text":"João F. G. de Freitas"},{"@pid":"68/1628","text":"Arnaud Doucet"}]},"title":"Robust Full Bayesian Methods for Neural Networks.","venue":"NIPS","pages":"379-385","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/AndrieuFD99","ee":"http://papers.nips.cc/paper/1741-robust-full-bayesian-methods-for-neural-networks","url":"https://dblp.org/rec/conf/nips/AndrieuFD99"},
+"url":"URL#4841733"
+},
+{
+"@score":"1",
+"@id":"4841734",
+"info":{"authors":{"author":{"@pid":"a/HTAttias","text":"Hagai Attias"}},"title":"A Variational Baysian Framework for Graphical Models.","venue":"NIPS","pages":"209-215","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/Attias99","ee":"http://papers.nips.cc/paper/1726-a-variational-baysian-framework-for-graphical-models","url":"https://dblp.org/rec/conf/nips/Attias99"},
+"url":"URL#4841734"
+},
+{
+"@score":"1",
+"@id":"4841735",
+"info":{"authors":{"author":{"@pid":"a/HTAttias","text":"Hagai Attias"}},"title":"Independent Factor Analysis with Temporally Structured Sources.","venue":"NIPS","pages":"386-392","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/Attias99a","ee":"http://papers.nips.cc/paper/1682-independent-factor-analysis-with-temporally-structured-sources","url":"https://dblp.org/rec/conf/nips/Attias99a"},
+"url":"URL#4841735"
+},
+{
+"@score":"1",
+"@id":"4841736",
+"info":{"authors":{"author":[{"@pid":"06/7007","text":"Rembrandt Bakker"},{"@pid":"89/1673","text":"Jaap C. Schouten"},{"@pid":"95/6671","text":"Marc-Olivier Coppens"},{"@pid":"69/6552","text":"Floris Takens"},{"@pid":"g/CLeeGiles","text":"C. Lee Giles"},{"@pid":"33/46","text":"Cor M. van den Bleek"}]},"title":"Robust Learning of Chaotic Attractors.","venue":"NIPS","pages":"879-885","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/BakkerSCTGB99","ee":"http://papers.nips.cc/paper/1642-robust-learning-of-chaotic-attractors","url":"https://dblp.org/rec/conf/nips/BakkerSCTGB99"},
+"url":"URL#4841736"
+},
+{
+"@score":"1",
+"@id":"4841737",
+"info":{"authors":{"author":[{"@pid":"47/4760","text":"David Barber"},{"@pid":"36/3865","text":"Peter Sollich"}]},"title":"Gaussian Fields for Approximate Inference in Layered Sigmoid Belief Networks.","venue":"NIPS","pages":"393-399","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/BarberS99","ee":"http://papers.nips.cc/paper/1643-gaussian-fields-for-approximate-inference-in-layered-sigmoid-belief-networks","url":"https://dblp.org/rec/conf/nips/BarberS99"},
+"url":"URL#4841737"
+},
+{
+"@score":"1",
+"@id":"4841738",
+"info":{"authors":{"author":[{"@pid":"54/4284","text":"Marian Stewart Bartlett"},{"@pid":"01/6176","text":"Gianluca Donato"},{"@pid":"41/4458","text":"Javier R. Movellan"},{"@pid":"06/5829","text":"Joseph C. Hager"},{"@pid":"33/3130","text":"Paul Ekman"},{"@pid":"26/2197","text":"Terrence J. Sejnowski"}]},"title":"Image Representations for Facial Expression Coding.","venue":"NIPS","pages":"886-892","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/BartlettDMHES99","ee":"http://papers.nips.cc/paper/1785-image-representations-for-facial-expression-coding","url":"https://dblp.org/rec/conf/nips/BartlettDMHES99"},
+"url":"URL#4841738"
+},
+{
+"@score":"1",
+"@id":"4841739",
+"info":{"authors":{"author":[{"@pid":"04/6909","text":"Jessica D. Bayliss"},{"@pid":"68/6429","text":"Dana H. Ballard"}]},"title":"Recognizing Evoked Potentials in a Virtual Environment.","venue":"NIPS","pages":"3-9","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/BaylissB99","ee":"http://papers.nips.cc/paper/1683-recognizing-evoked-potentials-in-a-virtual-environment","url":"https://dblp.org/rec/conf/nips/BaylissB99"},
+"url":"URL#4841739"
+},
+{
+"@score":"1",
+"@id":"4841740",
+"info":{"authors":{"author":[{"@pid":"56/953","text":"Yoshua Bengio"},{"@pid":"b/SamyBengio","text":"Samy Bengio"}]},"title":"Modeling High-Dimensional Discrete Data with Multi-Layer Neural Networks.","venue":"NIPS","pages":"400-406","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/BengioB99","ee":"http://papers.nips.cc/paper/1679-modeling-high-dimensional-discrete-data-with-multi-layer-neural-networks","url":"https://dblp.org/rec/conf/nips/BengioB99"},
+"url":"URL#4841740"
+},
+{
+"@score":"1",
+"@id":"4841741",
+"info":{"authors":{"author":[{"@pid":"42/2803","text":"Thomas Briegel"},{"@pid":"t/VolkerTresp","text":"Volker Tresp"}]},"title":"Robust Neural Network Regression for Offline and Online Learning.","venue":"NIPS","pages":"407-413","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/BriegelT99","ee":"http://papers.nips.cc/paper/1768-robust-neural-network-regression-for-offline-and-online-learning","url":"https://dblp.org/rec/conf/nips/BriegelT99"},
+"url":"URL#4841741"
+},
+{
+"@score":"1",
+"@id":"4841742",
+"info":{"authors":{"author":{"@pid":"80/478","text":"Timothy X. Brown"}},"title":"Low Power Wireless Communication via Reinforcement Learning.","venue":"NIPS","pages":"893-899","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/Brown99","ee":"http://papers.nips.cc/paper/1740-low-power-wireless-communication-via-reinforcement-learning","url":"https://dblp.org/rec/conf/nips/Brown99"},
+"url":"URL#4841742"
+},
+{
+"@score":"1",
+"@id":"4841743",
+"info":{"authors":{"author":[{"@pid":"b/GuyJBrown","text":"Guy J. Brown"},{"@pid":"31/6085","text":"DeLiang L. Wang"}]},"title":"An Oscillatory Correlation Frame work for Computational Auditory Scene Analysis.","venue":"NIPS","pages":"747-753","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/BrownW99","ee":"http://papers.nips.cc/paper/1669-an-oscillatory-correlation-frame-work-for-computational-auditory-scene-analysis","url":"https://dblp.org/rec/conf/nips/BrownW99"},
+"url":"URL#4841743"
+},
+{
+"@score":"1",
+"@id":"4841744",
+"info":{"authors":{"author":[{"@pid":"b/JMBuhmann","text":"Joachim M. Buhmann"},{"@pid":"64/2983","text":"Marcus Held"}]},"title":"Model Selection in Clustering by Uniform Convergence Bounds.","venue":"NIPS","pages":"216-222","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/BuhmannH99","ee":"http://papers.nips.cc/paper/1674-model-selection-in-clustering-by-uniform-convergence-bounds","url":"https://dblp.org/rec/conf/nips/BuhmannH99"},
+"url":"URL#4841744"
+},
+{
+"@score":"1",
+"@id":"4841745",
+"info":{"authors":{"author":[{"@pid":"b/ChristopherJCBurges","text":"Christopher J. C. Burges"},{"@pid":"08/4664","text":"David J. Crisp"}]},"title":"Uniqueness of the SVM Solution.","venue":"NIPS","pages":"223-229","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/BurgesC99","ee":"http://papers.nips.cc/paper/1735-uniqueness-of-the-svm-solution","url":"https://dblp.org/rec/conf/nips/BurgesC99"},
+"url":"URL#4841745"
+},
+{
+"@score":"1",
+"@id":"4841746",
+"info":{"authors":{"author":{"@pid":"23/5257","text":"Miguel Á. Carreira-Perpiñán"}},"title":"Reconstruction of Sequential Data with Probabilistic Models and Continuity Constraints.","venue":"NIPS","pages":"414-420","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/Carreira-Perpinan99","ee":"http://papers.nips.cc/paper/1660-reconstruction-of-sequential-data-with-probabilistic-models-and-continuity-constraints","url":"https://dblp.org/rec/conf/nips/Carreira-Perpinan99"},
+"url":"URL#4841746"
+},
+{
+"@score":"1",
+"@id":"4841747",
+"info":{"authors":{"author":[{"@pid":"05/6290","text":"Olivier Chapelle"},{"@pid":"31/6484","text":"Vladimir Vapnik"}]},"title":"Model Selection for Support Vector Machines.","venue":"NIPS","pages":"230-236","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/ChapelleV99","ee":"http://papers.nips.cc/paper/1663-model-selection-for-support-vector-machines","url":"https://dblp.org/rec/conf/nips/ChapelleV99"},
+"url":"URL#4841747"
+},
+{
+"@score":"1",
+"@id":"4841748",
+"info":{"authors":{"author":[{"@pid":"05/6290","text":"Olivier Chapelle"},{"@pid":"31/6484","text":"Vladimir Vapnik"},{"@pid":"29/6977","text":"Jason Weston"}]},"title":"Transductive Inference for Estimating Values of Functions.","venue":"NIPS","pages":"421-427","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/ChapelleVW99","ee":"http://papers.nips.cc/paper/1699-transductive-inference-for-estimating-values-of-functions","url":"https://dblp.org/rec/conf/nips/ChapelleVW99"},
+"url":"URL#4841748"
+},
+{
+"@score":"1",
+"@id":"4841749",
+"info":{"authors":{"author":[{"@pid":"c/GalChechik","text":"Gal Chechik"},{"@pid":"48/228","text":"Isaac Meilijson"},{"@pid":"57/3862","text":"Eytan Ruppin"}]},"title":"Effective Learning Requires Neuronal Remodeling of Hebbian Synapses.","venue":"NIPS","pages":"96-102","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/ChechikMR99","ee":"http://papers.nips.cc/paper/1774-effective-learning-requires-neuronal-remodeling-of-hebbian-synapses","url":"https://dblp.org/rec/conf/nips/ChechikMR99"},
+"url":"URL#4841749"
+},
+{
+"@score":"1",
+"@id":"4841750",
+"info":{"authors":{"author":{"@pid":"06/2796","text":"Dmitri B. Chklovskii"}},"title":"Optimal Sizes of Dendritic and Axonal Arbors.","venue":"NIPS","pages":"108-114","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/Chklovskii99","ee":"http://papers.nips.cc/paper/1732-optimal-sizes-of-dendritic-and-axonal-arbors","url":"https://dblp.org/rec/conf/nips/Chklovskii99"},
+"url":"URL#4841750"
+},
+{
+"@score":"1",
+"@id":"4841751",
+"info":{"authors":{"author":[{"@pid":"06/2796","text":"Dmitri B. Chklovskii"},{"@pid":"83/6613","text":"Charles F. Stevens"}]},"title":"Wiring Optimization in the Brain","venue":"NIPS","pages":"103-107","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/ChklovskiiS99","ee":"http://papers.nips.cc/paper/1728-wiring-optimization-in-the-brain","url":"https://dblp.org/rec/conf/nips/ChklovskiiS99"},
+"url":"URL#4841751"
+},
+{
+"@score":"1",
+"@id":"4841752",
+"info":{"authors":{"author":[{"@pid":"61/6060","text":"Samuel P. M. Choi"},{"@pid":"41/5668","text":"Dit-Yan Yeung"},{"@pid":"z/NevinLianwenZhang","text":"Nevin Lianwen Zhang"}]},"title":"An Environment Model for Nonstationary Reinforcement Learning.","venue":"NIPS","pages":"987-993","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/ChoiYZ99","ee":"http://papers.nips.cc/paper/1665-an-environment-model-for-nonstationary-reinforcement-learning","url":"https://dblp.org/rec/conf/nips/ChoiYZ99"},
+"url":"URL#4841752"
+},
+{
+"@score":"1",
+"@id":"4841753",
+"info":{"authors":{"author":[{"@pid":"33/136","text":"Anthony C. C. Coolen"},{"@pid":"97/6897","text":"C. W. H. Mace"}]},"title":"Dynamics of Supervised Learning with Restricted Training Sets and Noisy Teachers.","venue":"NIPS","pages":"237-243","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/CoolenM99","ee":"http://papers.nips.cc/paper/1693-dynamics-of-supervised-learning-with-restricted-training-sets-and-noisy-teachers","url":"https://dblp.org/rec/conf/nips/CoolenM99"},
+"url":"URL#4841753"
+},
+{
+"@score":"1",
+"@id":"4841754",
+"info":{"authors":{"author":[{"@pid":"08/4664","text":"David J. Crisp"},{"@pid":"b/ChristopherJCBurges","text":"Christopher J. C. Burges"}]},"title":"A Geometric Interpretation of v-SVM Classifiers.","venue":"NIPS","pages":"244-250","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/CrispB99","ee":"http://papers.nips.cc/paper/1687-a-geometric-interpretation-of-v-svm-classifiers","url":"https://dblp.org/rec/conf/nips/CrispB99"},
+"url":"URL#4841754"
+},
+{
+"@score":"1",
+"@id":"4841755",
+"info":{"authors":{"author":[{"@pid":"92/1986","text":"Lehel Csató"},{"@pid":"60/7033","text":"Ernest Fokoué"},{"@pid":"04/4273","text":"Manfred Opper"},{"@pid":"78/2251","text":"Bernhard Schottky"},{"@pid":"36/1568","text":"Ole Winther"}]},"title":"Efficient Approaches to Gaussian Process Classification.","venue":"NIPS","pages":"251-257","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/CsatoFOSW99","ee":"http://papers.nips.cc/paper/1694-efficient-approaches-to-gaussian-process-classification","url":"https://dblp.org/rec/conf/nips/CsatoFOSW99"},
+"url":"URL#4841755"
+},
+{
+"@score":"1",
+"@id":"4841756",
+"info":{"authors":{"author":[{"@pid":"35/4888","text":"Gustavo Deco"},{"@pid":"75/3228","text":"Josef Zihl"}]},"title":"A Neurodynamical Approach to Visual Attention.","venue":"NIPS","pages":"10-16","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/DecoZ99","ee":"http://papers.nips.cc/paper/1751-a-neurodynamical-approach-to-visual-attention","url":"https://dblp.org/rec/conf/nips/DecoZ99"},
+"url":"URL#4841756"
+},
+{
+"@score":"1",
+"@id":"4841757",
+"info":{"authors":{"author":{"@pid":"d/TGDietterich","text":"Thomas G. Dietterich"}},"title":"State Abstraction in MAXQ Hierarchical Reinforcement Learning.","venue":"NIPS","pages":"994-1000","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/Dietterich99","ee":"http://papers.nips.cc/paper/1770-state-abstraction-in-maxq-hierarchical-reinforcement-learning","url":"https://dblp.org/rec/conf/nips/Dietterich99"},
+"url":"URL#4841757"
+},
+{
+"@score":"1",
+"@id":"4841758",
+"info":{"authors":{"author":[{"@pid":"46/5127","text":"Oliver B. Downs"},{"@pid":"96/3790","text":"David J. C. MacKay"},{"@pid":"38/5967","text":"Daniel D. Lee"}]},"title":"The Nonnegative Boltzmann Machine.","venue":"NIPS","pages":"428-434","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/DownsML99","ee":"http://papers.nips.cc/paper/1743-the-nonnegative-boltzmann-machine","url":"https://dblp.org/rec/conf/nips/DownsML99"},
+"url":"URL#4841758"
+},
+{
+"@score":"1",
+"@id":"4841759",
+"info":{"authors":{"author":[{"@pid":"33/2011","text":"Nigel Duffy"},{"@pid":"10/1058","text":"David P. Helmbold"}]},"title":"Potential Boosters?","venue":"NIPS","pages":"258-264","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/DuffyH99","ee":"http://papers.nips.cc/paper/1737-potential-boosters","url":"https://dblp.org/rec/conf/nips/DuffyH99"},
+"url":"URL#4841759"
+},
+{
+"@score":"1",
+"@id":"4841760",
+"info":{"authors":{"author":[{"@pid":"03/2829","text":"Christian W. Eurich"},{"@pid":"09/5850","text":"Stefan D. Wilke"},{"@pid":"34/6306","text":"Helmut Schwegler"}]},"title":"Neural Representation of Multi-Dimensional Stimuli.","venue":"NIPS","pages":"115-121","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/EurichWS99","ee":"http://papers.nips.cc/paper/1760-neural-representation-of-multi-dimensional-stimuli","url":"https://dblp.org/rec/conf/nips/EurichWS99"},
+"url":"URL#4841760"
+},
+{
+"@score":"1",
+"@id":"4841761",
+"info":{"authors":{"author":[{"@pid":"23/954","text":"John W. Fisher III"},{"@pid":"39/1313","text":"Alexander T. Ihler"},{"@pid":"v/PaulAViola","text":"Paul A. Viola"}]},"title":"Learning Informative Statistics - A Nonparametnic Approach.","venue":"NIPS","pages":"900-906","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/FisherIV99","ee":"http://papers.nips.cc/paper/1765-learning-informative-statistics-a-nonparametnic-approach","url":"https://dblp.org/rec/conf/nips/FisherIV99"},
+"url":"URL#4841761"
+},
+{
+"@score":"1",
+"@id":"4841762",
+"info":{"authors":{"author":[{"@pid":"18/4772","text":"Gary William Flake"},{"@pid":"36/3031","text":"Barak A. Pearlmutter"}]},"title":"Differentiating Functions of the Jacobian with Respect to the Weights.","venue":"NIPS","pages":"435-441","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/FlakeP99","ee":"http://papers.nips.cc/paper/1702-differentiating-functions-of-the-jacobian-with-respect-to-the-weights","url":"https://dblp.org/rec/conf/nips/FlakeP99"},
+"url":"URL#4841762"
+},
+{
+"@score":"1",
+"@id":"4841763",
+"info":{"authors":{"author":{"@pid":"15/1159","text":"Brendan J. Frey"}},"title":"Local Probability Propagation for Factor Analysis.","venue":"NIPS","pages":"442-448","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/Frey99","ee":"http://papers.nips.cc/paper/1649-local-probability-propagation-for-factor-analysis","url":"https://dblp.org/rec/conf/nips/Frey99"},
+"url":"URL#4841763"
+},
+{
+"@score":"1",
+"@id":"4841764",
+"info":{"authors":{"author":[{"@pid":"g/ZoubinGhahramani","text":"Zoubin Ghahramani"},{"@pid":"95/6103","text":"Matthew J. Beal"}]},"title":"Variational Inference for Bayesian Mixtures of Factor Analysers.","venue":"NIPS","pages":"449-455","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/GhahramaniB99","ee":"http://papers.nips.cc/paper/1672-variational-inference-for-bayesian-mixtures-of-factor-analysers","url":"https://dblp.org/rec/conf/nips/GhahramaniB99"},
+"url":"URL#4841764"
+},
+{
+"@score":"1",
+"@id":"4841765",
+"info":{"authors":{"author":[{"@pid":"67/6887","text":"Thea B. Ghiselli-Crippa"},{"@pid":"35/5269","text":"Paul W. Munro"}]},"title":"Effects of Spatial and Temporal Contiguity on the Acquisition of Spatial Information.","venue":"NIPS","pages":"17-23","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/Ghiselli-CrippaM99","ee":"http://papers.nips.cc/paper/1759-effects-of-spatial-and-temporal-contiguity-on-the-acquisition-of-spatial-information","url":"https://dblp.org/rec/conf/nips/Ghiselli-CrippaM99"},
+"url":"URL#4841765"
+},
+{
+"@score":"1",
+"@id":"4841766",
+"info":{"authors":{"author":{"@pid":"81/5725","text":"Richard M. Golden"}},"title":"Kirchoff Law Markov Fields for Analog Circuit Design.","venue":"NIPS","pages":"907-913","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/Golden99","ee":"http://papers.nips.cc/paper/1744-kirchoff-law-markov-fields-for-analog-circuit-design","url":"https://dblp.org/rec/conf/nips/Golden99"},
+"url":"URL#4841766"
+},
+{
+"@score":"1",
+"@id":"4841767",
+"info":{"authors":{"author":[{"@pid":"g/ThoreGraepel","text":"Thore Graepel"},{"@pid":"h/RalfHerbrich","text":"Ralf Herbrich"},{"@pid":"o/KlausObermayer","text":"Klaus Obermayer"}]},"title":"Bayesian Transduction.","venue":"NIPS","pages":"456-462","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/GraepelHO99","ee":"http://papers.nips.cc/paper/1712-bayesian-transduction","url":"https://dblp.org/rec/conf/nips/GraepelHO99"},
+"url":"URL#4841767"
+},
+{
+"@score":"1",
+"@id":"4841768",
+"info":{"authors":{"author":{"@pid":"80/3468","text":"Lars Kai Hansen"}},"title":"Bayesian Averaging is Well-Temperated.","venue":"NIPS","pages":"265-271","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/Hansen99","ee":"http://papers.nips.cc/paper/1709-bayesian-averaging-is-well-temperated","url":"https://dblp.org/rec/conf/nips/Hansen99"},
+"url":"URL#4841768"
+},
+{
+"@score":"1",
+"@id":"4841769",
+"info":{"authors":{"author":[{"@pid":"60/4794","text":"John R. Hershey"},{"@pid":"41/4458","text":"Javier R. Movellan"}]},"title":"Audio Vision - Using Audio-Visual Synchrony to Locate Sounds.","venue":"NIPS","pages":"813-819","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/HersheyM99","ee":"http://papers.nips.cc/paper/1686-audio-vision-using-audio-visual-synchrony-to-locate-sounds","url":"https://dblp.org/rec/conf/nips/HersheyM99"},
+"url":"URL#4841769"
+},
+{
+"@score":"1",
+"@id":"4841770",
+"info":{"authors":{"author":[{"@pid":"10/3248","text":"Geoffrey E. Hinton"},{"@pid":"44/5980","text":"Andrew D. Brown"}]},"title":"Spiking Boltzmann Machines.","venue":"NIPS","pages":"122-128","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/HintonB99","ee":"http://papers.nips.cc/paper/1724-spiking-boltzmann-machines","url":"https://dblp.org/rec/conf/nips/HintonB99"},
+"url":"URL#4841770"
+},
+{
+"@score":"1",
+"@id":"4841771",
+"info":{"authors":{"author":[{"@pid":"10/3248","text":"Geoffrey E. Hinton"},{"@pid":"g/ZoubinGhahramani","text":"Zoubin Ghahramani"},{"@pid":"88/2483","text":"Yee Whye Teh"}]},"title":"Learning to Parse Images.","venue":"NIPS","pages":"463-469","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/HintonGT99","ee":"http://papers.nips.cc/paper/1710-learning-to-parse-images","url":"https://dblp.org/rec/conf/nips/HintonGT99"},
+"url":"URL#4841771"
+},
+{
+"@score":"1",
+"@id":"4841772",
+"info":{"authors":{"author":{"@pid":"h/ThHofmann","text":"Thomas Hofmann"}},"title":"Learning the Similarity of Documents - An Information-Geometric Approach to Document Retrieval and Categorization.","venue":"NIPS","pages":"914-920","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/Hofmann99","ee":"http://papers.nips.cc/paper/1654-learning-the-similarity-of-documents-an-information-geometric-approach-to-document-retrieval-and-categorization","url":"https://dblp.org/rec/conf/nips/Hofmann99"},
+"url":"URL#4841772"
+},
+{
+"@score":"1",
+"@id":"4841773",
+"info":{"authors":{"author":[{"@pid":"89/5187","text":"Pedro A. d. F. R. Højen-Sørensen"},{"@pid":"80/3468","text":"Lars Kai Hansen"},{"@pid":"83/5440","text":"Carl Edward Rasmussen"}]},"title":"Bayesian Modelling of fMRI lime Series.","venue":"NIPS","pages":"754-760","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/Hojen-SorensenHR99","ee":"http://papers.nips.cc/paper/1637-bayesian-modelling-of-fmri-lime-series","url":"https://dblp.org/rec/conf/nips/Hojen-SorensenHR99"},
+"url":"URL#4841773"
+},
+{
+"@score":"1",
+"@id":"4841774",
+"info":{"authors":{"author":[{"@pid":"07/5344","text":"David Horn"},{"@pid":"63/6944","text":"Nir Levy"},{"@pid":"48/228","text":"Isaac Meilijson"},{"@pid":"57/3862","text":"Eytan Ruppin"}]},"title":"Distributed Synchrony of Spiking Neurons in a Hebbian Cell Assembly.","venue":"NIPS","pages":"129-135","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/HornLMR99","ee":"http://papers.nips.cc/paper/1703-distributed-synchrony-of-spiking-neurons-in-a-hebbian-cell-assembly","url":"https://dblp.org/rec/conf/nips/HornLMR99"},
+"url":"URL#4841774"
+},
+{
+"@score":"1",
+"@id":"4841775",
+"info":{"authors":{"author":[{"@pid":"12/2404","text":"Nicholas R. Howe"},{"@pid":"82/7002","text":"Michael E. Leventon"},{"@pid":"86/6650","text":"William T. Freeman"}]},"title":"Bayesian Reconstruction of 3D Human Motion from Single-Camera Video.","venue":"NIPS","pages":"820-826","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/HoweLF99","ee":"http://papers.nips.cc/paper/1698-bayesian-reconstruction-of-3d-human-motion-from-single-camera-video","url":"https://dblp.org/rec/conf/nips/HoweLF99"},
+"url":"URL#4841775"
+},
+{
+"@score":"1",
+"@id":"4841776",
+"info":{"authors":{"author":[{"@pid":"56/3623","text":"Aapo Hyvärinen"},{"@pid":"66/1138","text":"Patrik O. Hoyer"}]},"title":"Emergence of Topography and Complex Cell Properties from Natural Images using Extensions of ICA.","venue":"NIPS","pages":"827-833","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/HyvarinenH99","ee":"http://papers.nips.cc/paper/1670-emergence-of-topography-and-complex-cell-properties-from-natural-images-using-extensions-of-ica","url":"https://dblp.org/rec/conf/nips/HyvarinenH99"},
+"url":"URL#4841776"
+},
+{
+"@score":"1",
+"@id":"4841777",
+"info":{"authors":{"author":[{"@pid":"i/LCIsbell","text":"Charles Lee Isbell Jr."},{"@pid":"82/1149","text":"Parry Husbands"}]},"title":"The Parallel Problems Server - an Interactive Tool for Large Scale Machine Learning.","venue":"NIPS","pages":"703-709","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/IsbellH99","ee":"http://papers.nips.cc/paper/1708-the-parallel-problems-server-an-interactive-tool-for-large-scale-machine-learning","url":"https://dblp.org/rec/conf/nips/IsbellH99"},
+"url":"URL#4841777"
+},
+{
+"@score":"1",
+"@id":"4841778",
+"info":{"authors":{"author":[{"@pid":"j/TommiJaakkola","text":"Tommi S. Jaakkola"},{"@pid":"m/MarinaMeila","text":"Marina Meila"},{"@pid":"43/4734","text":"Tony Jebara"}]},"title":"Maximum Entropy Discrimination.","venue":"NIPS","pages":"470-476","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/JaakkolaMJ99","ee":"http://papers.nips.cc/paper/1733-maximum-entropy-discrimination","url":"https://dblp.org/rec/conf/nips/JaakkolaMJ99"},
+"url":"URL#4841778"
+},
+{
+"@score":"1",
+"@id":"4841779",
+"info":{"authors":{"author":[{"@pid":"03/148","text":"Craig T. Jin"},{"@pid":"17/2470","text":"Simon Carlile"}]},"title":"Neural System Model of Human Sound Localization.","venue":"NIPS","pages":"761-767","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/JinC99","ee":"http://papers.nips.cc/paper/1734-neural-system-model-of-human-sound-localization","url":"https://dblp.org/rec/conf/nips/JinC99"},
+"url":"URL#4841779"
+},
+{
+"@score":"1",
+"@id":"4841780",
+"info":{"authors":{"author":[{"@pid":"03/148","text":"Craig T. Jin"},{"@pid":"48/3405","text":"Anna Corderoy"},{"@pid":"17/2470","text":"Simon Carlile"},{"@pid":"12/2740","text":"André van Schaik"}]},"title":"Spectral Cues in Human Sound Localization.","venue":"NIPS","pages":"768-774","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/JinCCS99","ee":"http://papers.nips.cc/paper/1731-spectral-cues-in-human-sound-localization","url":"https://dblp.org/rec/conf/nips/JinCCS99"},
+"url":"URL#4841780"
+},
+{
+"@score":"1",
+"@id":"4841781",
+"info":{"authors":{"author":[{"@pid":"20/1944","text":"Nebojsa Jojic"},{"@pid":"15/1159","text":"Brendan J. Frey"}]},"title":"Topographic Transformation as a Discrete Latent Variable.","venue":"NIPS","pages":"477-483","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/JojicF99","ee":"http://papers.nips.cc/paper/1729-topographic-transformation-as-a-discrete-latent-variable","url":"https://dblp.org/rec/conf/nips/JojicF99"},
+"url":"URL#4841781"
+},
+{
+"@score":"1",
+"@id":"4841782",
+"info":{"authors":{"author":[{"@pid":"36/7039","text":"Yoshiyuki Kabashima"},{"@pid":"87/4337","text":"Tatsuto Murayama"},{"@pid":"57/1177","text":"David Saad"},{"@pid":"59/5467","text":"Renato Vicente"}]},"title":"Regular and Irregular Gallager-zype Error-Correcting Codes.","venue":"NIPS","pages":"272-278","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/KabashimaMSV99","ee":"http://papers.nips.cc/paper/1700-regular-and-irregular-gallager-zype-error-correcting-codes","url":"https://dblp.org/rec/conf/nips/KabashimaMSV99"},
+"url":"URL#4841782"
+},
+{
+"@score":"1",
+"@id":"4841783",
+"info":{"authors":{"author":[{"@pid":"s/SMKakade","text":"Sham M. Kakade"},{"@pid":"22/522","text":"Peter Dayan"}]},"title":"Acquisition in Autoshaping.","venue":"NIPS","pages":"24-30","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/KakadeD99","ee":"http://papers.nips.cc/paper/1777-acquisition-in-autoshaping","url":"https://dblp.org/rec/conf/nips/KakadeD99"},
+"url":"URL#4841783"
+},
+{
+"@score":"1",
+"@id":"4841784",
+"info":{"authors":{"author":[{"@pid":"78/6858","text":"Michael J. Kearns"},{"@pid":"m/YishayMansour","text":"Yishay Mansour"},{"@pid":"n/AndrewYNg","text":"Andrew Y. Ng"}]},"title":"Approximate Planning in Large POMDPs via Reusable Trajectories.","venue":"NIPS","pages":"1001-1007","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/KearnsMN99","ee":"http://papers.nips.cc/paper/1664-approximate-planning-in-large-pomdps-via-reusable-trajectories","url":"https://dblp.org/rec/conf/nips/KearnsMN99"},
+"url":"URL#4841784"
+},
+{
+"@score":"1",
+"@id":"4841785",
+"info":{"authors":{"author":[{"@pid":"66/1265","text":"Vijay R. Konda"},{"@pid":"00/4563","text":"John N. Tsitsiklis"}]},"title":"Actor-Critic Algorithms.","venue":"NIPS","pages":"1008-1014","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/KondaT99","ee":"http://papers.nips.cc/paper/1786-actor-critic-algorithms","url":"https://dblp.org/rec/conf/nips/KondaT99"},
+"url":"URL#4841785"
+},
+{
+"@score":"1",
+"@id":"4841786",
+"info":{"authors":{"author":[{"@pid":"05/3503","text":"Oliver Landolt"},{"@pid":"98/5490","text":"Steve Gyger"}]},"title":"An Oculo-Motor System with Multi-Chip Neuromorphic Analog VLSI Control.","venue":"NIPS","pages":"710-716","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/LandoltG99","ee":"http://papers.nips.cc/paper/1638-an-oculo-motor-system-with-multi-chip-neuromorphic-analog-vlsi-control","url":"https://dblp.org/rec/conf/nips/LandoltG99"},
+"url":"URL#4841786"
+},
+{
+"@score":"1",
+"@id":"4841787",
+"info":{"authors":{"author":{"@pid":"63/4310","text":"Pavel Laskov"}},"title":"An Improved Decomposition Algorithm for Regression Support Vector Machines.","venue":"NIPS","pages":"484-490","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/Laskov99","ee":"http://papers.nips.cc/paper/1717-an-improved-decomposition-algorithm-for-regression-support-vector-machines","url":"https://dblp.org/rec/conf/nips/Laskov99"},
+"url":"URL#4841787"
+},
+{
+"@score":"1",
+"@id":"4841788",
+"info":{"authors":{"author":[{"@pid":"39/6378","text":"Soo-Young Lee"},{"@pid":"m/MichaelCMozer","text":"Michael Mozer"}]},"title":"Robust Recognition of Noisy and Superimposed Patterns via Selective Attention.","venue":"NIPS","pages":"31-37","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/LeeM99","ee":"http://papers.nips.cc/paper/1696-robust-recognition-of-noisy-and-superimposed-patterns-via-selective-attention","url":"https://dblp.org/rec/conf/nips/LeeM99"},
+"url":"URL#4841788"
+},
+{
+"@score":"1",
+"@id":"4841789",
+"info":{"authors":{"author":[{"@pid":"38/5967","text":"Daniel D. Lee"},{"@pid":"19/5505","text":"Uri Rokni"},{"@pid":"33/5545","text":"Haim Sompolinsky"}]},"title":"Algorithms for Independent Components Analysis and Higher Order Statistics.","venue":"NIPS","pages":"491-497","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/LeeRS99","ee":"http://papers.nips.cc/paper/1639-algorithms-for-independent-components-analysis-and-higher-order-statistics","url":"https://dblp.org/rec/conf/nips/LeeRS99"},
+"url":"URL#4841789"
+},
+{
+"@score":"1",
+"@id":"4841790",
+"info":{"authors":{"author":[{"@pid":"21/4105","text":"Tai Sing Lee"},{"@pid":"58/5089","text":"Stella X. Yu"}]},"title":"An Information-Theoretic Framework for Understanding Saccadic Eye Movements.","venue":"NIPS","pages":"834-840","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/LeeY99","ee":"http://papers.nips.cc/paper/1647-an-information-theoretic-framework-for-understanding-saccadic-eye-movements","url":"https://dblp.org/rec/conf/nips/LeeY99"},
+"url":"URL#4841790"
+},
+{
+"@score":"1",
+"@id":"4841791",
+"info":{"authors":{"author":{"@pid":"80/3752-1","text":"Zhaoping Li 0001"}},"title":"Can VI Mechanisms Account for Figure-Ground and Medial Axis Effects?","venue":"NIPS","pages":"136-142","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/Li99","ee":"http://papers.nips.cc/paper/1746-can-vi-mechanisms-account-for-figure-ground-and-medial-axis-effects","url":"https://dblp.org/rec/conf/nips/Li99"},
+"url":"URL#4841791"
+},
+{
+"@score":"1",
+"@id":"4841792",
+"info":{"authors":{"author":[{"@pid":"88/6101","text":"Jonathan Q. Li"},{"@pid":"44/5985","text":"Andrew R. Barron"}]},"title":"Mixture Density Estimation.","venue":"NIPS","pages":"279-285","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/LiB99","ee":"http://papers.nips.cc/paper/1673-mixture-density-estimation","url":"https://dblp.org/rec/conf/nips/LiB99"},
+"url":"URL#4841792"
+},
+{
+"@score":"1",
+"@id":"4841793",
+"info":{"authors":{"author":[{"@pid":"59/871","text":"Yi Li"},{"@pid":"66/5275","text":"Philip M. Long"}]},"title":"The Relaxed Online Maximum Margin Algorithm.","venue":"NIPS","pages":"498-504","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/LiL99","ee":"http://papers.nips.cc/paper/1727-the-relaxed-online-maximum-margin-algorithm","url":"https://dblp.org/rec/conf/nips/LiL99"},
+"url":"URL#4841793"
+},
+{
+"@score":"1",
+"@id":"4841794",
+"info":{"authors":{"author":[{"@pid":"67/2580","text":"Song Li"},{"@pid":"33/2722","text":"K. Y. Michael Wong"}]},"title":"Statistical Dynamics of Batch Learning.","venue":"NIPS","pages":"286-292","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/LiW99","ee":"http://papers.nips.cc/paper/1697-statistical-dynamics-of-batch-learning","url":"https://dblp.org/rec/conf/nips/LiW99"},
+"url":"URL#4841794"
+},
+{
+"@score":"1",
+"@id":"4841795",
+"info":{"authors":{"author":[{"@pid":"35/5318","text":"Yuansong Liao"},{"@pid":"24/1421","text":"John E. Moody"}]},"title":"Constructing Heterogeneous Committees Using Input Feature Grouping - Application to Economic Forecasting.","venue":"NIPS","pages":"921-927","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/LiaoM99","ee":"http://papers.nips.cc/paper/1704-constructing-heterogeneous-committees-using-input-feature-grouping-application-to-economic-forecasting","url":"https://dblp.org/rec/conf/nips/LiaoM99"},
+"url":"URL#4841795"
+},
+{
+"@score":"1",
+"@id":"4841796",
+"info":{"authors":{"author":{"@pid":"10/3688","text":"Shih-Chii Liu"}},"title":"A Winner-Take-All Circuit with Controllable Soft Max Property.","venue":"NIPS","pages":"717-723","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/Liu99","ee":"http://papers.nips.cc/paper/1725-a-winner-take-all-circuit-with-controllable-soft-max-property","url":"https://dblp.org/rec/conf/nips/Liu99"},
+"url":"URL#4841796"
+},
+{
+"@score":"1",
+"@id":"4841797",
+"info":{"authors":{"author":[{"@pid":"89/3077","text":"Xiuwen Liu"},{"@pid":"31/6085","text":"DeLiang L. Wang"}]},"title":"Perceptual Organization Based on Temporal Dynamics.","venue":"NIPS","pages":"38-44","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/LiuW99","ee":"http://papers.nips.cc/paper/1730-perceptual-organization-based-on-temporal-dynamics","url":"https://dblp.org/rec/conf/nips/LiuW99"},
+"url":"URL#4841797"
+},
+{
+"@score":"1",
+"@id":"4841798",
+"info":{"authors":{"author":{"@pid":"m/WolfgangMaass","text":"Wolfgang Maass 0001"}},"title":"Neural Computation with Winner-Take-All as the Only Nonlinear Operation.","venue":"NIPS","pages":"293-299","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/Maass99","ee":"http://papers.nips.cc/paper/1636-neural-computation-with-winner-take-all-as-the-only-nonlinear-operation","url":"https://dblp.org/rec/conf/nips/Maass99"},
+"url":"URL#4841798"
+},
+{
+"@score":"1",
+"@id":"4841799",
+"info":{"authors":{"author":[{"@pid":"m/YishayMansour","text":"Yishay Mansour"},{"@pid":"m/DavidAMcAllester","text":"David A. McAllester"}]},"title":"Boosting with Multi-Way Branching in Decision Trees.","venue":"NIPS","pages":"300-306","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/MansourM99","ee":"http://papers.nips.cc/paper/1659-boosting-with-multi-way-branching-in-decision-trees","url":"https://dblp.org/rec/conf/nips/MansourM99"},
+"url":"URL#4841799"
+},
+{
+"@score":"1",
+"@id":"4841800",
+"info":{"authors":{"author":[{"@pid":"30/4863","text":"Amit Manwani"},{"@pid":"86/1134","text":"Peter N. Steinmetz"},{"@pid":"71/4603","text":"Christof Koch"}]},"title":"Channel Noise in Excitable Neural Membranes.","venue":"NIPS","pages":"143-149","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/ManwaniSK99","ee":"http://papers.nips.cc/paper/1758-channel-noise-in-excitable-neural-membranes","url":"https://dblp.org/rec/conf/nips/ManwaniSK99"},
+"url":"URL#4841800"
+},
+{
+"@score":"1",
+"@id":"4841801",
+"info":{"authors":{"author":[{"@pid":"54/6608-1","text":"Dimitris Margaritis 0001"},{"@pid":"t/SebastianThrun","text":"Sebastian Thrun"}]},"title":"Bayesian Network Induction via Local Neighborhoods.","venue":"NIPS","pages":"505-511","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/MargaritisT99","ee":"http://papers.nips.cc/paper/1685-bayesian-network-induction-via-local-neighborhoods","url":"https://dblp.org/rec/conf/nips/MargaritisT99"},
+"url":"URL#4841801"
+},
+{
+"@score":"1",
+"@id":"4841802",
+"info":{"authors":{"author":[{"@pid":"37/5289","text":"Llew Mason"},{"@pid":"66/5720","text":"Jonathan Baxter"},{"@pid":"68/4020","text":"Peter L. Bartlett"},{"@pid":"124/2749","text":"Marcus R. Frean"}]},"title":"Boosting Algorithms as Gradient Descent.","venue":"NIPS","pages":"512-518","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/MasonBBF99","ee":"http://papers.nips.cc/paper/1766-boosting-algorithms-as-gradient-descent","url":"https://dblp.org/rec/conf/nips/MasonBBF99"},
+"url":"URL#4841802"
+},
+{
+"@score":"1",
+"@id":"4841803",
+"info":{"authors":{"author":{"@pid":"84/6500","text":"Chris Mesterharm"}},"title":"A Multi-class Linear Learning Algorithm Related to Winnow.","venue":"NIPS","pages":"519-525","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/Mesterharm99","ee":"http://papers.nips.cc/paper/1718-a-multi-class-linear-learning-algorithm-related-to-winnow","url":"https://dblp.org/rec/conf/nips/Mesterharm99"},
+"url":"URL#4841803"
+},
+{
+"@score":"1",
+"@id":"4841804",
+"info":{"authors":{"author":[{"@pid":"40/4613","text":"Sebastian Mika"},{"@pid":"33/3796","text":"Gunnar Rätsch"},{"@pid":"29/6977","text":"Jason Weston"},{"@pid":"97/119","text":"Bernhard Schölkopf"},{"@pid":"s/AlexanderJSmola","text":"Alexander J. Smola"},{"@pid":"m/KRMuller","text":"Klaus-Robert Müller"}]},"title":"Invariant Feature Extraction and Classification in Kernel Spaces.","venue":"NIPS","pages":"526-532","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/MikaRWSSM99","ee":"http://papers.nips.cc/paper/1715-invariant-feature-extraction-and-classification-in-kernel-spaces","url":"https://dblp.org/rec/conf/nips/MikaRWSSM99"},
+"url":"URL#4841804"
+},
+{
+"@score":"1",
+"@id":"4841805",
+"info":{"authors":{"author":[{"@pid":"71/2748","text":"Eric Mjolsness"},{"@pid":"86/237","text":"Tobias Mann"},{"@pid":"12/5757","text":"Rebecca Castaño"},{"@pid":"45/6136","text":"Barbara J. Wold"}]},"title":"From Coexpression to Coregulation - An Approach to Inferring Transcriptional Regulation among Gene Classes from Large-Scale Expression Data.","venue":"NIPS","pages":"928-934","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/MjolsnessMCW99","ee":"http://papers.nips.cc/paper/1706-from-coexpression-to-coregulation-an-approach-to-inferring-transcriptional-regulation-among-gene-classes-from-large-scale-expression-data","url":"https://dblp.org/rec/conf/nips/MjolsnessMCW99"},
+"url":"URL#4841805"
+},
+{
+"@score":"1",
+"@id":"4841806",
+"info":{"authors":{"author":[{"@pid":"41/4458","text":"Javier R. Movellan"},{"@pid":"49/5831","text":"James L. McClelland"}]},"title":"Information Factorization in Connectionist Models of Perception.","venue":"NIPS","pages":"45-51","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/MovellanM99","ee":"http://papers.nips.cc/paper/1678-information-factorization-in-connectionist-models-of-perception","url":"https://dblp.org/rec/conf/nips/MovellanM99"},
+"url":"URL#4841806"
+},
+{
+"@score":"1",
+"@id":"4841807",
+"info":{"authors":{"author":[{"@pid":"m/MichaelCMozer","text":"Michael Mozer"},{"@pid":"06/2951","text":"Richard H. Wolniewicz"},{"@pid":"59/3566","text":"David B. Grimes"},{"@pid":"90/5211","text":"Eric Johnson"},{"@pid":"30/6432","text":"Howard Kaushansky"}]},"title":"Churn Reduction in the Wireless Industry.","venue":"NIPS","pages":"935-941","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/MozerWGJK99","ee":"http://papers.nips.cc/paper/1749-churn-reduction-in-the-wireless-industry","url":"https://dblp.org/rec/conf/nips/MozerWGJK99"},
+"url":"URL#4841807"
+},
+{
+"@score":"1",
+"@id":"4841808",
+"info":{"authors":{"author":[{"@pid":"35/5269","text":"Paul W. Munro"},{"@pid":"26/739","text":"Gerardina Hernández"}]},"title":"LTD Facilitates Learning in a Noisy Environment.","venue":"NIPS","pages":"150-156","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/MunroH99","ee":"http://papers.nips.cc/paper/1776-ltd-facilitates-learning-in-a-noisy-environment","url":"https://dblp.org/rec/conf/nips/MunroH99"},
+"url":"URL#4841808"
+},
+{
+"@score":"1",
+"@id":"4841809",
+"info":{"authors":{"author":{"@pid":"26/2599","text":"Kevin P. Murphy"}},"title":"Bayesian Map Learning in Dynamic Environments.","venue":"NIPS","pages":"1015-1021","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/Murphy99","ee":"http://papers.nips.cc/paper/1716-bayesian-map-learning-in-dynamic-environments","url":"https://dblp.org/rec/conf/nips/Murphy99"},
+"url":"URL#4841809"
+},
+{
+"@score":"1",
+"@id":"4841810",
+"info":{"authors":{"author":[{"@pid":"92/1591","text":"Claude Nadeau"},{"@pid":"56/953","text":"Yoshua Bengio"}]},"title":"Inference for the Generalization Error.","venue":"NIPS","pages":"307-313","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/NadeauB99","ee":"http://papers.nips.cc/paper/1661-inference-for-the-generalization-error","url":"https://dblp.org/rec/conf/nips/NadeauB99"},
+"url":"URL#4841810"
+},
+{
+"@score":"1",
+"@id":"4841811",
+"info":{"authors":{"author":[{"@pid":"n/AndrewYNg","text":"Andrew Y. Ng"},{"@pid":"j/MichaelIJordan","text":"Michael I. Jordan"}]},"title":"Approximate Inference A lgorithms for Two-Layer Bayesian Networks.","venue":"NIPS","pages":"533-539","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/NgJ99","ee":"http://papers.nips.cc/paper/1640-approximate-inference-a-lgorithms-for-two-layer-bayesian-networks","url":"https://dblp.org/rec/conf/nips/NgJ99"},
+"url":"URL#4841811"
+},
+{
+"@score":"1",
+"@id":"4841812",
+"info":{"authors":{"author":[{"@pid":"n/AndrewYNg","text":"Andrew Y. Ng"},{"@pid":"26/4670","text":"Ronald Parr"},{"@pid":"k/DaphneKoller","text":"Daphne Koller"}]},"title":"Policy Search via Density Estimation.","venue":"NIPS","pages":"1022-1028","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/NgPK99","ee":"http://papers.nips.cc/paper/1748-policy-search-via-density-estimation","url":"https://dblp.org/rec/conf/nips/NgPK99"},
+"url":"URL#4841812"
+},
+{
+"@score":"1",
+"@id":"4841813",
+"info":{"authors":{"author":[{"@pid":"73/5685","text":"Toru Ohira"},{"@pid":"87/3370","text":"Yuzuru Sato"},{"@pid":"26/4829","text":"Jack D. Cowan"}]},"title":"Resonance in a Stochastic Neuron Model with Delayed Interaction.","venue":"NIPS","pages":"314-320","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/OhiraSC99","ee":"http://papers.nips.cc/paper/1656-resonance-in-a-stochastic-neuron-model-with-delayed-interaction","url":"https://dblp.org/rec/conf/nips/OhiraSC99"},
+"url":"URL#4841813"
+},
+{
+"@score":"1",
+"@id":"4841814",
+"info":{"authors":{"author":[{"@pid":"30/3869","text":"Bruno A. Olshausen"},{"@pid":"95/4673","text":"K. Jarrod Millman"}]},"title":"Learning Sparse Codes with a Mixture-of-Gaussians Prior.","venue":"NIPS","pages":"841-847","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/OlshausenM99","ee":"http://papers.nips.cc/paper/1668-learning-sparse-codes-with-a-mixture-of-gaussians-prior","url":"https://dblp.org/rec/conf/nips/OlshausenM99"},
+"url":"URL#4841814"
+},
+{
+"@score":"1",
+"@id":"4841815",
+"info":{"authors":{"author":[{"@pid":"36/2143","text":"Dirk Ormoneit"},{"@pid":"h/TrevorHastie","text":"Trevor Hastie"}]},"title":"Optimal Kernel Shapes for Local Linear Regression.","venue":"NIPS","pages":"540-546","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/OrmoneitH99","ee":"http://papers.nips.cc/paper/1755-optimal-kernel-shapes-for-local-linear-regression","url":"https://dblp.org/rec/conf/nips/OrmoneitH99"},
+"url":"URL#4841815"
+},
+{
+"@score":"1",
+"@id":"4841816",
+"info":{"authors":{"author":[{"@pid":"09/230","text":"Shan Parfitt"},{"@pid":"t/PeterTino","text":"Peter Tiño"},{"@pid":"81/6229","text":"Georg Dorffner"}]},"title":"Graded Grammaticality in Prediction Fractal Machines.","venue":"NIPS","pages":"52-58","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/ParfittTD99","ee":"http://papers.nips.cc/paper/1688-graded-grammaticality-in-prediction-fractal-machines","url":"https://dblp.org/rec/conf/nips/ParfittTD99"},
+"url":"URL#4841816"
+},
+{
+"@score":"1",
+"@id":"4841817",
+"info":{"authors":{"author":[{"@pid":"62/6139","text":"Lucas C. Parra"},{"@pid":"15/3665","text":"Clay Spence"},{"@pid":"03/2610","text":"Paul Sajda"},{"@pid":"29/6702","text":"Andreas Ziehe"},{"@pid":"m/KRMuller","text":"Klaus-Robert Müller"}]},"title":"Unmixing Hyperspectral Data.","venue":"NIPS","pages":"942-948","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/ParraSSZM99","ee":"http://papers.nips.cc/paper/1714-unmixing-hyperspectral-data","url":"https://dblp.org/rec/conf/nips/ParraSSZM99"},
+"url":"URL#4841817"
+},
+{
+"@score":"1",
+"@id":"4841818",
+"info":{"authors":{"author":[{"@pid":"12/4899","text":"Girish N. Patel"},{"@pid":"29/2435","text":"Edgar A. Brown"},{"@pid":"d/StephenPDeWeerth","text":"Stephen P. DeWeerth"}]},"title":"A Neuromorphic VLSI System for Modeling the Neural Control of Axial Locomotion.","venue":"NIPS","pages":"724-730","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/PatelBD99","ee":"http://papers.nips.cc/paper/1720-a-neuromorphic-vlsi-system-for-modeling-the-neural-control-of-axial-locomotion","url":"https://dblp.org/rec/conf/nips/PatelBD99"},
+"url":"URL#4841818"
+},
+{
+"@score":"1",
+"@id":"4841819",
+"info":{"authors":{"author":[{"@pid":"12/4899","text":"Girish N. Patel"},{"@pid":"74/1473","text":"Gennady S. Cymbalyuk"},{"@pid":"73/784","text":"Ronald L. Calabrese"},{"@pid":"d/StephenPDeWeerth","text":"Stephen P. DeWeerth"}]},"title":"Bifurcation Analysis of a Silicon Neuron.","venue":"NIPS","pages":"731-737","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/PatelCCD99","ee":"http://papers.nips.cc/paper/1690-bifurcation-analysis-of-a-silicon-neuron","url":"https://dblp.org/rec/conf/nips/PatelCCD99"},
+"url":"URL#4841819"
+},
+{
+"@score":"1",
+"@id":"4841820",
+"info":{"authors":{"author":[{"@pid":"67/1059","text":"Stephen Piche"},{"@pid":"27/4358","text":"James D. Keeler"},{"@pid":"69/977","text":"Greg Martin"},{"@pid":"06/2404","text":"Gene Boe"},{"@pid":"34/1611","text":"Doug Johnson"},{"@pid":"25/3534","text":"Mark Gerules"}]},"title":"Neural Network Based Model Predictive Control.","venue":"NIPS","pages":"1029-1035","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/PicheKMBJG99","ee":"http://papers.nips.cc/paper/1788-neural-network-based-model-predictive-control","url":"https://dblp.org/rec/conf/nips/PicheKMBJG99"},
+"url":"URL#4841820"
+},
+{
+"@score":"1",
+"@id":"4841821",
+"info":{"authors":{"author":[{"@pid":"27/1418","text":"John C. Platt"},{"@pid":"11/4380","text":"Nello Cristianini"},{"@pid":"59/41","text":"John Shawe-Taylor"}]},"title":"Large Margin DAGs for Multiclass Classification.","venue":"NIPS","pages":"547-553","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/PlattCS99","ee":"http://papers.nips.cc/paper/1773-large-margin-dags-for-multiclass-classification","url":"https://dblp.org/rec/conf/nips/PlattCS99"},
+"url":"URL#4841821"
+},
+{
+"@score":"1",
+"@id":"4841822",
+"info":{"authors":{"author":[{"@pid":"88/4427","text":"Panayiota Poirazi"},{"@pid":"49/3069","text":"Bartlett W. Mel"}]},"title":"Memory Capacity of Linear vs. Nonlinear Models of Dendritic Integration.","venue":"NIPS","pages":"157-163","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/PoiraziM99","ee":"http://papers.nips.cc/paper/1646-memory-capacity-of-linear-vs-nonlinear-models-of-dendritic-integration","url":"https://dblp.org/rec/conf/nips/PoiraziM99"},
+"url":"URL#4841822"
+},
+{
+"@score":"1",
+"@id":"4841823",
+"info":{"authors":{"author":[{"@pid":"r/RajeshPNRao","text":"Rajesh P. N. Rao"},{"@pid":"26/2197","text":"Terrence J. Sejnowski"}]},"title":"Predictive Sequence Learning in Recurrent Neocortical Circuits.","venue":"NIPS","pages":"164-170","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/RaoS99","ee":"http://papers.nips.cc/paper/1783-predictive-sequence-learning-in-recurrent-neocortical-circuits","url":"https://dblp.org/rec/conf/nips/RaoS99"},
+"url":"URL#4841823"
+},
+{
+"@score":"1",
+"@id":"4841824",
+"info":{"authors":{"author":{"@pid":"83/5440","text":"Carl Edward Rasmussen"}},"title":"The Infinite Gaussian Mixture Model.","venue":"NIPS","pages":"554-560","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/Rasmussen99","ee":"http://papers.nips.cc/paper/1745-the-infinite-gaussian-mixture-model","url":"https://dblp.org/rec/conf/nips/Rasmussen99"},
+"url":"URL#4841824"
+},
+{
+"@score":"1",
+"@id":"4841825",
+"info":{"authors":{"author":[{"@pid":"33/3796","text":"Gunnar Rätsch"},{"@pid":"97/119","text":"Bernhard Schölkopf"},{"@pid":"s/AlexanderJSmola","text":"Alexander J. Smola"},{"@pid":"m/KRMuller","text":"Klaus-Robert Müller"},{"@pid":"72/645","text":"Takashi Onoda"},{"@pid":"40/4613","text":"Sebastian Mika"}]},"title":"v-Arc - Ensemble Learning in the Presence of Outliers.","venue":"NIPS","pages":"561-567","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/RatschSSMOM99","ee":"http://papers.nips.cc/paper/1721-v-arc-ensemble-learning-in-the-presence-of-outliers","url":"https://dblp.org/rec/conf/nips/RatschSSMOM99"},
+"url":"URL#4841825"
+},
+{
+"@score":"1",
+"@id":"4841826",
+"info":{"authors":{"author":[{"@pid":"35/3172","text":"Alfonso Renart"},{"@pid":"82/38","text":"Néstor Parga"},{"@pid":"26/2914","text":"Edmund T. Rolls"}]},"title":"A Recurrent Model of the Interaction Between Prefrontal and Inferotemporal Cortex in Delay Tasks.","venue":"NIPS","pages":"171-177","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/RenartPR99","ee":"http://papers.nips.cc/paper/1705-a-recurrent-model-of-the-interaction-between-prefrontal-and-inferotemporal-cortex-in-delay-tasks","url":"https://dblp.org/rec/conf/nips/RenartPR99"},
+"url":"URL#4841826"
+},
+{
+"@score":"1",
+"@id":"4841827",
+"info":{"authors":{"author":[{"@pid":"66/4234","text":"Sebastian Risau-Gusman"},{"@pid":"93/3188","text":"Mirta B. Gordon"}]},"title":"Understanding Stepwise Generalization of Support Vector Machines - a Toy Model.","venue":"NIPS","pages":"321-327","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/Risau-GusmanG99","ee":"http://papers.nips.cc/paper/1769-understanding-stepwise-generalization-of-support-vector-machines-a-toy-model","url":"https://dblp.org/rec/conf/nips/Risau-GusmanG99"},
+"url":"URL#4841827"
+},
+{
+"@score":"1",
+"@id":"4841828",
+"info":{"authors":{"author":[{"@pid":"82/2637","text":"Andres C. Rodriguez"},{"@pid":"26/4670","text":"Ronald Parr"},{"@pid":"k/DaphneKoller","text":"Daphne Koller"}]},"title":"Reinforcement Learning Using Approximate Belief States.","venue":"NIPS","pages":"1036-1042","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/RodriguezPK99","ee":"http://papers.nips.cc/paper/1667-reinforcement-learning-using-approximate-belief-states","url":"https://dblp.org/rec/conf/nips/RodriguezPK99"},
+"url":"URL#4841828"
+},
+{
+"@score":"1",
+"@id":"4841829",
+"info":{"authors":{"author":[{"@pid":"83/5356","text":"Justinian P. Rosca"},{"@pid":"37/1839","text":"Joseph Ó Ruanaidh"},{"@pid":"36/234","text":"Alexander Jourjine"},{"@pid":"68/2851","text":"Scott Rickard"}]},"title":"Broadband Direction-Of-Arrival Estimation Based on Second Order Statistics.","venue":"NIPS","pages":"775-781","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/RoscaRJR99","ee":"http://papers.nips.cc/paper/1680-broadband-direction-of-arrival-estimation-based-on-second-order-statistics","url":"https://dblp.org/rec/conf/nips/RoscaRJR99"},
+"url":"URL#4841829"
+},
+{
+"@score":"1",
+"@id":"4841830",
+"info":{"authors":{"author":[{"@pid":"23/1185-1","text":"Volker Roth 0001"},{"@pid":"64/6861","text":"Volker Steinhage"}]},"title":"Nonlinear Discriminant Analysis Using Kernel Functions.","venue":"NIPS","pages":"568-574","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/RothS99","ee":"http://papers.nips.cc/paper/1736-nonlinear-discriminant-analysis-using-kernel-functions","url":"https://dblp.org/rec/conf/nips/RothS99"},
+"url":"URL#4841830"
+},
+{
+"@score":"1",
+"@id":"4841831",
+"info":{"authors":{"author":{"@pid":"r/SamTRoweis","text":"Sam T. Roweis"}},"title":"Constrained Hidden Markov Models.","venue":"NIPS","pages":"782-788","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/Roweis99","ee":"http://papers.nips.cc/paper/1738-constrained-hidden-markov-models","url":"https://dblp.org/rec/conf/nips/Roweis99"},
+"url":"URL#4841831"
+},
+{
+"@score":"1",
+"@id":"4841832",
+"info":{"authors":{"author":[{"@pid":"32/2668","text":"Nicholas Roy"},{"@pid":"t/SebastianThrun","text":"Sebastian Thrun"}]},"title":"Coastal Navigation with Mobile Robots.","venue":"NIPS","pages":"1043-1049","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/RoyT99","ee":"http://papers.nips.cc/paper/1763-coastal-navigation-with-mobile-robots","url":"https://dblp.org/rec/conf/nips/RoyT99"},
+"url":"URL#4841832"
+},
+{
+"@score":"1",
+"@id":"4841833",
+"info":{"authors":{"author":[{"@pid":"70/1458","text":"Paat Rusmevichientong"},{"@pid":"41/4314","text":"Benjamin Van Roy"}]},"title":"An Analysis of Turbo Decoding with Gaussian Densities.","venue":"NIPS","pages":"575-581","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/RusmevichientongR99","ee":"http://papers.nips.cc/paper/1753-an-analysis-of-turbo-decoding-with-gaussian-densities","url":"https://dblp.org/rec/conf/nips/RusmevichientongR99"},
+"url":"URL#4841833"
+},
+{
+"@score":"1",
+"@id":"4841834",
+"info":{"authors":{"author":{"@pid":"75/1641","text":"Brian Sallans"}},"title":"Learning Factored Representations for Partially Observable Markov Decision Processes.","venue":"NIPS","pages":"1050-1056","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/Sallans99","ee":"http://papers.nips.cc/paper/1754-learning-factored-representations-for-partially-observable-markov-decision-processes","url":"https://dblp.org/rec/conf/nips/Sallans99"},
+"url":"URL#4841834"
+},
+{
+"@score":"1",
+"@id":"4841835",
+"info":{"authors":{"author":{"@pid":"12/2740","text":"André van Schaik"}},"title":"An Analog VLSI Model of Periodicity Extraction.","venue":"NIPS","pages":"738-746","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/Schaik99","ee":"http://papers.nips.cc/paper/1781-an-analog-vlsi-model-of-periodicity-extraction","url":"https://dblp.org/rec/conf/nips/Schaik99"},
+"url":"URL#4841835"
+},
+{
+"@score":"1",
+"@id":"4841836",
+"info":{"authors":{"author":{"@pid":"s/MichaelSchmitt","text":"Michael Schmitt 0001"}},"title":"Lower Bounds on the Complexity of Approximating Continuous Functions by Sigmoidal Neural Networks.","venue":"NIPS","pages":"328-334","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/Schmitt99","ee":"http://papers.nips.cc/paper/1692-lower-bounds-on-the-complexity-of-approximating-continuous-functions-by-sigmoidal-neural-networks","url":"https://dblp.org/rec/conf/nips/Schmitt99"},
+"url":"URL#4841836"
+},
+{
+"@score":"1",
+"@id":"4841837",
+"info":{"authors":{"author":[{"@pid":"98/5694","text":"Elad Schneidman"},{"@pid":"19/1136","text":"Idan Segev"},{"@pid":"03/2176","text":"Naftali Tishby"}]},"title":"Information Capacity and Robustness of Stochastic Neuron Models.","venue":"NIPS","pages":"178-184","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/SchneidmanST99","ee":"http://papers.nips.cc/paper/1657-information-capacity-and-robustness-of-stochastic-neuron-models","url":"https://dblp.org/rec/conf/nips/SchneidmanST99"},
+"url":"URL#4841837"
+},
+{
+"@score":"1",
+"@id":"4841838",
+"info":{"authors":{"author":[{"@pid":"97/119","text":"Bernhard Schölkopf"},{"@pid":"29/5199","text":"Robert C. Williamson"},{"@pid":"s/AlexanderJSmola","text":"Alexander J. Smola"},{"@pid":"59/41","text":"John Shawe-Taylor"},{"@pid":"27/1418","text":"John C. Platt"}]},"title":"Support Vector Method for Novelty Detection.","venue":"NIPS","pages":"582-588","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/ScholkopfWSSP99","ee":"http://papers.nips.cc/paper/1723-support-vector-method-for-novelty-detection","url":"https://dblp.org/rec/conf/nips/ScholkopfWSSP99"},
+"url":"URL#4841838"
+},
+{
+"@score":"1",
+"@id":"4841839",
+"info":{"authors":{"author":[{"@pid":"72/3264","text":"Holger Schoner"},{"@pid":"91/1517","text":"Martin Stetter"},{"@pid":"61/1415","text":"Ingo Schießl"},{"@pid":"14/2701","text":"John E. W. Mayhew"},{"@pid":"49/3612","text":"Jennifer S. Lund"},{"@pid":"67/2473","text":"Niall McLoughlin"},{"@pid":"o/KlausObermayer","text":"Klaus Obermayer"}]},"title":"Application of Blind Separation of Sources to Optical Recording of Brain Activity.","venue":"NIPS","pages":"949-955","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/SchonerSSMLMO99","ee":"http://papers.nips.cc/paper/1662-application-of-blind-separation-of-sources-to-optical-recording-of-brain-activity","url":"https://dblp.org/rec/conf/nips/SchonerSSMLMO99"},
+"url":"URL#4841839"
+},
+{
+"@score":"1",
+"@id":"4841840",
+"info":{"authors":{"author":[{"@pid":"50/1938","text":"Nicol N. Schraudolph"},{"@pid":"11/2849","text":"Xavier Giannakopoulos"}]},"title":"Online Independent Component Analysis with Local Learning Rate Adaptation.","venue":"NIPS","pages":"789-795","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/SchraudolphG99","ee":"http://papers.nips.cc/paper/1648-online-independent-component-analysis-with-local-learning-rate-adaptation","url":"https://dblp.org/rec/conf/nips/SchraudolphG99"},
+"url":"URL#4841840"
+},
+{
+"@score":"1",
+"@id":"4841841",
+"info":{"authors":{"author":{"@pid":"97/5268","text":"Mike Schuster"}},"title":"Better Generative Models for Sequential Data Problems - Bidirectional Recurrent Mixture Density Networks.","venue":"NIPS","pages":"589-595","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/Schuster99","ee":"http://papers.nips.cc/paper/1778-better-generative-models-for-sequential-data-problems-bidirectional-recurrent-mixture-density-networks","url":"https://dblp.org/rec/conf/nips/Schuster99"},
+"url":"URL#4841841"
+},
+{
+"@score":"1",
+"@id":"4841842",
+"info":{"authors":{"author":{"@pid":"96/6660","text":"Dale Schuurmans"}},"title":"Greedy Importance Sampling.","venue":"NIPS","pages":"596-602","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/Schuurmans99","ee":"http://papers.nips.cc/paper/1691-greedy-importance-sampling","url":"https://dblp.org/rec/conf/nips/Schuurmans99"},
+"url":"URL#4841842"
+},
+{
+"@score":"1",
+"@id":"4841843",
+"info":{"authors":{"author":{"@pid":"43/5832","text":"Matthias W. Seeger"}},"title":"Bayesian Model Selection for Support Vector Machines, Gaussian Processes and Other Kernel Classifiers.","venue":"NIPS","pages":"603-609","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/Seeger99","ee":"http://papers.nips.cc/paper/1722-bayesian-model-selection-for-support-vector-machines-gaussian-processes-and-other-kernel-classifiers","url":"https://dblp.org/rec/conf/nips/Seeger99"},
+"url":"URL#4841843"
+},
+{
+"@score":"1",
+"@id":"4841844",
+"info":{"authors":{"author":[{"@pid":"s/HavaTSiegelmann","text":"Hava T. Siegelmann"},{"@pid":"69/1741","text":"Alexander Roitershtein"},{"@pid":"26/7001","text":"Asa Ben-Hur"}]},"title":"Noisy Neural Networks and Generalizations.","venue":"NIPS","pages":"335-341","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/SiegelmannRB99","ee":"http://papers.nips.cc/paper/1764-noisy-neural-networks-and-generalizations","url":"https://dblp.org/rec/conf/nips/SiegelmannRB99"},
+"url":"URL#4841844"
+},
+{
+"@score":"1",
+"@id":"4841845",
+"info":{"authors":{"author":{"@pid":"s/YoramSinger","text":"Yoram Singer"}},"title":"Leveraged Vector Machines.","venue":"NIPS","pages":"610-616","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/Singer99","ee":"http://papers.nips.cc/paper/1771-leveraged-vector-machines","url":"https://dblp.org/rec/conf/nips/Singer99"},
+"url":"URL#4841845"
+},
+{
+"@score":"1",
+"@id":"4841846",
+"info":{"authors":{"author":[{"@pid":"09/3058","text":"Satinder P. Singh"},{"@pid":"78/6858","text":"Michael J. Kearns"},{"@pid":"l/DianeJLitman","text":"Diane J. Litman"},{"@pid":"w/MarilynAWalker","text":"Marilyn A. Walker"}]},"title":"Reinforcement Learning for Spoken Dialogue Systems.","venue":"NIPS","pages":"956-962","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/SinghKLW99","ee":"http://papers.nips.cc/paper/1775-reinforcement-learning-for-spoken-dialogue-systems","url":"https://dblp.org/rec/conf/nips/SinghKLW99"},
+"url":"URL#4841846"
+},
+{
+"@score":"1",
+"@id":"4841847",
+"info":{"authors":{"author":[{"@pid":"62/7001","text":"Noam Slonim"},{"@pid":"03/2176","text":"Naftali Tishby"}]},"title":"Agglomerative Information Bottleneck.","venue":"NIPS","pages":"617-623","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/SlonimT99","ee":"http://papers.nips.cc/paper/1651-agglomerative-information-bottleneck","url":"https://dblp.org/rec/conf/nips/SlonimT99"},
+"url":"URL#4841847"
+},
+{
+"@score":"1",
+"@id":"4841848",
+"info":{"authors":{"author":[{"@pid":"58/2979","text":"Gavin Smith"},{"@pid":"45/735","text":"João F. G. de Freitas"},{"@pid":"73/3632","text":"Tony Robinson"},{"@pid":"15/6640","text":"Mahesan Niranjan"}]},"title":"Speech Modelling Using Subspace and EM Techniques.","venue":"NIPS","pages":"796-802","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/SmithFRN99","ee":"http://papers.nips.cc/paper/1787-speech-modelling-using-subspace-and-em-techniques","url":"https://dblp.org/rec/conf/nips/SmithFRN99"},
+"url":"URL#4841848"
+},
+{
+"@score":"1",
+"@id":"4841849",
+"info":{"authors":{"author":[{"@pid":"s/AlexanderJSmola","text":"Alexander J. Smola"},{"@pid":"59/41","text":"John Shawe-Taylor"},{"@pid":"97/119","text":"Bernhard Schölkopf"},{"@pid":"29/5199","text":"Robert C. Williamson"}]},"title":"The Entropy Regularization Information Criterion.","venue":"NIPS","pages":"342-348","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/SmolaSSW99","ee":"http://papers.nips.cc/paper/1677-the-entropy-regularization-information-criterion","url":"https://dblp.org/rec/conf/nips/SmolaSSW99"},
+"url":"URL#4841849"
+},
+{
+"@score":"1",
+"@id":"4841850",
+"info":{"authors":{"author":{"@pid":"36/3865","text":"Peter Sollich"}},"title":"Probabilistic Methods for Support Vector Machines.","venue":"NIPS","pages":"349-355","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/Sollich99","ee":"http://papers.nips.cc/paper/1711-probabilistic-methods-for-support-vector-machines","url":"https://dblp.org/rec/conf/nips/Sollich99"},
+"url":"URL#4841850"
+},
+{
+"@score":"1",
+"@id":"4841851",
+"info":{"authors":{"author":[{"@pid":"29/4302","text":"Xubo B. Song"},{"@pid":"22/1566","text":"Joseph Sill"},{"@pid":"69/3008","text":"Yaser S. Abu-Mostafa"},{"@pid":"57/2983","text":"Harvey Kasdan"}]},"title":"Image Recognition in Context - Application to Microscopic Urinalysis.","venue":"NIPS","pages":"963-969","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/SongSAK99","ee":"http://papers.nips.cc/paper/1675-image-recognition-in-context-application-to-microscopic-urinalysis","url":"https://dblp.org/rec/conf/nips/SongSAK99"},
+"url":"URL#4841851"
+},
+{
+"@score":"1",
+"@id":"4841852",
+"info":{"authors":{"author":[{"@pid":"15/3665","text":"Clay Spence"},{"@pid":"62/6139","text":"Lucas C. Parra"}]},"title":"Hierarchical Image Probability (H1P) Models.","venue":"NIPS","pages":"848-854","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/SpenceP99","ee":"http://papers.nips.cc/paper/1784-hierarchical-image-probability-h1p-models","url":"https://dblp.org/rec/conf/nips/SpenceP99"},
+"url":"URL#4841852"
+},
+{
+"@score":"1",
+"@id":"4841853",
+"info":{"authors":{"author":[{"@pid":"35/1228","text":"Masashi Sugiyama"},{"@pid":"94/5973","text":"Hidemitsu Ogawa"}]},"title":"Training Data Selection for Optimal Generalization in Trigonometric Polynomial Networks.","venue":"NIPS","pages":"624-630","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/SugiyamaO99","ee":"http://papers.nips.cc/paper/1671-training-data-selection-for-optimal-generalization-in-trigonometric-polynomial-networks","url":"https://dblp.org/rec/conf/nips/SugiyamaO99"},
+"url":"URL#4841853"
+},
+{
+"@score":"1",
+"@id":"4841854",
+"info":{"authors":{"author":[{"@pid":"86/2741","text":"S. Sundararajan"},{"@pid":"35/6732","text":"S. Sathiya Keerthi"}]},"title":"Predictive App roaches for Choosing Hyperparameters in Gaussian Processes.","venue":"NIPS","pages":"631-637","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/SundararajanK99","ee":"http://papers.nips.cc/paper/1767-predictive-app-roaches-for-choosing-hyperparameters-in-gaussian-processes","url":"https://dblp.org/rec/conf/nips/SundararajanK99"},
+"url":"URL#4841854"
+},
+{
+"@score":"1",
+"@id":"4841855",
+"info":{"authors":{"author":[{"@pid":"48/6070","text":"Richard S. Sutton"},{"@pid":"m/DavidAMcAllester","text":"David A. McAllester"},{"@pid":"09/3058","text":"Satinder P. Singh"},{"@pid":"m/YishayMansour","text":"Yishay Mansour"}]},"title":"Policy Gradient Methods for Reinforcement Learning with Function Approximation.","venue":"NIPS","pages":"1057-1063","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/SuttonMSM99","ee":"http://papers.nips.cc/paper/1713-policy-gradient-methods-for-reinforcement-learning-with-function-approximation","url":"https://dblp.org/rec/conf/nips/SuttonMSM99"},
+"url":"URL#4841855"
+},
+{
+"@score":"1",
+"@id":"4841856",
+"info":{"authors":{"author":{"@pid":"13/3632","text":"Peter Sykacek"}},"title":"On Input Selection with Reversible Jump Markov Chain Monte Carlo Sampling.","venue":"NIPS","pages":"638-644","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/Sykacek99","ee":"http://papers.nips.cc/paper/1645-on-input-selection-with-reversible-jump-markov-chain-monte-carlo-sampling","url":"https://dblp.org/rec/conf/nips/Sykacek99"},
+"url":"URL#4841856"
+},
+{
+"@score":"1",
+"@id":"4841857",
+"info":{"authors":{"author":[{"@pid":"64/1875","text":"Akaysha C. Tang"},{"@pid":"36/3031","text":"Barak A. Pearlmutter"},{"@pid":"94/1433","text":"Tim A. Hely"},{"@pid":"08/2700","text":"Michael Zibulevsky"},{"@pid":"91/3550","text":"Michael P. Weisend"}]},"title":"An MEG Study of Response Latency and Variability in the Human Visual System During a Visual-Motor Integration Task.","venue":"NIPS","pages":"185-191","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/TangPHZW99","ee":"http://papers.nips.cc/paper/1707-an-meg-study-of-response-latency-and-variability-in-the-human-visual-system-during-a-visual-motor-integration-task","url":"https://dblp.org/rec/conf/nips/TangPHZW99"},
+"url":"URL#4841857"
+},
+{
+"@score":"1",
+"@id":"4841858",
+"info":{"authors":{"author":{"@pid":"t/JoshuaBTenenbaum","text":"Joshua B. Tenenbaum"}},"title":"Rules and Similarity in Concept Learning.","venue":"NIPS","pages":"59-65","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/Tenenbaum99","ee":"http://papers.nips.cc/paper/1666-rules-and-similarity-in-concept-learning","url":"https://dblp.org/rec/conf/nips/Tenenbaum99"},
+"url":"URL#4841858"
+},
+{
+"@score":"1",
+"@id":"4841859",
+"info":{"authors":{"author":{"@pid":"t/SebastianThrun","text":"Sebastian Thrun"}},"title":"Monte Carlo POMDPs.","venue":"NIPS","pages":"1064-1070","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/Thrun99","ee":"http://papers.nips.cc/paper/1772-monte-carlo-pomdps","url":"https://dblp.org/rec/conf/nips/Thrun99"},
+"url":"URL#4841859"
+},
+{
+"@score":"1",
+"@id":"4841860",
+"info":{"authors":{"author":[{"@pid":"t/PeterTino","text":"Peter Tiño"},{"@pid":"81/6229","text":"Georg Dorffner"}]},"title":"Building Predictive Models from Fractal Representations of Symbolic Sequences.","venue":"NIPS","pages":"645-651","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/TinoD99","ee":"http://papers.nips.cc/paper/1762-building-predictive-models-from-fractal-representations-of-symbolic-sequences","url":"https://dblp.org/rec/conf/nips/TinoD99"},
+"url":"URL#4841860"
+},
+{
+"@score":"1",
+"@id":"4841861",
+"info":{"authors":{"author":{"@pid":"t/MichaelETipping","text":"Michael E. Tipping"}},"title":"The Relevance Vector Machine.","venue":"NIPS","pages":"652-658","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/Tipping99","ee":"http://papers.nips.cc/paper/1719-the-relevance-vector-machine","url":"https://dblp.org/rec/conf/nips/Tipping99"},
+"url":"URL#4841861"
+},
+{
+"@score":"1",
+"@id":"4841862",
+"info":{"authors":{"author":[{"@pid":"73/3289","text":"Bradley Tonkes"},{"@pid":"65/2157","text":"Alan D. Blair"},{"@pid":"30/5296","text":"Janet Wiles"}]},"title":"Evolving Learnable Languages.","venue":"NIPS","pages":"66-72","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/TonkesBW99","ee":"http://papers.nips.cc/paper/1782-evolving-learnable-languages","url":"https://dblp.org/rec/conf/nips/TonkesBW99"},
+"url":"URL#4841862"
+},
+{
+"@score":"1",
+"@id":"4841863",
+"info":{"authors":{"author":[{"@pid":"81/6125","text":"Shivakumar Vaithyanathan"},{"@pid":"35/1373","text":"Byron Dom"}]},"title":"Generalized Model Selection for Unsupervised Learning in High Dimensions.","venue":"NIPS","pages":"970-976","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/VaithyanathanD99","ee":"http://papers.nips.cc/paper/1644-generalized-model-selection-for-unsupervised-learning-in-high-dimensions","url":"https://dblp.org/rec/conf/nips/VaithyanathanD99"},
+"url":"URL#4841863"
+},
+{
+"@score":"1",
+"@id":"4841864",
+"info":{"authors":{"author":[{"@pid":"31/6484","text":"Vladimir Vapnik"},{"@pid":"52/5375-4","text":"Sayan Mukherjee 0004"}]},"title":"Support Vector Method for Multivariate Density Estimation.","venue":"NIPS","pages":"659-665","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/VapnikM99","ee":"http://papers.nips.cc/paper/1652-support-vector-method-for-multivariate-density-estimation","url":"https://dblp.org/rec/conf/nips/VapnikM99"},
+"url":"URL#4841864"
+},
+{
+"@score":"1",
+"@id":"4841865",
+"info":{"authors":{"author":[{"@pid":"78/4806","text":"Nuno Vasconcelos"},{"@pid":"60/2616","text":"Andrew Lippman"}]},"title":"Learning from User Feedback in Image Retrieval Systems.","venue":"NIPS","pages":"977-986","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/VasconcelosL99","ee":"http://papers.nips.cc/paper/1761-learning-from-user-feedback-in-image-retrieval-systems","url":"https://dblp.org/rec/conf/nips/VasconcelosL99"},
+"url":"URL#4841865"
+},
+{
+"@score":"1",
+"@id":"4841866",
+"info":{"authors":{"author":[{"@pid":"48/6396","text":"Martin J. Wainwright"},{"@pid":"30/5604","text":"Eero P. Simoncelli"}]},"title":"Scale Mixtures of Gaussians and the Statistics of Natural Images.","venue":"NIPS","pages":"855-861","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/WainwrightS99","ee":"http://papers.nips.cc/paper/1750-scale-mixtures-of-gaussians-and-the-statistics-of-natural-images","url":"https://dblp.org/rec/conf/nips/WainwrightS99"},
+"url":"URL#4841866"
+},
+{
+"@score":"1",
+"@id":"4841867",
+"info":{"authors":{"author":[{"@pid":"46/6368","text":"Eric A. Wan"},{"@pid":"24/2251","text":"Rudolph van der Merwe"},{"@pid":"34/119","text":"Alex T. Nelson"}]},"title":"Dual Estimation and the Unscented Transformation.","venue":"NIPS","pages":"666-672","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/WanMN99","ee":"http://papers.nips.cc/paper/1681-dual-estimation-and-the-unscented-transformation","url":"https://dblp.org/rec/conf/nips/WanMN99"},
+"url":"URL#4841867"
+},
+{
+"@score":"1",
+"@id":"4841868",
+"info":{"authors":{"author":{"@pid":"28/390","text":"Sumio Watanabe"}},"title":"Algebraic Analysis for Non-regular Learning Machines.","venue":"NIPS","pages":"356-362","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/Watanabe99","ee":"http://papers.nips.cc/paper/1739-algebraic-analysis-for-non-regular-learning-machines","url":"https://dblp.org/rec/conf/nips/Watanabe99"},
+"url":"URL#4841868"
+},
+{
+"@score":"1",
+"@id":"4841869",
+"info":{"authors":{"author":[{"@pid":"w/AJMMWeijters","text":"Ton Weijters"},{"@pid":"b/AvdBosch","text":"Antal van den Bosch"},{"@pid":"30/6647","text":"Eric O. Postma"}]},"title":"Learning Statistically Neutral Tasks without Expert Guidance.","venue":"NIPS","pages":"73-79","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/WeijtersBP99","ee":"http://papers.nips.cc/paper/1780-learning-statistically-neutral-tasks-without-expert-guidance","url":"https://dblp.org/rec/conf/nips/WeijtersBP99"},
+"url":"URL#4841869"
+},
+{
+"@score":"1",
+"@id":"4841870",
+"info":{"authors":{"author":[{"@pid":"44/1092","text":"Yair Weiss"},{"@pid":"86/6650","text":"William T. Freeman"}]},"title":"Correctness of Belief Propagation in Gaussian Graphical Models of Arbitrary Topology.","venue":"NIPS","pages":"673-679","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/WeissF99","ee":"http://papers.nips.cc/paper/1641-correctness-of-belief-propagation-in-gaussian-graphical-models-of-arbitrary-topology","url":"https://dblp.org/rec/conf/nips/WeissF99"},
+"url":"URL#4841870"
+},
+{
+"@score":"1",
+"@id":"4841871",
+"info":{"authors":{"author":{"@pid":"w/ChristopherKIWilliams","text":"Christopher K. I. Williams"}},"title":"A MCMC Approach to Hierarchical Mixture Modelling.","venue":"NIPS","pages":"680-686","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/Williams99","ee":"http://papers.nips.cc/paper/1650-a-mcmc-approach-to-hierarchical-mixture-modelling","url":"https://dblp.org/rec/conf/nips/Williams99"},
+"url":"URL#4841871"
+},
+{
+"@score":"1",
+"@id":"4841872",
+"info":{"authors":{"author":[{"@pid":"25/437-1","text":"Si Wu 0001"},{"@pid":"63/4120","text":"Hiroyuki Nakahara"},{"@pid":"88/822","text":"Noboru Murata"},{"@pid":"11/3260","text":"Shun-ichi Amari"}]},"title":"Population Decoding Based on an Unfaithful Model.","venue":"NIPS","pages":"192-198","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/WuNMA99","ee":"http://papers.nips.cc/paper/1752-population-decoding-based-on-an-unfaithful-model","url":"https://dblp.org/rec/conf/nips/WuNMA99"},
+"url":"URL#4841872"
+},
+{
+"@score":"1",
+"@id":"4841873",
+"info":{"authors":{"author":[{"@pid":"50/3969","text":"Xiaohui Xie"},{"@pid":"03/4883","text":"H. Sebastian Seung"}]},"title":"Spike-based Learning Rules and Stabilization of Persistent Neural Activity.","venue":"NIPS","pages":"199-208","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/XieS99","ee":"http://papers.nips.cc/paper/1658-spike-based-learning-rules-and-stabilization-of-persistent-neural-activity","url":"https://dblp.org/rec/conf/nips/XieS99"},
+"url":"URL#4841873"
+},
+{
+"@score":"1",
+"@id":"4841874",
+"info":{"authors":{"author":[{"@pid":"88/409","text":"Howard Hua Yang"},{"@pid":"70/158","text":"Hynek Hermansky"}]},"title":"Search for Information Bearing Components in Speech.","venue":"NIPS","pages":"803-812","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/YangH99","ee":"http://papers.nips.cc/paper/1655-search-for-information-bearing-components-in-speech","url":"https://dblp.org/rec/conf/nips/YangH99"},
+"url":"URL#4841874"
+},
+{
+"@score":"1",
+"@id":"4841875",
+"info":{"authors":{"author":[{"@pid":"88/409","text":"Howard Hua Yang"},{"@pid":"24/1421","text":"John E. Moody"}]},"title":"Data Visualization and Feature Selection - New Algorithms for Nongaussian Data.","venue":"NIPS","pages":"687-702","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/YangM99","ee":"http://papers.nips.cc/paper/1779-data-visualization-and-feature-selection-new-algorithms-for-nongaussian-data","url":"https://dblp.org/rec/conf/nips/YangM99"},
+"url":"URL#4841875"
+},
+{
+"@score":"1",
+"@id":"4841876",
+"info":{"authors":{"author":[{"@pid":"79/3711","text":"Ming-Hsuan Yang 0001"},{"@pid":"r/DanRoth","text":"Dan Roth"},{"@pid":"30/3572","text":"Narendra Ahuja"}]},"title":"A SNoW-Based Face Detector.","venue":"NIPS","pages":"862-868","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/YangRA99","ee":"http://papers.nips.cc/paper/1747-a-snow-based-face-detector","url":"https://dblp.org/rec/conf/nips/YangRA99"},
+"url":"URL#4841876"
+},
+{
+"@score":"1",
+"@id":"4841877",
+"info":{"authors":{"author":[{"@pid":"01/452-11","text":"Zhiyong Yang 0011"},{"@pid":"16/6366","text":"Richard S. Zemel"}]},"title":"Managing Uncertainty in Cue Combination.","venue":"NIPS","pages":"869-878","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/YangZ99","ee":"http://papers.nips.cc/paper/1742-managing-uncertainty-in-cue-combination","url":"https://dblp.org/rec/conf/nips/YangZ99"},
+"url":"URL#4841877"
+},
+{
+"@score":"1",
+"@id":"4841878",
+"info":{"authors":{"author":[{"@pid":"16/6366","text":"Richard S. Zemel"},{"@pid":"m/MichaelCMozer","text":"Michael Mozer"}]},"title":"A Generative Model for Attractor Dynamics.","venue":"NIPS","pages":"80-88","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/ZemelM99","ee":"http://papers.nips.cc/paper/1695-a-generative-model-for-attractor-dynamics","url":"https://dblp.org/rec/conf/nips/ZemelM99"},
+"url":"URL#4841878"
+},
+{
+"@score":"1",
+"@id":"4841879",
+"info":{"authors":{"author":{"@pid":"07/4227-1","text":"Tong Zhang 0001"}},"title":"Some Theoretical Results Concerning the Convergence of Compositions of Regularized Linear Functions.","venue":"NIPS","pages":"370-378","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/Zhang99","ee":"http://papers.nips.cc/paper/1689-some-theoretical-results-concerning-the-convergence-of-compositions-of-regularized-linear-functions","url":"https://dblp.org/rec/conf/nips/Zhang99"},
+"url":"URL#4841879"
+},
+{
+"@score":"1",
+"@id":"4841880",
+"info":{"authors":{"author":[{"@pid":"20/4627-1","text":"Liqing Zhang 0001"},{"@pid":"11/3260","text":"Shun-ichi Amari"},{"@pid":"c/AndrzejCichocki","text":"Andrzej Cichocki"}]},"title":"Semiparametric Approach to Multichannel Blind Deconvolution of Nonminimum Phase Systems","venue":"NIPS","pages":"363-369","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/ZhangAC99","ee":"http://papers.nips.cc/paper/1653-semiparametric-approach-to-multichannel-blind-deconvolution-of-nonminimum-phase-systems","url":"https://dblp.org/rec/conf/nips/ZhangAC99"},
+"url":"URL#4841880"
+},
+{
+"@score":"1",
+"@id":"4841881",
+"info":{"authors":{"author":[{"@pid":"09/1849","text":"Mark Zlochin"},{"@pid":"52/4019","text":"Yoram Baram"}]},"title":"Manifold Stochastic Dynamics for Bayesian Learning.","venue":"NIPS","pages":"694-702","year":"1999","type":"Conference and Workshop Papers","key":"conf/nips/ZlochinB99","ee":"http://papers.nips.cc/paper/1757-manifold-stochastic-dynamics-for-bayesian-learning","url":"https://dblp.org/rec/conf/nips/ZlochinB99"},
+"url":"URL#4841881"
+}
+]
+}
+}
+}

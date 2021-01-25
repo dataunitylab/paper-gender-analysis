@@ -1,0 +1,188 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"osdi\"/\"osdi2012\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"105.28"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"26",
+"@dc":"26",
+"@oc":"26",
+"@id":"17580803",
+"text":":facetid:toc:db/conf/osdi/osdi2012.bht"
+}
+},
+"hits":{
+"@total":"26",
+"@computed":"26",
+"@sent":"26",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"2842004",
+"info":{"authors":{"author":[{"@pid":"44/6870","text":"Mona Attariyan"},{"@pid":"51/5429","text":"Michael Chow"},{"@pid":"14/85","text":"Jason Flinn"}]},"title":"X-ray - Automating Root-Cause Diagnosis of Performance Anomalies in Production Software.","venue":"OSDI","pages":"307-320","year":"2012","type":"Conference and Workshop Papers","key":"conf/osdi/AttariyanCF12","ee":"https://www.usenix.org/conference/osdi12/technical-sessions/presentation/attariyan","url":"https://dblp.org/rec/conf/osdi/AttariyanCF12"},
+"url":"URL#2842004"
+},
+{
+"@score":"1",
+"@id":"2842008",
+"info":{"authors":{"author":[{"@pid":"14/8279","text":"Adam Belay"},{"@pid":"70/1811","text":"Andrea Bittau"},{"@pid":"135/6767","text":"Ali José Mashtizadeh"},{"@pid":"119/7161","text":"David Terei"},{"@pid":"m/DMazieres","text":"David Mazières"},{"@pid":"k/ChristoforosEKozyrakis","text":"Christos Kozyrakis"}]},"title":"Dune - Safe User-level Access to Privileged CPU Features.","venue":"OSDI","pages":"335-348","year":"2012","type":"Conference and Workshop Papers","key":"conf/osdi/BelayBMTMK12","ee":"https://www.usenix.org/conference/osdi12/technical-sessions/presentation/belay","url":"https://dblp.org/rec/conf/osdi/BelayBMTMK12"},
+"url":"URL#2842008"
+},
+{
+"@score":"1",
+"@id":"2842011",
+"info":{"authors":{"author":[{"@pid":"42/5495","text":"James C. Corbett"},{"@pid":"d/JeffreyDean","text":"Jeffrey Dean"},{"@pid":"89/5700","text":"Michael Epstein"},{"@pid":"71/5497","text":"Andrew Fikes"},{"@pid":"69/6042-1","text":"Christopher Frost 0001"},{"@pid":"52/9493","text":"J. J. Furman"},{"@pid":"g/SGhemawat","text":"Sanjay Ghemawat"},{"@pid":"23/8510","text":"Andrey Gubarev"},{"@pid":"135/0715","text":"Christopher Heiser"},{"@pid":"135/0717","text":"Peter Hochschild"},{"@pid":"31/1764","text":"Wilson C. Hsieh"},{"@pid":"72/41","text":"Sebastian Kanthak"},{"@pid":"95/369","text":"Eugene Kogan"},{"@pid":"88/5785","text":"Hongyi Li"},{"@pid":"98/9492","text":"Alexander Lloyd"},{"@pid":"m/SergeyMelnik","text":"Sergey Melnik 0001"},{"@pid":"135/0726","text":"David Mwaura"},{"@pid":"55/1314","text":"David Nagle"},{"@pid":"60/6154","text":"Sean Quinlan"},{"@pid":"97/690","text":"Rajesh Rao"},{"@pid":"135/0720","text":"Lindsay Rolig"},{"@pid":"82/6781","text":"Yasushi Saito"},{"@pid":"67/5209","text":"Michal Szymaniak"},{"@pid":"26/1490","text":"Christopher Taylor"},{"@pid":"57/4644","text":"Ruth Wang"},{"@pid":"135/0730","text":"Dale Woodford"}]},"title":"Spanner - Google&apos;s Globally-Distributed Database.","venue":"OSDI","pages":"251-264","year":"2012","type":"Conference and Workshop Papers","key":"conf/osdi/CorbettDEFFFGGHHHKKLLMMNQRRSSTWW12","ee":"https://www.usenix.org/conference/osdi12/technical-sessions/presentation/corbett","url":"https://dblp.org/rec/conf/osdi/CorbettDEFFFGGHHHKKLLMMNQRRSSTWW12"},
+"url":"URL#2842011"
+},
+{
+"@score":"1",
+"@id":"2842012",
+"info":{"authors":{"author":[{"@pid":"98/9256","text":"Alan M. Dunn"},{"@pid":"32/11190","text":"Michael Z. Lee"},{"@pid":"74/28","text":"Suman Jana"},{"@pid":"07/9257","text":"Sangman Kim"},{"@pid":"94/2996","text":"Mark Silberstein"},{"@pid":"60/9826","text":"Yuanzhong Xu"},{"@pid":"46/6275","text":"Vitaly Shmatikov"},{"@pid":"76/6082","text":"Emmett Witchel"}]},"title":"Eternal Sunshine of the Spotless Machine - Protecting Privacy with Ephemeral Channels.","venue":"OSDI","pages":"61-75","year":"2012","type":"Conference and Workshop Papers","key":"conf/osdi/DunnLJKSXSW12","ee":"https://www.usenix.org/conference/osdi12/technical-sessions/presentation/dunn","url":"https://dblp.org/rec/conf/osdi/DunnLJKSXSW12"},
+"url":"URL#2842012"
+},
+{
+"@score":"1",
+"@id":"2842014",
+"info":{"authors":{"author":[{"@pid":"95/4216","text":"Daniel B. Giffin"},{"@pid":"68/8881","text":"Amit Levy"},{"@pid":"91/6118","text":"Deian Stefan"},{"@pid":"119/7161","text":"David Terei"},{"@pid":"m/DMazieres","text":"David Mazières"},{"@pid":"m/JohnCMitchell","text":"John C. Mitchell"},{"@pid":"48/5534","text":"Alejandro Russo"}]},"title":"Hails - Protecting Data Privacy in Untrusted Web Applications.","venue":"OSDI","pages":"47-60","year":"2012","type":"Conference and Workshop Papers","key":"conf/osdi/GiffinLSTMMR12","ee":"https://www.usenix.org/conference/osdi12/technical-sessions/presentation/giffin","url":"https://dblp.org/rec/conf/osdi/GiffinLSTMMR12"},
+"url":"URL#2842014"
+},
+{
+"@score":"1",
+"@id":"2842015",
+"info":{"authors":{"author":[{"@pid":"61/8262","text":"Joseph E. Gonzalez"},{"@pid":"11/8261","text":"Yucheng Low"},{"@pid":"62/3053","text":"Haijie Gu"},{"@pid":"35/1070","text":"Danny Bickson"},{"@pid":"38/769","text":"Carlos Guestrin"}]},"title":"PowerGraph - Distributed Graph-Parallel Computation on Natural Graphs.","venue":"OSDI","pages":"17-30","year":"2012","type":"Conference and Workshop Papers","key":"conf/osdi/GonzalezLGBG12","ee":"https://www.usenix.org/conference/osdi12/technical-sessions/presentation/gonzalez","url":"https://dblp.org/rec/conf/osdi/GonzalezLGBG12"},
+"url":"URL#2842015"
+},
+{
+"@score":"1",
+"@id":"2842016",
+"info":{"authors":{"author":[{"@pid":"76/6591","text":"Mark S. Gordon"},{"@pid":"138/4183","text":"Davoud Anoushe Jamshidi"},{"@pid":"m/SAMahlke","text":"Scott A. Mahlke"},{"@pid":"91/584","text":"Zhuoqing Morley Mao"},{"@pid":"83/6331","text":"Xu Chen"}]},"title":"COMET - Code Offload by Migrating Execution Transparently.","venue":"OSDI","pages":"93-106","year":"2012","type":"Conference and Workshop Papers","key":"conf/osdi/GordonJMMC12","ee":"https://www.usenix.org/conference/osdi12/technical-sessions/presentation/gordon","url":"https://dblp.org/rec/conf/osdi/GordonJMMC12"},
+"url":"URL#2842016"
+},
+{
+"@score":"1",
+"@id":"2842017",
+"info":{"authors":{"author":[{"@pid":"53/1850","text":"Zhenyu Guo"},{"@pid":"88/9078","text":"Xuepeng Fan"},{"@pid":"56/8165","text":"Rishan Chen"},{"@pid":"131/6330","text":"Jiaxing Zhang"},{"@pid":"75/7061","text":"Hucheng Zhou"},{"@pid":"76/4167","text":"Sean McDirmid"},{"@pid":"52/5716-21","text":"Chang Liu 0021"},{"@pid":"99/2649-16","text":"Wei Lin 0016"},{"@pid":"84/2644","text":"Jingren Zhou"},{"@pid":"z/LidongZhou","text":"Lidong Zhou"}]},"title":"Spotting Code Optimizations in Data-Parallel Pipelines through PeriSCOPE.","venue":"OSDI","pages":"121-133","year":"2012","type":"Conference and Workshop Papers","key":"conf/osdi/GuoFCZZMLLZZ12","ee":"https://www.usenix.org/conference/osdi12/technical-sessions/presentation/guo","url":"https://dblp.org/rec/conf/osdi/GuoFCZZMLLZZ12"},
+"url":"URL#2842017"
+},
+{
+"@score":"1",
+"@id":"2842018",
+"info":{"authors":{"author":[{"@pid":"87/6455","text":"Sangjin Han"},{"@pid":"145/2338","text":"Scott Marshall"},{"@pid":"34/3515","text":"Byung-Gon Chun"},{"@pid":"68/5579","text":"Sylvia Ratnasamy"}]},"title":"MegaPipe - A New Programming Interface for Scalable Network I/O.","venue":"OSDI","pages":"135-148","year":"2012","type":"Conference and Workshop Papers","key":"conf/osdi/HanMCR12","ee":"https://www.usenix.org/conference/osdi12/technical-sessions/presentation/han","url":"https://dblp.org/rec/conf/osdi/HanMCR12"},
+"url":"URL#2842018"
+},
+{
+"@score":"1",
+"@id":"2842019",
+"info":{"authors":{"author":[{"@pid":"73/8636","text":"Guoliang Jin"},{"@pid":"10/4661-22","text":"Wei Zhang 0022"},{"@pid":"96/7771","text":"Dongdong Deng"}]},"title":"Automated Concurrency-Bug Fixing.","venue":"OSDI","pages":"221-236","year":"2012","type":"Conference and Workshop Papers","key":"conf/osdi/Jin0D12","ee":"https://www.usenix.org/conference/osdi12/technical-sessions/presentation/jin","url":"https://dblp.org/rec/conf/osdi/Jin0D12"},
+"url":"URL#2842019"
+},
+{
+"@score":"1",
+"@id":"2842020",
+"info":{"authors":{"author":[{"@pid":"23/6695","text":"Manos Kapritsos"},{"@pid":"w/YangWang9","text":"Yang Wang 0009"},{"@pid":"33/2617","text":"Vivien Quéma"},{"@pid":"17/597","text":"Allen Clement"},{"@pid":"a/LAlvisi","text":"Lorenzo Alvisi"},{"@pid":"d/MDahlin","text":"Mike Dahlin"}]},"title":"All about Eve - Execute-Verify Replication for Multi-Core Servers.","venue":"OSDI","pages":"237-250","year":"2012","type":"Conference and Workshop Papers","key":"conf/osdi/Kapritsos0QCAD12","ee":"https://www.usenix.org/conference/osdi12/technical-sessions/presentation/kapritsos","url":"https://dblp.org/rec/conf/osdi/Kapritsos0QCAD12"},
+"url":"URL#2842020"
+},
+{
+"@score":"1",
+"@id":"2842023",
+"info":{"authors":{"author":[{"@pid":"38/8882","text":"Taesoo Kim"},{"@pid":"15/3784","text":"Ramesh Chandra"},{"@pid":"99/5780","text":"Nickolai Zeldovich"}]},"title":"Efficient Patch-based Auditing for Web Application Vulnerabilities.","venue":"OSDI","pages":"193-206","year":"2012","type":"Conference and Workshop Papers","key":"conf/osdi/KimCZ12","ee":"https://www.usenix.org/conference/osdi12/technical-sessions/presentation/kim","url":"https://dblp.org/rec/conf/osdi/KimCZ12"},
+"url":"URL#2842023"
+},
+{
+"@score":"1",
+"@id":"2842025",
+"info":{"authors":{"author":[{"@pid":"15/5513","text":"Ramakrishna Kotla"},{"@pid":"r/TLRodeheffer","text":"Tom Rodeheffer"},{"@pid":"r/IndrajitRoy","text":"Indrajit Roy 0001"},{"@pid":"15/601","text":"Patrick Stuedi"},{"@pid":"34/7934","text":"Benjamin Wester"}]},"title":"Pasture - Secure Offline Data Access Using Commodity Trusted Hardware.","venue":"OSDI","pages":"321-334","year":"2012","type":"Conference and Workshop Papers","key":"conf/osdi/KotlaRRSW12","ee":"https://www.usenix.org/conference/osdi12/technical-sessions/presentation/kotla","url":"https://dblp.org/rec/conf/osdi/KotlaRRSW12"},
+"url":"URL#2842025"
+},
+{
+"@score":"1",
+"@id":"2842026",
+"info":{"authors":{"author":[{"@pid":"42/8263","text":"Aapo Kyrola"},{"@pid":"b/GEBlelloch","text":"Guy E. Blelloch"},{"@pid":"38/769","text":"Carlos Guestrin"}]},"title":"GraphChi - Large-Scale Graph Computation on Just a PC.","venue":"OSDI","pages":"31-46","year":"2012","type":"Conference and Workshop Papers","key":"conf/osdi/KyrolaBG12","ee":"https://www.usenix.org/conference/osdi12/technical-sessions/presentation/kyrola","url":"https://dblp.org/rec/conf/osdi/KyrolaBG12"},
+"url":"URL#2842026"
+},
+{
+"@score":"1",
+"@id":"2842027",
+"info":{"authors":{"author":{"@pid":"91/2665","text":"Philip Levis"}},"title":"Experiences from a Decade of TinyOS Development.","venue":"OSDI","pages":"207-220","year":"2012","type":"Conference and Workshop Papers","key":"conf/osdi/Levis12","ee":"https://www.usenix.org/conference/osdi12/technical-sessions/presentation/levis","url":"https://dblp.org/rec/conf/osdi/Levis12"},
+"url":"URL#2842027"
+},
+{
+"@score":"1",
+"@id":"2842028",
+"info":{"authors":{"author":[{"@pid":"16/6465-1","text":"Cheng Li 0001"},{"@pid":"44/7096","text":"Daniel Porto"},{"@pid":"17/597","text":"Allen Clement"},{"@pid":"g/JohannesGehrke","text":"Johannes Gehrke"},{"@pid":"18/4843","text":"Nuno M. Preguiça"},{"@pid":"87/6689","text":"Rodrigo Rodrigues 0001"}]},"title":"Making Geo-Replicated Systems Fast as Possible, Consistent when Necessary.","venue":"OSDI","pages":"265-278","year":"2012","type":"Conference and Workshop Papers","key":"conf/osdi/LiPCGPR12","ee":"https://www.usenix.org/conference/osdi12/technical-sessions/presentation/li","url":"https://dblp.org/rec/conf/osdi/LiPCGPR12"},
+"url":"URL#2842028"
+},
+{
+"@score":"1",
+"@id":"2842030",
+"info":{"authors":{"author":[{"@pid":"28/10322","text":"Arjun Narayan"},{"@pid":"60/4358","text":"Andreas Haeberlen"}]},"title":"DJoin - Differentially Private Join Queries over Distributed Databases.","venue":"OSDI","pages":"149-162","year":"2012","type":"Conference and Workshop Papers","key":"conf/osdi/NarayanH12","ee":"https://www.usenix.org/conference/osdi12/technical-sessions/presentation/narayan","url":"https://dblp.org/rec/conf/osdi/NarayanH12"},
+"url":"URL#2842030"
+},
+{
+"@score":"1",
+"@id":"2842031",
+"info":{"authors":{"author":[{"@pid":"97/1336","text":"Edmund B. Nightingale"},{"@pid":"02/3927","text":"Jeremy Elson"},{"@pid":"16/3382","text":"Jinliang Fan"},{"@pid":"80/77","text":"Owen S. Hofmann"},{"@pid":"55/3274","text":"Jon Howell"},{"@pid":"145/2173","text":"Yutaka Suzue"}]},"title":"Flat Datacenter Storage.","venue":"OSDI","pages":"1-15","year":"2012","type":"Conference and Workshop Papers","key":"conf/osdi/NightingaleEFHHS12","ee":"https://www.usenix.org/conference/osdi12/technical-sessions/presentation/nightingale","url":"https://dblp.org/rec/conf/osdi/NightingaleEFHHS12"},
+"url":"URL#2842031"
+},
+{
+"@score":"1",
+"@id":"2842033",
+"info":{"authors":{"author":[{"@pid":"22/4453","text":"Lenin Ravindranath"},{"@pid":"p/JPadhye","text":"Jitendra Padhye"},{"@pid":"32/4165","text":"Sharad Agarwal"},{"@pid":"81/6327","text":"Ratul Mahajan"},{"@pid":"44/4169","text":"Ian Obermiller"},{"@pid":"64/5713","text":"Shahin Shayandeh"}]},"title":"AppInsight - Mobile App Performance Monitoring in the Wild.","venue":"OSDI","pages":"107-120","year":"2012","type":"Conference and Workshop Papers","key":"conf/osdi/RavindranathPAMOS12","ee":"https://www.usenix.org/conference/osdi12/technical-sessions/presentation/ravindranath","url":"https://dblp.org/rec/conf/osdi/RavindranathPAMOS12"},
+"url":"URL#2842033"
+},
+{
+"@score":"1",
+"@id":"2842034",
+"info":{"authors":{"author":[{"@pid":"00/5158","text":"Matthew J. Renzelmann"},{"@pid":"42/4496","text":"Asim Kadav"},{"@pid":"s/MichaelMSwift","text":"Michael M. Swift"}]},"title":"SymDrive - Testing Drivers without Devices.","venue":"OSDI","pages":"279-292","year":"2012","type":"Conference and Workshop Papers","key":"conf/osdi/RenzelmannKS12","ee":"https://www.usenix.org/conference/osdi12/technical-sessions/presentation/renzelmann","url":"https://dblp.org/rec/conf/osdi/RenzelmannKS12"},
+"url":"URL#2842034"
+},
+{
+"@score":"1",
+"@id":"2842036",
+"info":{"authors":{"author":[{"@pid":"125/8099","text":"David Shue"},{"@pid":"65/1370","text":"Michael J. Freedman"},{"@pid":"55/654","text":"Anees Shaikh"}]},"title":"Performance Isolation and Fairness for Multi-Tenant Cloud Storage.","venue":"OSDI","pages":"349-362","year":"2012","type":"Conference and Workshop Papers","key":"conf/osdi/ShueFS12","ee":"https://www.usenix.org/conference/osdi12/technical-sessions/presentation/shue","url":"https://dblp.org/rec/conf/osdi/ShueFS12"},
+"url":"URL#2842036"
+},
+{
+"@score":"1",
+"@id":"2842038",
+"info":{"authors":{"author":[{"@pid":"36/345","text":"Yang Tang"},{"@pid":"145/2326","text":"Phillip Ames"},{"@pid":"145/2316","text":"Sravan Bhamidipati"},{"@pid":"21/7434","text":"Ashish Bijlani"},{"@pid":"g/RoxanaGeambasu","text":"Roxana Geambasu"},{"@pid":"129/8262","text":"Nikhil Sarda"}]},"title":"CleanOS - Limiting Mobile Data Exposure with Idle Eviction.","venue":"OSDI","pages":"77-91","year":"2012","type":"Conference and Workshop Papers","key":"conf/osdi/TangABBGS12","ee":"https://www.usenix.org/conference/osdi12/technical-sessions/presentation/tang","url":"https://dblp.org/rec/conf/osdi/TangABBGS12"},
+"url":"URL#2842038"
+},
+{
+"@score":"1",
+"@id":"2842041",
+"info":{"authors":{"author":[{"@pid":"08/5760-5","text":"Xi Wang 0005"},{"@pid":"12/3578-1","text":"Haogang Chen 0001"},{"@pid":"129/3026","text":"Zhihao Jia"},{"@pid":"99/5780","text":"Nickolai Zeldovich"},{"@pid":"k/MFransKaashoek","text":"M. Frans Kaashoek"}]},"title":"Improving Integer Security for Systems with KINT.","venue":"OSDI","pages":"163-177","year":"2012","type":"Conference and Workshop Papers","key":"conf/osdi/WangCJZK12","ee":"https://www.usenix.org/conference/osdi12/technical-sessions/presentation/wang","url":"https://dblp.org/rec/conf/osdi/WangCJZK12"},
+"url":"URL#2842041"
+},
+{
+"@score":"1",
+"@id":"2842042",
+"info":{"authors":{"author":[{"@pid":"13/5827","text":"David Isaac Wolinsky"},{"@pid":"87/8037","text":"Henry Corrigan-Gibbs"},{"@pid":"f/BryanFord","text":"Bryan Ford"},{"@pid":"24/3059","text":"Aaron Johnson"}]},"title":"Dissent in Numbers - Making Strong Anonymity Scale.","venue":"OSDI","pages":"179-182","year":"2012","type":"Conference and Workshop Papers","key":"conf/osdi/WolinskyCFJ12","ee":"https://www.usenix.org/conference/osdi12/technical-sessions/presentation/wolinsky","url":"https://dblp.org/rec/conf/osdi/WolinskyCFJ12"},
+"url":"URL#2842042"
+},
+{
+"@score":"1",
+"@id":"2842044",
+"info":{"authors":{"author":[{"@pid":"94/489","text":"Ding Yuan"},{"@pid":"03/6317","text":"Soyeon Park"},{"@pid":"29/1726-5","text":"Peng Huang 0005"},{"@pid":"51/3710-44","text":"Yang Liu 0044"},{"@pid":"147/1312","text":"Michael Mihn-Jong Lee"},{"@pid":"04/8359","text":"Xiaoming Tang"},{"@pid":"99/2747-1","text":"Yuanyuan Zhou 0001"},{"@pid":"s/StefanSavage","text":"Stefan Savage"}]},"title":"Be Conservative - Enhancing Failure Diagnosis with Proactive Logging.","venue":"OSDI","pages":"293-306","year":"2012","type":"Conference and Workshop Papers","key":"conf/osdi/YuanPHLLTZS12","ee":"https://www.usenix.org/conference/osdi12/technical-sessions/presentation/yuan","url":"https://dblp.org/rec/conf/osdi/YuanPHLLTZS12"},
+"url":"URL#2842044"
+},
+{
+"@score":"1",
+"@id":"2877732",
+"info":{"authors":{"author":[{"@pid":"145/2329","text":"Chandu Thekkath"},{"@pid":"v/AminVahdat","text":"Amin Vahdat"}]},"title":"10th USENIX Symposium on Operating Systems Design and Implementation, OSDI 2012, Hollywood, CA, USA, October 8-10, 2012","venue":"OSDI","publisher":"USENIX Association","year":"2012","type":"Editorship","key":"conf/osdi/2012","ee":"https://www.usenix.org/conference/osdi12","url":"https://dblp.org/rec/conf/osdi/2012"},
+"url":"URL#2877732"
+}
+]
+}
+}
+}

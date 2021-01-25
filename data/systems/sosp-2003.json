@@ -1,0 +1,170 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"sosp\"/\"sosp2003\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"141.67"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"23",
+"@dc":"23",
+"@oc":"23",
+"@id":"17587895",
+"text":":facetid:toc:db/conf/sosp/sosp2003.bht"
+}
+},
+"hits":{
+"@total":"23",
+"@computed":"23",
+"@sent":"23",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"4523448",
+"info":{"authors":{"author":[{"@pid":"10/553","text":"Marcos Kawazoe Aguilera"},{"@pid":"m/JeffreyCMogul","text":"Jeffrey C. Mogul"},{"@pid":"w/JanetLWiener","text":"Janet L. Wiener"},{"@pid":"08/2847","text":"Patrick Reynolds"},{"@pid":"57/2442","text":"Athicha Muthitacharoen"}]},"title":"Performance debugging for distributed systems of black boxes.","venue":"SOSP","pages":"74-89","year":"2003","type":"Conference and Workshop Papers","key":"conf/sosp/AguileraMWRM03","doi":"10.1145/945445.945454","ee":"https://doi.org/10.1145/945445.945454","url":"https://dblp.org/rec/conf/sosp/AguileraMWRM03"},
+"url":"URL#4523448"
+},
+{
+"@score":"1",
+"@id":"4523449",
+"info":{"authors":{"author":[{"@pid":"a/AndreaCArpaciDusseau","text":"Andrea C. Arpaci-Dusseau"},{"@pid":"a/RemziHArpaciDusseau","text":"Remzi H. Arpaci-Dusseau"},{"@pid":"90/6074","text":"Nathan C. Burnett"},{"@pid":"87/449","text":"Timothy E. Denehy"},{"@pid":"74/5962","text":"Thomas J. Engle"},{"@pid":"84/5664","text":"Haryadi S. Gunawi"},{"@pid":"73/5268","text":"James A. Nugent"},{"@pid":"34/1202","text":"Florentina I. Popovici"}]},"title":"Transforming policies into mechanisms with infokernel.","venue":"SOSP","pages":"90-105","year":"2003","type":"Conference and Workshop Papers","key":"conf/sosp/Arpaci-DusseauABDEGNP03","doi":"10.1145/945445.945455","ee":"https://doi.org/10.1145/945445.945455","url":"https://dblp.org/rec/conf/sosp/Arpaci-DusseauABDEGNP03"},
+"url":"URL#4523449"
+},
+{
+"@score":"1",
+"@id":"4523450",
+"info":{"authors":{"author":[{"@pid":"b/PaulBarham","text":"Paul Barham 0001"},{"@pid":"85/2995","text":"Boris Dragovic"},{"@pid":"46/4243","text":"Keir Fraser"},{"@pid":"69/6457","text":"Steven Hand"},{"@pid":"61/3834","text":"Tim Harris 0001"},{"@pid":"13/4911","text":"Alex Ho"},{"@pid":"59/3707","text":"Rolf Neugebauer"},{"@pid":"p/IanPratt","text":"Ian Pratt 0001"},{"@pid":"70/5879","text":"Andrew Warfield"}]},"title":"Xen and the art of virtualization.","venue":"SOSP","pages":"164-177","year":"2003","type":"Conference and Workshop Papers","key":"conf/sosp/BarhamDFHHHN03","doi":"10.1145/945445.945462","ee":"https://doi.org/10.1145/945445.945462","url":"https://dblp.org/rec/conf/sosp/BarhamDFHHHN03"},
+"url":"URL#4523450"
+},
+{
+"@score":"1",
+"@id":"4523451",
+"info":{"authors":{"author":[{"@pid":"78/2443","text":"J. Robert von Behren"},{"@pid":"32/474","text":"Jeremy Condit"},{"@pid":"21/6430","text":"Feng Zhou"},{"@pid":"n/GeorgeCNecula","text":"George C. Necula"},{"@pid":"b/EricABrewer","text":"Eric A. Brewer"}]},"title":"Capriccio - scalable threads for internet services.","venue":"SOSP","pages":"268-281","year":"2003","type":"Conference and Workshop Papers","key":"conf/sosp/BehrenCZNB03","doi":"10.1145/945445.945471","ee":"https://doi.org/10.1145/945445.945471","url":"https://dblp.org/rec/conf/sosp/BehrenCZNB03"},
+"url":"URL#4523451"
+},
+{
+"@score":"1",
+"@id":"4523452",
+"info":{"authors":{"author":[{"@pid":"c/MiguelCastro","text":"Miguel Castro 0001"},{"@pid":"d/PDruschel","text":"Peter Druschel"},{"@pid":"86/676","text":"Anne-Marie Kermarrec"},{"@pid":"47/6127","text":"Animesh Nandi"},{"@pid":"r/AITRowstron","text":"Antony I. T. Rowstron"},{"@pid":"14/4653","text":"Atul Singh"}]},"title":"SplitStream - high-bandwidth multicast in cooperative environments.","venue":"SOSP","pages":"298-313","year":"2003","type":"Conference and Workshop Papers","key":"conf/sosp/CastroDKNRS03","doi":"10.1145/945445.945474","ee":"https://doi.org/10.1145/945445.945474","url":"https://dblp.org/rec/conf/sosp/CastroDKNRS03"},
+"url":"URL#4523452"
+},
+{
+"@score":"1",
+"@id":"4523453",
+"info":{"authors":{"author":[{"@pid":"98/5314","text":"Landon P. Cox"},{"@pid":"n/BrianDNoble","text":"Brian D. Noble"}]},"title":"Samsara - honor among thieves in peer-to-peer storage.","venue":"SOSP","pages":"120-132","year":"2003","type":"Conference and Workshop Papers","key":"conf/sosp/CoxN03","doi":"10.1145/945445.945458","ee":"https://doi.org/10.1145/945445.945458","url":"https://dblp.org/rec/conf/sosp/CoxN03"},
+"url":"URL#4523453"
+},
+{
+"@score":"1",
+"@id":"4523454",
+"info":{"authors":{"author":[{"@pid":"e/DREngler","text":"Dawson R. Engler"},{"@pid":"25/151","text":"Ken Ashcraft"}]},"title":"RacerX - effective, static detection of race conditions and deadlocks.","venue":"SOSP","pages":"237-252","year":"2003","type":"Conference and Workshop Papers","key":"conf/sosp/EnglerA03","doi":"10.1145/945445.945468","ee":"https://doi.org/10.1145/945445.945468","url":"https://dblp.org/rec/conf/sosp/EnglerA03"},
+"url":"URL#4523454"
+},
+{
+"@score":"1",
+"@id":"4523455",
+"info":{"authors":{"author":[{"@pid":"00/5815","text":"Yun Fu"},{"@pid":"c/JSChase","text":"Jeffrey S. Chase"},{"@pid":"c/BrentNChun","text":"Brent N. Chun"},{"@pid":"83/3126","text":"Stephen Schwab"},{"@pid":"v/AminVahdat","text":"Amin Vahdat"}]},"title":"SHARP - an architecture for secure resource peering.","venue":"SOSP","pages":"133-148","year":"2003","type":"Conference and Workshop Papers","key":"conf/sosp/FuCCSV03","doi":"10.1145/945445.945459","ee":"https://doi.org/10.1145/945445.945459","url":"https://dblp.org/rec/conf/sosp/FuCCSV03"},
+"url":"URL#4523455"
+},
+{
+"@score":"1",
+"@id":"4523456",
+"info":{"authors":{"author":[{"@pid":"55/1439","text":"Tal Garfinkel"},{"@pid":"42/4891","text":"Ben Pfaff"},{"@pid":"94/6322","text":"Jim Chow"},{"@pid":"r/MendelRosenblum","text":"Mendel Rosenblum"},{"@pid":"b/DanBoneh","text":"Dan Boneh"}]},"title":"Terra - a virtual machine-based platform for trusted computing.","venue":"SOSP","pages":"193-206","year":"2003","type":"Conference and Workshop Papers","key":"conf/sosp/GarfinkelPCRB03","doi":"10.1145/945445.945464","ee":"https://doi.org/10.1145/945445.945464","url":"https://dblp.org/rec/conf/sosp/GarfinkelPCRB03"},
+"url":"URL#4523456"
+},
+{
+"@score":"1",
+"@id":"4523457",
+"info":{"authors":{"author":[{"@pid":"g/SGhemawat","text":"Sanjay Ghemawat"},{"@pid":"g/HGobioff","text":"Howard Gobioff"},{"@pid":"21/6818","text":"Shun-Tak Leung"}]},"title":"The Google file system.","venue":"SOSP","pages":"29-43","year":"2003","type":"Conference and Workshop Papers","key":"conf/sosp/GhemawatGL03","doi":"10.1145/945445.945450","ee":"https://doi.org/10.1145/945445.945450","url":"https://dblp.org/rec/conf/sosp/GhemawatGL03"},
+"url":"URL#4523457"
+},
+{
+"@score":"1",
+"@id":"4523458",
+"info":{"authors":{"author":[{"@pid":"g/PKrishnaGummadi","text":"P. Krishna Gummadi"},{"@pid":"14/3153","text":"Richard J. Dunn"},{"@pid":"17/3782","text":"Stefan Saroiu"},{"@pid":"g/StevenDGribble","text":"Steven D. Gribble"},{"@pid":"l/HenryMLevy","text":"Henry M. Levy"},{"@pid":"z/JZahorjan","text":"John Zahorjan"}]},"title":"Measurement, modeling, and analysis of a peer-to-peer file-sharing workload.","venue":"SOSP","pages":"314-329","year":"2003","type":"Conference and Workshop Papers","key":"conf/sosp/GummadiDSGLZ03","doi":"10.1145/945445.945475","ee":"https://doi.org/10.1145/945445.945475","url":"https://dblp.org/rec/conf/sosp/GummadiDSGLZ03"},
+"url":"URL#4523458"
+},
+{
+"@score":"1",
+"@id":"4523459",
+"info":{"authors":{"author":[{"@pid":"09/4259","text":"Michael Kaminsky"},{"@pid":"42/3678","text":"George Savvides"},{"@pid":"m/DMazieres","text":"David Mazières"},{"@pid":"k/MFransKaashoek","text":"M. Frans Kaashoek"}]},"title":"Decentralized user authentication in a global file system.","venue":"SOSP","pages":"60-73","year":"2003","type":"Conference and Workshop Papers","key":"conf/sosp/KaminskySMK03","doi":"10.1145/945445.945452","ee":"https://doi.org/10.1145/945445.945452","url":"https://dblp.org/rec/conf/sosp/KaminskySMK03"},
+"url":"URL#4523459"
+},
+{
+"@score":"1",
+"@id":"4523460",
+"info":{"authors":{"author":[{"@pid":"54/5833","text":"Samuel T. King"},{"@pid":"c/PeterMChen","text":"Peter M. Chen"}]},"title":"Backtracking intrusions.","venue":"SOSP","pages":"223-236","year":"2003","type":"Conference and Workshop Papers","key":"conf/sosp/KingC03","doi":"10.1145/945445.945467","ee":"https://doi.org/10.1145/945445.945467","url":"https://dblp.org/rec/conf/sosp/KingC03"},
+"url":"URL#4523460"
+},
+{
+"@score":"1",
+"@id":"4523461",
+"info":{"authors":{"author":[{"@pid":"03/3188","text":"Dejan Kostic"},{"@pid":"22/4136","text":"Adolfo Rodriguez"},{"@pid":"80/3906","text":"Jeannie R. Albrecht"},{"@pid":"v/AminVahdat","text":"Amin Vahdat"}]},"title":"Bullet - high bandwidth data dissemination using an overlay mesh.","venue":"SOSP","pages":"282-297","year":"2003","type":"Conference and Workshop Papers","key":"conf/sosp/KosticRAV03","doi":"10.1145/945445.945473","ee":"https://doi.org/10.1145/945445.945473","url":"https://dblp.org/rec/conf/sosp/KosticRAV03"},
+"url":"URL#4523461"
+},
+{
+"@score":"1",
+"@id":"4523462",
+"info":{"authors":{"author":[{"@pid":"l/DavidLie","text":"David Lie"},{"@pid":"13/3927","text":"Chandramohan A. Thekkath"},{"@pid":"h/MarkHorowitz","text":"Mark Horowitz"}]},"title":"Implementing an untrusted operating system on trusted hardware.","venue":"SOSP","pages":"178-192","year":"2003","type":"Conference and Workshop Papers","key":"conf/sosp/LieTH03","doi":"10.1145/945445.945463","ee":"https://doi.org/10.1145/945445.945463","url":"https://dblp.org/rec/conf/sosp/LieTH03"},
+"url":"URL#4523462"
+},
+{
+"@score":"1",
+"@id":"4523463",
+"info":{"authors":{"author":[{"@pid":"81/6327","text":"Ratul Mahajan"},{"@pid":"s/NeilTSpring","text":"Neil T. Spring"},{"@pid":"w/DavidWetherall","text":"David Wetherall"},{"@pid":"a/ThomasEAnderson","text":"Thomas E. Anderson"}]},"title":"User-level internet path diagnosis.","venue":"SOSP","pages":"106-119","year":"2003","type":"Conference and Workshop Papers","key":"conf/sosp/MahajanSWA03","doi":"10.1145/945445.945456","ee":"https://doi.org/10.1145/945445.945456","url":"https://dblp.org/rec/conf/sosp/MahajanSWA03"},
+"url":"URL#4523463"
+},
+{
+"@score":"1",
+"@id":"4523464",
+"info":{"authors":{"author":[{"@pid":"m/PetrosManiatis","text":"Petros Maniatis"},{"@pid":"84/5520","text":"David S. H. Rosenthal"},{"@pid":"r/MRoussopoulos","text":"Mema Roussopoulos"},{"@pid":"b/MaryBaker","text":"Mary Baker"},{"@pid":"70/4339","text":"Thomas J. Giuli"},{"@pid":"45/6402","text":"Yanto Muliadi"}]},"title":"Preserving peer replicas by rate-limited sampled voting.","venue":"SOSP","pages":"44-59","year":"2003","type":"Conference and Workshop Papers","key":"conf/sosp/ManiatisRRBGM03","doi":"10.1145/945445.945451","ee":"https://doi.org/10.1145/945445.945451","url":"https://dblp.org/rec/conf/sosp/ManiatisRRBGM03"},
+"url":"URL#4523464"
+},
+{
+"@score":"1",
+"@id":"4523465",
+"info":{"authors":{"author":[{"@pid":"90/506","text":"Parveen Patel"},{"@pid":"76/326","text":"Andrew Whitaker"},{"@pid":"w/DavidWetherall","text":"David Wetherall"},{"@pid":"l/JayLepreau","text":"Jay Lepreau"},{"@pid":"52/3546","text":"Tim Stack"}]},"title":"Upgrading transport protocols using untrusted mobile code.","venue":"SOSP","pages":"1-14","year":"2003","type":"Conference and Workshop Papers","key":"conf/sosp/PatelWWLS03","doi":"10.1145/945445.945447","ee":"https://doi.org/10.1145/945445.945447","url":"https://dblp.org/rec/conf/sosp/PatelWWLS03"},
+"url":"URL#4523465"
+},
+{
+"@score":"1",
+"@id":"4523466",
+"info":{"authors":{"author":[{"@pid":"90/1136-1","text":"R. Sekar 0001"},{"@pid":"90/5014","text":"V. N. Venkatakrishnan"},{"@pid":"67/1905","text":"Samik Basu 0001"},{"@pid":"24/2511","text":"Sandeep Bhatkar"},{"@pid":"70/3998","text":"Daniel C. DuVarney"}]},"title":"Model-carrying code - a practical approach for safe execution of untrusted applications.","venue":"SOSP","pages":"15-28","year":"2003","type":"Conference and Workshop Papers","key":"conf/sosp/SekarVBBD03","doi":"10.1145/945445.945448","ee":"https://doi.org/10.1145/945445.945448","url":"https://dblp.org/rec/conf/sosp/SekarVBBD03"},
+"url":"URL#4523466"
+},
+{
+"@score":"1",
+"@id":"4523467",
+"info":{"authors":{"author":[{"@pid":"s/MichaelMSwift","text":"Michael M. Swift"},{"@pid":"b/BNBershad","text":"Brian N. Bershad"},{"@pid":"l/HenryMLevy","text":"Henry M. Levy"}]},"title":"Improving the reliability of commodity operating systems.","venue":"SOSP","pages":"207-222","year":"2003","type":"Conference and Workshop Papers","key":"conf/sosp/SwiftBL03","doi":"10.1145/945445.945466","ee":"https://doi.org/10.1145/945445.945466","url":"https://dblp.org/rec/conf/sosp/SwiftBL03"},
+"url":"URL#4523467"
+},
+{
+"@score":"1",
+"@id":"4523468",
+"info":{"authors":{"author":[{"@pid":"95/578-2","text":"Jian Yin 0002"},{"@pid":"99/1869","text":"Jean-Philippe Martin"},{"@pid":"v/ArunVenkataramani","text":"Arun Venkataramani"},{"@pid":"a/LAlvisi","text":"Lorenzo Alvisi"},{"@pid":"d/MDahlin","text":"Michael Dahlin"}]},"title":"Separating agreement from execution for byzantine fault tolerant services.","venue":"SOSP","pages":"253-267","year":"2003","type":"Conference and Workshop Papers","key":"conf/sosp/YinMVAD03","doi":"10.1145/945445.945470","ee":"https://doi.org/10.1145/945445.945470","url":"https://dblp.org/rec/conf/sosp/YinMVAD03"},
+"url":"URL#4523468"
+},
+{
+"@score":"1",
+"@id":"4523469",
+"info":{"authors":{"author":[{"@pid":"92/2086","text":"Wanghong Yuan"},{"@pid":"45/3224","text":"Klara Nahrstedt"}]},"title":"Energy-efficient soft real-time CPU scheduling for mobile multimedia systems.","venue":"SOSP","pages":"149-163","year":"2003","type":"Conference and Workshop Papers","key":"conf/sosp/YuanN03","doi":"10.1145/945445.945460","ee":"https://doi.org/10.1145/945445.945460","url":"https://dblp.org/rec/conf/sosp/YuanN03"},
+"url":"URL#4523469"
+},
+{
+"@score":"1",
+"@id":"4530818",
+"info":{"authors":{"author":[{"@pid":"s/MichaelLScott","text":"Michael L. Scott"},{"@pid":"p/LLPeterson","text":"Larry L. Peterson"}]},"title":"Proceedings of the 19th ACM Symposium on Operating Systems Principles 2003, SOSP 2003, Bolton Landing, NY, USA, October 19-22, 2003","venue":"SOSP","publisher":"ACM","year":"2003","type":"Editorship","key":"conf/sosp/2003","doi":"10.1145/945445","ee":"https://doi.org/10.1145/945445","url":"https://dblp.org/rec/conf/sosp/2003"},
+"url":"URL#4530818"
+}
+]
+}
+}
+}

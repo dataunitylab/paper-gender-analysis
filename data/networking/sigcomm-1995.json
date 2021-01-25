@@ -1,0 +1,212 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"sigcomm\"/\"sigcomm1995\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"113.75"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"30",
+"@dc":"30",
+"@oc":"30",
+"@id":"17586192",
+"text":":facetid:toc:db/conf/sigcomm/sigcomm1995.bht"
+}
+},
+"hits":{
+"@total":"30",
+"@computed":"30",
+"@sent":"30",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"5060605",
+"info":{"authors":{"author":[{"@pid":"42/6651","text":"Jong Suk Ahn"},{"@pid":"d/PeterBDanzig","text":"Peter B. Danzig"},{"@pid":"77/35","text":"Zhen Liu"},{"@pid":"05/5509","text":"Limin Yan"}]},"title":"Evaluation of TCP Vegas - Emulation and Experiment.","venue":"SIGCOMM","pages":"185-205","year":"1995","type":"Conference and Workshop Papers","key":"conf/sigcomm/AhnDLY95","doi":"10.1145/217382.217431","ee":"https://doi.org/10.1145/217382.217431","url":"https://dblp.org/rec/conf/sigcomm/AhnDLY95"},
+"url":"URL#5060605"
+},
+{
+"@score":"1",
+"@id":"5060606",
+"info":{"authors":{"author":[{"@pid":"a/IAAkyildiz","text":"Ian F. Akyildiz"},{"@pid":"77/4129","text":"Joseph S. M. Ho"}]},"title":"A Mobile User Location Update and Paging Mechanism Under Delay Constraints.","venue":"SIGCOMM","pages":"244-255","year":"1995","type":"Conference and Workshop Papers","key":"conf/sigcomm/AkyildizH95","doi":"10.1145/217382.217455","ee":"https://doi.org/10.1145/217382.217455","url":"https://dblp.org/rec/conf/sigcomm/AkyildizH95"},
+"url":"URL#5060606"
+},
+{
+"@score":"1",
+"@id":"5060607",
+"info":{"authors":{"author":[{"@pid":"b/NinaTBhatti","text":"Nina T. Bhatti"},{"@pid":"s/RichardDSchlichting","text":"Richard D. Schlichting"}]},"title":"A System for Constructing Configurable High-Level Protocols.","venue":"SIGCOMM","pages":"138-150","year":"1995","type":"Conference and Workshop Papers","key":"conf/sigcomm/BhattiS95","doi":"10.1145/217382.217424","ee":"https://doi.org/10.1145/217382.217424","url":"https://dblp.org/rec/conf/sigcomm/BhattiS95"},
+"url":"URL#5060607"
+},
+{
+"@score":"1",
+"@id":"5060608",
+"info":{"authors":{"author":[{"@pid":"b/TorstenBraun","text":"Torsten Braun"},{"@pid":"98/739","text":"Christophe Diot"}]},"title":"Protocol Implementation Using Integrated Layer Processing.","venue":"SIGCOMM","pages":"151-161","year":"1995","type":"Conference and Workshop Papers","key":"conf/sigcomm/BraunD95","doi":"10.1145/217382.217425","ee":"https://doi.org/10.1145/217382.217425","url":"https://dblp.org/rec/conf/sigcomm/BraunD95"},
+"url":"URL#5060608"
+},
+{
+"@score":"1",
+"@id":"5060609",
+"info":{"authors":{"author":[{"@pid":"76/2999","text":"Girish P. Chandranmenon"},{"@pid":"v/GeorgeVarghese","text":"George Varghese"}]},"title":"Trading Packet Headers for Packet Processing.","venue":"SIGCOMM","pages":"162-173","year":"1995","type":"Conference and Workshop Papers","key":"conf/sigcomm/ChandranmenonV95","doi":"10.1145/217382.217427","ee":"https://doi.org/10.1145/217382.217427","url":"https://dblp.org/rec/conf/sigcomm/ChandranmenonV95"},
+"url":"URL#5060609"
+},
+{
+"@score":"1",
+"@id":"5060610",
+"info":{"authors":{"author":[{"@pid":"03/5733","text":"S. Alan Ezust"},{"@pid":"b/GvBochmann","text":"Gregor von Bochmann"}]},"title":"An Automatic Trace Analysis Tool Generator for Estelle Specifications.","venue":"SIGCOMM","pages":"175-184","year":"1995","type":"Conference and Workshop Papers","key":"conf/sigcomm/EzustB95","doi":"10.1145/217382.217428","ee":"https://doi.org/10.1145/217382.217428","url":"https://dblp.org/rec/conf/sigcomm/EzustB95"},
+"url":"URL#5060610"
+},
+{
+"@score":"1",
+"@id":"5060611",
+"info":{"authors":{"author":[{"@pid":"56/1117","text":"Norival R. Figueira"},{"@pid":"p/JPasquale","text":"Joseph Pasquale"}]},"title":"Leave-in-Time - A New Service Discipline for Real-Time Communications in a Packet-Switching Network.","venue":"SIGCOMM","pages":"207-218","year":"1995","type":"Conference and Workshop Papers","key":"conf/sigcomm/FigueiraP95","doi":"10.1145/217382.217433","ee":"https://doi.org/10.1145/217382.217433","url":"https://dblp.org/rec/conf/sigcomm/FigueiraP95"},
+"url":"URL#5060611"
+},
+{
+"@score":"1",
+"@id":"5060612",
+"info":{"authors":{"author":[{"@pid":"25/1323","text":"Sally Floyd"},{"@pid":"50/2038","text":"Van Jacobson"},{"@pid":"47/2953","text":"Steven McCanne"},{"@pid":"43/6742","text":"Ching-Gung Liu"},{"@pid":"z/LixiaZhang1","text":"Lixia Zhang 0001"}]},"title":"A Reliable Multicast Framework for Light-Weight Sessions and Application Level Framing.","venue":"SIGCOMM","pages":"342-356","year":"1995","type":"Conference and Workshop Papers","key":"conf/sigcomm/FloydJMLZ95","doi":"10.1145/217382.217470","ee":"https://doi.org/10.1145/217382.217470","url":"https://dblp.org/rec/conf/sigcomm/FloydJMLZ95"},
+"url":"URL#5060612"
+},
+{
+"@score":"1",
+"@id":"5060613",
+"info":{"authors":{"author":[{"@pid":"89/2832","text":"Chane L. Fullmer"},{"@pid":"g/JJGarciaLunaAceves","text":"J. J. Garcia-Luna-Aceves"}]},"title":"Floor Acquisition Multiple Access (FAMA) for Packet-Radio Networks.","venue":"SIGCOMM","pages":"262-273","year":"1995","type":"Conference and Workshop Papers","key":"conf/sigcomm/FullmerG95","doi":"10.1145/217382.217458","ee":"https://doi.org/10.1145/217382.217458","url":"https://dblp.org/rec/conf/sigcomm/FullmerG95"},
+"url":"URL#5060613"
+},
+{
+"@score":"1",
+"@id":"5060614",
+"info":{"authors":{"author":[{"@pid":"g/MGrossglauser","text":"Matthias Grossglauser"},{"@pid":"59/739","text":"Srinivasan Keshav"},{"@pid":"t/DavidNCTse","text":"David N. C. Tse"}]},"title":"RCBR - A Simple and Efficient Service for Multiple Time-Scale Traffic.","venue":"SIGCOMM","pages":"219-230","year":"1995","type":"Conference and Workshop Papers","key":"conf/sigcomm/GrossglauserKT95","doi":"10.1145/217382.217436","ee":"https://doi.org/10.1145/217382.217436","url":"https://dblp.org/rec/conf/sigcomm/GrossglauserKT95"},
+"url":"URL#5060614"
+},
+{
+"@score":"1",
+"@id":"5060615",
+"info":{"authors":{"author":[{"@pid":"94/6715","text":"James D. Guyton"},{"@pid":"12/359","text":"Michael F. Schwartz"}]},"title":"Locating Nearby Copies of Replicated Internet Servers.","venue":"SIGCOMM","pages":"288-298","year":"1995","type":"Conference and Workshop Papers","key":"conf/sigcomm/GuytonS95","doi":"10.1145/217382.217463","ee":"https://doi.org/10.1145/217382.217463","url":"https://dblp.org/rec/conf/sigcomm/GuytonS95"},
+"url":"URL#5060615"
+},
+{
+"@score":"1",
+"@id":"5060616",
+"info":{"authors":{"author":[{"@pid":"h/MarkHandley","text":"Mark Handley"},{"@pid":"w/IanWakeman","text":"Ian Wakeman"},{"@pid":"c/JonCrowcroft","text":"Jon Crowcroft"}]},"title":"The Conference Control Channel Protocol (CCCP) - A Scalable Base for Building Conference Control Applications.","venue":"SIGCOMM","pages":"275-287","year":"1995","type":"Conference and Workshop Papers","key":"conf/sigcomm/HandleyWC95","doi":"10.1145/217382.217461","ee":"https://doi.org/10.1145/217382.217461","url":"https://dblp.org/rec/conf/sigcomm/HandleyWC95"},
+"url":"URL#5060616"
+},
+{
+"@score":"1",
+"@id":"5060617",
+"info":{"authors":{"author":[{"@pid":"18/3067","text":"Shai Herzog"},{"@pid":"34/5593","text":"Scott Shenker"},{"@pid":"e/DeborahEstrin","text":"Deborah Estrin"}]},"title":"Sharing the &quot;Cost&quot; of Multicast Trees - An Axiomatic Analysis.","venue":"SIGCOMM","pages":"315-327","year":"1995","type":"Conference and Workshop Papers","key":"conf/sigcomm/HerzogSE95","doi":"10.1145/217382.217466","ee":"https://doi.org/10.1145/217382.217466","url":"https://dblp.org/rec/conf/sigcomm/HerzogSE95"},
+"url":"URL#5060617"
+},
+{
+"@score":"1",
+"@id":"5060618",
+"info":{"authors":{"author":[{"@pid":"19/910","text":"Hugh W. Holbrook"},{"@pid":"s/SandeepKSinghal","text":"Sandeep K. Singhal"},{"@pid":"c/DRCheriton","text":"David R. Cheriton"}]},"title":"Log-Based Receiver-Reliable Multicast for Distributed Interactive Simulation.","venue":"SIGCOMM","pages":"328-341","year":"1995","type":"Conference and Workshop Papers","key":"conf/sigcomm/HolbrookSC95","doi":"10.1145/217382.217468","ee":"https://doi.org/10.1145/217382.217468","url":"https://dblp.org/rec/conf/sigcomm/HolbrookSC95"},
+"url":"URL#5060618"
+},
+{
+"@score":"1",
+"@id":"5060619",
+"info":{"authors":{"author":[{"@pid":"75/2652","text":"Changcheng Huang"},{"@pid":"61/3564","text":"Michael Devetsikiotis"},{"@pid":"63/6343","text":"Ioannis Lambadaris"},{"@pid":"52/1976","text":"A. Roger Kaye"}]},"title":"Modeling and Simulation of Self-Similar Variable Bit Rate Compressed Video - A Unified Approach.","venue":"SIGCOMM","pages":"114-125","year":"1995","type":"Conference and Workshop Papers","key":"conf/sigcomm/HuangDLK95","doi":"10.1145/217382.217420","ee":"https://doi.org/10.1145/217382.217420","url":"https://dblp.org/rec/conf/sigcomm/HuangDLK95"},
+"url":"URL#5060619"
+},
+{
+"@score":"1",
+"@id":"5060620",
+"info":{"authors":{"author":[{"@pid":"25/2793","text":"Sugih Jamin"},{"@pid":"d/PeterBDanzig","text":"Peter B. Danzig"},{"@pid":"34/5593","text":"Scott Shenker"},{"@pid":"z/LixiaZhang1","text":"Lixia Zhang 0001"}]},"title":"A Measurement-Based Admission Control Algorithm for Integrated Services Packet Networks.","venue":"SIGCOMM","pages":"2-13","year":"1995","type":"Conference and Workshop Papers","key":"conf/sigcomm/JaminDSZ95","doi":"10.1145/217382.217396","ee":"https://doi.org/10.1145/217382.217396","url":"https://dblp.org/rec/conf/sigcomm/JaminDSZ95"},
+"url":"URL#5060620"
+},
+{
+"@score":"1",
+"@id":"5060621",
+"info":{"authors":{"author":[{"@pid":"k/ManolisKatevenis","text":"Manolis Katevenis"},{"@pid":"11/5556","text":"Panagiota Vatsolaki"},{"@pid":"64/3383","text":"Aristides Efthymiou"}]},"title":"Pipelined Memory Shared Buffer for VLSI Switches.","venue":"SIGCOMM","pages":"39-48","year":"1995","type":"Conference and Workshop Papers","key":"conf/sigcomm/KatevenisVE95","doi":"10.1145/217382.217406","ee":"https://doi.org/10.1145/217382.217406","url":"https://dblp.org/rec/conf/sigcomm/KatevenisVE95"},
+"url":"URL#5060621"
+},
+{
+"@score":"1",
+"@id":"5060622",
+"info":{"authors":{"author":[{"@pid":"63/4773","text":"Karl Kleinpaste"},{"@pid":"s/PeterSteenkiste","text":"Peter Steenkiste"},{"@pid":"26/1494","text":"Brian Zill"}]},"title":"Software Support for Outboard Buffering and Checksumming.","venue":"SIGCOMM","pages":"87-98","year":"1995","type":"Conference and Workshop Papers","key":"conf/sigcomm/KleinpasteSZ95","doi":"10.1145/217382.217416","ee":"https://doi.org/10.1145/217382.217416","url":"https://dblp.org/rec/conf/sigcomm/KleinpasteSZ95"},
+"url":"URL#5060622"
+},
+{
+"@score":"1",
+"@id":"5060623",
+"info":{"authors":{"author":{"@pid":"98/5127","text":"Kam Lee"}},"title":"Performance Bounds in Communication Networks with Variable-Rate Links.","venue":"SIGCOMM","pages":"126-136","year":"1995","type":"Conference and Workshop Papers","key":"conf/sigcomm/Lee95","doi":"10.1145/217382.217422","ee":"https://doi.org/10.1145/217382.217422","url":"https://dblp.org/rec/conf/sigcomm/Lee95"},
+"url":"URL#5060623"
+},
+{
+"@score":"1",
+"@id":"5060624",
+"info":{"authors":{"author":[{"@pid":"62/4881","text":"Hung-Yu Lin"},{"@pid":"h/LeinHarn","text":"Lein Harn"}]},"title":"Authentication Protocols for Personal Communication Systems.","venue":"SIGCOMM","pages":"256-261","year":"1995","type":"Conference and Workshop Papers","key":"conf/sigcomm/LinH95","doi":"10.1145/217382.217456","ee":"https://doi.org/10.1145/217382.217456","url":"https://dblp.org/rec/conf/sigcomm/LinH95"},
+"url":"URL#5060624"
+},
+{
+"@score":"1",
+"@id":"5060625",
+"info":{"authors":{"author":{"@pid":"m/JeffreyCMogul","text":"Jeffrey C. Mogul"}},"title":"The Case for Persistent-Connection HTTP.","venue":"SIGCOMM","pages":"299-313","year":"1995","type":"Conference and Workshop Papers","key":"conf/sigcomm/Mogul95","doi":"10.1145/217382.217465","ee":"https://doi.org/10.1145/217382.217465","url":"https://dblp.org/rec/conf/sigcomm/Mogul95"},
+"url":"URL#5060625"
+},
+{
+"@score":"1",
+"@id":"5060626",
+"info":{"authors":{"author":[{"@pid":"45/6587","text":"Craig Partridge"},{"@pid":"00/4007-1","text":"James Hughes 0001"},{"@pid":"37/2350","text":"Jonathan Stone"}]},"title":"Performance of Checksums and CRCs over Real Data.","venue":"SIGCOMM","pages":"68-76","year":"1995","type":"Conference and Workshop Papers","key":"conf/sigcomm/PartridgeHS95","doi":"10.1145/217382.217413","ee":"https://doi.org/10.1145/217382.217413","url":"https://dblp.org/rec/conf/sigcomm/PartridgeHS95"},
+"url":"URL#5060626"
+},
+{
+"@score":"1",
+"@id":"5060627",
+"info":{"authors":{"author":[{"@pid":"50/4579","text":"Guru M. Parulkar"},{"@pid":"s/DouglasCSchmidt","text":"Douglas C. Schmidt"},{"@pid":"t/JonathanSTurner","text":"Jonathan S. Turner"}]},"title":"aItPm - A Strategy for Integrating IP with ATM.","venue":"SIGCOMM","pages":"49-59","year":"1995","type":"Conference and Workshop Papers","key":"conf/sigcomm/ParulkarST95","doi":"10.1145/217382.217409","ee":"https://doi.org/10.1145/217382.217409","url":"https://dblp.org/rec/conf/sigcomm/ParulkarST95"},
+"url":"URL#5060627"
+},
+{
+"@score":"1",
+"@id":"5060628",
+"info":{"authors":{"author":[{"@pid":"34/5593","text":"Scott Shenker"},{"@pid":"18/4100","text":"Lee Breslau"}]},"title":"Two Issues in Reservation Establishment.","venue":"SIGCOMM","pages":"14-26","year":"1995","type":"Conference and Workshop Papers","key":"conf/sigcomm/ShenkerB95","doi":"10.1145/217382.217403","ee":"https://doi.org/10.1145/217382.217403","url":"https://dblp.org/rec/conf/sigcomm/ShenkerB95"},
+"url":"URL#5060628"
+},
+{
+"@score":"1",
+"@id":"5060629",
+"info":{"authors":{"author":[{"@pid":"82/5853","text":"M. Shreedhar"},{"@pid":"v/GeorgeVarghese","text":"George Varghese"}]},"title":"Efficient Fair Queueing Using Deficit Round Robin.","venue":"SIGCOMM","pages":"231-242","year":"1995","type":"Conference and Workshop Papers","key":"conf/sigcomm/ShreedharV95","doi":"10.1145/217382.217453","ee":"https://doi.org/10.1145/217382.217453","url":"https://dblp.org/rec/conf/sigcomm/ShreedharV95"},
+"url":"URL#5060629"
+},
+{
+"@score":"1",
+"@id":"5060630",
+"info":{"authors":{"author":[{"@pid":"37/7006","text":"Ajit S. Thyagarajan"},{"@pid":"68/2490","text":"Stephen E. Deering"}]},"title":"Hierarchical Distance-Vector Multicast Routing for the MBone.","venue":"SIGCOMM","pages":"60-66","year":"1995","type":"Conference and Workshop Papers","key":"conf/sigcomm/ThyagarajanD95","doi":"10.1145/217382.217411","ee":"https://doi.org/10.1145/217382.217411","url":"https://dblp.org/rec/conf/sigcomm/ThyagarajanD95"},
+"url":"URL#5060630"
+},
+{
+"@score":"1",
+"@id":"5060631",
+"info":{"authors":{"author":{"@pid":"69/1512","text":"Joseph D. Touch"}},"title":"Performance Analysis of MD5.","venue":"SIGCOMM","pages":"77-86","year":"1995","type":"Conference and Workshop Papers","key":"conf/sigcomm/Touch95","doi":"10.1145/217382.217414","ee":"https://doi.org/10.1145/217382.217414","url":"https://dblp.org/rec/conf/sigcomm/Touch95"},
+"url":"URL#5060631"
+},
+{
+"@score":"1",
+"@id":"5060632",
+"info":{"authors":{"author":[{"@pid":"49/2856","text":"Chitra Venkatramani"},{"@pid":"c/TcChiueh","text":"Tzi-cker Chiueh"}]},"title":"Design, Implementation, and Evaluation of a Software-Based Real-Time Ethernet Protocol.","venue":"SIGCOMM","pages":"27-37","year":"1995","type":"Conference and Workshop Papers","key":"conf/sigcomm/VenkatramaniC95","doi":"10.1145/217382.217404","ee":"https://doi.org/10.1145/217382.217404","url":"https://dblp.org/rec/conf/sigcomm/VenkatramaniC95"},
+"url":"URL#5060632"
+},
+{
+"@score":"1",
+"@id":"5060633",
+"info":{"authors":{"author":[{"@pid":"w/WalterWillinger","text":"Walter Willinger"},{"@pid":"23/3310","text":"Murad S. Taqqu"},{"@pid":"94/5001","text":"Robert Sherman"},{"@pid":"94/2854","text":"Daniel V. Wilson"}]},"title":"Self-Similarity Through High-Variability - Statistical Analysis of Ethernet LAN Traffic at the Source Level.","venue":"SIGCOMM","pages":"100-113","year":"1995","type":"Conference and Workshop Papers","key":"conf/sigcomm/WillingerTSW95","doi":"10.1145/217382.217418","ee":"https://doi.org/10.1145/217382.217418","url":"https://dblp.org/rec/conf/sigcomm/WillingerTSW95"},
+"url":"URL#5060633"
+},
+{
+"@score":"1",
+"@id":"5064231",
+"info":{"authors":{"author":[{"@pid":"37/3490","text":"Stuart Wecker"},{"@pid":"69/549","text":"David Oran"}]},"title":"Proceedings of the ACM SIGCOMM 1995 Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication, Cambridge, MA, USA, August 28 - September 1, 1995.","venue":"SIGCOMM","publisher":"ACM","year":"1995","type":"Editorship","key":"conf/sigcomm/1995","doi":"10.1145/217382","ee":"https://doi.org/10.1145/217382","url":"https://dblp.org/rec/conf/sigcomm/1995"},
+"url":"URL#5064231"
+}
+]
+}
+}
+}

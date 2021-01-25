@@ -1,0 +1,230 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"osdi\"/\"osdi2010\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"105.96"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"33",
+"@dc":"33",
+"@oc":"33",
+"@id":"17580802",
+"text":":facetid:toc:db/conf/osdi/osdi2010.bht"
+}
+},
+"hits":{
+"@total":"33",
+"@computed":"33",
+"@sent":"33",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"3320578",
+"info":{"authors":{"author":[{"@pid":"08/5351","text":"Ganesh Ananthanarayanan"},{"@pid":"k/SrikanthKandula","text":"Srikanth Kandula"},{"@pid":"g/AlbertGGreenberg","text":"Albert G. Greenberg"},{"@pid":"s/IonStoica","text":"Ion Stoica"},{"@pid":"67/1328","text":"Yi Lu"},{"@pid":"49/10014","text":"Bikas Saha"},{"@pid":"99/1933","text":"Edward Harris"}]},"title":"Reining in the Outliers in Map-Reduce Clusters using Mantri.","venue":"OSDI","pages":"265-278","year":"2010","type":"Conference and Workshop Papers","key":"conf/osdi/AnanthanarayananKGSLSH10","ee":"http://www.usenix.org/events/osdi10/tech/full_papers/Ananthanarayanan.pdf","url":"https://dblp.org/rec/conf/osdi/AnanthanarayananKGSLSH10"},
+"url":"URL#3320578"
+},
+{
+"@score":"1",
+"@id":"3320579",
+"info":{"authors":{"author":[{"@pid":"44/6870","text":"Mona Attariyan"},{"@pid":"14/85","text":"Jason Flinn"}]},"title":"Automating Configuration Troubleshooting with Dynamic Information Flow Analysis.","venue":"OSDI","pages":"237-250","year":"2010","type":"Conference and Workshop Papers","key":"conf/osdi/AttariyanF10","ee":"http://www.usenix.org/events/osdi10/tech/full_papers/Attariyan.pdf","url":"https://dblp.org/rec/conf/osdi/AttariyanF10"},
+"url":"URL#3320579"
+},
+{
+"@score":"1",
+"@id":"3320580",
+"info":{"authors":{"author":[{"@pid":"21/7662","text":"Amittai Aviram"},{"@pid":"54/1737","text":"Shu-Chun Weng"},{"@pid":"53/7997","text":"Sen Hu"},{"@pid":"f/BryanFord","text":"Bryan Ford"}]},"title":"Efficient System-Enforced Deterministic Parallelism.","venue":"OSDI","pages":"193-206","year":"2010","type":"Conference and Workshop Papers","key":"conf/osdi/AviramWHF10","ee":"http://www.usenix.org/events/osdi10/tech/full_papers/Aviram.pdf","url":"https://dblp.org/rec/conf/osdi/AviramWHF10"},
+"url":"URL#3320580"
+},
+{
+"@score":"1",
+"@id":"3320582",
+"info":{"authors":{"author":[{"@pid":"80/10015","text":"Doug Beaver"},{"@pid":"27/343","text":"Sanjeev Kumar"},{"@pid":"07/3117","text":"Harry C. Li"},{"@pid":"98/8278","text":"Jason Sobel"},{"@pid":"09/555","text":"Peter Vajgel"}]},"title":"Finding a Needle in Haystack - Facebook&apos;s Photo Storage.","venue":"OSDI","pages":"47-60","year":"2010","type":"Conference and Workshop Papers","key":"conf/osdi/BeaverKLSV10","ee":"http://www.usenix.org/events/osdi10/tech/full_papers/Beaver.pdf","url":"https://dblp.org/rec/conf/osdi/BeaverKLSV10"},
+"url":"URL#3320582"
+},
+{
+"@score":"1",
+"@id":"3320583",
+"info":{"authors":{"author":[{"@pid":"29/6946","text":"Muli Ben-Yehuda"},{"@pid":"93/9325","text":"Michael D. Day"},{"@pid":"35/9709","text":"Zvi Dubitzky"},{"@pid":"f/MichaelFactor","text":"Michael Factor"},{"@pid":"79/5445","text":"Nadav Har&apos;El"},{"@pid":"42/10015","text":"Abel Gordon"},{"@pid":"89/5874","text":"Anthony Liguori"},{"@pid":"42/8210","text":"Orit Wasserman"},{"@pid":"57/1446","text":"Ben-Ami Yassour"}]},"title":"The Turtles Project - Design and Implementation of Nested Virtualization.","venue":"OSDI","pages":"423-436","year":"2010","type":"Conference and Workshop Papers","key":"conf/osdi/Ben-YehudaDDFHGLWY10","ee":"http://www.usenix.org/events/osdi10/tech/full_papers/Ben-Yehuda.pdf","url":"https://dblp.org/rec/conf/osdi/Ben-YehudaDDFHGLWY10"},
+"url":"URL#3320583"
+},
+{
+"@score":"1",
+"@id":"3320584",
+"info":{"authors":{"author":[{"@pid":"90/2307","text":"Tom Bergan"},{"@pid":"52/10015","text":"Nicholas Hunt"},{"@pid":"95/5263","text":"Luis Ceze"},{"@pid":"g/StevenDGribble","text":"Steven D. Gribble"}]},"title":"Deterministic Process Groups in dOS.","venue":"OSDI","pages":"177-191","year":"2010","type":"Conference and Workshop Papers","key":"conf/osdi/BerganHCG10","ee":"http://www.usenix.org/events/osdi10/tech/full_papers/Bergan.pdf","url":"https://dblp.org/rec/conf/osdi/BerganHCG10"},
+"url":"URL#3320584"
+},
+{
+"@score":"1",
+"@id":"3320586",
+"info":{"authors":{"author":[{"@pid":"06/2219","text":"Silas Boyd-Wickizer"},{"@pid":"21/659","text":"Austin T. Clements"},{"@pid":"77/190","text":"Yandong Mao"},{"@pid":"96/1003","text":"Aleksey Pesterev"},{"@pid":"k/MFransKaashoek","text":"M. Frans Kaashoek"},{"@pid":"82/11191","text":"Robert Tappan Morris"},{"@pid":"99/5780","text":"Nickolai Zeldovich"}]},"title":"An Analysis of Linux Scalability to Many Cores.","venue":"OSDI","pages":"1-16","year":"2010","type":"Conference and Workshop Papers","key":"conf/osdi/Boyd-WickizerCMPKMZ10","ee":"http://www.usenix.org/events/osdi10/tech/full_papers/Boyd-Wickizer.pdf","url":"https://dblp.org/rec/conf/osdi/Boyd-WickizerCMPKMZ10"},
+"url":"URL#3320586"
+},
+{
+"@score":"1",
+"@id":"3320587",
+"info":{"authors":{"author":[{"@pid":"61/10014","text":"Timothy Broomhead"},{"@pid":"70/10013","text":"Laurence Cremean"},{"@pid":"74/5909","text":"Julien Ridoux"},{"@pid":"05/226","text":"Darryl Veitch"}]},"title":"Virtualize Everything but Time.","venue":"OSDI","pages":"451-464","year":"2010","type":"Conference and Workshop Papers","key":"conf/osdi/BroomheadCRV10","ee":"http://www.usenix.org/events/osdi10/tech/full_papers/Broomhead.pdf","url":"https://dblp.org/rec/conf/osdi/BroomheadCRV10"},
+"url":"URL#3320587"
+},
+{
+"@score":"1",
+"@id":"3320588",
+"info":{"authors":{"author":{"@pid":"52/796","text":"Adam Chlipala"}},"title":"Static Checking of Dynamically-Varying Security Policies in Database-Backed Applications.","venue":"OSDI","pages":"105-118","year":"2010","type":"Conference and Workshop Papers","key":"conf/osdi/Chlipala10","ee":"http://www.usenix.org/events/osdi10/tech/full_papers/Chlipala.pdf","url":"https://dblp.org/rec/conf/osdi/Chlipala10"},
+"url":"URL#3320588"
+},
+{
+"@score":"1",
+"@id":"3320589",
+"info":{"authors":{"author":[{"@pid":"59/5565","text":"Heming Cui"},{"@pid":"60/10014","text":"Jingyue Wu"},{"@pid":"08/10015","text":"Chia-che Tsai"},{"@pid":"71/3724","text":"Junfeng Yang"}]},"title":"Stable Deterministic Multithreading through Schedule Memoization.","venue":"OSDI","pages":"207-221","year":"2010","type":"Conference and Workshop Papers","key":"conf/osdi/CuiWTY10","ee":"http://www.usenix.org/events/osdi10/tech/full_papers/Cui.pdf","url":"https://dblp.org/rec/conf/osdi/CuiWTY10"},
+"url":"URL#3320589"
+},
+{
+"@score":"1",
+"@id":"3320591",
+"info":{"authors":{"author":[{"@pid":"22/4463","text":"William Enck"},{"@pid":"40/7436","text":"Peter Gilbert"},{"@pid":"34/3515","text":"Byung-Gon Chun"},{"@pid":"98/5314","text":"Landon P. Cox"},{"@pid":"j/JaeyeonJung","text":"Jaeyeon Jung"},{"@pid":"m/PatrickDrewMcDaniel","text":"Patrick D. McDaniel"},{"@pid":"77/4600","text":"Anmol Sheth"}]},"title":"TaintDroid - An Information-Flow Tracking System for Realtime Privacy Monitoring on Smartphones.","venue":"OSDI","pages":"393-407","year":"2010","type":"Conference and Workshop Papers","key":"conf/osdi/EnckGCCJMS10","ee":"http://www.usenix.org/events/osdi10/tech/full_papers/Enck.pdf","url":"https://dblp.org/rec/conf/osdi/EnckGCCJMS10"},
+"url":"URL#3320591"
+},
+{
+"@score":"1",
+"@id":"3320592",
+"info":{"authors":{"author":[{"@pid":"52/2251","text":"John Erickson"},{"@pid":"95/6578","text":"Madanlal Musuvathi"},{"@pid":"84/1935","text":"Sebastian Burckhardt"},{"@pid":"71/10013","text":"Kirk Olynyk"}]},"title":"Effective Data-Race Detection for the Kernel.","venue":"OSDI","pages":"151-162","year":"2010","type":"Conference and Workshop Papers","key":"conf/osdi/EricksonMBO10","ee":"http://www.usenix.org/events/osdi10/tech/full_papers/Erickson.pdf","url":"https://dblp.org/rec/conf/osdi/EricksonMBO10"},
+"url":"URL#3320592"
+},
+{
+"@score":"1",
+"@id":"3320593",
+"info":{"authors":{"author":[{"@pid":"59/3702","text":"Ariel J. Feldman"},{"@pid":"87/10015","text":"William P. Zeller"},{"@pid":"65/1370","text":"Michael J. Freedman"},{"@pid":"f/EdwardWFelten","text":"Edward W. Felten"}]},"title":"SPORC - Group Collaboration using Untrusted Cloud Resources.","venue":"OSDI","pages":"337-350","year":"2010","type":"Conference and Workshop Papers","key":"conf/osdi/FeldmanZFF10","ee":"http://www.usenix.org/events/osdi10/tech/full_papers/Feldman.pdf","url":"https://dblp.org/rec/conf/osdi/FeldmanZFF10"},
+"url":"URL#3320593"
+},
+{
+"@score":"1",
+"@id":"3320594",
+"info":{"authors":{"author":[{"@pid":"54/10014","text":"Daniel Ford"},{"@pid":"11/2956","text":"François Labelle"},{"@pid":"34/1202","text":"Florentina I. Popovici"},{"@pid":"99/5121","text":"Murray Stokely"},{"@pid":"36/8669","text":"Van-Anh Truong"},{"@pid":"79/10015","text":"Luiz Barroso"},{"@pid":"69/6165","text":"Carrie Grimes"},{"@pid":"60/6154","text":"Sean Quinlan"}]},"title":"Availability in Globally Distributed Storage Systems.","venue":"OSDI","pages":"61-74","year":"2010","type":"Conference and Workshop Papers","key":"conf/osdi/FordLPSTBGQ10","ee":"http://www.usenix.org/events/osdi10/tech/full_papers/Ford.pdf","url":"https://dblp.org/rec/conf/osdi/FordLPSTBGQ10"},
+"url":"URL#3320594"
+},
+{
+"@score":"1",
+"@id":"3320595",
+"info":{"authors":{"author":[{"@pid":"g/RoxanaGeambasu","text":"Roxana Geambasu"},{"@pid":"68/8881","text":"Amit A. Levy"},{"@pid":"k/TadayoshiKohno","text":"Tadayoshi Kohno"},{"@pid":"k/AKrishnamurthy","text":"Arvind Krishnamurthy"},{"@pid":"l/HenryMLevy","text":"Henry M. Levy"}]},"title":"Comet - An active distributed key-value store.","venue":"OSDI","pages":"323-336","year":"2010","type":"Conference and Workshop Papers","key":"conf/osdi/GeambasuLKKL10","ee":"http://www.usenix.org/events/osdi10/tech/full_papers/Geambasu.pdf","url":"https://dblp.org/rec/conf/osdi/GeambasuLKKL10"},
+"url":"URL#3320595"
+},
+{
+"@score":"1",
+"@id":"3320596",
+"info":{"authors":{"author":[{"@pid":"87/1601","text":"Ajay Gulati"},{"@pid":"40/3294","text":"Arif Merchant"},{"@pid":"73/1597","text":"Peter J. Varman"}]},"title":"mClock - Handling Throughput Variability for Hypervisor IO Scheduling.","venue":"OSDI","pages":"437-450","year":"2010","type":"Conference and Workshop Papers","key":"conf/osdi/GulatiMV10","ee":"http://www.usenix.org/events/osdi10/tech/full_papers/Gulati.pdf","url":"https://dblp.org/rec/conf/osdi/GulatiMV10"},
+"url":"URL#3320596"
+},
+{
+"@score":"1",
+"@id":"3320597",
+"info":{"authors":{"author":[{"@pid":"93/4467","text":"Pradeep Kumar Gunda"},{"@pid":"22/4453","text":"Lenin Ravindranath"},{"@pid":"13/3927","text":"Chandramohan A. Thekkath"},{"@pid":"98/809","text":"Yuan Yu"},{"@pid":"31/2814","text":"Li Zhuang"}]},"title":"Nectar - Automatic Management of Data and Computation in Datacenters.","venue":"OSDI","pages":"75-88","year":"2010","type":"Conference and Workshop Papers","key":"conf/osdi/GundaRTYZ10","ee":"http://www.usenix.org/events/osdi10/tech/full_papers/Gunda.pdf","url":"https://dblp.org/rec/conf/osdi/GundaRTYZ10"},
+"url":"URL#3320597"
+},
+{
+"@score":"1",
+"@id":"3320599",
+"info":{"authors":{"author":[{"@pid":"60/4358","text":"Andreas Haeberlen"},{"@pid":"34/10014","text":"Paarijaat Aditya"},{"@pid":"87/6689","text":"Rodrigo Rodrigues 0001"},{"@pid":"d/PDruschel","text":"Peter Druschel"}]},"title":"Accountable Virtual Machines.","venue":"OSDI","pages":"119-134","year":"2010","type":"Conference and Workshop Papers","key":"conf/osdi/HaeberlenARD10","ee":"http://www.usenix.org/events/osdi10/tech/full_papers/Haeberlen.pdf","url":"https://dblp.org/rec/conf/osdi/HaeberlenARD10"},
+"url":"URL#3320599"
+},
+{
+"@score":"1",
+"@id":"3320600",
+"info":{"authors":{"author":[{"@pid":"67/1968","text":"Maya Haridasan"},{"@pid":"79/2797","text":"Iqbal Mohomed"},{"@pid":"06/965","text":"Doug Terry"},{"@pid":"13/3927","text":"Chandramohan A. Thekkath"},{"@pid":"89/5992","text":"Li Zhang"}]},"title":"StarTrack Next Generation - A Scalable Infrastructure for Track-Based Applications.","venue":"OSDI","pages":"409-422","year":"2010","type":"Conference and Workshop Papers","key":"conf/osdi/HaridasanMTTZ10","ee":"http://www.usenix.org/events/osdi10/tech/full_papers/Haridasan.pdf","url":"https://dblp.org/rec/conf/osdi/HaridasanMTTZ10"},
+"url":"URL#3320600"
+},
+{
+"@score":"1",
+"@id":"3320602",
+"info":{"authors":{"author":[{"@pid":"38/8882","text":"Taesoo Kim"},{"@pid":"08/5760-5","text":"Xi Wang 0005"},{"@pid":"99/5780","text":"Nickolai Zeldovich"},{"@pid":"k/MFransKaashoek","text":"M. Frans Kaashoek"}]},"title":"Intrusion Recovery Using Selective Re-execution.","venue":"OSDI","pages":"89-104","year":"2010","type":"Conference and Workshop Papers","key":"conf/osdi/KimWZK10","ee":"http://www.usenix.org/events/osdi10/tech/full_papers/Kim.pdf","url":"https://dblp.org/rec/conf/osdi/KimWZK10"},
+"url":"URL#3320602"
+},
+{
+"@score":"1",
+"@id":"3320603",
+"info":{"authors":{"author":[{"@pid":"93/6926","text":"Teemu Koponen"},{"@pid":"79/5605","text":"Martín Casado"},{"@pid":"03/4409","text":"Natasha Gude"},{"@pid":"74/3199","text":"Jeremy Stribling"},{"@pid":"52/518","text":"Leon Poutievski"},{"@pid":"76/3988","text":"Min Zhu"},{"@pid":"55/3778","text":"Rajiv Ramanathan"},{"@pid":"85/10014","text":"Yuichiro Iwata"},{"@pid":"18/7023","text":"Hiroaki Inoue"},{"@pid":"66/5181","text":"Takayuki Hama"},{"@pid":"34/5593","text":"Scott Shenker"}]},"title":"Onix - A Distributed Control Platform for Large-scale Production Networks.","venue":"OSDI","pages":"351-364","year":"2010","type":"Conference and Workshop Papers","key":"conf/osdi/KoponenCGSPZRIIHS10","ee":"http://www.usenix.org/events/osdi10/tech/full_papers/Koponen.pdf","url":"https://dblp.org/rec/conf/osdi/KoponenCGSPZRIIHS10"},
+"url":"URL#3320603"
+},
+{
+"@score":"1",
+"@id":"3320604",
+"info":{"authors":{"author":[{"@pid":"98/6661","text":"Nate Kushman"},{"@pid":"k/DinaKatabi","text":"Dina Katabi"}]},"title":"Enabling Configuration-Independent Automation by Non-Expert Users.","venue":"OSDI","pages":"223-236","year":"2010","type":"Conference and Workshop Papers","key":"conf/osdi/KushmanK10","ee":"http://www.usenix.org/events/osdi10/tech/full_papers/Kushman.pdf","url":"https://dblp.org/rec/conf/osdi/KushmanK10"},
+"url":"URL#3320604"
+},
+{
+"@score":"1",
+"@id":"3320610",
+"info":{"authors":{"author":[{"@pid":"21/6955","text":"Prince Mahajan"},{"@pid":"68/8463","text":"Srinath T. V. Setty"},{"@pid":"68/311","text":"Sangmin Lee"},{"@pid":"17/597","text":"Allen Clement"},{"@pid":"a/LAlvisi","text":"Lorenzo Alvisi"},{"@pid":"d/MDahlin","text":"Michael Dahlin"},{"@pid":"00/2879","text":"Michael Walfish"}]},"title":"Depot - Cloud Storage with Minimal Trust.","venue":"OSDI","pages":"307-322","year":"2010","type":"Conference and Workshop Papers","key":"conf/osdi/MahajanSLCADW10","ee":"http://www.usenix.org/events/osdi10/tech/full_papers/Mahajan.pdf","url":"https://dblp.org/rec/conf/osdi/MahajanSLCADW10"},
+"url":"URL#3320610"
+},
+{
+"@score":"1",
+"@id":"3320612",
+"info":{"authors":{"author":[{"@pid":"57/10015","text":"Daniel Peng"},{"@pid":"19/6590","text":"Frank Dabek"}]},"title":"Large-scale Incremental Processing Using Distributed Transactions and Notifications.","venue":"OSDI","pages":"251-264","year":"2010","type":"Conference and Workshop Papers","key":"conf/osdi/PengD10","ee":"http://www.usenix.org/events/osdi10/tech/full_papers/Peng.pdf","url":"https://dblp.org/rec/conf/osdi/PengD10"},
+"url":"URL#3320612"
+},
+{
+"@score":"1",
+"@id":"3320613",
+"info":{"authors":{"author":[{"@pid":"p/LucianPopa2","text":"Lucian Popa 0002"},{"@pid":"91/2516","text":"Norbert Egi"},{"@pid":"68/5579","text":"Sylvia Ratnasamy"},{"@pid":"s/IonStoica","text":"Ion Stoica"}]},"title":"Building Extensible Networks with Rule-Based Forwarding.","venue":"OSDI","pages":"379-392","year":"2010","type":"Conference and Workshop Papers","key":"conf/osdi/PopaERS10","ee":"http://www.usenix.org/events/osdi10/tech/full_papers/Popa.pdf","url":"https://dblp.org/rec/conf/osdi/PopaERS10"},
+"url":"URL#3320613"
+},
+{
+"@score":"1",
+"@id":"3320614",
+"info":{"authors":{"author":[{"@pid":"03/6105","text":"Dan R. K. Ports"},{"@pid":"21/659","text":"Austin T. Clements"},{"@pid":"68/1122","text":"Irene Zhang"},{"@pid":"m/SamuelMadden","text":"Samuel Madden"},{"@pid":"l/BarbaraLiskov","text":"Barbara Liskov"}]},"title":"Transactional Consistency and Automatic Management in an Application Data Cache.","venue":"OSDI","pages":"279-292","year":"2010","type":"Conference and Workshop Papers","key":"conf/osdi/PortsCZML10","ee":"http://www.usenix.org/events/osdi10/tech/full_papers/Ports.pdf","url":"https://dblp.org/rec/conf/osdi/PortsCZML10"},
+"url":"URL#3320614"
+},
+{
+"@score":"1",
+"@id":"3320615",
+"info":{"authors":{"author":[{"@pid":"48/9376","text":"Russell Power"},{"@pid":"79/572-1","text":"Jinyang Li 0001"}]},"title":"Piccolo - Building Fast, Distributed Programs with Partitioned Tables.","venue":"OSDI","pages":"293-306","year":"2010","type":"Conference and Workshop Papers","key":"conf/osdi/PowerL10","ee":"http://www.usenix.org/events/osdi10/tech/full_papers/Power.pdf","url":"https://dblp.org/rec/conf/osdi/PowerL10"},
+"url":"URL#3320615"
+},
+{
+"@score":"1",
+"@id":"3320619",
+"info":{"authors":{"author":[{"@pid":"63/4719","text":"Rob Sherwood"},{"@pid":"49/2422","text":"Glen Gibb"},{"@pid":"34/788","text":"Kok-Kiong Yap"},{"@pid":"12/84","text":"Guido Appenzeller"},{"@pid":"79/5605","text":"Martín Casado"},{"@pid":"m/NickMcKeown","text":"Nick McKeown"},{"@pid":"50/4579","text":"Guru M. Parulkar"}]},"title":"Can the Production Network Be the Testbed?","venue":"OSDI","pages":"365-378","year":"2010","type":"Conference and Workshop Papers","key":"conf/osdi/SherwoodGYACMP10","ee":"http://www.usenix.org/events/osdi10/tech/full_papers/Sherwood.pdf","url":"https://dblp.org/rec/conf/osdi/SherwoodGYACMP10"},
+"url":"URL#3320619"
+},
+{
+"@score":"1",
+"@id":"3320620",
+"info":{"authors":{"author":[{"@pid":"46/978","text":"Livio Soares"},{"@pid":"82/5150","text":"Michael Stumm"}]},"title":"FlexSC - Flexible System Call Scheduling with Exception-Less System Calls.","venue":"OSDI","pages":"33-46","year":"2010","type":"Conference and Workshop Papers","key":"conf/osdi/SoaresS10","ee":"http://www.usenix.org/events/osdi10/tech/full_papers/Soares.pdf","url":"https://dblp.org/rec/conf/osdi/SoaresS10"},
+"url":"URL#3320620"
+},
+{
+"@score":"1",
+"@id":"3320622",
+"info":{"authors":{"author":[{"@pid":"54/5852","text":"Shuo Tang"},{"@pid":"24/129","text":"Haohui Mai"},{"@pid":"54/5833","text":"Samuel T. King"}]},"title":"Trust and Protection in the Illinois Browser Operating System.","venue":"OSDI","pages":"17-32","year":"2010","type":"Conference and Workshop Papers","key":"conf/osdi/TangMK10","ee":"http://www.usenix.org/events/osdi10/tech/full_papers/Tang.pdf","url":"https://dblp.org/rec/conf/osdi/TangMK10"},
+"url":"URL#3320622"
+},
+{
+"@score":"1",
+"@id":"3320625",
+"info":{"authors":{"author":[{"@pid":"60/10014","text":"Jingyue Wu"},{"@pid":"59/5565","text":"Heming Cui"},{"@pid":"71/3724","text":"Junfeng Yang"}]},"title":"Bypassing Races in Live Applications with Execution Filters.","venue":"OSDI","pages":"135-149","year":"2010","type":"Conference and Workshop Papers","key":"conf/osdi/WuCY10","ee":"http://www.usenix.org/events/osdi10/tech/full_papers/Wu.pdf","url":"https://dblp.org/rec/conf/osdi/WuCY10"},
+"url":"URL#3320625"
+},
+{
+"@score":"1",
+"@id":"3320626",
+"info":{"authors":{"author":[{"@pid":"61/2220","text":"Weiwei Xiong"},{"@pid":"03/6317","text":"Soyeon Park"},{"@pid":"58/3021","text":"Jiaqi Zhang"},{"@pid":"99/2747","text":"Yuanyuan Zhou"},{"@pid":"62/3653","text":"Zhiqiang Ma"}]},"title":"Ad Hoc Synchronization Considered Harmful.","venue":"OSDI","pages":"163-176","year":"2010","type":"Conference and Workshop Papers","key":"conf/osdi/XiongPZZM10","ee":"http://www.usenix.org/events/osdi10/tech/full_papers/Xiong.pdf","url":"https://dblp.org/rec/conf/osdi/XiongPZZM10"},
+"url":"URL#3320626"
+},
+{
+"@score":"1",
+"@id":"3351443",
+"info":{"authors":{"author":[{"@pid":"a/RemziHArpaciDusseau","text":"Remzi H. Arpaci-Dusseau"},{"@pid":"73/360","text":"Brad Chen"}]},"title":"9th USENIX Symposium on Operating Systems Design and Implementation, OSDI 2010, October 4-6, 2010, Vancouver, BC, Canada, Proceedings","venue":"OSDI","publisher":"USENIX Association","year":"2010","type":"Editorship","key":"conf/osdi/2010","ee":"http://www.usenix.org/event/osdi10/tech/full_papers/osdi10_proceedings.pdf","url":"https://dblp.org/rec/conf/osdi/2010"},
+"url":"URL#3351443"
+}
+]
+}
+}
+}

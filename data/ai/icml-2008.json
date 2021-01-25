@@ -1,0 +1,980 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"icml\"/\"icml2008\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"156.70"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"158",
+"@dc":"158",
+"@oc":"158",
+"@id":"17568724",
+"text":":facetid:toc:db/conf/icml/icml2008.bht"
+}
+},
+"hits":{
+"@total":"158",
+"@computed":"158",
+"@sent":"158",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"3712091",
+"info":{"authors":{"author":[{"@pid":"32/909","text":"Ryan Prescott Adams"},{"@pid":"38/466","text":"Oliver Stegle"}]},"title":"Gaussian process product models for nonparametric nonstationarity.","venue":"ICML","pages":"1-8","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/AdamsS08","doi":"10.1145/1390156.1390157","ee":"https://doi.org/10.1145/1390156.1390157","url":"https://dblp.org/rec/conf/icml/AdamsS08"},
+"url":"URL#3712091"
+},
+{
+"@score":"1",
+"@id":"3712092",
+"info":{"authors":{"author":[{"@pid":"85/2685","text":"Cyril Allauzen"},{"@pid":"03/5448","text":"Mehryar Mohri"},{"@pid":"56/5528","text":"Ameet Talwalkar"}]},"title":"Sequence kernels for predicting protein essentiality.","venue":"ICML","pages":"9-16","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/AllauzenMT08","doi":"10.1145/1390156.1390158","ee":"https://doi.org/10.1145/1390156.1390158","url":"https://dblp.org/rec/conf/icml/AllauzenMT08"},
+"url":"URL#3712092"
+},
+{
+"@score":"1",
+"@id":"3712093",
+"info":{"authors":{"author":[{"@pid":"89/5098","text":"Qi An"},{"@pid":"54/2715-1","text":"Chunping Wang 0001"},{"@pid":"25/3702","text":"Ivo Shterev"},{"@pid":"02/5887","text":"Eric Wang"},{"@pid":"23/2168","text":"Lawrence Carin"},{"@pid":"60/4397","text":"David B. Dunson"}]},"title":"Hierarchical kernel stick-breaking process for multi-task image analysis.","venue":"ICML","pages":"17-24","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/AnWSWCD08","doi":"10.1145/1390156.1390159","ee":"https://doi.org/10.1145/1390156.1390159","url":"https://dblp.org/rec/conf/icml/AnWSWCD08"},
+"url":"URL#3712093"
+},
+{
+"@score":"1",
+"@id":"3712094",
+"info":{"authors":{"author":{"@pid":"b/FrancisRBach","text":"Francis R. Bach"}},"title":"Graph kernels between point clouds.","venue":"ICML","pages":"25-32","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/Bach08","doi":"10.1145/1390156.1390160","ee":"https://doi.org/10.1145/1390156.1390160","url":"https://dblp.org/rec/conf/icml/Bach08"},
+"url":"URL#3712094"
+},
+{
+"@score":"1",
+"@id":"3712095",
+"info":{"authors":{"author":{"@pid":"b/FrancisRBach","text":"Francis R. Bach"}},"title":"Bolasso - model consistent Lasso estimation through the bootstrap.","venue":"ICML","pages":"33-40","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/Bach08a","doi":"10.1145/1390156.1390161","ee":"https://doi.org/10.1145/1390156.1390161","url":"https://dblp.org/rec/conf/icml/Bach08a"},
+"url":"URL#3712095"
+},
+{
+"@score":"1",
+"@id":"3712096",
+"info":{"authors":{"author":[{"@pid":"87/4505","text":"Leon Barrett"},{"@pid":"72/1429","text":"Srini Narayanan"}]},"title":"Learning all optimal policies with multiple criteria.","venue":"ICML","pages":"41-47","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/BarrettN08","doi":"10.1145/1390156.1390162","ee":"https://doi.org/10.1145/1390156.1390162","url":"https://dblp.org/rec/conf/icml/BarrettN08"},
+"url":"URL#3712096"
+},
+{
+"@score":"1",
+"@id":"3712097",
+"info":{"authors":{"author":[{"@pid":"92/3946","text":"Charles Bergeron"},{"@pid":"41/3960","text":"Jed Zaretzki"},{"@pid":"09/4865","text":"Curt M. Breneman"},{"@pid":"24/4209","text":"Kristin P. Bennett"}]},"title":"Multiple instance ranking.","venue":"ICML","pages":"48-55","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/BergeronZBB08","doi":"10.1145/1390156.1390163","ee":"https://doi.org/10.1145/1390156.1390163","url":"https://dblp.org/rec/conf/icml/BergeronZBB08"},
+"url":"URL#3712097"
+},
+{
+"@score":"1",
+"@id":"3712098",
+"info":{"authors":{"author":[{"@pid":"b/SteffenBickel","text":"Steffen Bickel"},{"@pid":"06/593","text":"Jasmina Bogojeska"},{"@pid":"l/TLengauer","text":"Thomas Lengauer"},{"@pid":"s/TobiasScheffer","text":"Tobias Scheffer"}]},"title":"Multi-task learning for HIV therapy screening.","venue":"ICML","pages":"56-63","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/BickelBLS08","doi":"10.1145/1390156.1390164","ee":"https://doi.org/10.1145/1390156.1390164","url":"https://dblp.org/rec/conf/icml/BickelBLS08"},
+"url":"URL#3712098"
+},
+{
+"@score":"1",
+"@id":"3712099",
+"info":{"authors":{"author":[{"@pid":"71/2005","text":"Michael Biggs"},{"@pid":"71/4226-1","text":"Ali Ghodsi 0001"},{"@pid":"44/4752","text":"Stephen A. Vavasis"}]},"title":"Nonnegative matrix factorization via rank-one downdate.","venue":"ICML","pages":"64-71","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/BiggsGV08","doi":"10.1145/1390156.1390165","ee":"https://doi.org/10.1145/1390156.1390165","url":"https://dblp.org/rec/conf/icml/BiggsGV08"},
+"url":"URL#3712099"
+},
+{
+"@score":"1",
+"@id":"3712100",
+"info":{"authors":{"author":[{"@pid":"71/5161","text":"Michael H. Bowling"},{"@pid":"44/5414","text":"Michael Johanson"},{"@pid":"66/2770","text":"Neil Burch"},{"@pid":"s/DuaneSzafron","text":"Duane Szafron"}]},"title":"Strategy evaluation in extensive games with importance sampling.","venue":"ICML","pages":"72-79","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/BowlingJBS08","doi":"10.1145/1390156.1390166","ee":"https://doi.org/10.1145/1390156.1390166","url":"https://dblp.org/rec/conf/icml/BowlingJBS08"},
+"url":"URL#3712100"
+},
+{
+"@score":"1",
+"@id":"3712101",
+"info":{"authors":{"author":[{"@pid":"72/1936","text":"Brent Bryan"},{"@pid":"38/247","text":"Jeff G. Schneider"}]},"title":"Actively learning level-sets of composite functions.","venue":"ICML","pages":"80-87","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/BryanS08","doi":"10.1145/1390156.1390167","ee":"https://doi.org/10.1145/1390156.1390167","url":"https://dblp.org/rec/conf/icml/BryanS08"},
+"url":"URL#3712101"
+},
+{
+"@score":"1",
+"@id":"3712102",
+"info":{"authors":{"author":[{"@pid":"06/3091","text":"Francois Caron"},{"@pid":"68/1628","text":"Arnaud Doucet"}]},"title":"Sparse Bayesian nonparametric regression.","venue":"ICML","pages":"88-95","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/CaronD08","doi":"10.1145/1390156.1390168","ee":"https://doi.org/10.1145/1390156.1390168","url":"https://dblp.org/rec/conf/icml/CaronD08"},
+"url":"URL#3712102"
+},
+{
+"@score":"1",
+"@id":"3712103",
+"info":{"authors":{"author":[{"@pid":"c/RichCaruana","text":"Rich Caruana"},{"@pid":"80/385","text":"Nikolaos Karampatziakis"},{"@pid":"06/3748","text":"Ainur Yessenalina"}]},"title":"An empirical evaluation of supervised learning in high dimensions.","venue":"ICML","pages":"96-103","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/CaruanaKY08","doi":"10.1145/1390156.1390169","ee":"https://doi.org/10.1145/1390156.1390169","url":"https://dblp.org/rec/conf/icml/CaruanaKY08"},
+"url":"URL#3712103"
+},
+{
+"@score":"1",
+"@id":"3712104",
+"info":{"authors":{"author":[{"@pid":"14/4826","text":"Bryan Catanzaro"},{"@pid":"30/3638","text":"Narayanan Sundaram"},{"@pid":"k/KurtKeutzer","text":"Kurt Keutzer"}]},"title":"Fast support vector machine training and classification on graphics processors.","venue":"ICML","pages":"104-111","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/CatanzaroSK08","doi":"10.1145/1390156.1390170","ee":"https://doi.org/10.1145/1390156.1390170","url":"https://dblp.org/rec/conf/icml/CatanzaroSK08"},
+"url":"URL#3712104"
+},
+{
+"@score":"1",
+"@id":"3712105",
+"info":{"authors":{"author":{"@pid":"69/4664","text":"Lawrence Cayton"}},"title":"Fast nearest neighbor retrieval for bregman divergences.","venue":"ICML","pages":"112-119","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/Cayton08","doi":"10.1145/1390156.1390171","ee":"https://doi.org/10.1145/1390156.1390171","url":"https://dblp.org/rec/conf/icml/Cayton08"},
+"url":"URL#3712105"
+},
+{
+"@score":"1",
+"@id":"3712106",
+"info":{"authors":{"author":[{"@pid":"14/6210","text":"Hakan Cevikalp"},{"@pid":"49/1622","text":"Bill Triggs"},{"@pid":"32/4828","text":"Robi Polikar"}]},"title":"Nearest hyperdisk methods for high-dimensional classification.","venue":"ICML","pages":"120-127","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/CevikalpTP08","doi":"10.1145/1390156.1390172","ee":"https://doi.org/10.1145/1390156.1390172","url":"https://dblp.org/rec/conf/icml/CevikalpTP08"},
+"url":"URL#3712106"
+},
+{
+"@score":"1",
+"@id":"3712107",
+"info":{"authors":{"author":[{"@pid":"82/5049","text":"David L. Chen"},{"@pid":"m/RaymondJMooney","text":"Raymond J. Mooney"}]},"title":"Learning to sportscast - a test of grounded language acquisition.","venue":"ICML","pages":"128-135","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/ChenM08","doi":"10.1145/1390156.1390173","ee":"https://doi.org/10.1145/1390156.1390173","url":"https://dblp.org/rec/conf/icml/ChenM08"},
+"url":"URL#3712107"
+},
+{
+"@score":"1",
+"@id":"3712108",
+"info":{"authors":{"author":[{"@pid":"86/6709","text":"Jianhui Chen"},{"@pid":"03/5454","text":"Jieping Ye"}]},"title":"Training SVM with indefinite kernels.","venue":"ICML","pages":"136-143","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/ChenY08","doi":"10.1145/1390156.1390174","ee":"https://doi.org/10.1145/1390156.1390174","url":"https://dblp.org/rec/conf/icml/ChenY08"},
+"url":"URL#3712108"
+},
+{
+"@score":"1",
+"@id":"3712109",
+"info":{"authors":{"author":[{"@pid":"60/5515","text":"Adam Coates"},{"@pid":"a/PieterAbbeel","text":"Pieter Abbeel"},{"@pid":"n/AndrewYNg","text":"Andrew Y. Ng"}]},"title":"Learning for control from multiple demonstrations.","venue":"ICML","pages":"144-151","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/CoatesAN08","doi":"10.1145/1390156.1390175","ee":"https://doi.org/10.1145/1390156.1390175","url":"https://dblp.org/rec/conf/icml/CoatesAN08"},
+"url":"URL#3712109"
+},
+{
+"@score":"1",
+"@id":"3712110",
+"info":{"authors":{"author":[{"@pid":"27/346","text":"Tom Coleman"},{"@pid":"79/5514","text":"James Saunderson"},{"@pid":"27/4913","text":"Anthony Wirth"}]},"title":"Spectral clustering with inconsistent advice.","venue":"ICML","pages":"152-159","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/ColemanSW08","doi":"10.1145/1390156.1390176","ee":"https://doi.org/10.1145/1390156.1390176","url":"https://dblp.org/rec/conf/icml/ColemanSW08"},
+"url":"URL#3712110"
+},
+{
+"@score":"1",
+"@id":"3712111",
+"info":{"authors":{"author":[{"@pid":"03/4032","text":"Ronan Collobert"},{"@pid":"29/6977","text":"Jason Weston"}]},"title":"A unified architecture for natural language processing - deep neural networks with multitask learning.","venue":"ICML","pages":"160-167","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/CollobertW08","doi":"10.1145/1390156.1390177","ee":"https://doi.org/10.1145/1390156.1390177","url":"https://dblp.org/rec/conf/icml/CollobertW08"},
+"url":"URL#3712111"
+},
+{
+"@score":"1",
+"@id":"3712112",
+"info":{"authors":{"author":[{"@pid":"30/6453","text":"Andrés Corrada-Emmanuel"},{"@pid":"s/HowardJSchultz","text":"Howard J. Schultz"}]},"title":"Autonomous geometric precision error estimation in low-level computer vision tasks.","venue":"ICML","pages":"168-175","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/Corrada-EmmanuelS08","doi":"10.1145/1390156.1390178","ee":"https://doi.org/10.1145/1390156.1390178","url":"https://dblp.org/rec/conf/icml/Corrada-EmmanuelS08"},
+"url":"URL#3712112"
+},
+{
+"@score":"1",
+"@id":"3712113",
+"info":{"authors":{"author":[{"@pid":"77/5783","text":"Corinna Cortes"},{"@pid":"03/5448","text":"Mehryar Mohri"},{"@pid":"88/3682","text":"Dmitry Pechyony"},{"@pid":"59/1067","text":"Ashish Rastogi"}]},"title":"Stability of transductive regression algorithms.","venue":"ICML","pages":"176-183","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/CortesMPR08","doi":"10.1145/1390156.1390179","ee":"https://doi.org/10.1145/1390156.1390179","url":"https://dblp.org/rec/conf/icml/CortesMPR08"},
+"url":"URL#3712113"
+},
+{
+"@score":"1",
+"@id":"3712114",
+"info":{"authors":{"author":[{"@pid":"74/6961","text":"Koby Crammer"},{"@pid":"86/687","text":"Partha Pratim Talukdar"},{"@pid":"p/FernandoCNPereira","text":"Fernando C. N. Pereira"}]},"title":"A rate-distortion one-class model and its applications to clustering.","venue":"ICML","pages":"184-191","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/CrammerTP08","doi":"10.1145/1390156.1390180","ee":"https://doi.org/10.1145/1390156.1390180","url":"https://dblp.org/rec/conf/icml/CrammerTP08"},
+"url":"URL#3712114"
+},
+{
+"@score":"1",
+"@id":"3712115",
+"info":{"authors":{"author":[{"@pid":"51/4077","text":"John P. Cunningham"},{"@pid":"93/2791","text":"Krishna V. Shenoy"},{"@pid":"44/3197","text":"Maneesh Sahani"}]},"title":"Fast Gaussian process methods for point process intensity estimation.","venue":"ICML","pages":"192-199","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/CunninghamSS08","doi":"10.1145/1390156.1390181","ee":"https://doi.org/10.1145/1390156.1390181","url":"https://dblp.org/rec/conf/icml/CunninghamSS08"},
+"url":"URL#3712115"
+},
+{
+"@score":"1",
+"@id":"3712116",
+"info":{"authors":{"author":[{"@pid":"24/6075","text":"Wenyuan Dai"},{"@pid":"82/6362-1","text":"Qiang Yang 0001"},{"@pid":"72/3906","text":"Gui-Rong Xue"},{"@pid":"43/5685-1","text":"Yong Yu 0001"}]},"title":"Self-taught clustering.","venue":"ICML","pages":"200-207","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/DaiYXY08","doi":"10.1145/1390156.1390182","ee":"https://doi.org/10.1145/1390156.1390182","url":"https://dblp.org/rec/conf/icml/DaiYXY08"},
+"url":"URL#3712116"
+},
+{
+"@score":"1",
+"@id":"3712117",
+"info":{"authors":{"author":[{"@pid":"34/5967","text":"Sanjoy Dasgupta"},{"@pid":"h/DanielHsu","text":"Daniel J. Hsu"}]},"title":"Hierarchical sampling for active learning.","venue":"ICML","pages":"208-215","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/DasguptaH08","doi":"10.1145/1390156.1390183","ee":"https://doi.org/10.1145/1390156.1390183","url":"https://dblp.org/rec/conf/icml/DasguptaH08"},
+"url":"URL#3712117"
+},
+{
+"@score":"1",
+"@id":"3712118",
+"info":{"authors":{"author":[{"@pid":"70/312","text":"Ofer Dekel"},{"@pid":"12/5897","text":"Ohad Shamir"}]},"title":"Learning to classify with missing and corrupted features.","venue":"ICML","pages":"216-223","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/DekelS08","doi":"10.1145/1390156.1390184","ee":"https://doi.org/10.1145/1390156.1390184","url":"https://dblp.org/rec/conf/icml/DekelS08"},
+"url":"URL#3712118"
+},
+{
+"@score":"1",
+"@id":"3712119",
+"info":{"authors":{"author":[{"@pid":"91/3569","text":"Krzysztof Dembczynski"},{"@pid":"63/4977","text":"Wojciech Kotlowski"},{"@pid":"82/4215","text":"Roman Slowinski"}]},"title":"Maximum likelihood rule ensembles.","venue":"ICML","pages":"224-231","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/DembczynskiKS08","doi":"10.1145/1390156.1390185","ee":"https://doi.org/10.1145/1390156.1390185","url":"https://dblp.org/rec/conf/icml/DembczynskiKS08"},
+"url":"URL#3712119"
+},
+{
+"@score":"1",
+"@id":"3712120",
+"info":{"authors":{"author":[{"@pid":"18/1368","text":"Uwe Dick"},{"@pid":"34/1354","text":"Peter Haider"},{"@pid":"s/TobiasScheffer","text":"Tobias Scheffer"}]},"title":"Learning from incomplete data with infinite imputations.","venue":"ICML","pages":"232-239","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/DickHS08","doi":"10.1145/1390156.1390186","ee":"https://doi.org/10.1145/1390156.1390186","url":"https://dblp.org/rec/conf/icml/DickHS08"},
+"url":"URL#3712120"
+},
+{
+"@score":"1",
+"@id":"3712121",
+"info":{"authors":{"author":[{"@pid":"34/2772","text":"Carlos Diuk"},{"@pid":"01/7002","text":"Andre Cohen"},{"@pid":"l/MLLittman","text":"Michael L. Littman"}]},"title":"An object-oriented representation for efficient reinforcement learning.","venue":"ICML","pages":"240-247","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/DiukCL08","doi":"10.1145/1390156.1390187","ee":"https://doi.org/10.1145/1390156.1390187","url":"https://dblp.org/rec/conf/icml/DiukCL08"},
+"url":"URL#3712121"
+},
+{
+"@score":"1",
+"@id":"3712122",
+"info":{"authors":{"author":[{"@pid":"d/PinarDonmez","text":"Pinar Donmez"},{"@pid":"56/3395","text":"Jaime G. Carbonell"}]},"title":"Optimizing estimated loss reduction for active sampling in rank learning.","venue":"ICML","pages":"248-255","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/DonmezC08","doi":"10.1145/1390156.1390188","ee":"https://doi.org/10.1145/1390156.1390188","url":"https://dblp.org/rec/conf/icml/DonmezC08"},
+"url":"URL#3712122"
+},
+{
+"@score":"1",
+"@id":"3712123",
+"info":{"authors":{"author":[{"@pid":"64/7056","text":"Finale Doshi"},{"@pid":"p/JoellePineau","text":"Joelle Pineau"},{"@pid":"32/2668","text":"Nicholas Roy"}]},"title":"Reinforcement learning with limited reinforcement - using Bayes risk for active learning in POMDPs.","venue":"ICML","pages":"256-263","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/DoshiPR08","doi":"10.1145/1390156.1390189","ee":"https://doi.org/10.1145/1390156.1390189","url":"https://dblp.org/rec/conf/icml/DoshiPR08"},
+"url":"URL#3712123"
+},
+{
+"@score":"1",
+"@id":"3712124",
+"info":{"authors":{"author":[{"@pid":"31/5468","text":"Mark Dredze"},{"@pid":"74/6961","text":"Koby Crammer"},{"@pid":"49/3721","text":"Fernando Pereira"}]},"title":"Confidence-weighted linear classification.","venue":"ICML","pages":"264-271","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/DredzeCP08","doi":"10.1145/1390156.1390190","ee":"https://doi.org/10.1145/1390156.1390190","url":"https://dblp.org/rec/conf/icml/DredzeCP08"},
+"url":"URL#3712124"
+},
+{
+"@score":"1",
+"@id":"3712125",
+"info":{"authors":{"author":[{"@pid":"41/439","text":"John C. Duchi"},{"@pid":"95/2750","text":"Shai Shalev-Shwartz"},{"@pid":"s/YoramSinger","text":"Yoram Singer"},{"@pid":"26/477","text":"Tushar Chandra"}]},"title":"Efficient projections onto the l1-ball for learning in high dimensions.","venue":"ICML","pages":"272-279","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/DuchiSSC08","doi":"10.1145/1390156.1390191","ee":"https://doi.org/10.1145/1390156.1390191","url":"https://dblp.org/rec/conf/icml/DuchiSSC08"},
+"url":"URL#3712125"
+},
+{
+"@score":"1",
+"@id":"3712126",
+"info":{"authors":{"author":[{"@pid":"28/4263","text":"Charles Dugas"},{"@pid":"99/6420","text":"David Gadoury"}]},"title":"Pointwise exact bootstrap distributions of cost curves.","venue":"ICML","pages":"280-287","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/DugasG08","doi":"10.1145/1390156.1390192","ee":"https://doi.org/10.1145/1390156.1390192","url":"https://dblp.org/rec/conf/icml/DugasG08"},
+"url":"URL#3712126"
+},
+{
+"@score":"1",
+"@id":"3712127",
+"info":{"authors":{"author":[{"@pid":"03/1865","text":"Murat Dundar"},{"@pid":"85/5569-1","text":"Matthias Wolf 0001"},{"@pid":"11/1668","text":"Sarang Lakare"},{"@pid":"72/2479","text":"Marcos Salganicoff"},{"@pid":"23/816","text":"Vikas C. Raykar"}]},"title":"Polyhedral classifier for target detection - a case study - colorectal cancer.","venue":"ICML","pages":"288-295","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/DundarWLSR08","doi":"10.1145/1390156.1390193","ee":"https://doi.org/10.1145/1390156.1390193","url":"https://dblp.org/rec/conf/icml/DundarWLSR08"},
+"url":"URL#3712127"
+},
+{
+"@score":"1",
+"@id":"3712128",
+"info":{"authors":{"author":[{"@pid":"90/558","text":"Arkady Epshteyn"},{"@pid":"64/178","text":"Adam Vogel"},{"@pid":"07/1299","text":"Gerald DeJong"}]},"title":"Active reinforcement learning.","venue":"ICML","pages":"296-303","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/EpshteynVD08","doi":"10.1145/1390156.1390194","ee":"https://doi.org/10.1145/1390156.1390194","url":"https://dblp.org/rec/conf/icml/EpshteynVD08"},
+"url":"URL#3712128"
+},
+{
+"@score":"1",
+"@id":"3712129",
+"info":{"authors":{"author":[{"@pid":"45/2369","text":"Thomas Finley"},{"@pid":"j/ThorstenJoachims","text":"Thorsten Joachims"}]},"title":"Training structural SVMs when exact inference is intractable.","venue":"ICML","pages":"304-311","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/FinleyJ08","doi":"10.1145/1390156.1390195","ee":"https://doi.org/10.1145/1390156.1390195","url":"https://dblp.org/rec/conf/icml/FinleyJ08"},
+"url":"URL#3712129"
+},
+{
+"@score":"1",
+"@id":"3712130",
+"info":{"authors":{"author":[{"@pid":"68/1212","text":"Emily B. Fox"},{"@pid":"22/3923","text":"Erik B. Sudderth"},{"@pid":"j/MichaelIJordan","text":"Michael I. Jordan"},{"@pid":"48/6690","text":"Alan S. Willsky"}]},"title":"An HDP-HMM for systems with state persistence.","venue":"ICML","pages":"312-319","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/FoxSJW08","doi":"10.1145/1390156.1390196","ee":"https://doi.org/10.1145/1390156.1390196","url":"https://dblp.org/rec/conf/icml/FoxSJW08"},
+"url":"URL#3712130"
+},
+{
+"@score":"1",
+"@id":"3712131",
+"info":{"authors":{"author":[{"@pid":"60/1691","text":"Vojtech Franc"},{"@pid":"63/4310","text":"Pavel Laskov"},{"@pid":"m/KRMuller","text":"Klaus-Robert Müller"}]},"title":"Stopping conditions for exact computation of leave-one-out error in support vector machines.","venue":"ICML","pages":"328-335","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/FrancLM08","doi":"10.1145/1390156.1390198","ee":"https://doi.org/10.1145/1390156.1390198","url":"https://dblp.org/rec/conf/icml/FrancLM08"},
+"url":"URL#3712131"
+},
+{
+"@score":"1",
+"@id":"3712132",
+"info":{"authors":{"author":[{"@pid":"60/1691","text":"Vojtech Franc"},{"@pid":"56/3627","text":"Sören Sonnenburg"}]},"title":"Optimized cutting plane algorithm for support vector machines.","venue":"ICML","pages":"320-327","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/FrancS08","doi":"10.1145/1390156.1390197","ee":"https://doi.org/10.1145/1390156.1390197","url":"https://dblp.org/rec/conf/icml/FrancS08"},
+"url":"URL#3712132"
+},
+{
+"@score":"1",
+"@id":"3712133",
+"info":{"authors":{"author":[{"@pid":"63/3683","text":"Jordan Frank"},{"@pid":"20/1669","text":"Shie Mannor"},{"@pid":"p/DoinaPrecup","text":"Doina Precup"}]},"title":"Reinforcement learning in the presence of rare events.","venue":"ICML","pages":"336-343","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/FrankMP08","doi":"10.1145/1390156.1390199","ee":"https://doi.org/10.1145/1390156.1390199","url":"https://dblp.org/rec/conf/icml/FrankMP08"},
+"url":"URL#3712133"
+},
+{
+"@score":"1",
+"@id":"3712134",
+"info":{"authors":{"author":[{"@pid":"91/6785","text":"Jurgen Van Gael"},{"@pid":"47/3220","text":"Yunus Saatci"},{"@pid":"88/2483","text":"Yee Whye Teh"},{"@pid":"g/ZoubinGhahramani","text":"Zoubin Ghahramani"}]},"title":"Beam sampling for the infinite hidden Markov model.","venue":"ICML","pages":"1088-1095","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/GaelSTG08","doi":"10.1145/1390156.1390293","ee":"https://doi.org/10.1145/1390156.1390293","url":"https://dblp.org/rec/conf/icml/GaelSTG08"},
+"url":"URL#3712134"
+},
+{
+"@score":"1",
+"@id":"3712135",
+"info":{"authors":{"author":[{"@pid":"38/1187","text":"Ryan Gomes"},{"@pid":"16/2286","text":"Max Welling"},{"@pid":"p/PietroPerona","text":"Pietro Perona"}]},"title":"Memory bounded inference in topic models.","venue":"ICML","pages":"344-351","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/GomesWP08","doi":"10.1145/1390156.1390200","ee":"https://doi.org/10.1145/1390156.1390200","url":"https://dblp.org/rec/conf/icml/GomesWP08"},
+"url":"URL#3712135"
+},
+{
+"@score":"1",
+"@id":"3712136",
+"info":{"authors":{"author":[{"@pid":"37/6563","text":"Mehmet Gönen"},{"@pid":"a/EthemAlpaydin","text":"Ethem Alpaydin"}]},"title":"Localized multiple kernel learning.","venue":"ICML","pages":"352-359","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/GonenA08","doi":"10.1145/1390156.1390201","ee":"https://doi.org/10.1145/1390156.1390201","url":"https://dblp.org/rec/conf/icml/GonenA08"},
+"url":"URL#3712136"
+},
+{
+"@score":"1",
+"@id":"3712137",
+"info":{"authors":{"author":[{"@pid":"41/487","text":"Geoffrey J. Gordon"},{"@pid":"g/AmyRGreenwald","text":"Amy Greenwald"},{"@pid":"12/1217","text":"Casey Marks"}]},"title":"No-regret learning in convex games.","venue":"ICML","pages":"360-367","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/GordonGM08","doi":"10.1145/1390156.1390202","ee":"https://doi.org/10.1145/1390156.1390202","url":"https://dblp.org/rec/conf/icml/GordonGM08"},
+"url":"URL#3712137"
+},
+{
+"@score":"1",
+"@id":"3712138",
+"info":{"authors":{"author":[{"@pid":"57/5129","text":"Gholamreza Haffari"},{"@pid":"w/YangWang3","text":"Yang Wang 0003"},{"@pid":"62/6040","text":"Shaojun Wang"},{"@pid":"m/GregMori","text":"Greg Mori"},{"@pid":"88/1017","text":"Feng Jiao"}]},"title":"Boosting with incomplete information.","venue":"ICML","pages":"368-375","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/HaffariWWMJ08","doi":"10.1145/1390156.1390203","ee":"https://doi.org/10.1145/1390156.1390203","url":"https://dblp.org/rec/conf/icml/HaffariWWMJ08"},
+"url":"URL#3712138"
+},
+{
+"@score":"1",
+"@id":"3712139",
+"info":{"authors":{"author":[{"@pid":"50/2872","text":"Jihun Ham"},{"@pid":"38/5967","text":"Daniel D. Lee"}]},"title":"Grassmann discriminant analysis - a unifying view on subspace-based learning.","venue":"ICML","pages":"376-383","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/HamL08","doi":"10.1145/1390156.1390204","ee":"https://doi.org/10.1145/1390156.1390204","url":"https://dblp.org/rec/conf/icml/HamL08"},
+"url":"URL#3712139"
+},
+{
+"@score":"1",
+"@id":"3712140",
+"info":{"authors":{"author":[{"@pid":"46/2236","text":"Georg Heigold"},{"@pid":"21/6526","text":"Thomas Deselaers"},{"@pid":"43/2928","text":"Ralf Schlüter"},{"@pid":"n/HermannNey","text":"Hermann Ney"}]},"title":"Modified MMI/MPE - a direct evaluation of the margin in speech recognition.","venue":"ICML","pages":"384-391","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/HeigoldDSN08","doi":"10.1145/1390156.1390205","ee":"https://doi.org/10.1145/1390156.1390205","url":"https://dblp.org/rec/conf/icml/HeigoldDSN08"},
+"url":"URL#3712140"
+},
+{
+"@score":"1",
+"@id":"3712141",
+"info":{"authors":{"author":[{"@pid":"32/4403","text":"Katherine A. Heller"},{"@pid":"87/3383","text":"Sinead Williamson"},{"@pid":"g/ZoubinGhahramani","text":"Zoubin Ghahramani"}]},"title":"Statistical models for partial membership.","venue":"ICML","pages":"392-399","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/HellerWG08","doi":"10.1145/1390156.1390206","ee":"https://doi.org/10.1145/1390156.1390206","url":"https://dblp.org/rec/conf/icml/HellerWG08"},
+"url":"URL#3712141"
+},
+{
+"@score":"1",
+"@id":"3712142",
+"info":{"authors":{"author":[{"@pid":"h/StevenCHHoi","text":"Steven C. H. Hoi"},{"@pid":"j/RongJin","text":"Rong Jin"}]},"title":"Active kernel learning.","venue":"ICML","pages":"400-407","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/HoiJ08","doi":"10.1145/1390156.1390207","ee":"https://doi.org/10.1145/1390156.1390207","url":"https://dblp.org/rec/conf/icml/HoiJ08"},
+"url":"URL#3712142"
+},
+{
+"@score":"1",
+"@id":"3712143",
+"info":{"authors":{"author":[{"@pid":"14/2770","text":"Cho-Jui Hsieh"},{"@pid":"18/2428","text":"Kai-Wei Chang"},{"@pid":"61/1218","text":"Chih-Jen Lin"},{"@pid":"35/6732","text":"S. Sathiya Keerthi"},{"@pid":"86/2741","text":"S. Sundararajan"}]},"title":"A dual coordinate descent method for large-scale linear SVM.","venue":"ICML","pages":"408-415","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/HsiehCLKS08","doi":"10.1145/1390156.1390208","ee":"https://doi.org/10.1145/1390156.1390208","url":"https://dblp.org/rec/conf/icml/HsiehCLKS08"},
+"url":"URL#3712143"
+},
+{
+"@score":"1",
+"@id":"3712144",
+"info":{"authors":{"author":[{"@pid":"64/2263","text":"Tuyen N. Huynh"},{"@pid":"m/RaymondJMooney","text":"Raymond J. Mooney"}]},"title":"Discriminative structure and parameter learning for Markov logic networks.","venue":"ICML","pages":"416-423","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/HuynhM08","doi":"10.1145/1390156.1390209","ee":"https://doi.org/10.1145/1390156.1390209","url":"https://dblp.org/rec/conf/icml/HuynhM08"},
+"url":"URL#3712144"
+},
+{
+"@score":"1",
+"@id":"3712145",
+"info":{"authors":{"author":[{"@pid":"56/3623","text":"Aapo Hyvärinen"},{"@pid":"07/4552","text":"Shohei Shimizu"},{"@pid":"66/1138","text":"Patrik O. Hoyer"}]},"title":"Causal modelling combining instantaneous and lagged effects - an identifiable model based on non-Gaussianity.","venue":"ICML","pages":"424-431","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/HyvarinenSH08","doi":"10.1145/1390156.1390210","ee":"https://doi.org/10.1145/1390156.1390210","url":"https://dblp.org/rec/conf/icml/HyvarinenSH08"},
+"url":"URL#3712145"
+},
+{
+"@score":"1",
+"@id":"3712146",
+"info":{"authors":{"author":[{"@pid":"s/SMKakade","text":"Sham M. Kakade"},{"@pid":"95/2750","text":"Shai Shalev-Shwartz"},{"@pid":"24/567","text":"Ambuj Tewari"}]},"title":"Efficient bandit algorithms for online multiclass prediction.","venue":"ICML","pages":"440-447","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/KakadeST08","doi":"10.1145/1390156.1390212","ee":"https://doi.org/10.1145/1390156.1390212","url":"https://dblp.org/rec/conf/icml/KakadeST08"},
+"url":"URL#3712146"
+},
+{
+"@score":"1",
+"@id":"3712147",
+"info":{"authors":{"author":[{"@pid":"03/5331","text":"Michael Karlen"},{"@pid":"29/6977","text":"Jason Weston"},{"@pid":"31/986","text":"Ayse Erkan"},{"@pid":"03/4032","text":"Ronan Collobert"}]},"title":"Large scale manifold transduction.","venue":"ICML","pages":"448-455","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/KarlenWEC08","doi":"10.1145/1390156.1390213","ee":"https://doi.org/10.1145/1390156.1390213","url":"https://dblp.org/rec/conf/icml/KarlenWEC08"},
+"url":"URL#3712147"
+},
+{
+"@score":"1",
+"@id":"3712148",
+"info":{"authors":{"author":[{"@pid":"40/3793","text":"Kristian Kersting"},{"@pid":"59/4191","text":"Kurt Driessens"}]},"title":"Non-parametric policy gradients - a unified treatment of propositional and relational domains.","venue":"ICML","pages":"456-463","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/KerstingD08","doi":"10.1145/1390156.1390214","ee":"https://doi.org/10.1145/1390156.1390214","url":"https://dblp.org/rec/conf/icml/KerstingD08"},
+"url":"URL#3712148"
+},
+{
+"@score":"1",
+"@id":"3712149",
+"info":{"authors":{"author":[{"@pid":"03/2673","text":"Sergey Kirshner"},{"@pid":"15/4829","text":"Barnabás Póczos"}]},"title":"ICA and ISA using Schweizer-Wolff measure of dependence.","venue":"ICML","pages":"464-471","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/KirshnerP08","doi":"10.1145/1390156.1390215","ee":"https://doi.org/10.1145/1390156.1390215","url":"https://dblp.org/rec/conf/icml/KirshnerP08"},
+"url":"URL#3712149"
+},
+{
+"@score":"1",
+"@id":"3712150",
+"info":{"authors":{"author":[{"@pid":"72/2393","text":"Alexandre Klementiev"},{"@pid":"r/DanRoth","text":"Dan Roth"},{"@pid":"82/6573","text":"Kevin Small"}]},"title":"Unsupervised rank aggregation with distance-based models.","venue":"ICML","pages":"472-479","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/KlementievRS08","doi":"10.1145/1390156.1390216","ee":"https://doi.org/10.1145/1390156.1390216","url":"https://dblp.org/rec/conf/icml/KlementievRS08"},
+"url":"URL#3712150"
+},
+{
+"@score":"1",
+"@id":"3712151",
+"info":{"authors":{"author":[{"@pid":"94/248","text":"Pushmeet Kohli"},{"@pid":"61/5386","text":"Alexander Shekhovtsov"},{"@pid":"r/CarstenRother","text":"Carsten Rother"},{"@pid":"89/3764","text":"Vladimir Kolmogorov"},{"@pid":"t/PhilipHSTorr","text":"Philip H. S. Torr"}]},"title":"On partial optimality in multi-label MRFs.","venue":"ICML","pages":"480-487","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/KohliSRKT08","doi":"10.1145/1390156.1390217","ee":"https://doi.org/10.1145/1390156.1390217","url":"https://dblp.org/rec/conf/icml/KohliSRKT08"},
+"url":"URL#3712151"
+},
+{
+"@score":"1",
+"@id":"3712152",
+"info":{"authors":{"author":[{"@pid":"67/2526","text":"J. Zico Kolter"},{"@pid":"60/5515","text":"Adam Coates"},{"@pid":"n/AndrewYNg","text":"Andrew Y. Ng"},{"@pid":"83/5894","text":"Yi Gu"},{"@pid":"00/5982","text":"Charles DuHadway"}]},"title":"Space-indexed dynamic programming - learning to follow trajectories.","venue":"ICML","pages":"488-495","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/KolterCNGD08","doi":"10.1145/1390156.1390218","ee":"https://doi.org/10.1145/1390156.1390218","url":"https://dblp.org/rec/conf/icml/KolterCNGD08"},
+"url":"URL#3712152"
+},
+{
+"@score":"1",
+"@id":"3712153",
+"info":{"authors":{"author":[{"@pid":"90/869","text":"Risi Kondor"},{"@pid":"11/3733","text":"Karsten M. Borgwardt"}]},"title":"The skew spectrum of graphs.","venue":"ICML","pages":"496-503","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/KondorB08","doi":"10.1145/1390156.1390219","ee":"https://doi.org/10.1145/1390156.1390219","url":"https://dblp.org/rec/conf/icml/KondorB08"},
+"url":"URL#3712153"
+},
+{
+"@score":"1",
+"@id":"3712154",
+"info":{"authors":{"author":[{"@pid":"45/2527","text":"M. Pawan Kumar"},{"@pid":"t/PhilipHSTorr","text":"Philip H. S. Torr"}]},"title":"Efficiently solving convex relaxations for MAP estimation.","venue":"ICML","pages":"680-687","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/KumarT08","doi":"10.1145/1390156.1390242","ee":"https://doi.org/10.1145/1390156.1390242","url":"https://dblp.org/rec/conf/icml/KumarT08"},
+"url":"URL#3712154"
+},
+{
+"@score":"1",
+"@id":"3712155",
+"info":{"authors":{"author":[{"@pid":"21/4513","text":"Ondrej Kuzelka"},{"@pid":"00/2873","text":"Filip Zelezný"}]},"title":"Fast estimation of first-order clause coverage through randomization and maximum likelihood.","venue":"ICML","pages":"504-511","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/KuzelkaZ08","doi":"10.1145/1390156.1390220","ee":"https://doi.org/10.1145/1390156.1390220","url":"https://dblp.org/rec/conf/icml/KuzelkaZ08"},
+"url":"URL#3712155"
+},
+{
+"@score":"1",
+"@id":"3712156",
+"info":{"authors":{"author":[{"@pid":"00/6040","text":"Yanyan Lan"},{"@pid":"l/TieYanLiu","text":"Tie-Yan Liu"},{"@pid":"14/6841","text":"Tao Qin"},{"@pid":"49/5113","text":"Zhiming Ma"},{"@pid":"83/5560-1","text":"Hang Li 0001"}]},"title":"Query-level stability and generalization in learning to rank.","venue":"ICML","pages":"512-519","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/LanLQML08","doi":"10.1145/1390156.1390221","ee":"https://doi.org/10.1145/1390156.1390221","url":"https://dblp.org/rec/conf/icml/LanLQML08"},
+"url":"URL#3712156"
+},
+{
+"@score":"1",
+"@id":"3712157",
+"info":{"authors":{"author":{"@pid":"26/2421","text":"Niels Landwehr"}},"title":"Modeling interleaved hidden processes.","venue":"ICML","pages":"520-527","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/Landwehr08","doi":"10.1145/1390156.1390222","ee":"https://doi.org/10.1145/1390156.1390222","url":"https://dblp.org/rec/conf/icml/Landwehr08"},
+"url":"URL#3712157"
+},
+{
+"@score":"1",
+"@id":"3712158",
+"info":{"authors":{"author":[{"@pid":"77/4488","text":"John Langford 0001"},{"@pid":"s/AlexanderLStrehl","text":"Alexander L. Strehl"},{"@pid":"w/JenniferWortman","text":"Jennifer Wortman"}]},"title":"Exploration scavenging.","venue":"ICML","pages":"528-535","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/LangfordSW08","doi":"10.1145/1390156.1390223","ee":"https://doi.org/10.1145/1390156.1390223","url":"https://dblp.org/rec/conf/icml/LangfordSW08"},
+"url":"URL#3712158"
+},
+{
+"@score":"1",
+"@id":"3712159",
+"info":{"authors":{"author":[{"@pid":"86/3862","text":"Hugo Larochelle"},{"@pid":"56/953","text":"Yoshua Bengio"}]},"title":"Classification using discriminative restricted Boltzmann machines.","venue":"ICML","pages":"536-543","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/LarochelleB08","doi":"10.1145/1390156.1390224","ee":"https://doi.org/10.1145/1390156.1390224","url":"https://dblp.org/rec/conf/icml/LarochelleB08"},
+"url":"URL#3712159"
+},
+{
+"@score":"1",
+"@id":"3712160",
+"info":{"authors":{"author":[{"@pid":"36/321","text":"Alessandro Lazaric"},{"@pid":"64/1011","text":"Marcello Restelli"},{"@pid":"48/3592","text":"Andrea Bonarini"}]},"title":"Transfer of samples in batch reinforcement learning.","venue":"ICML","pages":"544-551","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/LazaricRB08","doi":"10.1145/1390156.1390225","ee":"https://doi.org/10.1145/1390156.1390225","url":"https://dblp.org/rec/conf/icml/LazaricRB08"},
+"url":"URL#3712160"
+},
+{
+"@score":"1",
+"@id":"3712161",
+"info":{"authors":{"author":[{"@pid":"31/4315","text":"Guy Lebanon"},{"@pid":"50/2082","text":"Yang Zhao"}]},"title":"Local likelihood modeling of temporal text streams.","venue":"ICML","pages":"552-559","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/LebanonZ08","doi":"10.1145/1390156.1390226","ee":"https://doi.org/10.1145/1390156.1390226","url":"https://dblp.org/rec/conf/icml/LebanonZ08"},
+"url":"URL#3712161"
+},
+{
+"@score":"1",
+"@id":"3712162",
+"info":{"authors":{"author":{"@pid":"l/LihongLi","text":"Lihong Li 0001"}},"title":"A worst-case comparison between temporal difference and residual gradient with linear function approximation.","venue":"ICML","pages":"560-567","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/Li08","doi":"10.1145/1390156.1390227","ee":"https://doi.org/10.1145/1390156.1390227","url":"https://dblp.org/rec/conf/icml/Li08"},
+"url":"URL#3712162"
+},
+{
+"@score":"1",
+"@id":"3712163",
+"info":{"authors":{"author":[{"@pid":"23/6479","text":"Zhenguo Li"},{"@pid":"l/JianzhuangLiu","text":"Jianzhuang Liu"},{"@pid":"04/5226","text":"Xiaoou Tang"}]},"title":"Pairwise constraint propagation by semidefinite programming for semi-supervised classification.","venue":"ICML","pages":"576-583","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/LiLT08","doi":"10.1145/1390156.1390229","ee":"https://doi.org/10.1145/1390156.1390229","url":"https://dblp.org/rec/conf/icml/LiLT08"},
+"url":"URL#3712163"
+},
+{
+"@score":"1",
+"@id":"3712164",
+"info":{"authors":{"author":[{"@pid":"l/LihongLi","text":"Lihong Li 0001"},{"@pid":"l/MLLittman","text":"Michael L. Littman"},{"@pid":"90/6261","text":"Thomas J. Walsh"}]},"title":"Knows what it knows - a framework for self-aware learning.","venue":"ICML","pages":"568-575","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/LiLW08","doi":"10.1145/1390156.1390228","ee":"https://doi.org/10.1145/1390156.1390228","url":"https://dblp.org/rec/conf/icml/LiLW08"},
+"url":"URL#3712164"
+},
+{
+"@score":"1",
+"@id":"3712165",
+"info":{"authors":{"author":[{"@pid":"04/1701","text":"Percy Liang"},{"@pid":"77/2856","text":"Hal Daumé III"},{"@pid":"22/1139","text":"Dan Klein"}]},"title":"Structure compilation - trading structure for features.","venue":"ICML","pages":"592-599","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/LiangDK08","doi":"10.1145/1390156.1390231","ee":"https://doi.org/10.1145/1390156.1390231","url":"https://dblp.org/rec/conf/icml/LiangDK08"},
+"url":"URL#3712165"
+},
+{
+"@score":"1",
+"@id":"3712166",
+"info":{"authors":{"author":[{"@pid":"04/1701","text":"Percy Liang"},{"@pid":"j/MichaelIJordan","text":"Michael I. Jordan"}]},"title":"An asymptotic analysis of generative, discriminative, and pseudolikelihood estimators.","venue":"ICML","pages":"584-591","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/LiangJ08","doi":"10.1145/1390156.1390230","ee":"https://doi.org/10.1145/1390156.1390230","url":"https://dblp.org/rec/conf/icml/LiangJ08"},
+"url":"URL#3712166"
+},
+{
+"@score":"1",
+"@id":"3712167",
+"info":{"authors":{"author":[{"@pid":"60/350","text":"Nicolas Loeff"},{"@pid":"f/DavidAForsyth","text":"David A. Forsyth"},{"@pid":"80/703","text":"Deepak Ramachandran"}]},"title":"ManifoldBoost - stagewise function approximation for fully-, semi- and un-supervised learning.","venue":"ICML","pages":"600-607","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/LoeffFR08","doi":"10.1145/1390156.1390232","ee":"https://doi.org/10.1145/1390156.1390232","url":"https://dblp.org/rec/conf/icml/LoeffFR08"},
+"url":"URL#3712167"
+},
+{
+"@score":"1",
+"@id":"3712168",
+"info":{"authors":{"author":[{"@pid":"66/5275","text":"Philip M. Long"},{"@pid":"s/RAServedio","text":"Rocco A. Servedio"}]},"title":"Random classification noise defeats all convex potential boosters.","venue":"ICML","pages":"608-615","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/LongS08","doi":"10.1145/1390156.1390233","ee":"https://doi.org/10.1145/1390156.1390233","url":"https://dblp.org/rec/conf/icml/LongS08"},
+"url":"URL#3712168"
+},
+{
+"@score":"1",
+"@id":"3712169",
+"info":{"authors":{"author":[{"@pid":"33/3562","text":"Zhengdong Lu"},{"@pid":"82/4320","text":"Todd K. Leen"},{"@pid":"51/1536","text":"Yonghong Huang"},{"@pid":"57/3284","text":"Deniz Erdogmus"}]},"title":"A reproducing kernel Hilbert space framework for pairwise time series distances.","venue":"ICML","pages":"624-631","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/LuLHE08","doi":"10.1145/1390156.1390235","ee":"https://doi.org/10.1145/1390156.1390235","url":"https://dblp.org/rec/conf/icml/LuLHE08"},
+"url":"URL#3712169"
+},
+{
+"@score":"1",
+"@id":"3712170",
+"info":{"authors":{"author":[{"@pid":"96/142","text":"Haiping Lu"},{"@pid":"p/KonstantinosNPlataniotis","text":"Konstantinos N. Plataniotis"},{"@pid":"18/5785","text":"Anastasios N. Venetsanopoulos"}]},"title":"Uncorrelated multilinear principal component analysis through successive variance maximization.","venue":"ICML","pages":"616-623","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/LuPV08","doi":"10.1145/1390156.1390234","ee":"https://doi.org/10.1145/1390156.1390234","url":"https://dblp.org/rec/conf/icml/LuPV08"},
+"url":"URL#3712170"
+},
+{
+"@score":"1",
+"@id":"3712171",
+"info":{"authors":{"author":[{"@pid":"81/5983","text":"Takaki Makino"},{"@pid":"54/2114","text":"Toshihisa Takagi"}]},"title":"On-line discovery of temporal-difference networks.","venue":"ICML","pages":"632-639","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/MakinoT08","doi":"10.1145/1390156.1390236","ee":"https://doi.org/10.1145/1390156.1390236","url":"https://dblp.org/rec/conf/icml/MakinoT08"},
+"url":"URL#3712171"
+},
+{
+"@score":"1",
+"@id":"3712172",
+"info":{"authors":{"author":[{"@pid":"m/AndreFTMartins","text":"André F. T. Martins"},{"@pid":"f/MarioATFigueiredo","text":"Mário A. T. Figueiredo"},{"@pid":"53/6053","text":"Pedro M. Q. Aguiar"},{"@pid":"90/5204","text":"Noah A. Smith"},{"@pid":"36/3855","text":"Eric P. Xing"}]},"title":"Nonextensive entropic kernels.","venue":"ICML","pages":"640-647","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/MartinsFASX08","doi":"10.1145/1390156.1390237","ee":"https://doi.org/10.1145/1390156.1390237","url":"https://dblp.org/rec/conf/icml/MartinsFASX08"},
+"url":"URL#3712172"
+},
+{
+"@score":"1",
+"@id":"3712173",
+"info":{"authors":{"author":[{"@pid":"48/1210","text":"Neville Mehta"},{"@pid":"05/4624","text":"Soumya Ray"},{"@pid":"42/4375","text":"Prasad Tadepalli"},{"@pid":"d/TGDietterich","text":"Thomas G. Dietterich"}]},"title":"Automatic discovery and transfer of MAXQ hierarchies.","venue":"ICML","pages":"648-655","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/MehtaRTD08","doi":"10.1145/1390156.1390238","ee":"https://doi.org/10.1145/1390156.1390238","url":"https://dblp.org/rec/conf/icml/MehtaRTD08"},
+"url":"URL#3712173"
+},
+{
+"@score":"1",
+"@id":"3712174",
+"info":{"authors":{"author":[{"@pid":"76/1906","text":"Raghu Meka"},{"@pid":"32/465-2","text":"Prateek Jain 0002"},{"@pid":"96/5760","text":"Constantine Caramanis"},{"@pid":"d/InderjitSDhillon","text":"Inderjit S. Dhillon"}]},"title":"Rank minimization via online learning.","venue":"ICML","pages":"656-663","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/MekaJCD08","doi":"10.1145/1390156.1390239","ee":"https://doi.org/10.1145/1390156.1390239","url":"https://dblp.org/rec/conf/icml/MekaJCD08"},
+"url":"URL#3712174"
+},
+{
+"@score":"1",
+"@id":"3712175",
+"info":{"authors":{"author":[{"@pid":"86/839","text":"Francisco S. Melo"},{"@pid":"25/6516","text":"Sean P. Meyn"},{"@pid":"r/MIRibeiro","text":"M. Isabel Ribeiro"}]},"title":"An analysis of reinforcement learning with function approximation.","venue":"ICML","pages":"664-671","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/MeloMR08","doi":"10.1145/1390156.1390240","ee":"https://doi.org/10.1145/1390156.1390240","url":"https://dblp.org/rec/conf/icml/MeloMR08"},
+"url":"URL#3712175"
+},
+{
+"@score":"1",
+"@id":"3712176",
+"info":{"authors":{"author":[{"@pid":"04/1930","text":"Volodymyr Mnih"},{"@pid":"62/567","text":"Csaba Szepesvári"},{"@pid":"01/3781","text":"Jean-Yves Audibert"}]},"title":"Empirical Bernstein stopping.","venue":"ICML","pages":"672-679","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/MnihSA08","doi":"10.1145/1390156.1390241","ee":"https://doi.org/10.1145/1390156.1390241","url":"https://dblp.org/rec/conf/icml/MnihSA08"},
+"url":"URL#3712176"
+},
+{
+"@score":"1",
+"@id":"3712177",
+"info":{"authors":{"author":[{"@pid":"63/1469","text":"Shravan Matthur Narayanamurthy"},{"@pid":"69/2281","text":"Balaraman Ravindran"}]},"title":"On the hardness of finding symmetries in Markov decision processes.","venue":"ICML","pages":"688-695","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/NarayanamurthyR08","doi":"10.1145/1390156.1390243","ee":"https://doi.org/10.1145/1390156.1390243","url":"https://dblp.org/rec/conf/icml/NarayanamurthyR08"},
+"url":"URL#3712177"
+},
+{
+"@score":"1",
+"@id":"3712178",
+"info":{"authors":{"author":{"@pid":"71/709","text":"Siegfried Nijssen"}},"title":"Bayes optimal classification for decision trees.","venue":"ICML","pages":"696-703","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/Nijssen08","doi":"10.1145/1390156.1390244","ee":"https://doi.org/10.1145/1390156.1390244","url":"https://dblp.org/rec/conf/icml/Nijssen08"},
+"url":"URL#3712178"
+},
+{
+"@score":"1",
+"@id":"3712179",
+"info":{"authors":{"author":[{"@pid":"15/2312","text":"Sebastian Nowozin"},{"@pid":"40/2026","text":"Gökhan H. Bakir"}]},"title":"A decoupled approach to exemplar-based unsupervised learning.","venue":"ICML","pages":"704-711","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/NowozinB08","doi":"10.1145/1390156.1390245","ee":"https://doi.org/10.1145/1390156.1390245","url":"https://dblp.org/rec/conf/icml/NowozinB08"},
+"url":"URL#3712179"
+},
+{
+"@score":"1",
+"@id":"3712180",
+"info":{"authors":{"author":[{"@pid":"31/3474","text":"Deirdre B. O&apos;Brien"},{"@pid":"48/2553","text":"Maya R. Gupta"},{"@pid":"g/RobertMGray","text":"Robert M. Gray"}]},"title":"Cost-sensitive multi-class classification from probability estimates.","venue":"ICML","pages":"712-719","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/OBrienGG08","doi":"10.1145/1390156.1390246","ee":"https://doi.org/10.1145/1390156.1390246","url":"https://dblp.org/rec/conf/icml/OBrienGG08"},
+"url":"URL#3712180"
+},
+{
+"@score":"1",
+"@id":"3712181",
+"info":{"authors":{"author":[{"@pid":"80/3790","text":"Francesco Orabona"},{"@pid":"45/4451","text":"Joseph Keshet"},{"@pid":"04/7038","text":"Barbara Caputo"}]},"title":"The projectron - a bounded kernel-based Perceptron.","venue":"ICML","pages":"720-727","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/OrabonaKC08","doi":"10.1145/1390156.1390247","ee":"https://doi.org/10.1145/1390156.1390247","url":"https://dblp.org/rec/conf/icml/OrabonaKC08"},
+"url":"URL#3712181"
+},
+{
+"@score":"1",
+"@id":"3712182",
+"info":{"authors":{"author":[{"@pid":"52/1843","text":"Hua Ouyang"},{"@pid":"85/110","text":"Alexander G. Gray"}]},"title":"Learning dissimilarities by ranking - from SDP to QP.","venue":"ICML","pages":"728-735","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/OuyangG08","doi":"10.1145/1390156.1390248","ee":"https://doi.org/10.1145/1390156.1390248","url":"https://dblp.org/rec/conf/icml/OuyangG08"},
+"url":"URL#3712182"
+},
+{
+"@score":"1",
+"@id":"3712183",
+"info":{"authors":{"author":[{"@pid":"77/6091","text":"Jean-François Paiement"},{"@pid":"g/YGrandvalet","text":"Yves Grandvalet"},{"@pid":"b/SamyBengio","text":"Samy Bengio"},{"@pid":"79/4646","text":"Douglas Eck"}]},"title":"A distance model for rhythms.","venue":"ICML","pages":"736-743","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/PaiementGBE08","doi":"10.1145/1390156.1390249","ee":"https://doi.org/10.1145/1390156.1390249","url":"https://dblp.org/rec/conf/icml/PaiementGBE08"},
+"url":"URL#3712183"
+},
+{
+"@score":"1",
+"@id":"3712184",
+"info":{"authors":{"author":[{"@pid":"37/2638","text":"Mark Palatucci"},{"@pid":"81/1583","text":"Andrew Carlson"}]},"title":"On the chance accuracies of large collections of classifiers.","venue":"ICML","pages":"744-751","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/PalatucciC08","doi":"10.1145/1390156.1390250","ee":"https://doi.org/10.1145/1390156.1390250","url":"https://dblp.org/rec/conf/icml/PalatucciC08"},
+"url":"URL#3712184"
+},
+{
+"@score":"1",
+"@id":"3712185",
+"info":{"authors":{"author":[{"@pid":"26/4670","text":"Ronald Parr"},{"@pid":"l/LihongLi","text":"Lihong Li 0001"},{"@pid":"37/142","text":"Gavin Taylor"},{"@pid":"95/3472","text":"Christopher Painter-Wakefield"},{"@pid":"l/MLLittman","text":"Michael L. Littman"}]},"title":"An analysis of linear models, linear value-function approximation, and feature selection for reinforcement learning.","venue":"ICML","pages":"752-759","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/ParrLTPL08","doi":"10.1145/1390156.1390251","ee":"https://doi.org/10.1145/1390156.1390251","url":"https://dblp.org/rec/conf/icml/ParrLTPL08"},
+"url":"URL#3712185"
+},
+{
+"@score":"1",
+"@id":"3712186",
+"info":{"authors":{"author":[{"@pid":"71/3034","text":"Kai Puolamäki"},{"@pid":"38/3758","text":"Antti Ajanki"},{"@pid":"64/5826","text":"Samuel Kaski"}]},"title":"Learning to learn implicit queries from gaze patterns.","venue":"ICML","pages":"760-767","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/PuolamakiAK08","doi":"10.1145/1390156.1390252","ee":"https://doi.org/10.1145/1390156.1390252","url":"https://dblp.org/rec/conf/icml/PuolamakiAK08"},
+"url":"URL#3712186"
+},
+{
+"@score":"1",
+"@id":"3712187",
+"info":{"authors":{"author":[{"@pid":"88/3595","text":"Yuting Qi"},{"@pid":"52/3746","text":"Dehong Liu"},{"@pid":"60/4397","text":"David B. Dunson"},{"@pid":"23/2168","text":"Lawrence Carin"}]},"title":"Multi-task compressive sensing with Dirichlet process priors.","venue":"ICML","pages":"768-775","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/QiLDC08","doi":"10.1145/1390156.1390253","ee":"https://doi.org/10.1145/1390156.1390253","url":"https://dblp.org/rec/conf/icml/QiLDC08"},
+"url":"URL#3712187"
+},
+{
+"@score":"1",
+"@id":"3712188",
+"info":{"authors":{"author":[{"@pid":"06/580","text":"Novi Quadrianto"},{"@pid":"s/AlexanderJSmola","text":"Alexander J. Smola"},{"@pid":"58/6867","text":"Tibério S. Caetano"},{"@pid":"29/6166","text":"Quoc V. Le"}]},"title":"Estimating labels from label proportions.","venue":"ICML","pages":"776-783","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/QuadriantoSCL08","doi":"10.1145/1390156.1390254","ee":"https://doi.org/10.1145/1390156.1390254","url":"https://dblp.org/rec/conf/icml/QuadriantoSCL08"},
+"url":"URL#3712188"
+},
+{
+"@score":"1",
+"@id":"3712189",
+"info":{"authors":{"author":[{"@pid":"28/1966","text":"Filip Radlinski"},{"@pid":"k/RDKleinberg","text":"Robert Kleinberg"},{"@pid":"j/ThorstenJoachims","text":"Thorsten Joachims"}]},"title":"Learning diverse rankings with multi-armed bandits.","venue":"ICML","pages":"784-791","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/RadlinskiKJ08","doi":"10.1145/1390156.1390255","ee":"https://doi.org/10.1145/1390156.1390255","url":"https://dblp.org/rec/conf/icml/RadlinskiKJ08"},
+"url":"URL#3712189"
+},
+{
+"@score":"1",
+"@id":"3712190",
+"info":{"authors":{"author":[{"@pid":"28/1732","text":"Marc&apos;Aurelio Ranzato"},{"@pid":"s/MartinSzummer","text":"Martin Szummer"}]},"title":"Semi-supervised learning of compact document representations with deep networks.","venue":"ICML","pages":"792-799","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/RanzatoS08","doi":"10.1145/1390156.1390256","ee":"https://doi.org/10.1145/1390156.1390256","url":"https://dblp.org/rec/conf/icml/RanzatoS08"},
+"url":"URL#3712190"
+},
+{
+"@score":"1",
+"@id":"3712191",
+"info":{"authors":{"author":[{"@pid":"94/3594","text":"Pradeep Ravikumar"},{"@pid":"24/4383","text":"Alekh Agarwal"},{"@pid":"48/6396","text":"Martin J. Wainwright"}]},"title":"Message-passing for graph-structured linear programs - proximal projections, convergence and rounding schemes.","venue":"ICML","pages":"800-807","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/RavikumarAW08","doi":"10.1145/1390156.1390257","ee":"https://doi.org/10.1145/1390156.1390257","url":"https://dblp.org/rec/conf/icml/RavikumarAW08"},
+"url":"URL#3712191"
+},
+{
+"@score":"1",
+"@id":"3712192",
+"info":{"authors":{"author":[{"@pid":"23/816","text":"Vikas C. Raykar"},{"@pid":"69/4401","text":"Balaji Krishnapuram"},{"@pid":"26/3430","text":"Jinbo Bi"},{"@pid":"03/1865","text":"Murat Dundar"},{"@pid":"37/5337","text":"R. Bharat Rao"}]},"title":"Bayesian multiple instance learning - automatic feature selection and inductive transfer.","venue":"ICML","pages":"808-815","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/RaykarKBDR08","doi":"10.1145/1390156.1390258","ee":"https://doi.org/10.1145/1390156.1390258","url":"https://dblp.org/rec/conf/icml/RaykarKBDR08"},
+"url":"URL#3712192"
+},
+{
+"@score":"1",
+"@id":"3712193",
+"info":{"authors":{"author":[{"@pid":"43/1726","text":"Joseph Reisinger"},{"@pid":"s/PeterStone","text":"Peter Stone"},{"@pid":"m/RistoMiikkulainen","text":"Risto Miikkulainen"}]},"title":"Online kernel selection for Bayesian reinforcement learning.","venue":"ICML","pages":"816-823","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/ReisingerSM08","doi":"10.1145/1390156.1390259","ee":"https://doi.org/10.1145/1390156.1390259","url":"https://dblp.org/rec/conf/icml/ReisingerSM08"},
+"url":"URL#3712193"
+},
+{
+"@score":"1",
+"@id":"3712194",
+"info":{"authors":{"author":[{"@pid":"33/6005","text":"Lu Ren"},{"@pid":"60/4397","text":"David B. Dunson"},{"@pid":"23/2168","text":"Lawrence Carin"}]},"title":"The dynamic hierarchical Dirichlet process.","venue":"ICML","pages":"824-831","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/RenDC08","doi":"10.1145/1390156.1390260","ee":"https://doi.org/10.1145/1390156.1390260","url":"https://dblp.org/rec/conf/icml/RenDC08"},
+"url":"URL#3712194"
+},
+{
+"@score":"1",
+"@id":"3712195",
+"info":{"authors":{"author":[{"@pid":"r/IrinaRish","text":"Irina Rish"},{"@pid":"19/5056","text":"Genady Grabarnik"},{"@pid":"79/6762","text":"Guillermo A. Cecchi"},{"@pid":"73/5236","text":"Francisco Pereira"},{"@pid":"41/487","text":"Geoffrey J. Gordon"}]},"title":"Closed-form supervised dimensionality reduction with generalized linear models.","venue":"ICML","pages":"832-839","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/RishGCPG08","doi":"10.1145/1390156.1390261","ee":"https://doi.org/10.1145/1390156.1390261","url":"https://dblp.org/rec/conf/icml/RishGCPG08"},
+"url":"URL#3712195"
+},
+{
+"@score":"1",
+"@id":"3712196",
+"info":{"authors":{"author":{"@pid":"09/6597","text":"Saharon Rosset"}},"title":"Bi-level path following for cross validated solution of kernel quantile regression.","venue":"ICML","pages":"840-847","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/Rosset08","doi":"10.1145/1390156.1390262","ee":"https://doi.org/10.1145/1390156.1390262","url":"https://dblp.org/rec/conf/icml/Rosset08"},
+"url":"URL#3712196"
+},
+{
+"@score":"1",
+"@id":"3712197",
+"info":{"authors":{"author":[{"@pid":"23/1185-1","text":"Volker Roth 0001"},{"@pid":"27/3809-3","text":"Bernd Fischer 0003"}]},"title":"The Group-Lasso for generalized linear models - uniqueness of solutions and efficient algorithms.","venue":"ICML","pages":"848-855","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/RothF08","doi":"10.1145/1390156.1390263","ee":"https://doi.org/10.1145/1390156.1390263","url":"https://dblp.org/rec/conf/icml/RothF08"},
+"url":"URL#3712197"
+},
+{
+"@score":"1",
+"@id":"3712198",
+"info":{"authors":{"author":[{"@pid":"10/252","text":"Hichem Sahbi"},{"@pid":"01/3781","text":"Jean-Yves Audibert"},{"@pid":"69/1894","text":"Jaonary Rabarisoa"},{"@pid":"00/4650","text":"Renaud Keriven"}]},"title":"Robust matching and recognition using context-dependent kernels.","venue":"ICML","pages":"856-863","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/SahbiARK08","doi":"10.1145/1390156.1390264","ee":"https://doi.org/10.1145/1390156.1390264","url":"https://dblp.org/rec/conf/icml/SahbiARK08"},
+"url":"URL#3712198"
+},
+{
+"@score":"1",
+"@id":"3712199",
+"info":{"authors":{"author":[{"@pid":"43/5716","text":"Jun Sakuma"},{"@pid":"54/6519","text":"Shigenobu Kobayashi"},{"@pid":"w/RebeccaNWright","text":"Rebecca N. Wright"}]},"title":"Privacy-preserving reinforcement learning.","venue":"ICML","pages":"864-871","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/SakumaKW08","doi":"10.1145/1390156.1390265","ee":"https://doi.org/10.1145/1390156.1390265","url":"https://dblp.org/rec/conf/icml/SakumaKW08"},
+"url":"URL#3712199"
+},
+{
+"@score":"1",
+"@id":"3712200",
+"info":{"authors":{"author":[{"@pid":"62/5884","text":"Ruslan Salakhutdinov"},{"@pid":"82/384","text":"Iain Murray 0001"}]},"title":"On the quantitative analysis of deep belief networks.","venue":"ICML","pages":"872-879","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/SalakhutdinovM08","doi":"10.1145/1390156.1390266","ee":"https://doi.org/10.1145/1390156.1390266","url":"https://dblp.org/rec/conf/icml/SalakhutdinovM08"},
+"url":"URL#3712200"
+},
+{
+"@score":"1",
+"@id":"3712201",
+"info":{"authors":{"author":[{"@pid":"62/5884","text":"Ruslan Salakhutdinov"},{"@pid":"23/1295","text":"Andriy Mnih"}]},"title":"Bayesian probabilistic matrix factorization using Markov chain Monte Carlo.","venue":"ICML","pages":"880-887","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/SalakhutdinovM08a","doi":"10.1145/1390156.1390267","ee":"https://doi.org/10.1145/1390156.1390267","url":"https://dblp.org/rec/conf/icml/SalakhutdinovM08a"},
+"url":"URL#3712201"
+},
+{
+"@score":"1",
+"@id":"3712202",
+"info":{"authors":{"author":[{"@pid":"s/SunitaSarawagi","text":"Sunita Sarawagi"},{"@pid":"24/3213","text":"Rahul Gupta"}]},"title":"Accurate max-margin training for structured output spaces.","venue":"ICML","pages":"888-895","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/SarawagiG08","doi":"10.1145/1390156.1390268","ee":"https://doi.org/10.1145/1390156.1390268","url":"https://dblp.org/rec/conf/icml/SarawagiG08"},
+"url":"URL#3712202"
+},
+{
+"@score":"1",
+"@id":"3712203",
+"info":{"authors":{"author":[{"@pid":"25/6929","text":"Purnamrita Sarkar"},{"@pid":"95/2279-1","text":"Andrew W. Moore 0001"},{"@pid":"76/2269","text":"Amit Prakash"}]},"title":"Fast incremental proximity search in large graphs.","venue":"ICML","pages":"896-903","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/SarkarMP08","doi":"10.1145/1390156.1390269","ee":"https://doi.org/10.1145/1390156.1390269","url":"https://dblp.org/rec/conf/icml/SarkarMP08"},
+"url":"URL#3712203"
+},
+{
+"@score":"1",
+"@id":"3712204",
+"info":{"authors":{"author":[{"@pid":"04/1515","text":"Michael Schnall-Levin"},{"@pid":"08/3182","text":"Leonid Chindelevitch"},{"@pid":"b/BonnieBerger","text":"Bonnie Berger"}]},"title":"Inverting the Viterbi algorithm - an abstract framework for structure design.","venue":"ICML","pages":"904-911","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/Schnall-LevinCB08","doi":"10.1145/1390156.1390270","ee":"https://doi.org/10.1145/1390156.1390270","url":"https://dblp.org/rec/conf/icml/Schnall-LevinCB08"},
+"url":"URL#3712204"
+},
+{
+"@score":"1",
+"@id":"3712205",
+"info":{"authors":{"author":[{"@pid":"43/5832","text":"Matthias W. Seeger"},{"@pid":"46/1834","text":"Hannes Nickisch"}]},"title":"Compressed sensing and Bayesian experimental design.","venue":"ICML","pages":"912-919","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/SeegerN08","doi":"10.1145/1390156.1390271","ee":"https://doi.org/10.1145/1390156.1390271","url":"https://dblp.org/rec/conf/icml/SeegerN08"},
+"url":"URL#3712205"
+},
+{
+"@score":"1",
+"@id":"3712206",
+"info":{"authors":{"author":[{"@pid":"34/39","text":"Yevgeny Seldin"},{"@pid":"03/2176","text":"Naftali Tishby"}]},"title":"Multi-classification by categorical features via clustering.","venue":"ICML","pages":"920-927","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/SeldinT08","doi":"10.1145/1390156.1390272","ee":"https://doi.org/10.1145/1390156.1390272","url":"https://dblp.org/rec/conf/icml/SeldinT08"},
+"url":"URL#3712206"
+},
+{
+"@score":"1",
+"@id":"3712207",
+"info":{"authors":{"author":[{"@pid":"95/2750","text":"Shai Shalev-Shwartz"},{"@pid":"50/3633","text":"Nathan Srebro"}]},"title":"SVM optimization - inverse dependence on training set size.","venue":"ICML","pages":"928-935","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/Shalev-ShwartzS08","doi":"10.1145/1390156.1390273","ee":"https://doi.org/10.1145/1390156.1390273","url":"https://dblp.org/rec/conf/icml/Shalev-ShwartzS08"},
+"url":"URL#3712207"
+},
+{
+"@score":"1",
+"@id":"3712208",
+"info":{"authors":{"author":[{"@pid":"42/1958","text":"Tao Shi"},{"@pid":"41/2337","text":"Mikhail Belkin"},{"@pid":"27/116-1","text":"Bin Yu 0001"}]},"title":"Data spectroscopy - learning mixture models using eigenspaces of convolution operators.","venue":"ICML","pages":"936-943","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/ShiBY08","doi":"10.1145/1390156.1390274","ee":"https://doi.org/10.1145/1390156.1390274","url":"https://dblp.org/rec/conf/icml/ShiBY08"},
+"url":"URL#3712208"
+},
+{
+"@score":"1",
+"@id":"3712209",
+"info":{"authors":{"author":[{"@pid":"72/6313","text":"Kilho Shin"},{"@pid":"43/3007","text":"Tetsuji Kuboyama"}]},"title":"A generalization of Haussler&apos;s convolution kernel - mapping kernel.","venue":"ICML","pages":"944-951","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/ShinK08","doi":"10.1145/1390156.1390275","ee":"https://doi.org/10.1145/1390156.1390275","url":"https://dblp.org/rec/conf/icml/ShinK08"},
+"url":"URL#3712209"
+},
+{
+"@score":"1",
+"@id":"3712210",
+"info":{"authors":{"author":[{"@pid":"39/6034","text":"Suyash Shringarpure"},{"@pid":"36/3855","text":"Eric P. Xing"}]},"title":"mStruct - a new admixture model for inference of population structure in light of both genetic admixing and allele mutations.","venue":"ICML","pages":"952-959","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/ShringarpureX08","doi":"10.1145/1390156.1390276","ee":"https://doi.org/10.1145/1390156.1390276","url":"https://dblp.org/rec/conf/icml/ShringarpureX08"},
+"url":"URL#3712210"
+},
+{
+"@score":"1",
+"@id":"3712211",
+"info":{"authors":{"author":[{"@pid":"61/6108","text":"Christian D. Sigg"},{"@pid":"b/JMBuhmann","text":"Joachim M. Buhmann"}]},"title":"Expectation-maximization for sparse and non-negative PCA.","venue":"ICML","pages":"960-967","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/SiggB08","doi":"10.1145/1390156.1390277","ee":"https://doi.org/10.1145/1390156.1390277","url":"https://dblp.org/rec/conf/icml/SiggB08"},
+"url":"URL#3712211"
+},
+{
+"@score":"1",
+"@id":"3712212",
+"info":{"authors":{"author":[{"@pid":"34/3601","text":"David Silver"},{"@pid":"48/6070","text":"Richard S. Sutton"},{"@pid":"m/MartinMuller3","text":"Martin Müller 0003"}]},"title":"Sample-based learning and search with permanent and transient memories.","venue":"ICML","pages":"968-975","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/SilverSM08","doi":"10.1145/1390156.1390278","ee":"https://doi.org/10.1145/1390156.1390278","url":"https://dblp.org/rec/conf/icml/SilverSM08"},
+"url":"URL#3712212"
+},
+{
+"@score":"1",
+"@id":"3712213",
+"info":{"authors":{"author":[{"@pid":"26/4825","text":"Vikas Sindhwani"},{"@pid":"25/6469","text":"David S. Rosenberg"}]},"title":"An RKHS for multi-view learning and manifold co-regularization.","venue":"ICML","pages":"976-983","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/SindhwaniR08","doi":"10.1145/1390156.1390279","ee":"https://doi.org/10.1145/1390156.1390279","url":"https://dblp.org/rec/conf/icml/SindhwaniR08"},
+"url":"URL#3712213"
+},
+{
+"@score":"1",
+"@id":"3712214",
+"info":{"authors":{"author":[{"@pid":"03/3349","text":"Nataliya Sokolovska"},{"@pid":"99/1572","text":"Olivier Cappé"},{"@pid":"05/2701","text":"François Yvon"}]},"title":"The asymptotics of semi-supervised learning in discriminative probabilistic models.","venue":"ICML","pages":"984-991","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/SokolovskaCY08","doi":"10.1145/1390156.1390280","ee":"https://doi.org/10.1145/1390156.1390280","url":"https://dblp.org/rec/conf/icml/SokolovskaCY08"},
+"url":"URL#3712214"
+},
+{
+"@score":"1",
+"@id":"3712215",
+"info":{"authors":{"author":[{"@pid":"94/3481","text":"Le Song"},{"@pid":"45/6863","text":"Xinhua Zhang"},{"@pid":"s/AlexanderJSmola","text":"Alexander J. Smola"},{"@pid":"56/2574","text":"Arthur Gretton"},{"@pid":"97/119","text":"Bernhard Schölkopf"}]},"title":"Tailoring density estimation via reproducing kernel moment matching.","venue":"ICML","pages":"992-999","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/SongZSGS08","doi":"10.1145/1390156.1390281","ee":"https://doi.org/10.1145/1390156.1390281","url":"https://dblp.org/rec/conf/icml/SongZSGS08"},
+"url":"URL#3712215"
+},
+{
+"@score":"1",
+"@id":"3712216",
+"info":{"authors":{"author":[{"@pid":"75/5959","text":"Daria Sorokina"},{"@pid":"c/RichCaruana","text":"Rich Caruana"},{"@pid":"r/MirekRiedewald","text":"Mirek Riedewald"},{"@pid":"47/5171","text":"Daniel Fink"}]},"title":"Detecting statistical interactions with additive groves of trees.","venue":"ICML","pages":"1000-1007","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/SorokinaCRF08","doi":"10.1145/1390156.1390282","ee":"https://doi.org/10.1145/1390156.1390282","url":"https://dblp.org/rec/conf/icml/SorokinaCRF08"},
+"url":"URL#3712216"
+},
+{
+"@score":"1",
+"@id":"3712217",
+"info":{"authors":{"author":[{"@pid":"01/6464","text":"Bharath K. Sriperumbudur"},{"@pid":"17/3749","text":"Omer A. Lang"},{"@pid":"22/2368","text":"Gert R. G. Lanckriet"}]},"title":"Metric embedding for kernel classification rules.","venue":"ICML","pages":"1008-1015","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/SriperumbudurLL08","doi":"10.1145/1390156.1390283","ee":"https://doi.org/10.1145/1390156.1390283","url":"https://dblp.org/rec/conf/icml/SriperumbudurLL08"},
+"url":"URL#3712217"
+},
+{
+"@score":"1",
+"@id":"3712218",
+"info":{"authors":{"author":[{"@pid":"18/4952","text":"Jiang Su"},{"@pid":"12/2414","text":"Harry Zhang"},{"@pid":"99/4062","text":"Charles X. Ling"},{"@pid":"m/StanMatwin","text":"Stan Matwin"}]},"title":"Discriminative parameter learning for Bayesian networks.","venue":"ICML","pages":"1016-1023","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/SuZLM08","doi":"10.1145/1390156.1390284","ee":"https://doi.org/10.1145/1390156.1390284","url":"https://dblp.org/rec/conf/icml/SuZLM08"},
+"url":"URL#3712218"
+},
+{
+"@score":"1",
+"@id":"3712219",
+"info":{"authors":{"author":[{"@pid":"18/5837-1","text":"Liang Sun 0001"},{"@pid":"84/6405","text":"Shuiwang Ji"},{"@pid":"03/5454","text":"Jieping Ye"}]},"title":"A least squares formulation for canonical correlation analysis.","venue":"ICML","pages":"1024-1031","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/SunJY08","doi":"10.1145/1390156.1390285","ee":"https://doi.org/10.1145/1390156.1390285","url":"https://dblp.org/rec/conf/icml/SunJY08"},
+"url":"URL#3712219"
+},
+{
+"@score":"1",
+"@id":"3712220",
+"info":{"authors":{"author":[{"@pid":"75/1894","text":"Umar Syed"},{"@pid":"71/5161","text":"Michael H. Bowling"},{"@pid":"s/RobertESchapire","text":"Robert E. Schapire"}]},"title":"Apprenticeship learning using linear programming.","venue":"ICML","pages":"1032-1039","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/SyedBS08","doi":"10.1145/1390156.1390286","ee":"https://doi.org/10.1145/1390156.1390286","url":"https://dblp.org/rec/conf/icml/SyedBS08"},
+"url":"URL#3712220"
+},
+{
+"@score":"1",
+"@id":"3712221",
+"info":{"authors":{"author":[{"@pid":"07/3322","text":"Marie Szafranski"},{"@pid":"g/YGrandvalet","text":"Yves Grandvalet"},{"@pid":"50/9361","text":"Alain Rakotomamonjy"}]},"title":"Composite kernel learning.","venue":"ICML","pages":"1040-1047","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/SzafranskiGR08","doi":"10.1145/1390156.1390287","ee":"https://doi.org/10.1145/1390156.1390287","url":"https://dblp.org/rec/conf/icml/SzafranskiGR08"},
+"url":"URL#3712221"
+},
+{
+"@score":"1",
+"@id":"3712222",
+"info":{"authors":{"author":[{"@pid":"51/6034","text":"Istvan Szita"},{"@pid":"81/2260","text":"András Lörincz"}]},"title":"The many faces of optimism - a unifying approach.","venue":"ICML","pages":"1048-1055","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/SzitaL08","doi":"10.1145/1390156.1390288","ee":"https://doi.org/10.1145/1390156.1390288","url":"https://dblp.org/rec/conf/icml/SzitaL08"},
+"url":"URL#3712222"
+},
+{
+"@score":"1",
+"@id":"3712223",
+"info":{"authors":{"author":[{"@pid":"76/3850","text":"Akiko Takeda"},{"@pid":"35/1228","text":"Masashi Sugiyama"}]},"title":"nu-support vector machine as conditional value-at-risk minimization.","venue":"ICML","pages":"1056-1063","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/TakedaS08","doi":"10.1145/1390156.1390289","ee":"https://doi.org/10.1145/1390156.1390289","url":"https://dblp.org/rec/conf/icml/TakedaS08"},
+"url":"URL#3712223"
+},
+{
+"@score":"1",
+"@id":"3712224",
+"info":{"authors":{"author":{"@pid":"25/6375","text":"Tijmen Tieleman"}},"title":"Training restricted Boltzmann machines using approximations to the likelihood gradient.","venue":"ICML","pages":"1064-1071","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/Tieleman08","doi":"10.1145/1390156.1390290","ee":"https://doi.org/10.1145/1390156.1390290","url":"https://dblp.org/rec/conf/icml/Tieleman08"},
+"url":"URL#3712224"
+},
+{
+"@score":"1",
+"@id":"3712225",
+"info":{"authors":{"author":[{"@pid":"65/5080","text":"Tsuyoshi Ueno"},{"@pid":"28/5971","text":"Motoaki Kawanabe"},{"@pid":"05/2456","text":"Takeshi Mori"},{"@pid":"90/4637","text":"Shin-ichi Maeda"},{"@pid":"27/3253","text":"Shin Ishii"}]},"title":"A semiparametric statistical approach to model-free policy evaluation.","venue":"ICML","pages":"1072-1079","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/UenoKMMI08","doi":"10.1145/1390156.1390291","ee":"https://doi.org/10.1145/1390156.1390291","url":"https://dblp.org/rec/conf/icml/UenoKMMI08"},
+"url":"URL#3712225"
+},
+{
+"@score":"1",
+"@id":"3712226",
+"info":{"authors":{"author":[{"@pid":"u/RaquelUrtasun","text":"Raquel Urtasun"},{"@pid":"07/2099","text":"David J. Fleet"},{"@pid":"40/5825-1","text":"Andreas Geiger 0001"},{"@pid":"p/JovanPopovic","text":"Jovan Popovic"},{"@pid":"d/TrevorDarrell","text":"Trevor Darrell"},{"@pid":"l/NeilDLawrence","text":"Neil D. Lawrence"}]},"title":"Topologically-constrained latent variable models.","venue":"ICML","pages":"1080-1087","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/UrtasunFGPDL08","doi":"10.1145/1390156.1390292","ee":"https://doi.org/10.1145/1390156.1390292","url":"https://dblp.org/rec/conf/icml/UrtasunFGPDL08"},
+"url":"URL#3712226"
+},
+{
+"@score":"1",
+"@id":"3712227",
+"info":{"authors":{"author":[{"@pid":"43/861","text":"Pascal Vincent"},{"@pid":"86/3862","text":"Hugo Larochelle"},{"@pid":"56/953","text":"Yoshua Bengio"},{"@pid":"04/6947","text":"Pierre-Antoine Manzagol"}]},"title":"Extracting and composing robust features with denoising autoencoders.","venue":"ICML","pages":"1096-1103","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/VincentLBM08","doi":"10.1145/1390156.1390294","ee":"https://doi.org/10.1145/1390156.1390294","url":"https://dblp.org/rec/conf/icml/VincentLBM08"},
+"url":"URL#3712227"
+},
+{
+"@score":"1",
+"@id":"3712228",
+"info":{"authors":{"author":[{"@pid":"v/VolodyaVovk","text":"Vladimir Vovk"},{"@pid":"83/904","text":"Fedor Zhdanov"}]},"title":"Prediction with expert advice for the Brier game.","venue":"ICML","pages":"1104-1111","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/VovkZ08","doi":"10.1145/1390156.1390295","ee":"https://doi.org/10.1145/1390156.1390295","url":"https://dblp.org/rec/conf/icml/VovkZ08"},
+"url":"URL#3712228"
+},
+{
+"@score":"1",
+"@id":"3712229",
+"info":{"authors":{"author":[{"@pid":"35/317","text":"Christian Walder"},{"@pid":"49/1431","text":"Kwang In Kim"},{"@pid":"97/119","text":"Bernhard Schölkopf"}]},"title":"Sparse multiscale gaussian process regression.","venue":"ICML","pages":"1112-1119","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/WalderKS08","doi":"10.1145/1390156.1390296","ee":"https://doi.org/10.1145/1390156.1390296","url":"https://dblp.org/rec/conf/icml/WalderKS08"},
+"url":"URL#3712229"
+},
+{
+"@score":"1",
+"@id":"3712230",
+"info":{"authors":{"author":[{"@pid":"w/JunWang6","text":"Jun Wang 0006"},{"@pid":"43/4734","text":"Tony Jebara"},{"@pid":"c/ShihFuChang","text":"Shih-Fu Chang"}]},"title":"Graph transduction via alternating minimization.","venue":"ICML","pages":"1144-1151","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/WangJC08","doi":"10.1145/1390156.1390300","ee":"https://doi.org/10.1145/1390156.1390300","url":"https://dblp.org/rec/conf/icml/WangJC08"},
+"url":"URL#3712230"
+},
+{
+"@score":"1",
+"@id":"3712231",
+"info":{"authors":{"author":[{"@pid":"93/96-1","text":"Chang Wang 0001"},{"@pid":"97/3847","text":"Sridhar Mahadevan"}]},"title":"Manifold alignment using Procrustes analysis.","venue":"ICML","pages":"1120-1127","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/WangM08","doi":"10.1145/1390156.1390297","ee":"https://doi.org/10.1145/1390156.1390297","url":"https://dblp.org/rec/conf/icml/WangM08"},
+"url":"URL#3712231"
+},
+{
+"@score":"1",
+"@id":"3712232",
+"info":{"authors":{"author":[{"@pid":"03/2142","text":"Hua-Yan Wang"},{"@pid":"82/6362-1","text":"Qiang Yang 0001"},{"@pid":"79/627","text":"Hong Qin"},{"@pid":"20/5020","text":"Hongbin Zha"}]},"title":"Dirichlet component analysis - feature extraction for compositional data.","venue":"ICML","pages":"1128-1135","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/WangYQZ08","doi":"10.1145/1390156.1390298","ee":"https://doi.org/10.1145/1390156.1390298","url":"https://dblp.org/rec/conf/icml/WangYQZ08"},
+"url":"URL#3712232"
+},
+{
+"@score":"1",
+"@id":"3712233",
+"info":{"authors":{"author":[{"@pid":"03/2142","text":"Hua-Yan Wang"},{"@pid":"82/6362-1","text":"Qiang Yang 0001"},{"@pid":"20/5020","text":"Hongbin Zha"}]},"title":"Adaptive p-posterior mixture-model kernels for multiple instance learning.","venue":"ICML","pages":"1136-1143","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/WangYZ08","doi":"10.1145/1390156.1390299","ee":"https://doi.org/10.1145/1390156.1390299","url":"https://dblp.org/rec/conf/icml/WangYZ08"},
+"url":"URL#3712233"
+},
+{
+"@score":"1",
+"@id":"3712234",
+"info":{"authors":{"author":[{"@pid":"35/7092-28","text":"Wei Wang 0028"},{"@pid":"z/ZhiHuaZhou","text":"Zhi-Hua Zhou"}]},"title":"On multi-view active learning and the combination with semi-supervised learning.","venue":"ICML","pages":"1152-1159","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/WangZ08","doi":"10.1145/1390156.1390301","ee":"https://doi.org/10.1145/1390156.1390301","url":"https://dblp.org/rec/conf/icml/WangZ08"},
+"url":"URL#3712234"
+},
+{
+"@score":"1",
+"@id":"3712235",
+"info":{"authors":{"author":[{"@pid":"88/4801","text":"Kilian Q. Weinberger"},{"@pid":"66/6611","text":"Lawrence K. Saul"}]},"title":"Fast solvers and efficient implementations for distance metric learning.","venue":"ICML","pages":"1160-1167","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/WeinbergerS08","doi":"10.1145/1390156.1390302","ee":"https://doi.org/10.1145/1390156.1390302","url":"https://dblp.org/rec/conf/icml/WeinbergerS08"},
+"url":"URL#3712235"
+},
+{
+"@score":"1",
+"@id":"3712236",
+"info":{"authors":{"author":[{"@pid":"29/6977","text":"Jason Weston"},{"@pid":"19/5490","text":"Frédéric Ratle"},{"@pid":"03/4032","text":"Ronan Collobert"}]},"title":"Deep learning via semi-supervised embedding.","venue":"ICML","pages":"1168-1175","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/WestonRC08","doi":"10.1145/1390156.1390303","ee":"https://doi.org/10.1145/1390156.1390303","url":"https://dblp.org/rec/conf/icml/WestonRC08"},
+"url":"URL#3712236"
+},
+{
+"@score":"1",
+"@id":"3712237",
+"info":{"authors":{"author":[{"@pid":"14/5737","text":"David Wingate"},{"@pid":"09/3058","text":"Satinder P. Singh"}]},"title":"Efficiently learning linear-linear exponential family predictive representations of state.","venue":"ICML","pages":"1176-1183","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/WingateS08","doi":"10.1145/1390156.1390304","ee":"https://doi.org/10.1145/1390156.1390304","url":"https://dblp.org/rec/conf/icml/WingateS08"},
+"url":"URL#3712237"
+},
+{
+"@score":"1",
+"@id":"3712238",
+"info":{"authors":{"author":[{"@pid":"198/5696","text":"Jason Andrew Wolfe"},{"@pid":"13/1739","text":"Aria Haghighi"},{"@pid":"22/1139","text":"Dan Klein"}]},"title":"Fully distributed EM for very large datasets.","venue":"ICML","pages":"1184-1191","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/WolfeHK08","doi":"10.1145/1390156.1390305","ee":"https://doi.org/10.1145/1390156.1390305","url":"https://dblp.org/rec/conf/icml/WolfeHK08"},
+"url":"URL#3712238"
+},
+{
+"@score":"1",
+"@id":"3712239",
+"info":{"authors":{"author":[{"@pid":"37/633","text":"Fen Xia"},{"@pid":"l/TieYanLiu","text":"Tie-Yan Liu"},{"@pid":"69/393-4","text":"Jue Wang 0004"},{"@pid":"94/6627-2","text":"Wensheng Zhang 0002"},{"@pid":"83/5560-1","text":"Hang Li 0001"}]},"title":"Listwise approach to learning to rank - theory and algorithm.","venue":"ICML","pages":"1192-1199","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/XiaLWZL08","doi":"10.1145/1390156.1390306","ee":"https://doi.org/10.1145/1390156.1390306","url":"https://dblp.org/rec/conf/icml/XiaLWZL08"},
+"url":"URL#3712239"
+},
+{
+"@score":"1",
+"@id":"3712240",
+"info":{"authors":{"author":[{"@pid":"38/3765","text":"Fusun Yaman"},{"@pid":"90/6261","text":"Thomas J. Walsh"},{"@pid":"l/MLLittman","text":"Michael L. Littman"},{"@pid":"97/1893","text":"Marie desJardins"}]},"title":"Democratic approximation of lexicographic preference models.","venue":"ICML","pages":"1200-1207","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/YamanWLd08","doi":"10.1145/1390156.1390307","ee":"https://doi.org/10.1145/1390156.1390307","url":"https://dblp.org/rec/conf/icml/YamanWLd08"},
+"url":"URL#3712240"
+},
+{
+"@score":"1",
+"@id":"3712241",
+"info":{"authors":{"author":[{"@pid":"25/4960","text":"Hengshuai Yao"},{"@pid":"20/5781","text":"Zhi-Qiang Liu"}]},"title":"Preconditioned temporal difference learning.","venue":"ICML","pages":"1208-1215","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/YaoL08","doi":"10.1145/1390156.1390308","ee":"https://doi.org/10.1145/1390156.1390308","url":"https://dblp.org/rec/conf/icml/YaoL08"},
+"url":"URL#3712241"
+},
+{
+"@score":"1",
+"@id":"3712242",
+"info":{"authors":{"author":[{"@pid":"03/5102","text":"Jin Yu"},{"@pid":"v/SVNVishwanathan","text":"S. V. N. Vishwanathan"},{"@pid":"30/6879","text":"Simon Günter"},{"@pid":"50/1938","text":"Nicol N. Schraudolph"}]},"title":"A quasi-Newton approach to non-smooth convex optimization.","venue":"ICML","pages":"1216-1223","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/YuVGS08","doi":"10.1145/1390156.1390309","ee":"https://doi.org/10.1145/1390156.1390309","url":"https://dblp.org/rec/conf/icml/YuVGS08"},
+"url":"URL#3712242"
+},
+{
+"@score":"1",
+"@id":"3712243",
+"info":{"authors":{"author":[{"@pid":"28/1244","text":"Yisong Yue"},{"@pid":"j/ThorstenJoachims","text":"Thorsten Joachims"}]},"title":"Predicting diverse subsets using structural SVMs.","venue":"ICML","pages":"1224-1231","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/YueJ08","doi":"10.1145/1390156.1390310","ee":"https://doi.org/10.1145/1390156.1390310","url":"https://dblp.org/rec/conf/icml/YueJ08"},
+"url":"URL#3712243"
+},
+{
+"@score":"1",
+"@id":"3712244",
+"info":{"authors":{"author":[{"@pid":"93/4085","text":"Zhenjie Zhang"},{"@pid":"13/5012","text":"Bing Tian Dai"},{"@pid":"t/AnthonyKHTung","text":"Anthony K. H. Tung"}]},"title":"Estimating local optimums in EM algorithm over Gaussian mixture model.","venue":"ICML","pages":"1240-1247","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/ZhangDT08","doi":"10.1145/1390156.1390312","ee":"https://doi.org/10.1145/1390156.1390312","url":"https://dblp.org/rec/conf/icml/ZhangDT08"},
+"url":"URL#3712244"
+},
+{
+"@score":"1",
+"@id":"3712245",
+"info":{"authors":{"author":[{"@pid":"55/957-1","text":"Kai Zhang 0001"},{"@pid":"35/5873","text":"Ivor W. Tsang"},{"@pid":"k/JamesTinYauKwok","text":"James T. Kwok"}]},"title":"Improved Nyström low-rank approximation and error analysis.","venue":"ICML","pages":"1232-1239","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/ZhangTK08","doi":"10.1145/1390156.1390311","ee":"https://doi.org/10.1145/1390156.1390311","url":"https://dblp.org/rec/conf/icml/ZhangTK08"},
+"url":"URL#3712245"
+},
+{
+"@score":"1",
+"@id":"3712246",
+"info":{"authors":{"author":[{"@pid":"73/4325-4","text":"Bin Zhao 0004"},{"@pid":"52/3194-1","text":"Fei Wang 0001"},{"@pid":"z/ChangshuiZhang","text":"Changshui Zhang"}]},"title":"Efficient multiclass maximum margin clustering.","venue":"ICML","pages":"1248-1255","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/ZhaoWZ08","doi":"10.1145/1390156.1390313","ee":"https://doi.org/10.1145/1390156.1390313","url":"https://dblp.org/rec/conf/icml/ZhaoWZ08"},
+"url":"URL#3712246"
+},
+{
+"@score":"1",
+"@id":"3712247",
+"info":{"authors":{"author":[{"@pid":"50/2644-1","text":"Jun Zhu 0001"},{"@pid":"36/3855","text":"Eric P. Xing"},{"@pid":"36/2259-10","text":"Bo Zhang 0010"}]},"title":"Laplace maximum margin Markov networks.","venue":"ICML","pages":"1256-1263","year":"2008","type":"Conference and Workshop Papers","key":"conf/icml/ZhuXZ08","doi":"10.1145/1390156.1390314","ee":"https://doi.org/10.1145/1390156.1390314","url":"https://dblp.org/rec/conf/icml/ZhuXZ08"},
+"url":"URL#3712247"
+},
+{
+"@score":"1",
+"@id":"3772479",
+"info":{"authors":{"author":[{"@pid":"c/WWCohen","text":"William W. Cohen"},{"@pid":"m/AndrewMcCallum","text":"Andrew McCallum"},{"@pid":"r/SamTRoweis","text":"Sam T. Roweis"}]},"title":"Machine Learning, Proceedings of the Twenty-Fifth International Conference (ICML 2008), Helsinki, Finland, June 5-9, 2008","venue":["ICML","ACM International Conference Proceeding Series"],"volume":"307","publisher":"ACM","year":"2008","type":"Editorship","key":"conf/icml/2008","url":"https://dblp.org/rec/conf/icml/2008"},
+"url":"URL#3772479"
+}
+]
+}
+}
+}

@@ -1,0 +1,164 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"fast\"/\"fast2002\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"101.38"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"22",
+"@dc":"22",
+"@oc":"22",
+"@id":"17561982",
+"text":":facetid:toc:db/conf/fast/fast2002.bht"
+}
+},
+"hits":{
+"@total":"22",
+"@computed":"22",
+"@sent":"22",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"4584579",
+"info":{"authors":{"author":[{"@pid":"38/4483","text":"Eric Anderson"},{"@pid":"24/4093","text":"Michael Hobbs"},{"@pid":"k/KimberlyKeeton","text":"Kimberly Keeton"},{"@pid":"s/SusanSpence","text":"Susan Spence"},{"@pid":"79/2184","text":"Mustafa Uysal"},{"@pid":"28/2712","text":"Alistair C. Veitch"}]},"title":"Hippodrome - Running Circles Around Storage Administration.","venue":"FAST","pages":"175-188","year":"2002","type":"Conference and Workshop Papers","key":"conf/fast/AndersonHKSUV02","ee":"http://www.usenix.org/publications/library/proceedings/fast02/andersonHIP.html","url":"https://dblp.org/rec/conf/fast/AndersonHKSUV02"},
+"url":"URL#4584579"
+},
+{
+"@score":"1",
+"@id":"4584580",
+"info":{"authors":{"author":[{"@pid":"38/4483","text":"Eric Anderson"},{"@pid":"78/3547","text":"Ram Swaminathan"},{"@pid":"28/2712","text":"Alistair C. Veitch"},{"@pid":"44/2969","text":"Guillermo A. Alvarez"},{"@pid":"w/JohnWilkes","text":"John Wilkes"}]},"title":"Selecting RAID Levels for Disk Arrays.","venue":"FAST","pages":"189-201","year":"2002","type":"Conference and Workshop Papers","key":"conf/fast/AndersonSVAW02","ee":"http://www.usenix.org/publications/library/proceedings/fast02/andersonRAID.html","url":"https://dblp.org/rec/conf/fast/AndersonSVAW02"},
+"url":"URL#4584580"
+},
+{
+"@score":"1",
+"@id":"4584581",
+"info":{"authors":{"author":[{"@pid":"42/1978","text":"Fay W. Chang"},{"@pid":"43/6998","text":"Minwen Ji"},{"@pid":"21/6818","text":"Shun-Tak Leung"},{"@pid":"17/429","text":"John MacCormick"},{"@pid":"93/3664","text":"Sharon E. Perl"},{"@pid":"89/5992-1","text":"Li Zhang 0001"}]},"title":"Myriad - Cost-Effective Disaster Tolerance.","venue":"FAST","pages":"103-116","year":"2002","type":"Conference and Workshop Papers","key":"conf/fast/ChangJLMPZ02","ee":"http://www.usenix.org/publications/library/proceedings/fast02/chang.html","url":"https://dblp.org/rec/conf/fast/ChangJLMPZ02"},
+"url":"URL#4584581"
+},
+{
+"@score":"1",
+"@id":"4584582",
+"info":{"authors":{"author":[{"@pid":"08/6757","text":"Brian C. Forney"},{"@pid":"a/AndreaCArpaciDusseau","text":"Andrea C. Arpaci-Dusseau"},{"@pid":"a/RemziHArpaciDusseau","text":"Remzi H. Arpaci-Dusseau"}]},"title":"Storage-Aware Caching - Revisiting Caching for Heterogeneous Storage Systems.","venue":"FAST","pages":"61-74","year":"2002","type":"Conference and Workshop Papers","key":"conf/fast/ForneyAA02","ee":"http://www.usenix.org/publications/library/proceedings/fast02/forney.html","url":"https://dblp.org/rec/conf/fast/ForneyAA02"},
+"url":"URL#4584582"
+},
+{
+"@score":"1",
+"@id":"4584583",
+"info":{"authors":{"author":[{"@pid":"03/4749","text":"John Linwood Griffin"},{"@pid":"56/2687","text":"Jiri Schindler"},{"@pid":"52/1925","text":"Steven W. Schlosser"},{"@pid":"66/2700","text":"John S. Bucy"},{"@pid":"g/GregoryRGanger","text":"Gregory R. Ganger"}]},"title":"Timing-Accurate Storage Emulation.","venue":"FAST","pages":"75-88","year":"2002","type":"Conference and Workshop Papers","key":"conf/fast/GriffinSSBG02","ee":"http://www.usenix.org/publications/library/proceedings/fast02/griffin.html","url":"https://dblp.org/rec/conf/fast/GriffinSSBG02"},
+"url":"URL#4584583"
+},
+{
+"@score":"1",
+"@id":"4584584",
+"info":{"authors":{"author":[{"@pid":"41/4559","text":"Minkyong Kim"},{"@pid":"98/5314","text":"Landon P. Cox"},{"@pid":"n/BrianDNoble","text":"Brian D. Noble"}]},"title":"Safety, Visibility, and Performance in a Wide-Area File System.","venue":"FAST","pages":"131-144","year":"2002","type":"Conference and Workshop Papers","key":"conf/fast/KimCN02","ee":"http://www.usenix.org/publications/library/proceedings/fast02/kim.html","url":"https://dblp.org/rec/conf/fast/KimCN02"},
+"url":"URL#4584584"
+},
+{
+"@score":"1",
+"@id":"4584585",
+"info":{"authors":{"author":[{"@pid":"88/683","text":"Chenyang Lu 0001"},{"@pid":"44/2969","text":"Guillermo A. Alvarez"},{"@pid":"w/JohnWilkes","text":"John Wilkes"}]},"title":"Aqueduct - Online Data Migration with Performance Guarantees.","venue":"FAST","pages":"219-230","year":"2002","type":"Conference and Workshop Papers","key":"conf/fast/LuAW02","ee":"http://www.usenix.org/publications/library/proceedings/fast02/lu.html","url":"https://dblp.org/rec/conf/fast/LuAW02"},
+"url":"URL#4584585"
+},
+{
+"@score":"1",
+"@id":"4584586",
+"info":{"authors":{"author":[{"@pid":"89/3197","text":"Christopher R. Lumb"},{"@pid":"56/2687","text":"Jiri Schindler"},{"@pid":"g/GregoryRGanger","text":"Gregory R. Ganger"}]},"title":"Freeblock Scheduling Outside of Disk Firmware.","venue":"FAST","pages":"275-288","year":"2002","type":"Conference and Workshop Papers","key":"conf/fast/LumbSG02","ee":"http://www.usenix.org/publications/library/proceedings/fast02/lumb.html","url":"https://dblp.org/rec/conf/fast/LumbSG02"},
+"url":"URL#4584586"
+},
+{
+"@score":"1",
+"@id":"4584587",
+"info":{"authors":{"author":[{"@pid":"m/PetrosManiatis","text":"Petros Maniatis"},{"@pid":"b/MaryBaker","text":"Mary Baker"}]},"title":"Enabling the Archival Storage of Signed Documents.","venue":"FAST","pages":"31-45","year":"2002","type":"Conference and Workshop Papers","key":"conf/fast/ManiatisB02","ee":"http://www.usenix.org/publications/library/proceedings/fast02/maniatis.html","url":"https://dblp.org/rec/conf/fast/ManiatisB02"},
+"url":"URL#4584587"
+},
+{
+"@score":"1",
+"@id":"4584588",
+"info":{"authors":{"author":[{"@pid":"10/2386","text":"Gokhan Memik"},{"@pid":"k/MahmutTKandemir","text":"Mahmut T. Kandemir"},{"@pid":"c/AlokNChoudhary","text":"Alok N. Choudhary"}]},"title":"Exploiting Inter-File Access Patterns Using Multi-Collective I/O.","venue":"FAST","pages":"245-258","year":"2002","type":"Conference and Workshop Papers","key":"conf/fast/MemikKC02","ee":"http://www.usenix.org/publications/library/proceedings/fast02/memik.html","url":"https://dblp.org/rec/conf/fast/MemikKC02"},
+"url":"URL#4584588"
+},
+{
+"@score":"1",
+"@id":"4584589",
+"info":{"authors":{"author":[{"@pid":"m/EthanLMiller","text":"Ethan L. Miller"},{"@pid":"49/4298","text":"Darrell D. E. Long"},{"@pid":"66/2932","text":"William E. Freeman"},{"@pid":"93/4348","text":"Benjamin Reed"}]},"title":"Strong Security for Network-Attached Storage.","venue":"FAST","pages":"1-13","year":"2002","type":"Conference and Workshop Papers","key":"conf/fast/MillerLFR02","ee":"http://www.usenix.org/publications/library/proceedings/fast02/miller.html","url":"https://dblp.org/rec/conf/fast/MillerLFR02"},
+"url":"URL#4584589"
+},
+{
+"@score":"1",
+"@id":"4584590",
+"info":{"authors":{"author":[{"@pid":"n/WeeTeckNg","text":"Wee Teck Ng"},{"@pid":"h/BruceHillyer","text":"Bruce Hillyer"},{"@pid":"64/2667","text":"Elizabeth A. M. Shriver"},{"@pid":"25/598","text":"Eran Gabber"},{"@pid":"o/BanuOzden","text":"Banu Özden"}]},"title":"Obtaining High Performance for Storage Outsourcing.","venue":"FAST","pages":"145-158","year":"2002","type":"Conference and Workshop Papers","key":"conf/fast/NgHSGO02","ee":"http://www.usenix.org/publications/library/proceedings/fast02/ng.html","url":"https://dblp.org/rec/conf/fast/NgHSGO02"},
+"url":"URL#4584590"
+},
+{
+"@score":"1",
+"@id":"4584591",
+"info":{"authors":{"author":[{"@pid":"31/1760","text":"R. Hugo Patterson"},{"@pid":"01/2318","text":"Stephen Manley"},{"@pid":"04/3416","text":"Mike Federwisch"},{"@pid":"94/2675","text":"Dave Hitz"},{"@pid":"88/2355","text":"Steven Kleiman"},{"@pid":"55/2889","text":"Shane Owara"}]},"title":"SnapMirror - File-System-Based Asynchronous Mirroring for Disaster Recovery.","venue":"FAST","pages":"117-129","year":"2002","type":"Conference and Workshop Papers","key":"conf/fast/PattersonMFHKO02","ee":"http://www.usenix.org/publications/library/proceedings/fast02/patterson.html","url":"https://dblp.org/rec/conf/fast/PattersonMFHKO02"},
+"url":"URL#4584591"
+},
+{
+"@score":"1",
+"@id":"4584592",
+"info":{"authors":{"author":[{"@pid":"60/6154","text":"Sean Quinlan"},{"@pid":"81/4329","text":"Sean Dorward"}]},"title":"Venti - A New Approach to Archival Storage.","venue":"FAST","pages":"89-101","year":"2002","type":"Conference and Workshop Papers","key":"conf/fast/QuinlanD02","ee":"http://www.usenix.org/publications/library/proceedings/fast02/quinlan.html","url":"https://dblp.org/rec/conf/fast/QuinlanD02"},
+"url":"URL#4584592"
+},
+{
+"@score":"1",
+"@id":"4584593",
+"info":{"authors":{"author":[{"@pid":"r/ErikRiedel","text":"Erik Riedel"},{"@pid":"10/4018","text":"Mahesh Kallahalla"},{"@pid":"78/3547","text":"Ram Swaminathan"}]},"title":"A Framework for Evaluating Storage System Security.","venue":"FAST","pages":"15-30","year":"2002","type":"Conference and Workshop Papers","key":"conf/fast/RiedelKS02","ee":"http://www.usenix.org/publications/library/proceedings/fast02/riedel.html","url":"https://dblp.org/rec/conf/fast/RiedelKS02"},
+"url":"URL#4584593"
+},
+{
+"@score":"1",
+"@id":"4584594",
+"info":{"authors":{"author":[{"@pid":"56/2687","text":"Jiri Schindler"},{"@pid":"03/4749","text":"John Linwood Griffin"},{"@pid":"89/3197","text":"Christopher R. Lumb"},{"@pid":"g/GregoryRGanger","text":"Gregory R. Ganger"}]},"title":"Track-Aligned Extents - Matching Access Patterns to Disk Drive Characteristics.","venue":"FAST","pages":"259-274","year":"2002","type":"Conference and Workshop Papers","key":"conf/fast/SchindlerGLG02","ee":"http://www.usenix.org/publications/library/proceedings/fast02/schindler.html","url":"https://dblp.org/rec/conf/fast/SchindlerGLG02"},
+"url":"URL#4584594"
+},
+{
+"@score":"1",
+"@id":"4584595",
+"info":{"authors":{"author":[{"@pid":"60/1686","text":"Frank B. Schmuck"},{"@pid":"43/3416","text":"Roger L. Haskin"}]},"title":"GPFS - A Shared-Disk File System for Large Computing Clusters.","venue":"FAST","pages":"231-244","year":"2002","type":"Conference and Workshop Papers","key":"conf/fast/SchmuckH02","ee":"http://www.usenix.org/publications/library/proceedings/fast02/schmuck.html","url":"https://dblp.org/rec/conf/fast/SchmuckH02"},
+"url":"URL#4584595"
+},
+{
+"@score":"1",
+"@id":"4584596",
+"info":{"authors":{"author":[{"@pid":"42/5920","text":"Sumeet Sobti"},{"@pid":"85/2042","text":"Nitin Garg"},{"@pid":"91/195","text":"Chi Zhang"},{"@pid":"19/2453","text":"Xiang Yu"},{"@pid":"k/AKrishnamurthy","text":"Arvind Krishnamurthy"},{"@pid":"69/1132","text":"Randolph Y. Wang"}]},"title":"PersonalRAID - Mobile Storage for Distributed and Disconnected Computers.","venue":"FAST","pages":"159-174","year":"2002","type":"Conference and Workshop Papers","key":"conf/fast/SobtiGZYKW02","ee":"http://www.usenix.org/publications/library/proceedings/fast02/sobti.html","url":"https://dblp.org/rec/conf/fast/SobtiGZYKW02"},
+"url":"URL#4584596"
+},
+{
+"@score":"1",
+"@id":"4584597",
+"info":{"authors":{"author":[{"@pid":"w/JunWang1","text":"Jun Wang 0001"},{"@pid":"68/5169","text":"Yiming Hu"}]},"title":"WOLF - A Novel Reordering Write Buffer to Boost the Performance of Log-Structured File Systems.","venue":"FAST","pages":"47-60","year":"2002","type":"Conference and Workshop Papers","key":"conf/fast/WangH02","ee":"http://www.usenix.org/publications/library/proceedings/fast02/wang.html","url":"https://dblp.org/rec/conf/fast/WangH02"},
+"url":"URL#4584597"
+},
+{
+"@score":"1",
+"@id":"4584598",
+"info":{"authors":{"author":[{"@pid":"29/7018","text":"Julie Ward"},{"@pid":"09/1835","text":"Michael O&apos;Sullivan"},{"@pid":"28/1176","text":"Troy Shahoumian"},{"@pid":"w/JohnWilkes","text":"John Wilkes"}]},"title":"Appia - Automatic Storage Area Network Fabric Design.","venue":"FAST","pages":"203-217","year":"2002","type":"Conference and Workshop Papers","key":"conf/fast/WardOSW02","ee":"http://www.usenix.org/publications/library/proceedings/fast02/ward.html","url":"https://dblp.org/rec/conf/fast/WardOSW02"},
+"url":"URL#4584598"
+},
+{
+"@score":"1",
+"@id":"4584599",
+"info":{"authors":{"author":[{"@pid":"91/195","text":"Chi Zhang"},{"@pid":"19/2453","text":"Xiang Yu"},{"@pid":"k/AKrishnamurthy","text":"Arvind Krishnamurthy"},{"@pid":"69/1132","text":"Randolph Y. Wang"}]},"title":"Configuring and Scheduling an Eager-Writing Disk Array for a Transaction Processing Workload.","venue":"FAST","pages":"289-304","year":"2002","type":"Conference and Workshop Papers","key":"conf/fast/ZhangYKW02","ee":"http://www.usenix.org/publications/library/proceedings/fast02/zhang.html","url":"https://dblp.org/rec/conf/fast/ZhangYKW02"},
+"url":"URL#4584599"
+},
+{
+"@score":"1",
+"@id":"4623729",
+"info":{"authors":{"author":{"@pid":"49/4298","text":"Darrell D. E. Long"}},"title":"Proceedings of the FAST &apos;02 Conference on File and Storage Technologies, January 28-30, 2002, Monterey, California, USA","venue":"FAST","publisher":"USENIX","year":"2002","type":"Editorship","key":"conf/fast/2002","url":"https://dblp.org/rec/conf/fast/2002"},
+"url":"URL#4623729"
+}
+]
+}
+}
+}

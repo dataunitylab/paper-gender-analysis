@@ -1,0 +1,590 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"aaai\"/\"aaai83\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"108.85"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"93",
+"@dc":"93",
+"@oc":"93",
+"@id":"17547467",
+"text":":facetid:toc:db/conf/aaai/aaai83.bht"
+}
+},
+"hits":{
+"@total":"93",
+"@computed":"93",
+"@sent":"93",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"5344144",
+"info":{"authors":{"author":{"@pid":"39/2214","text":"Nelleke Aiello"}},"title":"A Comparative Study of Control Strategies for Expert Systems - Age Implementation of Three Variations of PUFF.","venue":"AAAI","pages":"1-4","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/Aiello83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-070.php","url":"https://dblp.org/rec/conf/aaai/Aiello83"},
+"url":"URL#5344144"
+},
+{
+"@score":"1",
+"@id":"5344145",
+"info":{"authors":{"author":{"@pid":"79/2574","text":"Elizabeth Allen"}},"title":"YAPS - A Production Rule System Meets Objects.","venue":"AAAI","pages":"5-7","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/Allen83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-088.php","url":"https://dblp.org/rec/conf/aaai/Allen83"},
+"url":"URL#5344145"
+},
+{
+"@score":"1",
+"@id":"5344146",
+"info":{"authors":{"author":[{"@pid":"24/5885","text":"Joan Bachenko"},{"@pid":"84/6943","text":"Donald Hindle"},{"@pid":"52/5183","text":"Eileen Fitzpatrick"}]},"title":"Constraining a Deterministic Parser.","venue":"AAAI","pages":"8-11","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/BachenkoHF83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-050.php","url":"https://dblp.org/rec/conf/aaai/BachenkoHF83"},
+"url":"URL#5344146"
+},
+{
+"@score":"1",
+"@id":"5344147",
+"info":{"authors":{"author":[{"@pid":"99/404","text":"Robert Balzer"},{"@pid":"30/2035","text":"David Dyer"},{"@pid":"13/4481","text":"Matthew Morgenstern"},{"@pid":"85/2663","text":"Robert Neches"}]},"title":"Specification-Based Computing Environments.","venue":"AAAI","pages":"12-16","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/BalzerDMN83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-089.php","url":"https://dblp.org/rec/conf/aaai/BalzerDMN83"},
+"url":"URL#5344147"
+},
+{
+"@score":"1",
+"@id":"5344148",
+"info":{"authors":{"author":{"@pid":"60/1689","text":"Harry G. Barrow"}},"title":"Proving the Correctness of Digital Hardware Designs.","venue":"AAAI","pages":"17-21","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/Barrow83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-011.php","url":"https://dblp.org/rec/conf/aaai/Barrow83"},
+"url":"URL#5344148"
+},
+{
+"@score":"1",
+"@id":"5344149",
+"info":{"authors":{"author":[{"@pid":"92/2780","text":"D. Paul Benjamin"},{"@pid":"71/1446","text":"Malcolm C. Harrison"}]},"title":"A Production System for Learning Plans From an Expert.","venue":"AAAI","pages":"22-26","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/BenjaminH83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-056.php","url":"https://dblp.org/rec/conf/aaai/BenjaminH83"},
+"url":"URL#5344149"
+},
+{
+"@score":"1",
+"@id":"5344150",
+"info":{"authors":{"author":[{"@pid":"b/PhilippeBesnard","text":"Philippe Besnard"},{"@pid":"11/4522","text":"Rene Quiniou"},{"@pid":"44/4069","text":"Patrice Quinton"}]},"title":"A Theorem-Prover for a Decidable Subset of Default Logic.","venue":"AAAI","pages":"27-30","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/BesnardQQ83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-020.php","url":"https://dblp.org/rec/conf/aaai/BesnardQQ83"},
+"url":"URL#5344150"
+},
+{
+"@score":"1",
+"@id":"5344151",
+"info":{"authors":{"author":[{"@pid":"b/RJBrachman","text":"Ronald J. Brachman"},{"@pid":"l/HJLevesque","text":"Hector J. Levesque"},{"@pid":"f/RichardFikes","text":"Richard Fikes"}]},"title":"KRYPTON - Integrating Terminology and Assertion.","venue":"AAAI","pages":"31-35","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/BrachmanLF83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-005.php","url":"https://dblp.org/rec/conf/aaai/BrachmanLF83"},
+"url":"URL#5344151"
+},
+{
+"@score":"1",
+"@id":"5344152",
+"info":{"authors":{"author":{"@pid":"b/MJBrooks","text":"Michael J. Brooks"}},"title":"Two Results Concerning Ambiguity in Shape From Shading.","venue":"AAAI","pages":"36-39","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/Brooks83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-033.php","url":"https://dblp.org/rec/conf/aaai/Brooks83"},
+"url":"URL#5344152"
+},
+{
+"@score":"1",
+"@id":"5344153",
+"info":{"authors":{"author":{"@pid":"b/RodneyABrooks","text":"Rodney A. Brooks"}},"title":"Find-Path for a PUMA-Class Robot.","venue":"AAAI","pages":"40-44","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/Brooks83a","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-038.php","url":"https://dblp.org/rec/conf/aaai/Brooks83a"},
+"url":"URL#5344153"
+},
+{
+"@score":"1",
+"@id":"5344154",
+"info":{"authors":{"author":{"@pid":"12/737","text":"Mark H. Burstein"}},"title":"A Model of Learning by Incremental Analogical Reasoning and Debugging.","venue":"AAAI","pages":"45-48","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/Burstein83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-025.php","url":"https://dblp.org/rec/conf/aaai/Burstein83"},
+"url":"URL#5344154"
+},
+{
+"@score":"1",
+"@id":"5344155",
+"info":{"authors":{"author":[{"@pid":"72/3339","text":"Murray Campbell"},{"@pid":"62/1929","text":"Hans J. Berliner"}]},"title":"A Chess Program That Chunks.","venue":"AAAI","pages":"49-53","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/CampbellB83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-012.php","url":"https://dblp.org/rec/conf/aaai/CampbellB83"},
+"url":"URL#5344155"
+},
+{
+"@score":"1",
+"@id":"5344156",
+"info":{"authors":{"author":{"@pid":"c/JohnFCanny","text":"John F. Canny"}},"title":"A Variational Approach to Edge Detection.","venue":"AAAI","pages":"54-58","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/Canny83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-030.php","url":"https://dblp.org/rec/conf/aaai/Canny83"},
+"url":"URL#5344156"
+},
+{
+"@score":"1",
+"@id":"5344157",
+"info":{"authors":{"author":{"@pid":"84/1160","text":"Sandra Carberry"}},"title":"Tracking User Goals in an Information-Seeking Environment.","venue":"AAAI","pages":"59-63","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/Carberry83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-042.php","url":"https://dblp.org/rec/conf/aaai/Carberry83"},
+"url":"URL#5344157"
+},
+{
+"@score":"1",
+"@id":"5344158",
+"info":{"authors":{"author":{"@pid":"56/3395","text":"Jaime G. Carbonell"}},"title":"Derivational Analogy and Its Role in Problem Solving.","venue":"AAAI","pages":"64-69","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/Carbonell83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-021.php","url":"https://dblp.org/rec/conf/aaai/Carbonell83"},
+"url":"URL#5344158"
+},
+{
+"@score":"1",
+"@id":"5344159",
+"info":{"authors":{"author":{"@pid":"c/ECharniak","text":"Eugene Charniak"}},"title":"The Bayesian Basis of Common Sense Medical Diagnosis.","venue":"AAAI","pages":"70-73","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/Charniak83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-009.php","url":"https://dblp.org/rec/conf/aaai/Charniak83"},
+"url":"URL#5344159"
+},
+{
+"@score":"1",
+"@id":"5344160",
+"info":{"authors":{"author":{"@pid":"98/1978","text":"William J. Clancey"}},"title":"The Advantages of Abstract Control Knowledge in Expert System Design.","venue":"AAAI","pages":"74-78","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/Clancey83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-068.php","url":"https://dblp.org/rec/conf/aaai/Clancey83"},
+"url":"URL#5344160"
+},
+{
+"@score":"1",
+"@id":"5344161",
+"info":{"authors":{"author":{"@pid":"11/3810","text":"James Clifford"}},"title":"QE-III - A Formal Approach to Natural Language Ouerying.","venue":"AAAI","pages":"79-83","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/Clifford83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-051.php","url":"https://dblp.org/rec/conf/aaai/Clifford83"},
+"url":"URL#5344161"
+},
+{
+"@score":"1",
+"@id":"5344162",
+"info":{"authors":{"author":{"@pid":"c/AnthonyGCohn","text":"Anthony G. Cohn"}},"title":"Improving the Expressiveness of Many Sorted Logic.","venue":"AAAI","pages":"84-87","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/Cohn83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-008.php","url":"https://dblp.org/rec/conf/aaai/Cohn83"},
+"url":"URL#5344162"
+},
+{
+"@score":"1",
+"@id":"5344163",
+"info":{"authors":{"author":{"@pid":"98/5170","text":"Randall Davis"}},"title":"Diagnosis Via Causal Reasoning - Paths of Interaction and the Locality Principle.","venue":"AAAI","pages":"88-94","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/Davis83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-073.php","url":"https://dblp.org/rec/conf/aaai/Davis83"},
+"url":"URL#5344163"
+},
+{
+"@score":"1",
+"@id":"5344164",
+"info":{"authors":{"author":[{"@pid":"d/RDechter","text":"Rina Dechter"},{"@pid":"p/JudeaPearl","text":"Judea Pearl"}]},"title":"The Optimality of A* Revisited.","venue":"AAAI","pages":"95-99","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/DechterP83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-081.php","url":"https://dblp.org/rec/conf/aaai/DechterP83"},
+"url":"URL#5344164"
+},
+{
+"@score":"1",
+"@id":"5344165",
+"info":{"authors":{"author":[{"@pid":"06/3873","text":"Sarah A. Douglas"},{"@pid":"30/3377","text":"Thomas P. Moran"}]},"title":"Learning Operator Semantics by Analogy.","venue":"AAAI","pages":"100-103","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/DouglasM83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-028.php","url":"https://dblp.org/rec/conf/aaai/DouglasM83"},
+"url":"URL#5344165"
+},
+{
+"@score":"1",
+"@id":"5344166",
+"info":{"authors":{"author":[{"@pid":"14/3914","text":"David W. Etherington"},{"@pid":"r/RaymondReiter","text":"Raymond Reiter"}]},"title":"On Inheritance Hierarchies With Exceptions.","venue":"AAAI","pages":"104-108","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/EtheringtonR83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-017.php","url":"https://dblp.org/rec/conf/aaai/EtheringtonR83"},
+"url":"URL#5344166"
+},
+{
+"@score":"1",
+"@id":"5344167",
+"info":{"authors":{"author":[{"@pid":"16/3174","text":"Scott E. Fahlman"},{"@pid":"10/3248","text":"Geoffrey E. Hinton"},{"@pid":"26/2197","text":"Terrence J. Sejnowski"}]},"title":"Massively Parallel Architectures for AI - NETL, Thistle, and Boltzmann Machines.","venue":"AAAI","pages":"109-113","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/FahlmanHS83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-087.php","url":"https://dblp.org/rec/conf/aaai/FahlmanHS83"},
+"url":"URL#5344167"
+},
+{
+"@score":"1",
+"@id":"5344168",
+"info":{"authors":{"author":{"@pid":"38/5821","text":"Anne v. d. L. Gardner"}},"title":"The Design of a Legal Analysis Program.","venue":"AAAI","pages":"114-118","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/Gardner83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-067.php","url":"https://dblp.org/rec/conf/aaai/Gardner83"},
+"url":"URL#5344168"
+},
+{
+"@score":"1",
+"@id":"5344169",
+"info":{"authors":{"author":{"@pid":"g/MRGenesereth","text":"Michael R. Genesereth"}},"title":"An Overview of Meta-Level Architecture.","venue":"AAAI","pages":"119-124","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/Genesereth83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-001.php","url":"https://dblp.org/rec/conf/aaai/Genesereth83"},
+"url":"URL#5344169"
+},
+{
+"@score":"1",
+"@id":"5344170",
+"info":{"authors":{"author":{"@pid":"61/4054","text":"Michael P. Georgeff"}},"title":"Communication and Interaction in Multi-Agent Planning.","venue":"AAAI","pages":"125-129","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/Georgeff83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-003.php","url":"https://dblp.org/rec/conf/aaai/Georgeff83"},
+"url":"URL#5344170"
+},
+{
+"@score":"1",
+"@id":"5344171",
+"info":{"authors":{"author":{"@pid":"46/56","text":"Neil M. Goldman"}},"title":"Three Dimensions of Design Development.","venue":"AAAI","pages":"130-133","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/Goldman83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-022.php","url":"https://dblp.org/rec/conf/aaai/Goldman83"},
+"url":"URL#5344171"
+},
+{
+"@score":"1",
+"@id":"5344172",
+"info":{"authors":{"author":{"@pid":"08/1103","text":"Bradley A. Goodman"}},"title":"Repairing Miscommunication - Relaxation in Reference.","venue":"AAAI","pages":"134-138","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/Goodman83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-041.php","url":"https://dblp.org/rec/conf/aaai/Goodman83"},
+"url":"URL#5344172"
+},
+{
+"@score":"1",
+"@id":"5344173",
+"info":{"authors":{"author":[{"@pid":"g/RichardGranger","text":"Richard H. Granger"},{"@pid":"84/1295","text":"Kurt P. Eiselt"},{"@pid":"10/1699","text":"Jennifer K. Holbrook"}]},"title":"STRATEGIST - A Program That Models Strategy-Driven and Content-Driven Inference Behavior.","venue":"AAAI","pages":"139-147","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/GrangerEH83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-027.php","url":"https://dblp.org/rec/conf/aaai/GrangerEH83"},
+"url":"URL#5344173"
+},
+{
+"@score":"1",
+"@id":"5344174",
+"info":{"authors":{"author":{"@pid":"30/1642","text":"Kristian J. Hammond"}},"title":"Planning and Goal Interaction - The Use of Past Solutions in Present Situations.","venue":"AAAI","pages":"148-151","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/Hammond83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-024.php","url":"https://dblp.org/rec/conf/aaai/Hammond83"},
+"url":"URL#5344174"
+},
+{
+"@score":"1",
+"@id":"5344175",
+"info":{"authors":{"author":{"@pid":"19/6573","text":"Walter Hamscher"}},"title":"Using Structural and Functional Information in Diagnostic Design.","venue":"AAAI","pages":"152-156","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/Hamscher83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-078.php","url":"https://dblp.org/rec/conf/aaai/Hamscher83"},
+"url":"URL#5344175"
+},
+{
+"@score":"1",
+"@id":"5344176",
+"info":{"authors":{"author":{"@pid":"67/4463","text":"Diane Warner Hasling"}},"title":"Abstract Explanations of Strategy in a Diagnostic Consultation System.","venue":"AAAI","pages":"157-161","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/Hasling83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-079.php","url":"https://dblp.org/rec/conf/aaai/Hasling83"},
+"url":"URL#5344176"
+},
+{
+"@score":"1",
+"@id":"5344177",
+"info":{"authors":{"author":[{"@pid":"h/CarlHewitt","text":"Carl Hewitt"},{"@pid":"86/5778","text":"Peter de Jong"}]},"title":"Analyzing the Roles of Descriptions and Actions in Open Systems.","venue":"AAAI","pages":"162-167","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/HewittJ83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-010.php","url":"https://dblp.org/rec/conf/aaai/HewittJ83"},
+"url":"URL#5344177"
+},
+{
+"@score":"1",
+"@id":"5344178",
+"info":{"authors":{"author":{"@pid":"55/14","text":"Robert A. Hummel"}},"title":"A Design Method for Relaxation Labeling Applications.","venue":"AAAI","pages":"168-171","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/Hummel83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-036.php","url":"https://dblp.org/rec/conf/aaai/Hummel83"},
+"url":"URL#5344178"
+},
+{
+"@score":"1",
+"@id":"5344179",
+"info":{"authors":{"author":[{"@pid":"h/DPHuttenlocher","text":"Daniel P. Huttenlocher"},{"@pid":"92/5412","text":"Victor W. Sue"}]},"title":"Phonotactic and Lexical Constraints in Speech Recognition.","venue":"AAAI","pages":"172-176","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/HuttenlocherS83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-045.php","url":"https://dblp.org/rec/conf/aaai/HuttenlocherS83"},
+"url":"URL#5344179"
+},
+{
+"@score":"1",
+"@id":"5344180",
+"info":{"authors":{"author":[{"@pid":"73/5351","text":"Elaine Kant"},{"@pid":"01/4946","text":"Allen Newell"}]},"title":"An Automatic Algorithm Designer - An Initial Implementation.","venue":"AAAI","pages":"177-181","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/KantN83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-016.php","url":"https://dblp.org/rec/conf/aaai/KantN83"},
+"url":"URL#5344180"
+},
+{
+"@score":"1",
+"@id":"5344181",
+"info":{"authors":{"author":{"@pid":"44/615","text":"Richard M. Keller"}},"title":"Learning by Re-Expressing Concepts for Efficient Recognition.","venue":"AAAI","pages":"182-186","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/Keller83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-063.php","url":"https://dblp.org/rec/conf/aaai/Keller83"},
+"url":"URL#5344181"
+},
+{
+"@score":"1",
+"@id":"5344182",
+"info":{"authors":{"author":{"@pid":"l/JohnRKender","text":"John R. Kender"}},"title":"Surface Constraints From Linear Extents.","venue":"AAAI","pages":"187-190","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/Kender83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-031.php","url":"https://dblp.org/rec/conf/aaai/Kender83"},
+"url":"URL#5344182"
+},
+{
+"@score":"1",
+"@id":"5344183",
+"info":{"authors":{"author":[{"@pid":"k/DennisFKibler","text":"Dennis F. Kibler"},{"@pid":"74/1077","text":"Bruce W. Porter"}]},"title":"Episodic Learning.","venue":"AAAI","pages":"191-196","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/KiblerP83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-054.php","url":"https://dblp.org/rec/conf/aaai/KiblerP83"},
+"url":"URL#5344183"
+},
+{
+"@score":"1",
+"@id":"5344184",
+"info":{"authors":{"author":[{"@pid":"47/6120","text":"Jin Kim"},{"@pid":"82/4517","text":"John P. McDermott"}]},"title":"TALIB - An IC Layout Design Assistant.","venue":"AAAI","pages":"197-201","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/KimM83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-077.php","url":"https://dblp.org/rec/conf/aaai/KimM83"},
+"url":"URL#5344184"
+},
+{
+"@score":"1",
+"@id":"5344185",
+"info":{"authors":{"author":[{"@pid":"45/2192","text":"Madhur Kohli"},{"@pid":"m/JackMinker","text":"Jack Minker"}]},"title":"Intelligent Control Using Integrity Constraints.","venue":"AAAI","pages":"202-205","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/KohliM83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-085.php","url":"https://dblp.org/rec/conf/aaai/KohliM83"},
+"url":"URL#5344185"
+},
+{
+"@score":"1",
+"@id":"5344186",
+"info":{"authors":{"author":{"@pid":"18/2128","text":"Richard E. Korf"}},"title":"Operator Decomposability - A New Type of Problem Structure.","venue":"AAAI","pages":"206-209","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/Korf83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-057.php","url":"https://dblp.org/rec/conf/aaai/Korf83"},
+"url":"URL#5344186"
+},
+{
+"@score":"1",
+"@id":"5344187",
+"info":{"authors":{"author":[{"@pid":"31/5594","text":"Darwin T. Kuan"},{"@pid":"64/5824","text":"Robert J. Drazovich"}]},"title":"Model-Based Interpretation of Range Imagery.","venue":"AAAI","pages":"210-215","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/KuanD83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-035.php","url":"https://dblp.org/rec/conf/aaai/KuanD83"},
+"url":"URL#5344187"
+},
+{
+"@score":"1",
+"@id":"5344188",
+"info":{"authors":{"author":{"@pid":"k/BenjaminKuipers","text":"Benjamin Kuipers"}},"title":"Modeling Human Knowledge of Routes - Partial Knowledge and Individual Variation.","venue":"AAAI","pages":"216-219","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/Kuipers83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-026.php","url":"https://dblp.org/rec/conf/aaai/Kuipers83"},
+"url":"URL#5344188"
+},
+{
+"@score":"1",
+"@id":"5344189",
+"info":{"authors":{"author":[{"@pid":"k/VipinKumar","text":"Vipin Kumar"},{"@pid":"k/LaveenNKanal","text":"Laveen N. Kanal"}]},"title":"The Composite Decision Process - A Unifying Formulation for Heuristic Search, Dynamic Programming and Branch &amp; Bound Procedures.","venue":"AAAI","pages":"220-224","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/KumarK83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-083.php","url":"https://dblp.org/rec/conf/aaai/KumarK83"},
+"url":"URL#5344189"
+},
+{
+"@score":"1",
+"@id":"5344190",
+"info":{"authors":{"author":{"@pid":"63/2709","text":"John C. Kunz"}},"title":"Analysis of Physiological Behavior Using a Causal Model Based on First Principles.","venue":"AAAI","pages":"225-228","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/Kunz83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-075.php","url":"https://dblp.org/rec/conf/aaai/Kunz83"},
+"url":"URL#5344190"
+},
+{
+"@score":"1",
+"@id":"5344191",
+"info":{"authors":{"author":[{"@pid":"77/6488","text":"Jean-Louis Lassez"},{"@pid":"m/MichaelJMaher","text":"Michael J. Maher"}]},"title":"The Denotational Semantics of Horn Clauses as a Production System.","venue":"AAAI","pages":"229-231","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/LassezM83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-006.php","url":"https://dblp.org/rec/conf/aaai/LassezM83"},
+"url":"URL#5344191"
+},
+{
+"@score":"1",
+"@id":"5344192",
+"info":{"authors":{"author":{"@pid":"46/6586","text":"Michael Lebowitz"}},"title":"RESEARCHER - An Overview.","venue":"AAAI","pages":"232-235","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/Lebowitz83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-044.php","url":"https://dblp.org/rec/conf/aaai/Lebowitz83"},
+"url":"URL#5344192"
+},
+{
+"@score":"1",
+"@id":"5344193",
+"info":{"authors":{"author":[{"@pid":"68/5550","text":"Douglas B. Lenat"},{"@pid":"b/JSBrown","text":"John Seely Brown"}]},"title":"Why AM and Eurisko Appear to Work.","venue":"AAAI","pages":"236-240","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/LenatB83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-059.php","url":"https://dblp.org/rec/conf/aaai/LenatB83"},
+"url":"URL#5344193"
+},
+{
+"@score":"1",
+"@id":"5344194",
+"info":{"authors":{"author":{"@pid":"39/3002","text":"Henry Lieberman"}},"title":"An Object-Oriented Simulator for the Apiary.","venue":"AAAI","pages":"241-246","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/Lieberman83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-090.php","url":"https://dblp.org/rec/conf/aaai/Lieberman83"},
+"url":"URL#5344194"
+},
+{
+"@score":"1",
+"@id":"5344195",
+"info":{"authors":{"author":{"@pid":"18/2287","text":"James J. Little"}},"title":"An Iterative Method for Reconstructing Convex Polyhedra From External Guassian Images.","venue":"AAAI","pages":"247-250","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/Little83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-032.php","url":"https://dblp.org/rec/conf/aaai/Little83"},
+"url":"URL#5344195"
+},
+{
+"@score":"1",
+"@id":"5344196",
+"info":{"authors":{"author":{"@pid":"22/4747","text":"William J. Long"}},"title":"Reasoning About State From Causation and Time in a Medical Domain.","venue":"AAAI","pages":"251-254","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/Long83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-014.php","url":"https://dblp.org/rec/conf/aaai/Long83"},
+"url":"URL#5344196"
+},
+{
+"@score":"1",
+"@id":"5344197",
+"info":{"authors":{"author":[{"@pid":"44/842","text":"David G. Lowe"},{"@pid":"47/2095","text":"Thomas O. Binford"}]},"title":"Perceptual Organization as a Basis for Visual Recognition.","venue":"AAAI","pages":"255-260","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/LoweB83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-034.php","url":"https://dblp.org/rec/conf/aaai/LoweB83"},
+"url":"URL#5344197"
+},
+{
+"@score":"1",
+"@id":"5344198",
+"info":{"authors":{"author":{"@pid":"43/5982","text":"William C. Mann"}},"title":"An Overview of the Penman Text Generation System.","venue":"AAAI","pages":"261-265","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/Mann83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-052.php","url":"https://dblp.org/rec/conf/aaai/Mann83"},
+"url":"URL#5344198"
+},
+{
+"@score":"1",
+"@id":"5344199",
+"info":{"authors":{"author":{"@pid":"83/863","text":"Drew V. McDermott"}},"title":"Data Dependencies on Inequalities.","venue":"AAAI","pages":"266-269","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/McDermott83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-004.php","url":"https://dblp.org/rec/conf/aaai/McDermott83"},
+"url":"URL#5344199"
+},
+{
+"@score":"1",
+"@id":"5344200",
+"info":{"authors":{"author":{"@pid":"m/KathleenMcKeown","text":"Kathleen R. McKeown"}},"title":"Recursion in TEXT and Its Use in Language Generation.","venue":"AAAI","pages":"270-273","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/McKeown83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-040.php","url":"https://dblp.org/rec/conf/aaai/McKeown83"},
+"url":"URL#5344200"
+},
+{
+"@score":"1",
+"@id":"5344201",
+"info":{"authors":{"author":[{"@pid":"81/1460","text":"Tom M. Mitchell"},{"@pid":"s/LouisISteinberg","text":"Louis I. Steinberg"},{"@pid":"19/153","text":"Smadar T. Kedar-Cabelli"},{"@pid":"44/1418","text":"Van E. Kelly"},{"@pid":"34/2924","text":"Jeffrey S. Shulman"},{"@pid":"30/1028","text":"Timothy Weinrich"}]},"title":"An Intelligent Aid for Circuit Redesign.","venue":"AAAI","pages":"274-278","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/MitchellSKKSW83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-076.php","url":"https://dblp.org/rec/conf/aaai/MitchellSKKSW83"},
+"url":"URL#5344201"
+},
+{
+"@score":"1",
+"@id":"5344202",
+"info":{"authors":{"author":{"@pid":"m/JackMostow","text":"Jack Mostow"}},"title":"A Problem-Solver for Making Advice Operational.","venue":"AAAI","pages":"279-283","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/Mostow83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-061.php","url":"https://dblp.org/rec/conf/aaai/Mostow83"},
+"url":"URL#5344202"
+},
+{
+"@score":"1",
+"@id":"5344203",
+"info":{"authors":{"author":{"@pid":"n/PeterNorvig","text":"Peter Norvig"}},"title":"Six Problems for Story Understanders.","venue":"AAAI","pages":"284-287","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/Norvig83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-023.php","url":"https://dblp.org/rec/conf/aaai/Norvig83"},
+"url":"URL#5344203"
+},
+{
+"@score":"1",
+"@id":"5344204",
+"info":{"authors":{"author":{"@pid":"n/GordonSNovak","text":"Gordon S. Novak"}},"title":"Knowledge-Based Programming Using Abstract Data Types.","venue":"AAAI","pages":"288-291","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/Novak83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-091.php","url":"https://dblp.org/rec/conf/aaai/Novak83"},
+"url":"URL#5344204"
+},
+{
+"@score":"1",
+"@id":"5344205",
+"info":{"authors":{"author":{"@pid":"93/4259","text":"Bernard Nudel"}},"title":"Solving the General Consistent Labeling (or Constraint Satisfaction) Problem - Two Algorithms and Their Expected Complexities.","venue":"AAAI","pages":"292-296","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/Nudel83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-082.php","url":"https://dblp.org/rec/conf/aaai/Nudel83"},
+"url":"URL#5344205"
+},
+{
+"@score":"1",
+"@id":"5344206",
+"info":{"authors":{"author":{"@pid":"21/4000","text":"Jane Terry Nutter"}},"title":"Default Reasoning Using Monotonic Logic - A Modest Proposal.","venue":"AAAI","pages":"297-300","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/Nutter83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-019.php","url":"https://dblp.org/rec/conf/aaai/Nutter83"},
+"url":"URL#5344206"
+},
+{
+"@score":"1",
+"@id":"5344207",
+"info":{"authors":{"author":{"@pid":"20/6239","text":"Paul O&apos;Rorke"}},"title":"Reasons for Beliefs in Understanding - Applications of Non-Monotonic Dependencies to Story Processing.","venue":"AAAI","pages":"306-309","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/ORorke83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-043.php","url":"https://dblp.org/rec/conf/aaai/ORorke83"},
+"url":"URL#5344207"
+},
+{
+"@score":"1",
+"@id":"5344208",
+"info":{"authors":{"author":[{"@pid":"60/5615","text":"Tokuji Okada"},{"@pid":"k/TakeoKanade","text":"Takeo Kanade"}]},"title":"Appropriate Lengths Between Phalanges of Multijointed Fingers for Stable Grasping.","venue":"AAAI","pages":"301-305","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/OkadaK83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-037.php","url":"https://dblp.org/rec/conf/aaai/OkadaK83"},
+"url":"URL#5344208"
+},
+{
+"@score":"1",
+"@id":"5344209",
+"info":{"authors":{"author":{"@pid":"p/MarthaStonePalmer","text":"Martha Stone Palmer"}},"title":"Inference-Driven Semantic Analysis.","venue":"AAAI","pages":"310-313","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/Palmer83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-048.php","url":"https://dblp.org/rec/conf/aaai/Palmer83"},
+"url":"URL#5344209"
+},
+{
+"@score":"1",
+"@id":"5344210",
+"info":{"authors":{"author":{"@pid":"82/4225","text":"Jasmina Pavlin"}},"title":"Predicting the Performance of Distributed Knowledge-Based Systems - A Modeling Approach.","venue":"AAAI","pages":"314-319","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/Pavlin83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-086.php","url":"https://dblp.org/rec/conf/aaai/Pavlin83"},
+"url":"URL#5344210"
+},
+{
+"@score":"1",
+"@id":"5344211",
+"info":{"authors":{"author":{"@pid":"p/MJPazzani","text":"Michael J. Pazzani"}},"title":"Interactive Script Instantiation.","venue":"AAAI","pages":"320-326","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/Pazzani83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-053.php","url":"https://dblp.org/rec/conf/aaai/Pazzani83"},
+"url":"URL#5344211"
+},
+{
+"@score":"1",
+"@id":"5344212",
+"info":{"authors":{"author":[{"@pid":"65/3679","text":"Elaine Pettit"},{"@pid":"22/5126","text":"Kathleen M. Swigger"}]},"title":"An Analysis of Genetic-Based Pattern Tracking and Cognitive-Based Component Tracking Models of Adaptation.","venue":"AAAI","pages":"327-332","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/PettitS83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-066.php","url":"https://dblp.org/rec/conf/aaai/PettitS83"},
+"url":"URL#5344212"
+},
+{
+"@score":"1",
+"@id":"5344213",
+"info":{"authors":{"author":[{"@pid":"r/JAReggia","text":"James A. Reggia"},{"@pid":"n/DanaSNau","text":"Dana S. Nau"},{"@pid":"71/5770","text":"Pearl Y. Wang"}]},"title":"A New Inference Method for Frame-Based Expert Systems.","venue":"AAAI","pages":"333-337","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/ReggiaNW83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-074.php","url":"https://dblp.org/rec/conf/aaai/ReggiaNW83"},
+"url":"URL#5344213"
+},
+{
+"@score":"1",
+"@id":"5344214",
+"info":{"authors":{"author":[{"@pid":"22/6709","text":"Andrew L. Reibman"},{"@pid":"58/2242","text":"Bruce W. Ballard"}]},"title":"Non-Minimax Search Strategies for Use Against Fallible Opponents.","venue":"AAAI","pages":"338-342","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/ReibmanB83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-084.php","url":"https://dblp.org/rec/conf/aaai/ReibmanB83"},
+"url":"URL#5344214"
+},
+{
+"@score":"1",
+"@id":"5344215",
+"info":{"authors":{"author":{"@pid":"r/LARendell","text":"Larry A. Rendell"}},"title":"A Doubly Layered, Genetic Penetrance Learning System.","venue":"AAAI","pages":"343-347","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/Rendell83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-065.php","url":"https://dblp.org/rec/conf/aaai/Rendell83"},
+"url":"URL#5344215"
+},
+{
+"@score":"1",
+"@id":"5344216",
+"info":{"authors":{"author":{"@pid":"79/1564","text":"Elaine Rich"}},"title":"Default Reasoning as Likelihood Reasoning.","venue":"AAAI","pages":"348-351","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/Rich83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-018.php","url":"https://dblp.org/rec/conf/aaai/Rich83"},
+"url":"URL#5344216"
+},
+{
+"@score":"1",
+"@id":"5344217",
+"info":{"authors":{"author":{"@pid":"s/StevenSalzberg","text":"Steven Salzberg"}},"title":"Generating Hypotheses to Explain Prediction Failures.","venue":"AAAI","pages":"352-355","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/Salzberg83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-062.php","url":"https://dblp.org/rec/conf/aaai/Salzberg83"},
+"url":"URL#5344217"
+},
+{
+"@score":"1",
+"@id":"5344218",
+"info":{"authors":{"author":[{"@pid":"45/3482","text":"Eric Schoen"},{"@pid":"62/4496","text":"Reid G. Smith"}]},"title":"IMPULSE - A Display Oriented Editor for STROBE.","venue":"AAAI","pages":"356-358","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/SchoenS83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-092.php","url":"https://dblp.org/rec/conf/aaai/SchoenS83"},
+"url":"URL#5344218"
+},
+{
+"@score":"1",
+"@id":"5344219",
+"info":{"authors":{"author":{"@pid":"76/6514","text":"Paul D. Scott"}},"title":"Learning - The Construction of A Posteriori Knowledge Structures.","venue":"AAAI","pages":"359-363","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/Scott83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-064.php","url":"https://dblp.org/rec/conf/aaai/Scott83"},
+"url":"URL#5344219"
+},
+{
+"@score":"1",
+"@id":"5344220",
+"info":{"authors":{"author":{"@pid":"s/ReidGSimmons","text":"Reid G. Simmons"}},"title":"The Use of Qualitative and Quantitative Simulations.","venue":"AAAI","pages":"364-368","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/Simmons83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-015.php","url":"https://dblp.org/rec/conf/aaai/Simmons83"},
+"url":"URL#5344220"
+},
+{
+"@score":"1",
+"@id":"5344221",
+"info":{"authors":{"author":[{"@pid":"61/5005","text":"James R. Slagle"},{"@pid":"77/6532","text":"Michael W. Gaynor"}]},"title":"Expert System Consultation Control Strategy.","venue":"AAAI","pages":"369-372","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/SlagleG83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-072.php","url":"https://dblp.org/rec/conf/aaai/SlagleG83"},
+"url":"URL#5344221"
+},
+{
+"@score":"1",
+"@id":"5344222",
+"info":{"authors":{"author":{"@pid":"95/2477-1","text":"David E. Smith 0001"}},"title":"Finding All of the Solutions to a Problem.","venue":"AAAI","pages":"373-377","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/Smith83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-002.php","url":"https://dblp.org/rec/conf/aaai/Smith83"},
+"url":"URL#5344222"
+},
+{
+"@score":"1",
+"@id":"5344223",
+"info":{"authors":{"author":{"@pid":"48/1105","text":"Paul Smolensky"}},"title":"Schema Selection and Stochastic Inference in Modular Environments.","venue":"AAAI","pages":"378-382","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/Smolensky83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-058.php","url":"https://dblp.org/rec/conf/aaai/Smolensky83"},
+"url":"URL#5344223"
+},
+{
+"@score":"1",
+"@id":"5344224",
+"info":{"authors":{"author":{"@pid":"s/EdwardPStabler","text":"Edward P. Stabler Jr."}},"title":"Deterministic and Bottom-Up Parsing in Prolog.","venue":"AAAI","pages":"383-386","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/Stabler83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-046.php","url":"https://dblp.org/rec/conf/aaai/Stabler83"},
+"url":"URL#5344224"
+},
+{
+"@score":"1",
+"@id":"5344225",
+"info":{"authors":{"author":{"@pid":"03/2817","text":"Craig Stanfill"}},"title":"The Decomposition of a Large Domain - Reasoning About Machines.","venue":"AAAI","pages":"387-390","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/Stanfill83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-013.php","url":"https://dblp.org/rec/conf/aaai/Stanfill83"},
+"url":"URL#5344225"
+},
+{
+"@score":"1",
+"@id":"5344226",
+"info":{"authors":{"author":{"@pid":"44/3472","text":"Mark E. Stickel"}},"title":"Theory Resolution - Building in Nonequational Theories.","venue":"AAAI","pages":"391-397","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/Stickel83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-007.php","url":"https://dblp.org/rec/conf/aaai/Stickel83"},
+"url":"URL#5344226"
+},
+{
+"@score":"1",
+"@id":"5344227",
+"info":{"authors":{"author":{"@pid":"15/5472","text":"Eswaran Subrahmanian"}},"title":"An Analysis of a Welfare Eligibility Determination Interview - A Planning Approach.","venue":"AAAI","pages":"398-401","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/Subrahmanian83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-029.php","url":"https://dblp.org/rec/conf/aaai/Subrahmanian83"},
+"url":"URL#5344227"
+},
+{
+"@score":"1",
+"@id":"5344228",
+"info":{"authors":{"author":{"@pid":"97/3882","text":"William R. Swartout"}},"title":"The GIST Behavior Explainer.","venue":"AAAI","pages":"402-407","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/Swartout83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-069.php","url":"https://dblp.org/rec/conf/aaai/Swartout83"},
+"url":"URL#5344228"
+},
+{
+"@score":"1",
+"@id":"5344229",
+"info":{"authors":{"author":{"@pid":"79/228","text":"Henry S. Thompson"}},"title":"MCHART - A Flexible, Modular Chart Parsing System.","venue":"AAAI","pages":"408-410","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/Thompson83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-047.php","url":"https://dblp.org/rec/conf/aaai/Thompson83"},
+"url":"URL#5344229"
+},
+{
+"@score":"1",
+"@id":"5344230",
+"info":{"authors":{"author":[{"@pid":"16/1460","text":"Richard M. Tong"},{"@pid":"55/3978","text":"Daniel G. Shapiro"},{"@pid":"65/4387","text":"Brian P. McCune"},{"@pid":"85/3787","text":"Jeffrey S. Dean"}]},"title":"A Rule-Based Approach to Information Retrieval - Some Results and Comments.","venue":"AAAI","pages":"411-415","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/TongSMD83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-071.php","url":"https://dblp.org/rec/conf/aaai/TongSMD83"},
+"url":"URL#5344230"
+},
+{
+"@score":"1",
+"@id":"5344231",
+"info":{"authors":{"author":[{"@pid":"23/3887","text":"Chun-Hung Tzeng"},{"@pid":"74/5420","text":"Paul Walton Purdom Jr."}]},"title":"A Theory of Game Trees.","venue":"AAAI","pages":"416-419","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/TzengP83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-080.php","url":"https://dblp.org/rec/conf/aaai/TzengP83"},
+"url":"URL#5344231"
+},
+{
+"@score":"1",
+"@id":"5344232",
+"info":{"authors":{"author":{"@pid":"15/5718","text":"Kurt VanLehn"}},"title":"Human Procedural Skill Acquisition - Theory, Model and Psychological Validation.","venue":"AAAI","pages":"420-423","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/VanLehn83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-055.php","url":"https://dblp.org/rec/conf/aaai/VanLehn83"},
+"url":"URL#5344232"
+},
+{
+"@score":"1",
+"@id":"5344233",
+"info":{"authors":{"author":{"@pid":"15/4714","text":"Ralph M. Weischedel"}},"title":"Mapping Between Semantic Representations Using Horn Clauses.","venue":"AAAI","pages":"424-428","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/Weischedel83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-049.php","url":"https://dblp.org/rec/conf/aaai/Weischedel83"},
+"url":"URL#5344233"
+},
+{
+"@score":"1",
+"@id":"5344234",
+"info":{"authors":{"author":[{"@pid":"93/1002","text":"Terry E. Weymouth"},{"@pid":"20/5182","text":"J. S. Griffith"},{"@pid":"h/AllenRHanson","text":"Allen R. Hanson"},{"@pid":"r/EMRiseman","text":"Edward M. Riseman"}]},"title":"Rule Based Strategies for Image Interpretation.","venue":"AAAI","pages":"429-432","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/WeymouthGHR83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-039.php","url":"https://dblp.org/rec/conf/aaai/WeymouthGHR83"},
+"url":"URL#5344234"
+},
+{
+"@score":"1",
+"@id":"5344235",
+"info":{"authors":{"author":[{"@pid":"w/PatrickHenryWinston","text":"Patrick H. Winston"},{"@pid":"k/BorisKatz","text":"Boris Katz"},{"@pid":"47/2095","text":"Thomas O. Binford"},{"@pid":"90/685","text":"Michael R. Lowry"}]},"title":"Learning Physical Descriptions From Functional Definitions, Examples, and Precedents.","venue":"AAAI","pages":"433-439","year":"1983","type":"Conference and Workshop Papers","key":"conf/aaai/WinstonKBL83","ee":"http://www.aaai.org/Library/AAAI/1983/aaai83-060.php","url":"https://dblp.org/rec/conf/aaai/WinstonKBL83"},
+"url":"URL#5344235"
+},
+{
+"@score":"1",
+"@id":"5347856",
+"info":{"authors":{"author":{"@pid":"g/MRGenesereth","text":"Michael R. Genesereth"}},"title":"Proceedings of the National Conference on Artificial Intelligence, Washington, D.C., USA, August 22-26, 1983.","venue":"AAAI","publisher":"AAAI Press","year":"1983","type":"Editorship","key":"conf/aaai/1983","ee":"http://www.aaai.org/Conferences/AAAI/aaai83.php","url":"https://dblp.org/rec/conf/aaai/1983"},
+"url":"URL#5347856"
+}
+]
+}
+}
+}

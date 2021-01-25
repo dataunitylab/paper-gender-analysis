@@ -1,0 +1,200 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"osdi\"/\"osdi2002\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"102.43"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"28",
+"@dc":"28",
+"@oc":"28",
+"@id":"17580798",
+"text":":facetid:toc:db/conf/osdi/osdi2002.bht"
+}
+},
+"hits":{
+"@total":"28",
+"@computed":"28",
+"@sent":"28",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"4611592",
+"info":{"authors":{"author":[{"@pid":"a/AAdya","text":"Atul Adya"},{"@pid":"b/WJBolosky","text":"William J. Bolosky"},{"@pid":"c/MiguelCastro","text":"Miguel Castro 0001"},{"@pid":"41/1685","text":"Gerald Cermak"},{"@pid":"94/4948","text":"Ronnie Chaiken"},{"@pid":"87/1231","text":"John R. Douceur"},{"@pid":"55/3274","text":"Jon Howell"},{"@pid":"25/3228","text":"Jacob R. Lorch"},{"@pid":"56/724","text":"Marvin Theimer"},{"@pid":"w/RogerWattenhofer","text":"Roger Wattenhofer"}]},"title":"FARSITE - Federated, Available, and Reliable Storage for an Incompletely Trusted Environment.","venue":"OSDI","year":"2002","type":"Conference and Workshop Papers","key":"conf/osdi/AdyaBCCCDHLTW02","ee":"http://www.usenix.org/events/osdi02/tech/adya.html","url":"https://dblp.org/rec/conf/osdi/AdyaBCCCDHLTW02"},
+"url":"URL#4611592"
+},
+{
+"@score":"1",
+"@id":"4611593",
+"info":{"authors":{"author":[{"@pid":"c/MiguelCastro","text":"Miguel Castro 0001"},{"@pid":"d/PDruschel","text":"Peter Druschel"},{"@pid":"g/AyalvadiJGanesh","text":"Ayalvadi J. Ganesh"},{"@pid":"r/AITRowstron","text":"Antony I. T. Rowstron"},{"@pid":"w/DanSWallach","text":"Dan S. Wallach"}]},"title":"Secure Routing for Structured Peer-to-Peer Overlay Networks.","venue":"OSDI","year":"2002","type":"Conference and Workshop Papers","key":"conf/osdi/CastroDGRW02","ee":"http://www.usenix.org/events/osdi02/tech/castro.html","url":"https://dblp.org/rec/conf/osdi/CastroDGRW02"},
+"url":"URL#4611593"
+},
+{
+"@score":"1",
+"@id":"4611594",
+"info":{"authors":{"author":[{"@pid":"98/5314","text":"Landon P. Cox"},{"@pid":"37/961","text":"Christopher D. Murray"},{"@pid":"n/BrianDNoble","text":"Brian D. Noble"}]},"title":"Pastiche - Making Backup Cheap and Easy.","venue":"OSDI","year":"2002","type":"Conference and Workshop Papers","key":"conf/osdi/CoxMN02","ee":"http://www.usenix.org/events/osdi02/tech/cox.html","url":"https://dblp.org/rec/conf/osdi/CoxMN02"},
+"url":"URL#4611594"
+},
+{
+"@score":"1",
+"@id":"4611595",
+"info":{"authors":{"author":[{"@pid":"54/6493","text":"George W. Dunlap"},{"@pid":"54/5833","text":"Samuel T. King"},{"@pid":"04/2708","text":"Sukru Cinar"},{"@pid":"70/2799","text":"Murtaza A. Basrai"},{"@pid":"c/PeterMChen","text":"Peter M. Chen"}]},"title":"ReVirt - Enabling Intrusion Analysis Through Virtual-Machine Logging and Replay.","venue":"OSDI","year":"2002","type":"Conference and Workshop Papers","key":"conf/osdi/DunlapKCBC02","ee":"http://www.usenix.org/events/osdi02/tech/dunlap.html","url":"https://dblp.org/rec/conf/osdi/DunlapKCBC02"},
+"url":"URL#4611595"
+},
+{
+"@score":"1",
+"@id":"4611596",
+"info":{"authors":{"author":[{"@pid":"02/3927","text":"Jeremy Elson"},{"@pid":"16/1646","text":"Lewis Girod"},{"@pid":"e/DeborahEstrin","text":"Deborah Estrin"}]},"title":"Fine-Grained Network Time Synchronization Using Reference Broadcasts.","venue":"OSDI","year":"2002","type":"Conference and Workshop Papers","key":"conf/osdi/ElsonGE02","ee":"http://www.usenix.org/events/osdi02/tech/elson.html","url":"https://dblp.org/rec/conf/osdi/ElsonGE02"},
+"url":"URL#4611596"
+},
+{
+"@score":"1",
+"@id":"4611597",
+"info":{"authors":{"author":[{"@pid":"16/1848","text":"Krisztián Flautner"},{"@pid":"m/TrevorNMudge","text":"Trevor N. Mudge"}]},"title":"Vertigo - Automatic Performance-Setting for Linux.","venue":"OSDI","year":"2002","type":"Conference and Workshop Papers","key":"conf/osdi/FlautnerM02","ee":"http://www.usenix.org/events/osdi02/tech/flautner.html","url":"https://dblp.org/rec/conf/osdi/FlautnerM02"},
+"url":"URL#4611597"
+},
+{
+"@score":"1",
+"@id":"4611598",
+"info":{"authors":{"author":[{"@pid":"g/AshvinGoel","text":"Ashvin Goel"},{"@pid":"21/3170","text":"Luca Abeni"},{"@pid":"28/4918","text":"Charles Krasic"},{"@pid":"17/492","text":"Jim Snow"},{"@pid":"50/3443","text":"Jonathan Walpole"}]},"title":"Supporting Time-Sensitive Applications on a Commodity OS.","venue":"OSDI","year":"2002","type":"Conference and Workshop Papers","key":"conf/osdi/GoelAKSW02","ee":"http://www.usenix.org/events/osdi02/tech/goel.html","url":"https://dblp.org/rec/conf/osdi/GoelAKSW02"},
+"url":"URL#4611598"
+},
+{
+"@score":"1",
+"@id":"4611599",
+"info":{"authors":{"author":[{"@pid":"22/3053","text":"Chris Hawblitzel"},{"@pid":"76/5208","text":"Thorsten von Eicken"}]},"title":"Luna - A Flexible Java Protection System.","venue":"OSDI","year":"2002","type":"Conference and Workshop Papers","key":"conf/osdi/HawblitzelE02","ee":"http://www.usenix.org/events/osdi02/tech/hawblitzel.html","url":"https://dblp.org/rec/conf/osdi/HawblitzelE02"},
+"url":"URL#4611599"
+},
+{
+"@score":"1",
+"@id":"4611600",
+"info":{"authors":{"author":[{"@pid":"27/343","text":"Sanjeev Kumar"},{"@pid":"l/KaiLi1","text":"Kai Li 0001"}]},"title":"Using Model Checking to Debug Device Firmware.","venue":"OSDI","year":"2002","type":"Conference and Workshop Papers","key":"conf/osdi/KumarL02","ee":"http://www.usenix.org/events/osdi02/tech/kumar.html","url":"https://dblp.org/rec/conf/osdi/KumarL02"},
+"url":"URL#4611600"
+},
+{
+"@score":"1",
+"@id":"4611601",
+"info":{"authors":{"author":[{"@pid":"m/SamuelMadden","text":"Samuel Madden"},{"@pid":"f/MJFranklin","text":"Michael J. Franklin"},{"@pid":"h/JosephMHellerstein","text":"Joseph M. Hellerstein"},{"@pid":"82/5918-1","text":"Wei Hong 0001"}]},"title":"TAG - A Tiny AGgregation Service for Ad-Hoc Sensor Networks.","venue":"OSDI","year":"2002","type":"Conference and Workshop Papers","key":"conf/osdi/MaddenFHH02","ee":"http://www.usenix.org/events/osdi02/tech/madden.html","url":"https://dblp.org/rec/conf/osdi/MaddenFHH02"},
+"url":"URL#4611601"
+},
+{
+"@score":"1",
+"@id":"4611602",
+"info":{"authors":{"author":[{"@pid":"95/6578","text":"Madanlal Musuvathi"},{"@pid":"93/1686","text":"David Y. W. Park"},{"@pid":"53/3446","text":"Andy Chou"},{"@pid":"e/DREngler","text":"Dawson R. Engler"},{"@pid":"d/DavidLDill","text":"David L. Dill"}]},"title":"CMC - A Pragmatic Approach to Model Checking Real Code.","venue":"OSDI","year":"2002","type":"Conference and Workshop Papers","key":"conf/osdi/MusuvathiPCED02","ee":"http://www.usenix.org/events/osdi02/tech/musuvathi.html","url":"https://dblp.org/rec/conf/osdi/MusuvathiPCED02"},
+"url":"URL#4611602"
+},
+{
+"@score":"1",
+"@id":"4611603",
+"info":{"authors":{"author":[{"@pid":"57/2442","text":"Athicha Muthitacharoen"},{"@pid":"82/11191","text":"Robert Tappan Morris"},{"@pid":"00/4402","text":"Thomer M. Gil"},{"@pid":"60/2306","text":"Benjie Chen"}]},"title":"Ivy - A Read/Write Peer-to-Peer File System.","venue":"OSDI","year":"2002","type":"Conference and Workshop Papers","key":"conf/osdi/MuthitacharoenMGC02","ee":"http://www.usenix.org/events/osdi02/tech/muthitacharoen.html","url":"https://dblp.org/rec/conf/osdi/MuthitacharoenMGC02"},
+"url":"URL#4611603"
+},
+{
+"@score":"1",
+"@id":"4611604",
+"info":{"authors":{"author":[{"@pid":"94/1735","text":"Juan Navarro"},{"@pid":"39/227","text":"Sitaram Iyer"},{"@pid":"d/PDruschel","text":"Peter Druschel"},{"@pid":"c/AlanLCox","text":"Alan L. Cox"}]},"title":"Practical, Transparent Operating System Support for Superpages.","venue":"OSDI","year":"2002","type":"Conference and Workshop Papers","key":"conf/osdi/NavarroIDC02","ee":"http://www.usenix.org/events/osdi02/tech/navarro.html","url":"https://dblp.org/rec/conf/osdi/NavarroIDC02"},
+"url":"URL#4611604"
+},
+{
+"@score":"1",
+"@id":"4611605",
+"info":{"authors":{"author":[{"@pid":"39/6015","text":"Steven Osman"},{"@pid":"68/3669","text":"Dinesh Subhraveti"},{"@pid":"18/6259","text":"Gong Su"},{"@pid":"n/JasonNieh","text":"Jason Nieh"}]},"title":"The Design and Implementation of Zap - A System for Migrating Computing Environments.","venue":"OSDI","year":"2002","type":"Conference and Workshop Papers","key":"conf/osdi/OsmanSSN02","ee":"http://www.usenix.org/events/osdi02/tech/osman.html","url":"https://dblp.org/rec/conf/osdi/OsmanSSN02"},
+"url":"URL#4611605"
+},
+{
+"@score":"1",
+"@id":"4611606",
+"info":{"authors":{"author":[{"@pid":"62/1827","text":"Xiaohu Qie"},{"@pid":"32/2940","text":"Ruoming Pang"},{"@pid":"p/LLPeterson","text":"Larry L. Peterson"}]},"title":"Defensive Programming - Using an Annotation Toolkit to Build DoS-Resistant Software.","venue":"OSDI","year":"2002","type":"Conference and Workshop Papers","key":"conf/osdi/QiePP02","ee":"http://www.usenix.org/events/osdi02/tech/qie.html","url":"https://dblp.org/rec/conf/osdi/QiePP02"},
+"url":"URL#4611606"
+},
+{
+"@score":"1",
+"@id":"4611607",
+"info":{"authors":{"author":[{"@pid":"82/6781","text":"Yasushi Saito"},{"@pid":"44/5092","text":"Christos T. Karamanolis"},{"@pid":"84/4770-2","text":"Magnus Karlsson 0002"},{"@pid":"88/2934","text":"Mallik Mahalingam"}]},"title":"Taming Aggressive Replication in the Pangaea Wide-Area File System.","venue":"OSDI","year":"2002","type":"Conference and Workshop Papers","key":"conf/osdi/SaitoKKM02","ee":"http://www.usenix.org/events/osdi02/tech/saito.html","url":"https://dblp.org/rec/conf/osdi/SaitoKKM02"},
+"url":"URL#4611607"
+},
+{
+"@score":"1",
+"@id":"4611608",
+"info":{"authors":{"author":[{"@pid":"01/3940","text":"Constantine P. Sapuntzakis"},{"@pid":"15/3784","text":"Ramesh Chandra"},{"@pid":"42/4891","text":"Ben Pfaff"},{"@pid":"94/6322","text":"Jim Chow"},{"@pid":"l/MonicaSLam","text":"Monica S. Lam"},{"@pid":"r/MendelRosenblum","text":"Mendel Rosenblum"}]},"title":"Optimizing the Migration of Virtual Computers.","venue":"OSDI","year":"2002","type":"Conference and Workshop Papers","key":"conf/osdi/SapuntzakisCPCLR02","ee":"http://www.usenix.org/events/osdi02/tech/sapuntzakis.html","url":"https://dblp.org/rec/conf/osdi/SapuntzakisCPCLR02"},
+"url":"URL#4611608"
+},
+{
+"@score":"1",
+"@id":"4611609",
+"info":{"authors":{"author":[{"@pid":"17/3782","text":"Stefan Saroiu"},{"@pid":"g/PKrishnaGummadi","text":"P. Krishna Gummadi"},{"@pid":"14/3153","text":"Richard J. Dunn"},{"@pid":"g/StevenDGribble","text":"Steven D. Gribble"},{"@pid":"l/HenryMLevy","text":"Henry M. Levy"}]},"title":"An Analysis of Internet Content Delivery Systems.","venue":"OSDI","year":"2002","type":"Conference and Workshop Papers","key":"conf/osdi/SaroiuGDGL02","ee":"http://www.usenix.org/events/osdi02/tech/saroiu.html","url":"https://dblp.org/rec/conf/osdi/SaroiuGDGL02"},
+"url":"URL#4611609"
+},
+{
+"@score":"1",
+"@id":"4611610",
+"info":{"authors":{"author":[{"@pid":"80/1422","text":"Kai Shen"},{"@pid":"00/2111-4","text":"Hong Tang 0004"},{"@pid":"67/1120-9","text":"Tao Yang 0009"},{"@pid":"47/5464","text":"Lingkun Chu"}]},"title":"Integrated Resource Management for Cluster-based Internet Services.","venue":"OSDI","year":"2002","type":"Conference and Workshop Papers","key":"conf/osdi/ShenTYC02","ee":"http://www.usenix.org/events/osdi02/tech/shen.html","url":"https://dblp.org/rec/conf/osdi/ShenTYC02"},
+"url":"URL#4611610"
+},
+{
+"@score":"1",
+"@id":"4611611",
+"info":{"authors":{"author":[{"@pid":"61/6430","text":"Bhuvan Urgaonkar"},{"@pid":"s/PrashantJShenoy","text":"Prashant J. Shenoy"},{"@pid":"r/TimothyRoscoe","text":"Timothy Roscoe"}]},"title":"Resource Overbooking and Application Profiling in Shared Hosting Platforms.","venue":"OSDI","year":"2002","type":"Conference and Workshop Papers","key":"conf/osdi/UrgaonkarSR02","ee":"http://www.usenix.org/events/osdi02/tech/urgaonkar.html","url":"https://dblp.org/rec/conf/osdi/UrgaonkarSR02"},
+"url":"URL#4611611"
+},
+{
+"@score":"1",
+"@id":"4611612",
+"info":{"authors":{"author":[{"@pid":"v/AminVahdat","text":"Amin Vahdat"},{"@pid":"01/53","text":"Ken Yocum"},{"@pid":"50/5661","text":"Kevin Walsh"},{"@pid":"55/6768","text":"Priya Mahadevan"},{"@pid":"03/3188","text":"Dejan Kostic"},{"@pid":"c/JSChase","text":"Jeffrey S. Chase"},{"@pid":"94/5555","text":"David Becker"}]},"title":"Scalability and Accuracy in a Large-Scale Network Emulator.","venue":"OSDI","year":"2002","type":"Conference and Workshop Papers","key":"conf/osdi/VahdatYWMKCB02","ee":"http://www.usenix.org/events/osdi02/tech/vahdat.html","url":"https://dblp.org/rec/conf/osdi/VahdatYWMKCB02"},
+"url":"URL#4611612"
+},
+{
+"@score":"1",
+"@id":"4611613",
+"info":{"authors":{"author":[{"@pid":"v/ArunVenkataramani","text":"Arun Venkataramani"},{"@pid":"22/437","text":"Ravi Kokku"},{"@pid":"d/MDahlin","text":"Michael Dahlin"}]},"title":"TCP Nice - A Mechanism for Background Transfers.","venue":"OSDI","year":"2002","type":"Conference and Workshop Papers","key":"conf/osdi/VenkataramaniKD02","ee":"http://www.usenix.org/events/osdi02/tech/venkataramani.html","url":"https://dblp.org/rec/conf/osdi/VenkataramaniKD02"},
+"url":"URL#4611613"
+},
+{
+"@score":"1",
+"@id":"4611614",
+"info":{"authors":{"author":{"@pid":"40/1118","text":"Carl A. Waldspurger"}},"title":"Memory Resource Management in VMware ESX Server.","venue":"OSDI","year":"2002","type":"Conference and Workshop Papers","key":"conf/osdi/Waldspurger02","ee":"http://www.usenix.org/events/osdi02/tech/waldspurger.html","url":"https://dblp.org/rec/conf/osdi/Waldspurger02"},
+"url":"URL#4611614"
+},
+{
+"@score":"1",
+"@id":"4611615",
+"info":{"authors":{"author":[{"@pid":"68/6610","text":"Limin Wang"},{"@pid":"00/1016","text":"Vivek S. Pai"},{"@pid":"p/LLPeterson","text":"Larry L. Peterson"}]},"title":"The Effectiveness of Request Redirection on CDN Robustness.","venue":"OSDI","year":"2002","type":"Conference and Workshop Papers","key":"conf/osdi/WangPP02","ee":"http://www.usenix.org/events/osdi02/tech/wang.html","url":"https://dblp.org/rec/conf/osdi/WangPP02"},
+"url":"URL#4611615"
+},
+{
+"@score":"1",
+"@id":"4611616",
+"info":{"authors":{"author":[{"@pid":"60/6057","text":"Andreas Weissel"},{"@pid":"36/417","text":"Bjórn Beutel"},{"@pid":"b/FrankBellosa","text":"Frank Bellosa"}]},"title":"Cooperative I/O - A Novel I/O Semantics for Energy-Aware Applications.","venue":"OSDI","year":"2002","type":"Conference and Workshop Papers","key":"conf/osdi/WeisselBB02","ee":"http://www.usenix.org/events/osdi02/tech/weissel.html","url":"https://dblp.org/rec/conf/osdi/WeisselBB02"},
+"url":"URL#4611616"
+},
+{
+"@score":"1",
+"@id":"4611617",
+"info":{"authors":{"author":[{"@pid":"76/326","text":"Andrew Whitaker"},{"@pid":"77/1649","text":"Marianne Shaw"},{"@pid":"g/StevenDGribble","text":"Steven D. Gribble"}]},"title":"Scale and Performance in the Denali Isolation Kernel.","venue":"OSDI","year":"2002","type":"Conference and Workshop Papers","key":"conf/osdi/WhitakerSG02","ee":"http://www.usenix.org/events/osdi02/tech/whitaker.html","url":"https://dblp.org/rec/conf/osdi/WhitakerSG02"},
+"url":"URL#4611617"
+},
+{
+"@score":"1",
+"@id":"4611618",
+"info":{"authors":{"author":[{"@pid":"81/2181","text":"Brian White"},{"@pid":"l/JayLepreau","text":"Jay Lepreau"},{"@pid":"97/5570","text":"Leigh Stoller"},{"@pid":"37/2827","text":"Robert Ricci"},{"@pid":"85/6118","text":"Shashi Guruprasad"},{"@pid":"96/4009","text":"Mac Newbold"},{"@pid":"h/MikeHibler","text":"Mike Hibler"},{"@pid":"41/4871","text":"Chad Barb"},{"@pid":"27/4011","text":"Abhijeet Joglekar"}]},"title":"An Integrated Experimental Environment for Distributed Systems and Networks.","venue":"OSDI","year":"2002","type":"Conference and Workshop Papers","key":"conf/osdi/WhiteLSRGNHBJ02","ee":"http://www.usenix.org/events/osdi02/tech/white.html","url":"https://dblp.org/rec/conf/osdi/WhiteLSRGNHBJ02"},
+"url":"URL#4611618"
+},
+{
+"@score":"1",
+"@id":"4624044",
+"info":{"authors":{"author":[{"@pid":"c/DavidECuller","text":"David E. Culler"},{"@pid":"d/PDruschel","text":"Peter Druschel"}]},"title":"5th Symposium on Operating System Design and Implementation (OSDI 2002), Boston, Massachusetts, USA, December 9-11, 2002","venue":"OSDI","publisher":"USENIX Association","year":"2002","type":"Editorship","key":"conf/osdi/2002","url":"https://dblp.org/rec/conf/osdi/2002"},
+"url":"URL#4624044"
+}
+]
+}
+}
+}

@@ -1,0 +1,152 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"sosp\"/\"sosp87\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"130.26"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"20",
+"@dc":"20",
+"@oc":"20",
+"@id":"17587913",
+"text":":facetid:toc:db/conf/sosp/sosp87.bht"
+}
+},
+"hits":{
+"@total":"20",
+"@computed":"20",
+"@sent":"20",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"5296681",
+"info":{"authors":{"author":[{"@pid":"b/KPBirman","text":"Kenneth P. Birman"},{"@pid":"10/2887","text":"Thomas A. Joseph"}]},"title":"Exploiting Virtual Synchrony in Distributed Systems.","venue":"SOSP","pages":"123-138","year":"1987","type":"Conference and Workshop Papers","key":"conf/sosp/BirmanJ87","doi":"10.1145/41457.37515","ee":"https://doi.org/10.1145/41457.37515","url":"https://dblp.org/rec/conf/sosp/BirmanJ87"},
+"url":"URL#5296681"
+},
+{
+"@score":"1",
+"@id":"5296682",
+"info":{"authors":{"author":[{"@pid":"b/AndrewBirrell","text":"Andrew Birrell"},{"@pid":"g/JohnVGuttag","text":"John V. Guttag"},{"@pid":"h/JamesJHorning","text":"James J. Horning"},{"@pid":"83/749","text":"Roy Levin"}]},"title":"Synchronization Primitives for a Multiprocessor - A Formal Specification.","venue":"SOSP","pages":"94-102","year":"1987","type":"Conference and Workshop Papers","key":"conf/sosp/BirrellGHL87","doi":"10.1145/41457.37509","ee":"https://doi.org/10.1145/41457.37509","url":"https://dblp.org/rec/conf/sosp/BirrellGHL87"},
+"url":"URL#5296682"
+},
+{
+"@score":"1",
+"@id":"5296683",
+"info":{"authors":{"author":[{"@pid":"b/AndrewBirrell","text":"Andrew Birrell"},{"@pid":"j/MichaelBJones","text":"Michael B. Jones"},{"@pid":"88/1825","text":"Edward Wobber"}]},"title":"A Simple and Efficient Implementation for Small Databases.","venue":"SOSP","pages":"149-154","year":"1987","type":"Conference and Workshop Papers","key":"conf/sosp/BirrellJW87","doi":"10.1145/41457.37517","ee":"https://doi.org/10.1145/41457.37517","url":"https://dblp.org/rec/conf/sosp/BirrellJW87"},
+"url":"URL#5296683"
+},
+{
+"@score":"1",
+"@id":"5296684",
+"info":{"authors":{"author":[{"@pid":"97/1433","text":"Albert Chang"},{"@pid":"95/5382","text":"Mark F. Mergen"}]},"title":"801 Storage - Architecture and Programming (Extended Abstract).","venue":"SOSP","pages":"109-110","year":"1987","type":"Conference and Workshop Papers","key":"conf/sosp/ChangM87","doi":"10.1145/41457.37513","ee":"https://doi.org/10.1145/41457.37513","url":"https://dblp.org/rec/conf/sosp/ChangM87"},
+"url":"URL#5296684"
+},
+{
+"@score":"1",
+"@id":"5296685",
+"info":{"authors":{"author":[{"@pid":"93/3336","text":"Ross S. Finlayson"},{"@pid":"c/DRCheriton","text":"David R. Cheriton"}]},"title":"Log Files - An Extended File Service Exploiting Write-Once Storage.","venue":"SOSP","pages":"139-148","year":"1987","type":"Conference and Workshop Papers","key":"conf/sosp/FinlaysonC87","doi":"10.1145/41457.37516","ee":"https://doi.org/10.1145/41457.37516","url":"https://dblp.org/rec/conf/sosp/FinlaysonC87"},
+"url":"URL#5296685"
+},
+{
+"@score":"1",
+"@id":"5296686",
+"info":{"authors":{"author":{"@pid":"12/2764","text":"Robert B. Hagmann"}},"title":"Reimplementing the Cedar File System Using Logging and Group Commit.","venue":"SOSP","pages":"155-162","year":"1987","type":"Conference and Workshop Papers","key":"conf/sosp/Hagmann87","doi":"10.1145/41457.37518","ee":"https://doi.org/10.1145/41457.37518","url":"https://dblp.org/rec/conf/sosp/Hagmann87"},
+"url":"URL#5296686"
+},
+{
+"@score":"1",
+"@id":"5296687",
+"info":{"authors":{"author":[{"@pid":"43/3416","text":"Roger L. Haskin"},{"@pid":"01/2887","text":"Yoni Malachi"},{"@pid":"83/2689","text":"Wayne Sawdon"},{"@pid":"36/3012","text":"Gregory Chan"}]},"title":"Recovery Management in QuickSilver (Extended Abstract).","venue":"SOSP","pages":"107-108","year":"1987","type":"Conference and Workshop Papers","key":"conf/sosp/HaskinMSC87","doi":"10.1145/41457.37512","ee":"https://doi.org/10.1145/41457.37512","url":"https://dblp.org/rec/conf/sosp/HaskinMSC87"},
+"url":"URL#5296687"
+},
+{
+"@score":"1",
+"@id":"5296688",
+"info":{"authors":{"author":[{"@pid":"84/488","text":"John H. Howard"},{"@pid":"64/99","text":"Michael L. Kazar"},{"@pid":"42/5613","text":"Sherri G. Menees"},{"@pid":"52/1430","text":"David A. Nichols"},{"@pid":"s/MahadevSatyanarayanan","text":"Mahadev Satyanarayanan"},{"@pid":"43/2426","text":"Robert N. Sidebotham"},{"@pid":"45/3686","text":"Michael J. West"}]},"title":"Scale and Performance in a Distributed File System (Extended Abstract).","venue":"SOSP","pages":"1-2","year":"1987","type":"Conference and Workshop Papers","key":"conf/sosp/HowardKMNSSW87","doi":"10.1145/41457.37500","ee":"https://doi.org/10.1145/41457.37500","url":"https://dblp.org/rec/conf/sosp/HowardKMNSSW87"},
+"url":"URL#5296688"
+},
+{
+"@score":"1",
+"@id":"5296689",
+"info":{"authors":{"author":[{"@pid":"21/5579","text":"David R. Jefferson"},{"@pid":"11/5659","text":"Brian Beckman"},{"@pid":"91/4264","text":"Frederick Wieland"},{"@pid":"55/3496","text":"Leo Blume"},{"@pid":"34/5244","text":"Mike Di Loreto"},{"@pid":"14/3625","text":"Phil Hontalas"},{"@pid":"77/6090","text":"Pierre Laroche"},{"@pid":"75/4951","text":"Kathy Sturdevant"},{"@pid":"14/4835","text":"Jack Tupman"},{"@pid":"71/114","text":"L. Van Warren"},{"@pid":"75/1744","text":"John J. Wedel"},{"@pid":"92/2172","text":"Herb Younger"},{"@pid":"84/1346","text":"Steve Bellenot"}]},"title":"Distributed Simulation and the Time Wrap Operating System.","venue":"SOSP","pages":"77-93","year":"1987","type":"Conference and Workshop Papers","key":"conf/sosp/JeffersonBWBLHLSTWWYB87","doi":"10.1145/41457.37508","ee":"https://doi.org/10.1145/41457.37508","url":"https://dblp.org/rec/conf/sosp/JeffersonBWBLHLSTWWYB87"},
+"url":"URL#5296689"
+},
+{
+"@score":"1",
+"@id":"5296690",
+"info":{"authors":{"author":[{"@pid":"95/1442","text":"Eric Jul"},{"@pid":"l/HenryMLevy","text":"Henry M. Levy"},{"@pid":"40/920","text":"Norman C. Hutchinson"},{"@pid":"b/APBlack","text":"Andrew P. Black"}]},"title":"Fine-Grained Mobility in the Emerald System (Extended Abstract).","venue":"SOSP","pages":"105-106","year":"1987","type":"Conference and Workshop Papers","key":"conf/sosp/JulLHB87","doi":"10.1145/41457.37511","ee":"https://doi.org/10.1145/41457.37511","url":"https://dblp.org/rec/conf/sosp/JulLHB87"},
+"url":"URL#5296690"
+},
+{
+"@score":"1",
+"@id":"5296691",
+"info":{"authors":{"author":[{"@pid":"l/BarbaraLiskov","text":"Barbara Liskov"},{"@pid":"c/DCurtis","text":"Dorothy Curtis"},{"@pid":"38/2987-1","text":"Paul Johnson 0001"},{"@pid":"19/2672","text":"Robert Scheifler"}]},"title":"Implementation of Argus.","venue":"SOSP","pages":"111-122","year":"1987","type":"Conference and Workshop Papers","key":"conf/sosp/LiskovCJS87","doi":"10.1145/41457.37514","ee":"https://doi.org/10.1145/41457.37514","url":"https://dblp.org/rec/conf/sosp/LiskovCJS87"},
+"url":"URL#5296691"
+},
+{
+"@score":"1",
+"@id":"5296692",
+"info":{"authors":{"author":[{"@pid":"m/JeffreyCMogul","text":"Jeffrey C. Mogul"},{"@pid":"r/RichardFRashid","text":"Richard F. Rashid"},{"@pid":"59/4452","text":"Michael J. Accetta"}]},"title":"The Packet Filter - An Efficient Mechanism for User-level Network Code.","venue":"SOSP","pages":"39-51","year":"1987","type":"Conference and Workshop Papers","key":"conf/sosp/MogulRA87","doi":"10.1145/41457.37505","ee":"https://doi.org/10.1145/41457.37505","url":"https://dblp.org/rec/conf/sosp/MogulRA87"},
+"url":"URL#5296692"
+},
+{
+"@score":"1",
+"@id":"5296693",
+"info":{"authors":{"author":[{"@pid":"90/6936","text":"Michael N. Nelson"},{"@pid":"w/BrentBWelch","text":"Brent B. Welch"},{"@pid":"o/JohnKOusterhout","text":"John K. Ousterhout"}]},"title":"Caching in the Sprite Network File System (Extended Abstract).","venue":"SOSP","pages":"3-4","year":"1987","type":"Conference and Workshop Papers","key":"conf/sosp/NelsonWO87","doi":"10.1145/41457.37501","ee":"https://doi.org/10.1145/41457.37501","url":"https://dblp.org/rec/conf/sosp/NelsonWO87"},
+"url":"URL#5296693"
+},
+{
+"@score":"1",
+"@id":"5296694",
+"info":{"authors":{"author":{"@pid":"52/1430","text":"David A. Nichols"}},"title":"Using Idle Workstations in a Shared Computing Environment.","venue":"SOSP","pages":"5-12","year":"1987","type":"Conference and Workshop Papers","key":"conf/sosp/Nichols87","doi":"10.1145/41457.37502","ee":"https://doi.org/10.1145/41457.37502","url":"https://dblp.org/rec/conf/sosp/Nichols87"},
+"url":"URL#5296694"
+},
+{
+"@score":"1",
+"@id":"5296695",
+"info":{"authors":{"author":[{"@pid":"12/359","text":"Michael F. Schwartz"},{"@pid":"z/JZahorjan","text":"John Zahorjan"},{"@pid":"n/DavidNotkin","text":"David Notkin"}]},"title":"A Name Service for Evolving, Heterogeneous Systems.","venue":"SOSP","pages":"52-62","year":"1987","type":"Conference and Workshop Papers","key":"conf/sosp/SchwartzZN87","doi":"10.1145/41457.37506","ee":"https://doi.org/10.1145/41457.37506","url":"https://dblp.org/rec/conf/sosp/SchwartzZN87"},
+"url":"URL#5296695"
+},
+{
+"@score":"1",
+"@id":"5296696",
+"info":{"authors":{"author":[{"@pid":"06/965","text":"Douglas B. Terry"},{"@pid":"95/652","text":"Daniel C. Swinehart"}]},"title":"Managing Stored Voice in the Etherphone System (Extended Abstract).","venue":"SOSP","pages":"103-104","year":"1987","type":"Conference and Workshop Papers","key":"conf/sosp/TerryS87","doi":"10.1145/41457.37510","ee":"https://doi.org/10.1145/41457.37510","url":"https://dblp.org/rec/conf/sosp/TerryS87"},
+"url":"URL#5296696"
+},
+{
+"@score":"1",
+"@id":"5296697",
+"info":{"authors":{"author":[{"@pid":"v/GeorgeVarghese","text":"George Varghese"},{"@pid":"45/1469","text":"Anthony Lauck"}]},"title":"Hashed and Hierarchical Timing Wheels - Data Structures for the Efficient Implementation of a Timer Facility.","venue":"SOSP","pages":"25-38","year":"1987","type":"Conference and Workshop Papers","key":"conf/sosp/VargheseL87","doi":"10.1145/41457.37504","ee":"https://doi.org/10.1145/41457.37504","url":"https://dblp.org/rec/conf/sosp/VargheseL87"},
+"url":"URL#5296697"
+},
+{
+"@score":"1",
+"@id":"5296698",
+"info":{"authors":{"author":[{"@pid":"18/6094","text":"Michael Young"},{"@pid":"15/4089","text":"Avadis Tevanian"},{"@pid":"r/RichardFRashid","text":"Richard F. Rashid"},{"@pid":"66/6972","text":"David B. Golub"},{"@pid":"33/3104","text":"Jeffrey L. Eppinger"},{"@pid":"81/6825","text":"Jonathan Chew"},{"@pid":"b/WJBolosky","text":"William J. Bolosky"},{"@pid":"76/1966-1","text":"David L. Black 0001"},{"@pid":"14/5555","text":"Robert V. Baron"}]},"title":"The Duality of Memory and Communication in the Implementation of a Multiprocessor Operating System.","venue":"SOSP","pages":"63-76","year":"1987","type":"Conference and Workshop Papers","key":"conf/sosp/YoungTRGECBBB87","doi":"10.1145/41457.37507","ee":"https://doi.org/10.1145/41457.37507","url":"https://dblp.org/rec/conf/sosp/YoungTRGECBBB87"},
+"url":"URL#5296698"
+},
+{
+"@score":"1",
+"@id":"5296699",
+"info":{"authors":{"author":{"@pid":"47/349","text":"Edward R. Zayas"}},"title":"Attacking the Process Migration Bottleneck.","venue":"SOSP","pages":"13-24","year":"1987","type":"Conference and Workshop Papers","key":"conf/sosp/Zayas87","doi":"10.1145/41457.37503","ee":"https://doi.org/10.1145/41457.37503","url":"https://dblp.org/rec/conf/sosp/Zayas87"},
+"url":"URL#5296699"
+},
+{
+"@score":"1",
+"@id":"5297498",
+"info":{"authors":{"author":{"@pid":"b/LaszloABelady","text":"Les Belady"}},"title":"Proceedings of the Eleventh ACM Symposium on Operating System Principles, SOSP 1987, Stouffer Austin Hotel, Austin, Texas, USA, November 8-11, 1987","venue":"SOSP","publisher":"ACM","year":"1987","type":"Editorship","key":"conf/sosp/1987","doi":"10.1145/41457","ee":"https://doi.org/10.1145/41457","url":"https://dblp.org/rec/conf/sosp/1987"},
+"url":"URL#5297498"
+}
+]
+}
+}
+}

@@ -1,0 +1,176 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"nips\"/\"nips1996\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"115.93"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"24",
+"@dc":"24",
+"@oc":"24",
+"@id":"17580112",
+"text":":facetid:toc:db/conf/nips/nips1996.bht"
+}
+},
+"hits":{
+"@total":"24",
+"@computed":"24",
+"@sent":"24",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"4912937",
+"info":{"authors":{"author":[{"@pid":"03/2001","text":"Genevieve B. Orr"},{"@pid":"m/KRMuller","text":"Klaus-Robert Müller"}]},"title":"Neural Networks - Tricks of the Trade","venue":["Neural Networks - Tricks of the Trade","Lecture Notes in Computer Science"],"volume":"1524","publisher":"Springer","year":"1998","type":"Editorship","key":"conf/nips/1996","doi":"10.1007/3-540-49430-8","ee":"https://doi.org/10.1007/3-540-49430-8","url":"https://dblp.org/rec/conf/nips/1996"},
+"url":"URL#4912937"
+},
+{
+"@score":"1",
+"@id":"5017674",
+"info":{"authors":{"author":{"@pid":"c/RichCaruana","text":"Rich Caruana"}},"title":"A Dozen Tricks with Multitask Learning.","venue":"Neural Networks - Tricks of the Trade","pages":"165-191","year":"1996","type":"Parts in Books or Collections","key":"conf/nips/Caruana96","doi":"10.1007/3-540-49430-8_9","ee":"https://doi.org/10.1007/3-540-49430-8_9","url":"https://dblp.org/rec/conf/nips/Caruana96"},
+"url":"URL#5017674"
+},
+{
+"@score":"1",
+"@id":"5017675",
+"info":{"authors":{"author":{"@pid":"18/4772","text":"Gary William Flake"}},"title":"Square Unit Augmented, Radially Extended, Multilayer Perceptrons.","venue":"Neural Networks - Tricks of the Trade","pages":"145-163","year":"1996","type":"Parts in Books or Collections","key":"conf/nips/Flake96","doi":"10.1007/3-540-49430-8_8","ee":"https://doi.org/10.1007/3-540-49430-8_8","url":"https://dblp.org/rec/conf/nips/Flake96"},
+"url":"URL#5017675"
+},
+{
+"@score":"1",
+"@id":"5017676",
+"info":{"authors":{"author":[{"@pid":"13/4677","text":"Jürgen Fritsch"},{"@pid":"15/647","text":"Michael Finke"}]},"title":"applying Divide and Conquer to Large Scale Pattern Recognition Tasks.","venue":"Neural Networks - Tricks of the Trade","pages":"315-342","year":"1996","type":"Parts in Books or Collections","key":"conf/nips/FritschF96","doi":"10.1007/3-540-49430-8_16","ee":"https://doi.org/10.1007/3-540-49430-8_16","url":"https://dblp.org/rec/conf/nips/FritschF96"},
+"url":"URL#5017676"
+},
+{
+"@score":"1",
+"@id":"5017677",
+"info":{"authors":{"author":[{"@pid":"07/5344","text":"David Horn"},{"@pid":"32/4845","text":"Ury Naftaly"},{"@pid":"87/4330","text":"Nathan Intrator"}]},"title":"Large Ensemble Averaging.","venue":"Neural Networks - Tricks of the Trade","pages":"133-139","year":"1996","type":"Parts in Books or Collections","key":"conf/nips/HornNI96","doi":"10.1007/3-540-49430-8_7","ee":"https://doi.org/10.1007/3-540-49430-8_7","url":"https://dblp.org/rec/conf/nips/HornNI96"},
+"url":"URL#5017677"
+},
+{
+"@score":"1",
+"@id":"5017678",
+"info":{"authors":{"author":[{"@pid":"85/173","text":"Jan Larsen"},{"@pid":"57/4247","text":"Claus Svarer"},{"@pid":"32/5461","text":"Lars Nonboe Andersen"},{"@pid":"80/3468","text":"Lars Kai Hansen"}]},"title":"Adaptive Regularization in Neural Network Modeling.","venue":"Neural Networks - Tricks of the Trade","pages":"113-132","year":"1996","type":"Parts in Books or Collections","key":"conf/nips/LarsenSAH96","doi":"10.1007/3-540-49430-8_6","ee":"https://doi.org/10.1007/3-540-49430-8_6","url":"https://dblp.org/rec/conf/nips/LarsenSAH96"},
+"url":"URL#5017678"
+},
+{
+"@score":"1",
+"@id":"5017679",
+"info":{"authors":{"author":[{"@pid":"96/6643","text":"Steve Lawrence"},{"@pid":"47/1863","text":"Ian Burns"},{"@pid":"59/6078","text":"Andrew D. Back"},{"@pid":"03/4407","text":"Ah Chung Tsoi"},{"@pid":"g/CLeeGiles","text":"C. Lee Giles"}]},"title":"Neural Network Classification and Prior Class Probabilities.","venue":"Neural Networks - Tricks of the Trade","pages":"299-313","year":"1996","type":"Parts in Books or Collections","key":"conf/nips/LawrenceBBTG96","doi":"10.1007/3-540-49430-8_15","ee":"https://doi.org/10.1007/3-540-49430-8_15","url":"https://dblp.org/rec/conf/nips/LawrenceBBTG96"},
+"url":"URL#5017679"
+},
+{
+"@score":"1",
+"@id":"5017680",
+"info":{"authors":{"author":[{"@pid":"l/YannLeCun","text":"Yann LeCun"},{"@pid":"30/1046","text":"Léon Bottou"},{"@pid":"03/2001","text":"Genevieve B. Orr"},{"@pid":"m/KRMuller","text":"Klaus-Robert Müller"}]},"title":"Effiicient BackProp.","venue":"Neural Networks - Tricks of the Trade","pages":"9-50","year":"1996","type":"Parts in Books or Collections","key":"conf/nips/LeCunBOM96","doi":"10.1007/3-540-49430-8_2","ee":"https://doi.org/10.1007/3-540-49430-8_2","url":"https://dblp.org/rec/conf/nips/LeCunBOM96"},
+"url":"URL#5017680"
+},
+{
+"@score":"1",
+"@id":"5017681",
+"info":{"authors":{"author":{"@pid":"24/1421","text":"John E. Moody"}},"title":"Forecasting the Economy with Neural Nets - A Survey of Challenges and Solutions.","venue":"Neural Networks - Tricks of the Trade","pages":"347-371","year":"1996","type":"Parts in Books or Collections","key":"conf/nips/Moody96","doi":"10.1007/3-540-49430-8_17","ee":"https://doi.org/10.1007/3-540-49430-8_17","url":"https://dblp.org/rec/conf/nips/Moody96"},
+"url":"URL#5017681"
+},
+{
+"@score":"1",
+"@id":"5017682",
+"info":{"authors":{"author":[{"@pid":"56/4953","text":"Ralph Neuneier"},{"@pid":"03/4605","text":"Hans-Georg Zimmermann"}]},"title":"How to Train Neural Networks.","venue":"Neural Networks - Tricks of the Trade","pages":"373-423","year":"1996","type":"Parts in Books or Collections","key":"conf/nips/NeuneierZ96","doi":"10.1007/3-540-49430-8_18","ee":"https://doi.org/10.1007/3-540-49430-8_18","url":"https://dblp.org/rec/conf/nips/NeuneierZ96"},
+"url":"URL#5017682"
+},
+{
+"@score":"1",
+"@id":"5017683",
+"info":{"authors":{"author":[{"@pid":"03/2001","text":"Genevieve B. Orr"},{"@pid":"m/KRMuller","text":"Klaus-Robert Müller"}]},"title":"Introduction.","venue":"Neural Networks - Tricks of the Trade","pages":"1-5","year":"1996","type":"Parts in Books or Collections","key":"conf/nips/OrrM96","doi":"10.1007/3-540-49430-8_1","ee":"https://doi.org/10.1007/3-540-49430-8_1","url":"https://dblp.org/rec/conf/nips/OrrM96"},
+"url":"URL#5017683"
+},
+{
+"@score":"1",
+"@id":"5017684",
+"info":{"authors":{"author":[{"@pid":"03/2001","text":"Genevieve B. Orr"},{"@pid":"m/KRMuller","text":"Klaus-Robert Müller"}]},"title":"Speeding Learning - Preface.","venue":"Neural Networks - Tricks of the Trade","pages":"7-8","year":"1996","type":"Parts in Books or Collections","key":"conf/nips/OrrM96a","url":"https://dblp.org/rec/conf/nips/OrrM96a"},
+"url":"URL#5017684"
+},
+{
+"@score":"1",
+"@id":"5017685",
+"info":{"authors":{"author":[{"@pid":"03/2001","text":"Genevieve B. Orr"},{"@pid":"m/KRMuller","text":"Klaus-Robert Müller"}]},"title":"Regularization Techniques to Improve Generalization - Preface.","venue":"Neural Networks - Tricks of the Trade","pages":"51-54","year":"1996","type":"Parts in Books or Collections","key":"conf/nips/OrrM96b","url":"https://dblp.org/rec/conf/nips/OrrM96b"},
+"url":"URL#5017685"
+},
+{
+"@score":"1",
+"@id":"5017686",
+"info":{"authors":{"author":[{"@pid":"03/2001","text":"Genevieve B. Orr"},{"@pid":"m/KRMuller","text":"Klaus-Robert Müller"}]},"title":"Improving Network Models and Algorithmic Tricks - Preface.","venue":"Neural Networks - Tricks of the Trade","pages":"141-144","year":"1996","type":"Parts in Books or Collections","key":"conf/nips/OrrM96c","url":"https://dblp.org/rec/conf/nips/OrrM96c"},
+"url":"URL#5017686"
+},
+{
+"@score":"1",
+"@id":"5017687",
+"info":{"authors":{"author":[{"@pid":"03/2001","text":"Genevieve B. Orr"},{"@pid":"m/KRMuller","text":"Klaus-Robert Müller"}]},"title":"Representing and Incorporating Prior Knowledge in Neural Network Training - Preface.","venue":"Neural Networks - Tricks of the Trade","pages":"235-238","year":"1996","type":"Parts in Books or Collections","key":"conf/nips/OrrM96d","url":"https://dblp.org/rec/conf/nips/OrrM96d"},
+"url":"URL#5017687"
+},
+{
+"@score":"1",
+"@id":"5017688",
+"info":{"authors":{"author":[{"@pid":"03/2001","text":"Genevieve B. Orr"},{"@pid":"m/KRMuller","text":"Klaus-Robert Müller"}]},"title":"Tricks for Time Series - Preface.","venue":"Neural Networks - Tricks of the Trade","pages":"343-346","year":"1996","type":"Parts in Books or Collections","key":"conf/nips/OrrM96e","url":"https://dblp.org/rec/conf/nips/OrrM96e"},
+"url":"URL#5017688"
+},
+{
+"@score":"1",
+"@id":"5017689",
+"info":{"authors":{"author":{"@pid":"12/6306","text":"Tony Plate"}},"title":"Controling the Hyperparameter Search in MacKay&apos;s Bayesian Neural Network Framework.","venue":"Neural Networks - Tricks of the Trade","pages":"93-112","year":"1996","type":"Parts in Books or Collections","key":"conf/nips/Plate96","doi":"10.1007/3-540-49430-8_5","ee":"https://doi.org/10.1007/3-540-49430-8_5","url":"https://dblp.org/rec/conf/nips/Plate96"},
+"url":"URL#5017689"
+},
+{
+"@score":"1",
+"@id":"5017690",
+"info":{"authors":{"author":{"@pid":"12/6306","text":"Tony Plate"}},"title":"Avoiding Roundoff Error in Backpropagating Derivatives.","venue":"Neural Networks - Tricks of the Trade","pages":"227-233","year":"1996","type":"Parts in Books or Collections","key":"conf/nips/Plate96a","doi":"10.1007/3-540-49430-8_12","ee":"https://doi.org/10.1007/3-540-49430-8_12","url":"https://dblp.org/rec/conf/nips/Plate96a"},
+"url":"URL#5017690"
+},
+{
+"@score":"1",
+"@id":"5017691",
+"info":{"authors":{"author":{"@pid":"54/3155","text":"Lutz Prechelt"}},"title":"Early Stopping-But When?","venue":"Neural Networks - Tricks of the Trade","pages":"55-69","year":"1996","type":"Parts in Books or Collections","key":"conf/nips/Prechelt96","doi":"10.1007/3-540-49430-8_3","ee":"https://doi.org/10.1007/3-540-49430-8_3","url":"https://dblp.org/rec/conf/nips/Prechelt96"},
+"url":"URL#5017691"
+},
+{
+"@score":"1",
+"@id":"5017692",
+"info":{"authors":{"author":{"@pid":"67/5192","text":"Thorsteinn S. Rögnvaldsson"}},"title":"A Simple Trick for Estimating the Weight Decay Parameter.","venue":"Neural Networks - Tricks of the Trade","pages":"71-92","year":"1996","type":"Parts in Books or Collections","key":"conf/nips/Rognvaldsson96","doi":"10.1007/3-540-49430-8_4","ee":"https://doi.org/10.1007/3-540-49430-8_4","url":"https://dblp.org/rec/conf/nips/Rognvaldsson96"},
+"url":"URL#5017692"
+},
+{
+"@score":"1",
+"@id":"5017693",
+"info":{"authors":{"author":{"@pid":"50/1938","text":"Nicol N. Schraudolph"}},"title":"Centering Neural Network Gradient Factors.","venue":"Neural Networks - Tricks of the Trade","pages":"207-226","year":"1996","type":"Parts in Books or Collections","key":"conf/nips/Schraudolph96","doi":"10.1007/3-540-49430-8_11","ee":"https://doi.org/10.1007/3-540-49430-8_11","url":"https://dblp.org/rec/conf/nips/Schraudolph96"},
+"url":"URL#5017693"
+},
+{
+"@score":"1",
+"@id":"5017694",
+"info":{"authors":{"author":[{"@pid":"s/PYSimard","text":"Patrice Y. Simard"},{"@pid":"l/YannLeCun","text":"Yann LeCun"},{"@pid":"85/6494","text":"John S. Denker"},{"@pid":"30/6569","text":"Bernard Victorri"}]},"title":"Transformation Invariance in Pattern Recognition-Tangent Distance and Tangent Propagation.","venue":"Neural Networks - Tricks of the Trade","pages":"239-27","year":"1996","type":"Parts in Books or Collections","key":"conf/nips/SimardLDV96","doi":"10.1007/3-540-49430-8_13","ee":"https://doi.org/10.1007/3-540-49430-8_13","url":"https://dblp.org/rec/conf/nips/SimardLDV96"},
+"url":"URL#5017694"
+},
+{
+"@score":"1",
+"@id":"5017695",
+"info":{"authors":{"author":[{"@pid":"24/6573","text":"P. Patrick van der Smagt"},{"@pid":"h/GerdHirzinger","text":"Gerd Hirzinger"}]},"title":"Solving the Ill-Conditioning in Neural Network Learning.","venue":"Neural Networks - Tricks of the Trade","pages":"193-206","year":"1996","type":"Parts in Books or Collections","key":"conf/nips/SmagtH96","doi":"10.1007/3-540-49430-8_10","ee":"https://doi.org/10.1007/3-540-49430-8_10","url":"https://dblp.org/rec/conf/nips/SmagtH96"},
+"url":"URL#5017695"
+},
+{
+"@score":"1",
+"@id":"5017696",
+"info":{"authors":{"author":[{"@pid":"44/4929","text":"Larry S. Yaeger"},{"@pid":"78/6145","text":"Brandyn J. Webb"},{"@pid":"48/3021","text":"Richard F. Lyon"}]},"title":"Combining Neural Networks and Context-Driven Search for On-Line, Printed Handwriting Recognition in the Newton.","venue":"Neural Networks - Tricks of the Trade","pages":"275-298","year":"1996","type":"Parts in Books or Collections","key":"conf/nips/YaegerWL96","doi":"10.1007/3-540-49430-8_14","ee":"https://doi.org/10.1007/3-540-49430-8_14","url":"https://dblp.org/rec/conf/nips/YaegerWL96"},
+"url":"URL#5017696"
+}
+]
+}
+}
+}

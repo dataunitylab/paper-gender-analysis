@@ -1,0 +1,200 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"osdi\"/\"osdi94\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"127.36"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"28",
+"@dc":"28",
+"@oc":"28",
+"@id":"17580807",
+"text":":facetid:toc:db/conf/osdi/osdi94.bht"
+}
+},
+"hits":{
+"@total":"28",
+"@computed":"28",
+"@sent":"28",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"5102386",
+"info":{"authors":{"author":[{"@pid":"b/MaryLBailey","text":"Mary L. Bailey"},{"@pid":"03/4723","text":"Burra Gopal"},{"@pid":"59/2398","text":"Michael A. Pagels"},{"@pid":"p/LLPeterson","text":"Larry L. Peterson"},{"@pid":"03/2866","text":"Prasenjit Sarkar"}]},"title":"PathFinder - A Pattern-Based Packet Classifier.","venue":"OSDI","pages":"115-123","year":"1994","type":"Conference and Workshop Papers","key":"conf/osdi/BaileyGPPS94","url":"https://dblp.org/rec/conf/osdi/BaileyGPPS94"},
+"url":"URL#5102386"
+},
+{
+"@score":"1",
+"@id":"5102387",
+"info":{"authors":{"author":[{"@pid":"b/KavitaBala","text":"Kavita Bala"},{"@pid":"k/MFransKaashoek","text":"M. Frans Kaashoek"},{"@pid":"16/6237","text":"William E. Weihl"}]},"title":"Software Prefetching and Caching for Translation Lookaside Buffers.","venue":"OSDI","pages":"243-253","year":"1994","type":"Conference and Workshop Papers","key":"conf/osdi/BalaKW94","ee":"http://dl.acm.org/citation.cfm?id=1267656","url":"https://dblp.org/rec/conf/osdi/BalaKW94"},
+"url":"URL#5102387"
+},
+{
+"@score":"1",
+"@id":"5102388",
+"info":{"authors":{"author":[{"@pid":"87/3674","text":"Pei Cao"},{"@pid":"f/EdwardWFelten","text":"Edward W. Felten"},{"@pid":"l/KaiLi1","text":"Kai Li 0001"}]},"title":"Implementation and Performance of Application-Controlled File Caching.","venue":"OSDI","pages":"165-177","year":"1994","type":"Conference and Workshop Papers","key":"conf/osdi/CaoFL94","ee":"http://dl.acm.org/citation.cfm?id=1267651","url":"https://dblp.org/rec/conf/osdi/CaoFL94"},
+"url":"URL#5102388"
+},
+{
+"@score":"1",
+"@id":"5102389",
+"info":{"authors":{"author":{"@pid":"c/DRCheriton","text":"David R. Cheriton"}},"title":"Low and High Risk Operating System Architectures (Panel Statement).","venue":"OSDI","pages":"197","year":"1994","type":"Conference and Workshop Papers","key":"conf/osdi/Cheriton94","url":"https://dblp.org/rec/conf/osdi/Cheriton94"},
+"url":"URL#5102389"
+},
+{
+"@score":"1",
+"@id":"5102390",
+"info":{"authors":{"author":[{"@pid":"c/DRCheriton","text":"David R. Cheriton"},{"@pid":"49/2790","text":"Kenneth J. Duda"}]},"title":"A Caching Model of Operating System Kernel Functionality.","venue":"OSDI","pages":"179-193","year":"1994","type":"Conference and Workshop Papers","key":"conf/osdi/CheritonD94","ee":"http://dl.acm.org/citation.cfm?id=1267652","url":"https://dblp.org/rec/conf/osdi/CheritonD94"},
+"url":"URL#5102390"
+},
+{
+"@score":"1",
+"@id":"5102391",
+"info":{"authors":{"author":[{"@pid":"d/MDahlin","text":"Michael Dahlin"},{"@pid":"69/1132","text":"Randolph Y. Wang"},{"@pid":"a/ThomasEAnderson","text":"Thomas E. Anderson"},{"@pid":"p/DAPatterson","text":"David A. Patterson"}]},"title":"Cooperative Caching - Using Remote Client Memory to Improve File System Performance.","venue":"OSDI","pages":"267-280","year":"1994","type":"Conference and Workshop Papers","key":"conf/osdi/DahlinWAP94","ee":"http://dl.acm.org/citation.cfm?id=1267657","url":"https://dblp.org/rec/conf/osdi/DahlinWAP94"},
+"url":"URL#5102391"
+},
+{
+"@score":"1",
+"@id":"5102392",
+"info":{"authors":{"author":[{"@pid":"d/FredDouglis","text":"Fred Douglis"},{"@pid":"69/1714","text":"Ramón Cáceres"},{"@pid":"k/MFransKaashoek","text":"M. Frans Kaashoek"},{"@pid":"l/KaiLi1","text":"Kai Li 0001"},{"@pid":"64/1959","text":"Brian Marsh"},{"@pid":"97/6559","text":"Joshua A. Tauber"}]},"title":"Storage Alternatives for Mobile Computers.","venue":"OSDI","pages":"25-37","year":"1994","type":"Conference and Workshop Papers","key":"conf/osdi/DouglisCKLMT94","ee":"http://dl.acm.org/citation.cfm?id=1267641","url":"https://dblp.org/rec/conf/osdi/DouglisCKLMT94"},
+"url":"URL#5102392"
+},
+{
+"@score":"1",
+"@id":"5102393",
+"info":{"authors":{"author":[{"@pid":"e/DREngler","text":"Dawson R. Engler"},{"@pid":"k/MFransKaashoek","text":"M. Frans Kaashoek"},{"@pid":"88/6703","text":"James O&apos;Toole"}]},"title":"The Exokernel Approach to Operating System Extensibility (Panel Statement).","venue":"OSDI","pages":"198","year":"1994","type":"Conference and Workshop Papers","key":"conf/osdi/EnglerKO94","url":"https://dblp.org/rec/conf/osdi/EnglerKO94"},
+"url":"URL#5102393"
+},
+{
+"@score":"1",
+"@id":"5102394",
+"info":{"authors":{"author":[{"@pid":"f/MJFeeley","text":"Michael J. Feeley"},{"@pid":"c/JSChase","text":"Jeffrey S. Chase"},{"@pid":"n/VivekRNarasayya","text":"Vivek R. Narasayya"},{"@pid":"l/HenryMLevy","text":"Henry M. Levy"}]},"title":"Integrating Coherency and Recoverability in Distributed Systems.","venue":"OSDI","pages":"215-227","year":"1994","type":"Conference and Workshop Papers","key":"conf/osdi/FeeleyCNL94","ee":"http://dl.acm.org/citation.cfm?id=1267654","url":"https://dblp.org/rec/conf/osdi/FeeleyCNL94"},
+"url":"URL#5102394"
+},
+{
+"@score":"1",
+"@id":"5102395",
+"info":{"authors":{"author":[{"@pid":"f/PauloJPFerreira","text":"Paulo Ferreira 0001"},{"@pid":"s/MarcShapiro","text":"Marc Shapiro 0001"}]},"title":"Garbage Collection and DSM Consistency.","venue":"OSDI","pages":"229-241","year":"1994","type":"Conference and Workshop Papers","key":"conf/osdi/FerreiraS94","ee":"http://dl.acm.org/citation.cfm?id=1267655","url":"https://dblp.org/rec/conf/osdi/FerreiraS94"},
+"url":"URL#5102395"
+},
+{
+"@score":"1",
+"@id":"5102396",
+"info":{"authors":{"author":[{"@pid":"90/829","text":"Vincent W. Freeh"},{"@pid":"l/DavidKLowenthal","text":"David K. Lowenthal"},{"@pid":"a/GregoryRAndrews","text":"Gregory R. Andrews"}]},"title":"Distributed Filaments - Efficient Fine-Grain Parallelism on a Cluster of Workstations.","venue":"OSDI","pages":"201-213","year":"1994","type":"Conference and Workshop Papers","key":"conf/osdi/FreehLA94","ee":"http://dl.acm.org/citation.cfm?id=1267653","url":"https://dblp.org/rec/conf/osdi/FreehLA94"},
+"url":"URL#5102396"
+},
+{
+"@score":"1",
+"@id":"5102397",
+"info":{"authors":{"author":[{"@pid":"g/GregoryRGanger","text":"Gregory R. Ganger"},{"@pid":"p/YaleNPatt","text":"Yale N. Patt"}]},"title":"Metadata Update Performance in File Systems.","venue":"OSDI","pages":"49-60","year":"1994","type":"Conference and Workshop Papers","key":"conf/osdi/GangerP94","ee":"http://dl.acm.org/citation.cfm?id=1267643","url":"https://dblp.org/rec/conf/osdi/GangerP94"},
+"url":"URL#5102397"
+},
+{
+"@score":"1",
+"@id":"5102398",
+"info":{"authors":{"author":[{"@pid":"83/1708","text":"Povl T. Koch"},{"@pid":"82/3240","text":"Robert J. Fowler"},{"@pid":"95/1442","text":"Eric Jul"}]},"title":"Message-Driven Relaxed Consistency in a Software Distributed Shared Memory.","venue":"OSDI","pages":"75-85","year":"1994","type":"Conference and Workshop Papers","key":"conf/osdi/KochFJ94","ee":"http://dl.acm.org/citation.cfm?id=1267645","url":"https://dblp.org/rec/conf/osdi/KochFJ94"},
+"url":"URL#5102398"
+},
+{
+"@score":"1",
+"@id":"5102399",
+"info":{"authors":{"author":{"@pid":"k/DavidKotz","text":"David Kotz"}},"title":"Disk-directed I/O for MIMD Multiprocessors.","venue":"OSDI","pages":"61-74","year":"1994","type":"Conference and Workshop Papers","key":"conf/osdi/Kotz94","ee":"http://dl.acm.org/citation.cfm?id=1267644","url":"https://dblp.org/rec/conf/osdi/Kotz94"},
+"url":"URL#5102399"
+},
+{
+"@score":"1",
+"@id":"5102400",
+"info":{"authors":{"author":{"@pid":"72/6821","text":"Paul J. Leach"}},"title":"Panel - Radical Operating Systems Structures for Extensibility.","venue":"OSDI","pages":"195","year":"1994","type":"Conference and Workshop Papers","key":"conf/osdi/Leach94","url":"https://dblp.org/rec/conf/osdi/Leach94"},
+"url":"URL#5102400"
+},
+{
+"@score":"1",
+"@id":"5102401",
+"info":{"authors":{"author":[{"@pid":"45/4007","text":"Chao-Hsien Lee"},{"@pid":"30/2066","text":"Meng Chang Chen"},{"@pid":"43/374","text":"Ruei-Chuan Chang"}]},"title":"HiPEC - High Performance External Virtual Memory Caching.","venue":"OSDI","pages":"153-164","year":"1994","type":"Conference and Workshop Papers","key":"conf/osdi/LeeCC94","ee":"http://dl.acm.org/citation.cfm?id=1267650","url":"https://dblp.org/rec/conf/osdi/LeeCC94"},
+"url":"URL#5102401"
+},
+{
+"@score":"1",
+"@id":"5102402",
+"info":{"authors":{"author":{"@pid":"53/306","text":"Steven Lucco"}},"title":"High-Performance Microkernel Systems (Panel Statement).","venue":"OSDI","pages":"199","year":"1994","type":"Conference and Workshop Papers","key":"conf/osdi/Lucco94","url":"https://dblp.org/rec/conf/osdi/Lucco94"},
+"url":"URL#5102402"
+},
+{
+"@score":"1",
+"@id":"5102403",
+"info":{"authors":{"author":[{"@pid":"70/6754","text":"Allen Brady Montz"},{"@pid":"12/2629","text":"David Mosberger"},{"@pid":"93/1254","text":"Sean W. O&apos;Malley"},{"@pid":"p/LLPeterson","text":"Larry L. Peterson"},{"@pid":"p/TAProebsting","text":"Todd A. Proebsting"},{"@pid":"h/JohnHHartman","text":"John H. Hartman"}]},"title":"Scout - A Communications-Oriented Operating System (Abstract).","venue":"OSDI","pages":"200","year":"1994","type":"Conference and Workshop Papers","key":"conf/osdi/MontzMOPPH94","url":"https://dblp.org/rec/conf/osdi/MontzMOPPH94"},
+"url":"URL#5102403"
+},
+{
+"@score":"1",
+"@id":"5102404",
+"info":{"authors":{"author":[{"@pid":"06/2055","text":"Erich M. Nahum"},{"@pid":"y/DavidJYates","text":"David J. Yates"},{"@pid":"k/JamesFKurose","text":"James F. Kurose"},{"@pid":"t/DonaldFTowsley","text":"Donald F. Towsley"}]},"title":"Performance Issues in Parallelized Network Protocols.","venue":"OSDI","pages":"125-137","year":"1994","type":"Conference and Workshop Papers","key":"conf/osdi/NahumYKT94","ee":"http://dl.acm.org/citation.cfm?id=1267648","url":"https://dblp.org/rec/conf/osdi/NahumYKT94"},
+"url":"URL#5102404"
+},
+{
+"@score":"1",
+"@id":"5102405",
+"info":{"authors":{"author":[{"@pid":"88/6703","text":"James O&apos;Toole"},{"@pid":"s/LiubaShrira","text":"Liuba Shrira"}]},"title":"Opportunistic Log - Efficient Installation Reads in a Reliable Storage Server.","venue":"OSDI","pages":"39-48","year":"1994","type":"Conference and Workshop Papers","key":"conf/osdi/OTooleS94","ee":"http://dl.acm.org/citation.cfm?id=1267642","url":"https://dblp.org/rec/conf/osdi/OTooleS94"},
+"url":"URL#5102405"
+},
+{
+"@score":"1",
+"@id":"5102406",
+"info":{"authors":{"author":[{"@pid":"27/2540","text":"Theodore H. Romer"},{"@pid":"41/6870","text":"Dennis Lee"},{"@pid":"b/BNBershad","text":"Brian N. Bershad"},{"@pid":"40/5996","text":"J. Bradley Chen"}]},"title":"Dynamic Page Mapping Policies for Cache Conflict Resolution on Standard Hardware.","venue":"OSDI","pages":"255-266","year":"1994","type":"Conference and Workshop Papers","key":"conf/osdi/RomerLBC94","url":"https://dblp.org/rec/conf/osdi/RomerLBC94"},
+"url":"URL#5102406"
+},
+{
+"@score":"1",
+"@id":"5102407",
+"info":{"authors":{"author":[{"@pid":"s/StefanSavage","text":"Stefan Savage"},{"@pid":"b/BNBershad","text":"Brian N. Bershad"}]},"title":"Some Issues in the Design of an Extensible Operating System (Panel Statement).","venue":"OSDI","pages":"196","year":"1994","type":"Conference and Workshop Papers","key":"conf/osdi/SavageB94","url":"https://dblp.org/rec/conf/osdi/SavageB94"},
+"url":"URL#5102407"
+},
+{
+"@score":"1",
+"@id":"5102408",
+"info":{"authors":{"author":[{"@pid":"59/3752","text":"Daniel J. Scales"},{"@pid":"l/MonicaSLam","text":"Monica S. Lam"}]},"title":"The Design and Evaluation of a Shared Object System for Distributed Memory Machines.","venue":"OSDI","pages":"101-114","year":"1994","type":"Conference and Workshop Papers","key":"conf/osdi/ScalesL94","ee":"http://dl.acm.org/citation.cfm?id=1267647","url":"https://dblp.org/rec/conf/osdi/ScalesL94"},
+"url":"URL#5102408"
+},
+{
+"@score":"1",
+"@id":"5102409",
+"info":{"authors":{"author":[{"@pid":"51/3987","text":"Ronald C. Unrau"},{"@pid":"73/2727","text":"Orran Krieger"},{"@pid":"02/4102","text":"Benjamin Gamsa"},{"@pid":"82/5150","text":"Michael Stumm"}]},"title":"Experiences with Locking in a NUMA Multiprocessor Operating System Kernel.","venue":"OSDI","pages":"139-152","year":"1994","type":"Conference and Workshop Papers","key":"conf/osdi/UnrauKGS94","ee":"http://dl.acm.org/citation.cfm?id=1267649","url":"https://dblp.org/rec/conf/osdi/UnrauKGS94"},
+"url":"URL#5102409"
+},
+{
+"@score":"1",
+"@id":"5102410",
+"info":{"authors":{"author":[{"@pid":"40/1118","text":"Carl A. Waldspurger"},{"@pid":"16/6237","text":"William E. Weihl"}]},"title":"Lottery Scheduling - Flexible Proportional-Share Resource Management.","venue":"OSDI","pages":"1-11","year":"1994","type":"Conference and Workshop Papers","key":"conf/osdi/WaldspurgerW94","ee":"http://dl.acm.org/citation.cfm?id=1267639","url":"https://dblp.org/rec/conf/osdi/WaldspurgerW94"},
+"url":"URL#5102410"
+},
+{
+"@score":"1",
+"@id":"5102411",
+"info":{"authors":{"author":[{"@pid":"w/MarkWeiser","text":"Mark D. Weiser"},{"@pid":"w/BrentBWelch","text":"Brent B. Welch"},{"@pid":"03/5860","text":"Alan J. Demers"},{"@pid":"34/5593","text":"Scott Shenker"}]},"title":"Scheduling for Reduced CPU Energy.","venue":"OSDI","pages":"13-23","year":"1994","type":"Conference and Workshop Papers","key":"conf/osdi/WeiserWDS94","ee":"http://dl.acm.org/citation.cfm?id=1267640","url":"https://dblp.org/rec/conf/osdi/WeiserWDS94"},
+"url":"URL#5102411"
+},
+{
+"@score":"1",
+"@id":"5102412",
+"info":{"authors":{"author":[{"@pid":"06/2082","text":"Matthew J. Zekauskas"},{"@pid":"83/2689","text":"Wayne Sawdon"},{"@pid":"b/BNBershad","text":"Brian N. Bershad"}]},"title":"Software Write Detection for a Distributed Shared Memory.","venue":"OSDI","pages":"87-100","year":"1994","type":"Conference and Workshop Papers","key":"conf/osdi/ZekauskasSB94","ee":"http://dl.acm.org/citation.cfm?id=1267646","url":"https://dblp.org/rec/conf/osdi/ZekauskasSB94"},
+"url":"URL#5102412"
+},
+{
+"@score":"1",
+"@id":"5107710",
+"info":{"title":"Proceedings of the First USENIX Symposium on Operating Systems Design and Implementation (OSDI), Monterey, California, USA, November 14-17, 1994","venue":"OSDI","publisher":"USENIX Association","year":"1994","type":"Editorship","key":"conf/osdi/1994","url":"https://dblp.org/rec/conf/osdi/1994"},
+"url":"URL#5107710"
+}
+]
+}
+}
+}

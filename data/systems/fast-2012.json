@@ -1,0 +1,194 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"fast\"/\"fast2012\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"128.45"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"27",
+"@dc":"27",
+"@oc":"27",
+"@id":"17561991",
+"text":":facetid:toc:db/conf/fast/fast2012.bht"
+}
+},
+"hits":{
+"@total":"27",
+"@computed":"27",
+"@sent":"27",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"2774966",
+"info":{"authors":{"author":[{"@pid":"29/6946","text":"Muli Ben-Yehuda"},{"@pid":"f/MichaelFactor","text":"Michael Factor"},{"@pid":"69/3567","text":"Eran Rom"},{"@pid":"93/410","text":"Avishay Traeger"},{"@pid":"145/1932","text":"Eran Borovik"},{"@pid":"57/1446","text":"Ben-Ami Yassour"}]},"title":"Adding advanced storage controller functionality via low-overhead virtualization.","venue":"FAST","pages":"15","year":"2012","type":"Conference and Workshop Papers","key":"conf/fast/Ben-YehudaFRTBY12","ee":"https://www.usenix.org/conference/fast12/adding-advanced-storage-controller-functionality-low-overhead-virtualization","url":"https://dblp.org/rec/conf/fast/Ben-YehudaFRTBY12"},
+"url":"URL#2774966"
+},
+{
+"@score":"1",
+"@id":"2774967",
+"info":{"authors":{"author":[{"@pid":"35/8319","text":"Pramod Bhatotia"},{"@pid":"87/6689","text":"Rodrigo Rodrigues 0001"},{"@pid":"23/669","text":"Akshat Verma"}]},"title":"Shredder - GPU-accelerated incremental storage and computation.","venue":"FAST","pages":"14","year":"2012","type":"Conference and Workshop Papers","key":"conf/fast/BhatotiaRV12","ee":"https://www.usenix.org/conference/fast12/shredder-gpu-accelerated-incremental-storage-and-computation","url":"https://dblp.org/rec/conf/fast/BhatotiaRV12"},
+"url":"URL#2774967"
+},
+{
+"@score":"1",
+"@id":"2774968",
+"info":{"authors":{"author":[{"@pid":"07/10563","text":"Vijay Chidambaram"},{"@pid":"75/8719","text":"Tushar Sharma"},{"@pid":"a/AndreaCArpaciDusseau","text":"Andrea C. Arpaci-Dusseau"},{"@pid":"a/RemziHArpaciDusseau","text":"Remzi H. Arpaci-Dusseau"}]},"title":"Consistency without ordering.","venue":"FAST","pages":"9","year":"2012","type":"Conference and Workshop Papers","key":"conf/fast/ChidambaramSAA12","ee":"https://www.usenix.org/conference/fast12/consistency-without-ordering","url":"https://dblp.org/rec/conf/fast/ChidambaramSAA12"},
+"url":"URL#2774968"
+},
+{
+"@score":"1",
+"@id":"2774969",
+"info":{"authors":{"author":[{"@pid":"122/4836","text":"Daniel Fryer"},{"@pid":"122/4854","text":"Kuei Sun"},{"@pid":"122/4835","text":"Rahat Mahmood"},{"@pid":"122/4838","text":"Tinghao Cheng"},{"@pid":"122/4851","text":"Shaun Benjamin"},{"@pid":"g/AshvinGoel","text":"Ashvin Goel"},{"@pid":"b/AngelaDemkeBrown","text":"Angela Demke Brown"}]},"title":"Recon - verifying file system consistency at runtime.","venue":"FAST","pages":"7","year":"2012","type":"Conference and Workshop Papers","key":"conf/fast/FryerSMCBGB12","ee":"https://www.usenix.org/conference/fast12/recon-verifying-file-system-consistency-runtime","url":"https://dblp.org/rec/conf/fast/FryerSMCBGB12"},
+"url":"URL#2774969"
+},
+{
+"@score":"1",
+"@id":"2774970",
+"info":{"authors":{"author":[{"@pid":"74/2389","text":"Laura M. Grupp"},{"@pid":"72/1381","text":"John D. Davis"},{"@pid":"97/3886","text":"Steven Swanson"}]},"title":"The bleak future of NAND flash memory.","venue":"FAST","pages":"2","year":"2012","type":"Conference and Workshop Papers","key":"conf/fast/GruppDS12","ee":"https://www.usenix.org/conference/fast12/bleak-future-nand-flash-memory","url":"https://dblp.org/rec/conf/fast/GruppDS12"},
+"url":"URL#2774970"
+},
+{
+"@score":"1",
+"@id":"2774971",
+"info":{"authors":{"author":[{"@pid":"62/6816","text":"Yuchong Hu"},{"@pid":"82/10333","text":"Henry C. H. Chen"},{"@pid":"25/4018","text":"Patrick P. C. Lee"},{"@pid":"36/345","text":"Yang Tang"}]},"title":"NCCloud - applying network coding for the storage repair in a cloud-of-clouds.","venue":"FAST","pages":"21","year":"2012","type":"Conference and Workshop Papers","key":"conf/fast/HuCLT12","ee":"https://www.usenix.org/conference/fast12/nccloud-applying-network-coding-storage-repair-cloud-clouds","url":"https://dblp.org/rec/conf/fast/HuCLT12"},
+"url":"URL#2774971"
+},
+{
+"@score":"1",
+"@id":"2774972",
+"info":{"authors":{"author":[{"@pid":"01/5245","text":"Osama Khan"},{"@pid":"b/RandalCBurns","text":"Randal C. Burns"},{"@pid":"07/3005","text":"James S. Plank"},{"@pid":"14/3636","text":"William Pierce"},{"@pid":"83/5898","text":"Cheng Huang"}]},"title":"Rethinking erasure codes for cloud file systems - minimizing I/O for recovery and degraded reads.","venue":"FAST","pages":"20","year":"2012","type":"Conference and Workshop Papers","key":"conf/fast/KhanBPPH12","ee":"https://www.usenix.org/conference/fast12/rethinking-erasure-codes-cloud-file-systems-minimizing-io-recovery-and-degraded","url":"https://dblp.org/rec/conf/fast/KhanBPPH12"},
+"url":"URL#2774972"
+},
+{
+"@score":"1",
+"@id":"2774973",
+"info":{"authors":{"author":[{"@pid":"89/2022","text":"Hyojun Kim"},{"@pid":"a/NitinAgrawal","text":"Nitin Agrawal 0001"},{"@pid":"51/6366","text":"Cristian Ungureanu"}]},"title":"Revisiting storage for smartphones.","venue":"FAST","pages":"17","year":"2012","type":"Conference and Workshop Papers","key":"conf/fast/KimAU12","ee":"https://www.usenix.org/conference/fast12/revisiting-storage-smartphones-0","url":"https://dblp.org/rec/conf/fast/KimAU12"},
+"url":"URL#2774973"
+},
+{
+"@score":"1",
+"@id":"2774974",
+"info":{"authors":{"author":[{"@pid":"35/6375","text":"Duy Le"},{"@pid":"51/944-2","text":"Hai Huang 0002"},{"@pid":"81/4036","text":"Haining Wang"}]},"title":"Understanding performance implications of nested file systems in a virtualized environment.","venue":"FAST","pages":"8","year":"2012","type":"Conference and Workshop Papers","key":"conf/fast/LeHW12","ee":"https://www.usenix.org/conference/fast12/understanding-performance-implications-nested-file-systems-virtualized-environment","url":"https://dblp.org/rec/conf/fast/LeHW12"},
+"url":"URL#2774974"
+},
+{
+"@score":"1",
+"@id":"2774975",
+"info":{"authors":{"author":[{"@pid":"29/3671","text":"Sungjin Lee"},{"@pid":"63/35","text":"Taejin Kim"},{"@pid":"18/8344","text":"Kyungho Kim"},{"@pid":"74/2683","text":"Jihong Kim 0001"}]},"title":"Lifetime management of flash-based SSDs using recovery-aware dynamic throttling.","venue":"FAST","pages":"26","year":"2012","type":"Conference and Workshop Papers","key":"conf/fast/LeeKKK12","ee":"https://www.usenix.org/conference/fast12/lifetime-management-flash-based-ssds-using-recovery-aware-dynamic-throttling","url":"https://dblp.org/rec/conf/fast/LeeKKK12"},
+"url":"URL#2774975"
+},
+{
+"@score":"1",
+"@id":"2774976",
+"info":{"authors":{"author":[{"@pid":"78/551","text":"Zhichao Li"},{"@pid":"44/5785","text":"Kevin M. Greenan"},{"@pid":"64/2991","text":"Andrew W. Leung"},{"@pid":"71/1341","text":"Erez Zadok"}]},"title":"Power consumption in enterprise-scale backup storage systems.","venue":"FAST","pages":"6","year":"2012","type":"Conference and Workshop Papers","key":"conf/fast/LiGLZ12","ee":"https://www.usenix.org/conference/fast12/power-consumption-enterprise-scale-backup-storage-systems","url":"https://dblp.org/rec/conf/fast/LiGLZ12"},
+"url":"URL#2774976"
+},
+{
+"@score":"1",
+"@id":"2774977",
+"info":{"authors":{"author":[{"@pid":"124/2061","text":"Ren-Shuo Liu"},{"@pid":"03/711","text":"Chia-Lin Yang"},{"@pid":"95/6985","text":"Wei Wu"}]},"title":"Optimizing NAND flash-based SSDs via retention relaxation.","venue":"FAST","pages":"11","year":"2012","type":"Conference and Workshop Papers","key":"conf/fast/LiuYW12","ee":"https://www.usenix.org/conference/fast12/optimizing-nand-flash-based-ssds-retention-relaxation","url":"https://dblp.org/rec/conf/fast/LiuYW12"},
+"url":"URL#2774977"
+},
+{
+"@score":"1",
+"@id":"2774978",
+"info":{"authors":{"author":[{"@pid":"45/2026","text":"Harsha V. Madhyastha"},{"@pid":"00/7936","text":"John McCullough"},{"@pid":"09/313","text":"George Porter"},{"@pid":"52/7997","text":"Rishi Kapoor"},{"@pid":"s/StefanSavage","text":"Stefan Savage"},{"@pid":"s/AlexCSnoeren","text":"Alex C. Snoeren"},{"@pid":"v/AminVahdat","text":"Amin Vahdat"}]},"title":"scc - cluster storage provisioning informed by application characteristics and SLAs.","venue":"FAST","pages":"23","year":"2012","type":"Conference and Workshop Papers","key":"conf/fast/MadhyasthaMPKSSV12","ee":"https://www.usenix.org/conference/fast12/scc-cluster-storage-provisioning-informed-application-characteristics-and-slas","url":"https://dblp.org/rec/conf/fast/MadhyasthaMPKSSV12"},
+"url":"URL#2774978"
+},
+{
+"@score":"1",
+"@id":"2774979",
+"info":{"authors":{"author":[{"@pid":"20/7983","text":"Michelle L. Mazurek"},{"@pid":"44/5931","text":"Eno Thereska"},{"@pid":"93/3319","text":"Dinan Gunawardena"},{"@pid":"56/3025-1","text":"Richard H. R. Harper"},{"@pid":"02/4024","text":"James Scott"}]},"title":"ZZFS - a hybrid device and cloud file system for spontaneous users.","venue":"FAST","pages":"16","year":"2012","type":"Conference and Workshop Papers","key":"conf/fast/MazurekTGHS12","ee":"https://www.usenix.org/conference/fast12/zzfs-hybrid-device-and-cloud-file-system-spontaneous-users","url":"https://dblp.org/rec/conf/fast/MazurekTGHS12"},
+"url":"URL#2774979"
+},
+{
+"@score":"1",
+"@id":"2774980",
+"info":{"authors":{"author":[{"@pid":"19/10203","text":"Changwoo Min"},{"@pid":"54/8970","text":"Kangnyeon Kim"},{"@pid":"145/1837","text":"Hyunjin Cho"},{"@pid":"l/SangWonLee","text":"Sang-Won Lee 0001"},{"@pid":"52/3479","text":"Young Ik Eom"}]},"title":"SFS - random write considered harmful in solid state drives.","venue":"FAST","pages":"12","year":"2012","type":"Conference and Workshop Papers","key":"conf/fast/MinKCLE12","ee":"https://www.usenix.org/conference/fast12/sfs-random-write-considered-harmful-solid-state-drives","url":"https://dblp.org/rec/conf/fast/MinKCLE12"},
+"url":"URL#2774980"
+},
+{
+"@score":"1",
+"@id":"2774981",
+"info":{"authors":{"author":[{"@pid":"41/7454","text":"Yongseok Oh"},{"@pid":"61/4476","text":"Jongmoo Choi"},{"@pid":"62/2294","text":"Donghee Lee"},{"@pid":"81/970","text":"Sam H. Noh"}]},"title":"Caching less for better performance - balancing cache size and update cost of flash memory cache in hybrid storage systems.","venue":"FAST","pages":"25","year":"2012","type":"Conference and Workshop Papers","key":"conf/fast/OhCLN12","ee":"https://www.usenix.org/conference/fast12/caching-less-better-performance-balancing-cache-size-and-update-cost-flash-memory","url":"https://dblp.org/rec/conf/fast/OhCLN12"},
+"url":"URL#2774981"
+},
+{
+"@score":"1",
+"@id":"2774982",
+"info":{"authors":{"author":[{"@pid":"86/7892","text":"Stan Park"},{"@pid":"80/1422","text":"Kai Shen"}]},"title":"FIOS - a fair, efficient flash I/O scheduler.","venue":"FAST","pages":"13","year":"2012","type":"Conference and Workshop Papers","key":"conf/fast/ParkS12","ee":"https://www.usenix.org/conference/fast12/fios-fair-efficient-flash-io-scheduler","url":"https://dblp.org/rec/conf/fast/ParkS12"},
+"url":"URL#2774982"
+},
+{
+"@score":"1",
+"@id":"2774983",
+"info":{"authors":{"author":[{"@pid":"06/4348","text":"Philip Shilane"},{"@pid":"35/4416","text":"Mark Huang"},{"@pid":"w/GrantWallace","text":"Grant Wallace"},{"@pid":"24/268","text":"Windsor Hsu"}]},"title":"WAN optimized replication of backup datasets using stream-informed delta compression.","venue":"FAST","pages":"5","year":"2012","type":"Conference and Workshop Papers","key":"conf/fast/ShilaneHWH12","ee":"https://www.usenix.org/conference/fast12/wan-optimized-replication-backup-datasets-using-stream-informed-delta-compression","url":"https://dblp.org/rec/conf/fast/ShilaneHWH12"},
+"url":"URL#2774983"
+},
+{
+"@score":"1",
+"@id":"2774984",
+"info":{"authors":{"author":[{"@pid":"75/6352","text":"Kiran Srinivasan"},{"@pid":"94/6748","text":"Timothy Bisson"},{"@pid":"56/2610","text":"Garth R. Goodson"},{"@pid":"v/KaladharVoruganti","text":"Kaladhar Voruganti"}]},"title":"iDedup - latency-aware, inline data deduplication for primary storage.","venue":"FAST","pages":"24","year":"2012","type":"Conference and Workshop Papers","key":"conf/fast/SrinivasanBGV12","ee":"https://www.usenix.org/conference/fast12/idedup-latency-aware-inline-data-deduplication-primary-storage","url":"https://dblp.org/rec/conf/fast/SrinivasanBGV12"},
+"url":"URL#2774984"
+},
+{
+"@score":"1",
+"@id":"2774985",
+"info":{"authors":{"author":[{"@pid":"116/5160","text":"Roshan Sumbaly"},{"@pid":"116/2694","text":"Jay Kreps"},{"@pid":"44/2139","text":"Lei Gao"},{"@pid":"116/5181","text":"Alex Feinberg"},{"@pid":"26/11088","text":"Chinmay Soman"},{"@pid":"60/3409","text":"Sam Shah"}]},"title":"Serving large-scale batch computed data with project Voldemort.","venue":"FAST","pages":"18","year":"2012","type":"Conference and Workshop Papers","key":"conf/fast/SumbalyKGFSS12","ee":"https://www.usenix.org/conference/fast12/serving-large-scale-batch-computed-data-project-voldemort","url":"https://dblp.org/rec/conf/fast/SumbalyKGFSS12"},
+"url":"URL#2774985"
+},
+{
+"@score":"1",
+"@id":"2774986",
+"info":{"authors":{"author":[{"@pid":"73/5769","text":"Vasily Tarasov"},{"@pid":"117/9415","text":"Santhosh Kumar"},{"@pid":"57/1183","text":"Jack Ma"},{"@pid":"56/3008","text":"Dean Hildebrand"},{"@pid":"39/2817","text":"Anna Povzner"},{"@pid":"44/5151","text":"Geoff Kuenning"},{"@pid":"71/1341","text":"Erez Zadok"}]},"title":"Extracting flexible, replayable models from large block traces.","venue":"FAST","pages":"22","year":"2012","type":"Conference and Workshop Papers","key":"conf/fast/TarasovKMHPKZ12","ee":"https://www.usenix.org/conference/fast12/extracting-flexible-replayable-models-large-block-traces-0","url":"https://dblp.org/rec/conf/fast/TarasovKMHPKZ12"},
+"url":"URL#2774986"
+},
+{
+"@score":"1",
+"@id":"2774987",
+"info":{"authors":{"author":[{"@pid":"39/1349","text":"Michael Vrable"},{"@pid":"s/StefanSavage","text":"Stefan Savage"},{"@pid":"v/GeoffreyMVoelker","text":"Geoffrey M. Voelker"}]},"title":"BlueSky - a cloud-backed file system for the enterprise.","venue":"FAST","pages":"19","year":"2012","type":"Conference and Workshop Papers","key":"conf/fast/VrableSV12","ee":"https://www.usenix.org/conference/fast12/bluesky-cloud-backed-file-system-enterprise","url":"https://dblp.org/rec/conf/fast/VrableSV12"},
+"url":"URL#2774987"
+},
+{
+"@score":"1",
+"@id":"2774988",
+"info":{"authors":{"author":[{"@pid":"w/GrantWallace","text":"Grant Wallace"},{"@pid":"d/FredDouglis","text":"Fred Douglis"},{"@pid":"37/7950","text":"Hangwei Qian"},{"@pid":"06/4348","text":"Philip Shilane"},{"@pid":"05/2821","text":"Stephen Smaldone"},{"@pid":"145/1832","text":"Mark Chamness"},{"@pid":"24/268","text":"Windsor Hsu"}]},"title":"Characteristics of backup workloads in production systems.","venue":"FAST","pages":"4","year":"2012","type":"Conference and Workshop Papers","key":"conf/fast/WallaceDQSSCH12","ee":"https://www.usenix.org/conference/fast12/characteristics-backup-workloads-production-systems","url":"https://dblp.org/rec/conf/fast/WallaceDQSSCH12"},
+"url":"URL#2774988"
+},
+{
+"@score":"1",
+"@id":"2774989",
+"info":{"authors":{"author":[{"@pid":"53/8385","text":"Guanying Wu"},{"@pid":"83/6436","text":"Xubin He"}]},"title":"Reducing SSD read latency via NAND flash program and erase suspension.","venue":"FAST","pages":"10","year":"2012","type":"Conference and Workshop Papers","key":"conf/fast/WuH12","ee":"https://www.usenix.org/conference/fast12/reducing-ssd-read-latency-nand-flash-program-and-erase-suspension","url":"https://dblp.org/rec/conf/fast/WuH12"},
+"url":"URL#2774989"
+},
+{
+"@score":"1",
+"@id":"2774990",
+"info":{"authors":{"author":[{"@pid":"47/2773","text":"Jisoo Yang"},{"@pid":"53/5102","text":"Dave B. Minturn"},{"@pid":"145/1796","text":"Frank Hady"}]},"title":"When poll is better than interrupt.","venue":"FAST","pages":"3","year":"2012","type":"Conference and Workshop Papers","key":"conf/fast/YangMH12","ee":"https://www.usenix.org/conference/fast12/when-poll-better-interrupt","url":"https://dblp.org/rec/conf/fast/YangMH12"},
+"url":"URL#2774990"
+},
+{
+"@score":"1",
+"@id":"2774991",
+"info":{"authors":{"author":[{"@pid":"64/3770-5","text":"Yiying Zhang 0005"},{"@pid":"71/9510","text":"Leo Prasath Arulraj"},{"@pid":"a/AndreaCArpaciDusseau","text":"Andrea C. Arpaci-Dusseau"},{"@pid":"a/RemziHArpaciDusseau","text":"Remzi H. Arpaci-Dusseau"}]},"title":"De-indirection for flash-based SSDs with nameless writes.","venue":"FAST","pages":"1","year":"2012","type":"Conference and Workshop Papers","key":"conf/fast/ZhangAAA12","ee":"https://www.usenix.org/conference/fast12/de-indirection-flash-based-ssds-nameless-writes","url":"https://dblp.org/rec/conf/fast/ZhangAAA12"},
+"url":"URL#2774991"
+},
+{
+"@score":"1",
+"@id":"2876802",
+"info":{"authors":{"author":[{"@pid":"b/WJBolosky","text":"William J. Bolosky"},{"@pid":"14/85","text":"Jason Flinn"}]},"title":"Proceedings of the 10th USENIX conference on File and Storage Technologies, FAST 2012, San Jose, CA, USA, February 14-17, 2012","venue":"FAST","publisher":"USENIX Association","year":"2012","type":"Editorship","key":"conf/fast/2012","ee":"http://static.usenix.org/events/fast12/","url":"https://dblp.org/rec/conf/fast/2012"},
+"url":"URL#2876802"
+}
+]
+}
+}
+}

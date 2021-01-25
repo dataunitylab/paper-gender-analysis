@@ -1,0 +1,158 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"fast\"/\"fast2003\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"101.10"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"21",
+"@dc":"21",
+"@oc":"21",
+"@id":"17561983",
+"text":":facetid:toc:db/conf/fast/fast2003.bht"
+}
+},
+"hits":{
+"@total":"21",
+"@computed":"21",
+"@sent":"21",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"4485087",
+"info":{"authors":{"author":[{"@pid":"10/553","text":"Marcos Kawazoe Aguilera"},{"@pid":"43/6998","text":"Minwen Ji"},{"@pid":"99/6098","text":"Mark Lillibridge"},{"@pid":"17/429","text":"John MacCormick"},{"@pid":"67/5764","text":"Erwin Oertli"},{"@pid":"a/DavidGAndersen","text":"David G. Andersen"},{"@pid":"73/615","text":"Michael Burrows"},{"@pid":"83/5823","text":"Timothy P. Mann"},{"@pid":"13/3927","text":"Chandramohan A. Thekkath"}]},"title":"Block-Level Security for Network-Attached Disks.","venue":"FAST","year":"2003","type":"Conference and Workshop Papers","key":"conf/fast/AguileraJLMOABMT03","ee":"http://www.usenix.org/events/fast03/tech/aguilera.html","url":"https://dblp.org/rec/conf/fast/AguileraJLMOABMT03"},
+"url":"URL#4485087"
+},
+{
+"@score":"1",
+"@id":"4485088",
+"info":{"authors":{"author":[{"@pid":"13/436","text":"Dave Anderson"},{"@pid":"84/5927","text":"Jim Dykes"},{"@pid":"r/ErikRiedel","text":"Erik Riedel"}]},"title":"More Than an Interface - SCSI vs. ATA.","venue":"FAST","year":"2003","type":"Conference and Workshop Papers","key":"conf/fast/AndersonDR03","ee":"http://www.usenix.org/events/fast03/tech/anderson.html","url":"https://dblp.org/rec/conf/fast/AndersonDR03"},
+"url":"URL#4485088"
+},
+{
+"@score":"1",
+"@id":"4485089",
+"info":{"authors":{"author":[{"@pid":"97/1870","text":"Matt DeBergalis"},{"@pid":"30/3865","text":"Peter F. Corbett"},{"@pid":"88/2355","text":"Steven Kleiman"},{"@pid":"54/386","text":"Arthur Lent"},{"@pid":"61/3311","text":"Dave Noveck"},{"@pid":"10/871","text":"Thomas Talpey"},{"@pid":"46/5215","text":"Mark Wittle"}]},"title":"The Direct Access File System.","venue":"FAST","year":"2003","type":"Conference and Workshop Papers","key":"conf/fast/DeBergalisCKLNTW03","ee":"http://www.usenix.org/events/fast03/tech/debergalis.html","url":"https://dblp.org/rec/conf/fast/DeBergalisCKLNTW03"},
+"url":"URL#4485089"
+},
+{
+"@score":"1",
+"@id":"4485090",
+"info":{"authors":{"author":[{"@pid":"21/2927","text":"Zoran Dimitrijevic"},{"@pid":"13/4977","text":"Raju Rangaswami"},{"@pid":"c/EdwardYChang","text":"Edward Y. Chang"}]},"title":"Design and Implementation of Semi-preemptible IO.","venue":"FAST","year":"2003","type":"Conference and Workshop Papers","key":"conf/fast/DimitrijevicRC03","ee":"http://www.usenix.org/events/fast03/tech/dimitrijevic.html","url":"https://dblp.org/rec/conf/fast/DimitrijevicRC03"},
+"url":"URL#4485090"
+},
+{
+"@score":"1",
+"@id":"4485091",
+"info":{"authors":{"author":[{"@pid":"38/5012","text":"Ivan Dramaliev"},{"@pid":"74/1485","text":"Tara M. Madhyastha"}]},"title":"Optimizing Probe-Based Storage.","venue":"FAST","year":"2003","type":"Conference and Workshop Papers","key":"conf/fast/DramalievM03","ee":"http://www.usenix.org/events/fast03/tech/dramaliev.html","url":"https://dblp.org/rec/conf/fast/DramalievM03"},
+"url":"URL#4485091"
+},
+{
+"@score":"1",
+"@id":"4485092",
+"info":{"authors":{"author":[{"@pid":"03/6368","text":"Daniel Ellard"},{"@pid":"49/727","text":"Jonathan Ledlie"},{"@pid":"62/2322","text":"Pia Malkani"},{"@pid":"s/MargoISeltzer","text":"Margo I. Seltzer"}]},"title":"Passive NFS Tracing of Email and Research Workloads.","venue":"FAST","year":"2003","type":"Conference and Workshop Papers","key":"conf/fast/EllardLMS03","ee":"http://www.usenix.org/events/fast03/tech/ellard.html","url":"https://dblp.org/rec/conf/fast/EllardLMS03"},
+"url":"URL#4485092"
+},
+{
+"@score":"1",
+"@id":"4485093",
+"info":{"authors":{"author":[{"@pid":"14/85","text":"Jason Flinn"},{"@pid":"74/1211","text":"Shafeeq Sinnamohideen"},{"@pid":"t/NirajTolia","text":"Niraj Tolia"},{"@pid":"s/MahadevSatyanarayanan","text":"Mahadev Satyanarayanan"}]},"title":"Data Staging on Untrusted Surrogates.","venue":"FAST","year":"2003","type":"Conference and Workshop Papers","key":"conf/fast/FlinnSTS03","ee":"http://www.usenix.org/events/fast03/tech/flinn.html","url":"https://dblp.org/rec/conf/fast/FlinnSTS03"},
+"url":"URL#4485093"
+},
+{
+"@score":"1",
+"@id":"4485094",
+"info":{"authors":{"author":[{"@pid":"10/4018","text":"Mahesh Kallahalla"},{"@pid":"r/ErikRiedel","text":"Erik Riedel"},{"@pid":"78/3547","text":"Ram Swaminathan"},{"@pid":"75/5723","text":"Qian Wang"},{"@pid":"f/KevinFu","text":"Kevin Fu"}]},"title":"Plutus - Scalable Secure File Sharing on Untrusted Storage.","venue":"FAST","year":"2003","type":"Conference and Workshop Papers","key":"conf/fast/KallahallaRSWF03","ee":"http://www.usenix.org/events/fast03/tech/kallahalla.html","url":"https://dblp.org/rec/conf/fast/KallahallaRSWF03"},
+"url":"URL#4485094"
+},
+{
+"@score":"1",
+"@id":"4485095",
+"info":{"authors":{"author":[{"@pid":"89/3197","text":"Christopher R. Lumb"},{"@pid":"40/3294","text":"Arif Merchant"},{"@pid":"44/2969","text":"Guillermo A. Alvarez"}]},"title":"Façade - Virtual Storage Devices with Performance Guarantees.","venue":"FAST","year":"2003","type":"Conference and Workshop Papers","key":"conf/fast/LumbMA03","ee":"http://www.usenix.org/events/fast03/tech/lumb.html","url":"https://dblp.org/rec/conf/fast/LumbMA03"},
+"url":"URL#4485095"
+},
+{
+"@score":"1",
+"@id":"4485096",
+"info":{"authors":{"author":[{"@pid":"99/3621","text":"Kostas Magoutis"},{"@pid":"93/2372","text":"Salimah Addetia"},{"@pid":"71/2521","text":"Alexandra Fedorova"},{"@pid":"s/MargoISeltzer","text":"Margo I. Seltzer"}]},"title":"Making the Most Out of Direct-Access Network Attached Storage.","venue":"FAST","year":"2003","type":"Conference and Workshop Papers","key":"conf/fast/MagoutisAFS03","ee":"http://www.usenix.org/events/fast03/tech/magoutis.html","url":"https://dblp.org/rec/conf/fast/MagoutisAFS03"},
+"url":"URL#4485096"
+},
+{
+"@score":"1",
+"@id":"4485097",
+"info":{"authors":{"author":[{"@pid":"m/NimrodMegiddo","text":"Nimrod Megiddo"},{"@pid":"67/1008","text":"Dharmendra S. Modha"}]},"title":"ARC - A Self-Tuning, Low Overhead Replacement Cache.","venue":"FAST","year":"2003","type":"Conference and Workshop Papers","key":"conf/fast/MegiddoM03","ee":"http://www.usenix.org/events/fast03/tech/megiddo.html","url":"https://dblp.org/rec/conf/fast/MegiddoM03"},
+"url":"URL#4485097"
+},
+{
+"@score":"1",
+"@id":"4485098",
+"info":{"authors":{"author":[{"@pid":"m/ReaganMoore","text":"Reagan Moore"},{"@pid":"16/1144","text":"Dave Belanger"},{"@pid":"27/1486","text":"Thomas Ruwart"}]},"title":"Petabytes and Beyond.","venue":"FAST","year":"2003","type":"Conference and Workshop Papers","key":"conf/fast/MooreBR03","ee":"http://www.usenix.org/events/fast03/tech/ruwart/index.html","url":"https://dblp.org/rec/conf/fast/MooreBR03"},
+"url":"URL#4485098"
+},
+{
+"@score":"1",
+"@id":"4485099",
+"info":{"authors":{"author":[{"@pid":"71/1478","text":"Sean C. Rhea"},{"@pid":"04/3224","text":"Patrick R. Eaton"},{"@pid":"16/434","text":"Dennis Geels"},{"@pid":"w/HakimWeatherspoon","text":"Hakim Weatherspoon"},{"@pid":"z/BenYZhao","text":"Ben Y. Zhao"},{"@pid":"k/JohnKubiatowicz","text":"John Kubiatowicz"}]},"title":"Pond - The OceanStore Prototype.","venue":"FAST","year":"2003","type":"Conference and Workshop Papers","key":"conf/fast/RheaEGWZK03","ee":"http://www.usenix.org/events/fast03/tech/rhea.html","url":"https://dblp.org/rec/conf/fast/RheaEGWZK03"},
+"url":"URL#4485099"
+},
+{
+"@score":"1",
+"@id":"4485100",
+"info":{"authors":{"author":[{"@pid":"03/2866","text":"Prasenjit Sarkar"},{"@pid":"61/3490","text":"Sandeep Uttamchandani"},{"@pid":"v/KaladharVoruganti","text":"Kaladhar Voruganti"}]},"title":"Storage Over IP - When Does Hardware Support Help?","venue":"FAST","year":"2003","type":"Conference and Workshop Papers","key":"conf/fast/SarkarUV03","ee":"http://www.usenix.org/events/fast03/tech/sarkar.html","url":"https://dblp.org/rec/conf/fast/SarkarUV03"},
+"url":"URL#4485100"
+},
+{
+"@score":"1",
+"@id":"4485101",
+"info":{"authors":{"author":[{"@pid":"s/MuthianSivathanu","text":"Muthian Sivathanu"},{"@pid":"93/843","text":"Vijayan Prabhakaran"},{"@pid":"34/1202","text":"Florentina I. Popovici"},{"@pid":"87/449","text":"Timothy E. Denehy"},{"@pid":"a/AndreaCArpaciDusseau","text":"Andrea C. Arpaci-Dusseau"},{"@pid":"a/RemziHArpaciDusseau","text":"Remzi H. Arpaci-Dusseau"}]},"title":"Semantically-Smart Disk Systems.","venue":"FAST","year":"2003","type":"Conference and Workshop Papers","key":"conf/fast/SivathanuPPDAA03","ee":"http://www.usenix.org/events/fast03/tech/sivathanu.html","url":"https://dblp.org/rec/conf/fast/SivathanuPPDAA03"},
+"url":"URL#4485101"
+},
+{
+"@score":"1",
+"@id":"4485102",
+"info":{"authors":{"author":[{"@pid":"35/680","text":"Craig A. N. Soules"},{"@pid":"56/2610","text":"Garth R. Goodson"},{"@pid":"40/1633","text":"John D. Strunk"},{"@pid":"g/GregoryRGanger","text":"Gregory R. Ganger"}]},"title":"Metadata Efficiency in Versioning File Systems.","venue":"FAST","year":"2003","type":"Conference and Workshop Papers","key":"conf/fast/SoulesGSG03","ee":"http://www.usenix.org/events/fast03/tech/soules.html","url":"https://dblp.org/rec/conf/fast/SoulesGSG03"},
+"url":"URL#4485102"
+},
+{
+"@score":"1",
+"@id":"4485103",
+"info":{"authors":{"author":[{"@pid":"79/2184","text":"Mustafa Uysal"},{"@pid":"40/3294","text":"Arif Merchant"},{"@pid":"44/2969","text":"Guillermo A. Alvarez"}]},"title":"Using MEMS-Based Storage in Disk Arrays.","venue":"FAST","year":"2003","type":"Conference and Workshop Papers","key":"conf/fast/UysalMA03","ee":"http://www.usenix.org/events/fast03/tech/uysal.html","url":"https://dblp.org/rec/conf/fast/UysalMA03"},
+"url":"URL#4485103"
+},
+{
+"@score":"1",
+"@id":"4485104",
+"info":{"authors":{"author":{"@pid":"w/JohnWilkes","text":"John Wilkes"}},"title":"Data Services - From Data to Containers.","venue":"FAST","year":"2003","type":"Conference and Workshop Papers","key":"conf/fast/Wilkes03","ee":"http://www.usenix.org/events/fast03/tech/fast03_keynote.pdf","url":"https://dblp.org/rec/conf/fast/Wilkes03"},
+"url":"URL#4485104"
+},
+{
+"@score":"1",
+"@id":"4485105",
+"info":{"authors":{"author":[{"@pid":"92/2400","text":"John Zedlewski"},{"@pid":"42/5920","text":"Sumeet Sobti"},{"@pid":"85/2042","text":"Nitin Garg"},{"@pid":"18/944","text":"Fengzhou Zheng"},{"@pid":"k/AKrishnamurthy","text":"Arvind Krishnamurthy"},{"@pid":"69/1132","text":"Randolph Y. Wang"}]},"title":"Modeling Hard-Disk Power Consumption.","venue":"FAST","year":"2003","type":"Conference and Workshop Papers","key":"conf/fast/ZedlewskiSGZKW03","ee":"http://www.usenix.org/events/fast03/tech/zedlewski.html","url":"https://dblp.org/rec/conf/fast/ZedlewskiSGZKW03"},
+"url":"URL#4485105"
+},
+{
+"@score":"1",
+"@id":"4485106",
+"info":{"authors":{"author":[{"@pid":"19/4852","text":"Zhihui Zhang"},{"@pid":"93/4616","text":"Kanad Ghose"}]},"title":"yFS - A Journaling File System Design for Handling Large Data Sets with Reduced Seeking.","venue":"FAST","year":"2003","type":"Conference and Workshop Papers","key":"conf/fast/ZhangG03","ee":"http://www.usenix.org/events/fast03/tech/zhang.html","url":"https://dblp.org/rec/conf/fast/ZhangG03"},
+"url":"URL#4485106"
+},
+{
+"@score":"1",
+"@id":"4530266",
+"info":{"authors":{"author":{"@pid":"98/6257","text":"Jeff Chase"}},"title":"Proceedings of the FAST &apos;03 Conference on File and Storage Technologies, March 31 - April 2, 2003, Cathedral Hill Hotel, San Francisco, California, USA","venue":"FAST","publisher":"USENIX","year":"2003","type":"Editorship","key":"conf/fast/2003","url":"https://dblp.org/rec/conf/fast/2003"},
+"url":"URL#4530266"
+}
+]
+}
+}
+}

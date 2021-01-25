@@ -1,0 +1,200 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"osdi\"/\"osdi2006\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"148.71"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"28",
+"@dc":"28",
+"@oc":"28",
+"@id":"17580800",
+"text":":facetid:toc:db/conf/osdi/osdi2006.bht"
+}
+},
+"hits":{
+"@total":"28",
+"@computed":"28",
+"@sent":"28",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"4111293",
+"info":{"authors":{"author":{"@pid":"73/615","text":"Michael Burrows"}},"title":"The Chubby Lock Service for Loosely-Coupled Distributed Systems.","venue":"OSDI","pages":"335-350","year":"2006","type":"Conference and Workshop Papers","key":"conf/osdi/Burrows06","ee":"http://www.usenix.org/events/osdi06/tech/burrows.html","url":"https://dblp.org/rec/conf/osdi/Burrows06"},
+"url":"URL#4111293"
+},
+{
+"@score":"1",
+"@id":"4111294",
+"info":{"authors":{"author":[{"@pid":"c/MiguelCastro","text":"Miguel Castro 0001"},{"@pid":"35/6770","text":"Manuel Costa"},{"@pid":"61/3834","text":"Tim Harris 0001"}]},"title":"Securing Software by Enforcing Data-flow Integrity.","venue":"OSDI","pages":"147-160","year":"2006","type":"Conference and Workshop Papers","key":"conf/osdi/CastroCH06","ee":"http://www.usenix.org/events/osdi06/tech/castro.html","url":"https://dblp.org/rec/conf/osdi/CastroCH06"},
+"url":"URL#4111294"
+},
+{
+"@score":"1",
+"@id":"4111295",
+"info":{"authors":{"author":[{"@pid":"13/6463","text":"Fay Chang"},{"@pid":"d/JeffreyDean","text":"Jeffrey Dean"},{"@pid":"g/SGhemawat","text":"Sanjay Ghemawat"},{"@pid":"31/1764","text":"Wilson C. Hsieh"},{"@pid":"53/6138","text":"Deborah A. Wallach"},{"@pid":"73/615","text":"Michael Burrows"},{"@pid":"26/477","text":"Tushar Chandra"},{"@pid":"71/5497","text":"Andrew Fikes"},{"@pid":"g/RobertGruber","text":"Robert Gruber"}]},"title":"Bigtable - A Distributed Storage System for Structured Data (Awarded Best Paper!).","venue":"OSDI","pages":"205-218","year":"2006","type":"Conference and Workshop Papers","key":"conf/osdi/ChangDGHWBCFG06","ee":"http://www.usenix.org/events/osdi06/tech/chang.html","url":"https://dblp.org/rec/conf/osdi/ChangDGHWBCFG06"},
+"url":"URL#4111295"
+},
+{
+"@score":"1",
+"@id":"4111297",
+"info":{"authors":{"author":[{"@pid":"50/1855","text":"James A. Cowling"},{"@pid":"05/1975","text":"Daniel S. Myers"},{"@pid":"l/BarbaraLiskov","text":"Barbara Liskov"},{"@pid":"87/6689","text":"Rodrigo Rodrigues 0001"},{"@pid":"s/LiubaShrira","text":"Liuba Shrira"}]},"title":"HQ Replication - A Hybrid Quorum Protocol for Byzantine Fault Tolerance.","venue":"OSDI","pages":"177-190","year":"2006","type":"Conference and Workshop Papers","key":"conf/osdi/CowlingMLRS06","ee":"http://www.usenix.org/events/osdi06/tech/cowling.html","url":"https://dblp.org/rec/conf/osdi/CowlingMLRS06"},
+"url":"URL#4111297"
+},
+{
+"@score":"1",
+"@id":"4111298",
+"info":{"authors":{"author":[{"@pid":"87/1231","text":"John R. Douceur"},{"@pid":"55/3274","text":"Jon Howell"}]},"title":"Distributed Directory Service in the Farsite File System.","venue":"OSDI","pages":"321-334","year":"2006","type":"Conference and Workshop Papers","key":"conf/osdi/DouceurH06","ee":"http://www.usenix.org/events/osdi06/tech/douceur.html","url":"https://dblp.org/rec/conf/osdi/DouceurH06"},
+"url":"URL#4111298"
+},
+{
+"@score":"1",
+"@id":"4111299",
+"info":{"authors":{"author":[{"@pid":"01/1470","text":"Cheng Tien Ee"},{"@pid":"f/RFonseca","text":"Rodrigo Fonseca"},{"@pid":"37/3129","text":"Sukun Kim"},{"@pid":"97/4232","text":"Daekyeong Moon"},{"@pid":"60/6753","text":"Arsalan Tavakoli"},{"@pid":"c/DavidECuller","text":"David E. Culler"},{"@pid":"34/5593","text":"Scott Shenker"},{"@pid":"s/IonStoica","text":"Ion Stoica"}]},"title":"A Modular Network Layer for Sensornets.","venue":"OSDI","pages":"249-262","year":"2006","type":"Conference and Workshop Papers","key":"conf/osdi/EeFKMTCSS06","ee":"http://www.usenix.org/events/osdi06/tech/ee.html","url":"https://dblp.org/rec/conf/osdi/EeFKMTCSS06"},
+"url":"URL#4111299"
+},
+{
+"@score":"1",
+"@id":"4111300",
+"info":{"authors":{"author":[{"@pid":"e/UErlingsson","text":"Úlfar Erlingsson"},{"@pid":"a/MartinAbadi","text":"Martín Abadi"},{"@pid":"39/1349","text":"Michael Vrable"},{"@pid":"b/MihaiBudiu","text":"Mihai Budiu"},{"@pid":"n/GeorgeCNecula","text":"George C. Necula"}]},"title":"XFI - Software Guards for System Address Spaces.","venue":"OSDI","pages":"75-88","year":"2006","type":"Conference and Workshop Papers","key":"conf/osdi/ErlingssonAVBN06","ee":"http://www.usenix.org/events/osdi06/tech/erlingsson.html","url":"https://dblp.org/rec/conf/osdi/ErlingssonAVBN06"},
+"url":"URL#4111300"
+},
+{
+"@score":"1",
+"@id":"4111301",
+"info":{"authors":{"author":[{"@pid":"f/BryanFord","text":"Bryan Ford"},{"@pid":"57/4329","text":"Jacob Strauss"},{"@pid":"04/5917","text":"Chris Lesniewski-Laas"},{"@pid":"71/1478","text":"Sean C. Rhea"},{"@pid":"k/MFransKaashoek","text":"M. Frans Kaashoek"},{"@pid":"82/11191","text":"Robert Tappan Morris"}]},"title":"Persistent Personal Names for Globally Connected Mobile Devices.","venue":"OSDI","pages":"233-248","year":"2006","type":"Conference and Workshop Papers","key":"conf/osdi/FordSLRKM06","ee":"http://www.usenix.org/events/osdi06/tech/ford.html","url":"https://dblp.org/rec/conf/osdi/FordSLRKM06"},
+"url":"URL#4111301"
+},
+{
+"@score":"1",
+"@id":"4111302",
+"info":{"authors":{"author":[{"@pid":"71/6060","text":"Nikolai Joukov"},{"@pid":"93/410","text":"Avishay Traeger"},{"@pid":"38/1513","text":"Rakesh Iyer"},{"@pid":"51/5214","text":"Charles P. Wright"},{"@pid":"71/1341","text":"Erez Zadok"}]},"title":"Operating System Profiling via Latency Analysis.","venue":"OSDI","pages":"89-102","year":"2006","type":"Conference and Workshop Papers","key":"conf/osdi/JoukovTIWZ06","ee":"http://www.usenix.org/events/osdi06/tech/joukov.html","url":"https://dblp.org/rec/conf/osdi/JoukovTIWZ06"},
+"url":"URL#4111302"
+},
+{
+"@score":"1",
+"@id":"4111304",
+"info":{"authors":{"author":[{"@pid":"72/6043","text":"Hyong-youb Kim"},{"@pid":"44/5161","text":"Scott Rixner"}]},"title":"Connection Handoff Policies for TCP Offload Network Interfaces.","venue":"OSDI","pages":"293-306","year":"2006","type":"Conference and Workshop Papers","key":"conf/osdi/KimR06","ee":"http://www.usenix.org/events/osdi06/tech/kim.html","url":"https://dblp.org/rec/conf/osdi/KimR06"},
+"url":"URL#4111304"
+},
+{
+"@score":"1",
+"@id":"4111306",
+"info":{"authors":{"author":[{"@pid":"62/4095","text":"Ted Kremenek"},{"@pid":"09/2839","text":"Paul Twohey"},{"@pid":"47/2634","text":"Godmar Back"},{"@pid":"n/AndrewYNg","text":"Andrew Y. Ng"},{"@pid":"e/DREngler","text":"Dawson R. Engler"}]},"title":"From Uncertainty to Belief - Inferring the Specification Within.","venue":"OSDI","pages":"161-176","year":"2006","type":"Conference and Workshop Papers","key":"conf/osdi/KremenekTBNE06","ee":"http://www.usenix.org/events/osdi06/tech/kremenek.html","url":"https://dblp.org/rec/conf/osdi/KremenekTBNE06"},
+"url":"URL#4111306"
+},
+{
+"@score":"1",
+"@id":"4111307",
+"info":{"authors":{"author":[{"@pid":"07/3117","text":"Harry C. Li"},{"@pid":"17/597","text":"Allen Clement"},{"@pid":"84/527","text":"Edmund L. Wong"},{"@pid":"53/4500","text":"Jeff Napper"},{"@pid":"r/IndrajitRoy","text":"Indrajit Roy 0001"},{"@pid":"a/LAlvisi","text":"Lorenzo Alvisi"},{"@pid":"d/MDahlin","text":"Michael Dahlin"}]},"title":"BAR Gossip.","venue":"OSDI","pages":"191-204","year":"2006","type":"Conference and Workshop Papers","key":"conf/osdi/LiCWNRAD06","ee":"http://www.usenix.org/events/osdi06/tech/li.html","url":"https://dblp.org/rec/conf/osdi/LiCWNRAD06"},
+"url":"URL#4111307"
+},
+{
+"@score":"1",
+"@id":"4111308",
+"info":{"authors":{"author":[{"@pid":"45/2026","text":"Harsha V. Madhyastha"},{"@pid":"42/2745","text":"Tomas Isdal"},{"@pid":"74/4787","text":"Michael Piatek"},{"@pid":"00/4008","text":"Colin Dixon"},{"@pid":"a/ThomasEAnderson","text":"Thomas E. Anderson"},{"@pid":"k/AKrishnamurthy","text":"Arvind Krishnamurthy"},{"@pid":"v/ArunVenkataramani","text":"Arun Venkataramani"}]},"title":"iPlane - An Information Plane for Distributed Services.","venue":"OSDI","pages":"367-380","year":"2006","type":"Conference and Workshop Papers","key":"conf/osdi/MadhyasthaIPDAKV06","ee":"http://www.usenix.org/events/osdi06/tech/madhyastha.html","url":"https://dblp.org/rec/conf/osdi/MadhyasthaIPDAKV06"},
+"url":"URL#4111308"
+},
+{
+"@score":"1",
+"@id":"4111309",
+"info":{"authors":{"author":[{"@pid":"97/1336","text":"Edmund B. Nightingale"},{"@pid":"52/1896","text":"Kaushik Veeraraghavan"},{"@pid":"c/PeterMChen","text":"Peter M. Chen"},{"@pid":"14/85","text":"Jason Flinn"}]},"title":"Rethink the Sync (Awarded Best Paper!).","venue":"OSDI","pages":"1-14","year":"2006","type":"Conference and Workshop Papers","key":"conf/osdi/NightingaleVCF06","ee":"http://www.usenix.org/events/osdi06/tech/nightingale.html","url":"https://dblp.org/rec/conf/osdi/NightingaleVCF06"},
+"url":"URL#4111309"
+},
+{
+"@score":"1",
+"@id":"4111310",
+"info":{"authors":{"author":[{"@pid":"71/1924","text":"Daniel Peek"},{"@pid":"14/85","text":"Jason Flinn"}]},"title":"EnsemBlue - Integrating Distributed Storage and Consumer Electronics.","venue":"OSDI","pages":"219-232","year":"2006","type":"Conference and Workshop Papers","key":"conf/osdi/PeekF06","ee":"http://www.usenix.org/events/osdi06/tech/peek.html","url":"https://dblp.org/rec/conf/osdi/PeekF06"},
+"url":"URL#4111310"
+},
+{
+"@score":"1",
+"@id":"4111312",
+"info":{"authors":{"author":[{"@pid":"p/LLPeterson","text":"Larry L. Peterson"},{"@pid":"98/2846","text":"Andy C. Bavier"},{"@pid":"81/447","text":"Marc E. Fiuczynski"},{"@pid":"86/57","text":"Steve Muir"}]},"title":"Experiences Building PlanetLab.","venue":"OSDI","pages":"351-366","year":"2006","type":"Conference and Workshop Papers","key":"conf/osdi/PetersonBFM06","ee":"http://www.usenix.org/events/osdi06/tech/peterson.html","url":"https://dblp.org/rec/conf/osdi/PetersonBFM06"},
+"url":"URL#4111312"
+},
+{
+"@score":"1",
+"@id":"4111314",
+"info":{"authors":{"author":[{"@pid":"17/697","text":"Charles Reis"},{"@pid":"10/3285","text":"John Dunagan"},{"@pid":"w/HelenJWang","text":"Helen J. Wang"},{"@pid":"09/3938","text":"Opher Dubrovsky"},{"@pid":"64/4011","text":"Saher Esmeir"}]},"title":"BrowserShield - Vulnerability-Driven Filtering of Dynamic HTML.","venue":"OSDI","pages":"61-74","year":"2006","type":"Conference and Workshop Papers","key":"conf/osdi/ReisDWDE06","ee":"http://www.usenix.org/events/osdi06/tech/reis.html","url":"https://dblp.org/rec/conf/osdi/ReisDWDE06"},
+"url":"URL#4111314"
+},
+{
+"@score":"1",
+"@id":"4111315",
+"info":{"authors":{"author":[{"@pid":"54/129","text":"Russell Sears"},{"@pid":"b/EricABrewer","text":"Eric A. Brewer"}]},"title":"Stasis - Flexible Transactional Storage.","venue":"OSDI","pages":"29-44","year":"2006","type":"Conference and Workshop Papers","key":"conf/osdi/SearsB06","ee":"http://www.usenix.org/events/osdi06/tech/sears.html","url":"https://dblp.org/rec/conf/osdi/SearsB06"},
+"url":"URL#4111315"
+},
+{
+"@score":"1",
+"@id":"4111317",
+"info":{"authors":{"author":[{"@pid":"27/5472","text":"Gopalan Sivathanu"},{"@pid":"06/3975","text":"Swaminathan Sundararaman"},{"@pid":"71/1341","text":"Erez Zadok"}]},"title":"Type-Safe Disks.","venue":"OSDI","pages":"15-28","year":"2006","type":"Conference and Workshop Papers","key":"conf/osdi/SivathanuSZ06","ee":"http://www.usenix.org/events/osdi06/tech/sivathanu.html","url":"https://dblp.org/rec/conf/osdi/SivathanuSZ06"},
+"url":"URL#4111317"
+},
+{
+"@score":"1",
+"@id":"4111318",
+"info":{"authors":{"author":[{"@pid":"65/5111","text":"Richard Ta-Min"},{"@pid":"60/2864","text":"Lionel Litty"},{"@pid":"l/DavidLie","text":"David Lie"}]},"title":"Splitting Interfaces - Making Trust Between Applications and Operating Systems Configurable.","venue":"OSDI","pages":"279-292","year":"2006","type":"Conference and Workshop Papers","key":"conf/osdi/Ta-MinLL06","ee":"http://www.usenix.org/events/osdi06/tech/ta-min.html","url":"https://dblp.org/rec/conf/osdi/Ta-MinLL06"},
+"url":"URL#4111318"
+},
+{
+"@score":"1",
+"@id":"4111319",
+"info":{"authors":{"author":[{"@pid":"78/2444","text":"Chad Verbowski"},{"@pid":"89/1263","text":"Emre Kiciman"},{"@pid":"09/5848","text":"Arunvijay Kumar"},{"@pid":"33/5358","text":"Brad Daniels"},{"@pid":"31/5916-1","text":"Shan Lu 0001"},{"@pid":"63/4067","text":"Juhan Lee"},{"@pid":"91/1356","text":"Yi-Min Wang"},{"@pid":"06/5828","text":"Roussi Roussev"}]},"title":"Flight Data Recorder - Monitoring Persistent-State Interactions to Improve Systems Management.","venue":"OSDI","pages":"117-130","year":"2006","type":"Conference and Workshop Papers","key":"conf/osdi/VerbowskiKKDLLWR06","ee":"http://www.usenix.org/events/osdi06/tech/verbowski.html","url":"https://dblp.org/rec/conf/osdi/VerbowskiKKDLLWR06"},
+"url":"URL#4111319"
+},
+{
+"@score":"1",
+"@id":"4111321",
+"info":{"authors":{"author":[{"@pid":"166/9556","text":"Sage A. Weil"},{"@pid":"b/ScottABrandt","text":"Scott A. Brandt"},{"@pid":"m/EthanLMiller","text":"Ethan L. Miller"},{"@pid":"49/4298","text":"Darrell D. E. Long"},{"@pid":"83/2134","text":"Carlos Maltzahn"}]},"title":"Ceph - A Scalable, High-Performance Distributed File System.","venue":"OSDI","pages":"307-320","year":"2006","type":"Conference and Workshop Papers","key":"conf/osdi/WeilBMLM06","ee":"http://www.usenix.org/events/osdi06/tech/weil.html","url":"https://dblp.org/rec/conf/osdi/WeilBMLM06"},
+"url":"URL#4111321"
+},
+{
+"@score":"1",
+"@id":"4111322",
+"info":{"authors":{"author":[{"@pid":"74/5052","text":"Geoffrey Werner-Allen"},{"@pid":"53/309","text":"Konrad Lorincz"},{"@pid":"98/6746-1","text":"Jeff Johnson 0001"},{"@pid":"45/739","text":"Jonathan Lees"},{"@pid":"w/MattWelsh","text":"Matt Welsh"}]},"title":"Fidelity and Yield in a Volcano Monitoring Sensor Network.","venue":"OSDI","pages":"381-396","year":"2006","type":"Conference and Workshop Papers","key":"conf/osdi/Werner-AllenLJLW06","ee":"http://www.usenix.org/events/osdi06/tech/werner-allen.html","url":"https://dblp.org/rec/conf/osdi/Werner-AllenLJLW06"},
+"url":"URL#4111322"
+},
+{
+"@score":"1",
+"@id":"4111324",
+"info":{"authors":{"author":[{"@pid":"88/3999","text":"Ting Yang"},{"@pid":"98/4487","text":"Emery D. Berger"},{"@pid":"77/5214","text":"Scott F. Kaplan"},{"@pid":"m/JEliotBMoss","text":"J. Eliot B. Moss"}]},"title":"CRAMM - Virtual Memory Support for Garbage-Collected Applications.","venue":"OSDI","pages":"103-116","year":"2006","type":"Conference and Workshop Papers","key":"conf/osdi/YangBKM06","ee":"http://www.usenix.org/events/osdi06/tech/yang_ting.html","url":"https://dblp.org/rec/conf/osdi/YangBKM06"},
+"url":"URL#4111324"
+},
+{
+"@score":"1",
+"@id":"4111325",
+"info":{"authors":{"author":[{"@pid":"71/3724","text":"Junfeng Yang"},{"@pid":"13/4279","text":"Can Sar"},{"@pid":"e/DREngler","text":"Dawson R. Engler"}]},"title":"EXPLODE - A Lightweight, General System for Finding Serious Storage System Errors.","venue":"OSDI","pages":"131-146","year":"2006","type":"Conference and Workshop Papers","key":"conf/osdi/YangSE06","ee":"http://www.usenix.org/events/osdi06/tech/yang_junfeng.html","url":"https://dblp.org/rec/conf/osdi/YangSE06"},
+"url":"URL#4111325"
+},
+{
+"@score":"1",
+"@id":"4111326",
+"info":{"authors":{"author":[{"@pid":"99/5780","text":"Nickolai Zeldovich"},{"@pid":"06/2219","text":"Silas Boyd-Wickizer"},{"@pid":"78/5231","text":"Eddie Kohler"},{"@pid":"m/DMazieres","text":"David Mazières"}]},"title":"Making Information Flow Explicit in HiStar.","venue":"OSDI","pages":"263-278","year":"2006","type":"Conference and Workshop Papers","key":"conf/osdi/ZeldovichBKM06","ee":"http://www.usenix.org/events/osdi06/tech/zeldovich.html","url":"https://dblp.org/rec/conf/osdi/ZeldovichBKM06"},
+"url":"URL#4111326"
+},
+{
+"@score":"1",
+"@id":"4111327",
+"info":{"authors":{"author":[{"@pid":"21/6430","text":"Feng Zhou"},{"@pid":"32/474","text":"Jeremy Condit"},{"@pid":"88/3234","text":"Zachary R. Anderson"},{"@pid":"12/6505","text":"Ilya Bagrak"},{"@pid":"e/RobertEnnals","text":"Robert Ennals"},{"@pid":"41/5787","text":"Matthew Harren"},{"@pid":"n/GeorgeCNecula","text":"George C. Necula"},{"@pid":"b/EricABrewer","text":"Eric A. Brewer"}]},"title":"SafeDrive - Safe and Recoverable Extensions Using Language-Based Techniques.","venue":"OSDI","pages":"45-60","year":"2006","type":"Conference and Workshop Papers","key":"conf/osdi/ZhouCABEHNB06","ee":"http://www.usenix.org/events/osdi06/tech/zhou.html","url":"https://dblp.org/rec/conf/osdi/ZhouCABEHNB06"},
+"url":"URL#4111327"
+},
+{
+"@score":"1",
+"@id":"4134939",
+"info":{"authors":{"author":[{"@pid":"b/BNBershad","text":"Brian N. Bershad"},{"@pid":"m/JeffreyCMogul","text":"Jeffrey C. Mogul"}]},"title":"7th Symposium on Operating Systems Design and Implementation (OSDI &apos;06), November 6-8, Seattle, WA, USA","venue":"OSDI","publisher":"USENIX Association","year":"2006","type":"Editorship","key":"conf/osdi/2006","url":"https://dblp.org/rec/conf/osdi/2006"},
+"url":"URL#4134939"
+}
+]
+}
+}
+}

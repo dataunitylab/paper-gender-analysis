@@ -1,0 +1,170 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"sosp\"/\"sosp2005\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"106.04"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"23",
+"@dc":"23",
+"@oc":"23",
+"@id":"17587896",
+"text":":facetid:toc:db/conf/sosp/sosp2005.bht"
+}
+},
+"hits":{
+"@total":"23",
+"@computed":"23",
+"@sent":"23",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"4277341",
+"info":{"authors":{"author":[{"@pid":"24/6177","text":"Michael Abd-El-Malek"},{"@pid":"g/GregoryRGanger","text":"Gregory R. Ganger"},{"@pid":"56/2610","text":"Garth R. Goodson"},{"@pid":"r/MichaelKReiter","text":"Michael K. Reiter"},{"@pid":"99/4722","text":"Jay J. Wylie"}]},"title":"Fault-scalable Byzantine fault-tolerant services.","venue":"SOSP","pages":"59-74","year":"2005","type":"Conference and Workshop Papers","key":"conf/sosp/Abd-El-MalekGGRW05","doi":"10.1145/1095810.1095817","ee":"https://doi.org/10.1145/1095810.1095817","url":"https://dblp.org/rec/conf/sosp/Abd-El-MalekGGRW05"},
+"url":"URL#4277341"
+},
+{
+"@score":"1",
+"@id":"4277342",
+"info":{"authors":{"author":[{"@pid":"13/3591","text":"Amitanand S. Aiyer"},{"@pid":"a/LAlvisi","text":"Lorenzo Alvisi"},{"@pid":"17/597","text":"Allen Clement"},{"@pid":"d/MDahlin","text":"Michael Dahlin"},{"@pid":"99/1869","text":"Jean-Philippe Martin"},{"@pid":"98/4763","text":"Carl Porth"}]},"title":"BAR fault tolerance for cooperative services.","venue":"SOSP","pages":"45-58","year":"2005","type":"Conference and Workshop Papers","key":"conf/sosp/AiyerACDMP05","doi":"10.1145/1095810.1095816","ee":"https://doi.org/10.1145/1095810.1095816","url":"https://dblp.org/rec/conf/sosp/AiyerACDMP05"},
+"url":"URL#4277342"
+},
+{
+"@score":"1",
+"@id":"4277343",
+"info":{"authors":{"author":[{"@pid":"57/377","text":"Ricardo A. Baratto"},{"@pid":"02/1110","text":"Leonard N. Kim"},{"@pid":"n/JasonNieh","text":"Jason Nieh"}]},"title":"THINC - a virtual display architecture for thin-client computing.","venue":"SOSP","pages":"277-290","year":"2005","type":"Conference and Workshop Papers","key":"conf/sosp/BarattoKN05","doi":"10.1145/1095810.1095837","ee":"https://doi.org/10.1145/1095810.1095837","url":"https://dblp.org/rec/conf/sosp/BarattoKN05"},
+"url":"URL#4277343"
+},
+{
+"@score":"1",
+"@id":"4277344",
+"info":{"authors":{"author":{"@pid":"b/KPBirman","text":"Kenneth P. Birman"}},"title":"Opening remarks.","venue":"SOSP","year":"2005","type":"Conference and Workshop Papers","key":"conf/sosp/Birman05","doi":"10.1145/1095810.1105661","ee":"https://doi.org/10.1145/1095810.1105661","url":"https://dblp.org/rec/conf/sosp/Birman05"},
+"url":"URL#4277344"
+},
+{
+"@score":"1",
+"@id":"4277345",
+"info":{"authors":{"author":[{"@pid":"91/5001","text":"Ira Cohen"},{"@pid":"69/2537","text":"Steve Zhang"},{"@pid":"37/1288","text":"Moisés Goldszmidt"},{"@pid":"48/6862","text":"Julie Symons"},{"@pid":"64/5765","text":"Terence Kelly"},{"@pid":"90/5133","text":"Armando Fox"}]},"title":"Capturing, indexing, clustering, and retrieving system history.","venue":"SOSP","pages":"105-118","year":"2005","type":"Conference and Workshop Papers","key":"conf/sosp/CohenZGSKF05","doi":"10.1145/1095810.1095821","ee":"https://doi.org/10.1145/1095810.1095821","url":"https://dblp.org/rec/conf/sosp/CohenZGSKF05"},
+"url":"URL#4277345"
+},
+{
+"@score":"1",
+"@id":"4277346",
+"info":{"authors":{"author":[{"@pid":"35/6770","text":"Manuel Costa"},{"@pid":"c/JonCrowcroft","text":"Jon Crowcroft"},{"@pid":"c/MiguelCastro","text":"Miguel Castro 0001"},{"@pid":"r/AITRowstron","text":"Antony I. T. Rowstron"},{"@pid":"z/LidongZhou","text":"Lidong Zhou"},{"@pid":"94/5689","text":"Lintao Zhang"},{"@pid":"b/PaulBarham","text":"Paul Barham 0001"}]},"title":"Vigilante - end-to-end containment of internet worms.","venue":"SOSP","pages":"133-147","year":"2005","type":"Conference and Workshop Papers","key":"conf/sosp/CostaCCRZZB05","doi":"10.1145/1095810.1095824","ee":"https://doi.org/10.1145/1095810.1095824","url":"https://dblp.org/rec/conf/sosp/CostaCCRZZB05"},
+"url":"URL#4277346"
+},
+{
+"@score":"1",
+"@id":"4277347",
+"info":{"authors":{"author":[{"@pid":"91/5849","text":"Petros Efstathopoulos"},{"@pid":"19/4756","text":"Maxwell N. Krohn"},{"@pid":"01/5498","text":"Steve Vandebogart"},{"@pid":"28/5295","text":"Cliff Frey"},{"@pid":"36/2988","text":"David Ziegler"},{"@pid":"78/5231","text":"Eddie Kohler"},{"@pid":"m/DMazieres","text":"David Mazières"},{"@pid":"k/MFransKaashoek","text":"M. Frans Kaashoek"},{"@pid":"82/11191","text":"Robert Tappan Morris"}]},"title":"Labels and event processes in the Asbestos operating system.","venue":"SOSP","pages":"17-30","year":"2005","type":"Conference and Workshop Papers","key":"conf/sosp/EfstathopoulosKVFZKMKM05","doi":"10.1145/1095810.1095813","ee":"https://doi.org/10.1145/1095810.1095813","url":"https://dblp.org/rec/conf/sosp/EfstathopoulosKVFZKMKM05"},
+"url":"URL#4277347"
+},
+{
+"@score":"1",
+"@id":"4277348",
+"info":{"authors":{"author":[{"@pid":"71/1693","text":"Lars Eggert"},{"@pid":"69/1512","text":"Joseph D. Touch"}]},"title":"Idletime scheduling with preemption intervals.","venue":"SOSP","pages":"249-262","year":"2005","type":"Conference and Workshop Papers","key":"conf/sosp/EggertT05","doi":"10.1145/1095810.1095835","ee":"https://doi.org/10.1145/1095810.1095835","url":"https://dblp.org/rec/conf/sosp/EggertT05"},
+"url":"URL#4277348"
+},
+{
+"@score":"1",
+"@id":"4277349",
+"info":{"authors":{"author":[{"@pid":"g/AshvinGoel","text":"Ashvin Goel"},{"@pid":"13/1085","text":"Kenneth Po"},{"@pid":"34/2640","text":"Kamran Farhadi"},{"@pid":"10/1143","text":"Zheng Li"},{"@pid":"59/2063","text":"Eyal de Lara"}]},"title":"The taser intrusion recovery system.","venue":"SOSP","pages":"163-176","year":"2005","type":"Conference and Workshop Papers","key":"conf/sosp/GoelPFLL05","doi":"10.1145/1095810.1095826","ee":"https://doi.org/10.1145/1095810.1095826","url":"https://dblp.org/rec/conf/sosp/GoelPFLL05"},
+"url":"URL#4277349"
+},
+{
+"@score":"1",
+"@id":"4277350",
+"info":{"authors":{"author":[{"@pid":"51/944-2","text":"Hai Huang 0002"},{"@pid":"40/667","text":"Wanda Hung"},{"@pid":"s/KangGShin","text":"Kang G. Shin"}]},"title":"FS2 - dynamic data replication in free disk space for improving disk performance and energy consumption.","venue":"SOSP","pages":"263-276","year":"2005","type":"Conference and Workshop Papers","key":"conf/sosp/HuangHS05","doi":"10.1145/1095810.1095836","ee":"https://doi.org/10.1145/1095810.1095836","url":"https://dblp.org/rec/conf/sosp/HuangHS05"},
+"url":"URL#4277350"
+},
+{
+"@score":"1",
+"@id":"4277351",
+"info":{"authors":{"author":[{"@pid":"14/6676","text":"Ashlesha Joshi"},{"@pid":"54/5833","text":"Samuel T. King"},{"@pid":"54/6493","text":"George W. Dunlap"},{"@pid":"c/PeterMChen","text":"Peter M. Chen"}]},"title":"Detecting past and present intrusions through vulnerability-specific predicates.","venue":"SOSP","pages":"91-104","year":"2005","type":"Conference and Workshop Papers","key":"conf/sosp/JoshiKDC05","doi":"10.1145/1095810.1095820","ee":"https://doi.org/10.1145/1095810.1095820","url":"https://dblp.org/rec/conf/sosp/JoshiKDC05"},
+"url":"URL#4277351"
+},
+{
+"@score":"1",
+"@id":"4277352",
+"info":{"authors":{"author":[{"@pid":"75/3108","text":"Boon Thau Loo"},{"@pid":"88/2774","text":"Tyson Condie"},{"@pid":"h/JosephMHellerstein","text":"Joseph M. Hellerstein"},{"@pid":"m/PetrosManiatis","text":"Petros Maniatis"},{"@pid":"r/TimothyRoscoe","text":"Timothy Roscoe"},{"@pid":"s/IonStoica","text":"Ion Stoica"}]},"title":"Implementing declarative overlays.","venue":"SOSP","pages":"75-90","year":"2005","type":"Conference and Workshop Papers","key":"conf/sosp/LooCHMRS05","doi":"10.1145/1095810.1095818","ee":"https://doi.org/10.1145/1095810.1095818","url":"https://dblp.org/rec/conf/sosp/LooCHMRS05"},
+"url":"URL#4277352"
+},
+{
+"@score":"1",
+"@id":"4277353",
+"info":{"authors":{"author":[{"@pid":"97/1336","text":"Edmund B. Nightingale"},{"@pid":"c/PeterMChen","text":"Peter M. Chen"},{"@pid":"14/85","text":"Jason Flinn"}]},"title":"Speculative execution in a distributed file system.","venue":"SOSP","pages":"191-205","year":"2005","type":"Conference and Workshop Papers","key":"conf/sosp/NightingaleCF05","doi":"10.1145/1095810.1095829","ee":"https://doi.org/10.1145/1095810.1095829","url":"https://dblp.org/rec/conf/sosp/NightingaleCF05"},
+"url":"URL#4277353"
+},
+{
+"@score":"1",
+"@id":"4277354",
+"info":{"authors":{"author":[{"@pid":"93/843","text":"Vijayan Prabhakaran"},{"@pid":"94/6213","text":"Lakshmi N. Bairavasundaram"},{"@pid":"a/NitinAgrawal","text":"Nitin Agrawal 0001"},{"@pid":"84/5664","text":"Haryadi S. Gunawi"},{"@pid":"a/AndreaCArpaciDusseau","text":"Andrea C. Arpaci-Dusseau"},{"@pid":"a/RemziHArpaciDusseau","text":"Remzi H. Arpaci-Dusseau"}]},"title":"IRON file systems.","venue":"SOSP","pages":"206-220","year":"2005","type":"Conference and Workshop Papers","key":"conf/sosp/PrabhakaranBAGAA05","doi":"10.1145/1095810.1095830","ee":"https://doi.org/10.1145/1095810.1095830","url":"https://dblp.org/rec/conf/sosp/PrabhakaranBAGAA05"},
+"url":"URL#4277354"
+},
+{
+"@score":"1",
+"@id":"4277355",
+"info":{"authors":{"author":[{"@pid":"31/3488","text":"Feng Qin"},{"@pid":"24/2733","text":"Joseph Tucek"},{"@pid":"75/1238","text":"Jagadeesan Sundaresan"},{"@pid":"99/2747-1","text":"Yuanyuan Zhou 0001"}]},"title":"Rx - treating bugs as allergies - a safe method to survive software failures.","venue":"SOSP","pages":"235-248","year":"2005","type":"Conference and Workshop Papers","key":"conf/sosp/QinTSZ05","doi":"10.1145/1095810.1095833","ee":"https://doi.org/10.1145/1095810.1095833","url":"https://dblp.org/rec/conf/sosp/QinTSZ05"},
+"url":"URL#4277355"
+},
+{
+"@score":"1",
+"@id":"4277356",
+"info":{"authors":{"author":[{"@pid":"04/3992","text":"Arvind Seshadri"},{"@pid":"03/6525","text":"Mark Luk"},{"@pid":"80/4580","text":"Elaine Shi"},{"@pid":"16/6873","text":"Adrian Perrig"},{"@pid":"v/LeendertvanDoorn","text":"Leendert van Doorn"},{"@pid":"k/PradeepKKhosla","text":"Pradeep K. Khosla"}]},"title":"Pioneer - verifying code integrity and enforcing untampered code execution on legacy systems.","venue":"SOSP","pages":"1-16","year":"2005","type":"Conference and Workshop Papers","key":"conf/sosp/SeshadriLSPDK05","doi":"10.1145/1095810.1095812","ee":"https://doi.org/10.1145/1095810.1095812","url":"https://dblp.org/rec/conf/sosp/SeshadriLSPDK05"},
+"url":"URL#4277356"
+},
+{
+"@score":"1",
+"@id":"4277357",
+"info":{"authors":{"author":[{"@pid":"35/680","text":"Craig A. N. Soules"},{"@pid":"g/GregoryRGanger","text":"Gregory R. Ganger"}]},"title":"Connections - using context to enhance file search.","venue":"SOSP","pages":"119-132","year":"2005","type":"Conference and Workshop Papers","key":"conf/sosp/SoulesG05","doi":"10.1145/1095810.1095822","ee":"https://doi.org/10.1145/1095810.1095822","url":"https://dblp.org/rec/conf/sosp/SoulesG05"},
+"url":"URL#4277357"
+},
+{
+"@score":"1",
+"@id":"4277358",
+"info":{"authors":{"author":{"@pid":"t/AndrewSTanenbaum","text":"Andrew S. Tanenbaum"}},"title":"Keynote speech.","venue":"SOSP","year":"2005","type":"Conference and Workshop Papers","key":"conf/sosp/Tanenbaum05","doi":"10.1145/1095810.1105662","ee":"https://doi.org/10.1145/1095810.1105662","url":"https://dblp.org/rec/conf/sosp/Tanenbaum05"},
+"url":"URL#4277358"
+},
+{
+"@score":"1",
+"@id":"4277359",
+"info":{"authors":{"author":[{"@pid":"39/1349","text":"Michael Vrable"},{"@pid":"28/5664","text":"Justin Ma"},{"@pid":"48/4323","text":"Jay Chen"},{"@pid":"55/1310-1","text":"David Moore 0001"},{"@pid":"77/1042","text":"Erik Vandekieft"},{"@pid":"s/AlexCSnoeren","text":"Alex C. Snoeren"},{"@pid":"v/GeoffreyMVoelker","text":"Geoffrey M. Voelker"},{"@pid":"s/StefanSavage","text":"Stefan Savage"}]},"title":"Scalability, fidelity, and containment in the potemkin virtual honeyfarm.","venue":"SOSP","pages":"148-162","year":"2005","type":"Conference and Workshop Papers","key":"conf/sosp/VrableMCMVSVS05","doi":"10.1145/1095810.1095825","ee":"https://doi.org/10.1145/1095810.1095825","url":"https://dblp.org/rec/conf/sosp/VrableMCMVSVS05"},
+"url":"URL#4277359"
+},
+{
+"@score":"1",
+"@id":"4277360",
+"info":{"authors":{"author":[{"@pid":"76/6082","text":"Emmett Witchel"},{"@pid":"27/5932","text":"Junghwan Rhee"},{"@pid":"a/KrsteAsanovic","text":"Krste Asanovic"}]},"title":"Mondrix - memory isolation for linux using mondriaan memory protection.","venue":"SOSP","pages":"31-44","year":"2005","type":"Conference and Workshop Papers","key":"conf/sosp/WitchelRA05","doi":"10.1145/1095810.1095814","ee":"https://doi.org/10.1145/1095810.1095814","url":"https://dblp.org/rec/conf/sosp/WitchelRA05"},
+"url":"URL#4277360"
+},
+{
+"@score":"1",
+"@id":"4277361",
+"info":{"authors":{"author":[{"@pid":"98/809","text":"Yuan Yu"},{"@pid":"r/TLRodeheffer","text":"Tom Rodeheffer"},{"@pid":"181/2832","text":"Wei Chen"}]},"title":"RaceTrack - efficient detection of data race conditions via adaptive tracking.","venue":"SOSP","pages":"221-234","year":"2005","type":"Conference and Workshop Papers","key":"conf/sosp/YuRC05","doi":"10.1145/1095810.1095832","ee":"https://doi.org/10.1145/1095810.1095832","url":"https://dblp.org/rec/conf/sosp/YuRC05"},
+"url":"URL#4277361"
+},
+{
+"@score":"1",
+"@id":"4277362",
+"info":{"authors":{"author":[{"@pid":"74/3311","text":"Qingbo Zhu"},{"@pid":"61/5154","text":"Zhifeng Chen"},{"@pid":"13/3957-1","text":"Lin Tan 0001"},{"@pid":"99/2747-1","text":"Yuanyuan Zhou 0001"},{"@pid":"k/KimberlyKeeton","text":"Kimberly Keeton"},{"@pid":"w/JohnWilkes","text":"John Wilkes"}]},"title":"Hibernator - helping disk arrays sleep through the winter.","venue":"SOSP","pages":"177-190","year":"2005","type":"Conference and Workshop Papers","key":"conf/sosp/ZhuCTZKW05","doi":"10.1145/1095810.1095828","ee":"https://doi.org/10.1145/1095810.1095828","url":"https://dblp.org/rec/conf/sosp/ZhuCTZKW05"},
+"url":"URL#4277362"
+},
+{
+"@score":"1",
+"@id":"4288041",
+"info":{"authors":{"author":[{"@pid":"h/AHerbert","text":"Andrew Herbert"},{"@pid":"b/KPBirman","text":"Kenneth P. Birman"}]},"title":"Proceedings of the 20th ACM Symposium on Operating Systems Principles 2005, SOSP 2005, Brighton, UK, October 23-26, 2005","venue":"SOSP","publisher":"ACM","year":"2005","type":"Editorship","key":"conf/sosp/2005","doi":"10.1145/1095810","ee":"https://doi.org/10.1145/1095810","url":"https://dblp.org/rec/conf/sosp/2005"},
+"url":"URL#4288041"
+}
+]
+}
+}
+}

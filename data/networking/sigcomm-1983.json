@@ -1,0 +1,242 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"sigcomm\"/\"sigcomm1983\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"101.56"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"35",
+"@dc":"35",
+"@oc":"35",
+"@id":"17586182",
+"text":":facetid:toc:db/conf/sigcomm/sigcomm1983.bht"
+}
+},
+"hits":{
+"@total":"35",
+"@computed":"35",
+"@sent":"35",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"5347117",
+"info":{"authors":{"author":[{"@pid":"35/6440","text":"Ed Arthurs"},{"@pid":"45/3078","text":"Gregory L. Chesson"},{"@pid":"49/6236","text":"Bart W. Stuck"}]},"title":"Theoretical performance analysis of sliding window link level flow control for a local area network.","venue":"SIGCOMM","pages":"95-100","year":"1983","type":"Conference and Workshop Papers","key":"conf/sigcomm/ArthursCS83","doi":"10.1145/800034.800906","ee":"https://doi.org/10.1145/800034.800906","url":"https://dblp.org/rec/conf/sigcomm/ArthursCS83"},
+"url":"URL#5347117"
+},
+{
+"@score":"1",
+"@id":"5347118",
+"info":{"authors":{"author":{"@pid":"a/MStellaAtkins","text":"M. Stella Atkins"}},"title":"Exception handling in communication protocols.","venue":"SIGCOMM","pages":"67-72","year":"1983","type":"Conference and Workshop Papers","key":"conf/sigcomm/Atkins83","doi":"10.1145/800034.800903","ee":"https://doi.org/10.1145/800034.800903","url":"https://dblp.org/rec/conf/sigcomm/Atkins83"},
+"url":"URL#5347118"
+},
+{
+"@score":"1",
+"@id":"5347119",
+"info":{"authors":{"author":[{"@pid":"174/8327","text":"Mark Wm. Beckner"},{"@pid":"15/652","text":"Thomas J. J. Starr"}]},"title":"Graceful preemption for multi-link link layer protocols.","venue":"SIGCOMM","pages":"181-187","year":"1983","type":"Conference and Workshop Papers","key":"conf/sigcomm/BecknerS83","doi":"10.1145/800034.800918","ee":"https://doi.org/10.1145/800034.800918","url":"https://dblp.org/rec/conf/sigcomm/BecknerS83"},
+"url":"URL#5347119"
+},
+{
+"@score":"1",
+"@id":"5347120",
+"info":{"authors":{"author":{"@pid":"174/8318","text":"Hossein Besharatian"}},"title":"A methodology for the design of reliable communication networks in distributed processing systems.","venue":"SIGCOMM","pages":"131-140","year":"1983","type":"Conference and Workshop Papers","key":"conf/sigcomm/Besharatian83","doi":"10.1145/800034.800912","ee":"https://doi.org/10.1145/800034.800912","url":"https://dblp.org/rec/conf/sigcomm/Besharatian83"},
+"url":"URL#5347120"
+},
+{
+"@score":"1",
+"@id":"5347121",
+"info":{"authors":{"author":{"@pid":"174/8466","text":"Edmund L. Burke"}},"title":"Commercial network security - does anyone care?","venue":"SIGCOMM","pages":"123","year":"1983","type":"Conference and Workshop Papers","key":"conf/sigcomm/Burke83","doi":"10.1145/800034.800910","ee":"https://doi.org/10.1145/800034.800910","url":"https://dblp.org/rec/conf/sigcomm/Burke83"},
+"url":"URL#5347121"
+},
+{
+"@score":"1",
+"@id":"5347122",
+"info":{"authors":{"author":[{"@pid":"68/6327","text":"Nedo Celandroni"},{"@pid":"26/3617","text":"Erina Ferro"},{"@pid":"l/LucianoLenzini","text":"Luciano Lenzini"},{"@pid":"174/8380","text":"Ben M. Segal"},{"@pid":"174/8410","text":"Knut Sören Olofsson"}]},"title":"Architecture and protocols of STELLA - A European experiment on satellite interconnection of local area networks.","venue":"SIGCOMM","pages":"17-24","year":"1983","type":"Conference and Workshop Papers","key":"conf/sigcomm/CelandroniFLSO83","doi":"10.1145/800034.800896","ee":"https://doi.org/10.1145/800034.800896","url":"https://dblp.org/rec/conf/sigcomm/CelandroniFLSO83"},
+"url":"URL#5347122"
+},
+{
+"@score":"1",
+"@id":"5347123",
+"info":{"authors":{"author":{"@pid":"c/DRCheriton","text":"David R. Cheriton"}},"title":"Local networking and internetworking in the V-system.","venue":"SIGCOMM","pages":"9-16","year":"1983","type":"Conference and Workshop Papers","key":"conf/sigcomm/Cheriton83","doi":"10.1145/800034.800895","ee":"https://doi.org/10.1145/800034.800895","url":"https://dblp.org/rec/conf/sigcomm/Cheriton83"},
+"url":"URL#5347123"
+},
+{
+"@score":"1",
+"@id":"5347124",
+"info":{"authors":{"author":[{"@pid":"94/5713","text":"Tat Y. Choi"},{"@pid":"m/RaymondEMiller","text":"Raymond E. Miller"}]},"title":"A decomposition method for the analysis and design of finite state protocols.","venue":"SIGCOMM","pages":"167-176","year":"1983","type":"Conference and Workshop Papers","key":"conf/sigcomm/ChoiM83","doi":"10.1145/800034.800916","ee":"https://doi.org/10.1145/800034.800916","url":"https://dblp.org/rec/conf/sigcomm/ChoiM83"},
+"url":"URL#5347124"
+},
+{
+"@score":"1",
+"@id":"5347125",
+"info":{"authors":{"author":{"@pid":"174/8482","text":"N. N. Y. Chu"}},"title":"Internetting between VAX and Apollo ring network.","venue":"SIGCOMM","pages":"3-8","year":"1983","type":"Conference and Workshop Papers","key":"conf/sigcomm/Chu83","doi":"10.1145/800034.800894","ee":"https://doi.org/10.1145/800034.800894","url":"https://dblp.org/rec/conf/sigcomm/Chu83"},
+"url":"URL#5347125"
+},
+{
+"@score":"1",
+"@id":"5347126",
+"info":{"authors":{"author":{"@pid":"96/581","text":"Danny Cohen"}},"title":"Real-time packet video over satellite channels.","venue":"SIGCOMM","pages":"40-47","year":"1983","type":"Conference and Workshop Papers","key":"conf/sigcomm/Cohen83","doi":"10.1145/800034.800900","ee":"https://doi.org/10.1145/800034.800900","url":"https://dblp.org/rec/conf/sigcomm/Cohen83"},
+"url":"URL#5347126"
+},
+{
+"@score":"1",
+"@id":"5347127",
+"info":{"authors":{"author":[{"@pid":"174/8303","text":"Wilfredo A. Colon-Castro"},{"@pid":"174/8381","text":"Deborah A. Kirkman"}]},"title":"Interfaces between protocol layers on a multiprocessor system.","venue":"SIGCOMM","pages":"229-233","year":"1983","type":"Conference and Workshop Papers","key":"conf/sigcomm/Colon-CastroK83","doi":"10.1145/800034.800924","ee":"https://doi.org/10.1145/800034.800924","url":"https://dblp.org/rec/conf/sigcomm/Colon-CastroK83"},
+"url":"URL#5347127"
+},
+{
+"@score":"1",
+"@id":"5347128",
+"info":{"authors":{"author":[{"@pid":"00/6024","text":"Yaron I. Gold"},{"@pid":"m/ShlomoMoran","text":"Shlomo Moran"}]},"title":"Dynamic selection of a performance-effective transmission sequence for token-passing networks with mobile nodes.","venue":"SIGCOMM","pages":"177-180","year":"1983","type":"Conference and Workshop Papers","key":"conf/sigcomm/GoldM83","doi":"10.1145/800034.800917","ee":"https://doi.org/10.1145/800034.800917","url":"https://dblp.org/rec/conf/sigcomm/GoldM83"},
+"url":"URL#5347128"
+},
+{
+"@score":"1",
+"@id":"5347129",
+"info":{"authors":{"author":[{"@pid":"174/8344","text":"J. R. Hill"},{"@pid":"174/8320","text":"J. R. Severyn"},{"@pid":"31/727","text":"P. J. VanArsdall"}]},"title":"Novanet communications network for a control system.","venue":"SIGCOMM","pages":"113-118","year":"1983","type":"Conference and Workshop Papers","key":"conf/sigcomm/HillSV83","doi":"10.1145/800034.800908","ee":"https://doi.org/10.1145/800034.800908","url":"https://dblp.org/rec/conf/sigcomm/HillSV83"},
+"url":"URL#5347129"
+},
+{
+"@score":"1",
+"@id":"5347130",
+"info":{"authors":{"author":[{"@pid":"j/PhilippeAJanson","text":"Philippe A. Janson"},{"@pid":"76/5566","text":"Liba Svobodova"},{"@pid":"174/8384","text":"E. Maehle"}]},"title":"Filing and printing services on a local-area network.","venue":"SIGCOMM","pages":"211-220","year":"1983","type":"Conference and Workshop Papers","key":"conf/sigcomm/JansonSM83","doi":"10.1145/800034.800922","ee":"https://doi.org/10.1145/800034.800922","url":"https://dblp.org/rec/conf/sigcomm/JansonSM83"},
+"url":"URL#5347130"
+},
+{
+"@score":"1",
+"@id":"5347131",
+"info":{"authors":{"author":{"@pid":"35/5231","text":"Karl Kümmerle"}},"title":"Establishment communication systems - LAN&apos;s or PABX&apos;s - which is better?","venue":"SIGCOMM","pages":"199-200","year":"1983","type":"Conference and Workshop Papers","key":"conf/sigcomm/Kummerle83","doi":"10.1145/800034.800920","ee":"https://doi.org/10.1145/800034.800920","url":"https://dblp.org/rec/conf/sigcomm/Kummerle83"},
+"url":"URL#5347131"
+},
+{
+"@score":"1",
+"@id":"5347132",
+"info":{"authors":{"author":[{"@pid":"70/5438","text":"Franklin Kuo"},{"@pid":"35/1624","text":"Debra Deutsch"},{"@pid":"99/791","text":"Harry C. Forsdick"},{"@pid":"g/JJGarciaLunaAceves","text":"J. J. Garcia-Luna-Aceves"},{"@pid":"61/5061","text":"Najah Naffah"},{"@pid":"13/6672","text":"Andrew A. Poggio"},{"@pid":"20/5344","text":"Jonathan B. Postel"},{"@pid":"85/6253","text":"James E. White"}]},"title":"Panel on multimedia computer mail - technical issues and future standards.","venue":"SIGCOMM","pages":"191-196","year":"1983","type":"Conference and Workshop Papers","key":"conf/sigcomm/KuoDFGNPPW83","doi":"10.1145/800034.800919","ee":"https://doi.org/10.1145/800034.800919","url":"https://dblp.org/rec/conf/sigcomm/KuoDFGNPPW83"},
+"url":"URL#5347132"
+},
+{
+"@score":"1",
+"@id":"5347133",
+"info":{"authors":{"author":[{"@pid":"k/JamesFKurose","text":"James F. Kurose"},{"@pid":"06/6970","text":"Mischa Schwartz"},{"@pid":"y/YechiamYemini","text":"Yechiam Yemini"}]},"title":"Controlling window protocols for time-constrained communication in a multiple access environment.","venue":"SIGCOMM","pages":"75-84","year":"1983","type":"Conference and Workshop Papers","key":"conf/sigcomm/KuroseSY83","doi":"10.1145/800034.800904","ee":"https://doi.org/10.1145/800034.800904","url":"https://dblp.org/rec/conf/sigcomm/KuroseSY83"},
+"url":"URL#5347133"
+},
+{
+"@score":"1",
+"@id":"5347134",
+"info":{"authors":{"author":[{"@pid":"35/4711","text":"Huai-An Lin"},{"@pid":"l/MingTLiu","text":"Ming T. Liu"},{"@pid":"70/9213","text":"Charles J. Graff"}]},"title":"Verification of a methodology for designing reliable communication protocols.","venue":"SIGCOMM","pages":"141-149","year":"1983","type":"Conference and Workshop Papers","key":"conf/sigcomm/LinLG83","doi":"10.1145/800034.800913","ee":"https://doi.org/10.1145/800034.800913","url":"https://dblp.org/rec/conf/sigcomm/LinLG83"},
+"url":"URL#5347134"
+},
+{
+"@score":"1",
+"@id":"5347135",
+"info":{"authors":{"author":{"@pid":"m/PaulVMockapetris","text":"Paul V. Mockapetris"}},"title":"Analysis of reliable multicast algorithms for local networks.","venue":"SIGCOMM","pages":"150-157","year":"1983","type":"Conference and Workshop Papers","key":"conf/sigcomm/Mockapetris83","doi":"10.1145/800034.800914","ee":"https://doi.org/10.1145/800034.800914","url":"https://dblp.org/rec/conf/sigcomm/Mockapetris83"},
+"url":"URL#5347135"
+},
+{
+"@score":"1",
+"@id":"5347136",
+"info":{"authors":{"author":[{"@pid":"31/5049","text":"Toshihiko Nakayama"},{"@pid":"06/4655","text":"Yoshihiro Shimazu"},{"@pid":"174/8408","text":"Katsuhiko Haruta"}]},"title":"A message handling system for public networks.","venue":"SIGCOMM","pages":"103-111","year":"1983","type":"Conference and Workshop Papers","key":"conf/sigcomm/NakayamaSH83","doi":"10.1145/800034.800907","ee":"https://doi.org/10.1145/800034.800907","url":"https://dblp.org/rec/conf/sigcomm/NakayamaSH83"},
+"url":"URL#5347136"
+},
+{
+"@score":"1",
+"@id":"5347137",
+"info":{"authors":{"author":[{"@pid":"n/LionelMNi","text":"Lionel M. Ni"},{"@pid":"97/2724","text":"Xianji Li"}]},"title":"Prioritizing packet transmission in local multiaccess networks.","venue":"SIGCOMM","pages":"234-244","year":"1983","type":"Conference and Workshop Papers","key":"conf/sigcomm/NiL83","doi":"10.1145/800034.800925","ee":"https://doi.org/10.1145/800034.800925","url":"https://dblp.org/rec/conf/sigcomm/NiL83"},
+"url":"URL#5347137"
+},
+{
+"@score":"1",
+"@id":"5347138",
+"info":{"authors":{"author":[{"@pid":"79/6424","text":"William R. Nugent"},{"@pid":"174/8314","text":"Jessica R. Harding"}]},"title":"Beyond videotex - The library of congress pilot project in page image retrieval and transmission digital optical disk.","venue":"SIGCOMM","pages":"39","year":"1983","type":"Conference and Workshop Papers","key":"conf/sigcomm/NugentH83","doi":"10.1145/800034.800899","ee":"https://doi.org/10.1145/800034.800899","url":"https://dblp.org/rec/conf/sigcomm/NugentH83"},
+"url":"URL#5347138"
+},
+{
+"@score":"1",
+"@id":"5347139",
+"info":{"authors":{"author":[{"@pid":"79/6424","text":"William R. Nugent"},{"@pid":"174/8314","text":"Jessica R. Harding"}]},"title":"Optical storage of page images and pictorial data - opportunities and needed advances in information retrieval.","venue":"SIGCOMM","pages":"257-260","year":"1983","type":"Conference and Workshop Papers","key":"conf/sigcomm/NugentH83a","doi":"10.1145/800034.800927","ee":"https://doi.org/10.1145/800034.800927","url":"https://dblp.org/rec/conf/sigcomm/NugentH83a"},
+"url":"URL#5347139"
+},
+{
+"@score":"1",
+"@id":"5347140",
+"info":{"authors":{"author":{"@pid":"87/2370","text":"Radia J. Perlman"}},"title":"Incorporation of multiaccess links into a routing protocol.","venue":"SIGCOMM","pages":"85-94","year":"1983","type":"Conference and Workshop Papers","key":"conf/sigcomm/Perlman83","doi":"10.1145/800034.800905","ee":"https://doi.org/10.1145/800034.800905","url":"https://dblp.org/rec/conf/sigcomm/Perlman83"},
+"url":"URL#5347140"
+},
+{
+"@score":"1",
+"@id":"5347141",
+"info":{"authors":{"author":{"@pid":"p/RaduPopescuZeletin","text":"Radu Popescu-Zeletin"}},"title":"Implementing the ISO-OSI reference model.","venue":"SIGCOMM","pages":"56-66","year":"1983","type":"Conference and Workshop Papers","key":"conf/sigcomm/Popescu-Zeletin83","doi":"10.1145/800034.800902","ee":"https://doi.org/10.1145/800034.800902","url":"https://dblp.org/rec/conf/sigcomm/Popescu-Zeletin83"},
+"url":"URL#5347141"
+},
+{
+"@score":"1",
+"@id":"5347142",
+"info":{"authors":{"author":[{"@pid":"42/3562","text":"Avi Rushinek"},{"@pid":"49/6367","text":"Sara F. Rushinek"}]},"title":"Access and communication controls in an accounting information system.","venue":"SIGCOMM","pages":"119-120","year":"1983","type":"Conference and Workshop Papers","key":"conf/sigcomm/RushinekR83","doi":"10.1145/800034.800909","ee":"https://doi.org/10.1145/800034.800909","url":"https://dblp.org/rec/conf/sigcomm/RushinekR83"},
+"url":"URL#5347142"
+},
+{
+"@score":"1",
+"@id":"5347143",
+"info":{"authors":{"author":{"@pid":"174/8356","text":"Russ Shurig"}},"title":"Office information and telecommunications.","venue":"SIGCOMM","pages":"35-38","year":"1983","type":"Conference and Workshop Papers","key":"conf/sigcomm/Shurig83","doi":"10.1145/800034.800898","ee":"https://doi.org/10.1145/800034.800898","url":"https://dblp.org/rec/conf/sigcomm/Shurig83"},
+"url":"URL#5347143"
+},
+{
+"@score":"1",
+"@id":"5347144",
+"info":{"authors":{"author":{"@pid":"174/8461","text":"Zaw-Sing Su"}},"title":"Identification in computer networks.","venue":"SIGCOMM","pages":"51-55","year":"1983","type":"Conference and Workshop Papers","key":"conf/sigcomm/Su83","doi":"10.1145/800034.800901","ee":"https://doi.org/10.1145/800034.800901","url":"https://dblp.org/rec/conf/sigcomm/Su83"},
+"url":"URL#5347144"
+},
+{
+"@score":"1",
+"@id":"5347145",
+"info":{"authors":{"author":[{"@pid":"09/6115","text":"Carl A. Sunshine"},{"@pid":"31/5818","text":"D. Kaufman"},{"@pid":"29/2371","text":"Gregory Ennis"},{"@pid":"174/8365","text":"K. Biba"}]},"title":"Interconnection of broadband local area networks.","venue":"SIGCOMM","pages":"25-32","year":"1983","type":"Conference and Workshop Papers","key":"conf/sigcomm/SunshineKEB83","doi":"10.1145/800034.800897","ee":"https://doi.org/10.1145/800034.800897","url":"https://dblp.org/rec/conf/sigcomm/SunshineKEB83"},
+"url":"URL#5347145"
+},
+{
+"@score":"1",
+"@id":"5347146",
+"info":{"authors":{"author":[{"@pid":"174/8454","text":"Pearl S.-C. Wang"},{"@pid":"24/2887","text":"Stephen R. Kimbleton"}]},"title":"A function oriented corporate network.","venue":"SIGCOMM","pages":"203-210","year":"1983","type":"Conference and Workshop Papers","key":"conf/sigcomm/WangK83","doi":"10.1145/800034.800921","ee":"https://doi.org/10.1145/800034.800921","url":"https://dblp.org/rec/conf/sigcomm/WangK83"},
+"url":"URL#5347146"
+},
+{
+"@score":"1",
+"@id":"5347147",
+"info":{"authors":{"author":[{"@pid":"68/5524","text":"Johnny W. Wong"},{"@pid":"83/5507","text":"Gita Gopal"}]},"title":"Analysis of reliable broadcast in local-area networks.","venue":"SIGCOMM","pages":"158-163","year":"1983","type":"Conference and Workshop Papers","key":"conf/sigcomm/WongG83","doi":"10.1145/800034.800915","ee":"https://doi.org/10.1145/800034.800915","url":"https://dblp.org/rec/conf/sigcomm/WongG83"},
+"url":"URL#5347147"
+},
+{
+"@score":"1",
+"@id":"5347148",
+"info":{"authors":{"author":{"@pid":"w/CMurrayWoodside","text":"C. Murray Woodside"}},"title":"Performance potential of communications interface processors.","venue":"SIGCOMM","pages":"245-253","year":"1983","type":"Conference and Workshop Papers","key":"conf/sigcomm/Woodside83","doi":"10.1145/800034.800926","ee":"https://doi.org/10.1145/800034.800926","url":"https://dblp.org/rec/conf/sigcomm/Woodside83"},
+"url":"URL#5347148"
+},
+{
+"@score":"1",
+"@id":"5347149",
+"info":{"authors":{"author":{"@pid":"76/3666","text":"J. Yao"}},"title":"Network security considerations in BLN.","venue":"SIGCOMM","pages":"124-127","year":"1983","type":"Conference and Workshop Papers","key":"conf/sigcomm/Yao83","doi":"10.1145/800034.800911","ee":"https://doi.org/10.1145/800034.800911","url":"https://dblp.org/rec/conf/sigcomm/Yao83"},
+"url":"URL#5347149"
+},
+{
+"@score":"1",
+"@id":"5347150",
+"info":{"authors":{"author":{"@pid":"174/8496","text":"Mark Yudkin"}},"title":"Resource management in a distributed system.","venue":"SIGCOMM","pages":"221-226","year":"1983","type":"Conference and Workshop Papers","key":"conf/sigcomm/Yudkin83","doi":"10.1145/800034.800923","ee":"https://doi.org/10.1145/800034.800923","url":"https://dblp.org/rec/conf/sigcomm/Yudkin83"},
+"url":"URL#5347150"
+},
+{
+"@score":"1",
+"@id":"5347924",
+"info":{"authors":{"author":[{"@pid":"41/1048","text":"Kenneth J. Thurber"},{"@pid":"74/3235","text":"William Lidinsky"}]},"title":"SIGCOMM &apos;83, Proceedings of the Eighth Symposium on Data Communications, North Falmouth, Massachusetts, USA, October 3-6, 1983","venue":"SIGCOMM","publisher":"ACM","year":"1983","type":"Editorship","key":"conf/sigcomm/1983","doi":"10.1145/800034","ee":"https://doi.org/10.1145/800034","url":"https://dblp.org/rec/conf/sigcomm/1983"},
+"url":"URL#5347924"
+}
+]
+}
+}
+}

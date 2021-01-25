@@ -1,0 +1,194 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"sigcomm\"/\"sigcomm2000\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"150.22"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"27",
+"@dc":"27",
+"@oc":"27",
+"@id":"17586197",
+"text":":facetid:toc:db/conf/sigcomm/sigcomm2000.bht"
+}
+},
+"hits":{
+"@total":"27",
+"@computed":"27",
+"@sent":"27",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"4776396",
+"info":{"authors":{"author":[{"@pid":"a/EitanAltman","text":"Eitan Altman"},{"@pid":"a/KonstantinAvrachenkov","text":"Konstantin Avrachenkov"},{"@pid":"63/5559","text":"Chadi Barakat"}]},"title":"A stochastic model of TCP/IP with stationary random.","venue":"SIGCOMM","pages":"231-242","year":"2000","type":"Conference and Workshop Papers","key":"conf/sigcomm/AltmanAB00","doi":"10.1145/347059.347549","ee":"https://doi.org/10.1145/347059.347549","url":"https://dblp.org/rec/conf/sigcomm/AltmanAB00"},
+"url":"URL#4776396"
+},
+{
+"@score":"1",
+"@id":"4776397",
+"info":{"authors":{"author":[{"@pid":"b/FrancoisBaccelli","text":"François Baccelli"},{"@pid":"89/4624","text":"Dohy Hong"}]},"title":"TCP is max-plus linear - and what tells us on its throughput.","venue":"SIGCOMM","pages":"219-230","year":"2000","type":"Conference and Workshop Papers","key":"conf/sigcomm/BaccelliH00","doi":"10.1145/347059.347548","ee":"https://doi.org/10.1145/347059.347548","url":"https://dblp.org/rec/conf/sigcomm/BaccelliH00"},
+"url":"URL#4776397"
+},
+{
+"@score":"1",
+"@id":"4776398",
+"info":{"authors":{"author":[{"@pid":"b/PaulBarford","text":"Paul Barford"},{"@pid":"c/MarkCrovella","text":"Mark Crovella"}]},"title":"Critical path analysis of TCP transactions.","venue":"SIGCOMM","pages":"127-138","year":"2000","type":"Conference and Workshop Papers","key":"conf/sigcomm/BarfordC00","doi":"10.1145/347059.347416","ee":"https://doi.org/10.1145/347059.347416","url":"https://dblp.org/rec/conf/sigcomm/BarfordC00"},
+"url":"URL#4776398"
+},
+{
+"@score":"1",
+"@id":"4776399",
+"info":{"authors":{"author":[{"@pid":"18/4100","text":"Lee Breslau"},{"@pid":"k/EWKnightly","text":"Edward W. Knightly"},{"@pid":"34/5593","text":"Scott Shenker"},{"@pid":"s/IonStoica","text":"Ion Stoica"},{"@pid":"z/HuiZhang1","text":"Hui Zhang 0001"}]},"title":"Endpoint admission control - Architectural issues and performance.","venue":"SIGCOMM","pages":"57-69","year":"2000","type":"Conference and Workshop Papers","key":"conf/sigcomm/BreslauKSSZ00","doi":"10.1145/347059.347400","ee":"https://doi.org/10.1145/347059.347400","url":"https://dblp.org/rec/conf/sigcomm/BreslauKSSZ00"},
+"url":"URL#4776399"
+},
+{
+"@score":"1",
+"@id":"4776400",
+"info":{"authors":{"author":[{"@pid":"80/1812","text":"Mikkel Christiansen"},{"@pid":"j/KevinJeffay","text":"Kevin Jeffay"},{"@pid":"49/219","text":"David Ott"},{"@pid":"s/FDonelsonSmith","text":"F. Donelson Smith"}]},"title":"Tuning RED for web traffic.","venue":"SIGCOMM","pages":"139-150","year":"2000","type":"Conference and Workshop Papers","key":"conf/sigcomm/ChristiansenJOS00","doi":"10.1145/347059.347418","ee":"https://doi.org/10.1145/347059.347418","url":"https://dblp.org/rec/conf/sigcomm/ChristiansenJOS00"},
+"url":"URL#4776400"
+},
+{
+"@score":"1",
+"@id":"4776401",
+"info":{"authors":{"author":[{"@pid":"d/NickGDuffield","text":"Nick G. Duffield"},{"@pid":"g/MGrossglauser","text":"Matthias Grossglauser"}]},"title":"Trajectory sampling for direct traffic observation.","venue":"SIGCOMM","pages":"271-282","year":"2000","type":"Conference and Workshop Papers","key":"conf/sigcomm/DuffieldG00","doi":"10.1145/347059.347555","ee":"https://doi.org/10.1145/347059.347555","url":"https://dblp.org/rec/conf/sigcomm/DuffieldG00"},
+"url":"URL#4776401"
+},
+{
+"@score":"1",
+"@id":"4776402",
+"info":{"authors":{"author":[{"@pid":"f/AnjaFeldmann","text":"Anja Feldmann"},{"@pid":"g/AlbertGGreenberg","text":"Albert G. Greenberg"},{"@pid":"l/CarstenLund","text":"Carsten Lund"},{"@pid":"91/1199","text":"Nick Reingold"},{"@pid":"r/JenniferRexford","text":"Jennifer Rexford"},{"@pid":"27/1676","text":"Fred True"}]},"title":"Deriving traffic demands for operational IP networks - methodology and experience.","venue":"SIGCOMM","pages":"257-270","year":"2000","type":"Conference and Workshop Papers","key":"conf/sigcomm/FeldmannGLRRT00","doi":"10.1145/347059.347554","ee":"https://doi.org/10.1145/347059.347554","url":"https://dblp.org/rec/conf/sigcomm/FeldmannGLRRT00"},
+"url":"URL#4776402"
+},
+{
+"@score":"1",
+"@id":"4776403",
+"info":{"authors":{"author":[{"@pid":"25/1323","text":"Sally Floyd"},{"@pid":"h/MarkHandley","text":"Mark Handley"},{"@pid":"p/JPadhye","text":"Jitendra Padhye"},{"@pid":"07/3803","text":"Jörg Widmer"}]},"title":"Equation-based congestion control for unicast applications.","venue":"SIGCOMM","pages":"43-56","year":"2000","type":"Conference and Workshop Papers","key":"conf/sigcomm/FloydHPW00","doi":"10.1145/347059.347397","ee":"https://doi.org/10.1145/347059.347397","url":"https://dblp.org/rec/conf/sigcomm/FloydHPW00"},
+"url":"URL#4776403"
+},
+{
+"@score":"1",
+"@id":"4776404",
+"info":{"authors":{"author":[{"@pid":"k/DinaKatabi","text":"Dina Katabi"},{"@pid":"92/3944","text":"John Wroclawski"}]},"title":"A framework for scalable global IP-anycast (GIA).","venue":"SIGCOMM","pages":"3-15","year":"2000","type":"Conference and Workshop Papers","key":"conf/sigcomm/KatabiW00","doi":"10.1145/347059.347388","ee":"https://doi.org/10.1145/347059.347388","url":"https://dblp.org/rec/conf/sigcomm/KatabiW00"},
+"url":"URL#4776404"
+},
+{
+"@score":"1",
+"@id":"4776405",
+"info":{"authors":{"author":[{"@pid":"89/7016","text":"Balachander Krishnamurthy"},{"@pid":"58/6299-1","text":"Jia Wang 0001"}]},"title":"On network-aware clustering of web clients.","venue":"SIGCOMM","pages":"97-110","year":"2000","type":"Conference and Workshop Papers","key":"conf/sigcomm/KrishnamurthyW00","doi":"10.1145/347059.347412","ee":"https://doi.org/10.1145/347059.347412","url":"https://dblp.org/rec/conf/sigcomm/KrishnamurthyW00"},
+"url":"URL#4776405"
+},
+{
+"@score":"1",
+"@id":"4776406",
+"info":{"authors":{"author":[{"@pid":"77/4275","text":"Craig Labovitz"},{"@pid":"12/5908","text":"Abha Ahuja"},{"@pid":"83/3253","text":"Abhijit Bose"},{"@pid":"90/6277","text":"Farnam Jahanian"}]},"title":"Delayed internet routing convergence.","venue":"SIGCOMM","pages":"175-187","year":"2000","type":"Conference and Workshop Papers","key":"conf/sigcomm/LabovitzABJ00","doi":"10.1145/347059.347428","ee":"https://doi.org/10.1145/347059.347428","url":"https://dblp.org/rec/conf/sigcomm/LabovitzABJ00"},
+"url":"URL#4776406"
+},
+{
+"@score":"1",
+"@id":"4776407",
+"info":{"authors":{"author":[{"@pid":"83/713","text":"Kevin Lai"},{"@pid":"b/MaryBaker","text":"Mary Baker"}]},"title":"Measuring link bandwidths using a deterministic model of packet delay.","venue":"SIGCOMM","pages":"283-294","year":"2000","type":"Conference and Workshop Papers","key":"conf/sigcomm/LaiB00","doi":"10.1145/347059.347557","ee":"https://doi.org/10.1145/347059.347557","url":"https://dblp.org/rec/conf/sigcomm/LaiB00"},
+"url":"URL#4776407"
+},
+{
+"@score":"1",
+"@id":"4776408",
+"info":{"authors":{"author":[{"@pid":"72/2578","text":"Peter J. McCann"},{"@pid":"c/SatishChandra","text":"Satish Chandra 0001"}]},"title":"Packet Types - Abstract specifications of network protocol messages.","venue":"SIGCOMM","pages":"321-333","year":"2000","type":"Conference and Workshop Papers","key":"conf/sigcomm/McCannC00","doi":"10.1145/347059.347563","ee":"https://doi.org/10.1145/347059.347563","url":"https://dblp.org/rec/conf/sigcomm/McCannC00"},
+"url":"URL#4776408"
+},
+{
+"@score":"1",
+"@id":"4776409",
+"info":{"authors":{"author":[{"@pid":"29/6724","text":"Vishal Misra"},{"@pid":"g/WeiboGong","text":"Weibo Gong"},{"@pid":"t/DonaldFTowsley","text":"Donald F. Towsley"}]},"title":"Fluid-based analysis of a network of AQM routers supporting TCP flows with an application to RED.","venue":"SIGCOMM","pages":"151-160","year":"2000","type":"Conference and Workshop Papers","key":"conf/sigcomm/MisraGT00","doi":"10.1145/347059.347421","ee":"https://doi.org/10.1145/347059.347421","url":"https://dblp.org/rec/conf/sigcomm/MisraGT00"},
+"url":"URL#4776409"
+},
+{
+"@score":"1",
+"@id":"4776410",
+"info":{"authors":{"author":[{"@pid":"p/VenkataNPadmanabhan","text":"Venkata N. Padmanabhan"},{"@pid":"54/4031","text":"Lili Qiu"}]},"title":"The content and access dynamics of a busy web site - findings and implicatins.","venue":"SIGCOMM","pages":"111-123","year":"2000","type":"Conference and Workshop Papers","key":"conf/sigcomm/PadmanabhanQ00","doi":"10.1145/347059.347413","ee":"https://doi.org/10.1145/347059.347413","url":"https://dblp.org/rec/conf/sigcomm/PadmanabhanQ00"},
+"url":"URL#4776410"
+},
+{
+"@score":"1",
+"@id":"4776411",
+"info":{"authors":{"author":[{"@pid":"45/6587","text":"Craig Partridge"},{"@pid":"s/AlexCSnoeren","text":"Alex C. Snoeren"},{"@pid":"55/691","text":"W. Timothy Strayer"},{"@pid":"46/204","text":"Beverly Schwartz"},{"@pid":"95/2929","text":"Matthew Condell"},{"@pid":"76/2817","text":"Isidro Castiñeyra"}]},"title":"FIRE - Flexible intra-AS routing environment.","venue":"SIGCOMM","pages":"191-203","year":"2000","type":"Conference and Workshop Papers","key":"conf/sigcomm/PartridgeSSSCC00","doi":"10.1145/347059.347544","ee":"https://doi.org/10.1145/347059.347544","url":"https://dblp.org/rec/conf/sigcomm/PartridgeSSSCC00"},
+"url":"URL#4776411"
+},
+{
+"@score":"1",
+"@id":"4776412",
+"info":{"authors":{"author":[{"@pid":"48/5626","text":"Anoop Reddy"},{"@pid":"g/RameshGovindan","text":"Ramesh Govindan"},{"@pid":"e/DeborahEstrin","text":"Deborah Estrin"}]},"title":"Fault isolation in multicast trees.","venue":"SIGCOMM","pages":"29-40","year":"2000","type":"Conference and Workshop Papers","key":"conf/sigcomm/ReddyGE00","doi":"10.1145/347059.347395","ee":"https://doi.org/10.1145/347059.347395","url":"https://dblp.org/rec/conf/sigcomm/ReddyGE00"},
+"url":"URL#4776412"
+},
+{
+"@score":"1",
+"@id":"4776413",
+"info":{"authors":{"author":{"@pid":"27/3297","text":"Luigi Rizzo"}},"title":"pgmcc - a TCP-friendly single-rate multicast.","venue":"SIGCOMM","pages":"17-28","year":"2000","type":"Conference and Workshop Papers","key":"conf/sigcomm/Rizzo00","doi":"10.1145/347059.347390","ee":"https://doi.org/10.1145/347059.347390","url":"https://dblp.org/rec/conf/sigcomm/Rizzo00"},
+"url":"URL#4776413"
+},
+{
+"@score":"1",
+"@id":"4776414",
+"info":{"authors":{"author":[{"@pid":"r/TLRodeheffer","text":"Thomas L. Rodeheffer"},{"@pid":"13/3927","text":"Chandramohan A. Thekkath"},{"@pid":"47/721","text":"Darrell C. Anderson"}]},"title":"SmartBridge - A scalable bridge architecture.","venue":"SIGCOMM","pages":"205-216","year":"2000","type":"Conference and Workshop Papers","key":"conf/sigcomm/RodehefferTA00","doi":"10.1145/347059.347546","ee":"https://doi.org/10.1145/347059.347546","url":"https://dblp.org/rec/conf/sigcomm/RodehefferTA00"},
+"url":"URL#4776414"
+},
+{
+"@score":"1",
+"@id":"4776415",
+"info":{"authors":{"author":[{"@pid":"s/StefanSavage","text":"Stefan Savage"},{"@pid":"w/DavidWetherall","text":"David Wetherall"},{"@pid":"k/AnnaRKarlin","text":"Anna R. Karlin"},{"@pid":"a/ThomasEAnderson","text":"Thomas E. Anderson"}]},"title":"Practical network support for IP traceback.","venue":"SIGCOMM","pages":"295-306","year":"2000","type":"Conference and Workshop Papers","key":"conf/sigcomm/SavageWKA00","doi":"10.1145/347059.347560","ee":"https://doi.org/10.1145/347059.347560","url":"https://dblp.org/rec/conf/sigcomm/SavageWKA00"},
+"url":"URL#4776415"
+},
+{
+"@score":"1",
+"@id":"4776416",
+"info":{"authors":{"author":[{"@pid":"s/AmanShaikh","text":"Aman Shaikh"},{"@pid":"37/602","text":"Anujan Varma"},{"@pid":"55/3001","text":"Lampros Kalampoukas"},{"@pid":"15/6310","text":"Rohit Dube"}]},"title":"Routability stability in congested networks - experimentation and analysis.","venue":"SIGCOMM","pages":"163-174","year":"2000","type":"Conference and Workshop Papers","key":"conf/sigcomm/ShaikhVKD00","doi":"10.1145/347059.347426","ee":"https://doi.org/10.1145/347059.347426","url":"https://dblp.org/rec/conf/sigcomm/ShaikhVKD00"},
+"url":"URL#4776416"
+},
+{
+"@score":"1",
+"@id":"4776417",
+"info":{"authors":{"author":[{"@pid":"85/478","text":"Sandeep Sikka"},{"@pid":"v/GeorgeVarghese","text":"George Varghese"}]},"title":"Memory-efficient state lookups with fast updates.","venue":"SIGCOMM","pages":"335-347","year":"2000","type":"Conference and Workshop Papers","key":"conf/sigcomm/SikkaV00","doi":"10.1145/347059.347565","ee":"https://doi.org/10.1145/347059.347565","url":"https://dblp.org/rec/conf/sigcomm/SikkaV00"},
+"url":"URL#4776417"
+},
+{
+"@score":"1",
+"@id":"4776418",
+"info":{"authors":{"author":[{"@pid":"s/NeilTSpring","text":"Neil T. Spring"},{"@pid":"w/DavidWetherall","text":"David Wetherall"}]},"title":"A protocol-independent technique for eliminating redundant network traffic.","venue":"SIGCOMM","pages":"87-95","year":"2000","type":"Conference and Workshop Papers","key":"conf/sigcomm/SpringW00","doi":"10.1145/347059.347408","ee":"https://doi.org/10.1145/347059.347408","url":"https://dblp.org/rec/conf/sigcomm/SpringW00"},
+"url":"URL#4776418"
+},
+{
+"@score":"1",
+"@id":"4776419",
+"info":{"authors":{"author":[{"@pid":"37/2350","text":"Jonathan Stone"},{"@pid":"45/6587","text":"Craig Partridge"}]},"title":"When the CRC and TCP checksum disagree.","venue":"SIGCOMM","pages":"309-319","year":"2000","type":"Conference and Workshop Papers","key":"conf/sigcomm/StoneP00","doi":"10.1145/347059.347561","ee":"https://doi.org/10.1145/347059.347561","url":"https://dblp.org/rec/conf/sigcomm/StoneP00"},
+"url":"URL#4776419"
+},
+{
+"@score":"1",
+"@id":"4776420",
+"info":{"authors":{"author":[{"@pid":"96/5487","text":"Andras Veres"},{"@pid":"13/4906","text":"Zsolt Kenesi"},{"@pid":"32/5556","text":"Sándor Molnár"},{"@pid":"82/6832","text":"Gábor Vattay"}]},"title":"On the proagation of long-range dependence in the internet.","venue":"SIGCOMM","pages":"243-254","year":"2000","type":"Conference and Workshop Papers","key":"conf/sigcomm/VeresKMV00","doi":"10.1145/347059.347551","ee":"https://doi.org/10.1145/347059.347551","url":"https://dblp.org/rec/conf/sigcomm/VeresKMV00"},
+"url":"URL#4776420"
+},
+{
+"@score":"1",
+"@id":"4776421",
+"info":{"authors":{"author":{"@pid":"07/5905","text":"Zhi-Li Zhang"}},"title":"Decoupling QoS control from core routers - A novel bandwidth broker architecture for scalable support of guaranteed services.","venue":"SIGCOMM","pages":"71-83","year":"2000","type":"Conference and Workshop Papers","key":"conf/sigcomm/Zhang00","doi":"10.1145/347059.347403","ee":"https://doi.org/10.1145/347059.347403","url":"https://dblp.org/rec/conf/sigcomm/Zhang00"},
+"url":"URL#4776421"
+},
+{
+"@score":"1",
+"@id":"4783238",
+"info":{"authors":{"author":{"@pid":"45/6587","text":"Craig Partridge"}},"title":"Proceedings of the ACM SIGCOMM 2000 Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication, August 28 - September 1, 2000, Stockholm, Sweden","venue":"SIGCOMM","publisher":"ACM","year":"2000","type":"Editorship","key":"conf/sigcomm/2000","doi":"10.1145/347059","ee":"https://doi.org/10.1145/347059","url":"https://dblp.org/rec/conf/sigcomm/2000"},
+"url":"URL#4783238"
+}
+]
+}
+}
+}

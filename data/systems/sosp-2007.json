@@ -1,0 +1,188 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"sosp\"/\"sosp2007\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"120.89"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"26",
+"@dc":"26",
+"@oc":"26",
+"@id":"17587897",
+"text":":facetid:toc:db/conf/sosp/sosp2007.bht"
+}
+},
+"hits":{
+"@total":"26",
+"@computed":"26",
+"@sent":"26",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"3950219",
+"info":{"authors":{"author":[{"@pid":"10/553","text":"Marcos Kawazoe Aguilera"},{"@pid":"40/3294","text":"Arif Merchant"},{"@pid":"s/MehulAShah","text":"Mehul A. Shah"},{"@pid":"28/2712","text":"Alistair C. Veitch"},{"@pid":"44/5092","text":"Christos T. Karamanolis"}]},"title":"Sinfonia - a new paradigm for building scalable distributed systems.","venue":"SOSP","pages":"159-174","year":"2007","type":"Conference and Workshop Papers","key":"conf/sosp/AguileraMSVK07","doi":"10.1145/1294261.1294278","ee":"https://doi.org/10.1145/1294261.1294278","url":"https://dblp.org/rec/conf/sosp/AguileraMSVK07"},
+"url":"URL#3950219"
+},
+{
+"@score":"1",
+"@id":"3950222",
+"info":{"authors":{"author":[{"@pid":"13/2794","text":"Stephen Chong"},{"@pid":"20/5913","text":"Jed Liu"},{"@pid":"m/AndrewCMyers","text":"Andrew C. Myers"},{"@pid":"63/216","text":"Xin Qi"},{"@pid":"25/378","text":"K. Vikram"},{"@pid":"95/3594","text":"Lantian Zheng"},{"@pid":"13/6922","text":"Xin Zheng"}]},"title":"Secure web application via automatic partitioning.","venue":"SOSP","pages":"31-44","year":"2007","type":"Conference and Workshop Papers","key":"conf/sosp/ChongLMQVZZ07","doi":"10.1145/1294261.1294265","ee":"https://doi.org/10.1145/1294261.1294265","url":"https://dblp.org/rec/conf/sosp/ChongLMQVZZ07"},
+"url":"URL#3950222"
+},
+{
+"@score":"1",
+"@id":"3950223",
+"info":{"authors":{"author":[{"@pid":"34/3515","text":"Byung-Gon Chun"},{"@pid":"m/PetrosManiatis","text":"Petros Maniatis"},{"@pid":"34/5593","text":"Scott Shenker"},{"@pid":"k/JohnKubiatowicz","text":"John Kubiatowicz"}]},"title":"Attested append-only memory - making adversaries stick to their word.","venue":"SOSP","pages":"189-204","year":"2007","type":"Conference and Workshop Papers","key":"conf/sosp/ChunMSK07","doi":"10.1145/1294261.1294280","ee":"https://doi.org/10.1145/1294261.1294280","url":"https://dblp.org/rec/conf/sosp/ChunMSK07"},
+"url":"URL#3950223"
+},
+{
+"@score":"1",
+"@id":"3950224",
+"info":{"authors":{"author":[{"@pid":"35/6770","text":"Manuel Costa"},{"@pid":"c/MiguelCastro","text":"Miguel Castro 0001"},{"@pid":"z/LidongZhou","text":"Lidong Zhou"},{"@pid":"94/5689","text":"Lintao Zhang"},{"@pid":"56/6925","text":"Marcus Peinado"}]},"title":"Bouncer - securing software by blocking bad input.","venue":"SOSP","pages":"117-130","year":"2007","type":"Conference and Workshop Papers","key":"conf/sosp/CostaCZZP07","doi":"10.1145/1294261.1294274","ee":"https://doi.org/10.1145/1294261.1294274","url":"https://dblp.org/rec/conf/sosp/CostaCZZP07"},
+"url":"URL#3950224"
+},
+{
+"@score":"1",
+"@id":"3950225",
+"info":{"authors":{"author":[{"@pid":"30/2206","text":"Olivier Crameri"},{"@pid":"47/5273","text":"Nikola Knezevic"},{"@pid":"03/3188","text":"Dejan Kostic"},{"@pid":"85/2722","text":"Ricardo Bianchini"},{"@pid":"z/WZwaenepoel","text":"Willy Zwaenepoel"}]},"title":"Staged deployment in mirage, an integrated software upgrade testing and distribution system.","venue":"SOSP","pages":"221-236","year":"2007","type":"Conference and Workshop Papers","key":"conf/sosp/CrameriKKBZ07","doi":"10.1145/1294261.1294283","ee":"https://doi.org/10.1145/1294261.1294283","url":"https://dblp.org/rec/conf/sosp/CrameriKKBZ07"},
+"url":"URL#3950225"
+},
+{
+"@score":"1",
+"@id":"3950226",
+"info":{"authors":{"author":[{"@pid":"03/2122","text":"John Criswell"},{"@pid":"15/2621","text":"Andrew Lenharth"},{"@pid":"15/179","text":"Dinakar Dhurjati"},{"@pid":"78/4438","text":"Vikram S. Adve"}]},"title":"Secure virtual architecture - a safe execution environment for commodity operating systems.","venue":"SOSP","pages":"351-366","year":"2007","type":"Conference and Workshop Papers","key":"conf/sosp/CriswellLDA07","doi":"10.1145/1294261.1294295","ee":"https://doi.org/10.1145/1294261.1294295","url":"https://dblp.org/rec/conf/sosp/CriswellLDA07"},
+"url":"URL#3950226"
+},
+{
+"@score":"1",
+"@id":"3950227",
+"info":{"authors":{"author":[{"@pid":"48/6538","text":"Giuseppe DeCandia"},{"@pid":"92/3883","text":"Deniz Hastorun"},{"@pid":"98/2015","text":"Madan Jampani"},{"@pid":"76/4775","text":"Gunavardhan Kakulapati"},{"@pid":"56/524","text":"Avinash Lakshman"},{"@pid":"34/3015","text":"Alex Pilchin"},{"@pid":"65/4806","text":"Swaminathan Sivasubramanian"},{"@pid":"97/7007","text":"Peter Vosshall"},{"@pid":"v/WernerVogels","text":"Werner Vogels"}]},"title":"Dynamo - amazon&apos;s highly available key-value store.","venue":"SOSP","pages":"205-220","year":"2007","type":"Conference and Workshop Papers","key":"conf/sosp/DeCandiaHJKLPSVV07","doi":"10.1145/1294261.1294281","ee":"https://doi.org/10.1145/1294261.1294281","url":"https://dblp.org/rec/conf/sosp/DeCandiaHJKLPSVV07"},
+"url":"URL#3950227"
+},
+{
+"@score":"1",
+"@id":"3950229",
+"info":{"authors":{"author":[{"@pid":"69/6042-1","text":"Christopher Frost 0001"},{"@pid":"18/4125","text":"Mike Mammarella"},{"@pid":"78/5231","text":"Eddie Kohler"},{"@pid":"91/1149","text":"Andrew de los Reyes"},{"@pid":"11/6201","text":"Shant Hovsepian"},{"@pid":"20/5901","text":"Andrew Matsuoka"},{"@pid":"97/8704","text":"Lei Zhang"}]},"title":"Generalized file system dependencies.","venue":"SOSP","pages":"307-320","year":"2007","type":"Conference and Workshop Papers","key":"conf/sosp/FrostMKRHMZ07","doi":"10.1145/1294261.1294291","ee":"https://doi.org/10.1145/1294261.1294291","url":"https://dblp.org/rec/conf/sosp/FrostMKRHMZ07"},
+"url":"URL#3950229"
+},
+{
+"@score":"1",
+"@id":"3950230",
+"info":{"authors":{"author":[{"@pid":"84/5664","text":"Haryadi S. Gunawi"},{"@pid":"93/843","text":"Vijayan Prabhakaran"},{"@pid":"23/6826","text":"Swetha Krishnan"},{"@pid":"a/AndreaCArpaciDusseau","text":"Andrea C. Arpaci-Dusseau"},{"@pid":"a/RemziHArpaciDusseau","text":"Remzi H. Arpaci-Dusseau"}]},"title":"Improving file system reliability with I/O shepherding.","venue":"SOSP","pages":"293-306","year":"2007","type":"Conference and Workshop Papers","key":"conf/sosp/GunawiPKAA07","doi":"10.1145/1294261.1294290","ee":"https://doi.org/10.1145/1294261.1294290","url":"https://dblp.org/rec/conf/sosp/GunawiPKAA07"},
+"url":"URL#3950230"
+},
+{
+"@score":"1",
+"@id":"3950231",
+"info":{"authors":{"author":[{"@pid":"60/4358","text":"Andreas Haeberlen"},{"@pid":"k/PetrKouznetsov","text":"Petr Kouznetsov"},{"@pid":"d/PDruschel","text":"Peter Druschel"}]},"title":"PeerReview - practical accountability for distributed systems.","venue":"SOSP","pages":"175-188","year":"2007","type":"Conference and Workshop Papers","key":"conf/sosp/HaeberlenKD07","doi":"10.1145/1294261.1294279","ee":"https://doi.org/10.1145/1294261.1294279","url":"https://dblp.org/rec/conf/sosp/HaeberlenKD07"},
+"url":"URL#3950231"
+},
+{
+"@score":"1",
+"@id":"3950232",
+"info":{"authors":{"author":[{"@pid":"81/4016","text":"James Hendricks"},{"@pid":"g/GregoryRGanger","text":"Gregory R. Ganger"},{"@pid":"r/MichaelKReiter","text":"Michael K. Reiter"}]},"title":"Low-overhead byzantine fault-tolerant storage.","venue":"SOSP","pages":"73-86","year":"2007","type":"Conference and Workshop Papers","key":"conf/sosp/HendricksGR07","doi":"10.1145/1294261.1294269","ee":"https://doi.org/10.1145/1294261.1294269","url":"https://dblp.org/rec/conf/sosp/HendricksGR07"},
+"url":"URL#3950232"
+},
+{
+"@score":"1",
+"@id":"3950233",
+"info":{"authors":{"author":[{"@pid":"89/1263","text":"Emre Kiciman"},{"@pid":"46/2924","text":"V. Benjamin Livshits"}]},"title":"AjaxScope - a platform for remotely monitoring the client-side behavior of web 2.0 applications.","venue":"SOSP","pages":"17-30","year":"2007","type":"Conference and Workshop Papers","key":"conf/sosp/KicimanL07","doi":"10.1145/1294261.1294264","ee":"https://doi.org/10.1145/1294261.1294264","url":"https://dblp.org/rec/conf/sosp/KicimanL07"},
+"url":"URL#3950233"
+},
+{
+"@score":"1",
+"@id":"3950234",
+"info":{"authors":{"author":[{"@pid":"31/191","text":"Kevin Klues"},{"@pid":"42/2058","text":"Vlado Handziski"},{"@pid":"88/683","text":"Chenyang Lu 0001"},{"@pid":"w/AdamWolisz","text":"Adam Wolisz"},{"@pid":"c/DavidECuller","text":"David E. Culler"},{"@pid":"98/3981","text":"David Gay"},{"@pid":"91/2665","text":"Philip Levis"}]},"title":"Integrating concurrency control and energy management in device drivers.","venue":"SOSP","pages":"251-264","year":"2007","type":"Conference and Workshop Papers","key":"conf/sosp/KluesHLWCGL07","doi":"10.1145/1294261.1294286","ee":"https://doi.org/10.1145/1294261.1294286","url":"https://dblp.org/rec/conf/sosp/KluesHLWCGL07"},
+"url":"URL#3950234"
+},
+{
+"@score":"1",
+"@id":"3950235",
+"info":{"authors":{"author":[{"@pid":"15/5513","text":"Ramakrishna Kotla"},{"@pid":"a/LAlvisi","text":"Lorenzo Alvisi"},{"@pid":"d/MDahlin","text":"Michael Dahlin"},{"@pid":"17/597","text":"Allen Clement"},{"@pid":"84/527","text":"Edmund L. Wong"}]},"title":"Zyzzyva - speculative byzantine fault tolerance.","venue":"SOSP","pages":"45-58","year":"2007","type":"Conference and Workshop Papers","key":"conf/sosp/KotlaADCW07","doi":"10.1145/1294261.1294267","ee":"https://doi.org/10.1145/1294261.1294267","url":"https://dblp.org/rec/conf/sosp/KotlaADCW07"},
+"url":"URL#3950235"
+},
+{
+"@score":"1",
+"@id":"3950236",
+"info":{"authors":{"author":[{"@pid":"19/4756","text":"Maxwell N. Krohn"},{"@pid":"24/1123","text":"Alexander Yip"},{"@pid":"15/657","text":"Micah Z. Brodsky"},{"@pid":"30/869","text":"Natan Cliffer"},{"@pid":"k/MFransKaashoek","text":"M. Frans Kaashoek"},{"@pid":"78/5231","text":"Eddie Kohler"},{"@pid":"82/11191","text":"Robert Tappan Morris"}]},"title":"Information flow control for standard OS abstractions.","venue":"SOSP","pages":"321-334","year":"2007","type":"Conference and Workshop Papers","key":"conf/sosp/KrohnYBCKKM07","doi":"10.1145/1294261.1294293","ee":"https://doi.org/10.1145/1294261.1294293","url":"https://dblp.org/rec/conf/sosp/KrohnYBCKKM07"},
+"url":"URL#3950236"
+},
+{
+"@score":"1",
+"@id":"3950237",
+"info":{"authors":{"author":[{"@pid":"60/729","text":"Oren Laadan"},{"@pid":"57/377","text":"Ricardo A. Baratto"},{"@pid":"56/5910","text":"Dan B. Phung"},{"@pid":"10/5504","text":"Shaya Potter"},{"@pid":"n/JasonNieh","text":"Jason Nieh"}]},"title":"DejaView - a personal virtual computer recorder.","venue":"SOSP","pages":"279-292","year":"2007","type":"Conference and Workshop Papers","key":"conf/sosp/LaadanBPPN07","doi":"10.1145/1294261.1294289","ee":"https://doi.org/10.1145/1294261.1294289","url":"https://dblp.org/rec/conf/sosp/LaadanBPPN07"},
+"url":"URL#3950237"
+},
+{
+"@score":"1",
+"@id":"3950239",
+"info":{"authors":{"author":[{"@pid":"31/5916-1","text":"Shan Lu 0001"},{"@pid":"03/6317","text":"Soyeon Park"},{"@pid":"31/4365","text":"Chongfeng Hu"},{"@pid":"35/573","text":"Xiao Ma"},{"@pid":"64/5433","text":"Weihang Jiang"},{"@pid":"41/2867","text":"Zhenmin Li"},{"@pid":"91/275","text":"Raluca A. Popa"},{"@pid":"99/2747-1","text":"Yuanyuan Zhou 0001"}]},"title":"MUVI - automatically inferring multi-variable access correlations and detecting related semantic and concurrency bugs.","venue":"SOSP","pages":"103-116","year":"2007","type":"Conference and Workshop Papers","key":"conf/sosp/LuPHMJLPZ07","doi":"10.1145/1294261.1294272","ee":"https://doi.org/10.1145/1294261.1294272","url":"https://dblp.org/rec/conf/sosp/LuPHMJLPZ07"},
+"url":"URL#3950239"
+},
+{
+"@score":"1",
+"@id":"3950242",
+"info":{"authors":{"author":[{"@pid":"49/2281","text":"Ripal Nathuji"},{"@pid":"s/KarstenSchwan","text":"Karsten Schwan"}]},"title":"VirtualPower - coordinated power management in virtualized enterprise systems.","venue":"SOSP","pages":"265-278","year":"2007","type":"Conference and Workshop Papers","key":"conf/sosp/NathujiS07","doi":"10.1145/1294261.1294287","ee":"https://doi.org/10.1145/1294261.1294287","url":"https://dblp.org/rec/conf/sosp/NathujiS07"},
+"url":"URL#3950242"
+},
+{
+"@score":"1",
+"@id":"3950243",
+"info":{"authors":{"author":[{"@pid":"46/991","text":"Christopher J. Rossbach"},{"@pid":"80/77","text":"Owen S. Hofmann"},{"@pid":"08/4732","text":"Donald E. Porter"},{"@pid":"36/6103","text":"Hany E. Ramadan"},{"@pid":"84/605","text":"Bhandari Aditya"},{"@pid":"76/6082","text":"Emmett Witchel"}]},"title":"TxLinux - using and managing hardware transactional memory in an operating system.","venue":"SOSP","pages":"87-102","year":"2007","type":"Conference and Workshop Papers","key":"conf/sosp/RossbachHPRAW07","doi":"10.1145/1294261.1294271","ee":"https://doi.org/10.1145/1294261.1294271","url":"https://dblp.org/rec/conf/sosp/RossbachHPRAW07"},
+"url":"URL#3950243"
+},
+{
+"@score":"1",
+"@id":"3950245",
+"info":{"authors":{"author":[{"@pid":"04/3992","text":"Arvind Seshadri"},{"@pid":"03/6525","text":"Mark Luk"},{"@pid":"78/2388","text":"Ning Qu"},{"@pid":"16/6873","text":"Adrian Perrig"}]},"title":"SecVisor - a tiny hypervisor to provide lifetime kernel code integrity for commodity OSes.","venue":"SOSP","pages":"335-350","year":"2007","type":"Conference and Workshop Papers","key":"conf/sosp/SeshadriLQP07","doi":"10.1145/1294261.1294294","ee":"https://doi.org/10.1145/1294261.1294294","url":"https://dblp.org/rec/conf/sosp/SeshadriLQP07"},
+"url":"URL#3950245"
+},
+{
+"@score":"1",
+"@id":"3950248",
+"info":{"authors":{"author":[{"@pid":"60/2464","text":"Ya-Yunn Su"},{"@pid":"44/6870","text":"Mona Attariyan"},{"@pid":"14/85","text":"Jason Flinn"}]},"title":"AutoBash - improving configuration management with operating system causality analysis.","venue":"SOSP","pages":"237-250","year":"2007","type":"Conference and Workshop Papers","key":"conf/sosp/SuAF07","doi":"10.1145/1294261.1294284","ee":"https://doi.org/10.1145/1294261.1294284","url":"https://dblp.org/rec/conf/sosp/SuAF07"},
+"url":"URL#3950248"
+},
+{
+"@score":"1",
+"@id":"3950249",
+"info":{"authors":{"author":[{"@pid":"13/3957-1","text":"Lin Tan 0001"},{"@pid":"94/489","text":"Ding Yuan"},{"@pid":"80/597","text":"Gopal Krishna"},{"@pid":"99/2747-1","text":"Yuanyuan Zhou 0001"}]},"title":"/*icomment - bugs or bad comments?*/.","venue":"SOSP","pages":"145-158","year":"2007","type":"Conference and Workshop Papers","key":"conf/sosp/TanYKZ07","doi":"10.1145/1294261.1294276","ee":"https://doi.org/10.1145/1294261.1294276","url":"https://dblp.org/rec/conf/sosp/TanYKZ07"},
+"url":"URL#3950249"
+},
+{
+"@score":"1",
+"@id":"3950250",
+"info":{"authors":{"author":[{"@pid":"24/2733","text":"Joseph Tucek"},{"@pid":"31/5916-1","text":"Shan Lu 0001"},{"@pid":"70/5914","text":"Chengdu Huang"},{"@pid":"25/1978","text":"Spiros Xanthos"},{"@pid":"99/2747-1","text":"Yuanyuan Zhou 0001"}]},"title":"Triage - diagnosing production run failures at the user&apos;s site.","venue":"SOSP","pages":"131-144","year":"2007","type":"Conference and Workshop Papers","key":"conf/sosp/TucekLHXZ07","doi":"10.1145/1294261.1294275","ee":"https://doi.org/10.1145/1294261.1294275","url":"https://dblp.org/rec/conf/sosp/TucekLHXZ07"},
+"url":"URL#3950250"
+},
+{
+"@score":"1",
+"@id":"3950251",
+"info":{"authors":{"author":[{"@pid":"75/206","text":"Ben Vandiver"},{"@pid":"b/HariBalakrishnan","text":"Hari Balakrishnan"},{"@pid":"l/BarbaraLiskov","text":"Barbara Liskov"},{"@pid":"m/SamuelMadden","text":"Samuel Madden"}]},"title":"Tolerating byzantine faults in transaction processing systems using commit barrier scheduling.","venue":"SOSP","pages":"59-72","year":"2007","type":"Conference and Workshop Papers","key":"conf/sosp/VandiverBLM07","doi":"10.1145/1294261.1294268","ee":"https://doi.org/10.1145/1294261.1294268","url":"https://dblp.org/rec/conf/sosp/VandiverBLM07"},
+"url":"URL#3950251"
+},
+{
+"@score":"1",
+"@id":"3950253",
+"info":{"authors":{"author":[{"@pid":"w/HelenJWang","text":"Helen J. Wang"},{"@pid":"80/3681","text":"Xiaofeng Fan"},{"@pid":"55/3274","text":"Jon Howell"},{"@pid":"45/4319","text":"Collin Jackson"}]},"title":"Protection and communication abstractions for web browsers in MashupOS.","venue":"SOSP","pages":"1-16","year":"2007","type":"Conference and Workshop Papers","key":"conf/sosp/WangFHJ07","doi":"10.1145/1294261.1294263","ee":"https://doi.org/10.1145/1294261.1294263","url":"https://dblp.org/rec/conf/sosp/WangFHJ07"},
+"url":"URL#3950253"
+},
+{
+"@score":"1",
+"@id":"3963196",
+"info":{"authors":{"author":[{"@pid":"b/ThomasCBressoud","text":"Thomas C. Bressoud"},{"@pid":"k/MFransKaashoek","text":"M. Frans Kaashoek"}]},"title":"Proceedings of the 21st ACM Symposium on Operating Systems Principles 2007, SOSP 2007, Stevenson, Washington, USA, October 14-17, 2007","venue":"SOSP","publisher":"ACM","year":"2007","type":"Editorship","key":"conf/sosp/2007","doi":"10.1145/1294261","ee":"https://doi.org/10.1145/1294261","url":"https://dblp.org/rec/conf/sosp/2007"},
+"url":"URL#3963196"
+}
+]
+}
+}
+}

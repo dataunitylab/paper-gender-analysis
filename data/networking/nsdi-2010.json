@@ -1,0 +1,212 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"nsdi\"/\"nsdi2010\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"133.70"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"30",
+"@dc":"30",
+"@oc":"30",
+"@id":"17580397",
+"text":":facetid:toc:db/conf/nsdi/nsdi2010.bht"
+}
+},
+"hits":{
+"@total":"30",
+"@computed":"30",
+"@sent":"30",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"3319949",
+"info":{"authors":{"author":[{"@pid":"a/AAdya","text":"Atul Adya"},{"@pid":"10/3285","text":"John Dunagan"},{"@pid":"06/915","text":"Alec Wolman"}]},"title":"Centrifuge - Integrated Lease Management and Partitioning for Cloud Services.","venue":"NSDI","pages":"1-16","year":"2010","type":"Conference and Workshop Papers","key":"conf/nsdi/AdyaDW10","ee":"http://www.usenix.org/events/nsdi10/tech/full_papers/adya.pdf","url":"https://dblp.org/rec/conf/nsdi/AdyaDW10"},
+"url":"URL#3319949"
+},
+{
+"@score":"1",
+"@id":"3319950",
+"info":{"authors":{"author":[{"@pid":"82/1494","text":"Bhavish Agarwal"},{"@pid":"a/AdityaAkella","text":"Aditya Akella"},{"@pid":"96/3486","text":"Ashok Anand"},{"@pid":"12/8357","text":"Athula Balachandran"},{"@pid":"99/8396","text":"Pushkar Chitnis"},{"@pid":"58/7062","text":"Chitra Muthukrishnan"},{"@pid":"97/117","text":"Ramachandran Ramjee"},{"@pid":"v/GeorgeVarghese","text":"George Varghese"}]},"title":"EndRE - An End-System Redundancy Elimination Service for Enterprises.","venue":"NSDI","pages":"419-432","year":"2010","type":"Conference and Workshop Papers","key":"conf/nsdi/AgarwalAABCMRV10","ee":"http://www.usenix.org/events/nsdi10/tech/full_papers/aggarwal.pdf","url":"https://dblp.org/rec/conf/nsdi/AgarwalAABCMRV10"},
+"url":"URL#3319950"
+},
+{
+"@score":"1",
+"@id":"3319951",
+"info":{"authors":{"author":[{"@pid":"32/4165","text":"Sharad Agarwal"},{"@pid":"10/3285","text":"John Dunagan"},{"@pid":"94/4527","text":"Navendu Jain"},{"@pid":"17/3782","text":"Stefan Saroiu"},{"@pid":"06/915","text":"Alec Wolman"}]},"title":"Volley - Automated Data Placement for Geo-Distributed Cloud Services.","venue":"NSDI","pages":"17-32","year":"2010","type":"Conference and Workshop Papers","key":"conf/nsdi/AgarwalDJSW10","ee":"http://www.usenix.org/events/nsdi10/tech/full_papers/agarwal.pdf","url":"https://dblp.org/rec/conf/nsdi/AgarwalDJSW10"},
+"url":"URL#3319951"
+},
+{
+"@score":"1",
+"@id":"3319952",
+"info":{"authors":{"author":[{"@pid":"77/2383","text":"Mohammad Al-Fares"},{"@pid":"42/7544","text":"Sivasankar Radhakrishnan"},{"@pid":"22/3604","text":"Barath Raghavan"},{"@pid":"24/7545","text":"Nelson Huang"},{"@pid":"v/AminVahdat","text":"Amin Vahdat"}]},"title":"Hedera - Dynamic Flow Scheduling for Data Center Networks.","venue":"NSDI","pages":"281-296","year":"2010","type":"Conference and Workshop Papers","key":"conf/nsdi/Al-FaresRRHV10","ee":"http://www.usenix.org/events/nsdi10/tech/full_papers/al-fares.pdf","url":"https://dblp.org/rec/conf/nsdi/Al-FaresRRHV10"},
+"url":"URL#3319952"
+},
+{
+"@score":"1",
+"@id":"3319953",
+"info":{"authors":{"author":[{"@pid":"96/3486","text":"Ashok Anand"},{"@pid":"58/7062","text":"Chitra Muthukrishnan"},{"@pid":"50/8466","text":"Steven Kappes"},{"@pid":"a/AdityaAkella","text":"Aditya Akella"},{"@pid":"85/6293","text":"Suman Nath"}]},"title":"Cheap and Large CAMs for High Performance Data-Intensive Networked Systems.","venue":"NSDI","pages":"433-448","year":"2010","type":"Conference and Workshop Papers","key":"conf/nsdi/AnandMKAN10","ee":"http://www.usenix.org/events/nsdi10/tech/full_papers/anand.pdf","url":"https://dblp.org/rec/conf/nsdi/AnandMKAN10"},
+"url":"URL#3319953"
+},
+{
+"@score":"1",
+"@id":"3319956",
+"info":{"authors":{"author":[{"@pid":"49/8463","text":"Sang Kil Cha"},{"@pid":"96/8181","text":"Iulian Moraru"},{"@pid":"58/688","text":"Jiyong Jang"},{"@pid":"32/8176","text":"John Truelove"},{"@pid":"40/2434","text":"David Brumley"},{"@pid":"a/DavidGAndersen","text":"David G. Andersen"}]},"title":"SplitScreen - Enabling Efficient, Distributed Malware Detection.","venue":"NSDI","pages":"377-390","year":"2010","type":"Conference and Workshop Papers","key":"conf/nsdi/ChaMJTBA10","ee":"http://www.usenix.org/events/nsdi10/tech/full_papers/cha.pdf","url":"https://dblp.org/rec/conf/nsdi/ChaMJTBA10"},
+"url":"URL#3319956"
+},
+{
+"@score":"1",
+"@id":"3319957",
+"info":{"authors":{"author":[{"@pid":"88/2774","text":"Tyson Condie"},{"@pid":"05/729","text":"Neil Conway"},{"@pid":"25/4106","text":"Peter Alvaro"},{"@pid":"h/JosephMHellerstein","text":"Joseph M. Hellerstein"},{"@pid":"10/5647","text":"Khaled Elmeleegy"},{"@pid":"54/129","text":"Russell Sears"}]},"title":"MapReduce Online.","venue":"NSDI","pages":"313-328","year":"2010","type":"Conference and Workshop Papers","key":"conf/nsdi/CondieCAHES10","ee":"http://www.usenix.org/events/nsdi10/tech/full_papers/condie.pdf","url":"https://dblp.org/rec/conf/nsdi/CondieCAHES10"},
+"url":"URL#3319957"
+},
+{
+"@score":"1",
+"@id":"3319958",
+"info":{"authors":{"author":[{"@pid":"24/5891","text":"Marcel Dischinger"},{"@pid":"68/2425","text":"Massimiliano Marcon"},{"@pid":"42/5459","text":"Saikat Guha"},{"@pid":"g/PKrishnaGummadi","text":"P. Krishna Gummadi"},{"@pid":"81/6327","text":"Ratul Mahajan"},{"@pid":"17/3782","text":"Stefan Saroiu"}]},"title":"Glasnost - Enabling End Users to Detect Traffic Differentiation.","venue":"NSDI","pages":"405-418","year":"2010","type":"Conference and Workshop Papers","key":"conf/nsdi/DischingerMGGMS10","ee":"http://www.usenix.org/events/nsdi10/tech/full_papers/dischinger.pdf","url":"https://dblp.org/rec/conf/nsdi/DischingerMGGMS10"},
+"url":"URL#3319958"
+},
+{
+"@score":"1",
+"@id":"3319960",
+"info":{"authors":{"author":{"@pid":"65/1370","text":"Michael J. Freedman"}},"title":"Experiences with CoralCDN - A Five-Year Operational View.","venue":"NSDI","pages":"95-110","year":"2010","type":"Conference and Workshop Papers","key":"conf/nsdi/Freedman10","ee":"http://www.usenix.org/events/nsdi10/tech/full_papers/freedman.pdf","url":"https://dblp.org/rec/conf/nsdi/Freedman10"},
+"url":"URL#3319960"
+},
+{
+"@score":"1",
+"@id":"3319962",
+"info":{"authors":{"author":[{"@pid":"00/3507","text":"Bo Han 0001"},{"@pid":"77/3626","text":"Aaron Schulman"},{"@pid":"59/4302","text":"Francesco Gringoli"},{"@pid":"s/NeilTSpring","text":"Neil Spring"},{"@pid":"b/BobbyBhattacharjee","text":"Bobby Bhattacharjee"},{"@pid":"31/8465","text":"Lorenzo Nava"},{"@pid":"63/5501","text":"Lusheng Ji"},{"@pid":"15/4697","text":"Seungjoon Lee"},{"@pid":"72/849","text":"Robert R. Miller"}]},"title":"Maranello - Practical Partial Packet Recovery for 802.11.","venue":"NSDI","pages":"205-218","year":"2010","type":"Conference and Workshop Papers","key":"conf/nsdi/HanSGSBNJLM10","ee":"http://www.usenix.org/events/nsdi10/tech/full_papers/han.pdf","url":"https://dblp.org/rec/conf/nsdi/HanSGSBNJLM10"},
+"url":"URL#3319962"
+},
+{
+"@score":"1",
+"@id":"3319964",
+"info":{"authors":{"author":[{"@pid":"49/1811","text":"Brandon Heller"},{"@pid":"89/763","text":"Srinivasan Seetharaman"},{"@pid":"55/6768","text":"Priya Mahadevan"},{"@pid":"50/7950","text":"Yiannis Yiakoumis"},{"@pid":"13/5262","text":"Puneet Sharma"},{"@pid":"b/SuBanerjee","text":"Sujata Banerjee"},{"@pid":"m/NickMcKeown","text":"Nick McKeown"}]},"title":"ElasticTree - Saving Energy in Data Center Networks.","venue":"NSDI","pages":"249-264","year":"2010","type":"Conference and Workshop Papers","key":"conf/nsdi/HellerSMYSBM10","ee":"http://www.usenix.org/events/nsdi10/tech/full_papers/heller.pdf","url":"https://dblp.org/rec/conf/nsdi/HellerSMYSBM10"},
+"url":"URL#3319964"
+},
+{
+"@score":"1",
+"@id":"3319965",
+"info":{"authors":{"author":[{"@pid":"51/8466","text":"Jonathan M. Hsieh"},{"@pid":"g/StevenDGribble","text":"Steven D. Gribble"},{"@pid":"l/HenryMLevy","text":"Henry M. Levy"}]},"title":"The Architecture and Implementation of an Extensible Web Crawler.","venue":"NSDI","pages":"329-344","year":"2010","type":"Conference and Workshop Papers","key":"conf/nsdi/HsiehGL10","ee":"http://www.usenix.org/events/nsdi10/tech/full_papers/hsieh.pdf","url":"https://dblp.org/rec/conf/nsdi/HsiehGL10"},
+"url":"URL#3319965"
+},
+{
+"@score":"1",
+"@id":"3319966",
+"info":{"authors":{"author":[{"@pid":"66/2080","text":"Ethan Katz-Bassett"},{"@pid":"45/2026","text":"Harsha V. Madhyastha"},{"@pid":"85/8463","text":"Vijay Kumar Adhikari"},{"@pid":"13/4360","text":"Colin Scott"},{"@pid":"37/8465","text":"Justine Sherry"},{"@pid":"56/8463","text":"Peter van Wesep"},{"@pid":"a/ThomasEAnderson","text":"Thomas E. Anderson"},{"@pid":"k/AKrishnamurthy","text":"Arvind Krishnamurthy"}]},"title":"Reverse traceroute.","venue":"NSDI","pages":"219-234","year":"2010","type":"Conference and Workshop Papers","key":"conf/nsdi/Katz-BassettMASSWAK10","ee":"http://www.usenix.org/events/nsdi10/tech/full_papers/katz-bassett.pdf","url":"https://dblp.org/rec/conf/nsdi/Katz-BassettMASSWAK10"},
+"url":"URL#3319966"
+},
+{
+"@score":"1",
+"@id":"3319968",
+"info":{"authors":{"author":[{"@pid":"87/2882","text":"Eric Keller"},{"@pid":"r/JenniferRexford","text":"Jennifer Rexford"},{"@pid":"m/JEvanderMerwe","text":"Jacobus E. van der Merwe"}]},"title":"Seamless BGP Migration with Router Grafting.","venue":"NSDI","pages":"235-248","year":"2010","type":"Conference and Workshop Papers","key":"conf/nsdi/KellerRM10","ee":"http://www.usenix.org/events/nsdi10/tech/full_papers/keller.pdf","url":"https://dblp.org/rec/conf/nsdi/KellerRM10"},
+"url":"URL#3319968"
+},
+{
+"@score":"1",
+"@id":"3319970",
+"info":{"authors":{"author":[{"@pid":"80/4003","text":"Vinh The Lam"},{"@pid":"74/838","text":"Michael Mitzenmacher"},{"@pid":"v/GeorgeVarghese","text":"George Varghese"}]},"title":"Carousel - Scalable Logging for Intrusion Prevention Systems.","venue":"NSDI","pages":"361-376","year":"2010","type":"Conference and Workshop Papers","key":"conf/nsdi/LamMV10","ee":"http://www.usenix.org/events/nsdi10/tech/full_papers/lam.pdf","url":"https://dblp.org/rec/conf/nsdi/LamMV10"},
+"url":"URL#3319970"
+},
+{
+"@score":"1",
+"@id":"3319971",
+"info":{"authors":{"author":[{"@pid":"04/5917","text":"Chris Lesniewski-Laas"},{"@pid":"k/MFransKaashoek","text":"M. Frans Kaashoek"}]},"title":"Whanau - A Sybil-proof Distributed Hash Table.","venue":"NSDI","pages":"111-126","year":"2010","type":"Conference and Workshop Papers","key":"conf/nsdi/Lesniewski-LaasK10","ee":"http://www.usenix.org/events/nsdi10/tech/full_papers/lesniewski-laas.pdf","url":"https://dblp.org/rec/conf/nsdi/Lesniewski-LaasK10"},
+"url":"URL#3319971"
+},
+{
+"@score":"1",
+"@id":"3319972",
+"info":{"authors":{"author":[{"@pid":"55/4022","text":"Zhichun Li"},{"@pid":"73/1844-5","text":"Ming Zhang 0005"},{"@pid":"69/3658","text":"Zhaosheng Zhu"},{"@pid":"88/2827-4","text":"Yan Chen 0004"},{"@pid":"g/AlbertGGreenberg","text":"Albert G. Greenberg"},{"@pid":"91/1356","text":"Yi-Min Wang"}]},"title":"WebProphet - Automating Performance Prediction for Web Services.","venue":"NSDI","pages":"143-158","year":"2010","type":"Conference and Workshop Papers","key":"conf/nsdi/LiZZCGW10","ee":"http://www.usenix.org/events/nsdi10/tech/full_papers/li.pdf","url":"https://dblp.org/rec/conf/nsdi/LiZZCGW10"},
+"url":"URL#3319972"
+},
+{
+"@score":"1",
+"@id":"3319974",
+"info":{"authors":{"author":[{"@pid":"90/1843","text":"James W. Mickens"},{"@pid":"02/3927","text":"Jeremy Elson"},{"@pid":"55/3274","text":"Jon Howell"}]},"title":"Mugshot - Deterministic Capture and Replay for JavaScript Applications.","venue":"NSDI","pages":"159-174","year":"2010","type":"Conference and Workshop Papers","key":"conf/nsdi/MickensEH10","ee":"http://www.usenix.org/events/nsdi10/tech/full_papers/mickens-mugshot.pdf","url":"https://dblp.org/rec/conf/nsdi/MickensEH10"},
+"url":"URL#3319974"
+},
+{
+"@score":"1",
+"@id":"3319975",
+"info":{"authors":{"author":[{"@pid":"90/1843","text":"James W. Mickens"},{"@pid":"02/3927","text":"Jeremy Elson"},{"@pid":"55/3274","text":"Jon Howell"},{"@pid":"25/3228","text":"Jay R. Lorch"}]},"title":"Crom - Faster Web Browsing Using Speculative Execution.","venue":"NSDI","pages":"127-142","year":"2010","type":"Conference and Workshop Papers","key":"conf/nsdi/MickensEHL10","ee":"http://www.usenix.org/events/nsdi10/tech/full_papers/mickens-crom.pdf","url":"https://dblp.org/rec/conf/nsdi/MickensEHL10"},
+"url":"URL#3319975"
+},
+{
+"@score":"1",
+"@id":"3319976",
+"info":{"authors":{"author":[{"@pid":"53/1490","text":"Jayaram Mudigonda"},{"@pid":"66/3044","text":"Praveen Yalagandula"},{"@pid":"77/2383","text":"Mohammad Al-Fares"},{"@pid":"m/JeffreyCMogul","text":"Jeffrey C. Mogul"}]},"title":"SPAIN - COTS Data-Center Ethernet for Multipathing over Arbitrary Topologies.","venue":"NSDI","pages":"265-280","year":"2010","type":"Conference and Workshop Papers","key":"conf/nsdi/MudigondaYAM10","ee":"http://www.usenix.org/events/nsdi10/tech/full_papers/mudigonda.pdf","url":"https://dblp.org/rec/conf/nsdi/MudigondaYAM10"},
+"url":"URL#3319976"
+},
+{
+"@score":"1",
+"@id":"3319978",
+"info":{"authors":{"author":[{"@pid":"60/6768","text":"Roberto Perdisci"},{"@pid":"29/5976","text":"Wenke Lee"},{"@pid":"87/840","text":"Nick Feamster"}]},"title":"Behavioral Clustering of HTTP-Based Malware and Signature Generation Using Malicious Network Traces.","venue":"NSDI","pages":"391-404","year":"2010","type":"Conference and Workshop Papers","key":"conf/nsdi/PerdisciLF10","ee":"http://www.usenix.org/events/nsdi10/tech/full_papers/perdisci.pdf","url":"https://dblp.org/rec/conf/nsdi/PerdisciLF10"},
+"url":"URL#3319978"
+},
+{
+"@score":"1",
+"@id":"3319979",
+"info":{"authors":{"author":[{"@pid":"74/4787","text":"Michael Piatek"},{"@pid":"k/AKrishnamurthy","text":"Arvind Krishnamurthy"},{"@pid":"v/ArunVenkataramani","text":"Arun Venkataramani"},{"@pid":"y/YangRichardYang","text":"Yang Richard Yang"},{"@pid":"205/8812-2","text":"David Zhang 0002"},{"@pid":"03/3760","text":"Alexander Jaffe"}]},"title":"Contracts - Practical Contribution Incentives for P2P Live Streaming.","venue":"NSDI","pages":"81-94","year":"2010","type":"Conference and Workshop Papers","key":"conf/nsdi/PiatekKVYZJ10","ee":"http://www.usenix.org/events/nsdi10/tech/full_papers/piatek.pdf","url":"https://dblp.org/rec/conf/nsdi/PiatekKVYZJ10"},
+"url":"URL#3319979"
+},
+{
+"@score":"1",
+"@id":"3319980",
+"info":{"authors":{"author":[{"@pid":"r/IndrajitRoy","text":"Indrajit Roy 0001"},{"@pid":"68/8463","text":"Srinath T. V. Setty"},{"@pid":"08/8464","text":"Ann Kilzer"},{"@pid":"46/6275","text":"Vitaly Shmatikov"},{"@pid":"76/6082","text":"Emmett Witchel"}]},"title":"Airavat - Security and Privacy for MapReduce.","venue":"NSDI","pages":"297-312","year":"2010","type":"Conference and Workshop Papers","key":"conf/nsdi/RoySKSW10","ee":"http://www.usenix.org/events/nsdi10/tech/full_papers/roy.pdf","url":"https://dblp.org/rec/conf/nsdi/RoySKSW10"},
+"url":"URL#3319980"
+},
+{
+"@score":"1",
+"@id":"3319981",
+"info":{"authors":{"author":[{"@pid":"58/968","text":"Siddhartha Sen 0001"},{"@pid":"21/1059","text":"Wyatt Lloyd"},{"@pid":"65/1370","text":"Michael J. Freedman"}]},"title":"Prophecy - Using History for High-Throughput Fault Tolerance.","venue":"NSDI","pages":"345-360","year":"2010","type":"Conference and Workshop Papers","key":"conf/nsdi/SenLF10","ee":"http://www.usenix.org/events/nsdi10/tech/full_papers/sen_siddhartha.pdf","url":"https://dblp.org/rec/conf/nsdi/SenLF10"},
+"url":"URL#3319981"
+},
+{
+"@score":"1",
+"@id":"3319982",
+"info":{"authors":{"author":[{"@pid":"22/5609","text":"Sayandeep Sen"},{"@pid":"06/8465","text":"Neel Kamal Madabhushi"},{"@pid":"p/SumanBanerjee","text":"Suman Banerjee"}]},"title":"Scalable WiFi Media Delivery through Adaptive Broadcasts.","venue":"NSDI","pages":"191-204","year":"2010","type":"Conference and Workshop Papers","key":"conf/nsdi/SenMB10","ee":"http://www.usenix.org/events/nsdi10/tech/full_papers/sen_sayandeep.pdf","url":"https://dblp.org/rec/conf/nsdi/SenMB10"},
+"url":"URL#3319982"
+},
+{
+"@score":"1",
+"@id":"3319983",
+"info":{"authors":{"author":[{"@pid":"83/7553","text":"Souvik Sen"},{"@pid":"20/4519","text":"Naveen Santhapuri"},{"@pid":"19/6964","text":"Romit Roy Choudhury"},{"@pid":"n/SrihariNelakuditi","text":"Srihari Nelakuditi"}]},"title":"AccuRate - Constellation Based Rate Estimation in Wireless Networks.","venue":"NSDI","pages":"175-190","year":"2010","type":"Conference and Workshop Papers","key":"conf/nsdi/SenSCN10","ee":"http://www.usenix.org/events/nsdi10/tech/full_papers/sen_souvik.pdf","url":"https://dblp.org/rec/conf/nsdi/SenSCN10"},
+"url":"URL#3319983"
+},
+{
+"@score":"1",
+"@id":"3319986",
+"info":{"authors":{"author":[{"@pid":"50/2484-20","text":"Lei Yang 0020"},{"@pid":"15/3162","text":"Wei Hou"},{"@pid":"26/3903","text":"Lili Cao"},{"@pid":"z/BenYZhao","text":"Ben Y. Zhao"},{"@pid":"43/4261","text":"Haitao Zheng 0001"}]},"title":"Supporting Demanding Wireless Applications with Frequency-agile Radios.","venue":"NSDI","pages":"65-80","year":"2010","type":"Conference and Workshop Papers","key":"conf/nsdi/YangHCZZ10","ee":"http://www.usenix.org/events/nsdi10/tech/full_papers/yang.pdf","url":"https://dblp.org/rec/conf/nsdi/YangHCZZ10"},
+"url":"URL#3319986"
+},
+{
+"@score":"1",
+"@id":"3319987",
+"info":{"authors":{"author":[{"@pid":"181/2621-9","text":"Zheng Zhang 0009"},{"@pid":"73/1844-5","text":"Ming Zhang 0005"},{"@pid":"g/AlbertGGreenberg","text":"Albert G. Greenberg"},{"@pid":"93/89","text":"Y. Charlie Hu"},{"@pid":"81/6327","text":"Ratul Mahajan"},{"@pid":"79/8462","text":"Blaine Christian"}]},"title":"Optimizing Cost and Performance in Online Service Provider Networks.","venue":"NSDI","pages":"33-48","year":"2010","type":"Conference and Workshop Papers","key":"conf/nsdi/ZhangZGHMC10","ee":"http://www.usenix.org/events/nsdi10/tech/full_papers/zhang.pdf","url":"https://dblp.org/rec/conf/nsdi/ZhangZGHMC10"},
+"url":"URL#3319987"
+},
+{
+"@score":"1",
+"@id":"3319988",
+"info":{"authors":{"author":[{"@pid":"42/5105","text":"Ting Zhu"},{"@pid":"13/2266","text":"Ziguo Zhong"},{"@pid":"h/TianHe","text":"Tian He 0001"},{"@pid":"07/5905","text":"Zhi-Li Zhang"}]},"title":"Exploring Link Correlation for Efficient Flooding in Wireless Sensor Networks.","venue":"NSDI","pages":"49-64","year":"2010","type":"Conference and Workshop Papers","key":"conf/nsdi/ZhuZHZ10","ee":"http://www.usenix.org/events/nsdi10/tech/full_papers/zhu.pdf","url":"https://dblp.org/rec/conf/nsdi/ZhuZHZ10"},
+"url":"URL#3319988"
+},
+{
+"@score":"1",
+"@id":"3351427",
+"info":{"title":"Proceedings of the 7th USENIX Symposium on Networked Systems Design and Implementation, NSDI 2010, April 28-30, 2010, San Jose, CA, USA","venue":"NSDI","publisher":"USENIX Association","year":"2010","type":"Editorship","key":"conf/nsdi/2010","url":"https://dblp.org/rec/conf/nsdi/2010"},
+"url":"URL#3351427"
+}
+]
+}
+}
+}

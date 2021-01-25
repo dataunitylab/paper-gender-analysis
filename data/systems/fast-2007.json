@@ -1,0 +1,164 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"fast\"/\"fast2007\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"106.62"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"22",
+"@dc":"22",
+"@oc":"22",
+"@id":"17561986",
+"text":":facetid:toc:db/conf/fast/fast2007.bht"
+}
+},
+"hits":{
+"@total":"22",
+"@computed":"22",
+"@sent":"22",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"3882643",
+"info":{"authors":{"author":[{"@pid":"a/NitinAgrawal","text":"Nitin Agrawal 0001"},{"@pid":"b/WJBolosky","text":"William J. Bolosky"},{"@pid":"87/1231","text":"John R. Douceur"},{"@pid":"25/3228","text":"Jacob R. Lorch"}]},"title":"A Five-Year Study of File-System Metadata.","venue":"FAST","pages":"31-45","year":"2007","type":"Conference and Workshop Papers","key":"conf/fast/AgrawalBDL07","ee":"http://www.usenix.org/events/fast07/tech/agrawal.html","url":"https://dblp.org/rec/conf/fast/AgrawalBDL07"},
+"url":"URL#3882643"
+},
+{
+"@score":"1",
+"@id":"3882646",
+"info":{"authors":{"author":[{"@pid":"34/1302","text":"James Cipar"},{"@pid":"94/3854","text":"Mark D. Corner"},{"@pid":"98/4487","text":"Emery D. Berger"}]},"title":"TFS - A Transparent File System for Contributory Storage.","venue":"FAST","pages":"215-229","year":"2007","type":"Conference and Workshop Papers","key":"conf/fast/CiparCB07","ee":"http://www.usenix.org/events/fast07/tech/cipar.html","url":"https://dblp.org/rec/conf/fast/CiparCB07"},
+"url":"URL#3882646"
+},
+{
+"@score":"1",
+"@id":"3882647",
+"info":{"authors":{"author":[{"@pid":"04/4040","text":"Michael Eisler"},{"@pid":"78/2300","text":"Peter Corbett"},{"@pid":"93/8469","text":"Michael Kazar"},{"@pid":"60/8470","text":"Daniel S. Nydick"},{"@pid":"83/8470","text":"J. Christopher Wagner"}]},"title":"Data ONTAP GX - A Scalable Storage Cluster.","venue":"FAST","pages":"139-152","year":"2007","type":"Conference and Workshop Papers","key":"conf/fast/EislerCKNW07","ee":"http://www.usenix.org/events/fast07/tech/eisler.html","url":"https://dblp.org/rec/conf/fast/EislerCKNW07"},
+"url":"URL#3882647"
+},
+{
+"@score":"1",
+"@id":"3882648",
+"info":{"authors":{"author":{"@pid":"e/DREngler","text":"Dawson R. Engler"}},"title":"A System&apos;s Hackers Crash Course - Techniques that Find Lots of Bugs in Real (Storage) System Code.","venue":"FAST","year":"2007","type":"Conference and Workshop Papers","key":"conf/fast/Engler07","ee":"http://www.usenix.org/events/fast07/tech/slides/engler.pdf","url":"https://dblp.org/rec/conf/fast/Engler07"},
+"url":"URL#3882648"
+},
+{
+"@score":"1",
+"@id":"3882649",
+"info":{"authors":{"author":[{"@pid":"59/4094","text":"Kave Eshghi"},{"@pid":"99/6098","text":"Mark Lillibridge"},{"@pid":"66/3502","text":"Lawrence Wilcock"},{"@pid":"12/6952","text":"Guillaume Belrose"},{"@pid":"35/240","text":"Rycharde Hawkes"}]},"title":"Jumbo Store - Providing Efficient Incremental Upload and Versioning for a Utility Rendering Service.","venue":"FAST","pages":"123-138","year":"2007","type":"Conference and Workshop Papers","key":"conf/fast/EshghiLWBH07","ee":"http://www.usenix.org/events/fast07/tech/eshghi.html","url":"https://dblp.org/rec/conf/fast/EshghiLWBH07"},
+"url":"URL#3882649"
+},
+{
+"@score":"1",
+"@id":"3882652",
+"info":{"authors":{"author":[{"@pid":"g/BillySGill","text":"Binny S. Gill"},{"@pid":"67/2324","text":"Luis Angel D. Bathen"}]},"title":"AMP - Adaptive Multi-stream Prefetching in a Shared Cache.","venue":"FAST","pages":"185-198","year":"2007","type":"Conference and Workshop Papers","key":"conf/fast/GillB07","ee":"http://www.usenix.org/events/fast07/tech/gill.html","url":"https://dblp.org/rec/conf/fast/GillB07"},
+"url":"URL#3882652"
+},
+{
+"@score":"1",
+"@id":"3882653",
+"info":{"authors":{"author":[{"@pid":"87/1601","text":"Ajay Gulati"},{"@pid":"98/79","text":"Manoj Naik"},{"@pid":"63/4429","text":"Renu Tewari"}]},"title":"Nache - Design and Implementation of a Caching Proxy for NFSv4.","venue":"FAST","pages":"199-214","year":"2007","type":"Conference and Workshop Papers","key":"conf/fast/GulatiNT07","ee":"http://www.usenix.org/events/fast07/tech/gulati.html","url":"https://dblp.org/rec/conf/fast/GulatiNT07"},
+"url":"URL#3882653"
+},
+{
+"@score":"1",
+"@id":"3882655",
+"info":{"authors":{"author":[{"@pid":"09/6491","text":"Deepak R. Kenchammana-Hosekote"},{"@pid":"57/6407","text":"Dingshan He"},{"@pid":"h/JamesLeeHafner","text":"James Lee Hafner"}]},"title":"REO - A Generic RAID Engine and Optimizer.","venue":"FAST","pages":"261-276","year":"2007","type":"Conference and Workshop Papers","key":"conf/fast/Kenchammana-HosekoteHH07","ee":"http://www.usenix.org/events/fast07/tech/kenchammana.html","url":"https://dblp.org/rec/conf/fast/Kenchammana-HosekoteHH07"},
+"url":"URL#3882655"
+},
+{
+"@score":"1",
+"@id":"3882656",
+"info":{"authors":{"author":{"@pid":"88/2355","text":"Steve Kleiman"}},"title":"Trends in Managing Data at the Petabyte Scale.","venue":"FAST","year":"2007","type":"Conference and Workshop Papers","key":"conf/fast/Kleiman07","ee":"http://www.usenix.org/events/fast07/tech/slides/kleiman.pdf","url":"https://dblp.org/rec/conf/fast/Kleiman07"},
+"url":"URL#3882656"
+},
+{
+"@score":"1",
+"@id":"3882657",
+"info":{"authors":{"author":[{"@pid":"27/5845","text":"Guy Laden"},{"@pid":"38/1877","text":"Paula Ta-Shma"},{"@pid":"00/6454","text":"Eitan Yaffe"},{"@pid":"f/MichaelFactor","text":"Michael Factor"},{"@pid":"31/5589","text":"Shachar Fienblit"}]},"title":"Architectures for Controller Based CDP.","venue":"FAST","pages":"107-121","year":"2007","type":"Conference and Workshop Papers","key":"conf/fast/LadenTYFF07","ee":"http://www.usenix.org/events/fast07/tech/laden.html","url":"https://dblp.org/rec/conf/fast/LadenTYFF07"},
+"url":"URL#3882657"
+},
+{
+"@score":"1",
+"@id":"3882659",
+"info":{"authors":{"author":[{"@pid":"m/MichaelPMesnier","text":"Michael P. Mesnier"},{"@pid":"83/4428","text":"Matthew Wachs"},{"@pid":"99/5200","text":"Raja R. Sambasivan"},{"@pid":"l/JulioLopezHernandez","text":"Julio César López-Hernández"},{"@pid":"81/4016","text":"James Hendricks"},{"@pid":"g/GregoryRGanger","text":"Gregory R. Ganger"},{"@pid":"29/1660","text":"David R. O&apos;Hallaron"}]},"title":"//TRACE - Parallel Trace Replay with Approximate Causal Events.","venue":"FAST","pages":"153-167","year":"2007","type":"Conference and Workshop Papers","key":"conf/fast/MesnierWSLHGO07","ee":"http://www.usenix.org/events/fast07/tech/mesnier.html","url":"https://dblp.org/rec/conf/fast/MesnierWSLHGO07"},
+"url":"URL#3882659"
+},
+{
+"@score":"1",
+"@id":"3882661",
+"info":{"authors":{"author":[{"@pid":"54/2978","text":"Zachary N. J. Peterson"},{"@pid":"b/RandalCBurns","text":"Randal C. Burns"},{"@pid":"66/3575","text":"Giuseppe Ateniese"},{"@pid":"21/2758","text":"Stephen Bono"}]},"title":"Design and Implementation of Verifiable Audit Trails for a Versioning File System.","venue":"FAST","pages":"93-106","year":"2007","type":"Conference and Workshop Papers","key":"conf/fast/PetersonBAB07","ee":"http://www.usenix.org/events/fast07/tech/peterson.html","url":"https://dblp.org/rec/conf/fast/PetersonBAB07"},
+"url":"URL#3882661"
+},
+{
+"@score":"1",
+"@id":"3882663",
+"info":{"authors":{"author":[{"@pid":"65/6221","text":"Eduardo Pinheiro"},{"@pid":"21/2538","text":"Wolf-Dietrich Weber"},{"@pid":"b/LuizAndreBarroso","text":"Luiz André Barroso"}]},"title":"Failure Trends in a Large Disk Drive Population.","venue":"FAST","pages":"17-28","year":"2007","type":"Conference and Workshop Papers","key":"conf/fast/PinheiroWB07","ee":"http://www.usenix.org/events/fast07/tech/pinheiro.html","url":"https://dblp.org/rec/conf/fast/PinheiroWB07"},
+"url":"URL#3882663"
+},
+{
+"@score":"1",
+"@id":"3882666",
+"info":{"authors":{"author":[{"@pid":"s/BiancaSchroeder","text":"Bianca Schroeder"},{"@pid":"g/GarthAGibson","text":"Garth A. Gibson"}]},"title":"Disk Failures in the Real World - What Does an MTTF of 1, 000, 000 Hours Mean to You?","venue":"FAST","pages":"1-16","year":"2007","type":"Conference and Workshop Papers","key":"conf/fast/SchroederG07","ee":"http://www.usenix.org/events/fast07/tech/schroeder.html","url":"https://dblp.org/rec/conf/fast/SchroederG07"},
+"url":"URL#3882666"
+},
+{
+"@score":"1",
+"@id":"3882667",
+"info":{"authors":{"author":[{"@pid":"04/2026-1","text":"Lei Tian 0001"},{"@pid":"48/5939-1","text":"Dan Feng 0001"},{"@pid":"16/3631-1","text":"Hong Jiang 0001"},{"@pid":"78/2949-1","text":"Ke Zhou 0001"},{"@pid":"67/3280","text":"Lingfang Zeng"},{"@pid":"50/128","text":"Jianxi Chen"},{"@pid":"06/2483","text":"Zhikun Wang"},{"@pid":"04/8470","text":"Zhenlei Song"}]},"title":"PRO - A Popularity-based Multi-threaded Reconstruction Optimization for RAID-Structured Storage Systems.","venue":"FAST","pages":"277-290","year":"2007","type":"Conference and Workshop Papers","key":"conf/fast/TianFJZZCWS07","ee":"http://www.usenix.org/events/fast07/tech/tian.html","url":"https://dblp.org/rec/conf/fast/TianFJZZCWS07"},
+"url":"URL#3882667"
+},
+{
+"@score":"1",
+"@id":"3882669",
+"info":{"authors":{"author":[{"@pid":"52/1896","text":"Kaushik Veeraraghavan"},{"@pid":"07/8470","text":"Andrew Myrick"},{"@pid":"14/85","text":"Jason Flinn"}]},"title":"Cobalt - Separating Content Distribution from Authorization in Distributed File Systems.","venue":"FAST","pages":"231-244","year":"2007","type":"Conference and Workshop Papers","key":"conf/fast/VeeraraghavanMF07","ee":"http://www.usenix.org/events/fast07/tech/veeraraghavan.html","url":"https://dblp.org/rec/conf/fast/VeeraraghavanMF07"},
+"url":"URL#3882669"
+},
+{
+"@score":"1",
+"@id":"3882670",
+"info":{"authors":{"author":[{"@pid":"83/4428","text":"Matthew Wachs"},{"@pid":"24/6177","text":"Michael Abd-El-Malek"},{"@pid":"44/5931","text":"Eno Thereska"},{"@pid":"g/GregoryRGanger","text":"Gregory R. Ganger"}]},"title":"Argon - Performance Insulation for Shared Storage Servers.","venue":"FAST","pages":"61-76","year":"2007","type":"Conference and Workshop Papers","key":"conf/fast/WachsATG07","ee":"http://www.usenix.org/events/fast07/tech/wachs.html","url":"https://dblp.org/rec/conf/fast/WachsATG07"},
+"url":"URL#3882670"
+},
+{
+"@score":"1",
+"@id":"3882671",
+"info":{"authors":{"author":[{"@pid":"70/4828-1","text":"Yin Wang 0001"},{"@pid":"40/3294","text":"Arif Merchant"}]},"title":"Proportional-Share Scheduling for Distributed Storage Systems.","venue":"FAST","pages":"47-60","year":"2007","type":"Conference and Workshop Papers","key":"conf/fast/WangM07","ee":"http://www.usenix.org/events/fast07/tech/wang.html","url":"https://dblp.org/rec/conf/fast/WangM07"},
+"url":"URL#3882671"
+},
+{
+"@score":"1",
+"@id":"3882672",
+"info":{"authors":{"author":[{"@pid":"40/6648","text":"Charles Weddle"},{"@pid":"58/6656","text":"Mathew Oldham"},{"@pid":"99/826","text":"Jin Qian"},{"@pid":"w/AnIWang","text":"An-I Andy Wang"},{"@pid":"r/PLReiher","text":"Peter L. Reiher"},{"@pid":"44/5151","text":"Geoff Kuenning"}]},"title":"PARAID - A Gear-Shifting Power-Aware RAID.","venue":"FAST","pages":"245-260","year":"2007","type":"Conference and Workshop Papers","key":"conf/fast/WeddleOQWRK07","ee":"http://www.usenix.org/events/fast07/tech/weddle.html","url":"https://dblp.org/rec/conf/fast/WeddleOQWRK07"},
+"url":"URL#3882672"
+},
+{
+"@score":"1",
+"@id":"3882674",
+"info":{"authors":{"author":[{"@pid":"25/646","text":"Gala Yadgar"},{"@pid":"f/MichaelFactor","text":"Michael Factor"},{"@pid":"s/AssafSchuster","text":"Assaf Schuster"}]},"title":"Karma - Know-It-All Replacement for a Multilevel Cache.","venue":"FAST","pages":"169-184","year":"2007","type":"Conference and Workshop Papers","key":"conf/fast/YadgarFS07","ee":"http://www.usenix.org/events/fast07/tech/yadgar.html","url":"https://dblp.org/rec/conf/fast/YadgarFS07"},
+"url":"URL#3882674"
+},
+{
+"@score":"1",
+"@id":"3882675",
+"info":{"authors":{"author":[{"@pid":"75/6541","text":"Aydan R. Yumerefendi"},{"@pid":"c/JSChase","text":"Jeffrey S. Chase"}]},"title":"Strong Accountability for Network Storage.","venue":"FAST","pages":"77-92","year":"2007","type":"Conference and Workshop Papers","key":"conf/fast/YumerefendiC07","ee":"http://www.usenix.org/events/fast07/tech/yumerefendi.html","url":"https://dblp.org/rec/conf/fast/YumerefendiC07"},
+"url":"URL#3882675"
+},
+{
+"@score":"1",
+"@id":"3962293",
+"info":{"authors":{"author":[{"@pid":"a/AndreaCArpaciDusseau","text":"Andrea C. Arpaci-Dusseau"},{"@pid":"a/RemziHArpaciDusseau","text":"Remzi H. Arpaci-Dusseau"}]},"title":"5th USENIX Conference on File and Storage Technologies, FAST 2007, February 13-16, 2007, San Jose, CA, USA","venue":"FAST","publisher":"USENIX","year":"2007","type":"Editorship","key":"conf/fast/2007","url":"https://dblp.org/rec/conf/fast/2007"},
+"url":"URL#3962293"
+}
+]
+}
+}
+}

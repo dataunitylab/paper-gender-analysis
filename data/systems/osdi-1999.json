@@ -1,0 +1,158 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"osdi\"/\"osdi99\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"130.24"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"21",
+"@dc":"21",
+"@oc":"21",
+"@id":"17580809",
+"text":":facetid:toc:db/conf/osdi/osdi99.bht"
+}
+},
+"hits":{
+"@total":"21",
+"@computed":"21",
+"@sent":"21",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"4842234",
+"info":{"authors":{"author":{"@pid":"53/1938","text":"Miche Baker-Harvey"}},"title":"ETI Resource Distributor - Guaranteed Resource Allocation and Scheduling in Multimedia Systems.","venue":"OSDI","pages":"131-144","year":"1999","type":"Conference and Workshop Papers","key":"conf/osdi/Baker-Harvey99","ee":"https://dl.acm.org/citation.cfm?id=296819","url":"https://dblp.org/rec/conf/osdi/Baker-Harvey99"},
+"url":"URL#4842234"
+},
+{
+"@score":"1",
+"@id":"4842235",
+"info":{"authors":{"author":[{"@pid":"55/2641","text":"Gaurav Banga"},{"@pid":"d/PDruschel","text":"Peter Druschel"},{"@pid":"m/JeffreyCMogul","text":"Jeffrey C. Mogul"}]},"title":"Resource Containers - A New Facility for Resource Management in Server Systems.","venue":"OSDI","pages":"45-58","year":"1999","type":"Conference and Workshop Papers","key":"conf/osdi/BangaDM99","ee":"https://dl.acm.org/citation.cfm?id=296810","url":"https://dblp.org/rec/conf/osdi/BangaDM99"},
+"url":"URL#4842235"
+},
+{
+"@score":"1",
+"@id":"4842236",
+"info":{"authors":{"author":[{"@pid":"c/MiguelCastro","text":"Miguel Castro 0001"},{"@pid":"l/BarbaraLiskov","text":"Barbara Liskov"}]},"title":"Practical Byzantine Fault Tolerance.","venue":"OSDI","pages":"173-186","year":"1999","type":"Conference and Workshop Papers","key":"conf/osdi/CastroL99","ee":"https://dl.acm.org/citation.cfm?id=296824","url":"https://dblp.org/rec/conf/osdi/CastroL99"},
+"url":"URL#4842236"
+},
+{
+"@score":"1",
+"@id":"4842237",
+"info":{"authors":{"author":[{"@pid":"42/1978","text":"Fay W. Chang"},{"@pid":"g/GarthAGibson","text":"Garth A. Gibson"}]},"title":"Automatic I/O Hint Generation Through Speculative Execution.","venue":"OSDI","pages":"1-14","year":"1999","type":"Conference and Workshop Papers","key":"conf/osdi/ChangG99","ee":"https://dl.acm.org/citation.cfm?id=296807","url":"https://dblp.org/rec/conf/osdi/ChangG99"},
+"url":"URL#4842237"
+},
+{
+"@score":"1",
+"@id":"4842238",
+"info":{"authors":{"author":[{"@pid":"37/6855","text":"Erik Cota-Robles"},{"@pid":"06/1551","text":"James P. Held"}]},"title":"A Comparison of Windows Driver Model Latency Performance on Windows NT and Windows 98.","venue":"OSDI","pages":"159-172","year":"1999","type":"Conference and Workshop Papers","key":"conf/osdi/Cota-RoblesH99","ee":"https://dl.acm.org/citation.cfm?id=296823","url":"https://dblp.org/rec/conf/osdi/Cota-RoblesH99"},
+"url":"URL#4842238"
+},
+{
+"@score":"1",
+"@id":"4842239",
+"info":{"authors":{"author":[{"@pid":"12/3684","text":"Cort Dougan"},{"@pid":"89/2797","text":"Paul Mackerras"},{"@pid":"08/1441","text":"Victor Yodaiken"}]},"title":"Optimizing the Idle Task and Other MMU Tricks.","venue":"OSDI","pages":"229-237","year":"1999","type":"Conference and Workshop Papers","key":"conf/osdi/DouganMY99","ee":"https://dl.acm.org/citation.cfm?id=296833","url":"https://dblp.org/rec/conf/osdi/DouganMY99"},
+"url":"URL#4842239"
+},
+{
+"@score":"1",
+"@id":"4842240",
+"info":{"authors":{"author":[{"@pid":"f/BryanFord","text":"Bryan Ford"},{"@pid":"h/MikeHibler","text":"Mike Hibler"},{"@pid":"l/JayLepreau","text":"Jay Lepreau"},{"@pid":"99/2036","text":"Roland McGrath"},{"@pid":"01/3094","text":"Patrick Tullmann"}]},"title":"Interface and Execution Models in the Fluke Kernel.","venue":"OSDI","pages":"101-115","year":"1999","type":"Conference and Workshop Papers","key":"conf/osdi/FordHLMT99","ee":"https://dl.acm.org/citation.cfm?id=296815","url":"https://dblp.org/rec/conf/osdi/FordHLMT99"},
+"url":"URL#4842240"
+},
+{
+"@score":"1",
+"@id":"4842241",
+"info":{"authors":{"author":[{"@pid":"02/4102","text":"Benjamin Gamsa"},{"@pid":"73/2727","text":"Orran Krieger"},{"@pid":"36/248","text":"Jonathan Appavoo"},{"@pid":"82/5150","text":"Michael Stumm"}]},"title":"Tornado - Maximizing Locality and Concurrency in a Shared Memory Multiprocessor Operating System.","venue":"OSDI","pages":"87-100","year":"1999","type":"Conference and Workshop Papers","key":"conf/osdi/GamsaKAS99","ee":"https://dl.acm.org/citation.cfm?id=296814","url":"https://dblp.org/rec/conf/osdi/GamsaKAS99"},
+"url":"URL#4842241"
+},
+{
+"@score":"1",
+"@id":"4842242",
+"info":{"authors":{"author":[{"@pid":"03/4723","text":"Burra Gopal"},{"@pid":"m/UdiManber","text":"Udi Manber"}]},"title":"Integrating Content-Based Access Mechanisms with Hierarchical File Systems.","venue":"OSDI","pages":"265-278","year":"1999","type":"Conference and Workshop Papers","key":"conf/osdi/GopalM99","ee":"https://dl.acm.org/citation.cfm?id=296838","url":"https://dblp.org/rec/conf/osdi/GopalM99"},
+"url":"URL#4842242"
+},
+{
+"@score":"1",
+"@id":"4842243",
+"info":{"authors":{"author":[{"@pid":"79/3459","text":"Björn Grönvall"},{"@pid":"24/1546","text":"Assar Westerlund"},{"@pid":"31/5942","text":"Stephen Pink"}]},"title":"The Design of a Multicast-Based Distributed File System.","venue":"OSDI","pages":"251-264","year":"1999","type":"Conference and Workshop Papers","key":"conf/osdi/GronvallWP99","ee":"https://dl.acm.org/citation.cfm?id=296837","url":"https://dblp.org/rec/conf/osdi/GronvallWP99"},
+"url":"URL#4842243"
+},
+{
+"@score":"1",
+"@id":"4842244",
+"info":{"authors":{"author":{"@pid":"36/5428","text":"Steven M. Hand"}},"title":"Self-Paging in the Nemesis Operating System.","venue":"OSDI","pages":"73-86","year":"1999","type":"Conference and Workshop Papers","key":"conf/osdi/Hand99","ee":"https://dl.acm.org/citation.cfm?id=296812","url":"https://dblp.org/rec/conf/osdi/Hand99"},
+"url":"URL#4842244"
+},
+{
+"@score":"1",
+"@id":"4842245",
+"info":{"authors":{"author":[{"@pid":"58/3811","text":"Galen C. Hunt"},{"@pid":"s/MichaelLScott","text":"Michael L. Scott"}]},"title":"The Coign Automatic Distributed Partitioning System.","venue":"OSDI","pages":"187-200","year":"1999","type":"Conference and Workshop Papers","key":"conf/osdi/HuntS99","ee":"https://dl.acm.org/citation.cfm?id=296826","url":"https://dblp.org/rec/conf/osdi/HuntS99"},
+"url":"URL#4842245"
+},
+{
+"@score":"1",
+"@id":"4842246",
+"info":{"authors":{"author":[{"@pid":"40/920","text":"Norman C. Hutchinson"},{"@pid":"01/2318","text":"Stephen Manley"},{"@pid":"04/3416","text":"Mike Federwisch"},{"@pid":"86/6655","text":"Guy Harris"},{"@pid":"94/2675","text":"Dave Hitz"},{"@pid":"88/2355","text":"Steven Kleiman"},{"@pid":"93/1254","text":"Sean W. O&apos;Malley"}]},"title":"Logical vs. Physical File System Backup.","venue":"OSDI","pages":"239-249","year":"1999","type":"Conference and Workshop Papers","key":"conf/osdi/HutchinsonMFHHKO99","ee":"https://dl.acm.org/citation.cfm?id=296835","url":"https://dblp.org/rec/conf/osdi/HutchinsonMFHHKO99"},
+"url":"URL#4842246"
+},
+{
+"@score":"1",
+"@id":"4842247",
+"info":{"authors":{"author":[{"@pid":"i/AyalItzkovitz","text":"Ayal Itzkovitz"},{"@pid":"s/AssafSchuster","text":"Assaf Schuster"}]},"title":"MultiView and Millipage - Fine-Grain Sharing in Page-Based DSMs.","venue":"OSDI","pages":"215-228","year":"1999","type":"Conference and Workshop Papers","key":"conf/osdi/ItzkovitzS99","ee":"https://dl.acm.org/citation.cfm?id=296830","url":"https://dblp.org/rec/conf/osdi/ItzkovitzS99"},
+"url":"URL#4842247"
+},
+{
+"@score":"1",
+"@id":"4842248",
+"info":{"authors":{"author":{"@pid":"k/PeterJKeleher","text":"Peter J. Keleher"}},"title":"Tapeworm - High-Level Abstractions of Shared Accesses.","venue":"OSDI","pages":"201-214","year":"1999","type":"Conference and Workshop Papers","key":"conf/osdi/Keleher99","ee":"https://dl.acm.org/citation.cfm?id=296828","url":"https://dblp.org/rec/conf/osdi/Keleher99"},
+"url":"URL#4842248"
+},
+{
+"@score":"1",
+"@id":"4842249",
+"info":{"authors":{"author":[{"@pid":"00/1016","text":"Vivek S. Pai"},{"@pid":"d/PDruschel","text":"Peter Druschel"},{"@pid":"z/WZwaenepoel","text":"Willy Zwaenepoel"}]},"title":"IO-Lite - A Unified I/O Buffering and Caching System.","venue":"OSDI","pages":"15-28","year":"1999","type":"Conference and Workshop Papers","key":"conf/osdi/PaiDZ99","ee":"https://dl.acm.org/citation.cfm?id=296808","url":"https://dblp.org/rec/conf/osdi/PaiDZ99"},
+"url":"URL#4842249"
+},
+{
+"@score":"1",
+"@id":"4842250",
+"info":{"authors":{"author":[{"@pid":"44/2433","text":"Oliver Spatscheck"},{"@pid":"p/LLPeterson","text":"Larry L. Peterson"}]},"title":"Defending Against Denial of Service Attacks in Scout.","venue":"OSDI","pages":"59-72","year":"1999","type":"Conference and Workshop Papers","key":"conf/osdi/SpatscheckP99","ee":"https://dl.acm.org/citation.cfm?id=296811","url":"https://dblp.org/rec/conf/osdi/SpatscheckP99"},
+"url":"URL#4842250"
+},
+{
+"@score":"1",
+"@id":"4842251",
+"info":{"authors":{"author":[{"@pid":"71/5709","text":"David C. Steere"},{"@pid":"g/AshvinGoel","text":"Ashvin Goel"},{"@pid":"65/4296","text":"Joshua Gruenberg"},{"@pid":"64/6650","text":"Dylan McNamee"},{"@pid":"p/CaltonPu","text":"Calton Pu"},{"@pid":"50/3443","text":"Jonathan Walpole"}]},"title":"A Feedback-driven Proportion Allocator for Real-Rate Scheduling.","venue":"OSDI","pages":"145-158","year":"1999","type":"Conference and Workshop Papers","key":"conf/osdi/SteereGGMPW99","ee":"https://dl.acm.org/citation.cfm?id=296820","url":"https://dblp.org/rec/conf/osdi/SteereGGMPW99"},
+"url":"URL#4842251"
+},
+{
+"@score":"1",
+"@id":"4842252",
+"info":{"authors":{"author":[{"@pid":"98/4524","text":"Ariel Tamches"},{"@pid":"m/BartonPMiller","text":"Barton P. Miller"}]},"title":"Fine-Grained Dynamic Instrumentation of Commodity Operating System Kernels.","venue":"OSDI","pages":"117-130","year":"1999","type":"Conference and Workshop Papers","key":"conf/osdi/TamchesM99","ee":"https://dl.acm.org/citation.cfm?id=296817","url":"https://dblp.org/rec/conf/osdi/TamchesM99"},
+"url":"URL#4842252"
+},
+{
+"@score":"1",
+"@id":"4842253",
+"info":{"authors":{"author":[{"@pid":"69/1132","text":"Randolph Y. Wang"},{"@pid":"a/ThomasEAnderson","text":"Thomas E. Anderson"},{"@pid":"p/DAPatterson","text":"David A. Patterson"}]},"title":"Virtual Log Based File Systems for a Programmable Disk.","venue":"OSDI","pages":"29-43","year":"1999","type":"Conference and Workshop Papers","key":"conf/osdi/WangAP99","ee":"https://dl.acm.org/citation.cfm?id=296809","url":"https://dblp.org/rec/conf/osdi/WangAP99"},
+"url":"URL#4842253"
+},
+{
+"@score":"1",
+"@id":"4851416",
+"info":{"authors":{"author":[{"@pid":"s/MargoISeltzer","text":"Margo I. Seltzer"},{"@pid":"72/6821","text":"Paul J. Leach"}]},"title":"Proceedings of the Third USENIX Symposium on Operating Systems Design and Implementation (OSDI), New Orleans, Louisiana, USA, February 22-25, 1999","venue":"OSDI","publisher":"USENIX Association","year":"1999","type":"Editorship","key":"conf/osdi/1999","url":"https://dblp.org/rec/conf/osdi/1999"},
+"url":"URL#4851416"
+}
+]
+}
+}
+}

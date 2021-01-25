@@ -1,0 +1,140 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"sosp\"/\"sosp2001\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"104.59"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"18",
+"@dc":"18",
+"@oc":"18",
+"@id":"17587894",
+"text":":facetid:toc:db/conf/sosp/sosp2001.bht"
+}
+},
+"hits":{
+"@total":"18",
+"@computed":"18",
+"@sent":"18",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"4699982",
+"info":{"authors":{"author":[{"@pid":"a/DavidGAndersen","text":"David G. Andersen"},{"@pid":"b/HariBalakrishnan","text":"Hari Balakrishnan"},{"@pid":"k/MFransKaashoek","text":"M. Frans Kaashoek"},{"@pid":"82/11191","text":"Robert Tappan Morris"}]},"title":"Resilient Overlay Networks.","venue":"SOSP","pages":"131-145","year":"2001","type":"Conference and Workshop Papers","key":"conf/sosp/AndersenBKM01","doi":"10.1145/502034.502048","ee":"https://doi.org/10.1145/502034.502048","url":"https://dblp.org/rec/conf/sosp/AndersenBKM01"},
+"url":"URL#4699982"
+},
+{
+"@score":"1",
+"@id":"4699983",
+"info":{"authors":{"author":[{"@pid":"a/AndreaCArpaciDusseau","text":"Andrea C. Arpaci-Dusseau"},{"@pid":"a/RemziHArpaciDusseau","text":"Remzi H. Arpaci-Dusseau"}]},"title":"Information and Control in Gray-Box Systems.","venue":"SOSP","pages":"43-56","year":"2001","type":"Conference and Workshop Papers","key":"conf/sosp/Arpaci-DusseauA01","doi":"10.1145/502034.502040","ee":"https://doi.org/10.1145/502034.502040","url":"https://dblp.org/rec/conf/sosp/Arpaci-DusseauA01"},
+"url":"URL#4699983"
+},
+{
+"@score":"1",
+"@id":"4699984",
+"info":{"authors":{"author":[{"@pid":"c/JSChase","text":"Jeffrey S. Chase"},{"@pid":"47/721","text":"Darrell C. Anderson"},{"@pid":"70/77","text":"Prachi N. Thakar"},{"@pid":"v/AminVahdat","text":"Amin Vahdat"},{"@pid":"69/905","text":"Ronald P. Doyle"}]},"title":"Managing Energy and Server Resources in Hosting Centres.","venue":"SOSP","pages":"103-116","year":"2001","type":"Conference and Workshop Papers","key":"conf/sosp/ChaseATVD01","doi":"10.1145/502034.502045","ee":"https://doi.org/10.1145/502034.502045","url":"https://dblp.org/rec/conf/sosp/ChaseATVD01"},
+"url":"URL#4699984"
+},
+{
+"@score":"1",
+"@id":"4699985",
+"info":{"authors":{"author":[{"@pid":"53/3446","text":"Andy Chou"},{"@pid":"71/3724","text":"Junfeng Yang"},{"@pid":"28/2333","text":"Benjamin Chelf"},{"@pid":"97/6437","text":"Seth Hallem"},{"@pid":"e/DREngler","text":"Dawson R. Engler"}]},"title":"An Empirical Study of Operating System Errors.","venue":"SOSP","pages":"73-88","year":"2001","type":"Conference and Workshop Papers","key":"conf/sosp/ChouYCHE01","doi":"10.1145/502034.502042","ee":"https://doi.org/10.1145/502034.502042","url":"https://dblp.org/rec/conf/sosp/ChouYCHE01"},
+"url":"URL#4699985"
+},
+{
+"@score":"1",
+"@id":"4699986",
+"info":{"authors":{"author":[{"@pid":"19/6590","text":"Frank Dabek"},{"@pid":"k/MFransKaashoek","text":"M. Frans Kaashoek"},{"@pid":"k/DavidRKarger","text":"David R. Karger"},{"@pid":"82/11191","text":"Robert Tappan Morris"},{"@pid":"s/IonStoica","text":"Ion Stoica"}]},"title":"Wide-Area Cooperative Storage with CFS.","venue":"SOSP","pages":"202-215","year":"2001","type":"Conference and Workshop Papers","key":"conf/sosp/DabekKKMS01","doi":"10.1145/502034.502054","ee":"https://doi.org/10.1145/502034.502054","url":"https://dblp.org/rec/conf/sosp/DabekKKMS01"},
+"url":"URL#4699986"
+},
+{
+"@score":"1",
+"@id":"4699987",
+"info":{"authors":{"author":[{"@pid":"e/DREngler","text":"Dawson R. Engler"},{"@pid":"69/4818","text":"David Yu Chen"},{"@pid":"53/3446","text":"Andy Chou"}]},"title":"Bugs as Inconsistent Behavior - A General Approach to Inferring Errors in Systems Code.","venue":"SOSP","pages":"57-72","year":"2001","type":"Conference and Workshop Papers","key":"conf/sosp/EnglerCC01","doi":"10.1145/502034.502041","ee":"https://doi.org/10.1145/502034.502041","url":"https://dblp.org/rec/conf/sosp/EnglerCC01"},
+"url":"URL#4699987"
+},
+{
+"@score":"1",
+"@id":"4699988",
+"info":{"authors":{"author":[{"@pid":"h/JohnSHeidemann","text":"John S. Heidemann"},{"@pid":"81/3521","text":"Fabio Silva"},{"@pid":"25/6097","text":"Chalermek Intanagonwiwat"},{"@pid":"g/RameshGovindan","text":"Ramesh Govindan"},{"@pid":"e/DeborahEstrin","text":"Deborah Estrin"},{"@pid":"g/DeepakGanesan","text":"Deepak Ganesan"}]},"title":"Building Efficient Wireless Sensor Networks with Low-Level Naming.","venue":"SOSP","pages":"146-159","year":"2001","type":"Conference and Workshop Papers","key":"conf/sosp/HeidemannSIGEG01","doi":"10.1145/502034.502049","ee":"https://doi.org/10.1145/502034.502049","url":"https://dblp.org/rec/conf/sosp/HeidemannSIGEG01"},
+"url":"URL#4699988"
+},
+{
+"@score":"1",
+"@id":"4699989",
+"info":{"authors":{"author":[{"@pid":"39/227","text":"Sitaram Iyer"},{"@pid":"d/PDruschel","text":"Peter Druschel"}]},"title":"Anticipatory scheduling - A disk scheduling framework to overcome deceptive idleness in synchronous I/O.","venue":"SOSP","pages":"117-130","year":"2001","type":"Conference and Workshop Papers","key":"conf/sosp/IyerD01","doi":"10.1145/502034.502046","ee":"https://doi.org/10.1145/502034.502046","url":"https://dblp.org/rec/conf/sosp/IyerD01"},
+"url":"URL#4699989"
+},
+{
+"@score":"1",
+"@id":"4699990",
+"info":{"authors":{"author":[{"@pid":"57/2442","text":"Athicha Muthitacharoen"},{"@pid":"60/2306","text":"Benjie Chen"},{"@pid":"m/DMazieres","text":"David Mazières"}]},"title":"A Low-Bandwidth Network File System.","venue":"SOSP","pages":"174-187","year":"2001","type":"Conference and Workshop Papers","key":"conf/sosp/MuthitacharoenCM01","doi":"10.1145/502034.502052","ee":"https://doi.org/10.1145/502034.502052","url":"https://dblp.org/rec/conf/sosp/MuthitacharoenCM01"},
+"url":"URL#4699990"
+},
+{
+"@score":"1",
+"@id":"4699991",
+"info":{"authors":{"author":[{"@pid":"36/6668","text":"Padmanabhan Pillai"},{"@pid":"s/KangGShin","text":"Kang G. Shin"}]},"title":"Real-Time Dynamic Voltage Scaling for Low-Power Embedded Operating Systems.","venue":"SOSP","pages":"89-102","year":"2001","type":"Conference and Workshop Papers","key":"conf/sosp/PillaiS01","doi":"10.1145/502034.502044","ee":"https://doi.org/10.1145/502034.502044","url":"https://dblp.org/rec/conf/sosp/PillaiS01"},
+"url":"URL#4699991"
+},
+{
+"@score":"1",
+"@id":"4699992",
+"info":{"authors":{"author":[{"@pid":"87/6689","text":"Rodrigo Rodrigues 0001"},{"@pid":"c/MiguelCastro","text":"Miguel Castro 0001"},{"@pid":"l/BarbaraLiskov","text":"Barbara Liskov"}]},"title":"BASE - Using Abstraction to Improve Fault Tolerance.","venue":"SOSP","pages":"15-28","year":"2001","type":"Conference and Workshop Papers","key":"conf/sosp/RodriguesCL01","doi":"10.1145/502034.502037","ee":"https://doi.org/10.1145/502034.502037","url":"https://dblp.org/rec/conf/sosp/RodriguesCL01"},
+"url":"URL#4699992"
+},
+{
+"@score":"1",
+"@id":"4699993",
+"info":{"authors":{"author":[{"@pid":"r/AITRowstron","text":"Antony I. T. Rowstron"},{"@pid":"d/PDruschel","text":"Peter Druschel"}]},"title":"Storage Management and Caching in PAST, A Large-scale, Persistent Peer-to-peer Storage Utility.","venue":"SOSP","pages":"188-201","year":"2001","type":"Conference and Workshop Papers","key":"conf/sosp/RowstronD01","doi":"10.1145/502034.502053","ee":"https://doi.org/10.1145/502034.502053","url":"https://dblp.org/rec/conf/sosp/RowstronD01"},
+"url":"URL#4699993"
+},
+{
+"@score":"1",
+"@id":"4699994",
+"info":{"authors":{"author":[{"@pid":"s/AlexCSnoeren","text":"Alex C. Snoeren"},{"@pid":"83/687","text":"Kenneth Conley"},{"@pid":"g/DavidKGifford","text":"David K. Gifford"}]},"title":"Mesh Based Content Routing using XML.","venue":"SOSP","pages":"160-173","year":"2001","type":"Conference and Workshop Papers","key":"conf/sosp/SnoerenCG01","doi":"10.1145/502034.502050","ee":"https://doi.org/10.1145/502034.502050","url":"https://dblp.org/rec/conf/sosp/SnoerenCG01"},
+"url":"URL#4699994"
+},
+{
+"@score":"1",
+"@id":"4699995",
+"info":{"authors":{"author":[{"@pid":"28/287","text":"Tammo Spalink"},{"@pid":"12/2198","text":"Scott Karlin"},{"@pid":"p/LLPeterson","text":"Larry L. Peterson"},{"@pid":"02/1435","text":"Yitzchak M. Gottlieb"}]},"title":"Building a Robust Software-Based Router Using Network Processors.","venue":"SOSP","pages":"216-229","year":"2001","type":"Conference and Workshop Papers","key":"conf/sosp/SpalinkKPG01","doi":"10.1145/502034.502056","ee":"https://doi.org/10.1145/502034.502056","url":"https://dblp.org/rec/conf/sosp/SpalinkKPG01"},
+"url":"URL#4699995"
+},
+{
+"@score":"1",
+"@id":"4699996",
+"info":{"authors":{"author":[{"@pid":"w/MattWelsh","text":"Matt Welsh"},{"@pid":"c/DavidECuller","text":"David E. Culler"},{"@pid":"b/EricABrewer","text":"Eric A. Brewer"}]},"title":"SEDA - An Architecture for Well-Conditioned, Scalable Internet Services.","venue":"SOSP","pages":"230-243","year":"2001","type":"Conference and Workshop Papers","key":"conf/sosp/WelshCB01","doi":"10.1145/502034.502057","ee":"https://doi.org/10.1145/502034.502057","url":"https://dblp.org/rec/conf/sosp/WelshCB01"},
+"url":"URL#4699996"
+},
+{
+"@score":"1",
+"@id":"4699997",
+"info":{"authors":{"author":[{"@pid":"69/1249","text":"Haifeng Yu"},{"@pid":"v/AminVahdat","text":"Amin Vahdat"}]},"title":"The Costs and Limits of Availability for Replicated Services.","venue":"SOSP","pages":"29-42","year":"2001","type":"Conference and Workshop Papers","key":"conf/sosp/YuV01","doi":"10.1145/502034.502038","ee":"https://doi.org/10.1145/502034.502038","url":"https://dblp.org/rec/conf/sosp/YuV01"},
+"url":"URL#4699997"
+},
+{
+"@score":"1",
+"@id":"4699998",
+"info":{"authors":{"author":[{"@pid":"99/3437","text":"Steve Zdancewic"},{"@pid":"95/3594","text":"Lantian Zheng"},{"@pid":"54/2322","text":"Nathaniel Nystrom"},{"@pid":"m/AndrewCMyers","text":"Andrew C. Myers"}]},"title":"Untrusted Hosts and Confidentiality - Secure Program Partitioning.","venue":"SOSP","pages":"1-14","year":"2001","type":"Conference and Workshop Papers","key":"conf/sosp/ZdancewicZNM01","doi":"10.1145/502034.502036","ee":"https://doi.org/10.1145/502034.502036","url":"https://dblp.org/rec/conf/sosp/ZdancewicZNM01"},
+"url":"URL#4699998"
+},
+{
+"@score":"1",
+"@id":"4706234",
+"info":{"authors":{"author":[{"@pid":"m/KMarzullo","text":"Keith Marzullo"},{"@pid":"s/MahadevSatyanarayanan","text":"Mahadev Satyanarayanan"}]},"title":"Proceedings of the 18th ACM Symposium on Operating System Principles, SOSP 2001, Chateau Lake Louise, Banff, Alberta, Canada, October 21-24, 2001","venue":"SOSP","publisher":"ACM","year":"2001","type":"Editorship","key":"conf/sosp/2001","doi":"10.1145/502034","ee":"https://doi.org/10.1145/502034","url":"https://dblp.org/rec/conf/sosp/2001"},
+"url":"URL#4706234"
+}
+]
+}
+}
+}

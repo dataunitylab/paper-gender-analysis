@@ -1,0 +1,230 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"sigcomm\"/\"sigcomm2004\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"106.95"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"33",
+"@dc":"33",
+"@oc":"33",
+"@id":"17586201",
+"text":":facetid:toc:db/conf/sigcomm/sigcomm2004.bht"
+}
+},
+"hits":{
+"@total":"33",
+"@computed":"33",
+"@sent":"33",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"4410030",
+"info":{"authors":{"author":[{"@pid":"71/5719","text":"Daniel Aguayo"},{"@pid":"92/6961","text":"John C. Bicket"},{"@pid":"41/6079","text":"Sanjit Biswas"},{"@pid":"19/3966","text":"Glenn Judd"},{"@pid":"82/11191","text":"Robert Tappan Morris"}]},"title":"Link-level measurements from an 802.11b mesh network.","venue":"SIGCOMM","pages":"121-132","year":"2004","type":"Conference and Workshop Papers","key":"conf/sigcomm/AguayoBBJM04","doi":"10.1145/1015467.1015482","ee":"https://doi.org/10.1145/1015467.1015482","url":"https://dblp.org/rec/conf/sigcomm/AguayoBBJM04"},
+"url":"URL#4410030"
+},
+{
+"@score":"1",
+"@id":"4410031",
+"info":{"authors":{"author":[{"@pid":"a/AdityaAkella","text":"Aditya Akella"},{"@pid":"17/2705","text":"Jeffrey Pang"},{"@pid":"m/BruceMMaggs","text":"Bruce M. Maggs"},{"@pid":"s/SrinivasanSeshan","text":"Srinivasan Seshan"},{"@pid":"55/654","text":"Anees Shaikh"}]},"title":"A comparison of overlay routing and multihoming route control.","venue":"SIGCOMM","pages":"93-106","year":"2004","type":"Conference and Workshop Papers","key":"conf/sigcomm/AkellaPMSS04","doi":"10.1145/1015467.1015479","ee":"https://doi.org/10.1145/1015467.1015479","url":"https://dblp.org/rec/conf/sigcomm/AkellaPMSS04"},
+"url":"URL#4410031"
+},
+{
+"@score":"1",
+"@id":"4410032",
+"info":{"authors":{"author":[{"@pid":"12/84","text":"Guido Appenzeller"},{"@pid":"68/2276","text":"Isaac Keslassy"},{"@pid":"m/NickMcKeown","text":"Nick McKeown"}]},"title":"Sizing router buffers.","venue":"SIGCOMM","pages":"281-292","year":"2004","type":"Conference and Workshop Papers","key":"conf/sigcomm/AppenzellerKM04","doi":"10.1145/1015467.1015499","ee":"https://doi.org/10.1145/1015467.1015499","url":"https://dblp.org/rec/conf/sigcomm/AppenzellerKM04"},
+"url":"URL#4410032"
+},
+{
+"@score":"1",
+"@id":"4410033",
+"info":{"authors":{"author":[{"@pid":"b/HariBalakrishnan","text":"Hari Balakrishnan"},{"@pid":"06/5099","text":"Karthik Lakshminarayanan"},{"@pid":"68/5579","text":"Sylvia Ratnasamy"},{"@pid":"34/5593","text":"Scott Shenker"},{"@pid":"s/IonStoica","text":"Ion Stoica"},{"@pid":"00/2879","text":"Michael Walfish"}]},"title":"A layered naming architecture for the internet.","venue":"SIGCOMM","pages":"343-352","year":"2004","type":"Conference and Workshop Papers","key":"conf/sigcomm/BalakrishnanLRSSW04","doi":"10.1145/1015467.1015505","ee":"https://doi.org/10.1145/1015467.1015505","url":"https://dblp.org/rec/conf/sigcomm/BalakrishnanLRSSW04"},
+"url":"URL#4410033"
+},
+{
+"@score":"1",
+"@id":"4410034",
+"info":{"authors":{"author":[{"@pid":"90/6506","text":"Ashwin R. Bharambe"},{"@pid":"98/664","text":"Mukesh Agrawal"},{"@pid":"s/SrinivasanSeshan","text":"Srinivasan Seshan"}]},"title":"Mercury - supporting scalable multi-attribute range queries.","venue":"SIGCOMM","pages":"353-366","year":"2004","type":"Conference and Workshop Papers","key":"conf/sigcomm/BharambeAS04","doi":"10.1145/1015467.1015507","ee":"https://doi.org/10.1145/1015467.1015507","url":"https://dblp.org/rec/conf/sigcomm/BharambeAS04"},
+"url":"URL#4410034"
+},
+{
+"@score":"1",
+"@id":"4410035",
+"info":{"authors":{"author":[{"@pid":"88/2827-4","text":"Yan Chen 0004"},{"@pid":"96/6719","text":"David Bindel"},{"@pid":"52/2373","text":"Han Hee Song"},{"@pid":"k/RandyHKatz","text":"Randy H. Katz"}]},"title":"An algebraic approach to practical and scalable overlay network monitoring.","venue":"SIGCOMM","pages":"55-66","year":"2004","type":"Conference and Workshop Papers","key":"conf/sigcomm/ChenBSK04","doi":"10.1145/1015467.1015475","ee":"https://doi.org/10.1145/1015467.1015475","url":"https://dblp.org/rec/conf/sigcomm/ChenBSK04"},
+"url":"URL#4410035"
+},
+{
+"@score":"1",
+"@id":"4410036",
+"info":{"authors":{"author":[{"@pid":"19/6590","text":"Frank Dabek"},{"@pid":"83/6032","text":"Russ Cox"},{"@pid":"k/MFransKaashoek","text":"M. Frans Kaashoek"},{"@pid":"82/11191","text":"Robert Tappan Morris"}]},"title":"Vivaldi - a decentralized network coordinate system.","venue":"SIGCOMM","pages":"15-26","year":"2004","type":"Conference and Workshop Papers","key":"conf/sigcomm/DabekCKM04","doi":"10.1145/1015467.1015471","ee":"https://doi.org/10.1145/1015467.1015471","url":"https://dblp.org/rec/conf/sigcomm/DabekCKM04"},
+"url":"URL#4410036"
+},
+{
+"@score":"1",
+"@id":"4410037",
+"info":{"authors":{"author":[{"@pid":"09/5874","text":"Richard Draves"},{"@pid":"p/JPadhye","text":"Jitendra Padhye"},{"@pid":"26/1494","text":"Brian Zill"}]},"title":"Comparison of routing metrics for static multi-hop wireless networks.","venue":"SIGCOMM","pages":"133-144","year":"2004","type":"Conference and Workshop Papers","key":"conf/sigcomm/DravesPZ04","doi":"10.1145/1015467.1015483","ee":"https://doi.org/10.1145/1015467.1015483","url":"https://dblp.org/rec/conf/sigcomm/DravesPZ04"},
+"url":"URL#4410037"
+},
+{
+"@score":"1",
+"@id":"4410038",
+"info":{"authors":{"author":[{"@pid":"e/CristianEstan","text":"Cristian Estan"},{"@pid":"39/70","text":"Ken Keys"},{"@pid":"55/1310-1","text":"David Moore 0001"},{"@pid":"v/GeorgeVarghese","text":"George Varghese"}]},"title":"Building a better NetFlow.","venue":"SIGCOMM","pages":"245-256","year":"2004","type":"Conference and Workshop Papers","key":"conf/sigcomm/EstanKMV04","doi":"10.1145/1015467.1015495","ee":"https://doi.org/10.1145/1015467.1015495","url":"https://dblp.org/rec/conf/sigcomm/EstanKMV04"},
+"url":"URL#4410038"
+},
+{
+"@score":"1",
+"@id":"4410039",
+"info":{"authors":{"author":[{"@pid":"f/AnjaFeldmann","text":"Anja Feldmann"},{"@pid":"62/3841","text":"Olaf Maennel"},{"@pid":"91/584","text":"Zhuoqing Morley Mao"},{"@pid":"46/4345","text":"Arthur W. Berger"},{"@pid":"m/BruceMMaggs","text":"Bruce M. Maggs"}]},"title":"Locating internet routing instabilities.","venue":"SIGCOMM","pages":"205-218","year":"2004","type":"Conference and Workshop Papers","key":"conf/sigcomm/FeldmannMMBM04","doi":"10.1145/1015467.1015491","ee":"https://doi.org/10.1145/1015467.1015491","url":"https://dblp.org/rec/conf/sigcomm/FeldmannMMBM04"},
+"url":"URL#4410039"
+},
+{
+"@score":"1",
+"@id":"4410040",
+"info":{"authors":{"author":[{"@pid":"55/2594","text":"David Kiyoshi Goldenberg"},{"@pid":"54/4031","text":"Lili Qiu"},{"@pid":"30/6562","text":"Haiyong Xie 0001"},{"@pid":"y/YangRichardYang","text":"Yang Richard Yang"},{"@pid":"91/3045-1","text":"Yin Zhang 0001"}]},"title":"Optimizing cost and performance for multihoming.","venue":"SIGCOMM","pages":"79-92","year":"2004","type":"Conference and Workshop Papers","key":"conf/sigcomm/GoldenbergQXYZ04","doi":"10.1145/1015467.1015478","ee":"https://doi.org/10.1145/1015467.1015478","url":"https://dblp.org/rec/conf/sigcomm/GoldenbergQXYZ04"},
+"url":"URL#4410040"
+},
+{
+"@score":"1",
+"@id":"4410041",
+"info":{"authors":{"author":[{"@pid":"03/3174","text":"Ningning Hu"},{"@pid":"l/ErranLLi","text":"Erran L. Li"},{"@pid":"91/584","text":"Zhuoqing Morley Mao"},{"@pid":"s/PeterSteenkiste","text":"Peter Steenkiste"},{"@pid":"58/6299","text":"Jia Wang"}]},"title":"Locating internet bottlenecks - algorithms, measurements, and implications.","venue":"SIGCOMM","pages":"41-54","year":"2004","type":"Conference and Workshop Papers","key":"conf/sigcomm/HuLMSW04","doi":"10.1145/1015467.1015474","ee":"https://doi.org/10.1145/1015467.1015474","url":"https://dblp.org/rec/conf/sigcomm/HuLMSW04"},
+"url":"URL#4410041"
+},
+{
+"@score":"1",
+"@id":"4410042",
+"info":{"authors":{"author":[{"@pid":"51/6805","text":"Yih-Chun Hu"},{"@pid":"16/6873","text":"Adrian Perrig"},{"@pid":"k/MarvinASirbu","text":"Marvin A. Sirbu"}]},"title":"SPV - secure path vector routing for securing BGP.","venue":"SIGCOMM","pages":"179-192","year":"2004","type":"Conference and Workshop Papers","key":"conf/sigcomm/HuPS04","doi":"10.1145/1015467.1015488","ee":"https://doi.org/10.1145/1015467.1015488","url":"https://dblp.org/rec/conf/sigcomm/HuPS04"},
+"url":"URL#4410042"
+},
+{
+"@score":"1",
+"@id":"4410043",
+"info":{"authors":{"author":[{"@pid":"69/1905","text":"Sushant Jain"},{"@pid":"38/3635","text":"Kevin R. Fall"},{"@pid":"05/824","text":"Rabin K. Patra"}]},"title":"Routing in a delay tolerant network.","venue":"SIGCOMM","pages":"145-158","year":"2004","type":"Conference and Workshop Papers","key":"conf/sigcomm/JainFP04","doi":"10.1145/1015467.1015484","ee":"https://doi.org/10.1145/1015467.1015484","url":"https://dblp.org/rec/conf/sigcomm/JainFP04"},
+"url":"URL#4410043"
+},
+{
+"@score":"1",
+"@id":"4410044",
+"info":{"authors":{"author":[{"@pid":"32/1892","text":"Rohit Kapoor"},{"@pid":"34/6553","text":"Ling-Jyh Chen"},{"@pid":"05/5316","text":"Li Lao"},{"@pid":"g/MarioGerla","text":"Mario Gerla"},{"@pid":"s/MYSanadidi","text":"M. Y. Sanadidi"}]},"title":"CapProbe - a simple and accurate capacity estimation technique.","venue":"SIGCOMM","pages":"67-78","year":"2004","type":"Conference and Workshop Papers","key":"conf/sigcomm/KapoorCLGS04","doi":"10.1145/1015467.1015476","ee":"https://doi.org/10.1145/1015467.1015476","url":"https://dblp.org/rec/conf/sigcomm/KapoorCLGS04"},
+"url":"URL#4410044"
+},
+{
+"@score":"1",
+"@id":"4410045",
+"info":{"authors":{"author":[{"@pid":"74/6759","text":"Min Sik Kim"},{"@pid":"88/6384","text":"Taekhyun Kim"},{"@pid":"64/7513","text":"YongJune Shin"},{"@pid":"l/SimonSLam","text":"Simon S. Lam"},{"@pid":"94/6772","text":"Edward J. Powers"}]},"title":"A wavelet-based approach to detect shared congestion.","venue":"SIGCOMM","pages":"293-306","year":"2004","type":"Conference and Workshop Papers","key":"conf/sigcomm/KimKSLP04","doi":"10.1145/1015467.1015500","ee":"https://doi.org/10.1145/1015467.1015500","url":"https://dblp.org/rec/conf/sigcomm/KimKSLP04"},
+"url":"URL#4410045"
+},
+{
+"@score":"1",
+"@id":"4410046",
+"info":{"authors":{"author":[{"@pid":"53/2640","text":"Anukool Lakhina"},{"@pid":"c/MarkCrovella","text":"Mark Crovella"},{"@pid":"98/739","text":"Christophe Diot"}]},"title":"Diagnosing network-wide traffic anomalies.","venue":"SIGCOMM","pages":"219-230","year":"2004","type":"Conference and Workshop Papers","key":"conf/sigcomm/LakhinaCD04","doi":"10.1145/1015467.1015492","ee":"https://doi.org/10.1145/1015467.1015492","url":"https://dblp.org/rec/conf/sigcomm/LakhinaCD04"},
+"url":"URL#4410046"
+},
+{
+"@score":"1",
+"@id":"4410047",
+"info":{"authors":{"author":{"@pid":"l/SimonSLam","text":"Simon S. Lam"}},"title":"Back to the future part 4 - the internet.","venue":"SIGCOMM","pages":"1-2","year":"2004","type":"Conference and Workshop Papers","key":"conf/sigcomm/Lam04","doi":"10.1145/1015467.1015468","ee":"https://doi.org/10.1145/1015467.1015468","url":"https://dblp.org/rec/conf/sigcomm/Lam04"},
+"url":"URL#4410047"
+},
+{
+"@score":"1",
+"@id":"4410048",
+"info":{"authors":{"author":[{"@pid":"05/1542-1","text":"Lun Li 0001"},{"@pid":"98/7266","text":"David L. Alderson"},{"@pid":"w/WalterWillinger","text":"Walter Willinger"},{"@pid":"d/JohnDoyle","text":"John Doyle"}]},"title":"A first-principles approach to understanding the internet&apos;s router-level topology.","venue":"SIGCOMM","pages":"3-14","year":"2004","type":"Conference and Workshop Papers","key":"conf/sigcomm/LiAWD04","doi":"10.1145/1015467.1015470","ee":"https://doi.org/10.1145/1015467.1015470","url":"https://dblp.org/rec/conf/sigcomm/LiAWD04"},
+"url":"URL#4410048"
+},
+{
+"@score":"1",
+"@id":"4410049",
+"info":{"authors":{"author":[{"@pid":"31/1336","text":"Vasileios Pappas"},{"@pid":"99/5969","text":"Zhiguo Xu"},{"@pid":"55/758","text":"Songwu Lu"},{"@pid":"70/1616","text":"Daniel Massey"},{"@pid":"12/6664","text":"Andreas Terzis"},{"@pid":"z/LixiaZhang1","text":"Lixia Zhang 0001"}]},"title":"Impact of configuration errors on DNS robustness.","venue":"SIGCOMM","pages":"319-330","year":"2004","type":"Conference and Workshop Papers","key":"conf/sigcomm/PappasXLMTZ04","doi":"10.1145/1015467.1015503","ee":"https://doi.org/10.1145/1015467.1015503","url":"https://dblp.org/rec/conf/sigcomm/PappasXLMTZ04"},
+"url":"URL#4410049"
+},
+{
+"@score":"1",
+"@id":"4410050",
+"info":{"authors":{"author":[{"@pid":"44/453","text":"Prashanth Pappu"},{"@pid":"t/JonathanSTurner","text":"Jonathan S. Turner"},{"@pid":"33/4675","text":"Kenneth Wong"}]},"title":"Work-conserving distributed schedulers for Terabit routers.","venue":"SIGCOMM","pages":"257-268","year":"2004","type":"Conference and Workshop Papers","key":"conf/sigcomm/PappuTW04","doi":"10.1145/1015467.1015496","ee":"https://doi.org/10.1145/1015467.1015496","url":"https://dblp.org/rec/conf/sigcomm/PappuTW04"},
+"url":"URL#4410050"
+},
+{
+"@score":"1",
+"@id":"4410051",
+"info":{"authors":{"author":[{"@pid":"69/4388","text":"Dongyu Qiu"},{"@pid":"s/RSrikant","text":"Rayadurgam Srikant"}]},"title":"Modeling and performance analysis of BitTorrent-like peer-to-peer networks.","venue":"SIGCOMM","pages":"367-378","year":"2004","type":"Conference and Workshop Papers","key":"conf/sigcomm/QiuS04","doi":"10.1145/1015467.1015508","ee":"https://doi.org/10.1145/1015467.1015508","url":"https://dblp.org/rec/conf/sigcomm/QiuS04"},
+"url":"URL#4410051"
+},
+{
+"@score":"1",
+"@id":"4410052",
+"info":{"authors":{"author":[{"@pid":"22/3604","text":"Barath Raghavan"},{"@pid":"s/AlexCSnoeren","text":"Alex C. Snoeren"}]},"title":"A system for authenticated policy-compliant routing.","venue":"SIGCOMM","pages":"167-178","year":"2004","type":"Conference and Workshop Papers","key":"conf/sigcomm/RaghavanS04","doi":"10.1145/1015467.1015487","ee":"https://doi.org/10.1145/1015467.1015487","url":"https://dblp.org/rec/conf/sigcomm/RaghavanS04"},
+"url":"URL#4410052"
+},
+{
+"@score":"1",
+"@id":"4410053",
+"info":{"authors":{"author":[{"@pid":"85/4250","text":"Venugopalan Ramasubramanian"},{"@pid":"s/EminGunSirer","text":"Emin Gün Sirer"}]},"title":"The design and implementation of a next generation name service for the internet.","venue":"SIGCOMM","pages":"331-342","year":"2004","type":"Conference and Workshop Papers","key":"conf/sigcomm/RamasubramanianS04","doi":"10.1145/1015467.1015504","ee":"https://doi.org/10.1145/1015467.1015504","url":"https://dblp.org/rec/conf/sigcomm/RamasubramanianS04"},
+"url":"URL#4410053"
+},
+{
+"@score":"1",
+"@id":"4410054",
+"info":{"authors":{"author":[{"@pid":"52/709","text":"Kunwadee Sripanidkulchai"},{"@pid":"86/6881","text":"Aditya Ganjam"},{"@pid":"m/BruceMMaggs","text":"Bruce M. Maggs"},{"@pid":"z/HuiZhang1","text":"Hui Zhang 0001"}]},"title":"The feasibility of supporting large-scale live streaming applications with dynamic application end-points.","venue":"SIGCOMM","pages":"107-120","year":"2004","type":"Conference and Workshop Papers","key":"conf/sigcomm/SripanidkulchaiGMZ04","doi":"10.1145/1015467.1015480","ee":"https://doi.org/10.1145/1015467.1015480","url":"https://dblp.org/rec/conf/sigcomm/SripanidkulchaiGMZ04"},
+"url":"URL#4410054"
+},
+{
+"@score":"1",
+"@id":"4410055",
+"info":{"authors":{"author":[{"@pid":"64/4885","text":"Renata Teixeira"},{"@pid":"s/AmanShaikh","text":"Aman Shaikh"},{"@pid":"g/TimothyGGriffin","text":"Timothy Griffin"},{"@pid":"v/GeoffreyMVoelker","text":"Geoffrey M. Voelker"}]},"title":"Network sensitivity to hot-potato disruptions.","venue":"SIGCOMM","pages":"231-244","year":"2004","type":"Conference and Workshop Papers","key":"conf/sigcomm/TeixeiraSGV04","doi":"10.1145/1015467.1015493","ee":"https://doi.org/10.1145/1015467.1015493","url":"https://dblp.org/rec/conf/sigcomm/TeixeiraSGV04"},
+"url":"URL#4410055"
+},
+{
+"@score":"1",
+"@id":"4410056",
+"info":{"authors":{"author":{"@pid":"93/2381","text":"Paolo Valente"}},"title":"Exact GPS simulation with logarithmic complexity, and its application to an optimally fair scheduler.","venue":"SIGCOMM","pages":"269-280","year":"2004","type":"Conference and Workshop Papers","key":"conf/sigcomm/Valente04","doi":"10.1145/1015467.1015497","ee":"https://doi.org/10.1145/1015467.1015497","url":"https://dblp.org/rec/conf/sigcomm/Valente04"},
+"url":"URL#4410056"
+},
+{
+"@score":"1",
+"@id":"4410057",
+"info":{"authors":{"author":[{"@pid":"w/HelenJWang","text":"Helen J. Wang"},{"@pid":"95/4962","text":"Chuanxiong Guo"},{"@pid":"92/908","text":"Daniel R. Simon"},{"@pid":"92/4012","text":"Alf Zugenmaier"}]},"title":"Shield - vulnerability-driven network filters for preventing known vulnerability exploits.","venue":"SIGCOMM","pages":"193-204","year":"2004","type":"Conference and Workshop Papers","key":"conf/sigcomm/WangGSZ04","doi":"10.1145/1015467.1015489","ee":"https://doi.org/10.1145/1015467.1015489","url":"https://dblp.org/rec/conf/sigcomm/WangGSZ04"},
+"url":"URL#4410057"
+},
+{
+"@score":"1",
+"@id":"4410058",
+"info":{"authors":{"author":[{"@pid":"69/1132","text":"Randolph Y. Wang"},{"@pid":"42/5920","text":"Sumeet Sobti"},{"@pid":"85/2042","text":"Nitin Garg"},{"@pid":"01/5710","text":"Elisha Ziskind"},{"@pid":"85/6379","text":"Junwen Lai"},{"@pid":"k/AKrishnamurthy","text":"Arvind Krishnamurthy"}]},"title":"Turning the postal system into a generic digital communication mechanism.","venue":"SIGCOMM","pages":"159-166","year":"2004","type":"Conference and Workshop Papers","key":"conf/sigcomm/WangSGZLK04","doi":"10.1145/1015467.1015485","ee":"https://doi.org/10.1145/1015467.1015485","url":"https://dblp.org/rec/conf/sigcomm/WangSGZLK04"},
+"url":"URL#4410058"
+},
+{
+"@score":"1",
+"@id":"4410059",
+"info":{"authors":{"author":[{"@pid":"96/5793","text":"Geoffrey G. Xie"},{"@pid":"12/1819","text":"Jibin Zhan"},{"@pid":"65/1459","text":"David A. Maltz"},{"@pid":"z/HuiZhang1","text":"Hui Zhang 0001"},{"@pid":"g/AlbertGGreenberg","text":"Albert G. Greenberg"},{"@pid":"h/GisliHjalmtysson","text":"Gísli Hjálmtýsson"}]},"title":"Routing design in operational networks - a look from the inside.","venue":"SIGCOMM","pages":"27-40","year":"2004","type":"Conference and Workshop Papers","key":"conf/sigcomm/XieZMZGH04","doi":"10.1145/1015467.1015472","ee":"https://doi.org/10.1145/1015467.1015472","url":"https://dblp.org/rec/conf/sigcomm/XieZMZGH04"},
+"url":"URL#4410059"
+},
+{
+"@score":"1",
+"@id":"4410060",
+"info":{"authors":{"author":[{"@pid":"66/3044","text":"Praveen Yalagandula"},{"@pid":"d/MDahlin","text":"Michael Dahlin"}]},"title":"A scalable distributed information management system.","venue":"SIGCOMM","pages":"379-390","year":"2004","type":"Conference and Workshop Papers","key":"conf/sigcomm/YalagandulaD04","doi":"10.1145/1015467.1015509","ee":"https://doi.org/10.1145/1015467.1015509","url":"https://dblp.org/rec/conf/sigcomm/YalagandulaD04"},
+"url":"URL#4410060"
+},
+{
+"@score":"1",
+"@id":"4410061",
+"info":{"authors":{"author":[{"@pid":"67/4581","text":"Yueping Zhang"},{"@pid":"63/2977","text":"Seong-ryong Kang"},{"@pid":"l/DmitriLoguinov","text":"Dmitri Loguinov"}]},"title":"Delayed stability and performance of distributed congestion control.","venue":"SIGCOMM","pages":"307-318","year":"2004","type":"Conference and Workshop Papers","key":"conf/sigcomm/ZhangKL04","doi":"10.1145/1015467.1015501","ee":"https://doi.org/10.1145/1015467.1015501","url":"https://dblp.org/rec/conf/sigcomm/ZhangKL04"},
+"url":"URL#4410061"
+},
+{
+"@score":"1",
+"@id":"4421245",
+"info":{"authors":{"author":[{"@pid":"58/6723","text":"Raj Yavatkar"},{"@pid":"z/EllenWZegura","text":"Ellen W. Zegura"},{"@pid":"r/JenniferRexford","text":"Jennifer Rexford"}]},"title":"Proceedings of the ACM SIGCOMM 2004 Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication, August 30 - September 3, 2004, Portland, Oregon, USA","venue":"SIGCOMM","publisher":"ACM","year":"2004","type":"Editorship","key":"conf/sigcomm/2004","doi":"10.1145/1015467","ee":"https://doi.org/10.1145/1015467","url":"https://dblp.org/rec/conf/sigcomm/2004"},
+"url":"URL#4421245"
+}
+]
+}
+}
+}

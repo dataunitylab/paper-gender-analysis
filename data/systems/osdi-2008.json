@@ -1,0 +1,194 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"osdi\"/\"osdi2008\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"101.16"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"27",
+"@dc":"27",
+"@oc":"27",
+"@id":"17580801",
+"text":":facetid:toc:db/conf/osdi/osdi2008.bht"
+}
+},
+"hits":{
+"@total":"27",
+"@computed":"27",
+"@sent":"27",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"3745455",
+"info":{"authors":{"author":[{"@pid":"96/3486","text":"Ashok Anand"},{"@pid":"22/5609","text":"Sayandeep Sen"},{"@pid":"43/4773","text":"Andrew Krioukov"},{"@pid":"34/1202","text":"Florentina I. Popovici"},{"@pid":"a/AdityaAkella","text":"Aditya Akella"},{"@pid":"a/AndreaCArpaciDusseau","text":"Andrea C. Arpaci-Dusseau"},{"@pid":"a/RemziHArpaciDusseau","text":"Remzi H. Arpaci-Dusseau"},{"@pid":"p/SumanBanerjee","text":"Suman Banerjee"}]},"title":"Avoiding File System Micromanagement with Range Writes.","venue":"OSDI","pages":"161-176","year":"2008","type":"Conference and Workshop Papers","key":"conf/osdi/AnandSKPAAAB08","ee":"http://www.usenix.org/events/osdi08/tech/full_papers/anand/anand.pdf","url":"https://dblp.org/rec/conf/osdi/AnandSKPAAAB08"},
+"url":"URL#3745455"
+},
+{
+"@score":"1",
+"@id":"3745458",
+"info":{"authors":{"author":[{"@pid":"97/6573","text":"Sorav Bansal"},{"@pid":"a/AAiken","text":"Alex Aiken"}]},"title":"Binary Translation Using Peephole Superoptimizers.","venue":"OSDI","pages":"177-192","year":"2008","type":"Conference and Workshop Papers","key":"conf/osdi/BansalA08","ee":"http://www.usenix.org/events/osdi08/tech/full_papers/bansal/bansal.pdf","url":"https://dblp.org/rec/conf/osdi/BansalA08"},
+"url":"URL#3745458"
+},
+{
+"@score":"1",
+"@id":"3745461",
+"info":{"authors":{"author":[{"@pid":"96/2718","text":"Sapan Bhatia"},{"@pid":"67/6188-3","text":"Abhishek Kumar 0003"},{"@pid":"81/447","text":"Marc E. Fiuczynski"},{"@pid":"p/LLPeterson","text":"Larry L. Peterson"}]},"title":"Lightweight, High-Resolution Monitoring for Troubleshooting Production Systems.","venue":"OSDI","pages":"103-116","year":"2008","type":"Conference and Workshop Papers","key":"conf/osdi/BhatiaKFP08","ee":"http://www.usenix.org/events/osdi08/tech/full_papers/bhatia/bhatia.pdf","url":"https://dblp.org/rec/conf/osdi/BhatiaKFP08"},
+"url":"URL#3745461"
+},
+{
+"@score":"1",
+"@id":"3745463",
+"info":{"authors":{"author":[{"@pid":"06/2219","text":"Silas Boyd-Wickizer"},{"@pid":"31/6601-1","text":"Haibo Chen 0001"},{"@pid":"22/6904-1","text":"Rong Chen 0001"},{"@pid":"77/190","text":"Yandong Mao"},{"@pid":"k/MFransKaashoek","text":"M. Frans Kaashoek"},{"@pid":"82/11191","text":"Robert Tappan Morris"},{"@pid":"96/1003","text":"Aleksey Pesterev"},{"@pid":"44/2654","text":"Lex Stein"},{"@pid":"32/2572","text":"Ming Wu"},{"@pid":"56/7549","text":"Yue-hua Dai"},{"@pid":"06/6785","text":"Yang Zhang"},{"@pid":"z/ZhengZhang","text":"Zheng Zhang 0001"}]},"title":"Corey - An Operating System for Many Cores.","venue":"OSDI","pages":"43-57","year":"2008","type":"Conference and Workshop Papers","key":"conf/osdi/Boyd-WickizerCCMKMPSWDZZ08","ee":"http://www.usenix.org/events/osdi08/tech/full_papers/boyd-wickizer/boyd-wickizer.pdf","url":"https://dblp.org/rec/conf/osdi/Boyd-WickizerCCMKMPSWDZZ08"},
+"url":"URL#3745463"
+},
+{
+"@score":"1",
+"@id":"3745464",
+"info":{"authors":{"author":[{"@pid":"86/4141","text":"Cristian Cadar"},{"@pid":"43/6591","text":"Daniel Dunbar"},{"@pid":"e/DREngler","text":"Dawson R. Engler"}]},"title":"KLEE - Unassisted and Automatic Generation of High-Coverage Tests for Complex Systems Programs.","venue":"OSDI","pages":"209-224","year":"2008","type":"Conference and Workshop Papers","key":"conf/osdi/CadarDE08","ee":"http://www.usenix.org/events/osdi08/tech/full_papers/cadar/cadar.pdf","url":"https://dblp.org/rec/conf/osdi/CadarDE08"},
+"url":"URL#3745464"
+},
+{
+"@score":"1",
+"@id":"3745465",
+"info":{"authors":{"author":[{"@pid":"83/6331","text":"Xu Chen"},{"@pid":"73/1844","text":"Ming Zhang"},{"@pid":"91/584","text":"Zhuoqing Morley Mao"},{"@pid":"b/ParamvirBahl","text":"Paramvir Bahl"}]},"title":"Automating Network Application Dependency Discovery - Experiences, Limitations, and New Solutions.","venue":"OSDI","pages":"117-130","year":"2008","type":"Conference and Workshop Papers","key":"conf/osdi/ChenZMB08","ee":"http://www.usenix.org/events/osdi08/tech/full_papers/chen_xu/chen_xu.pdf","url":"https://dblp.org/rec/conf/osdi/ChenZMB08"},
+"url":"URL#3745465"
+},
+{
+"@score":"1",
+"@id":"3745466",
+"info":{"authors":{"author":[{"@pid":"58/4477","text":"Anthony Cozzie"},{"@pid":"62/2108","text":"Frank Stratton"},{"@pid":"27/3541","text":"Hui Xue"},{"@pid":"54/5833","text":"Samuel T. King"}]},"title":"Digging for Data Structures.","venue":"OSDI","pages":"255-266","year":"2008","type":"Conference and Workshop Papers","key":"conf/osdi/CozzieSXK08","ee":"http://www.usenix.org/events/osdi08/tech/full_papers/cozzie/cozzie.pdf","url":"https://dblp.org/rec/conf/osdi/CozzieSXK08"},
+"url":"URL#3745466"
+},
+{
+"@score":"1",
+"@id":"3745468",
+"info":{"authors":{"author":[{"@pid":"29/2709","text":"Francis M. David"},{"@pid":"50/1453","text":"Ellick Chan"},{"@pid":"47/3006","text":"Jeffrey C. Carlyle"},{"@pid":"c/RoyHCampbell","text":"Roy H. Campbell"}]},"title":"CuriOS - Improving Reliability through Operating System Structure.","venue":"OSDI","pages":"59-72","year":"2008","type":"Conference and Workshop Papers","key":"conf/osdi/DavidCCC08","ee":"http://www.usenix.org/events/osdi08/tech/full_papers/david/david.pdf","url":"https://dblp.org/rec/conf/osdi/DavidCCC08"},
+"url":"URL#3745468"
+},
+{
+"@score":"1",
+"@id":"3745471",
+"info":{"authors":{"author":[{"@pid":"87/1231","text":"John R. Douceur"},{"@pid":"02/3927","text":"Jeremy Elson"},{"@pid":"55/3274","text":"Jon Howell"},{"@pid":"25/3228","text":"Jacob R. Lorch"}]},"title":"Leveraging Legacy Code to Deploy Desktop Applications on the Web.","venue":"OSDI","pages":"339-354","year":"2008","type":"Conference and Workshop Papers","key":"conf/osdi/DouceurEHL08","ee":"http://www.usenix.org/events/osdi08/tech/full_papers/douceur/douceur.pdf","url":"https://dblp.org/rec/conf/osdi/DouceurEHL08"},
+"url":"URL#3745471"
+},
+{
+"@score":"1",
+"@id":"3745474",
+"info":{"authors":{"author":[{"@pid":"f/RFonseca","text":"Rodrigo Fonseca"},{"@pid":"40/5390","text":"Prabal Dutta"},{"@pid":"91/2665","text":"Philip Levis"},{"@pid":"s/IonStoica","text":"Ion Stoica"}]},"title":"Quanto - Tracking Energy in Networked Embedded Systems.","venue":"OSDI","pages":"323-338","year":"2008","type":"Conference and Workshop Papers","key":"conf/osdi/FonsecaDLS08","ee":"http://www.usenix.org/events/osdi08/tech/full_papers/fonseca/fonseca.pdf","url":"https://dblp.org/rec/conf/osdi/FonsecaDLS08"},
+"url":"URL#3745474"
+},
+{
+"@score":"1",
+"@id":"3745476",
+"info":{"authors":{"author":[{"@pid":"84/5664","text":"Haryadi S. Gunawi"},{"@pid":"87/5546","text":"Abhishek Rajimwale"},{"@pid":"a/AndreaCArpaciDusseau","text":"Andrea C. Arpaci-Dusseau"},{"@pid":"a/RemziHArpaciDusseau","text":"Remzi H. Arpaci-Dusseau"}]},"title":"SQCK - A Declarative File System Checker.","venue":"OSDI","pages":"131-146","year":"2008","type":"Conference and Workshop Papers","key":"conf/osdi/GunawiRAA08","ee":"http://www.usenix.org/events/osdi08/tech/full_papers/gunawi/gunawi.pdf","url":"https://dblp.org/rec/conf/osdi/GunawiRAA08"},
+"url":"URL#3745476"
+},
+{
+"@score":"1",
+"@id":"3745477",
+"info":{"authors":{"author":[{"@pid":"53/1850","text":"Zhenyu Guo"},{"@pid":"08/5760-5","text":"Xi Wang 0005"},{"@pid":"181/2667","text":"Jian Tang"},{"@pid":"85/6600","text":"Xuezheng Liu"},{"@pid":"34/2799","text":"Zhilei Xu"},{"@pid":"32/2572","text":"Ming Wu"},{"@pid":"k/MFransKaashoek","text":"M. Frans Kaashoek"},{"@pid":"z/ZhengZhang","text":"Zheng Zhang 0001"}]},"title":"R2 - An Application-Level Kernel for Record and Replay.","venue":"OSDI","pages":"193-208","year":"2008","type":"Conference and Workshop Papers","key":"conf/osdi/GuoWTLXWKZ08","ee":"http://www.usenix.org/events/osdi08/tech/full_papers/guo/guo.pdf","url":"https://dblp.org/rec/conf/osdi/GuoWTLXWKZ08"},
+"url":"URL#3745477"
+},
+{
+"@score":"1",
+"@id":"3745478",
+"info":{"authors":{"author":[{"@pid":"84/4837","text":"Diwaker Gupta"},{"@pid":"68/311","text":"Sangmin Lee"},{"@pid":"39/1349","text":"Michael Vrable"},{"@pid":"s/StefanSavage","text":"Stefan Savage"},{"@pid":"s/AlexCSnoeren","text":"Alex C. Snoeren"},{"@pid":"v/GeorgeVarghese","text":"George Varghese"},{"@pid":"v/GeoffreyMVoelker","text":"Geoffrey M. Voelker"},{"@pid":"v/AminVahdat","text":"Amin Vahdat"}]},"title":"Difference Engine - Harnessing Memory Redundancy in Virtual Machines.","venue":"OSDI","pages":"309-322","year":"2008","type":"Conference and Workshop Papers","key":"conf/osdi/GuptaLVSSVVV08","ee":"http://www.usenix.org/events/osdi08/tech/full_papers/gupta/gupta.pdf","url":"https://dblp.org/rec/conf/osdi/GuptaLVSSVVV08"},
+"url":"URL#3745478"
+},
+{
+"@score":"1",
+"@id":"3745480",
+"info":{"authors":{"author":[{"@pid":"94/4527","text":"Navendu Jain"},{"@pid":"21/6955","text":"Prince Mahajan"},{"@pid":"66/3780","text":"Dmitry Kit"},{"@pid":"66/3044","text":"Praveen Yalagandula"},{"@pid":"d/MDahlin","text":"Michael Dahlin"},{"@pid":"91/3045","text":"Yin Zhang"}]},"title":"Network Imprecision - A New Consistency Metric for Scalable Monitoring.","venue":"OSDI","pages":"87-102","year":"2008","type":"Conference and Workshop Papers","key":"conf/osdi/JainMKYDZ08","ee":"http://www.usenix.org/events/osdi08/tech/full_papers/jain/jain.pdf","url":"https://dblp.org/rec/conf/osdi/JainMKYDZ08"},
+"url":"URL#3745480"
+},
+{
+"@score":"1",
+"@id":"3745481",
+"info":{"authors":{"author":[{"@pid":"79/3007","text":"Horatiu Jula"},{"@pid":"94/6091","text":"Daniel M. Tralamazza"},{"@pid":"44/6654","text":"Cristian Zamfir"},{"@pid":"c/GeorgeCandea","text":"George Candea"}]},"title":"Deadlock Immunity - Enabling Systems to Defend Against Deadlocks.","venue":"OSDI","pages":"295-308","year":"2008","type":"Conference and Workshop Papers","key":"conf/osdi/JulaTZC08","ee":"http://www.usenix.org/events/osdi08/tech/full_papers/jula/jula.pdf","url":"https://dblp.org/rec/conf/osdi/JulaTZC08"},
+"url":"URL#3745481"
+},
+{
+"@score":"1",
+"@id":"3745486",
+"info":{"authors":{"author":[{"@pid":"07/3117","text":"Harry C. Li"},{"@pid":"17/597","text":"Allen Clement"},{"@pid":"65/4513","text":"Mirco Marchetti"},{"@pid":"23/6695","text":"Manos Kapritsos"},{"@pid":"31/4130","text":"Luke Robison"},{"@pid":"a/LAlvisi","text":"Lorenzo Alvisi"},{"@pid":"d/MDahlin","text":"Michael Dahlin"}]},"title":"FlightPath - Obedience vs. Choice in Cooperative Services.","venue":"OSDI","pages":"355-368","year":"2008","type":"Conference and Workshop Papers","key":"conf/osdi/LiCMKRAD08","ee":"http://www.usenix.org/events/osdi08/tech/full_papers/li_h/li_h.pdf","url":"https://dblp.org/rec/conf/osdi/LiCMKRAD08"},
+"url":"URL#3745486"
+},
+{
+"@score":"1",
+"@id":"3745489",
+"info":{"authors":{"author":[{"@pid":"68/892","text":"Yanhua Mao"},{"@pid":"27/2404","text":"Flavio Paiva Junqueira"},{"@pid":"m/KMarzullo","text":"Keith Marzullo"}]},"title":"Mencius - Building Efficient Replicated State Machine for WANs.","venue":"OSDI","pages":"369-384","year":"2008","type":"Conference and Workshop Papers","key":"conf/osdi/MaoJM08","ee":"http://www.usenix.org/events/osdi08/tech/full_papers/mao/mao.pdf","url":"https://dblp.org/rec/conf/osdi/MaoJM08"},
+"url":"URL#3745489"
+},
+{
+"@score":"1",
+"@id":"3745493",
+"info":{"authors":{"author":[{"@pid":"95/6578","text":"Madanlal Musuvathi"},{"@pid":"q/ShazQadeer","text":"Shaz Qadeer"},{"@pid":"b/ThomasBall","text":"Thomas Ball"},{"@pid":"95/3093","text":"Gérard Basler"},{"@pid":"77/2966","text":"Piramanayagam Arumuga Nainar"},{"@pid":"46/2869","text":"Iulian Neamtiu"}]},"title":"Finding and Reproducing Heisenbugs in Concurrent Programs.","venue":"OSDI","pages":"267-280","year":"2008","type":"Conference and Workshop Papers","key":"conf/osdi/MusuvathiQBBNN08","ee":"http://www.usenix.org/events/osdi08/tech/full_papers/musuvathi/musuvathi.pdf","url":"https://dblp.org/rec/conf/osdi/MusuvathiQBBNN08"},
+"url":"URL#3745493"
+},
+{
+"@score":"1",
+"@id":"3745494",
+"info":{"authors":{"author":[{"@pid":"45/2517","text":"Dushyanth Narayanan"},{"@pid":"21/2604","text":"Austin Donnelly"},{"@pid":"44/5931","text":"Eno Thereska"},{"@pid":"18/1967","text":"Sameh Elnikety"},{"@pid":"r/AITRowstron","text":"Antony I. T. Rowstron"}]},"title":"Everest - Scaling Down Peak Loads Through I/O Off-Loading.","venue":"OSDI","pages":"15-28","year":"2008","type":"Conference and Workshop Papers","key":"conf/osdi/NarayananDTER08","ee":"http://www.usenix.org/events/osdi08/tech/full_papers/narayanan/narayanan.pdf","url":"https://dblp.org/rec/conf/osdi/NarayananDTER08"},
+"url":"URL#3745494"
+},
+{
+"@score":"1",
+"@id":"3745496",
+"info":{"authors":{"author":[{"@pid":"93/843","text":"Vijayan Prabhakaran"},{"@pid":"r/TLRodeheffer","text":"Thomas L. Rodeheffer"},{"@pid":"z/LidongZhou","text":"Lidong Zhou"}]},"title":"Transactional Flash.","venue":"OSDI","pages":"147-160","year":"2008","type":"Conference and Workshop Papers","key":"conf/osdi/PrabhakaranRZ08","ee":"http://www.usenix.org/events/osdi08/tech/full_papers/prabhakaran/prabhakaran.pdf","url":"https://dblp.org/rec/conf/osdi/PrabhakaranRZ08"},
+"url":"URL#3745496"
+},
+{
+"@score":"1",
+"@id":"3745511",
+"info":{"authors":{"author":[{"@pid":"70/4828-1","text":"Yin Wang 0001"},{"@pid":"64/5765","text":"Terence Kelly"},{"@pid":"49/1513","text":"Manjunath Kudlur"},{"@pid":"22/3097","text":"Stéphane Lafortune"},{"@pid":"m/SAMahlke","text":"Scott A. Mahlke"}]},"title":"Gadara - Dynamic Deadlock Avoidance for Multithreaded Programs.","venue":"OSDI","pages":"281-294","year":"2008","type":"Conference and Workshop Papers","key":"conf/osdi/WangKKLM08","ee":"http://www.usenix.org/events/osdi08/tech/full_papers/wang/wang.pdf","url":"https://dblp.org/rec/conf/osdi/WangKKLM08"},
+"url":"URL#3745511"
+},
+{
+"@score":"1",
+"@id":"3745512",
+"info":{"authors":{"author":[{"@pid":"96/2005","text":"Dan Williams"},{"@pid":"08/2847","text":"Patrick Reynolds"},{"@pid":"50/5661","text":"Kevin Walsh"},{"@pid":"s/EminGunSirer","text":"Emin Gün Sirer"},{"@pid":"s/FredBSchneider","text":"Fred B. Schneider"}]},"title":"Device Driver Safety Through a Reference Validation Mechanism.","venue":"OSDI","pages":"241-254","year":"2008","type":"Conference and Workshop Papers","key":"conf/osdi/WilliamsRWSS08","ee":"http://www.usenix.org/events/osdi08/tech/full_papers/williams/williams.pdf","url":"https://dblp.org/rec/conf/osdi/WilliamsRWSS08"},
+"url":"URL#3745512"
+},
+{
+"@score":"1",
+"@id":"3745515",
+"info":{"authors":{"author":[{"@pid":"88/3999","text":"Ting Yang"},{"@pid":"15/4725","text":"Tongping Liu"},{"@pid":"98/4487","text":"Emery D. Berger"},{"@pid":"77/5214","text":"Scott F. Kaplan"},{"@pid":"m/JEliotBMoss","text":"J. Eliot B. Moss"}]},"title":"Redline - First Class Support for Interactivity in Commodity Operating Systems.","venue":"OSDI","pages":"73-86","year":"2008","type":"Conference and Workshop Papers","key":"conf/osdi/YangLBKM08","ee":"http://www.usenix.org/events/osdi08/tech/full_papers/yang/yang.pdf","url":"https://dblp.org/rec/conf/osdi/YangLBKM08"},
+"url":"URL#3745515"
+},
+{
+"@score":"1",
+"@id":"3745516",
+"info":{"authors":{"author":[{"@pid":"98/809","text":"Yuan Yu"},{"@pid":"17/5751","text":"Michael Isard"},{"@pid":"36/593","text":"Dennis Fetterly"},{"@pid":"b/MihaiBudiu","text":"Mihai Budiu"},{"@pid":"e/UErlingsson","text":"Úlfar Erlingsson"},{"@pid":"93/4467","text":"Pradeep Kumar Gunda"},{"@pid":"60/5888","text":"Jon Currey"}]},"title":"DryadLINQ - A System for General-Purpose Distributed Data-Parallel Computing Using a High-Level Language.","venue":"OSDI","pages":"1-14","year":"2008","type":"Conference and Workshop Papers","key":"conf/osdi/YuIFBEGC08","ee":"http://www.usenix.org/events/osdi08/tech/full_papers/yu_y/yu_y.pdf","url":"https://dblp.org/rec/conf/osdi/YuIFBEGC08"},
+"url":"URL#3745516"
+},
+{
+"@score":"1",
+"@id":"3745517",
+"info":{"authors":{"author":[{"@pid":"36/2133","text":"Matei Zaharia"},{"@pid":"62/3300","text":"Andy Konwinski"},{"@pid":"30/2317","text":"Anthony D. Joseph"},{"@pid":"k/RandyHKatz","text":"Randy H. Katz"},{"@pid":"s/IonStoica","text":"Ion Stoica"}]},"title":"Improving MapReduce Performance in Heterogeneous Environments.","venue":"OSDI","pages":"29-42","year":"2008","type":"Conference and Workshop Papers","key":"conf/osdi/ZahariaKJKS08","ee":"http://www.usenix.org/events/osdi08/tech/full_papers/zaharia/zaharia.pdf","url":"https://dblp.org/rec/conf/osdi/ZahariaKJKS08"},
+"url":"URL#3745517"
+},
+{
+"@score":"1",
+"@id":"3745518",
+"info":{"authors":{"author":[{"@pid":"99/5780","text":"Nickolai Zeldovich"},{"@pid":"72/6493","text":"Hari Kannan"},{"@pid":"35/1023","text":"Michael Dalton"},{"@pid":"k/ChristoforosEKozyrakis","text":"Christos Kozyrakis"}]},"title":"Hardware Enforcement of Application Security Policies Using Tagged Memory.","venue":"OSDI","pages":"225-240","year":"2008","type":"Conference and Workshop Papers","key":"conf/osdi/ZeldovichKDK08","ee":"http://www.usenix.org/events/osdi08/tech/full_papers/zeldovich/zeldovich.pdf","url":"https://dblp.org/rec/conf/osdi/ZeldovichKDK08"},
+"url":"URL#3745518"
+},
+{
+"@score":"1",
+"@id":"3772965",
+"info":{"authors":{"author":[{"@pid":"09/5874","text":"Richard Draves"},{"@pid":"r/RvRenesse","text":"Robbert van Renesse"}]},"title":"8th USENIX Symposium on Operating Systems Design and Implementation, OSDI 2008, December 8-10, 2008, San Diego, California, USA, Proceedings","venue":"OSDI","publisher":"USENIX Association","year":"2008","type":"Editorship","key":"conf/osdi/2008","url":"https://dblp.org/rec/conf/osdi/2008"},
+"url":"URL#3772965"
+}
+]
+}
+}
+}

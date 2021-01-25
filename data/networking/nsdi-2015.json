@@ -1,0 +1,290 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"nsdi\"/\"nsdi2015\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"108.07"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"43",
+"@dc":"43",
+"@oc":"43",
+"@id":"17580402",
+"text":":facetid:toc:db/conf/nsdi/nsdi2015.bht"
+}
+},
+"hits":{
+"@total":"43",
+"@computed":"43",
+"@sent":"43",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"2012457",
+"info":{"authors":{"author":[{"@pid":"51/9975","text":"Fadel Adib"},{"@pid":"150/3429","text":"Zachary Kabelac"},{"@pid":"k/DinaKatabi","text":"Dina Katabi"}]},"title":"Multi-Person Localization via RF Body Reflections.","venue":"NSDI","pages":"279-292","year":"2015","type":"Conference and Workshop Papers","key":"conf/nsdi/AdibKK15","ee":"https://www.usenix.org/conference/nsdi15/technical-sessions/presentation/adib","url":"https://dblp.org/rec/conf/nsdi/AdibKK15"},
+"url":"URL#2012457"
+},
+{
+"@score":"1",
+"@id":"2012458",
+"info":{"authors":{"author":[{"@pid":"162/2029","text":"Victor Agababov"},{"@pid":"44/2076","text":"Michael Buettner"},{"@pid":"127/9190","text":"Victor Chudnovsky"},{"@pid":"162/1933","text":"Mark Cogan"},{"@pid":"g/BenGreenstein","text":"Ben Greenstein"},{"@pid":"162/1975","text":"Shane McDaniel"},{"@pid":"74/4787","text":"Michael Piatek"},{"@pid":"13/4360","text":"Colin Scott"},{"@pid":"w/MattWelsh","text":"Matt Welsh"},{"@pid":"44/3439","text":"Bolian Yin"}]},"title":"Flywheel - Google&apos;s Data Compression Proxy for the Mobile Web.","venue":"NSDI","pages":"367-380","year":"2015","type":"Conference and Workshop Papers","key":"conf/nsdi/AgababovBCCGMPS15","ee":"https://www.usenix.org/conference/nsdi15/technical-sessions/presentation/agababov","url":"https://dblp.org/rec/conf/nsdi/AgababovBCCGMPS15"},
+"url":"URL#2012458"
+},
+{
+"@score":"1",
+"@id":"2012459",
+"info":{"authors":{"author":[{"@pid":"57/9894","text":"Alexandru Agache"},{"@pid":"38/7719","text":"Razvan Deaconescu"},{"@pid":"62/2645","text":"Costin Raiciu"}]},"title":"Increasing Datacenter Network Utilisation with GRIN.","venue":"NSDI","pages":"29-42","year":"2015","type":"Conference and Workshop Papers","key":"conf/nsdi/AgacheDR15","ee":"https://www.usenix.org/conference/nsdi15/technical-sessions/presentation/agache","url":"https://dblp.org/rec/conf/nsdi/AgacheDR15"},
+"url":"URL#2012459"
+},
+{
+"@score":"1",
+"@id":"2012460",
+"info":{"authors":{"author":[{"@pid":"41/5447-1","text":"Rachit Agarwal 0001"},{"@pid":"162/1936","text":"Anurag Khandelwal"},{"@pid":"s/IonStoica","text":"Ion Stoica"}]},"title":"Succinct - Enabling Queries on Compressed Data.","venue":"NSDI","pages":"337-350","year":"2015","type":"Conference and Workshop Papers","key":"conf/nsdi/AgarwalKS15","ee":"https://www.usenix.org/conference/nsdi15/technical-sessions/presentation/agarwal","url":"https://dblp.org/rec/conf/nsdi/AgarwalKS15"},
+"url":"URL#2012460"
+},
+{
+"@score":"1",
+"@id":"2012461",
+"info":{"authors":{"author":[{"@pid":"45/661-1","text":"Wei Bai 0001"},{"@pid":"c/KaiChen5","text":"Kai Chen 0005"},{"@pid":"w/HaoWang-22","text":"Hao Wang 0022"},{"@pid":"c/LiChen8","text":"Li Chen 0008"},{"@pid":"12/5388","text":"Dongsu Han"},{"@pid":"94/1247-1","text":"Chen Tian 0001"}]},"title":"Information-Agnostic Flow Scheduling for Commodity Data Centers.","venue":"NSDI","pages":"455-468","year":"2015","type":"Conference and Workshop Papers","key":"conf/nsdi/Bai0WCHT15","ee":"https://www.usenix.org/conference/nsdi15/technical-sessions/presentation/bai","url":"https://dblp.org/rec/conf/nsdi/Bai0WCHT15"},
+"url":"URL#2012461"
+},
+{
+"@score":"1",
+"@id":"2012462",
+"info":{"authors":{"author":[{"@pid":"16/5251","text":"Manu Bansal"},{"@pid":"77/3626","text":"Aaron Schulman"},{"@pid":"50/1133","text":"Sachin Katti"}]},"title":"Atomix - A Framework for Deploying Signal Processing Applications on Wireless Infrastructure.","venue":"NSDI","pages":"173-188","year":"2015","type":"Conference and Workshop Papers","key":"conf/nsdi/BansalSK15","ee":"https://www.usenix.org/conference/nsdi15/technical-sessions/presentation/bansal","url":"https://dblp.org/rec/conf/nsdi/BansalSK15"},
+"url":"URL#2012462"
+},
+{
+"@score":"1",
+"@id":"2012463",
+"info":{"authors":{"author":[{"@pid":"131/4370","text":"Diogo Behrens"},{"@pid":"02/6087","text":"Marco Serafini"},{"@pid":"27/2404","text":"Flavio Paiva Junqueira"},{"@pid":"156/3300","text":"Sergei Arnautov"},{"@pid":"f/ChristofFetzer","text":"Christof Fetzer"}]},"title":"Scalable Error Isolation for Distributed Systems.","venue":"NSDI","pages":"605-620","year":"2015","type":"Conference and Workshop Papers","key":"conf/nsdi/BehrensSJAF15","ee":"https://www.usenix.org/conference/nsdi15/technical-sessions/presentation/behrens","url":"https://dblp.org/rec/conf/nsdi/BehrensSJAF15"},
+"url":"URL#2012463"
+},
+{
+"@score":"1",
+"@id":"2012464",
+"info":{"authors":{"author":[{"@pid":"121/4959","text":"Michael Butkiewicz"},{"@pid":"04/10838","text":"Daimeng Wang"},{"@pid":"11/5670","text":"Zhe Wu"},{"@pid":"45/2026","text":"Harsha V. Madhyastha"},{"@pid":"45/4044","text":"Vyas Sekar"}]},"title":"Klotski - Reprioritizing Web Content to Improve User Experience on Mobile Devices.","venue":"NSDI","pages":"439-453","year":"2015","type":"Conference and Workshop Papers","key":"conf/nsdi/ButkiewiczWWMS15","ee":"https://www.usenix.org/conference/nsdi15/technical-sessions/presentation/butkiewicz","url":"https://dblp.org/rec/conf/nsdi/ButkiewiczWWMS15"},
+"url":"URL#2012464"
+},
+{
+"@score":"1",
+"@id":"2012465",
+"info":{"authors":{"author":[{"@pid":"89/5615","text":"Bo Chen"},{"@pid":"131/1637","text":"Vivek Yenamandra"},{"@pid":"73/1997","text":"Kannan Srinivasan"}]},"title":"FlexRadio - Fully Flexible Radios and Networks.","venue":"NSDI","pages":"205-218","year":"2015","type":"Conference and Workshop Papers","key":"conf/nsdi/ChenYS15","ee":"https://www.usenix.org/conference/nsdi15/technical-sessions/presentation/chen","url":"https://dblp.org/rec/conf/nsdi/ChenYS15"},
+"url":"URL#2012465"
+},
+{
+"@score":"1",
+"@id":"2012466",
+"info":{"authors":{"author":[{"@pid":"162/1963","text":"Andrei Croitoru"},{"@pid":"28/422","text":"Dragos Niculescu"},{"@pid":"62/2645","text":"Costin Raiciu"}]},"title":"Towards Wifi Mobility without Fast Handover.","venue":"NSDI","pages":"219-234","year":"2015","type":"Conference and Workshop Papers","key":"conf/nsdi/CroitoruNR15","ee":"https://www.usenix.org/conference/nsdi15/technical-sessions/presentation/croitoru","url":"https://dblp.org/rec/conf/nsdi/CroitoruNR15"},
+"url":"URL#2012466"
+},
+{
+"@score":"1",
+"@id":"2012467",
+"info":{"authors":{"author":[{"@pid":"44/10586","text":"Mo Dong"},{"@pid":"35/6642","text":"Qingxi Li"},{"@pid":"149/9211","text":"Doron Zarchy"},{"@pid":"g/BrightenGodfrey","text":"Philip Brighten Godfrey"},{"@pid":"15/5634","text":"Michael Schapira"}]},"title":"PCC - Re-architecting Congestion Control for Consistent High Performance.","venue":"NSDI","pages":"395-408","year":"2015","type":"Conference and Workshop Papers","key":"conf/nsdi/DongLZGS15","ee":"https://www.usenix.org/conference/nsdi15/technical-sessions/presentation/dong","url":"https://dblp.org/rec/conf/nsdi/DongLZGS15"},
+"url":"URL#2012467"
+},
+{
+"@score":"1",
+"@id":"2012468",
+"info":{"authors":{"author":[{"@pid":"92/4903","text":"Ashley Flavel"},{"@pid":"01/9985","text":"Pradeepkumar Mani"},{"@pid":"65/1459","text":"David A. Maltz"},{"@pid":"162/2081","text":"Nick Holt"},{"@pid":"03/2134-1","text":"Jie Liu 0001"},{"@pid":"18/2343","text":"Yingying Chen"},{"@pid":"162/2016","text":"Oleg Surmachev"}]},"title":"FastRoute - A Scalable Load-Aware Anycast Routing Architecture for Modern CDNs.","venue":"NSDI","pages":"381-394","year":"2015","type":"Conference and Workshop Papers","key":"conf/nsdi/FlavelMMHLCS15","ee":"https://www.usenix.org/conference/nsdi15/technical-sessions/presentation/flavel","url":"https://dblp.org/rec/conf/nsdi/FlavelMMHLCS15"},
+"url":"URL#2012468"
+},
+{
+"@score":"1",
+"@id":"2012469",
+"info":{"authors":{"author":[{"@pid":"132/2548","text":"Ari Fogel"},{"@pid":"162/2024","text":"Stanley Fung"},{"@pid":"41/7401","text":"Luis Pedrosa"},{"@pid":"08/2172","text":"Meg Walraed-Sullivan"},{"@pid":"g/RameshGovindan","text":"Ramesh Govindan"},{"@pid":"81/6327","text":"Ratul Mahajan"},{"@pid":"93/4679","text":"Todd D. Millstein"}]},"title":"A General Approach to Network Configuration Analysis.","venue":"NSDI","pages":"469-483","year":"2015","type":"Conference and Workshop Papers","key":"conf/nsdi/FogelFPWGMM15","ee":"https://www.usenix.org/conference/nsdi15/technical-sessions/presentation/fogel","url":"https://dblp.org/rec/conf/nsdi/FogelFPWGMM15"},
+"url":"URL#2012469"
+},
+{
+"@score":"1",
+"@id":"2012470",
+"info":{"authors":{"author":[{"@pid":"86/6881","text":"Aditya Ganjam"},{"@pid":"22/5410","text":"Faisal Siddiqui"},{"@pid":"12/1819","text":"Jibin Zhan"},{"@pid":"81/7010","text":"Xi Liu"},{"@pid":"s/IonStoica","text":"Ion Stoica"},{"@pid":"49/8398","text":"Junchen Jiang"},{"@pid":"45/4044","text":"Vyas Sekar"},{"@pid":"z/HuiZhang1","text":"Hui Zhang 0001"}]},"title":"C3 - Internet-Scale Control Plane for Video Quality Optimization.","venue":"NSDI","pages":"131-144","year":"2015","type":"Conference and Workshop Papers","key":"conf/nsdi/GanjamSZLSJS015","ee":"https://www.usenix.org/conference/nsdi15/technical-sessions/presentation/ganjam","url":"https://dblp.org/rec/conf/nsdi/GanjamSZLSJS015"},
+"url":"URL#2012470"
+},
+{
+"@score":"1",
+"@id":"2012471",
+"info":{"authors":{"author":[{"@pid":"117/4261","text":"Matthew P. Grosvenor"},{"@pid":"49/7988","text":"Malte Schwarzkopf"},{"@pid":"161/0169","text":"Ionel Gog"},{"@pid":"70/2118","text":"Robert N. M. Watson"},{"@pid":"95/2279-2","text":"Andrew W. Moore 0002"},{"@pid":"69/6457","text":"Steven Hand"},{"@pid":"c/JonCrowcroft","text":"Jon Crowcroft"}]},"title":"Queues Don&apos;t Matter When You Can JUMP Them!","venue":"NSDI","pages":"1-14","year":"2015","type":"Conference and Workshop Papers","key":"conf/nsdi/GrosvenorSGW0HC15","ee":"https://www.usenix.org/conference/nsdi15/technical-sessions/presentation/grosvenor","url":"https://dblp.org/rec/conf/nsdi/GrosvenorSGW0HC15"},
+"url":"URL#2012471"
+},
+{
+"@score":"1",
+"@id":"2012472",
+"info":{"authors":{"author":[{"@pid":"13/8398","text":"Haitham Hassanieh"},{"@pid":"69/393-12","text":"Jue Wang 0012"},{"@pid":"k/DinaKatabi","text":"Dina Katabi"},{"@pid":"k/TadayoshiKohno","text":"Tadayoshi Kohno"}]},"title":"Securing RFIDs by Randomizing the Modulation and Channel.","venue":"NSDI","pages":"235-249","year":"2015","type":"Conference and Workshop Papers","key":"conf/nsdi/HassaniehWKK15","ee":"https://www.usenix.org/conference/nsdi15/technical-sessions/presentation/hassanieh","url":"https://dblp.org/rec/conf/nsdi/HassaniehWKK15"},
+"url":"URL#2012472"
+},
+{
+"@score":"1",
+"@id":"2012473",
+"info":{"authors":{"author":[{"@pid":"143/8245","text":"Shuihai Hu"},{"@pid":"c/KaiChen5","text":"Kai Chen 0005"},{"@pid":"96/1582","text":"Haitao Wu"},{"@pid":"45/661-1","text":"Wei Bai 0001"},{"@pid":"116/8770","text":"Chang Lan"},{"@pid":"w/HaoWang-22","text":"Hao Wang 0022"},{"@pid":"66/10610","text":"Hongze Zhao"},{"@pid":"95/4962","text":"Chuanxiong Guo"}]},"title":"Explicit Path Control in Commodity Data Centers - Design and Applications.","venue":"NSDI","pages":"15-28","year":"2015","type":"Conference and Workshop Papers","key":"conf/nsdi/Hu0WBLWZG15","ee":"https://www.usenix.org/conference/nsdi15/technical-sessions/presentation/hu","url":"https://dblp.org/rec/conf/nsdi/Hu0WBLWZG15"},
+"url":"URL#2012473"
+},
+{
+"@score":"1",
+"@id":"2012474",
+"info":{"authors":{"author":[{"@pid":"72/309","text":"Anand P. Iyer"},{"@pid":"l/ErranLLi","text":"Li Erran Li"},{"@pid":"s/IonStoica","text":"Ion Stoica"}]},"title":"CellIQ - Real-Time Cellular Network Analytics at Scale.","venue":"NSDI","pages":"309-322","year":"2015","type":"Conference and Workshop Papers","key":"conf/nsdi/IyerLS15","ee":"https://www.usenix.org/conference/nsdi15/technical-sessions/presentation/iyer","url":"https://dblp.org/rec/conf/nsdi/IyerLS15"},
+"url":"URL#2012474"
+},
+{
+"@score":"1",
+"@id":"2012475",
+"info":{"authors":{"author":[{"@pid":"68/3340-8","text":"Xin Jin 0008"},{"@pid":"162/2070","text":"Jennifer Gossels"},{"@pid":"r/JenniferRexford","text":"Jennifer Rexford"},{"@pid":"53/5714","text":"David Walker"}]},"title":"CoVisor - A Compositional Hypervisor for Software-Defined Networks.","venue":"NSDI","pages":"87-101","year":"2015","type":"Conference and Workshop Papers","key":"conf/nsdi/JinGRW15","ee":"https://www.usenix.org/conference/nsdi15/technical-sessions/presentation/jin","url":"https://dblp.org/rec/conf/nsdi/JinGRW15"},
+"url":"URL#2012475"
+},
+{
+"@score":"1",
+"@id":"2012476",
+"info":{"authors":{"author":[{"@pid":"145/2228","text":"Lavanya Jose"},{"@pid":"79/1319","text":"Lisa Yan"},{"@pid":"v/GeorgeVarghese","text":"George Varghese"},{"@pid":"m/NickMcKeown","text":"Nick McKeown"}]},"title":"Compiling Packet Programs to Reconfigurable Switches.","venue":"NSDI","pages":"103-115","year":"2015","type":"Conference and Workshop Papers","key":"conf/nsdi/JoseYVM15","ee":"https://www.usenix.org/conference/nsdi15/technical-sessions/presentation/jose","url":"https://dblp.org/rec/conf/nsdi/JoseYVM15"},
+"url":"URL#2012476"
+},
+{
+"@score":"1",
+"@id":"2012477",
+"info":{"authors":{"author":[{"@pid":"143/8189","text":"Kiran Raj Joshi"},{"@pid":"52/10159","text":"Dinesh Bharadia"},{"@pid":"162/2040","text":"Manikanta Kotaru"},{"@pid":"50/1133","text":"Sachin Katti"}]},"title":"WiDeo - Fine-grained Device-free Motion Tracing using RF Backscatter.","venue":"NSDI","pages":"189-204","year":"2015","type":"Conference and Workshop Papers","key":"conf/nsdi/JoshiBKK15","ee":"https://www.usenix.org/conference/nsdi15/technical-sessions/presentation/joshi","url":"https://dblp.org/rec/conf/nsdi/JoshiBKK15"},
+"url":"URL#2012477"
+},
+{
+"@score":"1",
+"@id":"2012478",
+"info":{"authors":{"author":{"@pid":"19/3966","text":"Glenn Judd"}},"title":"Attaining the Promise and Avoiding the Pitfalls of TCP in the Datacenter.","venue":"NSDI","pages":"145-157","year":"2015","type":"Conference and Workshop Papers","key":"conf/nsdi/Judd15","ee":"https://www.usenix.org/conference/nsdi15/technical-sessions/presentation/judd","url":"https://dblp.org/rec/conf/nsdi/Judd15"},
+"url":"URL#2012478"
+},
+{
+"@score":"1",
+"@id":"2012479",
+"info":{"authors":{"author":[{"@pid":"149/9171","text":"Anuj Kalia"},{"@pid":"15/2101","text":"Dong Zhou"},{"@pid":"09/4259","text":"Michael Kaminsky"},{"@pid":"a/DavidGAndersen","text":"David G. Andersen"}]},"title":"Raising the Bar for Using GPUs in Software Packet Processing.","venue":"NSDI","pages":"409-423","year":"2015","type":"Conference and Workshop Papers","key":"conf/nsdi/KaliaZKA15","ee":"https://www.usenix.org/conference/nsdi15/technical-sessions/presentation/kalia","url":"https://dblp.org/rec/conf/nsdi/KaliaZKA15"},
+"url":"URL#2012479"
+},
+{
+"@score":"1",
+"@id":"2012480",
+"info":{"authors":{"author":[{"@pid":"02/8397","text":"Hyojoon Kim"},{"@pid":"44/1523","text":"Joshua Reich"},{"@pid":"122/9141","text":"Arpit Gupta"},{"@pid":"73/6941-1","text":"Muhammad Shahbaz 0001"},{"@pid":"87/840","text":"Nick Feamster"},{"@pid":"91/3070-1","text":"Russell J. Clark 0001"}]},"title":"Kinetic - Verifiable Dynamic Network Control.","venue":"NSDI","pages":"59-72","year":"2015","type":"Conference and Workshop Papers","key":"conf/nsdi/KimRGSFC15","ee":"https://www.usenix.org/conference/nsdi15/technical-sessions/presentation/kim","url":"https://dblp.org/rec/conf/nsdi/KimRGSFC15"},
+"url":"URL#2012480"
+},
+{
+"@score":"1",
+"@id":"2012481",
+"info":{"authors":{"author":[{"@pid":"77/2149","text":"Nuno P. Lopes"},{"@pid":"51/912","text":"Nikolaj Bjørner"},{"@pid":"20/1639","text":"Patrice Godefroid"},{"@pid":"63/7057","text":"Karthick Jayaraman"},{"@pid":"v/GeorgeVarghese","text":"George Varghese"}]},"title":"Checking Beliefs in Dynamic Networks.","venue":"NSDI","pages":"499-512","year":"2015","type":"Conference and Workshop Papers","key":"conf/nsdi/LopesBGJV15","ee":"https://www.usenix.org/conference/nsdi15/technical-sessions/presentation/lopes","url":"https://dblp.org/rec/conf/nsdi/LopesBGJV15"},
+"url":"URL#2012481"
+},
+{
+"@score":"1",
+"@id":"2012482",
+"info":{"authors":{"author":[{"@pid":"25/3228","text":"Jacob R. Lorch"},{"@pid":"53/6957","text":"Andrew Baumann"},{"@pid":"10/10322","text":"Lisa Glendenning"},{"@pid":"84/5624","text":"Dutch T. Meyer"},{"@pid":"70/5879","text":"Andrew Warfield"}]},"title":"Tardigrade - Leveraging Lightweight Virtual Machines to Easily and Efficiently Construct Fault-Tolerant Services.","venue":"NSDI","pages":"575-588","year":"2015","type":"Conference and Workshop Papers","key":"conf/nsdi/LorchBGMW15","ee":"https://www.usenix.org/conference/nsdi15/technical-sessions/presentation/lorch","url":"https://dblp.org/rec/conf/nsdi/LorchBGMW15"},
+"url":"URL#2012482"
+},
+{
+"@score":"1",
+"@id":"2012483",
+"info":{"authors":{"author":[{"@pid":"154/0937","text":"Jonathan Mace"},{"@pid":"b/PeterBodik","text":"Peter Bodík"},{"@pid":"f/RFonseca","text":"Rodrigo Fonseca"},{"@pid":"95/6578","text":"Madanlal Musuvathi"}]},"title":"Retro - Targeted Resource Management in Multi-tenant Distributed Systems.","venue":"NSDI","pages":"589-603","year":"2015","type":"Conference and Workshop Papers","key":"conf/nsdi/MaceBFM15","ee":"https://www.usenix.org/conference/nsdi15/technical-sessions/presentation/mace","url":"https://dblp.org/rec/conf/nsdi/MaceBFM15"},
+"url":"URL#2012483"
+},
+{
+"@score":"1",
+"@id":"2012484",
+"info":{"authors":{"author":[{"@pid":"32/1528","text":"Anil Madhavapeddy"},{"@pid":"95/199","text":"Thomas Leonard"},{"@pid":"98/9748","text":"Magnus Skjegstad"},{"@pid":"78/2476","text":"Thomas Gazagnaire"},{"@pid":"67/11266","text":"David Sheets"},{"@pid":"60/11091","text":"David J. Scott"},{"@pid":"28/5155","text":"Richard Mortier"},{"@pid":"117/4294","text":"Amir Chaudhry"},{"@pid":"32/2325","text":"Balraj Singh"},{"@pid":"162/2085","text":"Jon Ludlam"},{"@pid":"c/JonCrowcroft","text":"Jon Crowcroft"},{"@pid":"l/IanMLeslie","text":"Ian M. Leslie"}]},"title":"Jitsu - Just-In-Time Summoning of Unikernels.","venue":"NSDI","pages":"559-573","year":"2015","type":"Conference and Workshop Papers","key":"conf/nsdi/MadhavapeddyLSG15","ee":"https://www.usenix.org/conference/nsdi15/technical-sessions/presentation/madhavapeddy","url":"https://dblp.org/rec/conf/nsdi/MadhavapeddyLSG15"},
+"url":"URL#2012484"
+},
+{
+"@score":"1",
+"@id":"2012485",
+"info":{"authors":{"author":[{"@pid":"10/10299","text":"Kay Ousterhout"},{"@pid":"162/2028","text":"Ryan Rasti"},{"@pid":"68/5579","text":"Sylvia Ratnasamy"},{"@pid":"34/5593","text":"Scott Shenker"},{"@pid":"34/3515","text":"Byung-Gon Chun"}]},"title":"Making Sense of Performance in Data Analytics Frameworks.","venue":"NSDI","pages":"293-307","year":"2015","type":"Conference and Workshop Papers","key":"conf/nsdi/OusterhoutRRSC15","ee":"https://www.usenix.org/conference/nsdi15/technical-sessions/presentation/ousterhout","url":"https://dblp.org/rec/conf/nsdi/OusterhoutRRSC15"},
+"url":"URL#2012485"
+},
+{
+"@score":"1",
+"@id":"2012486",
+"info":{"authors":{"author":[{"@pid":"162/1992","text":"Sharvanath Pathak"},{"@pid":"00/1016","text":"Vivek S. Pai"}]},"title":"ModNet - A Modular Approach to Network Stack Extension.","venue":"NSDI","pages":"425-438","year":"2015","type":"Conference and Workshop Papers","key":"conf/nsdi/PathakP15","ee":"https://www.usenix.org/conference/nsdi15/technical-sessions/presentation/pathak","url":"https://dblp.org/rec/conf/nsdi/PathakP15"},
+"url":"URL#2012486"
+},
+{
+"@score":"1",
+"@id":"2012487",
+"info":{"authors":{"author":[{"@pid":"41/7401","text":"Luis Pedrosa"},{"@pid":"132/2548","text":"Ari Fogel"},{"@pid":"66/6021","text":"Nupur Kothari"},{"@pid":"g/RameshGovindan","text":"Ramesh Govindan"},{"@pid":"81/6327","text":"Ratul Mahajan"},{"@pid":"93/4679","text":"Todd D. Millstein"}]},"title":"Analyzing Protocol Implementations for Interoperability.","venue":"NSDI","pages":"485-498","year":"2015","type":"Conference and Workshop Papers","key":"conf/nsdi/PedrosaFKGMM15","ee":"https://www.usenix.org/conference/nsdi15/technical-sessions/presentation/pedrosa","url":"https://dblp.org/rec/conf/nsdi/PedrosaFKGMM15"},
+"url":"URL#2012487"
+},
+{
+"@score":"1",
+"@id":"2012488",
+"info":{"authors":{"author":[{"@pid":"42/4891","text":"Ben Pfaff"},{"@pid":"75/6057","text":"Justin Pettit"},{"@pid":"93/6926","text":"Teemu Koponen"},{"@pid":"160/4449","text":"Ethan J. Jackson"},{"@pid":"162/2075","text":"Andy Zhou"},{"@pid":"06/1707","text":"Jarno Rajahalme"},{"@pid":"151/6808","text":"Jesse Gross"},{"@pid":"81/5136","text":"Alex Wang"},{"@pid":"162/2006","text":"Joe Stringer"},{"@pid":"162/2061","text":"Pravin Shelar"},{"@pid":"121/4316","text":"Keith Amidon"},{"@pid":"79/5605","text":"Martín Casado"}]},"title":"The Design and Implementation of Open vSwitch.","venue":"NSDI","pages":"117-130","year":"2015","type":"Conference and Workshop Papers","key":"conf/nsdi/PfaffPKJZRGWSSA15","ee":"https://www.usenix.org/conference/nsdi15/technical-sessions/presentation/pfaff","url":"https://dblp.org/rec/conf/nsdi/PfaffPKJZRGWSSA15"},
+"url":"URL#2012488"
+},
+{
+"@score":"1",
+"@id":"2012489",
+"info":{"authors":{"author":[{"@pid":"03/6105","text":"Dan R. K. Ports"},{"@pid":"75/4924","text":"Jialin Li"},{"@pid":"22/9263","text":"Vincent Liu"},{"@pid":"88/8770","text":"Naveen Kr. Sharma"},{"@pid":"k/AKrishnamurthy","text":"Arvind Krishnamurthy"}]},"title":"Designing Distributed Systems Using Approximate Synchrony in Data Center Networks.","venue":"NSDI","pages":"43-57","year":"2015","type":"Conference and Workshop Papers","key":"conf/nsdi/PortsLLSK15","ee":"https://www.usenix.org/conference/nsdi15/technical-sessions/presentation/ports","url":"https://dblp.org/rec/conf/nsdi/PortsLLSK15"},
+"url":"URL#2012489"
+},
+{
+"@score":"1",
+"@id":"2012490",
+"info":{"authors":{"author":[{"@pid":"138/3618","text":"Nirupam Roy"},{"@pid":"116/0691","text":"Mahanth Gowda"},{"@pid":"19/6964","text":"Romit Roy Choudhury"}]},"title":"Ripple - Communicating through Physical Vibration.","venue":"NSDI","pages":"265-278","year":"2015","type":"Conference and Workshop Papers","key":"conf/nsdi/RoyGC15","ee":"https://www.usenix.org/conference/nsdi15/technical-sessions/presentation/roy","url":"https://dblp.org/rec/conf/nsdi/RoyGC15"},
+"url":"URL#2012490"
+},
+{
+"@score":"1",
+"@id":"2012491",
+"info":{"authors":{"author":[{"@pid":"91/10470","text":"Longfei Shangguan"},{"@pid":"59/5806-2","text":"Zheng Yang 0002"},{"@pid":"l/AlexXLiu","text":"Alex X. Liu"},{"@pid":"133/3824","text":"Zimu Zhou"},{"@pid":"27/2403","text":"Yunhao Liu"}]},"title":"Relative Localization of RFID Tags using Spatial-Temporal Phase Profiling.","venue":"NSDI","pages":"251-263","year":"2015","type":"Conference and Workshop Papers","key":"conf/nsdi/ShangguanYLZL15","ee":"https://www.usenix.org/conference/nsdi15/technical-sessions/presentation/shangguan","url":"https://dblp.org/rec/conf/nsdi/ShangguanYLZL15"},
+"url":"URL#2012491"
+},
+{
+"@score":"1",
+"@id":"2012492",
+"info":{"authors":{"author":[{"@pid":"44/3609","text":"Yogeshwer Sharma"},{"@pid":"162/2033","text":"Philippe Ajoux"},{"@pid":"162/2049","text":"Petchean Ang"},{"@pid":"162/2057","text":"David Callies"},{"@pid":"129/2107","text":"Abhishek Choudhary"},{"@pid":"145/3794","text":"Laurent Demailly"},{"@pid":"162/2036","text":"Thomas Fersch"},{"@pid":"162/2058","text":"Liat Atsmon Guz"},{"@pid":"162/1942","text":"Andrzej Kotulski"},{"@pid":"77/4229","text":"Sachin Kulkarni"},{"@pid":"27/343","text":"Sanjeev Kumar"},{"@pid":"07/3117","text":"Harry C. Li"},{"@pid":"116/1011","text":"Jun Li"},{"@pid":"162/2012","text":"Evgeniy Makeev"},{"@pid":"162/1938","text":"Kowshik Prakasam"},{"@pid":"r/RvRenesse","text":"Robbert van Renesse"},{"@pid":"59/1504","text":"Sabyasachi Roy"},{"@pid":"162/1950","text":"Pratyush Seth"},{"@pid":"93/2816","text":"Yee Jiun Song"},{"@pid":"34/7934","text":"Benjamin Wester"},{"@pid":"52/1896","text":"Kaushik Veeraraghavan"},{"@pid":"162/2083","text":"Peter Xie"}]},"title":"Wormhole - Reliable Pub-Sub to Support Geo-replicated Internet Services.","venue":"NSDI","pages":"351-366","year":"2015","type":"Conference and Workshop Papers","key":"conf/nsdi/SharmaAACCDFGKK15","ee":"https://www.usenix.org/conference/nsdi15/technical-sessions/presentation/sharma","url":"https://dblp.org/rec/conf/nsdi/SharmaAACCDFGKK15"},
+"url":"URL#2012492"
+},
+{
+"@score":"1",
+"@id":"2012493",
+"info":{"authors":{"author":[{"@pid":"12/2866","text":"Lixin Shi"},{"@pid":"b/ParamvirBahl","text":"Paramvir Bahl"},{"@pid":"k/DinaKatabi","text":"Dina Katabi"}]},"title":"Beyond Sensing - Multi-GHz Realtime Spectrum Analytics.","venue":"NSDI","pages":"159-172","year":"2015","type":"Conference and Workshop Papers","key":"conf/nsdi/ShiBK15","ee":"https://www.usenix.org/conference/nsdi15/technical-sessions/presentation/shi","url":"https://dblp.org/rec/conf/nsdi/ShiBK15"},
+"url":"URL#2012493"
+},
+{
+"@score":"1",
+"@id":"2012494",
+"info":{"authors":{"author":[{"@pid":"59/8927","text":"P. Lalith Suresh"},{"@pid":"24/5715","text":"Marco Canini"},{"@pid":"58/3289-1","text":"Stefan Schmid 0001"},{"@pid":"f/AnjaFeldmann","text":"Anja Feldmann"}]},"title":"C3 - Cutting Tail Latency in Cloud Data Stores via Adaptive Replica Selection.","venue":"NSDI","pages":"513-527","year":"2015","type":"Conference and Workshop Papers","key":"conf/nsdi/SureshCSF15","ee":"https://www.usenix.org/conference/nsdi15/technical-sessions/presentation/suresh","url":"https://dblp.org/rec/conf/nsdi/SureshCSF15"},
+"url":"URL#2012494"
+},
+{
+"@score":"1",
+"@id":"2012495",
+"info":{"authors":{"author":[{"@pid":"38/8016","text":"Ashish Vulimiri"},{"@pid":"c/CarloCurino","text":"Carlo Curino"},{"@pid":"g/BrightenGodfrey","text":"Philip Brighten Godfrey"},{"@pid":"162/1995","text":"Thomas Jungblut"},{"@pid":"p/JPadhye","text":"Jitu Padhye"},{"@pid":"v/GeorgeVarghese","text":"George Varghese"}]},"title":"Global Analytics in the Face of Bandwidth and Regulatory Constraints.","venue":"NSDI","pages":"323-336","year":"2015","type":"Conference and Workshop Papers","key":"conf/nsdi/VulimiriCGJPV15","ee":"https://www.usenix.org/conference/nsdi15/technical-sessions/presentation/vulimiri","url":"https://dblp.org/rec/conf/nsdi/VulimiriCGJPV15"},
+"url":"URL#2012495"
+},
+{
+"@score":"1",
+"@id":"2012496",
+"info":{"authors":{"author":[{"@pid":"11/5670","text":"Zhe Wu"},{"@pid":"04/10041","text":"Curtis Yu"},{"@pid":"45/2026","text":"Harsha V. Madhyastha"}]},"title":"CosTLO - Cost-Effective Redundancy for Lower Latency Variance on Cloud Storage Services.","venue":"NSDI","pages":"543-557","year":"2015","type":"Conference and Workshop Papers","key":"conf/nsdi/WuYM15","ee":"https://www.usenix.org/conference/nsdi15/technical-sessions/presentation/wu","url":"https://dblp.org/rec/conf/nsdi/WuYM15"},
+"url":"URL#2012496"
+},
+{
+"@score":"1",
+"@id":"2012497",
+"info":{"authors":{"author":[{"@pid":"76/5416-3","text":"Yiming Zhang 0003"},{"@pid":"95/4962","text":"Chuanxiong Guo"},{"@pid":"254/0830-1","text":"Dongsheng Li 0001"},{"@pid":"00/2927","text":"Rui Chu"},{"@pid":"96/1582","text":"Haitao Wu"},{"@pid":"57/4569","text":"Yongqiang Xiong"}]},"title":"CubicRing - Enabling One-Hop Failure Detection and Recovery for Distributed In-Memory Storage Systems.","venue":"NSDI","pages":"529-542","year":"2015","type":"Conference and Workshop Papers","key":"conf/nsdi/ZhangGLCWX15","ee":"https://www.usenix.org/conference/nsdi15/technical-sessions/presentation/zhang","url":"https://dblp.org/rec/conf/nsdi/ZhangGLCWX15"},
+"url":"URL#2012497"
+},
+{
+"@score":"1",
+"@id":"2012498",
+"info":{"authors":{"author":[{"@pid":"78/9975","text":"Wenxuan Zhou"},{"@pid":"118/8012","text":"Dong (Kevin) Jin"},{"@pid":"44/4224","text":"Jason Croft"},{"@pid":"09/384","text":"Matthew Caesar"},{"@pid":"g/BrightenGodfrey","text":"Philip Brighten Godfrey"}]},"title":"Enforcing Customizable Consistency Properties in Software-Defined Networks.","venue":"NSDI","pages":"73-85","year":"2015","type":"Conference and Workshop Papers","key":"conf/nsdi/ZhouJCCG15","ee":"https://www.usenix.org/conference/nsdi15/technical-sessions/presentation/zhou","url":"https://dblp.org/rec/conf/nsdi/ZhouJCCG15"},
+"url":"URL#2012498"
+},
+{
+"@score":"1",
+"@id":"2050110",
+"info":{"title":"12th USENIX Symposium on Networked Systems Design and Implementation, NSDI 15, Oakland, CA, USA, May 4-6, 2015","venue":"NSDI","publisher":"USENIX Association","year":"2015","type":"Editorship","key":"conf/nsdi/2015","ee":"https://www.usenix.org/conference/nsdi15","url":"https://dblp.org/rec/conf/nsdi/2015"},
+"url":"URL#2050110"
+}
+]
+}
+}
+}

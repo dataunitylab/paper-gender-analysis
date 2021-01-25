@@ -1,0 +1,218 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"nsdi\"/\"nsdi2008\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"149.38"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"31",
+"@dc":"31",
+"@oc":"31",
+"@id":"17580395",
+"text":":facetid:toc:db/conf/nsdi/nsdi2008.bht"
+}
+},
+"hits":{
+"@total":"31",
+"@computed":"31",
+"@sent":"31",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"3744901",
+"info":{"authors":{"author":[{"@pid":"66/4916","text":"Mikhail Afanasyev"},{"@pid":"a/DavidGAndersen","text":"David G. Andersen"},{"@pid":"s/AlexCSnoeren","text":"Alex C. Snoeren"}]},"title":"Efficiency Through Eavesdropping - Link-layer Packet Caching.","venue":"NSDI","pages":"105-118","year":"2008","type":"Conference and Workshop Papers","key":"conf/nsdi/AfanasyevAS08","ee":"http://www.usenix.org/events/nsdi08/tech/full_papers/afanasyev/afanasyev.pdf","url":"https://dblp.org/rec/conf/nsdi/AfanasyevAS08"},
+"url":"URL#3744901"
+},
+{
+"@score":"1",
+"@id":"3744904",
+"info":{"authors":{"author":[{"@pid":"b/MBalakrishnan","text":"Mahesh Balakrishnan 0001"},{"@pid":"35/6862","text":"Tudor Marian"},{"@pid":"b/KPBirman","text":"Ken Birman"},{"@pid":"w/HakimWeatherspoon","text":"Hakim Weatherspoon"},{"@pid":"v/EinarVollset","text":"Einar Vollset"}]},"title":"Maelstrom - Transparent Error Correction for Lambda Networks.","venue":"NSDI","pages":"263-278","year":"2008","type":"Conference and Workshop Papers","key":"conf/nsdi/BalakrishnanMBWV08","ee":"http://www.usenix.org/events/nsdi08/tech/full_papers/balakrishnan/balakrishnan.pdf","url":"https://dblp.org/rec/conf/nsdi/BalakrishnanMBWV08"},
+"url":"URL#3744904"
+},
+{
+"@score":"1",
+"@id":"3744906",
+"info":{"authors":{"author":[{"@pid":"70/1811","text":"Andrea Bittau"},{"@pid":"12/6745","text":"Petr Marchenko"},{"@pid":"h/MarkHandley","text":"Mark Handley"},{"@pid":"06/5980","text":"Brad Karp"}]},"title":"Wedge - Splitting Applications into Reduced-Privilege Compartments.","venue":"NSDI","pages":"309-322","year":"2008","type":"Conference and Workshop Papers","key":"conf/nsdi/BittauMHK08","ee":"http://www.usenix.org/events/nsdi08/tech/full_papers/bittau/bittau.pdf","url":"https://dblp.org/rec/conf/nsdi/BittauMHK08"},
+"url":"URL#3744906"
+},
+{
+"@score":"1",
+"@id":"3744909",
+"info":{"authors":{"author":[{"@pid":"27/5136","text":"Justin Cappos"},{"@pid":"h/JohnHHartman","text":"John H. Hartman"}]},"title":"San Fermín - Aggregating Large Data Sets Using a Binomial Swap Forest.","venue":"NSDI","pages":"147-160","year":"2008","type":"Conference and Workshop Papers","key":"conf/nsdi/CapposH08","ee":"http://www.usenix.org/events/nsdi08/tech/full_papers/cappos/cappos.pdf","url":"https://dblp.org/rec/conf/nsdi/CapposH08"},
+"url":"URL#3744909"
+},
+{
+"@score":"1",
+"@id":"3744910",
+"info":{"authors":{"author":[{"@pid":"49/4553","text":"Gong Chen"},{"@pid":"45/2682","text":"Wenbo He"},{"@pid":"03/2134-1","text":"Jie Liu 0001"},{"@pid":"85/6293","text":"Suman Nath"},{"@pid":"77/597","text":"Leonidas Rigas"},{"@pid":"98/4025","text":"Lin Xiao"},{"@pid":"z/FengZhao","text":"Feng Zhao 0001"}]},"title":"Energy-Aware Server Provisioning and Load Dispatching for Connection-Intensive Internet Services.","venue":"NSDI","pages":"337-350","year":"2008","type":"Conference and Workshop Papers","key":"conf/nsdi/ChenHLNRXZ08","ee":"http://www.usenix.org/events/nsdi08/tech/full_papers/chen/chen.pdf","url":"https://dblp.org/rec/conf/nsdi/ChenHLNRXZ08"},
+"url":"URL#3744910"
+},
+{
+"@score":"1",
+"@id":"3744912",
+"info":{"authors":{"author":[{"@pid":"34/3515","text":"Byung-Gon Chun"},{"@pid":"68/5579","text":"Sylvia Ratnasamy"},{"@pid":"78/5231","text":"Eddie Kohler"}]},"title":"NetComplex - A Complexity Metric for Networked System Designs.","venue":"NSDI","pages":"393-406","year":"2008","type":"Conference and Workshop Papers","key":"conf/nsdi/ChunRK08","ee":"http://www.usenix.org/events/nsdi08/tech/full_papers/chun/chun.pdf","url":"https://dblp.org/rec/conf/nsdi/ChunRK08"},
+"url":"URL#3744912"
+},
+{
+"@score":"1",
+"@id":"3744915",
+"info":{"authors":{"author":[{"@pid":"33/6584","text":"Brendan Cully"},{"@pid":"51/1043","text":"Geoffrey Lefebvre"},{"@pid":"84/5624","text":"Dutch T. Meyer"},{"@pid":"f/MJFeeley","text":"Mike Feeley"},{"@pid":"40/920","text":"Norman C. Hutchinson"},{"@pid":"70/5879","text":"Andrew Warfield"}]},"title":"Remus - High Availability via Asynchronous Virtual Machine Replication. (Best Paper)","venue":"NSDI","pages":"161","year":"2008","type":"Conference and Workshop Papers","key":"conf/nsdi/CullyLMFHW08","ee":"http://www.usenix.org/events/nsdi08/tech/full_papers/cully/cully.pdf","url":"https://dblp.org/rec/conf/nsdi/CullyLMFHW08"},
+"url":"URL#3744915"
+},
+{
+"@score":"1",
+"@id":"3744917",
+"info":{"authors":{"author":[{"@pid":"58/5897","text":"Saumitra M. Das"},{"@pid":"30/321","text":"Yunnan Wu"},{"@pid":"99/2097","text":"Ranveer Chandra"},{"@pid":"93/89","text":"Y. Charlie Hu"}]},"title":"Context-based Routing - Technique, Applications, and Experience.","venue":"NSDI","pages":"379-392","year":"2008","type":"Conference and Workshop Papers","key":"conf/nsdi/DasWCH08","ee":"http://www.usenix.org/events/nsdi08/tech/full_papers/das/das.pdf","url":"https://dblp.org/rec/conf/nsdi/DasWCH08"},
+"url":"URL#3744917"
+},
+{
+"@score":"1",
+"@id":"3744918",
+"info":{"authors":{"author":[{"@pid":"00/4008","text":"Colin Dixon"},{"@pid":"a/ThomasEAnderson","text":"Thomas E. Anderson"},{"@pid":"k/AKrishnamurthy","text":"Arvind Krishnamurthy"}]},"title":"Phalanx - Withstanding Multimillion-Node Botnets.","venue":"NSDI","pages":"45-58","year":"2008","type":"Conference and Workshop Papers","key":"conf/nsdi/DixonAK08","ee":"http://www.usenix.org/events/nsdi08/tech/full_papers/dixon/dixon.pdf","url":"https://dblp.org/rec/conf/nsdi/DixonAK08"},
+"url":"URL#3744918"
+},
+{
+"@score":"1",
+"@id":"3744924",
+"info":{"authors":{"author":[{"@pid":"84/4837","text":"Diwaker Gupta"},{"@pid":"92/3510","text":"Kashi Venkatesh Vishwanath"},{"@pid":"v/AminVahdat","text":"Amin Vahdat"}]},"title":"DieCast - Testing Distributed Systems with an Accurate Scale Model.","venue":"NSDI","pages":"407-422","year":"2008","type":"Conference and Workshop Papers","key":"conf/nsdi/GuptaVV08","ee":"http://www.usenix.org/events/nsdi08/tech/full_papers/gupta/gupta.pdf","url":"https://dblp.org/rec/conf/nsdi/GuptaVV08"},
+"url":"URL#3744924"
+},
+{
+"@score":"1",
+"@id":"3744926",
+"info":{"authors":{"author":[{"@pid":"35/6899","text":"Chi Ho"},{"@pid":"r/RvRenesse","text":"Robbert van Renesse"},{"@pid":"10/1927","text":"Mark Bickford"},{"@pid":"d/DannyDolev","text":"Danny Dolev"}]},"title":"Nysiad - Practical Protocol Transformation to Tolerate Byzantine Failures.","venue":"NSDI","pages":"175-188","year":"2008","type":"Conference and Workshop Papers","key":"conf/nsdi/HoRBD08","ee":"http://www.usenix.org/events/nsdi08/tech/full_papers/ho/ho.pdf","url":"https://dblp.org/rec/conf/nsdi/HoRBD08"},
+"url":"URL#3744926"
+},
+{
+"@score":"1",
+"@id":"3744928",
+"info":{"authors":{"author":[{"@pid":"12/1518","text":"John P. John"},{"@pid":"66/2080","text":"Ethan Katz-Bassett"},{"@pid":"k/AKrishnamurthy","text":"Arvind Krishnamurthy"},{"@pid":"a/ThomasEAnderson","text":"Thomas E. Anderson"},{"@pid":"v/ArunVenkataramani","text":"Arun Venkataramani"}]},"title":"Consensus Routing - The Internet as a Distributed System. (Best Paper)","venue":"NSDI","pages":"351-364","year":"2008","type":"Conference and Workshop Papers","key":"conf/nsdi/JohnKKAV08","ee":"http://www.usenix.org/events/nsdi08/tech/full_papers/john/john.pdf","url":"https://dblp.org/rec/conf/nsdi/JohnKKAV08"},
+"url":"URL#3744928"
+},
+{
+"@score":"1",
+"@id":"3744930",
+"info":{"authors":{"author":[{"@pid":"k/SrikanthKandula","text":"Srikanth Kandula"},{"@pid":"16/656","text":"Kate Ching-Ju Lin"},{"@pid":"05/4362","text":"Tural Badirkhanli"},{"@pid":"k/DinaKatabi","text":"Dina Katabi"}]},"title":"FatVAP - Aggregating AP Backhaul Capacity to Maximize Throughput.","venue":"NSDI","pages":"89-104","year":"2008","type":"Conference and Workshop Papers","key":"conf/nsdi/KandulaLBK08","ee":"http://www.usenix.org/events/nsdi08/tech/full_papers/kandula/kandula.pdf","url":"https://dblp.org/rec/conf/nsdi/KandulaLBK08"},
+"url":"URL#3744930"
+},
+{
+"@score":"1",
+"@id":"3744933",
+"info":{"authors":{"author":[{"@pid":"66/2080","text":"Ethan Katz-Bassett"},{"@pid":"45/2026","text":"Harsha V. Madhyastha"},{"@pid":"12/1518","text":"John P. John"},{"@pid":"k/AKrishnamurthy","text":"Arvind Krishnamurthy"},{"@pid":"w/DavidWetherall","text":"David Wetherall"},{"@pid":"a/ThomasEAnderson","text":"Thomas E. Anderson"}]},"title":"Studying Black Holes in the Internet with Hubble.","venue":"NSDI","pages":"247-262","year":"2008","type":"Conference and Workshop Papers","key":"conf/nsdi/Katz-BassettMJKWA08","ee":"http://www.usenix.org/events/nsdi08/tech/full_papers/katz-bassett/katz-bassett.pdf","url":"https://dblp.org/rec/conf/nsdi/Katz-BassettMJKWA08"},
+"url":"URL#3744933"
+},
+{
+"@score":"1",
+"@id":"3744939",
+"info":{"authors":{"author":[{"@pid":"85/6600","text":"Xuezheng Liu"},{"@pid":"53/1850","text":"Zhenyu Guo"},{"@pid":"08/5760-5","text":"Xi Wang 0005"},{"@pid":"38/6727","text":"Feibo Chen"},{"@pid":"61/3235","text":"Xiaochen Lian"},{"@pid":"181/2667","text":"Jian Tang"},{"@pid":"32/2572","text":"Ming Wu"},{"@pid":"k/MFransKaashoek","text":"M. Frans Kaashoek"},{"@pid":"z/ZhengZhang","text":"Zheng Zhang 0001"}]},"title":"D3S - Debugging Deployed Distributed Systems.","venue":"NSDI","pages":"423-437","year":"2008","type":"Conference and Workshop Papers","key":"conf/nsdi/LiuGWCLTWKZ08","ee":"http://www.usenix.org/events/nsdi08/tech/full_papers/liu_xuezheng/liu_xuezheng.pdf","url":"https://dblp.org/rec/conf/nsdi/LiuGWCLTWKZ08"},
+"url":"URL#3744939"
+},
+{
+"@score":"1",
+"@id":"3744940",
+"info":{"authors":{"author":[{"@pid":"76/1820","text":"Xin Liu"},{"@pid":"33/2805-2","text":"Ang Li 0002"},{"@pid":"y/XiaoweiYang","text":"Xiaowei Yang 0001"},{"@pid":"w/DavidWetherall","text":"David Wetherall"}]},"title":"Passport - Secure and Adoptable Source Authentication.","venue":"NSDI","pages":"365-376","year":"2008","type":"Conference and Workshop Papers","key":"conf/nsdi/LiuLYW08","ee":"http://www.usenix.org/events/nsdi08/tech/full_papers/liu_xin/liu_xin.pdf","url":"https://dblp.org/rec/conf/nsdi/LiuLYW08"},
+"url":"URL#3744940"
+},
+{
+"@score":"1",
+"@id":"3744941",
+"info":{"authors":{"author":[{"@pid":"81/6327","text":"Ratul Mahajan"},{"@pid":"73/1844-5","text":"Ming Zhang 0005"},{"@pid":"71/4433","text":"Lindsey Poole"},{"@pid":"00/1016","text":"Vivek S. Pai"}]},"title":"Uncovering Performance Differences Among Backbone ISPs with Netdiff .","venue":"NSDI","pages":"205-218","year":"2008","type":"Conference and Workshop Papers","key":"conf/nsdi/MahajanZPP08","ee":"http://www.usenix.org/events/nsdi08/tech/full_papers/mahajan/mahajan.pdf","url":"https://dblp.org/rec/conf/nsdi/MahajanZPP08"},
+"url":"URL#3744941"
+},
+{
+"@score":"1",
+"@id":"3744943",
+"info":{"authors":{"author":[{"@pid":"31/3833","text":"Alan Mislove"},{"@pid":"03/3849","text":"Ansley Post"},{"@pid":"d/PDruschel","text":"Peter Druschel"},{"@pid":"g/PKrishnaGummadi","text":"P. Krishna Gummadi"}]},"title":"Ostra - Leveraging Trust to Thwart Unwanted Communication.","venue":"NSDI","pages":"15-30","year":"2008","type":"Conference and Workshop Papers","key":"conf/nsdi/MislovePDG08","ee":"http://www.usenix.org/events/nsdi08/tech/full_papers/mislove/mislove.pdf","url":"https://dblp.org/rec/conf/nsdi/MislovePDG08"},
+"url":"URL#3744943"
+},
+{
+"@score":"1",
+"@id":"3744945",
+"info":{"authors":{"author":[{"@pid":"16/3580","text":"Rohan Murty"},{"@pid":"p/JPadhye","text":"Jitendra Padhye"},{"@pid":"99/2097","text":"Ranveer Chandra"},{"@pid":"06/915","text":"Alec Wolman"},{"@pid":"26/1494","text":"Brian Zill"}]},"title":"Designing High Performance Enterprise Wi-Fi Networks.","venue":"NSDI","pages":"73-88","year":"2008","type":"Conference and Workshop Papers","key":"conf/nsdi/MurtyPCWZ08","ee":"http://www.usenix.org/events/nsdi08/tech/full_papers/murty/murty.pdf","url":"https://dblp.org/rec/conf/nsdi/MurtyPCWZ08"},
+"url":"URL#3744945"
+},
+{
+"@score":"1",
+"@id":"3744946",
+"info":{"authors":{"author":[{"@pid":"97/1578","text":"Sergiu Nedevschi"},{"@pid":"p/LucianPopa2","text":"Lucian Popa 0002"},{"@pid":"13/3120","text":"Gianluca Iannaccone"},{"@pid":"68/5579","text":"Sylvia Ratnasamy"},{"@pid":"w/DavidWetherall","text":"David Wetherall"}]},"title":"Reducing Network Energy Consumption via Sleeping and Rate-Adaptation.","venue":"NSDI","pages":"323-336","year":"2008","type":"Conference and Workshop Papers","key":"conf/nsdi/NedevschiPIRW08","ee":"http://www.usenix.org/events/nsdi08/tech/full_papers/nedevschi/nedevschi.pdf","url":"https://dblp.org/rec/conf/nsdi/NedevschiPIRW08"},
+"url":"URL#3744946"
+},
+{
+"@score":"1",
+"@id":"3744951",
+"info":{"authors":{"author":[{"@pid":"74/4787","text":"Michael Piatek"},{"@pid":"42/2745","text":"Tomas Isdal"},{"@pid":"k/AKrishnamurthy","text":"Arvind Krishnamurthy"},{"@pid":"a/ThomasEAnderson","text":"Thomas E. Anderson"}]},"title":"One Hop Reputations for Peer to Peer File Sharing Workloads.","venue":"NSDI","pages":"1-14","year":"2008","type":"Conference and Workshop Papers","key":"conf/nsdi/PiatekIKA08","ee":"http://www.usenix.org/events/nsdi08/tech/full_papers/piatek/piatek.pdf","url":"https://dblp.org/rec/conf/nsdi/PiatekIKA08"},
+"url":"URL#3744951"
+},
+{
+"@score":"1",
+"@id":"3744953",
+"info":{"authors":{"author":[{"@pid":"17/697","text":"Charles Reis"},{"@pid":"g/StevenDGribble","text":"Steven D. Gribble"},{"@pid":"k/TadayoshiKohno","text":"Tadayoshi Kohno"},{"@pid":"38/3191","text":"Nicholas C. Weaver"}]},"title":"Detecting In-Flight Page Changes with Web Tripwires.","venue":"NSDI","pages":"31-44","year":"2008","type":"Conference and Workshop Papers","key":"conf/nsdi/ReisGKW08","ee":"http://www.usenix.org/events/nsdi08/tech/full_papers/reis/reis.pdf","url":"https://dblp.org/rec/conf/nsdi/ReisGKW08"},
+"url":"URL#3744953"
+},
+{
+"@score":"1",
+"@id":"3744955",
+"info":{"authors":{"author":[{"@pid":"45/4044","text":"Vyas Sekar"},{"@pid":"r/MichaelKReiter","text":"Michael K. Reiter"},{"@pid":"w/WalterWillinger","text":"Walter Willinger"},{"@pid":"z/HuiZhang1","text":"Hui Zhang 0001"},{"@pid":"98/2327","text":"Ramana Rao Kompella"},{"@pid":"a/DavidGAndersen","text":"David G. Andersen"}]},"title":"cSamp - A System for Network-Wide Flow Monitoring.","venue":"NSDI","pages":"233-246","year":"2008","type":"Conference and Workshop Papers","key":"conf/nsdi/SekarRWZKA08","ee":"http://www.usenix.org/events/nsdi08/tech/full_papers/sekar/sekar.pdf","url":"https://dblp.org/rec/conf/nsdi/SekarRWZKA08"},
+"url":"URL#3744955"
+},
+{
+"@score":"1",
+"@id":"3744956",
+"info":{"authors":{"author":[{"@pid":"14/4653","text":"Atul Singh"},{"@pid":"31/6214","text":"Tathagata Das"},{"@pid":"m/PetrosManiatis","text":"Petros Maniatis"},{"@pid":"d/PDruschel","text":"Peter Druschel"},{"@pid":"r/TimothyRoscoe","text":"Timothy Roscoe"}]},"title":"BFT Protocols Under Fire.","venue":"NSDI","pages":"189-204","year":"2008","type":"Conference and Workshop Papers","key":"conf/nsdi/SinghDMDR08","ee":"http://www.usenix.org/events/nsdi08/tech/full_papers/singh/singh.pdf","url":"https://dblp.org/rec/conf/nsdi/SinghDMDR08"},
+"url":"URL#3744956"
+},
+{
+"@score":"1",
+"@id":"3744957",
+"info":{"authors":{"author":[{"@pid":"31/2421","text":"Emil Sit"},{"@pid":"82/11191","text":"Robert Tappan Morris"},{"@pid":"k/MFransKaashoek","text":"M. Frans Kaashoek"}]},"title":"UsenetDHT - A Low-Overhead Design for Usenet.","venue":"NSDI","pages":"133-146","year":"2008","type":"Conference and Workshop Papers","key":"conf/nsdi/SitMK08","ee":"http://www.usenix.org/events/nsdi08/tech/full_papers/sit/sit.pdf","url":"https://dblp.org/rec/conf/nsdi/SitMK08"},
+"url":"URL#3744957"
+},
+{
+"@score":"1",
+"@id":"3744958",
+"info":{"authors":{"author":[{"@pid":"50/1534","text":"Sonesh Surana"},{"@pid":"05/824","text":"Rabin K. Patra"},{"@pid":"97/1578","text":"Sergiu Nedevschi"},{"@pid":"14/3634","text":"Manuel Ramos"},{"@pid":"85/5401","text":"Lakshminarayanan Subramanian"},{"@pid":"14/6885","text":"Yahel Ben-David"},{"@pid":"b/EricABrewer","text":"Eric A. Brewer"}]},"title":"Beyond Pilots - Keeping Rural Wireless Networks Alive.","venue":"NSDI","pages":"119-132","year":"2008","type":"Conference and Workshop Papers","key":"conf/nsdi/SuranaPNRSBB08","ee":"http://www.usenix.org/events/nsdi08/tech/full_papers/surana/surana.pdf","url":"https://dblp.org/rec/conf/nsdi/SuranaPNRSBB08"},
+"url":"URL#3744958"
+},
+{
+"@score":"1",
+"@id":"3744960",
+"info":{"authors":{"author":[{"@pid":"51/6299","text":"Mythili Vutukuru"},{"@pid":"j/KyleJamieson","text":"Kyle Jamieson"},{"@pid":"b/HariBalakrishnan","text":"Hari Balakrishnan"}]},"title":"Harnessing Exposed Terminals in Wireless Networks.","venue":"NSDI","pages":"59-72","year":"2008","type":"Conference and Workshop Papers","key":"conf/nsdi/VutukuruJB08","ee":"http://www.usenix.org/events/nsdi08/tech/full_papers/vutukuru/vutukuru.pdf","url":"https://dblp.org/rec/conf/nsdi/VutukuruJB08"},
+"url":"URL#3744960"
+},
+{
+"@score":"1",
+"@id":"3744961",
+"info":{"authors":{"author":[{"@pid":"87/6581","text":"Zhenyu Wu"},{"@pid":"51/4251","text":"Mengjun Xie"},{"@pid":"81/4036","text":"Haining Wang"}]},"title":"Swift - A Fast Dynamic Packet Filter.","venue":"NSDI","pages":"279-292","year":"2008","type":"Conference and Workshop Papers","key":"conf/nsdi/WuXW08","ee":"http://www.usenix.org/events/nsdi08/tech/full_papers/wu/wu.pdf","url":"https://dblp.org/rec/conf/nsdi/WuXW08"},
+"url":"URL#3744961"
+},
+{
+"@score":"1",
+"@id":"3744963",
+"info":{"authors":{"author":[{"@pid":"99/5780","text":"Nickolai Zeldovich"},{"@pid":"06/2219","text":"Silas Boyd-Wickizer"},{"@pid":"m/DMazieres","text":"David Mazières"}]},"title":"Securing Distributed Systems with Information Flow Control.","venue":"NSDI","pages":"293-308","year":"2008","type":"Conference and Workshop Papers","key":"conf/nsdi/ZeldovichBM08","ee":"http://www.usenix.org/events/nsdi08/tech/full_papers/zeldovich/zeldovich.pdf","url":"https://dblp.org/rec/conf/nsdi/ZeldovichBM08"},
+"url":"URL#3744963"
+},
+{
+"@score":"1",
+"@id":"3744964",
+"info":{"authors":{"author":[{"@pid":"13/6769-22","text":"Ying Zhang 0022"},{"@pid":"91/584","text":"Zhuoqing Morley Mao"},{"@pid":"73/1844","text":"Ming Zhang"}]},"title":"Effective Diagnosis of Routing Disruptions from End Systems.","venue":"NSDI","pages":"219-232","year":"2008","type":"Conference and Workshop Papers","key":"conf/nsdi/ZhangMZ08","ee":"http://www.usenix.org/events/nsdi08/tech/full_papers/zhang/zhang.pdf","url":"https://dblp.org/rec/conf/nsdi/ZhangMZ08"},
+"url":"URL#3744964"
+},
+{
+"@score":"1",
+"@id":"3772944",
+"info":{"authors":{"author":[{"@pid":"c/JonCrowcroft","text":"Jon Crowcroft"},{"@pid":"d/MDahlin","text":"Michael Dahlin"}]},"title":"5th USENIX Symposium on Networked Systems Design &amp; Implementation, NSDI 2008, April 16-18, 2008, San Francisco, CA, USA, Proceedings","venue":"NSDI","publisher":"USENIX Association","year":"2008","type":"Editorship","key":"conf/nsdi/2008","ee":"http://www.usenix.org/nsdi08/","url":"https://dblp.org/rec/conf/nsdi/2008"},
+"url":"URL#3772944"
+}
+]
+}
+}
+}

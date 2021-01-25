@@ -1,0 +1,212 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"sigcomm\"/\"sigcomm1989\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"127.67"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"30",
+"@dc":"30",
+"@oc":"30",
+"@id":"17586186",
+"text":":facetid:toc:db/conf/sigcomm/sigcomm1989.bht"
+}
+},
+"hits":{
+"@total":"30",
+"@computed":"30",
+"@sent":"30",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"5258964",
+"info":{"authors":{"author":{"@pid":"42/5946","text":"Joshua S. Auerbach"}},"title":"A Protocol Conversion Software Toolkit.","venue":"SIGCOMM","pages":"259-270","year":"1989","type":"Conference and Workshop Papers","key":"conf/sigcomm/Auerbach89","doi":"10.1145/75246.75272","ee":"https://doi.org/10.1145/75246.75272","url":"https://dblp.org/rec/conf/sigcomm/Auerbach89"},
+"url":"URL#5258964"
+},
+{
+"@score":"1",
+"@id":"5258965",
+"info":{"authors":{"author":[{"@pid":"43/6121","text":"Barry J. Brachman"},{"@pid":"c/STChanson","text":"Samuel T. Chanson"}]},"title":"A Hierarchical Solution for Application Level Store-and-Forward Deadlock Prevention.","venue":"SIGCOMM","pages":"25-32","year":"1989","type":"Conference and Workshop Papers","key":"conf/sigcomm/BrachmanC89","doi":"10.1145/75246.75250","ee":"https://doi.org/10.1145/75246.75250","url":"https://dblp.org/rec/conf/sigcomm/BrachmanC89"},
+"url":"URL#5258965"
+},
+{
+"@score":"1",
+"@id":"5258966",
+"info":{"authors":{"author":[{"@pid":"23/3559","text":"Geoffrey M. Brown"},{"@pid":"g/MohamedGGouda","text":"Mohamed G. Gouda"},{"@pid":"m/RaymondEMiller","text":"Raymond E. Miller"}]},"title":"Block Acknowledgement - Redesigning the Window Protocol.","venue":"SIGCOMM","pages":"128-135","year":"1989","type":"Conference and Workshop Papers","key":"conf/sigcomm/BrownGM89","doi":"10.1145/75246.75260","ee":"https://doi.org/10.1145/75246.75260","url":"https://dblp.org/rec/conf/sigcomm/BrownGM89"},
+"url":"URL#5258966"
+},
+{
+"@score":"1",
+"@id":"5258967",
+"info":{"authors":{"author":{"@pid":"21/3976","text":"John W. Burren"}},"title":"Flexible Aggregation of Channel Bandwidth in Primary Rate ISDN.","venue":"SIGCOMM","pages":"191-196","year":"1989","type":"Conference and Workshop Papers","key":"conf/sigcomm/Burren89","doi":"10.1145/75246.75266","ee":"https://doi.org/10.1145/75246.75266","url":"https://dblp.org/rec/conf/sigcomm/Burren89"},
+"url":"URL#5258967"
+},
+{
+"@score":"1",
+"@id":"5258968",
+"info":{"authors":{"author":[{"@pid":"99/4063","text":"Kenneth L. Calvert"},{"@pid":"l/SimonSLam","text":"Simon S. Lam"}]},"title":"Deriving a Protocol Converter - A Top-Down Method.","venue":"SIGCOMM","pages":"247-258","year":"1989","type":"Conference and Workshop Papers","key":"conf/sigcomm/CalvertL89","doi":"10.1145/75246.75271","ee":"https://doi.org/10.1145/75246.75271","url":"https://dblp.org/rec/conf/sigcomm/CalvertL89"},
+"url":"URL#5258968"
+},
+{
+"@score":"1",
+"@id":"5258969",
+"info":{"authors":{"author":[{"@pid":"62/6603","text":"W. Y. L. Chan"},{"@pid":"49/2833","text":"C. T. Vuong"},{"@pid":"17/2827","text":"M. R. Otp"}]},"title":"An Improved Protocol Test Generation Procedure Based on UIOS.","venue":"SIGCOMM","pages":"283-294","year":"1989","type":"Conference and Workshop Papers","key":"conf/sigcomm/ChanVO89","doi":"10.1145/75246.75274","ee":"https://doi.org/10.1145/75246.75274","url":"https://dblp.org/rec/conf/sigcomm/ChanVO89"},
+"url":"URL#5258969"
+},
+{
+"@score":"1",
+"@id":"5258970",
+"info":{"authors":{"author":{"@pid":"75/1660","text":"C. C. Chang"}},"title":"REXDC - A Remote Execution Mechanism.","venue":"SIGCOMM","pages":"106-115","year":"1989","type":"Conference and Workshop Papers","key":"conf/sigcomm/Chang89","doi":"10.1145/75246.75258","ee":"https://doi.org/10.1145/75246.75258","url":"https://dblp.org/rec/conf/sigcomm/Chang89"},
+"url":"URL#5258970"
+},
+{
+"@score":"1",
+"@id":"5258971",
+"info":{"authors":{"author":[{"@pid":"55/2886","text":"C. Cheng"},{"@pid":"81/5654","text":"R. Riley"},{"@pid":"83/2018","text":"Srikanta P. R. Kumar"},{"@pid":"g/JJGarciaLunaAceves","text":"J. J. Garcia-Luna-Aceves"}]},"title":"A Loop-Free Extended Bellman-Ford Routing Protocol Without Bouncing Effect.","venue":"SIGCOMM","pages":"224-236","year":"1989","type":"Conference and Workshop Papers","key":"conf/sigcomm/ChengRKG89","doi":"10.1145/75246.75269","ee":"https://doi.org/10.1145/75246.75269","url":"https://dblp.org/rec/conf/sigcomm/ChengRKG89"},
+"url":"URL#5258971"
+},
+{
+"@score":"1",
+"@id":"5258972",
+"info":{"authors":{"author":{"@pid":"c/DRCheriton","text":"David R. Cheriton"}},"title":"Sirpent - A High-Performance Internetworking Approach.","venue":"SIGCOMM","pages":"158-169","year":"1989","type":"Conference and Workshop Papers","key":"conf/sigcomm/Cheriton89","doi":"10.1145/75246.75263","ee":"https://doi.org/10.1145/75246.75263","url":"https://dblp.org/rec/conf/sigcomm/Cheriton89"},
+"url":"URL#5258972"
+},
+{
+"@score":"1",
+"@id":"5258973",
+"info":{"authors":{"author":[{"@pid":"86/5556","text":"David L. Cohrs"},{"@pid":"m/BartonPMiller","text":"Barton P. Miller"}]},"title":"Specification and Verification of Network Managers for Large Internets.","venue":"SIGCOMM","pages":"33-44","year":"1989","type":"Conference and Workshop Papers","key":"conf/sigcomm/CohrsM89","doi":"10.1145/75246.75251","ee":"https://doi.org/10.1145/75246.75251","url":"https://dblp.org/rec/conf/sigcomm/CohrsM89"},
+"url":"URL#5258973"
+},
+{
+"@score":"1",
+"@id":"5258974",
+"info":{"authors":{"author":[{"@pid":"03/5860","text":"Alan J. Demers"},{"@pid":"59/739","text":"Srinivasan Keshav"},{"@pid":"34/5593","text":"Scott Shenker"}]},"title":"Analysis and Simulation of a Fair Queueing Algorithm.","venue":"SIGCOMM","pages":"1-12","year":"1989","type":"Conference and Workshop Papers","key":"conf/sigcomm/DemersKS89","doi":"10.1145/75246.75248","ee":"https://doi.org/10.1145/75246.75248","url":"https://dblp.org/rec/conf/sigcomm/DemersKS89"},
+"url":"URL#5258974"
+},
+{
+"@score":"1",
+"@id":"5258975",
+"info":{"authors":{"author":{"@pid":"g/JJGarciaLunaAceves","text":"J. J. Garcia-Luna-Aceves"}},"title":"A Unified Approach to Loop-Free Routing Using Distance Vectors or Link States.","venue":"SIGCOMM","pages":"212-223","year":"1989","type":"Conference and Workshop Papers","key":"conf/sigcomm/Garcia-Luna-Aceves89","doi":"10.1145/75246.75268","ee":"https://doi.org/10.1145/75246.75268","url":"https://dblp.org/rec/conf/sigcomm/Garcia-Luna-Aceves89"},
+"url":"URL#5258975"
+},
+{
+"@score":"1",
+"@id":"5258976",
+"info":{"authors":{"author":[{"@pid":"37/2264","text":"B. R. Harita"},{"@pid":"l/IanMLeslie","text":"Ian M. Leslie"}]},"title":"Dynamic Bandwidth Management of Primary Rate ISDN to Support ATM Access.","venue":"SIGCOMM","pages":"197-210","year":"1989","type":"Conference and Workshop Papers","key":"conf/sigcomm/HaritaL89","doi":"10.1145/75246.75267","ee":"https://doi.org/10.1145/75246.75267","url":"https://dblp.org/rec/conf/sigcomm/HaritaL89"},
+"url":"URL#5258976"
+},
+{
+"@score":"1",
+"@id":"5258977",
+"info":{"authors":{"author":{"@pid":"94/2731","text":"P. Jomer"}},"title":"Connection Caching of Traffic Adaptive Dynamic Virtual Circuits.","venue":"SIGCOMM","pages":"13-24","year":"1989","type":"Conference and Workshop Papers","key":"conf/sigcomm/Jomer89","doi":"10.1145/75246.75249","ee":"https://doi.org/10.1145/75246.75249","url":"https://dblp.org/rec/conf/sigcomm/Jomer89"},
+"url":"URL#5258977"
+},
+{
+"@score":"1",
+"@id":"5258978",
+"info":{"authors":{"author":[{"@pid":"94/5698","text":"Ahmed E. Kamal"},{"@pid":"99/6795","text":"Bandula W. Abeysundara"}]},"title":"X-NET - A Dual Bus Fiber-Optic LAN Using Active Switches.","venue":"SIGCOMM","pages":"72-82","year":"1989","type":"Conference and Workshop Papers","key":"conf/sigcomm/KamalA89","doi":"10.1145/75246.75255","ee":"https://doi.org/10.1145/75246.75255","url":"https://dblp.org/rec/conf/sigcomm/KamalA89"},
+"url":"URL#5258978"
+},
+{
+"@score":"1",
+"@id":"5258979",
+"info":{"authors":{"author":[{"@pid":"47/5592","text":"A. Khanna"},{"@pid":"85/61","text":"John A. Zinky"}]},"title":"The Revised ARPANET Routing Metric.","venue":"SIGCOMM","pages":"45-56","year":"1989","type":"Conference and Workshop Papers","key":"conf/sigcomm/KhannaZ89","doi":"10.1145/75246.75252","ee":"https://doi.org/10.1145/75246.75252","url":"https://dblp.org/rec/conf/sigcomm/KhannaZ89"},
+"url":"URL#5258979"
+},
+{
+"@score":"1",
+"@id":"5258980",
+"info":{"authors":{"author":[{"@pid":"01/478","text":"Ferhat Khendek"},{"@pid":"b/GvBochmann","text":"Gregor von Bochmann"},{"@pid":"72/6995","text":"Christian Kant"}]},"title":"New Results on Deriving Protocol Specifications from Service Specifications.","venue":"SIGCOMM","pages":"136-145","year":"1989","type":"Conference and Workshop Papers","key":"conf/sigcomm/KhendekBK89","doi":"10.1145/75246.75261","ee":"https://doi.org/10.1145/75246.75261","url":"https://dblp.org/rec/conf/sigcomm/KhendekBK89"},
+"url":"URL#5258980"
+},
+{
+"@score":"1",
+"@id":"5258981",
+"info":{"authors":{"author":[{"@pid":"m/KurtMaly","text":"Kurt Maly"},{"@pid":"19/100","text":"Edwin C. Foudriat"},{"@pid":"00/3116","text":"David Game"},{"@pid":"m/RaviMukkamala","text":"Ravi Mukkamala"},{"@pid":"o/CMichaelOverstreet","text":"C. Michael Overstreet"}]},"title":"Traffic Placement Policies for Multi-Band Network.","venue":"SIGCOMM","pages":"94-105","year":"1989","type":"Conference and Workshop Papers","key":"conf/sigcomm/MalyFGMO89","doi":"10.1145/75246.75257","ee":"https://doi.org/10.1145/75246.75257","url":"https://dblp.org/rec/conf/sigcomm/MalyFGMO89"},
+"url":"URL#5258981"
+},
+{
+"@score":"1",
+"@id":"5258982",
+"info":{"authors":{"author":[{"@pid":"m/PhilipKMcKinley","text":"Philip K. McKinley"},{"@pid":"l/JaneWSLiu","text":"Jane W.-S. Liu"}]},"title":"Group Communication in Multichannel Networks with Staircase Interconnection Topologies.","venue":"SIGCOMM","pages":"170-181","year":"1989","type":"Conference and Workshop Papers","key":"conf/sigcomm/McKinleyL89","doi":"10.1145/75246.75264","ee":"https://doi.org/10.1145/75246.75264","url":"https://dblp.org/rec/conf/sigcomm/McKinleyL89"},
+"url":"URL#5258982"
+},
+{
+"@score":"1",
+"@id":"5258983",
+"info":{"authors":{"author":{"@pid":"36/6958","text":"Susan M. Merritt"}},"title":"A Top Down Unification of Minimum Cost Spanning Tree Algorithms.","venue":"SIGCOMM","pages":"116-127","year":"1989","type":"Conference and Workshop Papers","key":"conf/sigcomm/Merritt89","doi":"10.1145/75246.75259","ee":"https://doi.org/10.1145/75246.75259","url":"https://dblp.org/rec/conf/sigcomm/Merritt89"},
+"url":"URL#5258983"
+},
+{
+"@score":"1",
+"@id":"5258984",
+"info":{"authors":{"author":{"@pid":"n/ThomasNarten","text":"Thomas Narten"}},"title":"Internet Routing.","venue":"SIGCOMM","pages":"271-282","year":"1989","type":"Conference and Workshop Papers","key":"conf/sigcomm/Narten89","doi":"10.1145/75246.75273","ee":"https://doi.org/10.1145/75246.75273","url":"https://dblp.org/rec/conf/sigcomm/Narten89"},
+"url":"URL#5258984"
+},
+{
+"@score":"1",
+"@id":"5258985",
+"info":{"authors":{"author":{"@pid":"11/6305","text":"Gerald W. Neufeld"}},"title":"Descriptive names in X.500.","venue":"SIGCOMM","pages":"64-71","year":"1989","type":"Conference and Workshop Papers","key":"conf/sigcomm/Neufeld89","doi":"10.1145/75246.75254","ee":"https://doi.org/10.1145/75246.75254","url":"https://dblp.org/rec/conf/sigcomm/Neufeld89"},
+"url":"URL#5258985"
+},
+{
+"@score":"1",
+"@id":"5258986",
+"info":{"authors":{"author":[{"@pid":"30/5438","text":"Bala Rajagopalan"},{"@pid":"11/242","text":"Michael Faiman"}]},"title":"A New Responsive Distributed Shortest-Path Rounting Algorithm.","venue":"SIGCOMM","pages":"237-246","year":"1989","type":"Conference and Workshop Papers","key":"conf/sigcomm/RajagopalanF89","doi":"10.1145/75246.75270","ee":"https://doi.org/10.1145/75246.75270","url":"https://dblp.org/rec/conf/sigcomm/RajagopalanF89"},
+"url":"URL#5258986"
+},
+{
+"@score":"1",
+"@id":"5258987",
+"info":{"authors":{"author":[{"@pid":"79/718","text":"Krishan K. Sabnani"},{"@pid":"n/ArunNNetravali","text":"Arun N. Netravali"}]},"title":"A High Speed Transport Protocol for Datagram/Virtual Circuit Networks.","venue":"SIGCOMM","pages":"146-157","year":"1989","type":"Conference and Workshop Papers","key":"conf/sigcomm/SabnaniN89","doi":"10.1145/75246.75262","ee":"https://doi.org/10.1145/75246.75262","url":"https://dblp.org/rec/conf/sigcomm/SabnaniN89"},
+"url":"URL#5258987"
+},
+{
+"@score":"1",
+"@id":"5258988",
+"info":{"authors":{"author":[{"@pid":"54/2949","text":"Deepinder P. Sidhu"},{"@pid":"15/2920-2","text":"Chun-Shi Chang 0002"}]},"title":"Probabilistic Testing of Protocols.","venue":"SIGCOMM","pages":"295-302","year":"1989","type":"Conference and Workshop Papers","key":"conf/sigcomm/SidhuC89","doi":"10.1145/75246.75275","ee":"https://doi.org/10.1145/75246.75275","url":"https://dblp.org/rec/conf/sigcomm/SidhuC89"},
+"url":"URL#5258988"
+},
+{
+"@score":"1",
+"@id":"5258989",
+"info":{"authors":{"author":{"@pid":"17/2102","text":"J. M. Synder"}},"title":"A Routing Architecture for Very Large Networks Undergoing Rapid Reconfiguration.","venue":"SIGCOMM","pages":"57-63","year":"1989","type":"Conference and Workshop Papers","key":"conf/sigcomm/Synder89","doi":"10.1145/75246.75253","ee":"https://doi.org/10.1145/75246.75253","url":"https://dblp.org/rec/conf/sigcomm/Synder89"},
+"url":"URL#5258989"
+},
+{
+"@score":"1",
+"@id":"5258990",
+"info":{"authors":{"author":[{"@pid":"39/547","text":"David L. Tennenhouse"},{"@pid":"l/IanMLeslie","text":"Ian M. Leslie"}]},"title":"A Testbed for Wide Area ATM Research.","venue":"SIGCOMM","pages":"182-190","year":"1989","type":"Conference and Workshop Papers","key":"conf/sigcomm/TennenhouseL89","doi":"10.1145/75246.75265","ee":"https://doi.org/10.1145/75246.75265","url":"https://dblp.org/rec/conf/sigcomm/TennenhouseL89"},
+"url":"URL#5258990"
+},
+{
+"@score":"1",
+"@id":"5258991",
+"info":{"authors":{"author":[{"@pid":"v/PauloVerissimo","text":"Paulo Veríssimo"},{"@pid":"r/LRodrigues","text":"Luís E. T. Rodrigues"},{"@pid":"247/9007","text":"Mário Baptista"}]},"title":"AMp - A Highly Parallel Atomic Multicast Protocol.","venue":"SIGCOMM","pages":"83-93","year":"1989","type":"Conference and Workshop Papers","key":"conf/sigcomm/VerissimoRB89","doi":"10.1145/75246.75256","ee":"https://doi.org/10.1145/75246.75256","url":"https://dblp.org/rec/conf/sigcomm/VerissimoRB89"},
+"url":"URL#5258991"
+},
+{
+"@score":"1",
+"@id":"5258992",
+"info":{"authors":{"author":{"@pid":"58/6960","text":"Colin H. West"}},"title":"Protocol Validation in Complex Systems.","venue":"SIGCOMM","pages":"303-312","year":"1989","type":"Conference and Workshop Papers","key":"conf/sigcomm/West89","doi":"10.1145/75246.75276","ee":"https://doi.org/10.1145/75246.75276","url":"https://dblp.org/rec/conf/sigcomm/West89"},
+"url":"URL#5258992"
+},
+{
+"@score":"1",
+"@id":"5260943",
+"info":{"authors":{"author":{"@pid":"98/645","text":"Lawrence H. Landweber"}},"title":"SIGCOMM &apos;89, Proceedings of the ACM Symposium on Communications Architectures &amp; Protocols, Austin, TX, USA, September 19-22, 1989","venue":"SIGCOMM","publisher":"ACM","year":"1989","type":"Editorship","key":"conf/sigcomm/1989","doi":"10.1145/75246","ee":"https://doi.org/10.1145/75246","url":"https://dblp.org/rec/conf/sigcomm/1989"},
+"url":"URL#5260943"
+}
+]
+}
+}
+}

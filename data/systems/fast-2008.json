@@ -1,0 +1,164 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"fast\"/\"fast2008\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"133.07"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"22",
+"@dc":"22",
+"@oc":"22",
+"@id":"17561987",
+"text":":facetid:toc:db/conf/fast/fast2008.bht"
+}
+},
+"hits":{
+"@total":"22",
+"@computed":"22",
+"@sent":"22",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"3691557",
+"info":{"authors":{"author":[{"@pid":"94/6213","text":"Lakshmi N. Bairavasundaram"},{"@pid":"56/2610","text":"Garth R. Goodson"},{"@pid":"s/BiancaSchroeder","text":"Bianca Schroeder"},{"@pid":"a/AndreaCArpaciDusseau","text":"Andrea C. Arpaci-Dusseau"},{"@pid":"a/RemziHArpaciDusseau","text":"Remzi H. Arpaci-Dusseau"}]},"title":"An Analysis of Data Corruption in the Storage Stack.","venue":"FAST","pages":"223-238","year":"2008","type":"Conference and Workshop Papers","key":"conf/fast/BairavasundaramGSAA08","ee":"http://www.usenix.org/events/fast08/tech/bairavasundaram.html","url":"https://dblp.org/rec/conf/fast/BairavasundaramGSAA08"},
+"url":"URL#3691557"
+},
+{
+"@score":"1",
+"@id":"3691558",
+"info":{"authors":{"author":[{"@pid":"01/5645","text":"Alexandros Batsakis"},{"@pid":"b/RandalCBurns","text":"Randal C. Burns"},{"@pid":"40/2649","text":"Arkady Kanevsky"},{"@pid":"73/5257","text":"James Lentini"},{"@pid":"10/871","text":"Thomas Talpey"}]},"title":"AWOL - An Adaptive Write Optimizations Layer.","venue":"FAST","pages":"67-80","year":"2008","type":"Conference and Workshop Papers","key":"conf/fast/BatsakisBKLT08","ee":"http://www.usenix.org/events/fast08/tech/batsakis.html","url":"https://dblp.org/rec/conf/fast/BatsakisBKLT08"},
+"url":"URL#3691558"
+},
+{
+"@score":"1",
+"@id":"3691559",
+"info":{"authors":{"author":[{"@pid":"61/5467","text":"Michael J. Demmer"},{"@pid":"15/2482","text":"Bowei Du"},{"@pid":"b/EricABrewer","text":"Eric A. Brewer"}]},"title":"TierStore - A Distributed Filesystem for Challenged Networks in Developing Regions.","venue":"FAST","pages":"35-48","year":"2008","type":"Conference and Workshop Papers","key":"conf/fast/DemmerDB08","ee":"http://www.usenix.org/events/fast08/tech/demmer.html","url":"https://dblp.org/rec/conf/fast/DemmerDB08"},
+"url":"URL#3691559"
+},
+{
+"@score":"1",
+"@id":"3691560",
+"info":{"authors":{"author":{"@pid":"g/BillySGill","text":"Binny S. Gill"}},"title":"On Multi-level Exclusive Caching - Offline Optimality and Why Promotions Are Better Than Demotions.","venue":"FAST","pages":"49-65","year":"2008","type":"Conference and Workshop Papers","key":"conf/fast/Gill08","ee":"http://www.usenix.org/events/fast08/tech/gill.html","url":"https://dblp.org/rec/conf/fast/Gill08"},
+"url":"URL#3691560"
+},
+{
+"@score":"1",
+"@id":"3691561",
+"info":{"authors":{"author":[{"@pid":"84/5664","text":"Haryadi S. Gunawi"},{"@pid":"69/495","text":"Cindy Rubio-González"},{"@pid":"a/AndreaCArpaciDusseau","text":"Andrea C. Arpaci-Dusseau"},{"@pid":"a/RemziHArpaciDusseau","text":"Remzi H. Arpaci-Dusseau"},{"@pid":"l/BenLiblit","text":"Ben Liblit"}]},"title":"EIO - Error Handling is Occasionally Correct.","venue":"FAST","pages":"207-222","year":"2008","type":"Conference and Workshop Papers","key":"conf/fast/GunawiRAAL08","ee":"http://www.usenix.org/events/fast08/tech/gunawi.html","url":"https://dblp.org/rec/conf/fast/GunawiRAAL08"},
+"url":"URL#3691561"
+},
+{
+"@score":"1",
+"@id":"3691562",
+"info":{"authors":{"author":[{"@pid":"h/PieterHHartel","text":"Pieter H. Hartel"},{"@pid":"40/6606","text":"Leon Abelmann"},{"@pid":"26/6613","text":"Mohammed G. Khatib"}]},"title":"Towards Tamper-evident Storage on Patterned Media.","venue":"FAST","pages":"283-296","year":"2008","type":"Conference and Workshop Papers","key":"conf/fast/HartelAK08","ee":"http://www.usenix.org/events/fast08/tech/hartel.html","url":"https://dblp.org/rec/conf/fast/HartelAK08"},
+"url":"URL#3691562"
+},
+{
+"@score":"1",
+"@id":"3691563",
+"info":{"authors":{"author":[{"@pid":"64/5433","text":"Weihang Jiang"},{"@pid":"31/4365","text":"Chongfeng Hu"},{"@pid":"99/2747-1","text":"Yuanyuan Zhou 0001"},{"@pid":"40/2649","text":"Arkady Kanevsky"}]},"title":"Are Disks the Dominant Contributor for Storage Failures? A Comprehensive Study of Storage Subsystem Failure Characteristics.","venue":"FAST","pages":"111-125","year":"2008","type":"Conference and Workshop Papers","key":"conf/fast/JiangHZK08","ee":"http://www.usenix.org/events/fast08/tech/jiang.html","url":"https://dblp.org/rec/conf/fast/JiangHZK08"},
+"url":"URL#3691563"
+},
+{
+"@score":"1",
+"@id":"3691564",
+"info":{"authors":{"author":[{"@pid":"k/MahmutTKandemir","text":"Mahmut T. Kandemir"},{"@pid":"47/6171-1","text":"Seung Woo Son 0001"},{"@pid":"31/1251","text":"Mustafa Karaköy"}]},"title":"Improving I/O Performance of Applications through Compiler-Directed Code Restructuring.","venue":"FAST","pages":"159-174","year":"2008","type":"Conference and Workshop Papers","key":"conf/fast/KandemirSK08","ee":"http://www.usenix.org/events/fast08/tech/kandemir.html","url":"https://dblp.org/rec/conf/fast/KandemirSK08"},
+"url":"URL#3691564"
+},
+{
+"@score":"1",
+"@id":"3691565",
+"info":{"authors":{"author":[{"@pid":"89/2022","text":"Hyojun Kim"},{"@pid":"14/3003","text":"Seongjun Ahn"}]},"title":"BPLRU - A Buffer Management Scheme for Improving Random Writes in Flash Storage.","venue":"FAST","pages":"239-252","year":"2008","type":"Conference and Workshop Papers","key":"conf/fast/KimA08","ee":"http://www.usenix.org/events/fast08/tech/kim.html","url":"https://dblp.org/rec/conf/fast/KimA08"},
+"url":"URL#3691565"
+},
+{
+"@score":"1",
+"@id":"3691566",
+"info":{"authors":{"author":[{"@pid":"43/4773","text":"Andrew Krioukov"},{"@pid":"94/6213","text":"Lakshmi N. Bairavasundaram"},{"@pid":"56/2610","text":"Garth R. Goodson"},{"@pid":"75/6352","text":"Kiran Srinivasan"},{"@pid":"77/1271","text":"Randy Thelen"},{"@pid":"a/AndreaCArpaciDusseau","text":"Andrea C. Arpaci-Dusseau"},{"@pid":"a/RemziHArpaciDusseau","text":"Remzi H. Arpaci-Dusseau"}]},"title":"Parity Lost and Parity Regained.","venue":"FAST","pages":"127-141","year":"2008","type":"Conference and Workshop Papers","key":"conf/fast/KrioukovBGSTAA08","ee":"http://www.usenix.org/events/fast08/tech/krioukov.html","url":"https://dblp.org/rec/conf/fast/KrioukovBGSTAA08"},
+"url":"URL#3691566"
+},
+{
+"@score":"1",
+"@id":"3691567",
+"info":{"authors":{"author":[{"@pid":"70/5223","text":"Mingju Li"},{"@pid":"44/6651","text":"Elizabeth Varki"},{"@pid":"09/2216","text":"Swapnil Bhatia"},{"@pid":"40/3294","text":"Arif Merchant"}]},"title":"TaP - Table-based Prefetching for Storage Caches.","venue":"FAST","pages":"81-96","year":"2008","type":"Conference and Workshop Papers","key":"conf/fast/LiVBM08","ee":"http://www.usenix.org/events/fast08/tech/li.html","url":"https://dblp.org/rec/conf/fast/LiVBM08"},
+"url":"URL#3691567"
+},
+{
+"@score":"1",
+"@id":"3691568",
+"info":{"authors":{"author":[{"@pid":"45/2517","text":"Dushyanth Narayanan"},{"@pid":"21/2604","text":"Austin Donnelly"},{"@pid":"r/AITRowstron","text":"Antony I. T. Rowstron"}]},"title":"Write Off-Loading - Practical Power Management for Enterprise Storage.","venue":"FAST","pages":"253-267","year":"2008","type":"Conference and Workshop Papers","key":"conf/fast/NarayananDR08","ee":"http://www.usenix.org/events/fast08/tech/narayanan.html","url":"https://dblp.org/rec/conf/fast/NarayananDR08"},
+"url":"URL#3691568"
+},
+{
+"@score":"1",
+"@id":"3691569",
+"info":{"authors":{"author":[{"@pid":"14/877","text":"Amar Phanishayee"},{"@pid":"50/4099","text":"Elie Krevat"},{"@pid":"08/2793","text":"Vijay Vasudevan"},{"@pid":"a/DavidGAndersen","text":"David G. Andersen"},{"@pid":"g/GregoryRGanger","text":"Gregory R. Ganger"},{"@pid":"g/GarthAGibson","text":"Garth A. Gibson"},{"@pid":"s/SrinivasanSeshan","text":"Srinivasan Seshan"}]},"title":"Measurement and Analysis of TCP Throughput Collapse in Cluster-based Storage Systems.","venue":"FAST","pages":"175-188","year":"2008","type":"Conference and Workshop Papers","key":"conf/fast/PhanishayeeKVAGGS08","ee":"http://www.usenix.org/events/fast08/tech/phanishayee.html","url":"https://dblp.org/rec/conf/fast/PhanishayeeKVAGGS08"},
+"url":"URL#3691569"
+},
+{
+"@score":"1",
+"@id":"3691570",
+"info":{"authors":{"author":{"@pid":"07/3005","text":"James S. Plank"}},"title":"The RAID-6 Liberation Codes.","venue":"FAST","pages":"97-110","year":"2008","type":"Conference and Workshop Papers","key":"conf/fast/Plank08","ee":"http://www.usenix.org/events/fast08/tech/plank.html","url":"https://dblp.org/rec/conf/fast/Plank08"},
+"url":"URL#3691570"
+},
+{
+"@score":"1",
+"@id":"3691571",
+"info":{"authors":{"author":[{"@pid":"80/391","text":"Sangeetha Seshadri"},{"@pid":"91/3355","text":"Lawrence Chiu"},{"@pid":"62/3487","text":"Cornel Constantinescu"},{"@pid":"88/4505","text":"Subashini Balachandran"},{"@pid":"79/6042","text":"Clem Dickey"},{"@pid":"181/2612","text":"Ling Liu"},{"@pid":"12/6086","text":"Paul Muench"}]},"title":"Enhancing Storage System Availability on Multi-Core Architectures with Recovery-Conscious Scheduling.","venue":"FAST","pages":"143-158","year":"2008","type":"Conference and Workshop Papers","key":"conf/fast/SeshadriCCBDLM08","ee":"http://www.usenix.org/events/fast08/tech/seshadri.html","url":"https://dblp.org/rec/conf/fast/SeshadriCCBDLM08"},
+"url":"URL#3691571"
+},
+{
+"@score":"1",
+"@id":"3691572",
+"info":{"authors":{"author":[{"@pid":"80/6516","text":"Mark W. Storer"},{"@pid":"44/5785","text":"Kevin M. Greenan"},{"@pid":"m/EthanLMiller","text":"Ethan L. Miller"},{"@pid":"v/KaladharVoruganti","text":"Kaladhar Voruganti"}]},"title":"Pergamum - Replacing Tape with Energy Efficient, Reliable, Disk-Based Archival Storage.","venue":"FAST","pages":"1-16","year":"2008","type":"Conference and Workshop Papers","key":"conf/fast/StorerGMV08","ee":"http://www.usenix.org/events/fast08/tech/storer.html","url":"https://dblp.org/rec/conf/fast/StorerGMV08"},
+"url":"URL#3691572"
+},
+{
+"@score":"1",
+"@id":"3691573",
+"info":{"authors":{"author":[{"@pid":"40/1633","text":"John D. Strunk"},{"@pid":"44/5931","text":"Eno Thereska"},{"@pid":"f/CFaloutsos","text":"Christos Faloutsos"},{"@pid":"g/GregoryRGanger","text":"Gregory R. Ganger"}]},"title":"Using Utility to Provision Storage Systems.","venue":"FAST","pages":"313-328","year":"2008","type":"Conference and Workshop Papers","key":"conf/fast/StrunkTFG08","ee":"http://www.usenix.org/events/fast08/tech/strunk.html","url":"https://dblp.org/rec/conf/fast/StrunkTFG08"},
+"url":"URL#3691573"
+},
+{
+"@score":"1",
+"@id":"3691574",
+"info":{"authors":{"author":[{"@pid":"26/914","text":"Dan Tsafrir"},{"@pid":"97/1369","text":"Tomer Hertz"},{"@pid":"42/5626","text":"David A. Wagner 0001"},{"@pid":"03/6463","text":"Dilma Da Silva"}]},"title":"Portably Solving File TOCTTOU Races with Hardness Amplification.","venue":"FAST","pages":"189-206","year":"2008","type":"Conference and Workshop Papers","key":"conf/fast/TsafrirHWS08","ee":"http://www.usenix.org/events/fast08/tech/tsafrir.html","url":"https://dblp.org/rec/conf/fast/TsafrirHWS08"},
+"url":"URL#3691574"
+},
+{
+"@score":"1",
+"@id":"3691575",
+"info":{"authors":{"author":[{"@pid":"23/669","text":"Akshat Verma"},{"@pid":"v/KaladharVoruganti","text":"Kaladhar Voruganti"},{"@pid":"21/5885","text":"Ramani Routray"},{"@pid":"26/5626","text":"Rohit Jain"}]},"title":"SWEEPER - An Efficient Disaster Recovery Point Identification Mechanism.","venue":"FAST","pages":"297-312","year":"2008","type":"Conference and Workshop Papers","key":"conf/fast/VermaVRJ08","ee":"http://www.usenix.org/events/fast08/tech/verma.html","url":"https://dblp.org/rec/conf/fast/VermaVRJ08"},
+"url":"URL#3691575"
+},
+{
+"@score":"1",
+"@id":"3691576",
+"info":{"authors":{"author":[{"@pid":"39/6701","text":"Brent Welch"},{"@pid":"76/5173","text":"Marc Unangst"},{"@pid":"21/3815","text":"Zainul Abbasi"},{"@pid":"g/GarthAGibson","text":"Garth A. Gibson"},{"@pid":"21/1510","text":"Brian Mueller"},{"@pid":"82/2935","text":"Jason Small"},{"@pid":"12/4836","text":"Jim Zelenka"},{"@pid":"66/3973","text":"Bin Zhou"}]},"title":"Scalable Performance of the Panasas Parallel File System.","venue":"FAST","pages":"17-33","year":"2008","type":"Conference and Workshop Papers","key":"conf/fast/WelchUAGMSZZ08","ee":"http://www.usenix.org/events/fast08/tech/welch.html","url":"https://dblp.org/rec/conf/fast/WelchUAGMSZZ08"},
+"url":"URL#3691576"
+},
+{
+"@score":"1",
+"@id":"3691577",
+"info":{"authors":{"author":[{"@pid":"15/2673","text":"Benjamin Zhu"},{"@pid":"l/KaiLi1","text":"Kai Li 0001"},{"@pid":"31/1760","text":"R. Hugo Patterson"}]},"title":"Avoiding the Disk Bottleneck in the Data Domain Deduplication File System.","venue":"FAST","pages":"269-282","year":"2008","type":"Conference and Workshop Papers","key":"conf/fast/ZhuLP08","ee":"http://www.usenix.org/events/fast08/tech/zhu.html","url":"https://dblp.org/rec/conf/fast/ZhuLP08"},
+"url":"URL#3691577"
+},
+{
+"@score":"1",
+"@id":"3772257",
+"info":{"authors":{"author":[{"@pid":"b/MaryBaker","text":"Mary Baker"},{"@pid":"r/ErikRiedel","text":"Erik Riedel"}]},"title":"6th USENIX Conference on File and Storage Technologies, FAST 2008, February 26-29, 2008, San Jose, CA, USA","venue":"FAST","publisher":"USENIX","year":"2008","type":"Editorship","key":"conf/fast/2008","url":"https://dblp.org/rec/conf/fast/2008"},
+"url":"URL#3772257"
+}
+]
+}
+}
+}

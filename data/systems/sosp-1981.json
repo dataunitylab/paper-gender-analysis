@@ -1,0 +1,176 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"sosp\"/\"sosp81\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"109.92"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"24",
+"@dc":"24",
+"@oc":"24",
+"@id":"17587910",
+"text":":facetid:toc:db/conf/sosp/sosp81.bht"
+}
+},
+"hits":{
+"@total":"24",
+"@computed":"24",
+"@sent":"24",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"5364907",
+"info":{"authors":{"author":[{"@pid":"b/OBabaoglu","text":"Özalp Babaoglu"},{"@pid":"52/6819","text":"William N. Joy"}]},"title":"Converting a Swap-Based System to do Paging in an Architecture Lacking Page-Reference Bits.","venue":"SOSP","pages":"78-86","year":"1981","type":"Conference and Workshop Papers","key":"conf/sosp/BabaogluJ81","doi":"10.1145/800216.806595","ee":"https://doi.org/10.1145/800216.806595","url":"https://dblp.org/rec/conf/sosp/BabaogluJ81"},
+"url":"URL#5364907"
+},
+{
+"@score":"1",
+"@id":"5364908",
+"info":{"authors":{"author":{"@pid":"17/1117","text":"Joel F. Bartlett"}},"title":"A NonStop Kernel.","venue":"SOSP","pages":"22-19","year":"1981","type":"Conference and Workshop Papers","key":"conf/sosp/Bartlett81","doi":"10.1145/800216.806587","ee":"https://doi.org/10.1145/800216.806587","url":"https://dblp.org/rec/conf/sosp/Bartlett81"},
+"url":"URL#5364908"
+},
+{
+"@score":"1",
+"@id":"5364909",
+"info":{"authors":{"author":[{"@pid":"25/5137","text":"Arthur J. Bernstein"},{"@pid":"47/1420","text":"Paul K. Harter Jr."}]},"title":"Proving Real-Time Properties of Programs with Temporal Logic.","venue":"SOSP","pages":"1-11","year":"1981","type":"Conference and Workshop Papers","key":"conf/sosp/BernsteinH81","doi":"10.1145/800216.806585","ee":"https://doi.org/10.1145/800216.806585","url":"https://dblp.org/rec/conf/sosp/BernsteinH81"},
+"url":"URL#5364909"
+},
+{
+"@score":"1",
+"@id":"5364910",
+"info":{"authors":{"author":[{"@pid":"b/AndrewBirrell","text":"Andrew Birrell"},{"@pid":"83/749","text":"Roy Levin"},{"@pid":"n/RogerNeedham","text":"Roger M. Needham"},{"@pid":"s/MichaelDSchroeder","text":"Michael D. Schroeder"}]},"title":"Gravevine - An Exercise in Distributed Computing (summary).","venue":"SOSP","pages":"178-179","year":"1981","type":"Conference and Workshop Papers","key":"conf/sosp/BirrellLNS81","doi":"10.1145/800216.806606","ee":"https://doi.org/10.1145/800216.806606","url":"https://dblp.org/rec/conf/sosp/BirrellLNS81"},
+"url":"URL#5364910"
+},
+{
+"@score":"1",
+"@id":"5364911",
+"info":{"authors":{"author":{"@pid":"b/MattBishop","text":"Matt Bishop"}},"title":"Hierarchical Take-Grant Protection Systems.","venue":"SOSP","pages":"109-122","year":"1981","type":"Conference and Workshop Papers","key":"conf/sosp/Bishop81","doi":"10.1145/800216.806598","ee":"https://doi.org/10.1145/800216.806598","url":"https://dblp.org/rec/conf/sosp/Bishop81"},
+"url":"URL#5364911"
+},
+{
+"@score":"1",
+"@id":"5364912",
+"info":{"authors":{"author":[{"@pid":"84/317","text":"Richard W. Carr"},{"@pid":"h/JohnLHennessy","text":"John L. Hennessy"}]},"title":"WSClock - A Simple and Effective Algorithm for Virtual Memory Management.","venue":"SOSP","pages":"87-95","year":"1981","type":"Conference and Workshop Papers","key":"conf/sosp/CarrH81","doi":"10.1145/800216.806596","ee":"https://doi.org/10.1145/800216.806596","url":"https://dblp.org/rec/conf/sosp/CarrH81"},
+"url":"URL#5364912"
+},
+{
+"@score":"1",
+"@id":"5364913",
+"info":{"authors":{"author":[{"@pid":"84/4162","text":"George W. Cox"},{"@pid":"64/3311","text":"William M. Corwin"},{"@pid":"l/KonradLai","text":"Konrad K. Lai"},{"@pid":"92/4303","text":"Fred J. Pollack"}]},"title":"A Unified Model and Implementation for Interprocess Communication in a Multiprocessor Environment.","venue":"SOSP","pages":"125-126","year":"1981","type":"Conference and Workshop Papers","key":"conf/sosp/CoxCLP81","doi":"10.1145/800216.806600","ee":"https://doi.org/10.1145/800216.806600","url":"https://dblp.org/rec/conf/sosp/CoxCLP81"},
+"url":"URL#5364913"
+},
+{
+"@score":"1",
+"@id":"5364914",
+"info":{"authors":{"author":[{"@pid":"69/3296","text":"Marek Fridrich"},{"@pid":"98/204","text":"William J. Older"}]},"title":"The Felix File System.","venue":"SOSP","pages":"37-44","year":"1981","type":"Conference and Workshop Papers","key":"conf/sosp/FridrichO81","doi":"10.1145/800216.806589","ee":"https://doi.org/10.1145/800216.806589","url":"https://dblp.org/rec/conf/sosp/FridrichO81"},
+"url":"URL#5364914"
+},
+{
+"@score":"1",
+"@id":"5364915",
+"info":{"authors":{"author":{"@pid":"g/DavidKGifford","text":"David K. Gifford"}},"title":"Cryptographic Sealing for Information Secrecy and Authentication (Summary).","venue":"SOSP","pages":"123-124","year":"1981","type":"Conference and Workshop Papers","key":"conf/sosp/Gifford81","doi":"10.1145/800216.806599","ee":"https://doi.org/10.1145/800216.806599","url":"https://dblp.org/rec/conf/sosp/Gifford81"},
+"url":"URL#5364915"
+},
+{
+"@score":"1",
+"@id":"5364916",
+"info":{"authors":{"author":[{"@pid":"28/1410","text":"A. J. Herbert"},{"@pid":"n/RogerNeedham","text":"Roger M. Needham"}]},"title":"Sequencing Computation Steps in a Network.","venue":"SOSP","pages":"59-63","year":"1981","type":"Conference and Workshop Papers","key":"conf/sosp/HerbertN81","doi":"10.1145/800216.806592","ee":"https://doi.org/10.1145/800216.806592","url":"https://dblp.org/rec/conf/sosp/HerbertN81"},
+"url":"URL#5364916"
+},
+{
+"@score":"1",
+"@id":"5364917",
+"info":{"authors":{"author":[{"@pid":"45/4795","text":"Kevin C. Kahn"},{"@pid":"64/3311","text":"William M. Corwin"},{"@pid":"39/6392","text":"T. Don Dennis"},{"@pid":"83/4260","text":"Herman D&apos;Hooge"},{"@pid":"77/772","text":"David E. Hubka"},{"@pid":"37/4294","text":"Linda A. Hutchins"},{"@pid":"08/609","text":"John T. Montague"},{"@pid":"92/4303","text":"Fred J. Pollack"}]},"title":"iMAX - A Multiprocessor Operating System for an Object-Based Computer.","venue":"SOSP","pages":"127-136","year":"1981","type":"Conference and Workshop Papers","key":"conf/sosp/KahnCDDHHMP81","doi":"10.1145/800216.806601","ee":"https://doi.org/10.1145/800216.806601","url":"https://dblp.org/rec/conf/sosp/KahnCDDHHMP81"},
+"url":"URL#5364917"
+},
+{
+"@score":"1",
+"@id":"5364918",
+"info":{"authors":{"author":{"@pid":"50/2899","text":"Hugh C. Lauer"}},"title":"Observations on the Development of an Operating System.","venue":"SOSP","pages":"30-36","year":"1981","type":"Conference and Workshop Papers","key":"conf/sosp/Lauer81","doi":"10.1145/800216.806588","ee":"https://doi.org/10.1145/800216.806588","url":"https://dblp.org/rec/conf/sosp/Lauer81"},
+"url":"URL#5364918"
+},
+{
+"@score":"1",
+"@id":"5364919",
+"info":{"authors":{"author":[{"@pid":"l/EDLazowska","text":"Edward D. Lazowska"},{"@pid":"l/HenryMLevy","text":"Henry M. Levy"},{"@pid":"96/4475","text":"Guy T. Almes"},{"@pid":"f/MichaelJFischer","text":"Michael J. Fischer"},{"@pid":"82/3240","text":"Robert J. Fowler"},{"@pid":"09/4849","text":"Stephen C. Vestal"}]},"title":"The Architecture of the Eden System.","venue":"SOSP","pages":"148-159","year":"1981","type":"Conference and Workshop Papers","key":"conf/sosp/LazowskaLAFFV81","doi":"10.1145/800216.806603","ee":"https://doi.org/10.1145/800216.806603","url":"https://dblp.org/rec/conf/sosp/LazowskaLAFFV81"},
+"url":"URL#5364919"
+},
+{
+"@score":"1",
+"@id":"5364920",
+"info":{"authors":{"author":[{"@pid":"82/2394","text":"Gottfried W. R. Luderer"},{"@pid":"23/241","text":"H. Che"},{"@pid":"58/4311","text":"J. P. Haggerty"},{"@pid":"03/2737","text":"Peter A. Kirslis"},{"@pid":"51/1344","text":"W. T. Marshall"}]},"title":"A Distributed UNIX System Based on a Virtual Circuit Switch.","venue":"SOSP","pages":"160-168","year":"1981","type":"Conference and Workshop Papers","key":"conf/sosp/LudererCHKM81","doi":"10.1145/800216.806604","ee":"https://doi.org/10.1145/800216.806604","url":"https://dblp.org/rec/conf/sosp/LudererCHKM81"},
+"url":"URL#5364920"
+},
+{
+"@score":"1",
+"@id":"5364921",
+"info":{"authors":{"author":[{"@pid":"72/3026","text":"Norman K. Meyrowitz"},{"@pid":"58/2615","text":"Margaret Moser"}]},"title":"BRUWIN - An Adaptable Design Strategy for Window Manager / Virtual Terminal Systems.","venue":"SOSP","pages":"180-189","year":"1981","type":"Conference and Workshop Papers","key":"conf/sosp/MeyrowitzM81","doi":"10.1145/800216.806607","ee":"https://doi.org/10.1145/800216.806607","url":"https://dblp.org/rec/conf/sosp/MeyrowitzM81"},
+"url":"URL#5364921"
+},
+{
+"@score":"1",
+"@id":"5364922",
+"info":{"authors":{"author":[{"@pid":"94/2654","text":"James G. Mitchell"},{"@pid":"14/6931","text":"Jeremy Dion"}]},"title":"A Comparison of Two Network-Based File Servers.","venue":"SOSP","pages":"45-46","year":"1981","type":"Conference and Workshop Papers","key":"conf/sosp/MitchellD81","doi":"10.1145/800216.806590","ee":"https://doi.org/10.1145/800216.806590","url":"https://dblp.org/rec/conf/sosp/MitchellD81"},
+"url":"URL#5364922"
+},
+{
+"@score":"1",
+"@id":"5364923",
+"info":{"authors":{"author":[{"@pid":"92/4303","text":"Fred J. Pollack"},{"@pid":"45/4795","text":"Kevin C. Kahn"},{"@pid":"13/250","text":"Roy M. Wilkinson"}]},"title":"The iMAX-432 Object Filing System.","venue":"SOSP","pages":"137-147","year":"1981","type":"Conference and Workshop Papers","key":"conf/sosp/PollackKW81","doi":"10.1145/800216.806602","ee":"https://doi.org/10.1145/800216.806602","url":"https://dblp.org/rec/conf/sosp/PollackKW81"},
+"url":"URL#5364923"
+},
+{
+"@score":"1",
+"@id":"5364924",
+"info":{"authors":{"author":[{"@pid":"62/6214","text":"Gerald J. Popek"},{"@pid":"76/850","text":"Bruce J. Walker"},{"@pid":"18/1789","text":"Johanna M. Chow"},{"@pid":"09/1471","text":"David A. Edwards"},{"@pid":"78/6248","text":"Charles S. Kline"},{"@pid":"46/6709","text":"Gerard Rudisin"},{"@pid":"79/7037","text":"Greg Thiel"}]},"title":"LOCUS - A Network Transparent, High Reliability Distributed System.","venue":"SOSP","pages":"169-177","year":"1981","type":"Conference and Workshop Papers","key":"conf/sosp/PopekWCERT81","doi":"10.1145/800216.806605","ee":"https://doi.org/10.1145/800216.806605","url":"https://dblp.org/rec/conf/sosp/PopekWCERT81"},
+"url":"URL#5364924"
+},
+{
+"@score":"1",
+"@id":"5364925",
+"info":{"authors":{"author":[{"@pid":"r/RichardFRashid","text":"Richard F. Rashid"},{"@pid":"r/GGRobertson","text":"George G. Robertson"}]},"title":"Accent - A Communication Oriented Network Operating System Kernel.","venue":"SOSP","pages":"64-75","year":"1981","type":"Conference and Workshop Papers","key":"conf/sosp/RashidR81","doi":"10.1145/800216.806593","ee":"https://doi.org/10.1145/800216.806593","url":"https://dblp.org/rec/conf/sosp/RashidR81"},
+"url":"URL#5364925"
+},
+{
+"@score":"1",
+"@id":"5364926",
+"info":{"authors":{"author":{"@pid":"02/3378","text":"John M. Rushby"}},"title":"Design and Verification of Secure Systems.","venue":"SOSP","pages":"12-21","year":"1981","type":"Conference and Workshop Papers","key":"conf/sosp/Rushby81","doi":"10.1145/800216.806586","ee":"https://doi.org/10.1145/800216.806586","url":"https://dblp.org/rec/conf/sosp/Rushby81"},
+"url":"URL#5364926"
+},
+{
+"@score":"1",
+"@id":"5364927",
+"info":{"authors":{"author":{"@pid":"s/MahadevSatyanarayanan","text":"Mahadev Satyanarayanan"}},"title":"A Study of File Sizes and Functional Lifetimes.","venue":"SOSP","pages":"96-108","year":"1981","type":"Conference and Workshop Papers","key":"conf/sosp/Satyanarayanan81","doi":"10.1145/800216.806597","ee":"https://doi.org/10.1145/800216.806597","url":"https://dblp.org/rec/conf/sosp/Satyanarayanan81"},
+"url":"URL#5364927"
+},
+{
+"@score":"1",
+"@id":"5364928",
+"info":{"authors":{"author":{"@pid":"s/AlfredZSpector","text":"Alfred Z. Spector"}},"title":"Performing Remore Operations Efficiently on a Local Computer Network (Summary).","venue":"SOSP","pages":"76-77","year":"1981","type":"Conference and Workshop Papers","key":"conf/sosp/Spector81","doi":"10.1145/800216.806594","ee":"https://doi.org/10.1145/800216.806594","url":"https://dblp.org/rec/conf/sosp/Spector81"},
+"url":"URL#5364928"
+},
+{
+"@score":"1",
+"@id":"5364929",
+"info":{"authors":{"author":{"@pid":"76/5566","text":"Liba Svobodova"}},"title":"A Reliable Object-Oriented Data Repository for a Distributed Computer System.","venue":"SOSP","pages":"47-58","year":"1981","type":"Conference and Workshop Papers","key":"conf/sosp/Svobodova81","doi":"10.1145/800216.806591","ee":"https://doi.org/10.1145/800216.806591","url":"https://dblp.org/rec/conf/sosp/Svobodova81"},
+"url":"URL#5364929"
+},
+{
+"@score":"1",
+"@id":"5365334",
+"info":{"authors":{"author":[{"@pid":"35/2992","text":"John Howard"},{"@pid":"83/916","text":"David P. Reed"}]},"title":"Proceedings of the Eighth Symposium on Operating System Principles, SOSP 1981, Asilomar Conference Grounds, Pacific Grove, California, USA, December 14-16, 1981","venue":"SOSP","publisher":"ACM","year":"1981","type":"Editorship","key":"conf/sosp/1981","doi":"10.1145/800216","ee":"https://doi.org/10.1145/800216","url":"https://dblp.org/rec/conf/sosp/1981"},
+"url":"URL#5365334"
+}
+]
+}
+}
+}

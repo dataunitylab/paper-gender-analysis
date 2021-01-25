@@ -1,0 +1,230 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"sigcomm\"/\"sigcomm2019\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"135.11"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"33",
+"@dc":"33",
+"@oc":"33",
+"@id":"17586216",
+"text":":facetid:toc:db/conf/sigcomm/sigcomm2019.bht"
+}
+},
+"hits":{
+"@total":"33",
+"@computed":"33",
+"@sent":"33",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"697502",
+"info":{"authors":{"author":[{"@pid":"246/9348","text":"Jeremy Bogle"},{"@pid":"72/1994","text":"Nikhil Bhatia"},{"@pid":"37/1704","text":"Manya Ghobadi"},{"@pid":"65/5280","text":"Ishai Menache"},{"@pid":"51/912","text":"Nikolaj Bjørner"},{"@pid":"145/1065","text":"Asaf Valadarsky"},{"@pid":"15/5634","text":"Michael Schapira"}]},"title":"TEAVAR - striking the right utilization-availability balance in WAN traffic engineering.","venue":"SIGCOMM","pages":"29-43","year":"2019","type":"Conference and Workshop Papers","key":"conf/sigcomm/BogleBGMBVS19","doi":"10.1145/3341302.3342069","ee":"https://doi.org/10.1145/3341302.3342069","url":"https://dblp.org/rec/conf/sigcomm/BogleBGMBVS19"},
+"url":"URL#697502"
+},
+{
+"@score":"1",
+"@id":"697509",
+"info":{"authors":{"author":[{"@pid":"167/5916","text":"Quentin De Coninck"},{"@pid":"25/1006","text":"François Michel"},{"@pid":"228/8215","text":"Maxime Piraux"},{"@pid":"186/8215","text":"Florentin Rochet"},{"@pid":"08/8877","text":"Thomas Given-Wilson"},{"@pid":"52/579","text":"Axel Legay"},{"@pid":"78/1061","text":"Olivier Pereira"},{"@pid":"91/2043","text":"Olivier Bonaventure"}]},"title":"Pluginizing QUIC.","venue":"SIGCOMM","pages":"59-74","year":"2019","type":"Conference and Workshop Papers","key":"conf/sigcomm/ConinckMPRGLPB19","doi":"10.1145/3341302.3342078","ee":"https://doi.org/10.1145/3341302.3342078","url":"https://dblp.org/rec/conf/sigcomm/ConinckMPRGLPB19"},
+"url":"URL#697509"
+},
+{
+"@score":"1",
+"@id":"697510",
+"info":{"authors":{"author":[{"@pid":"211/7996","text":"Axel Dahlberg"},{"@pid":"246/9419","text":"Matthew Skrzypczyk"},{"@pid":"246/9416","text":"Tim Coopmans"},{"@pid":"246/9308","text":"Leon Wubben"},{"@pid":"245/7368","text":"Filip Rozpedek"},{"@pid":"246/9168","text":"Matteo Pompili"},{"@pid":"246/9460","text":"Arian Stolk"},{"@pid":"29/1584","text":"Przemyslaw Pawelczak"},{"@pid":"246/9470","text":"Robert Knegjens"},{"@pid":"246/8989","text":"Julio de Oliveira Filho"},{"@pid":"246/9193","text":"Ronald Hanson"},{"@pid":"89/5916","text":"Stephanie Wehner"}]},"title":"A link layer protocol for quantum networks.","venue":"SIGCOMM","pages":"159-173","year":"2019","type":"Conference and Workshop Papers","key":"conf/sigcomm/DahlbergSCWRPSP19","doi":"10.1145/3341302.3342070","ee":"https://doi.org/10.1145/3341302.3342070","url":"https://dblp.org/rec/conf/sigcomm/DahlbergSCWRPSP19"},
+"url":"URL#697510"
+},
+{
+"@score":"1",
+"@id":"697520",
+"info":{"authors":{"author":[{"@pid":"86/6151","text":"Yu Guan"},{"@pid":"246/9092","text":"Chengyuan Zheng"},{"@pid":"45/702","text":"Xinggong Zhang"},{"@pid":"02/894","text":"Zongming Guo"},{"@pid":"49/8398","text":"Junchen Jiang"}]},"title":"Pano - optimizing 360° video streaming with a better understanding of quality perception.","venue":"SIGCOMM","pages":"394-407","year":"2019","type":"Conference and Workshop Papers","key":"conf/sigcomm/GuanZZGJ19","doi":"10.1145/3341302.3342063","ee":"https://doi.org/10.1145/3341302.3342063","url":"https://dblp.org/rec/conf/sigcomm/GuanZZGJ19"},
+"url":"URL#697520"
+},
+{
+"@score":"1",
+"@id":"697532",
+"info":{"authors":{"author":[{"@pid":"246/9492","text":"Junsu Jang"},{"@pid":"51/9975","text":"Fadel Adib"}]},"title":"Underwater backscatter networking.","venue":"SIGCOMM","pages":"187-199","year":"2019","type":"Conference and Workshop Papers","key":"conf/sigcomm/JangA19","doi":"10.1145/3341302.3342091","ee":"https://doi.org/10.1145/3341302.3342091","url":"https://dblp.org/rec/conf/sigcomm/JangA19"},
+"url":"URL#697532"
+},
+{
+"@score":"1",
+"@id":"697533",
+"info":{"authors":{"author":[{"@pid":"63/7057","text":"Karthick Jayaraman"},{"@pid":"51/912","text":"Nikolaj Bjørner"},{"@pid":"p/JPadhye","text":"Jitu Padhye"},{"@pid":"23/4403","text":"Amar Agrawal"},{"@pid":"246/9249","text":"Ashish Bhargava"},{"@pid":"246/9219","text":"Paul-Andre C. Bissonnette"},{"@pid":"246/9239","text":"Shane Foster"},{"@pid":"246/9442","text":"Andrew Helwer"},{"@pid":"246/9009","text":"Mark Kasten"},{"@pid":"54/5625","text":"Ivan Lee"},{"@pid":"246/9186","text":"Anup Namdhari"},{"@pid":"148/1936","text":"Haseeb Niaz"},{"@pid":"246/9091","text":"Aniruddha Parkhi"},{"@pid":"246/9183","text":"Hanukumar Pinnamraju"},{"@pid":"246/9358","text":"Adrian Power"},{"@pid":"246/9151","text":"Neha Milind Raje"},{"@pid":"229/1148","text":"Parag Sharma"}]},"title":"Validating datacenters at scale.","venue":"SIGCOMM","pages":"200-213","year":"2019","type":"Conference and Workshop Papers","key":"conf/sigcomm/JayaramanBPABBF19","doi":"10.1145/3341302.3342094","ee":"https://doi.org/10.1145/3341302.3342094","url":"https://dblp.org/rec/conf/sigcomm/JayaramanBPABBF19"},
+"url":"URL#697533"
+},
+{
+"@score":"1",
+"@id":"697534",
+"info":{"authors":{"author":[{"@pid":"148/1321","text":"Yuchen Jin"},{"@pid":"229/7130","text":"Sundararajan Renganathan"},{"@pid":"08/5351","text":"Ganesh Ananthanarayanan"},{"@pid":"49/8398","text":"Junchen Jiang"},{"@pid":"p/VenkataNPadmanabhan","text":"Venkata N. Padmanabhan"},{"@pid":"217/3854","text":"Manuel Schröder"},{"@pid":"24/3165","text":"Matt Calder"},{"@pid":"k/AKrishnamurthy","text":"Arvind Krishnamurthy"}]},"title":"Zooming in on wide-area latencies to a global cloud provider.","venue":"SIGCOMM","pages":"104-116","year":"2019","type":"Conference and Workshop Papers","key":"conf/sigcomm/JinRAJPSCK19","doi":"10.1145/3341302.3342073","ee":"https://doi.org/10.1145/3341302.3342073","url":"https://dblp.org/rec/conf/sigcomm/JinRAJPSCK19"},
+"url":"URL#697534"
+},
+{
+"@score":"1",
+"@id":"697540",
+"info":{"authors":{"author":[{"@pid":"64/4985","text":"Minsung Kim"},{"@pid":"149/1236","text":"Davide Venturelli"},{"@pid":"j/KyleJamieson","text":"Kyle Jamieson"}]},"title":"Leveraging quantum annealing for large MIMO processing in centralized radio access networks.","venue":"SIGCOMM","pages":"241-255","year":"2019","type":"Conference and Workshop Papers","key":"conf/sigcomm/KimVJ19","doi":"10.1145/3341302.3342072","ee":"https://doi.org/10.1145/3341302.3342072","url":"https://dblp.org/rec/conf/sigcomm/KimVJ19"},
+"url":"URL#697540"
+},
+{
+"@score":"1",
+"@id":"697541",
+"info":{"authors":{"author":[{"@pid":"26/10647","text":"Philipp H. Kindt"},{"@pid":"c/SamarjitChakraborty","text":"Samarjit Chakraborty"}]},"title":"On optimal neighbor discovery.","venue":"SIGCOMM","pages":"441-457","year":"2019","type":"Conference and Workshop Papers","key":"conf/sigcomm/KindtC19","doi":"10.1145/3341302.3342067","ee":"https://doi.org/10.1145/3341302.3342067","url":"https://dblp.org/rec/conf/sigcomm/KindtC19"},
+"url":"URL#697541"
+},
+{
+"@score":"1",
+"@id":"697544",
+"info":{"authors":{"author":[{"@pid":"95/448-3","text":"Praveen Kumar 0003"},{"@pid":"74/5250","text":"Nandita Dukkipati"},{"@pid":"62/6358","text":"Nathan Lewis"},{"@pid":"65/2576","text":"Yi Cui"},{"@pid":"56/8396","text":"Yaogong Wang"},{"@pid":"246/9291","text":"Chonggang Li"},{"@pid":"246/9413","text":"Valas Valancius"},{"@pid":"246/9316","text":"Jake Adriaens"},{"@pid":"246/9073","text":"Steve Gribble"},{"@pid":"15/3253","text":"Nate Foster"},{"@pid":"v/AminVahdat","text":"Amin Vahdat"}]},"title":"PicNIC - predictable virtualized NIC.","venue":"SIGCOMM","pages":"351-366","year":"2019","type":"Conference and Workshop Papers","key":"conf/sigcomm/KumarDLCWLVAGFV19","doi":"10.1145/3341302.3342093","ee":"https://doi.org/10.1145/3341302.3342093","url":"https://dblp.org/rec/conf/sigcomm/KumarDLCWLVAGFV19"},
+"url":"URL#697544"
+},
+{
+"@score":"1",
+"@id":"697549",
+"info":{"authors":{"author":[{"@pid":"122/5219","text":"Bojie Li"},{"@pid":"159/1771","text":"Tianyi Cui"},{"@pid":"133/7314","text":"Zibo Wang"},{"@pid":"45/661","text":"Wei Bai"},{"@pid":"94/5689","text":"Lintao Zhang"}]},"title":"Socksdirect - datacenter sockets can be fast and compatible.","venue":"SIGCOMM","pages":"90-103","year":"2019","type":"Conference and Workshop Papers","key":"conf/sigcomm/LiCWBZ19","doi":"10.1145/3341302.3342071","ee":"https://doi.org/10.1145/3341302.3342071","url":"https://dblp.org/rec/conf/sigcomm/LiCWBZ19"},
+"url":"URL#697549"
+},
+{
+"@score":"1",
+"@id":"697552",
+"info":{"authors":{"author":[{"@pid":"75/10258","text":"Yuanjie Li"},{"@pid":"10/5900","text":"Kyu-Han Kim"},{"@pid":"135/2740","text":"Christina Vlachou"},{"@pid":"98/9581","text":"Junqing Xie"}]},"title":"Bridging the data charging gap in the cellular edge.","venue":"SIGCOMM","pages":"15-28","year":"2019","type":"Conference and Workshop Papers","key":"conf/sigcomm/LiKVX19","doi":"10.1145/3341302.3342074","ee":"https://doi.org/10.1145/3341302.3342074","url":"https://dblp.org/rec/conf/sigcomm/LiKVX19"},
+"url":"URL#697552"
+},
+{
+"@score":"1",
+"@id":"697556",
+"info":{"authors":{"author":[{"@pid":"52/4954","text":"Yuliang Li"},{"@pid":"62/675","text":"Rui Miao"},{"@pid":"117/4311","text":"Hongqiang Harry Liu"},{"@pid":"02/5194","text":"Yan Zhuang"},{"@pid":"92/140","text":"Fei Feng"},{"@pid":"246/9488","text":"Lingbo Tang"},{"@pid":"11/5229","text":"Zheng Cao"},{"@pid":"73/1844-5","text":"Ming Zhang 0005"},{"@pid":"32/3722","text":"Frank Kelly"},{"@pid":"37/8397","text":"Mohammad Alizadeh"},{"@pid":"89/6345","text":"Minlan Yu"}]},"title":"HPCC - high precision congestion control.","venue":"SIGCOMM","pages":"44-58","year":"2019","type":"Conference and Workshop Papers","key":"conf/sigcomm/LiMLZFTCZKAY19","doi":"10.1145/3341302.3342085","ee":"https://doi.org/10.1145/3341302.3342085","url":"https://dblp.org/rec/conf/sigcomm/LiMLZFTCZKAY19"},
+"url":"URL#697556"
+},
+{
+"@score":"1",
+"@id":"697558",
+"info":{"authors":{"author":[{"@pid":"189/5715","text":"Fangfan Li"},{"@pid":"208/4182","text":"Arian Akhavan Niaki"},{"@pid":"48/6854","text":"David R. Choffnes"},{"@pid":"52/2893","text":"Phillipa Gill"},{"@pid":"31/3833","text":"Alan Mislove"}]},"title":"A large-scale analysis of deployed traffic differentiation practices.","venue":"SIGCOMM","pages":"130-144","year":"2019","type":"Conference and Workshop Papers","key":"conf/sigcomm/LiNCGM19","doi":"10.1145/3341302.3342092","ee":"https://doi.org/10.1145/3341302.3342092","url":"https://dblp.org/rec/conf/sigcomm/LiNCGM19"},
+"url":"URL#697558"
+},
+{
+"@score":"1",
+"@id":"697562",
+"info":{"authors":{"author":[{"@pid":"29/2973","text":"Eric Liang"},{"@pid":"127/6289","text":"Hang Zhu"},{"@pid":"68/3340-8","text":"Xin Jin 0008"},{"@pid":"s/IonStoica","text":"Ion Stoica"}]},"title":"Neural packet classification.","venue":"SIGCOMM","pages":"256-269","year":"2019","type":"Conference and Workshop Papers","key":"conf/sigcomm/LiangZJS19","doi":"10.1145/3341302.3342221","ee":"https://doi.org/10.1145/3341302.3342221","url":"https://dblp.org/rec/conf/sigcomm/LiangZJS19"},
+"url":"URL#697562"
+},
+{
+"@score":"1",
+"@id":"697564",
+"info":{"authors":{"author":[{"@pid":"166/6255","text":"Zaoxing Liu"},{"@pid":"140/7690","text":"Ran Ben-Basat"},{"@pid":"139/7090","text":"Gil Einziger"},{"@pid":"167/4056","text":"Yaron Kassner"},{"@pid":"14/4758","text":"Vladimir Braverman"},{"@pid":"f/RoyFriedman","text":"Roy Friedman"},{"@pid":"45/4044","text":"Vyas Sekar"}]},"title":"Nitrosketch - robust and general sketch-based monitoring in software switches.","venue":"SIGCOMM","pages":"334-350","year":"2019","type":"Conference and Workshop Papers","key":"conf/sigcomm/LiuBEKBFS19","doi":"10.1145/3341302.3342076","ee":"https://doi.org/10.1145/3341302.3342076","url":"https://dblp.org/rec/conf/sigcomm/LiuBEKBFS19"},
+"url":"URL#697564"
+},
+{
+"@score":"1",
+"@id":"697565",
+"info":{"authors":{"author":[{"@pid":"20/2039","text":"Ming Liu"},{"@pid":"159/1771","text":"Tianyi Cui"},{"@pid":"246/9302","text":"Henry Schuh"},{"@pid":"k/AKrishnamurthy","text":"Arvind Krishnamurthy"},{"@pid":"43/3917","text":"Simon Peter"},{"@pid":"05/4820","text":"Karan Gupta"}]},"title":"Offloading distributed applications onto smartNICs using iPipe.","venue":"SIGCOMM","pages":"318-333","year":"2019","type":"Conference and Workshop Papers","key":"conf/sigcomm/LiuCSKPG19","doi":"10.1145/3341302.3342079","ee":"https://doi.org/10.1145/3341302.3342079","url":"https://dblp.org/rec/conf/sigcomm/LiuCSKPG19"},
+"url":"URL#697565"
+},
+{
+"@score":"1",
+"@id":"697568",
+"info":{"authors":{"author":[{"@pid":"150/3252","text":"Hongzi Mao"},{"@pid":"49/7988","text":"Malte Schwarzkopf"},{"@pid":"149/2620","text":"Shaileshh Bojja Venkatakrishnan"},{"@pid":"198/8304","text":"Zili Meng"},{"@pid":"37/8397","text":"Mohammad Alizadeh"}]},"title":"Learning scheduling algorithms for data processing clusters.","venue":"SIGCOMM","pages":"270-288","year":"2019","type":"Conference and Workshop Papers","key":"conf/sigcomm/MaoSVMA19","doi":"10.1145/3341302.3342080","ee":"https://doi.org/10.1145/3341302.3342080","url":"https://dblp.org/rec/conf/sigcomm/MaoSVMA19"},
+"url":"URL#697568"
+},
+{
+"@score":"1",
+"@id":"697569",
+"info":{"authors":{"author":[{"@pid":"229/7145","text":"Mohammad Hossein Mazaheri"},{"@pid":"246/9046","text":"Soroush Ameli"},{"@pid":"33/3045-2","text":"Ali Abedi 0002"},{"@pid":"71/9428","text":"Omid Abari"}]},"title":"A millimeter wave network for billions of things.","venue":"SIGCOMM","pages":"174-186","year":"2019","type":"Conference and Workshop Papers","key":"conf/sigcomm/MazaheriA0A19","doi":"10.1145/3341302.3342068","ee":"https://doi.org/10.1145/3341302.3342068","url":"https://dblp.org/rec/conf/sigcomm/MazaheriA0A19"},
+"url":"URL#697569"
+},
+{
+"@score":"1",
+"@id":"697570",
+"info":{"authors":{"author":[{"@pid":"134/3944","text":"James Murphy McCauley"},{"@pid":"08/9995","text":"Yotam Harchol"},{"@pid":"55/925","text":"Aurojit Panda"},{"@pid":"22/3604","text":"Barath Raghavan"},{"@pid":"34/5593","text":"Scott Shenker"}]},"title":"Enabling a permanent revolution in internet architecture.","venue":"SIGCOMM","pages":"1-14","year":"2019","type":"Conference and Workshop Papers","key":"conf/sigcomm/McCauleyHPRS19","doi":"10.1145/3341302.3342075","ee":"https://doi.org/10.1145/3341302.3342075","url":"https://dblp.org/rec/conf/sigcomm/McCauleyHPRS19"},
+"url":"URL#697570"
+},
+{
+"@score":"1",
+"@id":"697571",
+"info":{"authors":{"author":[{"@pid":"m/KennethLMcMillan","text":"Kenneth L. McMillan"},{"@pid":"z/LDZuck","text":"Lenore D. Zuck"}]},"title":"Formal specification and testing of QUIC.","venue":"SIGCOMM","pages":"227-240","year":"2019","type":"Conference and Workshop Papers","key":"conf/sigcomm/McMillanZ19","doi":"10.1145/3341302.3342087","ee":"https://doi.org/10.1145/3341302.3342087","url":"https://dblp.org/rec/conf/sigcomm/McMillanZ19"},
+"url":"URL#697571"
+},
+{
+"@score":"1",
+"@id":"697577",
+"info":{"authors":{"author":[{"@pid":"153/2198","text":"Vikram Nathan"},{"@pid":"190/7568","text":"Vibhaalakshmi Sivaraman"},{"@pid":"243/2857","text":"Ravichandra Addanki"},{"@pid":"173/5209","text":"Mehrdad Khani Shirkoohi"},{"@pid":"153/2265","text":"Prateesh Goyal"},{"@pid":"37/8397","text":"Mohammad Alizadeh"}]},"title":"End-to-end transport for video QoE fairness.","venue":"SIGCOMM","pages":"408-423","year":"2019","type":"Conference and Workshop Papers","key":"conf/sigcomm/NathanSAKGA19","doi":"10.1145/3341302.3342077","ee":"https://doi.org/10.1145/3341302.3342077","url":"https://dblp.org/rec/conf/sigcomm/NathanSAKGA19"},
+"url":"URL#697577"
+},
+{
+"@score":"1",
+"@id":"697578",
+"info":{"authors":{"author":[{"@pid":"116/9879","text":"A. Pinar Ozisik"},{"@pid":"73/5288-2","text":"Gavin Andresen"},{"@pid":"l/BrianNeilLevine","text":"Brian Neil Levine"},{"@pid":"243/9967","text":"Darren Tapp"},{"@pid":"83/3459","text":"George Bissias"},{"@pid":"225/4561","text":"Sunny Katkuri"}]},"title":"Graphene - efficient interactive set reconciliation applied to blockchain propagation.","venue":"SIGCOMM","pages":"303-317","year":"2019","type":"Conference and Workshop Papers","key":"conf/sigcomm/OzisikALTBK19","doi":"10.1145/3341302.3342082","ee":"https://doi.org/10.1145/3341302.3342082","url":"https://dblp.org/rec/conf/sigcomm/OzisikALTBK19"},
+"url":"URL#697578"
+},
+{
+"@score":"1",
+"@id":"697579",
+"info":{"authors":{"author":[{"@pid":"34/10957","text":"Ramakrishna Padmanabhan"},{"@pid":"77/3626","text":"Aaron Schulman"},{"@pid":"03/6428","text":"Dave Levin"},{"@pid":"s/NeilTSpring","text":"Neil Spring"}]},"title":"Residential links under the weather.","venue":"SIGCOMM","pages":"145-158","year":"2019","type":"Conference and Workshop Papers","key":"conf/sigcomm/PadmanabhanSLS19","doi":"10.1145/3341302.3342084","ee":"https://doi.org/10.1145/3341302.3342084","url":"https://dblp.org/rec/conf/sigcomm/PadmanabhanSLS19"},
+"url":"URL#697579"
+},
+{
+"@score":"1",
+"@id":"697581",
+"info":{"authors":{"author":[{"@pid":"77/2062-4","text":"Kun Qian 0004"},{"@pid":"180/5887","text":"Wenxue Cheng"},{"@pid":"07/4227-18","text":"Tong Zhang 0018"},{"@pid":"05/6995","text":"Fengyuan Ren"}]},"title":"Gentle flow control - avoiding deadlock in lossless networks.","venue":"SIGCOMM","pages":"75-89","year":"2019","type":"Conference and Workshop Papers","key":"conf/sigcomm/QianC0R19","doi":"10.1145/3341302.3342065","ee":"https://doi.org/10.1145/3341302.3342065","url":"https://dblp.org/rec/conf/sigcomm/QianC0R19"},
+"url":"URL#697581"
+},
+{
+"@score":"1",
+"@id":"697584",
+"info":{"authors":{"author":[{"@pid":"209/2828","text":"Devdeep Ray"},{"@pid":"188/9911","text":"Jack Kosaian"},{"@pid":"40/7113","text":"K. V. Rashmi"},{"@pid":"s/SrinivasanSeshan","text":"Srinivasan Seshan"}]},"title":"Vantage - optimizing video upload for time-shifted viewing of social live streams.","venue":"SIGCOMM","pages":"380-393","year":"2019","type":"Conference and Workshop Papers","key":"conf/sigcomm/RayKRS19","doi":"10.1145/3341302.3342064","ee":"https://doi.org/10.1145/3341302.3342064","url":"https://dblp.org/rec/conf/sigcomm/RayKRS19"},
+"url":"URL#697584"
+},
+{
+"@score":"1",
+"@id":"697592",
+"info":{"authors":{"author":[{"@pid":"73/6941-1","text":"Muhammad Shahbaz 0001"},{"@pid":"206/4530","text":"Lalith Suresh"},{"@pid":"r/JenniferRexford","text":"Jennifer Rexford"},{"@pid":"87/840","text":"Nick Feamster"},{"@pid":"48/2092","text":"Ori Rottenstreich"},{"@pid":"183/9612","text":"Mukesh Hira"}]},"title":"Elmo - source routed multicast for public clouds.","venue":"SIGCOMM","pages":"458-471","year":"2019","type":"Conference and Workshop Papers","key":"conf/sigcomm/ShahbazSRFRH19","doi":"10.1145/3341302.3342066","ee":"https://doi.org/10.1145/3341302.3342066","url":"https://dblp.org/rec/conf/sigcomm/ShahbazSRFRH19"},
+"url":"URL#697592"
+},
+{
+"@score":"1",
+"@id":"697594",
+"info":{"authors":{"author":{"@pid":"139/9079","text":"Vishal Shrivastav"}},"title":"Fast, scalable, and programmable packet scheduler in hardware.","venue":"SIGCOMM","pages":"367-379","year":"2019","type":"Conference and Workshop Papers","key":"conf/sigcomm/Shrivastav19","doi":"10.1145/3341302.3342090","ee":"https://doi.org/10.1145/3341302.3342090","url":"https://dblp.org/rec/conf/sigcomm/Shrivastav19"},
+"url":"URL#697594"
+},
+{
+"@score":"1",
+"@id":"697599",
+"info":{"authors":{"author":[{"@pid":"24/7628","text":"Sucha Supittayapornpong"},{"@pid":"22/3604","text":"Barath Raghavan"},{"@pid":"g/RameshGovindan","text":"Ramesh Govindan"}]},"title":"Towards highly available clos-based WAN routers.","venue":"SIGCOMM","pages":"424-440","year":"2019","type":"Conference and Workshop Papers","key":"conf/sigcomm/Supittayapornpong19","doi":"10.1145/3341302.3342086","ee":"https://doi.org/10.1145/3341302.3342086","url":"https://dblp.org/rec/conf/sigcomm/Supittayapornpong19"},
+"url":"URL#697599"
+},
+{
+"@score":"1",
+"@id":"697601",
+"info":{"authors":{"author":[{"@pid":"223/0237","text":"Bingchuan Tian"},{"@pid":"04/4189","text":"Xinyi Zhang"},{"@pid":"23/7560","text":"Ennan Zhai"},{"@pid":"117/4311","text":"Hongqiang Harry Liu"},{"@pid":"246/8977","text":"Qiaobo Ye"},{"@pid":"88/8400","text":"Chunsheng Wang"},{"@pid":"13/5235","text":"Xin Wu"},{"@pid":"66/6461","text":"Zhiming Ji"},{"@pid":"246/9347","text":"Yihong Sang"},{"@pid":"73/1844-5","text":"Ming Zhang 0005"},{"@pid":"48/8545","text":"Da Yu"},{"@pid":"94/1247-1","text":"Chen Tian 0001"},{"@pid":"43/4261","text":"Haitao Zheng 0001"},{"@pid":"z/BenYZhao","text":"Ben Y. Zhao"}]},"title":"Safely and automatically updating in-network ACL configurations with intent language.","venue":"SIGCOMM","pages":"214-226","year":"2019","type":"Conference and Workshop Papers","key":"conf/sigcomm/TianZZLYWWJSZYT19","doi":"10.1145/3341302.3342088","ee":"https://doi.org/10.1145/3341302.3342088","url":"https://dblp.org/rec/conf/sigcomm/TianZZLYWWJSZYT19"},
+"url":"URL#697601"
+},
+{
+"@score":"1",
+"@id":"697605",
+"info":{"authors":{"author":[{"@pid":"28/10471","text":"Chenshu Wu"},{"@pid":"48/1294-16","text":"Feng Zhang 0016"},{"@pid":"246/9170","text":"Yusen Fan"},{"@pid":"68/3163","text":"K. J. Ray Liu"}]},"title":"RF-based inertial measurement.","venue":"SIGCOMM","pages":"117-129","year":"2019","type":"Conference and Workshop Papers","key":"conf/sigcomm/WuZFL19","doi":"10.1145/3341302.3342081","ee":"https://doi.org/10.1145/3341302.3342081","url":"https://dblp.org/rec/conf/sigcomm/WuZFL19"},
+"url":"URL#697605"
+},
+{
+"@score":"1",
+"@id":"697615",
+"info":{"authors":{"author":[{"@pid":"98/5660","text":"Xu Zhang"},{"@pid":"58/968","text":"Siddhartha Sen 0001"},{"@pid":"246/9324","text":"Daniar Kurniawan"},{"@pid":"246/9453","text":"Haryadi Gunawi"},{"@pid":"49/8398","text":"Junchen Jiang"}]},"title":"E2E - embracing user heterogeneity to improve quality of experience on the web.","venue":"SIGCOMM","pages":"289-302","year":"2019","type":"Conference and Workshop Papers","key":"conf/sigcomm/Zhang0KGJ19","doi":"10.1145/3341302.3342089","ee":"https://doi.org/10.1145/3341302.3342089","url":"https://dblp.org/rec/conf/sigcomm/Zhang0KGJ19"},
+"url":"URL#697615"
+},
+{
+"@score":"1",
+"@id":"723015",
+"info":{"authors":{"author":[{"@pid":"82/4905","text":"Jianping Wu"},{"@pid":"h/WendyHall","text":"Wendy Hall"}]},"title":"Proceedings of the ACM Special Interest Group on Data Communication, SIGCOMM 2019, Beijing, China, August 19-23, 2019","venue":"SIGCOMM","publisher":"ACM","year":"2019","type":"Editorship","key":"conf/sigcomm/2019","doi":"10.1145/3341302","ee":"https://doi.org/10.1145/3341302","url":"https://dblp.org/rec/conf/sigcomm/2019"},
+"url":"URL#723015"
+}
+]
+}
+}
+}

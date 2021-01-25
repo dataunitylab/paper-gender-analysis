@@ -1,0 +1,182 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"osdi\"/\"osdi2000\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"101.26"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"25",
+"@dc":"25",
+"@oc":"25",
+"@id":"17580797",
+"text":":facetid:toc:db/conf/osdi/osdi2000.bht"
+}
+},
+"hits":{
+"@total":"25",
+"@computed":"25",
+"@sent":"25",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"4772883",
+"info":{"authors":{"author":[{"@pid":"a/DavidGAndersen","text":"David G. Andersen"},{"@pid":"69/2945","text":"Deepak Bansal"},{"@pid":"c/DCurtis","text":"Dorothy Curtis"},{"@pid":"s/SrinivasanSeshan","text":"Srinivasan Seshan"},{"@pid":"b/HariBalakrishnan","text":"Hari Balakrishnan"}]},"title":"System Support for Bandwidth Management and Content Adaptation in Internet Applications.","venue":"OSDI","pages":"213-226","year":"2000","type":"Conference and Workshop Papers","key":"conf/osdi/AndersenBCSB00","ee":"http://dl.acm.org/citation.cfm?id=1251244","url":"https://dblp.org/rec/conf/osdi/AndersenBCSB00"},
+"url":"URL#4772883"
+},
+{
+"@score":"1",
+"@id":"4772884",
+"info":{"authors":{"author":[{"@pid":"47/721","text":"Darrell C. Anderson"},{"@pid":"c/JSChase","text":"Jeffrey S. Chase"},{"@pid":"v/AminVahdat","text":"Amin Vahdat"}]},"title":"Interposed Request Routing for Scalable Network Storage.","venue":"OSDI","pages":"259-272","year":"2000","type":"Conference and Workshop Papers","key":"conf/osdi/AndersonCV00","ee":"http://dl.acm.org/citation.cfm?id=1251247","url":"https://dblp.org/rec/conf/osdi/AndersonCV00"},
+"url":"URL#4772884"
+},
+{
+"@score":"1",
+"@id":"4772885",
+"info":{"authors":{"author":[{"@pid":"47/2634","text":"Godmar Back"},{"@pid":"31/1764","text":"Wilson C. Hsieh"},{"@pid":"l/JayLepreau","text":"Jay Lepreau"}]},"title":"Processes in KaffeOS - Isolation, Resource Management, and Sharing in Java.","venue":"OSDI","pages":"333-346","year":"2000","type":"Conference and Workshop Papers","key":"conf/osdi/BackHL00","ee":"http://dl.acm.org/citation.cfm?id=1251252","url":"https://dblp.org/rec/conf/osdi/BackHL00"},
+"url":"URL#4772885"
+},
+{
+"@score":"1",
+"@id":"4772886",
+"info":{"authors":{"author":[{"@pid":"b/AngelaDemkeBrown","text":"Angela Demke Brown"},{"@pid":"65/4120","text":"Todd C. Mowry"}]},"title":"Taming the Memory Hogs - Using Compiler-Inserted Releases to Manage Physical Memory Intelligently.","venue":"OSDI","pages":"31-44","year":"2000","type":"Conference and Workshop Papers","key":"conf/osdi/BrownM00","ee":"http://dl.acm.org/citation.cfm?id=1251232","url":"https://dblp.org/rec/conf/osdi/BrownM00"},
+"url":"URL#4772886"
+},
+{
+"@score":"1",
+"@id":"4772887",
+"info":{"authors":{"author":[{"@pid":"c/MiguelCastro","text":"Miguel Castro 0001"},{"@pid":"l/BarbaraLiskov","text":"Barbara Liskov"}]},"title":"Proactive Recovery in a Byzantine-Fault-Tolerant System.","venue":"OSDI","pages":"273-288","year":"2000","type":"Conference and Workshop Papers","key":"conf/osdi/CastroL00","ee":"http://dl.acm.org/citation.cfm?id=1251248","url":"https://dblp.org/rec/conf/osdi/CastroL00"},
+"url":"URL#4772887"
+},
+{
+"@score":"1",
+"@id":"4772888",
+"info":{"authors":{"author":[{"@pid":"97/3628","text":"Abhishek Chandra"},{"@pid":"a/MicahAdler","text":"Micah Adler"},{"@pid":"77/2307","text":"Pawan Goyal"},{"@pid":"s/PrashantJShenoy","text":"Prashant J. Shenoy"}]},"title":"Surplus Fair Scheduling - A Proportional-Share CPU Scheduling Algorithm for Symmetric Multiprocessors.","venue":"OSDI","pages":"45-58","year":"2000","type":"Conference and Workshop Papers","key":"conf/osdi/ChandraAGS00","ee":"http://dl.acm.org/citation.cfm?id=1251233","url":"https://dblp.org/rec/conf/osdi/ChandraAGS00"},
+"url":"URL#4772888"
+},
+{
+"@score":"1",
+"@id":"4772889",
+"info":{"authors":{"author":[{"@pid":"55/6520","text":"Julita Corbalán"},{"@pid":"04/3016","text":"Xavier Martorell"},{"@pid":"87/4934","text":"Jesús Labarta"}]},"title":"Performance-Driven Processor Allocation.","venue":"OSDI","pages":"59-73","year":"2000","type":"Conference and Workshop Papers","key":"conf/osdi/CorbalanML00","ee":"http://dl.acm.org/citation.cfm?id=1251234","url":"https://dblp.org/rec/conf/osdi/CorbalanML00"},
+"url":"URL#4772889"
+},
+{
+"@score":"1",
+"@id":"4772890",
+"info":{"authors":{"author":[{"@pid":"e/DREngler","text":"Dawson R. Engler"},{"@pid":"28/2333","text":"Benjamin Chelf"},{"@pid":"53/3446","text":"Andy Chou"},{"@pid":"97/6437","text":"Seth Hallem"}]},"title":"Checking System Rules Using System-Specific, Programmer-Written Compiler Extensions.","venue":"OSDI","pages":"1-16","year":"2000","type":"Conference and Workshop Papers","key":"conf/osdi/EnglerCCH00","ee":"http://dl.acm.org/citation.cfm?id=1251230","url":"https://dblp.org/rec/conf/osdi/EnglerCCH00"},
+"url":"URL#4772890"
+},
+{
+"@score":"1",
+"@id":"4772891",
+"info":{"authors":{"author":[{"@pid":"f/KevinFu","text":"Kevin Fu"},{"@pid":"k/MFransKaashoek","text":"M. Frans Kaashoek"},{"@pid":"m/DMazieres","text":"David Mazières"}]},"title":"Fast and Secure Distributed Read-Only File System.","venue":"OSDI","pages":"181-196","year":"2000","type":"Conference and Workshop Papers","key":"conf/osdi/FuKM00","ee":"http://dl.acm.org/citation.cfm?id=1251242","url":"https://dblp.org/rec/conf/osdi/FuKM00"},
+"url":"URL#4772891"
+},
+{
+"@score":"1",
+"@id":"4772892",
+"info":{"authors":{"author":[{"@pid":"g/StevenDGribble","text":"Steven D. Gribble"},{"@pid":"b/EricABrewer","text":"Eric A. Brewer"},{"@pid":"h/JosephMHellerstein","text":"Joseph M. Hellerstein"},{"@pid":"c/DavidECuller","text":"David E. Culler"}]},"title":"Scalable, Distributed Data Structures for Internet Service Construction.","venue":"OSDI","pages":"319-332","year":"2000","type":"Conference and Workshop Papers","key":"conf/osdi/GribbleBHC00","ee":"http://dl.acm.org/citation.cfm?id=1251251","url":"https://dblp.org/rec/conf/osdi/GribbleBHC00"},
+"url":"URL#4772892"
+},
+{
+"@score":"1",
+"@id":"4772893",
+"info":{"authors":{"author":[{"@pid":"03/4749","text":"John Linwood Griffin"},{"@pid":"52/1925","text":"Steven W. Schlosser"},{"@pid":"g/GregoryRGanger","text":"Gregory R. Ganger"},{"@pid":"55/1314","text":"David Nagle"}]},"title":"Operating System Management of MEMS-based Storage Devices.","venue":"OSDI","pages":"227-242","year":"2000","type":"Conference and Workshop Papers","key":"conf/osdi/GriffinSGN00","ee":"http://dl.acm.org/citation.cfm?id=1251245","url":"https://dblp.org/rec/conf/osdi/GriffinSGN00"},
+"url":"URL#4772893"
+},
+{
+"@score":"1",
+"@id":"4772894",
+"info":{"authors":{"author":[{"@pid":"g/DirkGrunwald","text":"Dirk Grunwald"},{"@pid":"91/2665","text":"Philip Levis"},{"@pid":"85/4620","text":"Keith I. Farkas"},{"@pid":"65/4172","text":"Charles B. Morrey III"},{"@pid":"38/6264","text":"Michael Neufeld"}]},"title":"Policies for Dynamic Clock Scheduling.","venue":"OSDI","pages":"73-86","year":"2000","type":"Conference and Workshop Papers","key":"conf/osdi/GrunwaldLFMN00","ee":"http://dl.acm.org/citation.cfm?id=1251235","url":"https://dblp.org/rec/conf/osdi/GrunwaldLFMN00"},
+"url":"URL#4772894"
+},
+{
+"@score":"1",
+"@id":"4772895",
+"info":{"authors":{"author":[{"@pid":"55/3274","text":"Jon Howell"},{"@pid":"k/DavidKotz","text":"David Kotz"}]},"title":"End-to-End Authorization.","venue":"OSDI","pages":"151-164","year":"2000","type":"Conference and Workshop Papers","key":"conf/osdi/HowellK00","ee":"http://dl.acm.org/citation.cfm?id=1251240","url":"https://dblp.org/rec/conf/osdi/HowellK00"},
+"url":"URL#4772895"
+},
+{
+"@score":"1",
+"@id":"4772896",
+"info":{"authors":{"author":[{"@pid":"92/6868","text":"John Jannotti"},{"@pid":"g/DavidKGifford","text":"David K. Gifford"},{"@pid":"49/4513","text":"Kirk L. Johnson"},{"@pid":"k/MFransKaashoek","text":"M. Frans Kaashoek"},{"@pid":"44/3486","text":"James O&apos;Toole Jr."}]},"title":"Overcast - Reliable Multicasting with an Overlay Network.","venue":"OSDI","pages":"197-212","year":"2000","type":"Conference and Workshop Papers","key":"conf/osdi/JannottiGJKO00","ee":"http://dl.acm.org/citation.cfm?id=1251243","url":"https://dblp.org/rec/conf/osdi/JannottiGJKO00"},
+"url":"URL#4772896"
+},
+{
+"@score":"1",
+"@id":"4772897",
+"info":{"authors":{"author":[{"@pid":"41/6503","text":"Jong Min Kim"},{"@pid":"61/4476","text":"Jongmoo Choi"},{"@pid":"78/5324","text":"Jesung Kim"},{"@pid":"81/970","text":"Sam H. Noh"},{"@pid":"34/5109","text":"Sang Lyul Min"},{"@pid":"92/4612","text":"Yookun Cho"},{"@pid":"04/1249","text":"Chong-Sang Kim"}]},"title":"A Low-Overhead, High-Performance Unified Buffer Management Scheme That Exploits Sequential and Looping References.","venue":"OSDI","pages":"119-134","year":"2000","type":"Conference and Workshop Papers","key":"conf/osdi/KimCKNMCK00","ee":"http://dl.acm.org/citation.cfm?id=1251238","url":"https://dblp.org/rec/conf/osdi/KimCKNMCK00"},
+"url":"URL#4772897"
+},
+{
+"@score":"1",
+"@id":"4772898",
+"info":{"authors":{"author":[{"@pid":"80/1277","text":"David E. Lowell"},{"@pid":"86/2417","text":"Subhachandra Chandra"},{"@pid":"c/PeterMChen","text":"Peter M. Chen"}]},"title":"Exploring Failure Transparency and the Limits of Generic Recovery.","venue":"OSDI","pages":"289-304","year":"2000","type":"Conference and Workshop Papers","key":"conf/osdi/LowellCC00","ee":"http://dl.acm.org/citation.cfm?id=1251249","url":"https://dblp.org/rec/conf/osdi/LowellCC00"},
+"url":"URL#4772898"
+},
+{
+"@score":"1",
+"@id":"4772899",
+"info":{"authors":{"author":[{"@pid":"89/3197","text":"Christopher R. Lumb"},{"@pid":"56/2687","text":"Jiri Schindler"},{"@pid":"g/GregoryRGanger","text":"Gregory R. Ganger"},{"@pid":"55/1314","text":"David Nagle"},{"@pid":"r/ErikRiedel","text":"Erik Riedel"}]},"title":"Towards Higher Disk Head Utilization - Extracting &quot;Free&quot; Bandwidth from Busy Disk Drives.","venue":"OSDI","pages":"87-102","year":"2000","type":"Conference and Workshop Papers","key":"conf/osdi/LumbSGNR00","ee":"http://dl.acm.org/citation.cfm?id=1251236","url":"https://dblp.org/rec/conf/osdi/LumbSGNR00"},
+"url":"URL#4772899"
+},
+{
+"@score":"1",
+"@id":"4772900",
+"info":{"authors":{"author":[{"@pid":"m/UmeshMaheshwari","text":"Umesh Maheshwari"},{"@pid":"40/6597","text":"Radek Vingralek"},{"@pid":"91/3906","text":"William Shapiro"}]},"title":"How to Build a Trusted Database System on Untrusted Storage.","venue":"OSDI","pages":"135-150","year":"2000","type":"Conference and Workshop Papers","key":"conf/osdi/MaheshwariVS00","ee":"http://dl.acm.org/citation.cfm?id=1251239","url":"https://dblp.org/rec/conf/osdi/MaheshwariVS00"},
+"url":"URL#4772900"
+},
+{
+"@score":"1",
+"@id":"4772901",
+"info":{"authors":{"author":[{"@pid":"34/4781","text":"Fabrice Mérillon"},{"@pid":"11/1262","text":"Laurent Réveillère"},{"@pid":"c/CConsel","text":"Charles Consel"},{"@pid":"61/5462","text":"Renaud Marlet"},{"@pid":"27/4405","text":"Gilles Muller"}]},"title":"Devil - An IDL for Hardware Programming.","venue":"OSDI","pages":"17-30","year":"2000","type":"Conference and Workshop Papers","key":"conf/osdi/MerillonRCMM00","ee":"http://dl.acm.org/citation.cfm?id=1251231","url":"https://dblp.org/rec/conf/osdi/MerillonRCMM00"},
+"url":"URL#4772901"
+},
+{
+"@score":"1",
+"@id":"4772902",
+"info":{"authors":{"author":[{"@pid":"42/1094","text":"Rodney Van Meter"},{"@pid":"91/1104","text":"Minxi Gao"}]},"title":"Latency Management in Storage Systems.","venue":"OSDI","pages":"103-118","year":"2000","type":"Conference and Workshop Papers","key":"conf/osdi/MeterG00","ee":"http://dl.acm.org/citation.cfm?id=1251237","url":"https://dblp.org/rec/conf/osdi/MeterG00"},
+"url":"URL#4772902"
+},
+{
+"@score":"1",
+"@id":"4772903",
+"info":{"authors":{"author":[{"@pid":"r/AlastairReid","text":"Alastair Reid 0001"},{"@pid":"f/MatthewFlatt","text":"Matthew Flatt"},{"@pid":"97/5570","text":"Leigh Stoller"},{"@pid":"l/JayLepreau","text":"Jay Lepreau"},{"@pid":"e/EricEide","text":"Eric Eide"}]},"title":"Knit - Component Composition for Systems Software.","venue":"OSDI","pages":"347-360","year":"2000","type":"Conference and Workshop Papers","key":"conf/osdi/ReidFSLE00","ee":"http://dl.acm.org/citation.cfm?id=1251253","url":"https://dblp.org/rec/conf/osdi/ReidFSLE00"},
+"url":"URL#4772903"
+},
+{
+"@score":"1",
+"@id":"4772904",
+"info":{"authors":{"author":[{"@pid":"40/1633","text":"John D. Strunk"},{"@pid":"56/2610","text":"Garth R. Goodson"},{"@pid":"07/466","text":"Michael L. Scheinholtz"},{"@pid":"35/680","text":"Craig A. N. Soules"},{"@pid":"g/GregoryRGanger","text":"Gregory R. Ganger"}]},"title":"Self-Securing Storage - Protecting Data in Compromised Systems.","venue":"OSDI","pages":"165-180","year":"2000","type":"Conference and Workshop Papers","key":"conf/osdi/StrunkGSSG00","ee":"http://dl.acm.org/citation.cfm?id=1251241","url":"https://dblp.org/rec/conf/osdi/StrunkGSSG00"},
+"url":"URL#4772904"
+},
+{
+"@score":"1",
+"@id":"4772905",
+"info":{"authors":{"author":[{"@pid":"19/2453","text":"Xiang Yu"},{"@pid":"14/5427","text":"Benjamin Gum"},{"@pid":"86/3244","text":"Yuqun Chen"},{"@pid":"69/1132","text":"Randolph Y. Wang"},{"@pid":"l/KaiLi1","text":"Kai Li 0001"},{"@pid":"k/AKrishnamurthy","text":"Arvind Krishnamurthy"},{"@pid":"a/ThomasEAnderson","text":"Thomas E. Anderson"}]},"title":"Trading Capacity for Performance in a Disk Array.","venue":"OSDI","pages":"243-258","year":"2000","type":"Conference and Workshop Papers","key":"conf/osdi/YuGCWLKA00","ee":"http://dl.acm.org/citation.cfm?id=1251246","url":"https://dblp.org/rec/conf/osdi/YuGCWLKA00"},
+"url":"URL#4772905"
+},
+{
+"@score":"1",
+"@id":"4772906",
+"info":{"authors":{"author":[{"@pid":"69/1249","text":"Haifeng Yu"},{"@pid":"v/AminVahdat","text":"Amin Vahdat"}]},"title":"Design and Evaluation of a Continuous Consistency Model for Replicated Services.","venue":"OSDI","pages":"305-318","year":"2000","type":"Conference and Workshop Papers","key":"conf/osdi/YuV00","ee":"http://dl.acm.org/citation.cfm?id=1251250","url":"https://dblp.org/rec/conf/osdi/YuV00"},
+"url":"URL#4772906"
+},
+{
+"@score":"1",
+"@id":"4783166",
+"info":{"authors":{"author":[{"@pid":"j/MichaelBJones","text":"Michael B. Jones"},{"@pid":"k/MFransKaashoek","text":"M. Frans Kaashoek"}]},"title":"4th Symposium on Operating System Design and Implementation (OSDI 2000), San Diego, California, USA, October 23-25, 2000","venue":"OSDI","publisher":"USENIX Association","year":"2000","type":"Editorship","key":"conf/osdi/2000","url":"https://dblp.org/rec/conf/osdi/2000"},
+"url":"URL#4783166"
+}
+]
+}
+}
+}

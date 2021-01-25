@@ -1,0 +1,218 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"sosp\"/\"sosp95\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"144.40"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"31",
+"@dc":"31",
+"@oc":"31",
+"@id":"17587917",
+"text":":facetid:toc:db/conf/sosp/sosp95.bht"
+}
+},
+"hits":{
+"@total":"31",
+"@computed":"31",
+"@sent":"31",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"5061461",
+"info":{"authors":{"author":[{"@pid":"a/ThomasEAnderson","text":"Thomas E. Anderson"},{"@pid":"d/MDahlin","text":"Michael Dahlin"},{"@pid":"81/5025","text":"Jeanna M. Neefe"},{"@pid":"p/DAPatterson","text":"David A. Patterson"},{"@pid":"71/428","text":"Drew S. Roselli"},{"@pid":"69/1132","text":"Randolph Y. Wang"}]},"title":"Serverless Network File Systems.","venue":"SOSP","pages":"109-126","year":"1995","type":"Conference and Workshop Papers","key":"conf/sosp/AndersonDNPRW95","doi":"10.1145/224056.224066","ee":"https://doi.org/10.1145/224056.224066","url":"https://dblp.org/rec/conf/sosp/AndersonDNPRW95"},
+"url":"URL#5061461"
+},
+{
+"@score":"1",
+"@id":"5061462",
+"info":{"authors":{"author":[{"@pid":"70/5087","text":"Eric W. Anderson"},{"@pid":"p/JPasquale","text":"Joseph Pasquale"}]},"title":"The Performance of the Container Shipping I/O System.","venue":"SOSP","pages":"229","year":"1995","type":"Conference and Workshop Papers","key":"conf/sosp/AndersonP95","doi":"10.1145/224056.225831","ee":"https://doi.org/10.1145/224056.225831","url":"https://dblp.org/rec/conf/sosp/AndersonP95"},
+"url":"URL#5061462"
+},
+{
+"@score":"1",
+"@id":"5061463",
+"info":{"authors":{"author":[{"@pid":"b/BNBershad","text":"Brian N. Bershad"},{"@pid":"s/StefanSavage","text":"Stefan Savage"},{"@pid":"79/5347","text":"Przemyslaw Pardyak"},{"@pid":"s/EminGunSirer","text":"Emin Gün Sirer"},{"@pid":"81/447","text":"Marc E. Fiuczynski"},{"@pid":"94/5555","text":"David Becker"},{"@pid":"c/CraigChambers","text":"Craig Chambers"},{"@pid":"e/SJEggers","text":"Susan J. Eggers"}]},"title":"Extensibility, Safety and Performance in the SPIN Operating System.","venue":"SOSP","pages":"267-284","year":"1995","type":"Conference and Workshop Papers","key":"conf/sosp/BershadSPSFBCE95","doi":"10.1145/224056.224077","ee":"https://doi.org/10.1145/224056.224077","url":"https://dblp.org/rec/conf/sosp/BershadSPSFBCE95"},
+"url":"URL#5061463"
+},
+{
+"@score":"1",
+"@id":"5061464",
+"info":{"authors":{"author":[{"@pid":"b/ThomasCBressoud","text":"Thomas C. Bressoud"},{"@pid":"s/FredBSchneider","text":"Fred B. Schneider"}]},"title":"Hypervisor-based Fault-tolerance.","venue":"SOSP","pages":"1-11","year":"1995","type":"Conference and Workshop Papers","key":"conf/sosp/BressoudS95","doi":"10.1145/224056.224058","ee":"https://doi.org/10.1145/224056.224058","url":"https://dblp.org/rec/conf/sosp/BressoudS95"},
+"url":"URL#5061464"
+},
+{
+"@score":"1",
+"@id":"5061465",
+"info":{"authors":{"author":[{"@pid":"18/2307","text":"John Chapin"},{"@pid":"r/MendelRosenblum","text":"Mendel Rosenblum"},{"@pid":"16/3914","text":"Scott Devine"},{"@pid":"46/49","text":"Tirthankar Lahiri"},{"@pid":"00/5676-2","text":"Dan Teodosiu 0002"},{"@pid":"g/AnoopGupta","text":"Anoop Gupta"}]},"title":"Hive - Fault Containment for Shared-Memory Multiprocessors.","venue":"SOSP","pages":"12-25","year":"1995","type":"Conference and Workshop Papers","key":"conf/sosp/ChapinRDLTG95","doi":"10.1145/224056.224059","ee":"https://doi.org/10.1145/224056.224059","url":"https://dblp.org/rec/conf/sosp/ChapinRDLTG95"},
+"url":"URL#5061465"
+},
+{
+"@score":"1",
+"@id":"5061466",
+"info":{"authors":{"author":[{"@pid":"40/5996","text":"J. Bradley Chen"},{"@pid":"e/YasuhiroEndo","text":"Yasuhiro Endo"},{"@pid":"07/4568","text":"Kee Chan"},{"@pid":"m/DMazieres","text":"David Mazières"},{"@pid":"45/5263","text":"Antonio Dias"},{"@pid":"s/MargoISeltzer","text":"Margo I. Seltzer"},{"@pid":"163/1790-1","text":"Michael D. Smith 0001"}]},"title":"The Measured Performance of Personal Computer Operating Systems.","venue":"SOSP","pages":"299-313","year":"1995","type":"Conference and Workshop Papers","key":"conf/sosp/ChenECMDSS95","doi":"10.1145/224056.224079","ee":"https://doi.org/10.1145/224056.224079","url":"https://dblp.org/rec/conf/sosp/ChenECMDSS95"},
+"url":"URL#5061466"
+},
+{
+"@score":"1",
+"@id":"5061467",
+"info":{"authors":{"author":[{"@pid":"c/DRCheriton","text":"David R. Cheriton"},{"@pid":"49/2790","text":"Kenneth J. Duda"}]},"title":"Logged Virtual Memory.","venue":"SOSP","pages":"26-39","year":"1995","type":"Conference and Workshop Papers","key":"conf/sosp/CheritonD95","doi":"10.1145/224056.224060","ee":"https://doi.org/10.1145/224056.224060","url":"https://dblp.org/rec/conf/sosp/CheritonD95"},
+"url":"URL#5061467"
+},
+{
+"@score":"1",
+"@id":"5061468",
+"info":{"authors":{"author":[{"@pid":"76/5208","text":"Thorsten von Eicken"},{"@pid":"39/1541","text":"Anindya Basu"},{"@pid":"26/5437","text":"Vineet Buch"},{"@pid":"v/WernerVogels","text":"Werner Vogels"}]},"title":"U-Net - A User-Level Network Interface for Parallel and Distributed Computing.","venue":"SOSP","pages":"40-53","year":"1995","type":"Conference and Workshop Papers","key":"conf/sosp/EickenBBV95","doi":"10.1145/224056.224061","ee":"https://doi.org/10.1145/224056.224061","url":"https://dblp.org/rec/conf/sosp/EickenBBV95"},
+"url":"URL#5061468"
+},
+{
+"@score":"1",
+"@id":"5061469",
+"info":{"authors":{"author":[{"@pid":"e/DREngler","text":"Dawson R. Engler"},{"@pid":"k/MFransKaashoek","text":"M. Frans Kaashoek"},{"@pid":"88/6703","text":"James O&apos;Toole"}]},"title":"Exokernel - An Operating System Architecture for Application-Level Resource Management.","venue":"SOSP","pages":"251-266","year":"1995","type":"Conference and Workshop Papers","key":"conf/sosp/EnglerKO95","doi":"10.1145/224056.224076","ee":"https://doi.org/10.1145/224056.224076","url":"https://dblp.org/rec/conf/sosp/EnglerKO95"},
+"url":"URL#5061469"
+},
+{
+"@score":"1",
+"@id":"5061470",
+"info":{"authors":{"author":[{"@pid":"f/MJFeeley","text":"Michael J. Feeley"},{"@pid":"40/2560","text":"William E. Morgan"},{"@pid":"p/FredericPighin","text":"Frédéric H. Pighin"},{"@pid":"k/AnnaRKarlin","text":"Anna R. Karlin"},{"@pid":"l/HenryMLevy","text":"Henry M. Levy"},{"@pid":"13/3927","text":"Chandramohan A. Thekkath"}]},"title":"Implementing Global Memory Management in a Workstation Cluster.","venue":"SOSP","pages":"201-212","year":"1995","type":"Conference and Workshop Papers","key":"conf/sosp/FeeleyMPKL95","doi":"10.1145/224056.224072","ee":"https://doi.org/10.1145/224056.224072","url":"https://dblp.org/rec/conf/sosp/FeeleyMPKL95"},
+"url":"URL#5061470"
+},
+{
+"@score":"1",
+"@id":"5061471",
+"info":{"authors":{"author":[{"@pid":"83/4382","text":"Liana L. Fong"},{"@pid":"67/3865","text":"Mark S. Squillante"}]},"title":"Time-Function Scheduling - A General Approach To Controllable Resource Management.","venue":"SOSP","pages":"230","year":"1995","type":"Conference and Workshop Papers","key":"conf/sosp/FongS95","doi":"10.1145/224056.225832","ee":"https://doi.org/10.1145/224056.225832","url":"https://dblp.org/rec/conf/sosp/FongS95"},
+"url":"URL#5061471"
+},
+{
+"@score":"1",
+"@id":"5061472",
+"info":{"authors":{"author":[{"@pid":"f/BryanFord","text":"Bryan Ford"},{"@pid":"h/MikeHibler","text":"Mike Hibler"},{"@pid":"l/JayLepreau","text":"Jay Lepreau"}]},"title":"Using Annotated Interface Definitions to Optimize RPC.","venue":"SOSP","pages":"232","year":"1995","type":"Conference and Workshop Papers","key":"conf/sosp/FordHL95","doi":"10.1145/224056.225833","ee":"https://doi.org/10.1145/224056.225833","url":"https://dblp.org/rec/conf/sosp/FordHL95"},
+"url":"URL#5061472"
+},
+{
+"@score":"1",
+"@id":"5061473",
+"info":{"authors":{"author":[{"@pid":"g/SGhemawat","text":"Sanjay Ghemawat"},{"@pid":"k/MFransKaashoek","text":"M. Frans Kaashoek"},{"@pid":"l/BarbaraLiskov","text":"Barbara Liskov"}]},"title":"Using a Modified Object Buffer to Improve the Write Performance of an Object-Oriented Database.","venue":"SOSP","pages":"235","year":"1995","type":"Conference and Workshop Papers","key":"conf/sosp/GhemawatKL95","doi":"10.1145/224056.225834","ee":"https://doi.org/10.1145/224056.225834","url":"https://dblp.org/rec/conf/sosp/GhemawatKL95"},
+"url":"URL#5061473"
+},
+{
+"@score":"1",
+"@id":"5061474",
+"info":{"authors":{"author":[{"@pid":"89/5071","text":"R. Gopalakrishnan"},{"@pid":"50/4579","text":"Guru M. Parulkar"}]},"title":"A Real-time Upcall Facility for Protocol Processing with QoS Guarantees.","venue":"SOSP","pages":"231","year":"1995","type":"Conference and Workshop Papers","key":"conf/sosp/GopalakrishnanP95","doi":"10.1145/224056.225835","ee":"https://doi.org/10.1145/224056.225835","url":"https://dblp.org/rec/conf/sosp/GopalakrishnanP95"},
+"url":"URL#5061474"
+},
+{
+"@score":"1",
+"@id":"5061475",
+"info":{"authors":{"author":[{"@pid":"56/5902","text":"James Gwertzman"},{"@pid":"s/MargoISeltzer","text":"Margo I. Seltzer"}]},"title":"Autonomous Replication Across Wide-Area Internetworks.","venue":"SOSP","pages":"234","year":"1995","type":"Conference and Workshop Papers","key":"conf/sosp/GwertzmanS95","doi":"10.1145/224056.225836","ee":"https://doi.org/10.1145/224056.225836","url":"https://dblp.org/rec/conf/sosp/GwertzmanS95"},
+"url":"URL#5061475"
+},
+{
+"@score":"1",
+"@id":"5061476",
+"info":{"authors":{"author":[{"@pid":"01/3967","text":"Mor Harchol-Balter"},{"@pid":"62/6735","text":"Allen B. Downey"}]},"title":"Exploiting Process Lifetime Distributions for Dynamic Load Balancing.","venue":"SOSP","pages":"236","year":"1995","type":"Conference and Workshop Papers","key":"conf/sosp/Harchol-BalterD95","doi":"10.1145/224056.225838","ee":"https://doi.org/10.1145/224056.225838","url":"https://dblp.org/rec/conf/sosp/Harchol-BalterD95"},
+"url":"URL#5061476"
+},
+{
+"@score":"1",
+"@id":"5061477",
+"info":{"authors":{"author":[{"@pid":"h/JohnSHeidemann","text":"John S. Heidemann"},{"@pid":"62/6214","text":"Gerald J. Popek"}]},"title":"Performance of Cache Coherence in Stackable Filing.","venue":"SOSP","pages":"127-142","year":"1995","type":"Conference and Workshop Papers","key":"conf/sosp/HeidemannP95","doi":"10.1145/224056.224067","ee":"https://doi.org/10.1145/224056.224067","url":"https://dblp.org/rec/conf/sosp/HeidemannP95"},
+"url":"URL#5061477"
+},
+{
+"@score":"1",
+"@id":"5061478",
+"info":{"authors":{"author":[{"@pid":"49/4513","text":"Kirk L. Johnson"},{"@pid":"k/MFransKaashoek","text":"M. Frans Kaashoek"},{"@pid":"53/6138","text":"Deborah A. Wallach"}]},"title":"CRL - High-Performance All-Software Distributed Shared Memory.","venue":"SOSP","pages":"213-228","year":"1995","type":"Conference and Workshop Papers","key":"conf/sosp/JohnsonKW95","doi":"10.1145/224056.224073","ee":"https://doi.org/10.1145/224056.224073","url":"https://dblp.org/rec/conf/sosp/JohnsonKW95"},
+"url":"URL#5061478"
+},
+{
+"@score":"1",
+"@id":"5061479",
+"info":{"authors":{"author":[{"@pid":"30/2317","text":"Anthony D. Joseph"},{"@pid":"42/4356","text":"Alan F. deLespinasse"},{"@pid":"97/6559","text":"Joshua A. Tauber"},{"@pid":"g/DavidKGifford","text":"David K. Gifford"},{"@pid":"k/MFransKaashoek","text":"M. Frans Kaashoek"}]},"title":"Rover - A Toolkit for Mobile Information Access.","venue":"SOSP","pages":"156-171","year":"1995","type":"Conference and Workshop Papers","key":"conf/sosp/JosephdTGK95","doi":"10.1145/224056.224069","ee":"https://doi.org/10.1145/224056.224069","url":"https://dblp.org/rec/conf/sosp/JosephdTGK95"},
+"url":"URL#5061479"
+},
+{
+"@score":"1",
+"@id":"5061480",
+"info":{"authors":{"author":{"@pid":"07/1586","text":"Jochen Liedtke"}},"title":"On micro-Kernel Construction.","venue":"SOSP","pages":"237-250","year":"1995","type":"Conference and Workshop Papers","key":"conf/sosp/Liedtke95","doi":"10.1145/224056.224075","ee":"https://doi.org/10.1145/224056.224075","url":"https://dblp.org/rec/conf/sosp/Liedtke95"},
+"url":"URL#5061480"
+},
+{
+"@score":"1",
+"@id":"5061481",
+"info":{"authors":{"author":[{"@pid":"m/LilyBMummert","text":"Lily B. Mummert"},{"@pid":"e/MariaEbling","text":"Maria Ebling"},{"@pid":"s/MahadevSatyanarayanan","text":"Mahadev Satyanarayanan"}]},"title":"Exploiting Weak Connectivity for Mobile File Access.","venue":"SOSP","pages":"143-155","year":"1995","type":"Conference and Workshop Papers","key":"conf/sosp/MummertES95","doi":"10.1145/224056.224068","ee":"https://doi.org/10.1145/224056.224068","url":"https://dblp.org/rec/conf/sosp/MummertES95"},
+"url":"URL#5061481"
+},
+{
+"@score":"1",
+"@id":"5061482",
+"info":{"authors":{"author":[{"@pid":"90/6936","text":"Michael N. Nelson"},{"@pid":"36/2393","text":"Mark A. Linton"},{"@pid":"06/3161","text":"Susan S. Owicki"}]},"title":"A Highly Available, Scalable ITV System.","venue":"SOSP","pages":"54-67","year":"1995","type":"Conference and Workshop Papers","key":"conf/sosp/NelsonLO95","doi":"10.1145/224056.224062","ee":"https://doi.org/10.1145/224056.224062","url":"https://dblp.org/rec/conf/sosp/NelsonLO95"},
+"url":"URL#5061482"
+},
+{
+"@score":"1",
+"@id":"5061483",
+"info":{"authors":{"author":[{"@pid":"n/JasonNieh","text":"Jason Nieh"},{"@pid":"l/MonicaSLam","text":"Monica S. Lam"}]},"title":"SMART - A Processor Scheduler for Multimedia Applications.","venue":"SOSP","pages":"233","year":"1995","type":"Conference and Workshop Papers","key":"conf/sosp/NiehL95","doi":"10.1145/224056.225837","ee":"https://doi.org/10.1145/224056.225837","url":"https://dblp.org/rec/conf/sosp/NiehL95"},
+"url":"URL#5061483"
+},
+{
+"@score":"1",
+"@id":"5061484",
+"info":{"authors":{"author":[{"@pid":"31/1760","text":"R. Hugo Patterson"},{"@pid":"g/GarthAGibson","text":"Garth A. Gibson"},{"@pid":"78/721","text":"Eka Ginting"},{"@pid":"20/1094","text":"Daniel Stodolsky"},{"@pid":"12/4836","text":"Jim Zelenka"}]},"title":"Informed Prefetching and Caching.","venue":"SOSP","pages":"79-95","year":"1995","type":"Conference and Workshop Papers","key":"conf/sosp/PattersonGGSZ95","doi":"10.1145/224056.224064","ee":"https://doi.org/10.1145/224056.224064","url":"https://dblp.org/rec/conf/sosp/PattersonGGSZ95"},
+"url":"URL#5061484"
+},
+{
+"@score":"1",
+"@id":"5061485",
+"info":{"authors":{"author":[{"@pid":"p/CaltonPu","text":"Calton Pu"},{"@pid":"78/6118","text":"Tito Autrey"},{"@pid":"b/APBlack","text":"Andrew P. Black"},{"@pid":"c/CConsel","text":"Charles Consel"},{"@pid":"c/CrispinCowan","text":"Crispin Cowan"},{"@pid":"20/4326","text":"Jon Inouye"},{"@pid":"52/1157","text":"Lakshmi Kethana"},{"@pid":"50/3443","text":"Jonathan Walpole"},{"@pid":"20/4152","text":"Ke Zhang"}]},"title":"Optimistic Incremental Specialization - Streamlining a Commercial Operating System.","venue":"SOSP","pages":"314-324","year":"1995","type":"Conference and Workshop Papers","key":"conf/sosp/PuABCCIKWZ95","doi":"10.1145/224056.224080","ee":"https://doi.org/10.1145/224056.224080","url":"https://dblp.org/rec/conf/sosp/PuABCCIKWZ95"},
+"url":"URL#5061485"
+},
+{
+"@score":"1",
+"@id":"5061486",
+"info":{"authors":{"author":[{"@pid":"r/MendelRosenblum","text":"Mendel Rosenblum"},{"@pid":"b/EBugnion","text":"Edouard Bugnion"},{"@pid":"69/2725","text":"Stephen Alan Herrod"},{"@pid":"76/6082","text":"Emmett Witchel"},{"@pid":"g/AnoopGupta","text":"Anoop Gupta"}]},"title":"The Impact of Architectural Trends on Operating System Performance.","venue":"SOSP","pages":"285-298","year":"1995","type":"Conference and Workshop Papers","key":"conf/sosp/RosenblumBHWG95","doi":"10.1145/224056.224078","ee":"https://doi.org/10.1145/224056.224078","url":"https://dblp.org/rec/conf/sosp/RosenblumBHWG95"},
+"url":"URL#5061486"
+},
+{
+"@score":"1",
+"@id":"5061487",
+"info":{"authors":{"author":[{"@pid":"s/BjarneSteensgaard","text":"Bjarne Steensgaard"},{"@pid":"95/1442","text":"Eric Jul"}]},"title":"Object and Native Code Thread Mobility Among Heterogeneous Computers.","venue":"SOSP","pages":"68-78","year":"1995","type":"Conference and Workshop Papers","key":"conf/sosp/SteensgaardJ95","doi":"10.1145/224056.224063","ee":"https://doi.org/10.1145/224056.224063","url":"https://dblp.org/rec/conf/sosp/SteensgaardJ95"},
+"url":"URL#5061487"
+},
+{
+"@score":"1",
+"@id":"5061488",
+"info":{"authors":{"author":[{"@pid":"t/MadhusudhanTalluri","text":"Madhusudhan Talluri"},{"@pid":"h/MarkDHill","text":"Mark D. Hill"},{"@pid":"k/YousefYAKhalidi","text":"Yousef Y. A. Khalidi"}]},"title":"A New Page Table for 64-bit Address Spaces.","venue":"SOSP","pages":"184-200","year":"1995","type":"Conference and Workshop Papers","key":"conf/sosp/TalluriHK95","doi":"10.1145/224056.224071","ee":"https://doi.org/10.1145/224056.224071","url":"https://dblp.org/rec/conf/sosp/TalluriHK95"},
+"url":"URL#5061488"
+},
+{
+"@score":"1",
+"@id":"5061489",
+"info":{"authors":{"author":[{"@pid":"06/965","text":"Douglas B. Terry"},{"@pid":"56/724","text":"Marvin Theimer"},{"@pid":"81/1825","text":"Karin Petersen"},{"@pid":"03/5860","text":"Alan J. Demers"},{"@pid":"94/538","text":"Mike Spreitzer"},{"@pid":"h/CarlHHauser","text":"Carl Hauser"}]},"title":"Managing Update Conflicts in Bayou, a Weakly Connected Replicated Storage System.","venue":"SOSP","pages":"172-183","year":"1995","type":"Conference and Workshop Papers","key":"conf/sosp/TerryTPDSH95","doi":"10.1145/224056.224070","ee":"https://doi.org/10.1145/224056.224070","url":"https://dblp.org/rec/conf/sosp/TerryTPDSH95"},
+"url":"URL#5061489"
+},
+{
+"@score":"1",
+"@id":"5061490",
+"info":{"authors":{"author":[{"@pid":"w/JohnWilkes","text":"John Wilkes"},{"@pid":"g/RichardAGolding","text":"Richard A. Golding"},{"@pid":"86/1617","text":"Carl Staelin"},{"@pid":"27/78","text":"Tim Sullivan 0002"}]},"title":"The HP AutoRAID Hierarchical Storage System.","venue":"SOSP","pages":"96-108","year":"1995","type":"Conference and Workshop Papers","key":"conf/sosp/WilkesGSS95","doi":"10.1145/224056.224065","ee":"https://doi.org/10.1145/224056.224065","url":"https://dblp.org/rec/conf/sosp/WilkesGSS95"},
+"url":"URL#5061490"
+},
+{
+"@score":"1",
+"@id":"5064250",
+"info":{"authors":{"author":{"@pid":"j/MichaelBJones","text":"Michael B. Jones"}},"title":"Proceedings of the Fifteenth ACM Symposium on Operating System Principles, SOSP 1995, Copper Mountain Resort, Colorado, USA, December 3-6, 1995","venue":"SOSP","publisher":"ACM","year":"1995","type":"Editorship","key":"conf/sosp/95","doi":"10.1145/224056","ee":"https://doi.org/10.1145/224056","url":"https://dblp.org/rec/conf/sosp/95"},
+"url":"URL#5064250"
+}
+]
+}
+}
+}

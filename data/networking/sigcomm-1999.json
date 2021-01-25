@@ -1,0 +1,182 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"sigcomm\"/\"sigcomm1999\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"142.62"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"25",
+"@dc":"25",
+"@oc":"25",
+"@id":"17586196",
+"text":":facetid:toc:db/conf/sigcomm/sigcomm1999.bht"
+}
+},
+"hits":{
+"@total":"25",
+"@computed":"25",
+"@sent":"25",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"4845279",
+"info":{"authors":{"author":[{"@pid":"31/1402","text":"Mark Allman"},{"@pid":"p/VernPaxson","text":"Vern Paxson"}]},"title":"On Estimating End-to-End Network Path Properties.","venue":"SIGCOMM","pages":"263-274","year":"1999","type":"Conference and Workshop Papers","key":"conf/sigcomm/AllmanP99","doi":"10.1145/316188.316230","ee":"https://doi.org/10.1145/316188.316230","url":"https://dblp.org/rec/conf/sigcomm/AllmanP99"},
+"url":"URL#4845279"
+},
+{
+"@score":"1",
+"@id":"4845280",
+"info":{"authors":{"author":[{"@pid":"b/HariBalakrishnan","text":"Hari Balakrishnan"},{"@pid":"54/75","text":"Hariharan Shankar Rahul"},{"@pid":"s/SrinivasanSeshan","text":"Srinivasan Seshan"}]},"title":"An Integrated Congestion Management Architecture for Internet Hosts.","venue":"SIGCOMM","pages":"175-187","year":"1999","type":"Conference and Workshop Papers","key":"conf/sigcomm/BalakrishnanRS99","doi":"10.1145/316188.316220","ee":"https://doi.org/10.1145/316188.316220","url":"https://dblp.org/rec/conf/sigcomm/BalakrishnanRS99"},
+"url":"URL#4845280"
+},
+{
+"@score":"1",
+"@id":"4845281",
+"info":{"authors":{"author":[{"@pid":"68/0","text":"Andrew Begel"},{"@pid":"47/2953","text":"Steven McCanne"},{"@pid":"31/6647","text":"Susan L. Graham"}]},"title":"BPF+ - Exploiting Global Data-Flow Optimization in a Generalized Packet Filter Architecture.","venue":"SIGCOMM","pages":"123-134","year":"1999","type":"Conference and Workshop Papers","key":"conf/sigcomm/BegelMG99","doi":"10.1145/316188.316214","ee":"https://doi.org/10.1145/316188.316214","url":"https://dblp.org/rec/conf/sigcomm/BegelMG99"},
+"url":"URL#4845281"
+},
+{
+"@score":"1",
+"@id":"4845282",
+"info":{"authors":{"author":[{"@pid":"b/ABremlerBarr","text":"Anat Bremler-Barr"},{"@pid":"a/YAfek","text":"Yehuda Afek"},{"@pid":"h/SarielHarPeled","text":"Sariel Har-Peled"}]},"title":"Routing with a Clue.","venue":"SIGCOMM","pages":"203-214","year":"1999","type":"Conference and Workshop Papers","key":"conf/sigcomm/Bremler-BarrAH99","doi":"10.1145/316188.316223","ee":"https://doi.org/10.1145/316188.316223","url":"https://dblp.org/rec/conf/sigcomm/Bremler-BarrAH99"},
+"url":"URL#4845282"
+},
+{
+"@score":"1",
+"@id":"4845283",
+"info":{"authors":{"author":[{"@pid":"d/ConstantinosDovrolis","text":"Constantinos Dovrolis"},{"@pid":"61/5574","text":"Dimitrios Stiliadis"},{"@pid":"r/PRamanathan","text":"Parameswaran Ramanathan"}]},"title":"Proportional Differentiated Services - Delay Differentiation and Packet Scheduling.","venue":"SIGCOMM","pages":"109-120","year":"1999","type":"Conference and Workshop Papers","key":"conf/sigcomm/DovrolisSR99","doi":"10.1145/316188.316211","ee":"https://doi.org/10.1145/316188.316211","url":"https://dblp.org/rec/conf/sigcomm/DovrolisSR99"},
+"url":"URL#4845283"
+},
+{
+"@score":"1",
+"@id":"4845284",
+"info":{"authors":{"author":{"@pid":"62/6735","text":"Allen B. Downey"}},"title":"Using Pathchar to Estimate Internet Link Characteristics.","venue":"SIGCOMM","pages":"241-250","year":"1999","type":"Conference and Workshop Papers","key":"conf/sigcomm/Downey99","doi":"10.1145/316188.316228","ee":"https://doi.org/10.1145/316188.316228","url":"https://dblp.org/rec/conf/sigcomm/Downey99"},
+"url":"URL#4845284"
+},
+{
+"@score":"1",
+"@id":"4845285",
+"info":{"authors":{"author":[{"@pid":"d/NickGDuffield","text":"Nick G. Duffield"},{"@pid":"77/2307","text":"Pawan Goyal"},{"@pid":"g/AlbertGGreenberg","text":"Albert G. Greenberg"},{"@pid":"73/673","text":"Partho Pratim Mishra"},{"@pid":"r/KKRamakrishnan","text":"K. K. Ramakrishnan"},{"@pid":"m/JEvanderMerwe","text":"Jacobus E. van der Merwe"}]},"title":"A Flexible Model for Resource Management in Virtual Private Networks.","venue":"SIGCOMM","pages":"95-108","year":"1999","type":"Conference and Workshop Papers","key":"conf/sigcomm/DuffieldGGMRM99","doi":"10.1145/316188.316209","ee":"https://doi.org/10.1145/316188.316209","url":"https://dblp.org/rec/conf/sigcomm/DuffieldGGMRM99"},
+"url":"URL#4845285"
+},
+{
+"@score":"1",
+"@id":"4845286",
+"info":{"authors":{"author":[{"@pid":"f/MichalisFaloutsos","text":"Michalis Faloutsos"},{"@pid":"f/PetrosFaloutsos","text":"Petros Faloutsos"},{"@pid":"f/CFaloutsos","text":"Christos Faloutsos"}]},"title":"On Power-law Relationships of the Internet Topology.","venue":"SIGCOMM","pages":"251-262","year":"1999","type":"Conference and Workshop Papers","key":"conf/sigcomm/FaloutsosFF99","doi":"10.1145/316188.316229","ee":"https://doi.org/10.1145/316188.316229","url":"https://dblp.org/rec/conf/sigcomm/FaloutsosFF99"},
+"url":"URL#4845286"
+},
+{
+"@score":"1",
+"@id":"4845287",
+"info":{"authors":{"author":[{"@pid":"f/AnjaFeldmann","text":"Anja Feldmann"},{"@pid":"01/5657","text":"Anna C. Gilbert"},{"@pid":"36/1561","text":"Polly Huang"},{"@pid":"w/WalterWillinger","text":"Walter Willinger"}]},"title":"Dynamics of IP Traffic - A Study of the Role of Variability and the Impact of Control.","venue":"SIGCOMM","pages":"301-313","year":"1999","type":"Conference and Workshop Papers","key":"conf/sigcomm/FeldmannGHW99","doi":"10.1145/316188.316235","ee":"https://doi.org/10.1145/316188.316235","url":"https://dblp.org/rec/conf/sigcomm/FeldmannGHW99"},
+"url":"URL#4845287"
+},
+{
+"@score":"1",
+"@id":"4845288",
+"info":{"authors":{"author":[{"@pid":"g/TimothyGGriffin","text":"Timothy Griffin"},{"@pid":"94/1460","text":"Gordon T. Wilfong"}]},"title":"An Analysis of BGP Convergence Properties.","venue":"SIGCOMM","pages":"277-288","year":"1999","type":"Conference and Workshop Papers","key":"conf/sigcomm/GriffinW99","doi":"10.1145/316188.316231","ee":"https://doi.org/10.1145/316188.316231","url":"https://dblp.org/rec/conf/sigcomm/GriffinW99"},
+"url":"URL#4845288"
+},
+{
+"@score":"1",
+"@id":"4845289",
+"info":{"authors":{"author":[{"@pid":"92/4081","text":"Pankaj Gupta"},{"@pid":"m/NickMcKeown","text":"Nick McKeown"}]},"title":"Packet Classification on Multiple Fields.","venue":"SIGCOMM","pages":"147-160","year":"1999","type":"Conference and Workshop Papers","key":"conf/sigcomm/GuptaM99","doi":"10.1145/316188.316217","ee":"https://doi.org/10.1145/316188.316217","url":"https://dblp.org/rec/conf/sigcomm/GuptaM99"},
+"url":"URL#4845289"
+},
+{
+"@score":"1",
+"@id":"4845290",
+"info":{"authors":{"author":[{"@pid":"19/910","text":"Hugh W. Holbrook"},{"@pid":"c/DRCheriton","text":"David R. Cheriton"}]},"title":"IP Multicast Channels - EXPRESS Support for Large-scale Single-source Applications.","venue":"SIGCOMM","pages":"65-78","year":"1999","type":"Conference and Workshop Papers","key":"conf/sigcomm/HolbrookC99","doi":"10.1145/316188.316207","ee":"https://doi.org/10.1145/316188.316207","url":"https://dblp.org/rec/conf/sigcomm/HolbrookC99"},
+"url":"URL#4845290"
+},
+{
+"@score":"1",
+"@id":"4845291",
+"info":{"authors":{"author":[{"@pid":"78/5231","text":"Eddie Kohler"},{"@pid":"k/MFransKaashoek","text":"M. Frans Kaashoek"},{"@pid":"37/5470","text":"David R. Montgomery"}]},"title":"A Readable TCP in the Prolac Protocol Language.","venue":"SIGCOMM","pages":"3-13","year":"1999","type":"Conference and Workshop Papers","key":"conf/sigcomm/KohlerKM99","doi":"10.1145/316188.316200","ee":"https://doi.org/10.1145/316188.316200","url":"https://dblp.org/rec/conf/sigcomm/KohlerKM99"},
+"url":"URL#4845291"
+},
+{
+"@score":"1",
+"@id":"4845292",
+"info":{"authors":{"author":[{"@pid":"77/1373","text":"Graham Phillips"},{"@pid":"34/5593","text":"Scott Shenker"},{"@pid":"57/2133","text":"Hongsuda Tangmunarunkit"}]},"title":"Scaling of Multicast Trees - Comments on the Chuang-Sirbu Scaling Law.","venue":"SIGCOMM","pages":"41-51","year":"1999","type":"Conference and Workshop Papers","key":"conf/sigcomm/PhillipsST99","doi":"10.1145/316188.316205","ee":"https://doi.org/10.1145/316188.316205","url":"https://dblp.org/rec/conf/sigcomm/PhillipsST99"},
+"url":"URL#4845292"
+},
+{
+"@score":"1",
+"@id":"4845293",
+"info":{"authors":{"author":[{"@pid":"24/5745","text":"Suchitra Raman"},{"@pid":"47/2953","text":"Steven McCanne"}]},"title":"A Model, Analysis, and Protocol Framework for Soft State-Based Communication.","venue":"SIGCOMM","pages":"15-25","year":"1999","type":"Conference and Workshop Papers","key":"conf/sigcomm/RamanM99","doi":"10.1145/316188.316202","ee":"https://doi.org/10.1145/316188.316202","url":"https://dblp.org/rec/conf/sigcomm/RamanM99"},
+"url":"URL#4845293"
+},
+{
+"@score":"1",
+"@id":"4845294",
+"info":{"authors":{"author":[{"@pid":"84/5465","text":"Reza Rejaie"},{"@pid":"h/MarkHandley","text":"Mark Handley"},{"@pid":"e/DeborahEstrin","text":"Deborah Estrin"}]},"title":"Quality Adaptation for Congestion Controlled Video Playback over the Internet.","venue":"SIGCOMM","pages":"189-200","year":"1999","type":"Conference and Workshop Papers","key":"conf/sigcomm/RejaieHE99","doi":"10.1145/316188.316222","ee":"https://doi.org/10.1145/316188.316222","url":"https://dblp.org/rec/conf/sigcomm/RejaieHE99"},
+"url":"URL#4845294"
+},
+{
+"@score":"1",
+"@id":"4845295",
+"info":{"authors":{"author":[{"@pid":"r/DanRubenstein","text":"Dan Rubenstein"},{"@pid":"k/JamesFKurose","text":"James F. Kurose"},{"@pid":"t/DonaldFTowsley","text":"Donald F. Towsley"}]},"title":"The Impact of Multicast Layering on Network Fairness.","venue":"SIGCOMM","pages":"27-38","year":"1999","type":"Conference and Workshop Papers","key":"conf/sigcomm/RubensteinKT99","doi":"10.1145/316188.316203","ee":"https://doi.org/10.1145/316188.316203","url":"https://dblp.org/rec/conf/sigcomm/RubensteinKT99"},
+"url":"URL#4845295"
+},
+{
+"@score":"1",
+"@id":"4845296",
+"info":{"authors":{"author":[{"@pid":"s/StefanSavage","text":"Stefan Savage"},{"@pid":"00/2313","text":"Andy Collins"},{"@pid":"04/1809","text":"Eric Hoffman"},{"@pid":"04/1065","text":"John Snell"},{"@pid":"a/ThomasEAnderson","text":"Thomas E. Anderson"}]},"title":"The End-to-End Effects of Internet Path Selection.","venue":"SIGCOMM","pages":"289-299","year":"1999","type":"Conference and Workshop Papers","key":"conf/sigcomm/SavageCHSA99","doi":"10.1145/316188.316233","ee":"https://doi.org/10.1145/316188.316233","url":"https://dblp.org/rec/conf/sigcomm/SavageCHSA99"},
+"url":"URL#4845296"
+},
+{
+"@score":"1",
+"@id":"4845297",
+"info":{"authors":{"author":[{"@pid":"55/654","text":"Anees Shaikh"},{"@pid":"r/JenniferRexford","text":"Jennifer Rexford"},{"@pid":"s/KangGShin","text":"Kang G. Shin"}]},"title":"Load-Sensitive Routing of Long-Lived IP Flows.","venue":"SIGCOMM","pages":"215-226","year":"1999","type":"Conference and Workshop Papers","key":"conf/sigcomm/ShaikhRS99","doi":"10.1145/316188.316225","ee":"https://doi.org/10.1145/316188.316225","url":"https://dblp.org/rec/conf/sigcomm/ShaikhRS99"},
+"url":"URL#4845297"
+},
+{
+"@score":"1",
+"@id":"4845298",
+"info":{"authors":{"author":[{"@pid":"82/3920","text":"Clay Shields"},{"@pid":"g/JJGarciaLunaAceves","text":"J. J. Garcia-Luna-Aceves"}]},"title":"KHIP - A Scalable Protocol for Secure Multicast Routing.","venue":"SIGCOMM","pages":"53-64","year":"1999","type":"Conference and Workshop Papers","key":"conf/sigcomm/ShieldsG99","doi":"10.1145/316188.316206","ee":"https://doi.org/10.1145/316188.316206","url":"https://dblp.org/rec/conf/sigcomm/ShieldsG99"},
+"url":"URL#4845298"
+},
+{
+"@score":"1",
+"@id":"4845299",
+"info":{"authors":{"author":[{"@pid":"00/513","text":"Venkatachary Srinivasan"},{"@pid":"s/SubhashSuri","text":"Subhash Suri"},{"@pid":"v/GeorgeVarghese","text":"George Varghese"}]},"title":"Packet Classification Using Tuple Space Search.","venue":"SIGCOMM","pages":"135-146","year":"1999","type":"Conference and Workshop Papers","key":"conf/sigcomm/SrinivasanSV99","doi":"10.1145/316188.316216","ee":"https://doi.org/10.1145/316188.316216","url":"https://dblp.org/rec/conf/sigcomm/SrinivasanSV99"},
+"url":"URL#4845299"
+},
+{
+"@score":"1",
+"@id":"4845300",
+"info":{"authors":{"author":[{"@pid":"s/IonStoica","text":"Ion Stoica"},{"@pid":"z/HuiZhang1","text":"Hui Zhang 0001"}]},"title":"Providing Guaranteed Services without Per Flow Management.","venue":"SIGCOMM","pages":"81-94","year":"1999","type":"Conference and Workshop Papers","key":"conf/sigcomm/StoicaZ99","doi":"10.1145/316188.316208","ee":"https://doi.org/10.1145/316188.316208","url":"https://dblp.org/rec/conf/sigcomm/StoicaZ99"},
+"url":"URL#4845300"
+},
+{
+"@score":"1",
+"@id":"4845301",
+"info":{"authors":{"author":[{"@pid":"41/1207","text":"Srinivas Vutukury"},{"@pid":"g/JJGarciaLunaAceves","text":"J. J. Garcia-Luna-Aceves"}]},"title":"A Simple Approximation to Minimum-Delay Routing.","venue":"SIGCOMM","pages":"227-238","year":"1999","type":"Conference and Workshop Papers","key":"conf/sigcomm/VutukuryG99","doi":"10.1145/316188.316227","ee":"https://doi.org/10.1145/316188.316227","url":"https://dblp.org/rec/conf/sigcomm/VutukuryG99"},
+"url":"URL#4845301"
+},
+{
+"@score":"1",
+"@id":"4845302",
+"info":{"authors":{"author":[{"@pid":"41/6496","text":"Haobo Yu"},{"@pid":"18/4100","text":"Lee Breslau"},{"@pid":"34/5593","text":"Scott Shenker"}]},"title":"A Scalable Web Cache Consistency Architecture.","venue":"SIGCOMM","pages":"163-174","year":"1999","type":"Conference and Workshop Papers","key":"conf/sigcomm/YuBS99","doi":"10.1145/316188.316219","ee":"https://doi.org/10.1145/316188.316219","url":"https://dblp.org/rec/conf/sigcomm/YuBS99"},
+"url":"URL#4845302"
+},
+{
+"@score":"1",
+"@id":"4851491",
+"info":{"authors":{"author":[{"@pid":"51/3660","text":"Lyman Chapin"},{"@pid":"65/5400","text":"James P. G. Sterbenz"},{"@pid":"50/4579","text":"Guru M. Parulkar"},{"@pid":"t/JonathanSTurner","text":"Jonathan S. Turner"}]},"title":"Proceedings of the ACM SIGCOMM 1999 Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication, August 30 - September 3, 1999, Cambridge, Massachusetts, USA","venue":"SIGCOMM","publisher":"ACM","year":"1999","type":"Editorship","key":"conf/sigcomm/1999","doi":"10.1145/316188","ee":"https://doi.org/10.1145/316188","url":"https://dblp.org/rec/conf/sigcomm/1999"},
+"url":"URL#4851491"
+}
+]
+}
+}
+}

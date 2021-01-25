@@ -1,0 +1,164 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"osdi\"/\"osdi96\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"107.33"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"22",
+"@dc":"22",
+"@oc":"22",
+"@id":"17580808",
+"text":":facetid:toc:db/conf/osdi/osdi96.bht"
+}
+},
+"hits":{
+"@total":"22",
+"@computed":"22",
+"@sent":"22",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"5011984",
+"info":{"authors":{"author":[{"@pid":"b/JoseCarlosBrustoloni","text":"José Carlos Brustoloni"},{"@pid":"s/PeterSteenkiste","text":"Peter Steenkiste"}]},"title":"Effects of Buffering Semantics on I/O Performance.","venue":"OSDI","pages":"277-291","year":"1996","type":"Conference and Workshop Papers","key":"conf/osdi/BrustoloniS96","doi":"10.1145/238721.238787","ee":"https://doi.org/10.1145/238721.238787","url":"https://dblp.org/rec/conf/osdi/BrustoloniS96"},
+"url":"URL#5011984"
+},
+{
+"@score":"1",
+"@id":"5011985",
+"info":{"authors":{"author":[{"@pid":"51/1015","text":"Gregory D. Buzzard"},{"@pid":"34/293","text":"David Jacobson"},{"@pid":"92/1250","text":"Milon Mackey"},{"@pid":"95/5861","text":"Scott Marovich"},{"@pid":"w/JohnWilkes","text":"John Wilkes"}]},"title":"An Implementation of the Hamlyn Sender-Managed Interface Architecture.","venue":"OSDI","pages":"245-259","year":"1996","type":"Conference and Workshop Papers","key":"conf/osdi/BuzzardJMMW96","doi":"10.1145/238721.238784","ee":"https://doi.org/10.1145/238721.238784","url":"https://dblp.org/rec/conf/osdi/BuzzardJMMW96"},
+"url":"URL#5011985"
+},
+{
+"@score":"1",
+"@id":"5011986",
+"info":{"authors":{"author":[{"@pid":"35/6770","text":"Manuel Costa"},{"@pid":"88/3329","text":"Paulo Guedes"},{"@pid":"26/3256","text":"Manuel Sequeira"},{"@pid":"24/4061","text":"Nuno Neves 0001"},{"@pid":"181/2804","text":"Miguel Castro"}]},"title":"Lightweight Logging for Lazy Release Consistent Distributed Shared Memory.","venue":"OSDI","pages":"59-73","year":"1996","type":"Conference and Workshop Papers","key":"conf/osdi/CostaGSNC96","doi":"10.1145/238721.238762","ee":"https://doi.org/10.1145/238721.238762","url":"https://dblp.org/rec/conf/osdi/CostaGSNC96"},
+"url":"URL#5011986"
+},
+{
+"@score":"1",
+"@id":"5011987",
+"info":{"authors":{"author":[{"@pid":"d/PDruschel","text":"Peter Druschel"},{"@pid":"55/2641","text":"Gaurav Banga"}]},"title":"Lazy Receiver Processing (LRP) - A Network Subsystem Architecture for Server Systems.","venue":"OSDI","pages":"261-275","year":"1996","type":"Conference and Workshop Papers","key":"conf/osdi/DruschelB96","doi":"10.1145/238721.238786","ee":"https://doi.org/10.1145/238721.238786","url":"https://dblp.org/rec/conf/osdi/DruschelB96"},
+"url":"URL#5011987"
+},
+{
+"@score":"1",
+"@id":"5011988",
+"info":{"authors":{"author":[{"@pid":"e/YasuhiroEndo","text":"Yasuhiro Endo"},{"@pid":"181/2834","text":"Zheng Wang"},{"@pid":"40/5996","text":"J. Bradley Chen"},{"@pid":"s/MargoISeltzer","text":"Margo I. Seltzer"}]},"title":"Using Latency to Evaluate Interactive System Performance.","venue":"OSDI","pages":"185-199","year":"1996","type":"Conference and Workshop Papers","key":"conf/osdi/EndoWCS96","doi":"10.1145/238721.238775","ee":"https://doi.org/10.1145/238721.238775","url":"https://dblp.org/rec/conf/osdi/EndoWCS96"},
+"url":"URL#5011988"
+},
+{
+"@score":"1",
+"@id":"5011989",
+"info":{"authors":{"author":[{"@pid":"f/BryanFord","text":"Bryan Ford"},{"@pid":"h/MikeHibler","text":"Mike Hibler"},{"@pid":"l/JayLepreau","text":"Jay Lepreau"},{"@pid":"01/3094","text":"Patrick Tullmann"},{"@pid":"47/2634","text":"Godmar Back"},{"@pid":"48/3618","text":"Stephen Clawson"}]},"title":"Microkernels Meet Recursive Virtual Machines.","venue":"OSDI","pages":"137-151","year":"1996","type":"Conference and Workshop Papers","key":"conf/osdi/FordHLTBC96","doi":"10.1145/238721.238769","ee":"https://doi.org/10.1145/238721.238769","url":"https://dblp.org/rec/conf/osdi/FordHLTBC96"},
+"url":"URL#5011989"
+},
+{
+"@score":"1",
+"@id":"5011990",
+"info":{"authors":{"author":[{"@pid":"f/BryanFord","text":"Bryan Ford"},{"@pid":"59/5125","text":"Sai Susarla"}]},"title":"CPU Inheritance Scheduling.","venue":"OSDI","pages":"91-105","year":"1996","type":"Conference and Workshop Papers","key":"conf/osdi/FordS96","doi":"10.1145/238721.238765","ee":"https://doi.org/10.1145/238721.238765","url":"https://dblp.org/rec/conf/osdi/FordS96"},
+"url":"URL#5011990"
+},
+{
+"@score":"1",
+"@id":"5011991",
+"info":{"authors":{"author":[{"@pid":"77/2307","text":"Pawan Goyal"},{"@pid":"89/5643","text":"Xingang Guo"},{"@pid":"v/HarrickMVin","text":"Harrick M. Vin"}]},"title":"A Hierarchical CPU Scheduler for Multimedia Operating Systems.","venue":"OSDI","pages":"107-121","year":"1996","type":"Conference and Workshop Papers","key":"conf/osdi/GoyalGV96","doi":"10.1145/238721.238766","ee":"https://doi.org/10.1145/238721.238766","url":"https://dblp.org/rec/conf/osdi/GoyalGV96"},
+"url":"URL#5011991"
+},
+{
+"@score":"1",
+"@id":"5011992",
+"info":{"authors":{"author":[{"@pid":"g/MichaelBGreenwald","text":"Michael Greenwald"},{"@pid":"c/DRCheriton","text":"David R. Cheriton"}]},"title":"The Synergy Between Non-Blocking Synchronization and Operating System Structure.","venue":"OSDI","pages":"123-136","year":"1996","type":"Conference and Workshop Papers","key":"conf/osdi/GreenwaldC96","doi":"10.1145/238721.238767","ee":"https://doi.org/10.1145/238721.238767","url":"https://dblp.org/rec/conf/osdi/GreenwaldC96"},
+"url":"URL#5011992"
+},
+{
+"@score":"1",
+"@id":"5011993",
+"info":{"authors":{"author":[{"@pid":"38/3022","text":"Tracy Kimbrel"},{"@pid":"t/ATomkins","text":"Andrew Tomkins"},{"@pid":"31/1760","text":"R. Hugo Patterson"},{"@pid":"b/BNBershad","text":"Brian N. Bershad"},{"@pid":"87/3674","text":"Pei Cao"},{"@pid":"f/EdwardWFelten","text":"Edward W. Felten"},{"@pid":"g/GarthAGibson","text":"Garth A. Gibson"},{"@pid":"k/AnnaRKarlin","text":"Anna R. Karlin"},{"@pid":"l/KaiLi1","text":"Kai Li 0001"}]},"title":"A Trace-Driven Comparison of Algorithms for Parallel Prefetching and Caching.","venue":"OSDI","pages":"19-34","year":"1996","type":"Conference and Workshop Papers","key":"conf/osdi/KimbrelTPBCFGKL96","doi":"10.1145/238721.238737","ee":"https://doi.org/10.1145/238721.238737","url":"https://dblp.org/rec/conf/osdi/KimbrelTPBCFGKL96"},
+"url":"URL#5011993"
+},
+{
+"@score":"1",
+"@id":"5011994",
+"info":{"authors":{"author":{"@pid":"94/2654","text":"James G. Mitchell"}},"title":"JavaOS - Back to the Future (Abstract).","venue":"OSDI","pages":"1","year":"1996","type":"Conference and Workshop Papers","key":"conf/osdi/Mitchell96","doi":"10.1145/238721.238731","ee":"https://doi.org/10.1145/238721.238731","url":"https://dblp.org/rec/conf/osdi/Mitchell96"},
+"url":"URL#5011994"
+},
+{
+"@score":"1",
+"@id":"5011995",
+"info":{"authors":{"author":[{"@pid":"12/2629","text":"David Mosberger"},{"@pid":"p/LLPeterson","text":"Larry L. Peterson"}]},"title":"Making Paths Explicit in the Scout Operating System.","venue":"OSDI","pages":"153-167","year":"1996","type":"Conference and Workshop Papers","key":"conf/osdi/MosbergerP96","doi":"10.1145/238721.238771","ee":"https://doi.org/10.1145/238721.238771","url":"https://dblp.org/rec/conf/osdi/MosbergerP96"},
+"url":"URL#5011995"
+},
+{
+"@score":"1",
+"@id":"5011996",
+"info":{"authors":{"author":[{"@pid":"65/4120","text":"Todd C. Mowry"},{"@pid":"b/AngelaDemkeBrown","text":"Angela K. Demke"},{"@pid":"73/2727","text":"Orran Krieger"}]},"title":"Automatic Compiler-Inserted I/O Prefetching for Out-of-Core Applications.","venue":"OSDI","pages":"3-17","year":"1996","type":"Conference and Workshop Papers","key":"conf/osdi/MowryDK96","doi":"10.1145/238721.238734","ee":"https://doi.org/10.1145/238721.238734","url":"https://dblp.org/rec/conf/osdi/MowryDK96"},
+"url":"URL#5011996"
+},
+{
+"@score":"1",
+"@id":"5011997",
+"info":{"authors":{"author":[{"@pid":"n/GeorgeCNecula","text":"George C. Necula"},{"@pid":"l/PeterLee1","text":"Peter Lee 0001"}]},"title":"Safe Kernel Extensions Without Run-Time Checking.","venue":"OSDI","pages":"229-243","year":"1996","type":"Conference and Workshop Papers","key":"conf/osdi/NeculaL96","doi":"10.1145/238721.238781","ee":"https://doi.org/10.1145/238721.238781","url":"https://dblp.org/rec/conf/osdi/NeculaL96"},
+"url":"URL#5011997"
+},
+{
+"@score":"1",
+"@id":"5011998",
+"info":{"authors":{"author":[{"@pid":"79/5347","text":"Przemyslaw Pardyak"},{"@pid":"b/BNBershad","text":"Brian N. Bershad"}]},"title":"Dynamic Binding for an Extensible System.","venue":"OSDI","pages":"201-212","year":"1996","type":"Conference and Workshop Papers","key":"conf/osdi/PardyakB96","doi":"10.1145/238721.238777","ee":"https://doi.org/10.1145/238721.238777","url":"https://dblp.org/rec/conf/osdi/PardyakB96"},
+"url":"URL#5011998"
+},
+{
+"@score":"1",
+"@id":"5011999",
+"info":{"authors":{"author":[{"@pid":"15/4272","text":"Dejan Perkovic"},{"@pid":"k/PeterJKeleher","text":"Peter J. Keleher"}]},"title":"Online Data-Race Detection via Coherency Guarantees.","venue":"OSDI","pages":"47-57","year":"1996","type":"Conference and Workshop Papers","key":"conf/osdi/PerkovicK96","doi":"10.1145/238721.238760","ee":"https://doi.org/10.1145/238721.238760","url":"https://dblp.org/rec/conf/osdi/PerkovicK96"},
+"url":"URL#5011999"
+},
+{
+"@score":"1",
+"@id":"5012000",
+"info":{"authors":{"author":[{"@pid":"93/3664","text":"Sharon E. Perl"},{"@pid":"26/4692","text":"Richard L. Sites"}]},"title":"Studies of Windows NT Performance Using Dynamic Execution Traces.","venue":"OSDI","pages":"169-183","year":"1996","type":"Conference and Workshop Papers","key":"conf/osdi/PerlS96","doi":"10.1145/238721.238773","ee":"https://doi.org/10.1145/238721.238773","url":"https://dblp.org/rec/conf/osdi/PerlS96"},
+"url":"URL#5012000"
+},
+{
+"@score":"1",
+"@id":"5012001",
+"info":{"authors":{"author":[{"@pid":"03/2866","text":"Prasenjit Sarkar"},{"@pid":"h/JohnHHartman","text":"John H. Hartman"}]},"title":"Efficient Cooperative Caching Using Hints.","venue":"OSDI","pages":"35-46","year":"1996","type":"Conference and Workshop Papers","key":"conf/osdi/SarkarH96","doi":"10.1145/238721.238741","ee":"https://doi.org/10.1145/238721.238741","url":"https://dblp.org/rec/conf/osdi/SarkarH96"},
+"url":"URL#5012001"
+},
+{
+"@score":"1",
+"@id":"5012002",
+"info":{"authors":{"author":[{"@pid":"s/MargoISeltzer","text":"Margo I. Seltzer"},{"@pid":"e/YasuhiroEndo","text":"Yasuhiro Endo"},{"@pid":"s/ChristopherSmall","text":"Christopher Small"},{"@pid":"s/KeithASmith","text":"Keith A. Smith"}]},"title":"Dealing with Disaster - Surviving Misbehaved Kernel Extensions.","venue":"OSDI","pages":"213-227","year":"1996","type":"Conference and Workshop Papers","key":"conf/osdi/SeltzerESS96","doi":"10.1145/238721.238779","ee":"https://doi.org/10.1145/238721.238779","url":"https://dblp.org/rec/conf/osdi/SeltzerESS96"},
+"url":"URL#5012002"
+},
+{
+"@score":"1",
+"@id":"5012003",
+"info":{"authors":{"author":{"@pid":"39/547","text":"David L. Tennenhouse"}},"title":"Active Networks (Abstract).","venue":"OSDI","pages":"89","year":"1996","type":"Conference and Workshop Papers","key":"conf/osdi/Tennenhouse96","doi":"10.1145/238721.238764","ee":"https://doi.org/10.1145/238721.238764","url":"https://dblp.org/rec/conf/osdi/Tennenhouse96"},
+"url":"URL#5012003"
+},
+{
+"@score":"1",
+"@id":"5012004",
+"info":{"authors":{"author":[{"@pid":"99/2747-1","text":"Yuanyuan Zhou 0001"},{"@pid":"25/5411","text":"Liviu Iftode"},{"@pid":"l/KaiLi1","text":"Kai Li 0001"}]},"title":"Performance Evaluation of Two Home-Based Lazy Release Consistency Protocols for Shared Virtual Memory Systems.","venue":"OSDI","pages":"75-88","year":"1996","type":"Conference and Workshop Papers","key":"conf/osdi/ZhouIL96","doi":"10.1145/238721.238763","ee":"https://doi.org/10.1145/238721.238763","url":"https://dblp.org/rec/conf/osdi/ZhouIL96"},
+"url":"URL#5012004"
+},
+{
+"@score":"1",
+"@id":"5018115",
+"info":{"authors":{"author":[{"@pid":"81/1825","text":"Karin Petersen"},{"@pid":"z/WZwaenepoel","text":"Willy Zwaenepoel"}]},"title":"Proceedings of the Second USENIX Symposium on Operating Systems Design and Implementation (OSDI), Seattle, Washington, USA, October 28-31, 1996","venue":"OSDI","publisher":"ACM","year":"1996","type":"Editorship","key":"conf/osdi/1996","url":"https://dblp.org/rec/conf/osdi/1996"},
+"url":"URL#5018115"
+}
+]
+}
+}
+}

@@ -1,0 +1,506 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"sigcomm\"/\"sigcomm2016\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"133.09"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"79",
+"@dc":"79",
+"@oc":"79",
+"@id":"17586213",
+"text":":facetid:toc:db/conf/sigcomm/sigcomm2016.bht"
+}
+},
+"hits":{
+"@total":"79",
+"@computed":"79",
+"@sent":"79",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"1723352",
+"info":{"authors":{"author":[{"@pid":"173/6000","text":"Yousef Amar"},{"@pid":"33/5454","text":"Hamed Haddadi"},{"@pid":"28/5155","text":"Richard Mortier"}]},"title":"Privacy-Aware Infrastructure for Managing Personal Data.","venue":"SIGCOMM","pages":"571-572","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/AmarHM16","doi":"10.1145/2934872.2959054","ee":"https://doi.org/10.1145/2934872.2959054","url":"https://dblp.org/rec/conf/sigcomm/AmarHM16"},
+"url":"URL#1723352"
+},
+{
+"@score":"1",
+"@id":"1723353",
+"info":{"authors":{"author":[{"@pid":"173/5006","text":"Mina Tahmasbi Arashloo"},{"@pid":"04/7891","text":"Yaron Koral"},{"@pid":"06/4387","text":"Michael Greenberg 0002"},{"@pid":"r/JenniferRexford","text":"Jennifer Rexford"},{"@pid":"53/5714","text":"David Walker"}]},"title":"SNAP - Stateful Network-Wide Abstractions for Packet Processing.","venue":"SIGCOMM","pages":"29-43","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/ArashlooK0RW16","doi":"10.1145/2934872.2934892","ee":"https://doi.org/10.1145/2934872.2934892","url":"https://dblp.org/rec/conf/sigcomm/ArashlooK0RW16"},
+"url":"URL#1723353"
+},
+{
+"@score":"1",
+"@id":"1723355",
+"info":{"authors":{"author":[{"@pid":"126/1063","text":"Behnaz Arzani"},{"@pid":"62/306","text":"Selim Ciraci"},{"@pid":"75/3108","text":"Boon Thau Loo"},{"@pid":"s/AssafSchuster","text":"Assaf Schuster"},{"@pid":"151/3220","text":"Geoff Outhred"}]},"title":"Taking the Blame Game out of Data Centers Operations with NetPoirot.","venue":"SIGCOMM","pages":"440-453","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/ArzaniCLSO16","doi":"10.1145/2934872.2934884","ee":"https://doi.org/10.1145/2934872.2934884","url":"https://dblp.org/rec/conf/sigcomm/ArzaniCLSO16"},
+"url":"URL#1723355"
+},
+{
+"@score":"1",
+"@id":"1723359",
+"info":{"authors":{"author":[{"@pid":"58/874","text":"Mario Baldi"},{"@pid":"163/5447","text":"Roberto Bonafiglia"},{"@pid":"49/1360","text":"Fulvio Risso"},{"@pid":"155/9504","text":"Amedeo Sapio"}]},"title":"Modeling Native Software Components as Virtual Network Functions.","venue":"SIGCOMM","pages":"605-606","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/BaldiBRS16","doi":"10.1145/2934872.2959069","ee":"https://doi.org/10.1145/2934872.2959069","url":"https://dblp.org/rec/conf/sigcomm/BaldiBRS16"},
+"url":"URL#1723359"
+},
+{
+"@score":"1",
+"@id":"1723360",
+"info":{"authors":{"author":[{"@pid":"161/6041","text":"Ryan Beckett"},{"@pid":"81/6327","text":"Ratul Mahajan"},{"@pid":"93/4679","text":"Todd D. Millstein"},{"@pid":"p/JPadhye","text":"Jitendra Padhye"},{"@pid":"53/5714","text":"David Walker"}]},"title":"Don&apos;t Mind the Gap - Bridging Network-wide Objectives and Device-level Configurations.","venue":"SIGCOMM","pages":"328-341","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/BeckettMMPW16","doi":"10.1145/2934872.2934909","ee":"https://doi.org/10.1145/2934872.2934909","url":"https://dblp.org/rec/conf/sigcomm/BeckettMMPW16"},
+"url":"URL#1723360"
+},
+{
+"@score":"1",
+"@id":"1723363",
+"info":{"authors":{"author":[{"@pid":"184/0426","text":"Mauricio Vásquez Bernal"},{"@pid":"142/4849","text":"Ivano Cerrato"},{"@pid":"49/1360","text":"Fulvio Risso"},{"@pid":"170/6849","text":"David Verbeiren"}]},"title":"A Transparent Highway for inter-Virtual Network Function Communication with Open vSwitch.","venue":"SIGCOMM","pages":"603-604","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/BernalCRV16","doi":"10.1145/2934872.2959068","ee":"https://doi.org/10.1145/2934872.2959068","url":"https://dblp.org/rec/conf/sigcomm/BernalCRV16"},
+"url":"URL#1723363"
+},
+{
+"@score":"1",
+"@id":"1723365",
+"info":{"authors":{"author":[{"@pid":"b/ABremlerBarr","text":"Anat Bremler-Barr"},{"@pid":"08/9995","text":"Yotam Harchol"},{"@pid":"97/2867","text":"David Hay"}]},"title":"OpenBox - A Software-Defined Framework for Developing, Deploying, and Managing Network Functions.","venue":"SIGCOMM","pages":"511-524","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/Bremler-BarrHH16","doi":"10.1145/2934872.2934875","ee":"https://doi.org/10.1145/2934872.2934875","url":"https://dblp.org/rec/conf/sigcomm/Bremler-BarrHH16"},
+"url":"URL#1723365"
+},
+{
+"@score":"1",
+"@id":"1723369",
+"info":{"authors":{"author":[{"@pid":"146/7897","text":"Liqiong Chang"},{"@pid":"75/198-1","text":"Jie Xiong 0001"},{"@pid":"95/10521","text":"Xiaojiang Chen"},{"@pid":"65/4124-3","text":"Ju Wang 0003"},{"@pid":"05/3941","text":"Junhao Hu"},{"@pid":"80/3909","text":"Dingyi Fang"},{"@pid":"35/7092-56","text":"Wei Wang 0056"}]},"title":"TafLoc - Time-adaptive and Fine-grained Device-free Localization with Little Cost.","venue":"SIGCOMM","pages":"563-564","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/ChangXCWHFW16","doi":"10.1145/2934872.2959051","ee":"https://doi.org/10.1145/2934872.2959051","url":"https://dblp.org/rec/conf/sigcomm/ChangXCWHFW16"},
+"url":"URL#1723369"
+},
+{
+"@score":"1",
+"@id":"1723370",
+"info":{"authors":{"author":[{"@pid":"184/0551","text":"Gavriil Chaviaras"},{"@pid":"159/4596","text":"Petros Gigis"},{"@pid":"128/5106","text":"Pavlos Sermpezis"},{"@pid":"88/3080","text":"Xenofontas A. Dimitropoulos"}]},"title":"ARTEMIS - Real-Time Detection and Automatic Mitigation for BGP Prefix Hijacking.","venue":"SIGCOMM","pages":"625-626","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/ChaviarasGSD16","doi":"10.1145/2934872.2959078","ee":"https://doi.org/10.1145/2934872.2959078","url":"https://dblp.org/rec/conf/sigcomm/ChaviarasGSD16"},
+"url":"URL#1723370"
+},
+{
+"@score":"1",
+"@id":"1723371",
+"info":{"authors":{"author":[{"@pid":"c/LiChen8","text":"Li Chen 0008"},{"@pid":"c/KaiChen5","text":"Kai Chen 0005"},{"@pid":"45/661-1","text":"Wei Bai 0001"},{"@pid":"37/8397","text":"Mohammad Alizadeh"}]},"title":"Scheduling Mix-flows in Commodity Datacenters with Karuna.","venue":"SIGCOMM","pages":"174-187","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/Chen00A16","doi":"10.1145/2934872.2934888","ee":"https://doi.org/10.1145/2934872.2934888","url":"https://dblp.org/rec/conf/sigcomm/Chen00A16"},
+"url":"URL#1723371"
+},
+{
+"@score":"1",
+"@id":"1723373",
+"info":{"authors":{"author":[{"@pid":"59/146","text":"Ang Chen"},{"@pid":"56/1428","text":"Yang Wu"},{"@pid":"60/4358","text":"Andreas Haeberlen"},{"@pid":"72/1077","text":"Wenchao Zhou"},{"@pid":"75/3108","text":"Boon Thau Loo"}]},"title":"The Good, the Bad, and the Differences - Better Network Diagnostics with Differential Provenance.","venue":"SIGCOMM","pages":"115-128","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/ChenWHZL16","doi":"10.1145/2934872.2934910","ee":"https://doi.org/10.1145/2934872.2934910","url":"https://dblp.org/rec/conf/sigcomm/ChenWHZL16"},
+"url":"URL#1723373"
+},
+{
+"@score":"1",
+"@id":"1723374",
+"info":{"authors":{"author":[{"@pid":"162/5250","text":"Byungkwon Choi"},{"@pid":"82/5577","text":"Jeongmin Kim"},{"@pid":"12/5388","text":"Dongsu Han"}]},"title":"Application-specific Acceleration Framework for Mobile Applications.","venue":"SIGCOMM","pages":"559-560","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/ChoiKH16","doi":"10.1145/2934872.2959049","ee":"https://doi.org/10.1145/2934872.2959049","url":"https://dblp.org/rec/conf/sigcomm/ChoiKH16"},
+"url":"URL#1723374"
+},
+{
+"@score":"1",
+"@id":"1723375",
+"info":{"authors":{"author":[{"@pid":"69/3629","text":"Avichai Cohen"},{"@pid":"84/7357","text":"Yossi Gilad"},{"@pid":"62/3150","text":"Amir Herzberg"},{"@pid":"15/5634","text":"Michael Schapira"}]},"title":"Jumpstarting BGP Security with Path-End Validation.","venue":"SIGCOMM","pages":"342-355","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/CohenGHS16","doi":"10.1145/2934872.2934883","ee":"https://doi.org/10.1145/2934872.2934883","url":"https://dblp.org/rec/conf/sigcomm/CohenGHS16"},
+"url":"URL#1723375"
+},
+{
+"@score":"1",
+"@id":"1723376",
+"info":{"authors":{"author":[{"@pid":"127/9376","text":"Bryce Cronkite-Ratcliff"},{"@pid":"56/4995","text":"Aran Bergman"},{"@pid":"183/0710","text":"Shay Vargaftik"},{"@pid":"184/0444","text":"Madhusudhan Ravi"},{"@pid":"m/NickMcKeown","text":"Nick McKeown"},{"@pid":"36/5720","text":"Ittai Abraham"},{"@pid":"68/2276","text":"Isaac Keslassy"}]},"title":"Virtualized Congestion Control.","venue":"SIGCOMM","pages":"230-243","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/Cronkite-Ratcliff16","doi":"10.1145/2934872.2934889","ee":"https://doi.org/10.1145/2934872.2934889","url":"https://dblp.org/rec/conf/sigcomm/Cronkite-Ratcliff16"},
+"url":"URL#1723376"
+},
+{
+"@score":"1",
+"@id":"1723377",
+"info":{"authors":{"author":[{"@pid":"154/8209","text":"Richard Cziva"},{"@pid":"139/1448","text":"Simon Jouet"},{"@pid":"49/1051","text":"Dimitrios P. Pezaros"}]},"title":"Roaming Edge vNFs using Glasgow Network Functions.","venue":"SIGCOMM","pages":"601-602","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/CzivaJP16","doi":"10.1145/2934872.2959067","ee":"https://doi.org/10.1145/2934872.2959067","url":"https://dblp.org/rec/conf/sigcomm/CzivaJP16"},
+"url":"URL#1723377"
+},
+{
+"@score":"1",
+"@id":"1723380",
+"info":{"authors":{"author":[{"@pid":"126/2313","text":"Anne Edmundson"},{"@pid":"24/973","text":"Roya Ensafi"},{"@pid":"87/840","text":"Nick Feamster"},{"@pid":"r/JenniferRexford","text":"Jennifer Rexford"}]},"title":"A First Look into Transnational Routing Detours.","venue":"SIGCOMM","pages":"567-568","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/EdmundsonEFR16","doi":"10.1145/2934872.2959081","ee":"https://doi.org/10.1145/2934872.2959081","url":"https://dblp.org/rec/conf/sigcomm/EdmundsonEFR16"},
+"url":"URL#1723380"
+},
+{
+"@score":"1",
+"@id":"1723381",
+"info":{"authors":{"author":[{"@pid":"119/6754","text":"Elverton C. Fazzion"},{"@pid":"80/186","text":"Ítalo Cunha"},{"@pid":"n/DorgivalOlavoGuedesNeto","text":"Dorgival O. Guedes"},{"@pid":"m/WagnerMeiraJr","text":"Wagner Meira Jr."},{"@pid":"64/4885","text":"Renata Teixeira"},{"@pid":"05/226","text":"Darryl Veitch"},{"@pid":"98/739","text":"Christophe Diot"}]},"title":"Efficient Remapping of Internet Routing Events.","venue":"SIGCOMM","pages":"565-566","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/FazzionCGMTVD16","doi":"10.1145/2934872.2959052","ee":"https://doi.org/10.1145/2934872.2959052","url":"https://dblp.org/rec/conf/sigcomm/FazzionCGMTVD16"},
+"url":"URL#1723381"
+},
+{
+"@score":"1",
+"@id":"1723382",
+"info":{"authors":{"author":[{"@pid":"157/3032","text":"Eder Leão Fernandes"},{"@pid":"00/4948","text":"Gianni Antichi"},{"@pid":"99/11343","text":"Ignacio Castro"},{"@pid":"87/6218","text":"Steve Uhlig"}]},"title":"Horse - towards an SDN traffic dynamics simulator for large scale networks.","venue":"SIGCOMM","pages":"577-578","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/FernandesACU16","doi":"10.1145/2934872.2959082","ee":"https://doi.org/10.1145/2934872.2959082","url":"https://dblp.org/rec/conf/sigcomm/FernandesACU16"},
+"url":"URL#1723382"
+},
+{
+"@score":"1",
+"@id":"1723383",
+"info":{"authors":{"author":[{"@pid":"62/10521","text":"Tobias Flach"},{"@pid":"57/7540","text":"Pavlos Papageorge"},{"@pid":"12/6664","text":"Andreas Terzis"},{"@pid":"41/7401","text":"Luis Pedrosa"},{"@pid":"85/8634","text":"Yuchung Cheng"},{"@pid":"184/0301","text":"Tayeb Karim"},{"@pid":"66/2080","text":"Ethan Katz-Bassett"},{"@pid":"g/RameshGovindan","text":"Ramesh Govindan"}]},"title":"An Internet-Wide Analysis of Traffic Policing.","venue":"SIGCOMM","pages":"468-482","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/FlachPTPCKKG16","doi":"10.1145/2934872.2934873","ee":"https://doi.org/10.1145/2934872.2934873","url":"https://dblp.org/rec/conf/sigcomm/FlachPTPCKKG16"},
+"url":"URL#1723383"
+},
+{
+"@score":"1",
+"@id":"1723384",
+"info":{"authors":{"author":[{"@pid":"170/5555","text":"Ramon dos Reis Fontes"},{"@pid":"70/2654","text":"Christian Esteve Rothenberg"}]},"title":"Mininet-WiFi - A Platform for Hybrid Physical-Virtual Software-Defined Wireless Networking Research.","venue":"SIGCOMM","pages":"607-608","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/FontesR16","doi":"10.1145/2934872.2959070","ee":"https://doi.org/10.1145/2934872.2959070","url":"https://dblp.org/rec/conf/sigcomm/FontesR16"},
+"url":"URL#1723384"
+},
+{
+"@score":"1",
+"@id":"1723386",
+"info":{"authors":{"author":[{"@pid":"150/5452","text":"Alexander Frömmgen"},{"@pid":"156/5430","text":"Denny Stohr"},{"@pid":"184/0259","text":"Jan Fornoff"},{"@pid":"e/WEffelsberg","text":"Wolfgang Effelsberg"},{"@pid":"b/APBuchmann","text":"Alejandro P. Buchmann"}]},"title":"Capture and Replay - Reproducible Network Experiments in Mininet.","venue":"SIGCOMM","pages":"621-622","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/FrommgenSFEB16","doi":"10.1145/2934872.2959076","ee":"https://doi.org/10.1145/2934872.2959076","url":"https://dblp.org/rec/conf/sigcomm/FrommgenSFEB16"},
+"url":"URL#1723386"
+},
+{
+"@score":"1",
+"@id":"1723387",
+"info":{"authors":{"author":[{"@pid":"12/4000","text":"Kai Gao"},{"@pid":"30/433","text":"Chen Gu"},{"@pid":"77/7791","text":"Qiao Xiang"},{"@pid":"y/YangRichardYang","text":"Yang Richard Yang"},{"@pid":"79/3662","text":"Jun Bi"}]},"title":"FAST - A Simple Programming Abstraction for Complex State-Dependent SDN Programming.","venue":"SIGCOMM","pages":"579-580","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/GaoGXYB16","doi":"10.1145/2934872.2960424","ee":"https://doi.org/10.1145/2934872.2960424","url":"https://dblp.org/rec/conf/sigcomm/GaoGXYB16"},
+"url":"URL#1723387"
+},
+{
+"@score":"1",
+"@id":"1723388",
+"info":{"authors":{"author":[{"@pid":"07/9556","text":"Aaron Gember-Jacobson"},{"@pid":"44/8262","text":"Raajay Viswanathan"},{"@pid":"a/AdityaAkella","text":"Aditya Akella"},{"@pid":"81/6327","text":"Ratul Mahajan"}]},"title":"Fast Control Plane Analysis Using an Abstract Representation.","venue":"SIGCOMM","pages":"300-313","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/Gember-Jacobson16","doi":"10.1145/2934872.2934876","ee":"https://doi.org/10.1145/2934872.2934876","url":"https://dblp.org/rec/conf/sigcomm/Gember-Jacobson16"},
+"url":"URL#1723388"
+},
+{
+"@score":"1",
+"@id":"1723389",
+"info":{"authors":{"author":[{"@pid":"37/1704","text":"Monia Ghobadi"},{"@pid":"81/6327","text":"Ratul Mahajan"},{"@pid":"14/877","text":"Amar Phanishayee"},{"@pid":"48/3493","text":"Nikhil R. Devanur"},{"@pid":"54/1978","text":"Janardhan Kulkarni"},{"@pid":"60/11151","text":"Gireeja Ranade"},{"@pid":"184/0464","text":"Pierre-Alexandre Blanche"},{"@pid":"19/7911","text":"Houman Rastegarfar"},{"@pid":"80/3204","text":"Madeleine Glick"},{"@pid":"39/367","text":"Daniel C. Kilper"}]},"title":"ProjecToR - Agile Reconfigurable Data Center Interconnect.","venue":"SIGCOMM","pages":"216-229","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/GhobadiMPDKRBRG16","doi":"10.1145/2934872.2934911","ee":"https://doi.org/10.1145/2934872.2934911","url":"https://dblp.org/rec/conf/sigcomm/GhobadiMPDKRBRG16"},
+"url":"URL#1723389"
+},
+{
+"@score":"1",
+"@id":"1723390",
+"info":{"authors":{"author":[{"@pid":"156/0162","text":"Dimitrios Gkounis"},{"@pid":"27/6182","text":"Felix Klaedtke"},{"@pid":"81/8239","text":"Roberto Bifulco"},{"@pid":"36/1531","text":"Ghassan O. Karame"}]},"title":"Cases for Including a Reference Monitor to SDN.","venue":"SIGCOMM","pages":"599-600","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/GkounisKBK16","doi":"10.1145/2934872.2959066","ee":"https://doi.org/10.1145/2934872.2959066","url":"https://dblp.org/rec/conf/sigcomm/GkounisKBK16"},
+"url":"URL#1723390"
+},
+{
+"@score":"1",
+"@id":"1723392",
+"info":{"authors":{"author":[{"@pid":"g/RameshGovindan","text":"Ramesh Govindan"},{"@pid":"138/3651","text":"Ina Minei"},{"@pid":"10/4018","text":"Mahesh Kallahalla"},{"@pid":"50/10924","text":"Bikash Koley"},{"@pid":"v/AminVahdat","text":"Amin Vahdat"}]},"title":"Evolve or Die - High-Availability Design Principles Drawn from Googles Network Infrastructure.","venue":"SIGCOMM","pages":"58-72","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/GovindanMKKV16","doi":"10.1145/2934872.2934891","ee":"https://doi.org/10.1145/2934872.2934891","url":"https://dblp.org/rec/conf/sigcomm/GovindanMKKV16"},
+"url":"URL#1723392"
+},
+{
+"@score":"1",
+"@id":"1723393",
+"info":{"authors":{"author":[{"@pid":"95/4962","text":"Chuanxiong Guo"},{"@pid":"96/1582","text":"Haitao Wu"},{"@pid":"47/1210","text":"Zhong Deng"},{"@pid":"132/8936","text":"Gaurav Soni"},{"@pid":"184/0340","text":"Jianxi Ye"},{"@pid":"p/JPadhye","text":"Jitu Padhye"},{"@pid":"09/5333","text":"Marina Lipshteyn"}]},"title":"RDMA over Commodity Ethernet at Scale.","venue":"SIGCOMM","pages":"202-215","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/GuoWDSYPL16","doi":"10.1145/2934872.2934908","ee":"https://doi.org/10.1145/2934872.2934908","url":"https://dblp.org/rec/conf/sigcomm/GuoWDSYPL16"},
+"url":"URL#1723393"
+},
+{
+"@score":"1",
+"@id":"1723394",
+"info":{"authors":{"author":[{"@pid":"148/1935","text":"Ezzeldin Hamed"},{"@pid":"54/75","text":"Hariharan Rahul"},{"@pid":"166/6973","text":"Mohammed A. Abdelghany"},{"@pid":"k/DinaKatabi","text":"Dina Katabi"}]},"title":"Real-time Distributed MIMO Systems.","venue":"SIGCOMM","pages":"412-425","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/HamedRAK16","doi":"10.1145/2934872.2934905","ee":"https://doi.org/10.1145/2934872.2934905","url":"https://dblp.org/rec/conf/sigcomm/HamedRAK16"},
+"url":"URL#1723394"
+},
+{
+"@score":"1",
+"@id":"1723395",
+"info":{"authors":{"author":[{"@pid":"34/9081","text":"Seppo Hätönen"},{"@pid":"78/473","text":"Petri Savolainen"},{"@pid":"43/1348","text":"Ashwin Rao"},{"@pid":"24/6842","text":"Hannu Flinck"},{"@pid":"66/5629","text":"Sasu Tarkoma"}]},"title":"Off-the-Shelf Software-defined Wi-Fi Networks.","venue":"SIGCOMM","pages":"609-610","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/HatonenSRFT16","doi":"10.1145/2934872.2959071","ee":"https://doi.org/10.1145/2934872.2959071","url":"https://dblp.org/rec/conf/sigcomm/HatonenSRFT16"},
+"url":"URL#1723395"
+},
+{
+"@score":"1",
+"@id":"1723396",
+"info":{"authors":{"author":[{"@pid":"95/1050","text":"Keqiang He"},{"@pid":"10/6034","text":"Eric Rozner"},{"@pid":"29/42","text":"Kanak Agarwal"},{"@pid":"15/4208-1","text":"Yu (Jason) Gu"},{"@pid":"02/7018","text":"Wes Felter"},{"@pid":"c/JohnBCarter","text":"John B. Carter"},{"@pid":"a/AdityaAkella","text":"Aditya Akella"}]},"title":"AC/DC TCP - Virtual Congestion Control Enforcement for Datacenter Networks.","venue":"SIGCOMM","pages":"244-257","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/HeRAGFCA16","doi":"10.1145/2934872.2934903","ee":"https://doi.org/10.1145/2934872.2934903","url":"https://dblp.org/rec/conf/sigcomm/HeRAGFCA16"},
+"url":"URL#1723396"
+},
+{
+"@score":"1",
+"@id":"1723398",
+"info":{"authors":{"author":[{"@pid":"96/3740","text":"Pan Hu"},{"@pid":"33/4816","text":"Pengyu Zhang"},{"@pid":"83/9890","text":"Mohammad Rostami"},{"@pid":"g/DeepakGanesan","text":"Deepak Ganesan"}]},"title":"Braidio - An Integrated Active-Passive Radio for Mobile Devices with Asymmetric Energy Budgets.","venue":"SIGCOMM","pages":"384-397","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/HuZRG16","doi":"10.1145/2934872.2934902","ee":"https://doi.org/10.1145/2934872.2934902","url":"https://dblp.org/rec/conf/sigcomm/HuZRG16"},
+"url":"URL#1723398"
+},
+{
+"@score":"1",
+"@id":"1723399",
+"info":{"authors":{"author":[{"@pid":"179/4839","text":"Vikram Iyer"},{"@pid":"132/8491","text":"Vamsi Talla"},{"@pid":"149/9282","text":"Bryce Kellogg"},{"@pid":"63/3113","text":"Shyamnath Gollakota"},{"@pid":"s/JoshuaRSmith","text":"Joshua R. Smith 0001"}]},"title":"Inter-Technology Backscatter - Towards Internet Connectivity for Implanted Devices.","venue":"SIGCOMM","pages":"356-369","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/IyerTKGS16","doi":"10.1145/2934872.2934894","ee":"https://doi.org/10.1145/2934872.2934894","url":"https://dblp.org/rec/conf/sigcomm/IyerTKGS16"},
+"url":"URL#1723399"
+},
+{
+"@score":"1",
+"@id":"1723400",
+"info":{"authors":{"author":[{"@pid":"95/8329","text":"Virajith Jalaparti"},{"@pid":"118/7155","text":"Ivan Bliznets"},{"@pid":"k/SrikanthKandula","text":"Srikanth Kandula"},{"@pid":"09/6191","text":"Brendan Lucier"},{"@pid":"65/5280","text":"Ishai Menache"}]},"title":"Dynamic Pricing and Traffic Engineering for Timely Inter-Datacenter Transfers.","venue":"SIGCOMM","pages":"73-86","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/JalapartiBKLM16","doi":"10.1145/2934872.2934893","ee":"https://doi.org/10.1145/2934872.2934893","url":"https://dblp.org/rec/conf/sigcomm/JalapartiBKLM16"},
+"url":"URL#1723400"
+},
+{
+"@score":"1",
+"@id":"1723401",
+"info":{"authors":{"author":[{"@pid":"129/4907","text":"Seong Hoon Jeong"},{"@pid":"45/9975","text":"Ah Reum Kang"},{"@pid":"69/4977","text":"Joongheon Kim"},{"@pid":"82/7427","text":"Huy Kang Kim"},{"@pid":"70/2832","text":"Aziz Mohaisen"}]},"title":"A Longitudinal Analysis of .i2p Leakage in the Public DNS Infrastructure.","venue":"SIGCOMM","pages":"557-558","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/JeongKKKM16","doi":"10.1145/2934872.2960423","ee":"https://doi.org/10.1145/2934872.2960423","url":"https://dblp.org/rec/conf/sigcomm/JeongKKKM16"},
+"url":"URL#1723401"
+},
+{
+"@score":"1",
+"@id":"1723402",
+"info":{"authors":{"author":[{"@pid":"49/8398","text":"Junchen Jiang"},{"@pid":"177/2107","text":"Rajdeep Das"},{"@pid":"08/5351","text":"Ganesh Ananthanarayanan"},{"@pid":"c/PhilipAChou","text":"Philip A. Chou"},{"@pid":"p/VenkataNPadmanabhan","text":"Venkat N. Padmanabhan"},{"@pid":"45/4044","text":"Vyas Sekar"},{"@pid":"184/0158","text":"Esbjorn Dominique"},{"@pid":"184/0412","text":"Marcin Goliszewski"},{"@pid":"184/0495","text":"Dalibor Kukoleca"},{"@pid":"70/1935","text":"Renat Vafin"},{"@pid":"z/HuiZhang1","text":"Hui Zhang 0001"}]},"title":"Via - Improving Internet Telephony Call Quality Using Predictive Relay Selection.","venue":"SIGCOMM","pages":"286-299","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/JiangDACPSDGKV016","doi":"10.1145/2934872.2934907","ee":"https://doi.org/10.1145/2934872.2934907","url":"https://dblp.org/rec/conf/sigcomm/JiangDACPSDGKV016"},
+"url":"URL#1723402"
+},
+{
+"@score":"1",
+"@id":"1723403",
+"info":{"authors":{"author":[{"@pid":"01/7909","text":"Yurong Jiang"},{"@pid":"22/4453","text":"Lenin Ravindranath Sivalingam"},{"@pid":"85/6293","text":"Suman Nath"},{"@pid":"g/RameshGovindan","text":"Ramesh Govindan"}]},"title":"WebPerf - Evaluating What-If Scenarios for Cloud-hosted Web Applications.","venue":"SIGCOMM","pages":"258-271","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/JiangSNG16","doi":"10.1145/2934872.2934882","ee":"https://doi.org/10.1145/2934872.2934882","url":"https://dblp.org/rec/conf/sigcomm/JiangSNG16"},
+"url":"URL#1723403"
+},
+{
+"@score":"1",
+"@id":"1723404",
+"info":{"authors":{"author":[{"@pid":"68/3340-8","text":"Xin Jin 0008"},{"@pid":"14/9145","text":"Yiran Li"},{"@pid":"63/512","text":"Da Wei"},{"@pid":"70/9659","text":"Siming Li"},{"@pid":"181/2794","text":"Jie Gao"},{"@pid":"19/360","text":"Lei Xu"},{"@pid":"43/417","text":"Guangzhi Li"},{"@pid":"32/1213","text":"Wei Xu"},{"@pid":"r/JenniferRexford","text":"Jennifer Rexford"}]},"title":"Optimizing Bulk Transfers with Software-Defined Optical WAN.","venue":"SIGCOMM","pages":"87-100","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/JinLWLGXLXR16","doi":"10.1145/2934872.2934904","ee":"https://doi.org/10.1145/2934872.2934904","url":"https://dblp.org/rec/conf/sigcomm/JinLWLGXLXR16"},
+"url":"URL#1723404"
+},
+{
+"@score":"1",
+"@id":"1723408",
+"info":{"authors":{"author":[{"@pid":"78/8261","text":"Sándor Laki"},{"@pid":"24/7577","text":"Dániel Horpácsi"},{"@pid":"132/6357","text":"Peter Vörös"},{"@pid":"80/2301","text":"Róbert Kitlei"},{"@pid":"136/6732","text":"Dániel Leskó"},{"@pid":"86/6309","text":"Máté Tejfel"}]},"title":"High speed packet forwarding compiled from protocol independent data plane specifications.","venue":"SIGCOMM","pages":"629-630","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/LakiHVKLT16","doi":"10.1145/2934872.2959080","ee":"https://doi.org/10.1145/2934872.2959080","url":"https://dblp.org/rec/conf/sigcomm/LakiHVKLT16"},
+"url":"URL#1723408"
+},
+{
+"@score":"1",
+"@id":"1723410",
+"info":{"authors":{"author":[{"@pid":"121/1847","text":"Ki-Suh Lee"},{"@pid":"67/1771-9","text":"Han Wang 0009"},{"@pid":"139/9079","text":"Vishal Shrivastav"},{"@pid":"w/HakimWeatherspoon","text":"Hakim Weatherspoon"}]},"title":"Globally Synchronized Time via Datacenter Networks.","venue":"SIGCOMM","pages":"454-467","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/LeeWSW16","doi":"10.1145/2934872.2934885","ee":"https://doi.org/10.1145/2934872.2934885","url":"https://dblp.org/rec/conf/sigcomm/LeeWSW16"},
+"url":"URL#1723410"
+},
+{
+"@score":"1",
+"@id":"1723411",
+"info":{"authors":{"author":[{"@pid":"17/5705-11","text":"Hao Li 0011"},{"@pid":"62/921","text":"Chengchen Hu"},{"@pid":"21/1048-11","text":"Peng Zhang 0011"},{"@pid":"70/1741-2","text":"Lei Xie 0002"}]},"title":"Modular SDN Compiler Design with Intermediate Representation.","venue":"SIGCOMM","pages":"587-588","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/LiHZX16","doi":"10.1145/2934872.2959061","ee":"https://doi.org/10.1145/2934872.2959061","url":"https://dblp.org/rec/conf/sigcomm/LiHZX16"},
+"url":"URL#1723411"
+},
+{
+"@score":"1",
+"@id":"1723412",
+"info":{"authors":{"author":[{"@pid":"61/500","text":"Yue Li"},{"@pid":"70/1735","text":"Luigi Iannone"}]},"title":"Performance Evaluation of Locator/Identifier Separation Protocol through RIPE Atlas.","venue":"SIGCOMM","pages":"561-562","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/LiI16","doi":"10.1145/2934872.2959050","ee":"https://doi.org/10.1145/2934872.2959050","url":"https://dblp.org/rec/conf/sigcomm/LiI16"},
+"url":"URL#1723412"
+},
+{
+"@score":"1",
+"@id":"1723413",
+"info":{"authors":{"author":[{"@pid":"122/5219","text":"Bojie Li"},{"@pid":"42/5784","text":"Kun Tan"},{"@pid":"87/10888","text":"Layong Larry Luo"},{"@pid":"16/10885","text":"Yanqing Peng"},{"@pid":"184/0288","text":"Renqian Luo"},{"@pid":"88/9033","text":"Ningyi Xu"},{"@pid":"57/4569","text":"Yongqiang Xiong"},{"@pid":"76/185-5","text":"Peng Cheng 0005"}]},"title":"ClickNP - Highly flexible and High-performance Network Processing with Reconfigurable Hardware.","venue":"SIGCOMM","pages":"1-14","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/LiTLPLXXC16","doi":"10.1145/2934872.2934897","ee":"https://doi.org/10.1145/2934872.2934897","url":"https://dblp.org/rec/conf/sigcomm/LiTLPLXXC16"},
+"url":"URL#1723413"
+},
+{
+"@score":"1",
+"@id":"1723414",
+"info":{"authors":{"author":[{"@pid":"90/10939","text":"Ziyang Li"},{"@pid":"76/5416-3","text":"Yiming Zhang 0003"},{"@pid":"171/1065","text":"Yunxiang Zhao"},{"@pid":"42/2857","text":"Yuxing Peng"},{"@pid":"254/0830-1","text":"Dongsheng Li 0001"}]},"title":"Best Effort Task Scheduling for Data Parallel Jobs.","venue":"SIGCOMM","pages":"555-556","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/LiZZPL16","doi":"10.1145/2934872.2959047","ee":"https://doi.org/10.1145/2934872.2959047","url":"https://dblp.org/rec/conf/sigcomm/LiZZPL16"},
+"url":"URL#1723414"
+},
+{
+"@score":"1",
+"@id":"1723416",
+"info":{"authors":{"author":[{"@pid":"04/10609","text":"Bingyang Liu"},{"@pid":"79/3662","text":"Jun Bi"},{"@pid":"36/2728-8","text":"Yu Zhou 0008"}]},"title":"Source Address Validation in Software Defined Networks.","venue":"SIGCOMM","pages":"595-596","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/LiuBZ16","doi":"10.1145/2934872.2960425","ee":"https://doi.org/10.1145/2934872.2960425","url":"https://dblp.org/rec/conf/sigcomm/LiuBZ16"},
+"url":"URL#1723416"
+},
+{
+"@score":"1",
+"@id":"1723417",
+"info":{"authors":{"author":[{"@pid":"166/6255","text":"Zaoxing Liu"},{"@pid":"184/0200","text":"Antonis Manousis"},{"@pid":"140/7179","text":"Gregory Vorsanger"},{"@pid":"45/4044","text":"Vyas Sekar"},{"@pid":"14/4758","text":"Vladimir Braverman"}]},"title":"One Sketch to Rule Them All - Rethinking Network Flow Monitoring with UnivMon.","venue":"SIGCOMM","pages":"101-114","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/LiuMVSB16","doi":"10.1145/2934872.2934906","ee":"https://doi.org/10.1145/2934872.2934906","url":"https://dblp.org/rec/conf/sigcomm/LiuMVSB16"},
+"url":"URL#1723417"
+},
+{
+"@score":"1",
+"@id":"1723418",
+"info":{"authors":{"author":[{"@pid":"154/0937","text":"Jonathan Mace"},{"@pid":"b/PeterBodik","text":"Peter Bodík"},{"@pid":"95/6578","text":"Madanlal Musuvathi"},{"@pid":"f/RFonseca","text":"Rodrigo Fonseca"},{"@pid":"51/1895","text":"Krishnan Varadarajan"}]},"title":"2DFQ - Two-Dimensional Fair Queuing for Multi-Tenant Cloud Services.","venue":"SIGCOMM","pages":"144-159","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/MaceBMFV16","doi":"10.1145/2934872.2934878","ee":"https://doi.org/10.1145/2934872.2934878","url":"https://dblp.org/rec/conf/sigcomm/MaceBMFV16"},
+"url":"URL#1723418"
+},
+{
+"@score":"1",
+"@id":"1723421",
+"info":{"authors":{"author":[{"@pid":"134/3944","text":"James Murphy McCauley"},{"@pid":"16/4442","text":"Mingjie Zhao"},{"@pid":"160/4449","text":"Ethan J. Jackson"},{"@pid":"22/3604","text":"Barath Raghavan"},{"@pid":"68/5579","text":"Sylvia Ratnasamy"},{"@pid":"34/5593","text":"Scott Shenker"}]},"title":"The Deforestation of L2.","venue":"SIGCOMM","pages":"497-510","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/McCauleyZJRRS16","doi":"10.1145/2934872.2934877","ee":"https://doi.org/10.1145/2934872.2934877","url":"https://dblp.org/rec/conf/sigcomm/McCauleyZJRRS16"},
+"url":"URL#1723421"
+},
+{
+"@score":"1",
+"@id":"1723423",
+"info":{"authors":{"author":[{"@pid":"38/1117","text":"László Molnár"},{"@pid":"121/4115","text":"Gergely Pongrácz"},{"@pid":"50/870","text":"Gábor Enyedi"},{"@pid":"75/4853","text":"Zoltán Lajos Kis"},{"@pid":"90/10890","text":"Levente Csikor"},{"@pid":"11/5322","text":"Ferenc Juhász"},{"@pid":"43/3942","text":"Attila Korösi"},{"@pid":"45/5812","text":"Gábor Rétvári"}]},"title":"Dataplane Specialization for High-performance OpenFlow Software Switching.","venue":"SIGCOMM","pages":"539-552","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/MolnarPEKCJKR16","doi":"10.1145/2934872.2934887","ee":"https://doi.org/10.1145/2934872.2934887","url":"https://dblp.org/rec/conf/sigcomm/MolnarPEKCJKR16"},
+"url":"URL#1723423"
+},
+{
+"@score":"1",
+"@id":"1723425",
+"info":{"authors":{"author":[{"@pid":"134/3932","text":"Masoud Moshref"},{"@pid":"89/6345","text":"Minlan Yu"},{"@pid":"g/RameshGovindan","text":"Ramesh Govindan"},{"@pid":"v/AminVahdat","text":"Amin Vahdat"}]},"title":"Trumpet - Timely and Precise Triggers in Data Centers.","venue":"SIGCOMM","pages":"129-143","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/MoshrefYGV16","doi":"10.1145/2934872.2934879","ee":"https://doi.org/10.1145/2934872.2934879","url":"https://dblp.org/rec/conf/sigcomm/MoshrefYGV16"},
+"url":"URL#1723425"
+},
+{
+"@score":"1",
+"@id":"1723426",
+"info":{"authors":{"author":[{"@pid":"75/3719","text":"Kanthi Nagaraj"},{"@pid":"52/10159","text":"Dinesh Bharadia"},{"@pid":"150/3252","text":"Hongzi Mao"},{"@pid":"85/8366","text":"Sandeep Chinchali"},{"@pid":"37/8397","text":"Mohammad Alizadeh"},{"@pid":"50/1133","text":"Sachin Katti"}]},"title":"NUMFabric - Fast and Flexible Bandwidth Allocation in Datacenters.","venue":"SIGCOMM","pages":"188-201","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/NagarajBMCAK16","doi":"10.1145/2934872.2934890","ee":"https://doi.org/10.1145/2934872.2934890","url":"https://dblp.org/rec/conf/sigcomm/NagarajBMCAK16"},
+"url":"URL#1723426"
+},
+{
+"@score":"1",
+"@id":"1723431",
+"info":{"authors":{"author":[{"@pid":"184/0337","text":"P. Gyanesh Patra"},{"@pid":"70/2654","text":"Christian Esteve Rothenberg"},{"@pid":"121/4115","text":"Gergely Pongrácz"}]},"title":"MACSAD - Multi-Architecture Compiler System for Abstract Dataplanes (aka Partnering P4 with ODP).","venue":"SIGCOMM","pages":"623-624","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/PatraRP16","doi":"10.1145/2934872.2959077","ee":"https://doi.org/10.1145/2934872.2959077","url":"https://dblp.org/rec/conf/sigcomm/PatraRP16"},
+"url":"URL#1723431"
+},
+{
+"@score":"1",
+"@id":"1723432",
+"info":{"authors":{"author":[{"@pid":"161/4726","text":"Siyi Qiao"},{"@pid":"62/921","text":"Chengchen Hu"},{"@pid":"45/503","text":"Xiaohong Guan"},{"@pid":"128/5225","text":"Jianhua Zou"}]},"title":"Taming the Flow Table Overflow in OpenFlow Switch.","venue":"SIGCOMM","pages":"591-592","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/QiaoHGZ16","doi":"10.1145/2934872.2959063","ee":"https://doi.org/10.1145/2934872.2959063","url":"https://dblp.org/rec/conf/sigcomm/QiaoHGZ16"},
+"url":"URL#1723432"
+},
+{
+"@score":"1",
+"@id":"1723435",
+"info":{"authors":{"author":[{"@pid":"00/1684","text":"Ahmad Rostami"},{"@pid":"138/4583","text":"Peter Öhlén"},{"@pid":"74/9386","text":"Mateus Augusto Silva Santos"},{"@pid":"184/0480","text":"Allan Vidal"}]},"title":"Multi-Domain Orchestration across RAN and Transport for 5G.","venue":"SIGCOMM","pages":"613-614","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/RostamiOSV16","doi":"10.1145/2934872.2959073","ee":"https://doi.org/10.1145/2934872.2959073","url":"https://dblp.org/rec/conf/sigcomm/RostamiOSV16"},
+"url":"URL#1723435"
+},
+{
+"@score":"1",
+"@id":"1723436",
+"info":{"authors":{"author":[{"@pid":"73/6941-1","text":"Muhammad Shahbaz 0001"},{"@pid":"117/9344","text":"Sean Choi"},{"@pid":"42/4891","text":"Ben Pfaff"},{"@pid":"55/4381","text":"Changhoon Kim"},{"@pid":"87/840","text":"Nick Feamster"},{"@pid":"m/NickMcKeown","text":"Nick McKeown"},{"@pid":"r/JenniferRexford","text":"Jennifer Rexford"}]},"title":"PISCES - A Programmable, Protocol-Independent Software Switch.","venue":"SIGCOMM","pages":"525-538","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/ShahbazCPKFMR16","doi":"10.1145/2934872.2934886","ee":"https://doi.org/10.1145/2934872.2934886","url":"https://dblp.org/rec/conf/sigcomm/ShahbazCPKFMR16"},
+"url":"URL#1723436"
+},
+{
+"@score":"1",
+"@id":"1723437",
+"info":{"authors":{"author":[{"@pid":"164/7983","text":"Apoorv Shukla"},{"@pid":"58/3289-1","text":"Stefan Schmid 0001"},{"@pid":"f/AnjaFeldmann","text":"Anja Feldmann"},{"@pid":"91/11237","text":"Arne Ludwig"},{"@pid":"173/5210","text":"Szymon Dudycz"},{"@pid":"184/0146","text":"Andre Schuetze"}]},"title":"Towards Transiently Secure Updates in Asynchronous SDNs.","venue":"SIGCOMM","pages":"597-598","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/ShuklaSFLDS16","doi":"10.1145/2934872.2959083","ee":"https://doi.org/10.1145/2934872.2959083","url":"https://dblp.org/rec/conf/sigcomm/ShuklaSFLDS16"},
+"url":"URL#1723437"
+},
+{
+"@score":"1",
+"@id":"1723438",
+"info":{"authors":{"author":[{"@pid":"183/6222","text":"Upeka De Silva"},{"@pid":"67/10474","text":"Adisorn Lertsinsrubtavee"},{"@pid":"06/2896","text":"Arjuna Sathiaseelan"},{"@pid":"75/4141","text":"Kanchana Kanchanasut"}]},"title":"Named Data Networking Based Smart Home Lighting.","venue":"SIGCOMM","pages":"573-574","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/SilvaLSK16","doi":"10.1145/2934872.2959055","ee":"https://doi.org/10.1145/2934872.2959055","url":"https://dblp.org/rec/conf/sigcomm/SilvaLSK16"},
+"url":"URL#1723438"
+},
+{
+"@score":"1",
+"@id":"1723439",
+"info":{"authors":{"author":[{"@pid":"180/5453","text":"Rachee Singh"},{"@pid":"52/2893","text":"Phillipa Gill"}]},"title":"PathCache - A Path Prediction Toolkit.","venue":"SIGCOMM","pages":"569-570","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/SinghG16","doi":"10.1145/2934872.2959053","ee":"https://doi.org/10.1145/2934872.2959053","url":"https://dblp.org/rec/conf/sigcomm/SinghG16"},
+"url":"URL#1723439"
+},
+{
+"@score":"1",
+"@id":"1723441",
+"info":{"authors":{"author":[{"@pid":"123/2342","text":"Anirudh Sivaraman"},{"@pid":"16/4915","text":"Alvin Cheung"},{"@pid":"b/MihaiBudiu","text":"Mihai Budiu"},{"@pid":"55/4381","text":"Changhoon Kim"},{"@pid":"37/8397","text":"Mohammad Alizadeh"},{"@pid":"b/HariBalakrishnan","text":"Hari Balakrishnan"},{"@pid":"v/GeorgeVarghese","text":"George Varghese"},{"@pid":"m/NickMcKeown","text":"Nick McKeown"},{"@pid":"173/5213","text":"Steve Licking"}]},"title":"Packet Transactions - High-Level Programming for Line-Rate Switches.","venue":"SIGCOMM","pages":"15-28","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/SivaramanCBKABV16","doi":"10.1145/2934872.2934900","ee":"https://doi.org/10.1145/2934872.2934900","url":"https://dblp.org/rec/conf/sigcomm/SivaramanCBKABV16"},
+"url":"URL#1723441"
+},
+{
+"@score":"1",
+"@id":"1723442",
+"info":{"authors":{"author":[{"@pid":"123/2342","text":"Anirudh Sivaraman"},{"@pid":"129/7647","text":"Suvinay Subramanian"},{"@pid":"37/8397","text":"Mohammad Alizadeh"},{"@pid":"172/8896","text":"Sharad Chole"},{"@pid":"96/3601","text":"Shang-Tse Chuang"},{"@pid":"26/5751","text":"Anurag Agrawal"},{"@pid":"b/HariBalakrishnan","text":"Hari Balakrishnan"},{"@pid":"139/4063","text":"Tom Edsall"},{"@pid":"50/1133","text":"Sachin Katti"},{"@pid":"m/NickMcKeown","text":"Nick McKeown"}]},"title":"Programmable Packet Scheduling at Line Rate.","venue":"SIGCOMM","pages":"44-57","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/SivaramanSACCAB16","doi":"10.1145/2934872.2934899","ee":"https://doi.org/10.1145/2934872.2934899","url":"https://dblp.org/rec/conf/sigcomm/SivaramanSACCAB16"},
+"url":"URL#1723442"
+},
+{
+"@score":"1",
+"@id":"1723444",
+"info":{"authors":{"author":[{"@pid":"161/0094","text":"Radu Stoenescu"},{"@pid":"49/9867","text":"Matei Popovici"},{"@pid":"26/4057","text":"Lorina Negreanu"},{"@pid":"62/2645","text":"Costin Raiciu"}]},"title":"SymNet - Scalable symbolic execution for modern networks.","venue":"SIGCOMM","pages":"314-327","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/StoenescuPNR16","doi":"10.1145/2934872.2934881","ee":"https://doi.org/10.1145/2934872.2934881","url":"https://dblp.org/rec/conf/sigcomm/StoenescuPNR16"},
+"url":"URL#1723444"
+},
+{
+"@score":"1",
+"@id":"1723446",
+"info":{"authors":{"author":[{"@pid":"15/2098","text":"Jinshu Su"},{"@pid":"31/9980","text":"Shuhui Chen"},{"@pid":"96/9826","text":"Biao Han"},{"@pid":"130/3018","text":"Chengcheng Xu"},{"@pid":"10/5630-76","text":"Xin Wang 0076"}]},"title":"A 60Gbps DPI Prototype based on Memory-Centric FPGA.","venue":"SIGCOMM","pages":"627-628","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/SuCHXW16","doi":"10.1145/2934872.2959079","ee":"https://doi.org/10.1145/2934872.2959079","url":"https://dblp.org/rec/conf/sigcomm/SuCHXW16"},
+"url":"URL#1723446"
+},
+{
+"@score":"1",
+"@id":"1723448",
+"info":{"authors":{"author":[{"@pid":"01/6072","text":"Chen Sun"},{"@pid":"79/3662","text":"Jun Bi"},{"@pid":"116/8571","text":"Zhilong Zheng"},{"@pid":"02/2870","text":"Hongxin Hu"}]},"title":"SLA-NFV - an SLA-aware High Performance Framework for Network Function Virtualization.","venue":"SIGCOMM","pages":"581-582","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/SunBZH16","doi":"10.1145/2934872.2959058","ee":"https://doi.org/10.1145/2934872.2959058","url":"https://dblp.org/rec/conf/sigcomm/SunBZH16"},
+"url":"URL#1723448"
+},
+{
+"@score":"1",
+"@id":"1723449",
+"info":{"authors":{"author":[{"@pid":"65/2709-4","text":"Yi Sun 0004"},{"@pid":"158/5261","text":"Xiaoqi Yin"},{"@pid":"49/8398","text":"Junchen Jiang"},{"@pid":"45/4044","text":"Vyas Sekar"},{"@pid":"161/6196","text":"Fuyuan Lin"},{"@pid":"161/6212","text":"Nanshu Wang"},{"@pid":"43/656","text":"Tao Liu"},{"@pid":"53/2290","text":"Bruno Sinopoli"}]},"title":"CS2P - Improving Video Bitrate Selection and Adaptation with Data-Driven Throughput Prediction.","venue":"SIGCOMM","pages":"272-285","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/SunYJSLWLS16","doi":"10.1145/2934872.2934898","ee":"https://doi.org/10.1145/2934872.2934898","url":"https://dblp.org/rec/conf/sigcomm/SunYJSLWLS16"},
+"url":"URL#1723449"
+},
+{
+"@score":"1",
+"@id":"1723450",
+"info":{"authors":{"author":[{"@pid":"23/6060","text":"Yu-Wei Eric Sung"},{"@pid":"62/7890","text":"Xiaozheng Tie"},{"@pid":"27/3435","text":"Starsky H. Y. Wong"},{"@pid":"44/7949","text":"Hongyi Zeng"}]},"title":"Robotron - Top-down Network Management at Facebook Scale.","venue":"SIGCOMM","pages":"426-439","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/SungTWZ16","doi":"10.1145/2934872.2934874","ee":"https://doi.org/10.1145/2934872.2934874","url":"https://dblp.org/rec/conf/sigcomm/SungTWZ16"},
+"url":"URL#1723450"
+},
+{
+"@score":"1",
+"@id":"1723451",
+"info":{"authors":{"author":[{"@pid":"157/3035","text":"Olivier Tilmans"},{"@pid":"29/7759","text":"Stefano Vissicchio"},{"@pid":"51/7546","text":"Laurent Vanbever"},{"@pid":"r/JenniferRexford","text":"Jennifer Rexford"}]},"title":"Fibbing in action - On-demand load-balancing for better video delivery.","venue":"SIGCOMM","pages":"619-620","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/TilmansVVR16","doi":"10.1145/2934872.2959084","ee":"https://doi.org/10.1145/2934872.2959084","url":"https://dblp.org/rec/conf/sigcomm/TilmansVVR16"},
+"url":"URL#1723451"
+},
+{
+"@score":"1",
+"@id":"1723456",
+"info":{"authors":{"author":[{"@pid":"149/9280","text":"Deepak Vasisht"},{"@pid":"44/8737","text":"Swarun Kumar"},{"@pid":"54/75","text":"Hariharan Rahul"},{"@pid":"k/DinaKatabi","text":"Dina Katabi"}]},"title":"Eliminating Channel Feedback in Next-Generation Cellular Networks.","venue":"SIGCOMM","pages":"398-411","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/VasishtKRK16","doi":"10.1145/2934872.2934895","ee":"https://doi.org/10.1145/2934872.2934895","url":"https://dblp.org/rec/conf/sigcomm/VasishtKRK16"},
+"url":"URL#1723456"
+},
+{
+"@score":"1",
+"@id":"1723459",
+"info":{"authors":{"author":[{"@pid":"21/1818","text":"Andreas Voellmy"},{"@pid":"184/0252","text":"Shenshen Chen"},{"@pid":"10/5630","text":"Xin Wang"},{"@pid":"y/YangRichardYang","text":"Yang Richard Yang"}]},"title":"Magellan - Generating Multi-Table Datapath from Datapath Oblivious Algorithmic SDN Policies.","venue":"SIGCOMM","pages":"593-594","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/VoellmyCWY16","doi":"10.1145/2934872.2959064","ee":"https://doi.org/10.1145/2934872.2959064","url":"https://dblp.org/rec/conf/sigcomm/VoellmyCWY16"},
+"url":"URL#1723459"
+},
+{
+"@score":"1",
+"@id":"1723462",
+"info":{"authors":{"author":[{"@pid":"178/3647","text":"Zhaoning Wang"},{"@pid":"05/2700-1","text":"Bo Cheng 0001"},{"@pid":"151/5090","text":"Zhongyi Zhai"},{"@pid":"46/176","text":"Ying Jin"},{"@pid":"184/0456","text":"Yimeng Feng"},{"@pid":"63/6051","text":"Junliang Chen"}]},"title":"EasyApp - A Cross-platform Mobile Applications Development Environment Based on OSGi.","venue":"SIGCOMM","pages":"615-616","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/WangCZJFC16","doi":"10.1145/2934872.2959074","ee":"https://doi.org/10.1145/2934872.2959074","url":"https://dblp.org/rec/conf/sigcomm/WangCZJFC16"},
+"url":"URL#1723462"
+},
+{
+"@score":"1",
+"@id":"1723463",
+"info":{"authors":{"author":[{"@pid":"17/221","text":"Yi Wang"},{"@pid":"54/208","text":"Dong Lin"},{"@pid":"184/0532","text":"Changtai Li"},{"@pid":"02/5388","text":"Junping Zhang"},{"@pid":"21/6121","text":"Peng Liu"},{"@pid":"62/921","text":"Chengchen Hu"},{"@pid":"77/6324","text":"Gong Zhang"}]},"title":"Application Driven Network - providing On-Demand Services for Applications.","venue":"SIGCOMM","pages":"617-618","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/WangLLZLHZ16","doi":"10.1145/2934872.2959075","ee":"https://doi.org/10.1145/2934872.2959075","url":"https://dblp.org/rec/conf/sigcomm/WangLLZLHZ16"},
+"url":"URL#1723463"
+},
+{
+"@score":"1",
+"@id":"1723464",
+"info":{"authors":{"author":[{"@pid":"29/4680","text":"Wen Wang"},{"@pid":"95/6404","text":"Cong Liu"},{"@pid":"15/2098","text":"Jinshu Su"},{"@pid":"45/2682","text":"Wenbo He"}]},"title":"Achieving Consistent SDN Control With Declarative Applications.","venue":"SIGCOMM","pages":"585-586","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/WangLSH16","doi":"10.1145/2934872.2959060","ee":"https://doi.org/10.1145/2934872.2959060","url":"https://dblp.org/rec/conf/sigcomm/WangLSH16"},
+"url":"URL#1723464"
+},
+{
+"@score":"1",
+"@id":"1723465",
+"info":{"authors":{"author":[{"@pid":"00/5542","text":"Ji Yang"},{"@pid":"62/921","text":"Chengchen Hu"},{"@pid":"25/1888","text":"Peng Zheng"},{"@pid":"144/6274","text":"Ruilong Wang"},{"@pid":"21/1048-11","text":"Peng Zhang 0011"},{"@pid":"45/503","text":"Xiaohong Guan"}]},"title":"Rethinking the Design of OpenFlow Switch Counters.","venue":"SIGCOMM","pages":"589-590","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/YangHZWZG16","doi":"10.1145/2934872.2959062","ee":"https://doi.org/10.1145/2934872.2959062","url":"https://dblp.org/rec/conf/sigcomm/YangHZWZG16"},
+"url":"URL#1723465"
+},
+{
+"@score":"1",
+"@id":"1723466",
+"info":{"authors":{"author":[{"@pid":"184/0371","text":"Haixiang Yang"},{"@pid":"02/3450-1","text":"Xiaoliang Wang 0001"},{"@pid":"14/5079","text":"Cam-Tu Nguyen"},{"@pid":"24/3318","text":"Sanglu Lu"}]},"title":"Conan - Content-aware Access Network Flow Scheduling to Improve QoE of Home Users.","venue":"SIGCOMM","pages":"575-576","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/YangWNL16","doi":"10.1145/2934872.2959056","ee":"https://doi.org/10.1145/2934872.2959056","url":"https://dblp.org/rec/conf/sigcomm/YangWNL16"},
+"url":"URL#1723466"
+},
+{
+"@score":"1",
+"@id":"1723467",
+"info":{"authors":{"author":[{"@pid":"50/7950","text":"Yiannis Yiakoumis"},{"@pid":"50/1133","text":"Sachin Katti"},{"@pid":"m/NickMcKeown","text":"Nick McKeown"}]},"title":"Neutral Net Neutrality.","venue":"SIGCOMM","pages":"483-496","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/YiakoumisKM16","doi":"10.1145/2934872.2934896","ee":"https://doi.org/10.1145/2934872.2934896","url":"https://dblp.org/rec/conf/sigcomm/YiakoumisKM16"},
+"url":"URL#1723467"
+},
+{
+"@score":"1",
+"@id":"1723468",
+"info":{"authors":{"author":[{"@pid":"33/4816","text":"Pengyu Zhang"},{"@pid":"52/10159","text":"Dinesh Bharadia"},{"@pid":"143/8189","text":"Kiran Raj Joshi"},{"@pid":"50/1133","text":"Sachin Katti"}]},"title":"Enabling Backscatter Communication among Commodity WiFi Radios.","venue":"SIGCOMM","pages":"611-612","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/ZhangBJK16","doi":"10.1145/2934872.2959072","ee":"https://doi.org/10.1145/2934872.2959072","url":"https://dblp.org/rec/conf/sigcomm/ZhangBJK16"},
+"url":"URL#1723468"
+},
+{
+"@score":"1",
+"@id":"1723469",
+"info":{"authors":{"author":[{"@pid":"24/6914-25","text":"Hong Zhang 0025"},{"@pid":"c/LiChen8","text":"Li Chen 0008"},{"@pid":"184/0450","text":"Bairen Yi"},{"@pid":"c/KaiChen5","text":"Kai Chen 0005"},{"@pid":"42/1518","text":"Mosharaf Chowdhury"},{"@pid":"34/8744","text":"Yanhui Geng"}]},"title":"CODA - Toward Automatically Identifying and Scheduling Coflows in the Dark.","venue":"SIGCOMM","pages":"160-173","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/ZhangCY0CG16","doi":"10.1145/2934872.2934880","ee":"https://doi.org/10.1145/2934872.2934880","url":"https://dblp.org/rec/conf/sigcomm/ZhangCY0CG16"},
+"url":"URL#1723469"
+},
+{
+"@score":"1",
+"@id":"1723471",
+"info":{"authors":{"author":[{"@pid":"33/4816","text":"Pengyu Zhang"},{"@pid":"83/9890","text":"Mohammad Rostami"},{"@pid":"96/3740","text":"Pan Hu"},{"@pid":"g/DeepakGanesan","text":"Deepak Ganesan"}]},"title":"Enabling Practical Backscatter Communication for On-body Sensors.","venue":"SIGCOMM","pages":"370-383","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/ZhangRHG16","doi":"10.1145/2934872.2934901","ee":"https://doi.org/10.1145/2934872.2934901","url":"https://dblp.org/rec/conf/sigcomm/ZhangRHG16"},
+"url":"URL#1723471"
+},
+{
+"@score":"1",
+"@id":"1723472",
+"info":{"authors":{"author":[{"@pid":"42/7674","text":"Yuchao Zhang"},{"@pid":"181/2626-2","text":"Ke Xu 0002"},{"@pid":"06/107","text":"Guang Yao"},{"@pid":"60/7041","text":"Miao Zhang"},{"@pid":"119/6181","text":"Xiaohui Nie"}]},"title":"PieBridge - A Cross-DR scale Large Data Transmission Scheduling System.","venue":"SIGCOMM","pages":"553-554","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/ZhangXYZN16","doi":"10.1145/2934872.2959046","ee":"https://doi.org/10.1145/2934872.2959046","url":"https://dblp.org/rec/conf/sigcomm/ZhangXYZN16"},
+"url":"URL#1723472"
+},
+{
+"@score":"1",
+"@id":"1723473",
+"info":{"authors":{"author":[{"@pid":"116/8682-2","text":"Shuai Zhao 0002"},{"@pid":"90/5974","text":"Ali Sydney"},{"@pid":"m/DeepMedhi","text":"Deep Medhi"}]},"title":"Building Application-Aware Network Environments using SDN for Optimizing Hadoop Applications.","venue":"SIGCOMM","pages":"583-584","year":"2016","type":"Conference and Workshop Papers","key":"conf/sigcomm/ZhaoSM16","doi":"10.1145/2934872.2959059","ee":"https://doi.org/10.1145/2934872.2959059","url":"https://dblp.org/rec/conf/sigcomm/ZhaoSM16"},
+"url":"URL#1723473"
+},
+{
+"@score":"1",
+"@id":"1749686",
+"info":{"authors":{"author":[{"@pid":"b/MarinhoPBarcellos","text":"Marinho P. Barcellos"},{"@pid":"c/JonCrowcroft","text":"Jon Crowcroft"},{"@pid":"v/AminVahdat","text":"Amin Vahdat"},{"@pid":"50/1133","text":"Sachin Katti"}]},"title":"Proceedings of the ACM SIGCOMM 2016 Conference, Florianopolis, Brazil, August 22-26, 2016","venue":"SIGCOMM","publisher":"ACM","year":"2016","type":"Editorship","key":"conf/sigcomm/2016","doi":"10.1145/2934872","ee":"https://doi.org/10.1145/2934872","url":"https://dblp.org/rec/conf/sigcomm/2016"},
+"url":"URL#1749686"
+}
+]
+}
+}
+}

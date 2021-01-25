@@ -1,0 +1,200 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"nsdi\"/\"nsdi2011\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"139.53"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"28",
+"@dc":"28",
+"@oc":"28",
+"@id":"17580398",
+"text":":facetid:toc:db/conf/nsdi/nsdi2011.bht"
+}
+},
+"hits":{
+"@total":"28",
+"@computed":"28",
+"@sent":"28",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"3090891",
+"info":{"authors":{"author":[{"@pid":"51/8142","text":"Anirudh Badam"},{"@pid":"00/1016","text":"Vivek S. Pai"}]},"title":"SSDAlloc - Hybrid SSD/RAM Memory Management Made Easy.","venue":"NSDI","year":"2011","type":"Conference and Workshop Papers","key":"conf/nsdi/BadamP10","ee":"https://www.usenix.org/conference/nsdi11/ssdalloc-hybrid-ssdram-memory-management-made-easy","url":"https://dblp.org/rec/conf/nsdi/BadamP10"},
+"url":"URL#3090891"
+},
+{
+"@score":"1",
+"@id":"3090892",
+"info":{"authors":{"author":[{"@pid":"b/WJBolosky","text":"William J. Bolosky"},{"@pid":"145/1826","text":"Dexter Bradshaw"},{"@pid":"145/1868","text":"Randolph B. Haagens"},{"@pid":"145/1867","text":"Norbert P. Kusters"},{"@pid":"83/6353","text":"Peng Li"}]},"title":"Paxos Replicated State Machines as the Basis of a High-Performance Data Store.","venue":"NSDI","year":"2011","type":"Conference and Workshop Papers","key":"conf/nsdi/BoloskyBHKL10","ee":"https://www.usenix.org/conference/nsdi11/paxos-replicated-state-machines-basis-high-performance-data-store","url":"https://dblp.org/rec/conf/nsdi/BoloskyBHKL10"},
+"url":"URL#3090892"
+},
+{
+"@score":"1",
+"@id":"3090894",
+"info":{"authors":{"author":[{"@pid":"44/2076","text":"Michael Buettner"},{"@pid":"g/BenGreenstein","text":"Benjamin Greenstein"},{"@pid":"w/DavidWetherall","text":"David Wetherall"}]},"title":"Dewdrop - An Energy-Aware Runtime for Computational RFID.","venue":"NSDI","year":"2011","type":"Conference and Workshop Papers","key":"conf/nsdi/BuettnerGW10","ee":"https://www.usenix.org/conference/nsdi11/dewdrop-energy-aware-runtime-computational-rfid","url":"https://dblp.org/rec/conf/nsdi/BuettnerGW10"},
+"url":"URL#3090894"
+},
+{
+"@score":"1",
+"@id":"3090896",
+"info":{"authors":{"author":[{"@pid":"c/KrishnaChintalapudi","text":"Krishna Chintalapudi"},{"@pid":"48/3394","text":"Vishnu Navda"},{"@pid":"97/117","text":"Ramachandran Ramjee"},{"@pid":"p/VenkataNPadmanabhan","text":"Venkata N. Padmanabhan"},{"@pid":"96/4430","text":"Chandra R. Murthy"}]},"title":"SpecNet - Spectrum Sensing Sans Frontières.","venue":"NSDI","year":"2011","type":"Conference and Workshop Papers","key":"conf/nsdi/ChintalapudiNRPM10","ee":"https://www.usenix.org/conference/nsdi11/specnet-spectrum-sensing-sans-fronti%C3%A8res","url":"https://dblp.org/rec/conf/nsdi/ChintalapudiNRPM10"},
+"url":"URL#3090896"
+},
+{
+"@score":"1",
+"@id":"3090897",
+"info":{"authors":{"author":[{"@pid":"00/4008","text":"Colin Dixon"},{"@pid":"126/2540","text":"Hardeep Uppal"},{"@pid":"47/7562","text":"Vjekoslav Brajkovic"},{"@pid":"145/1809","text":"Dane Brandon"},{"@pid":"a/ThomasEAnderson","text":"Thomas E. Anderson"},{"@pid":"k/AKrishnamurthy","text":"Arvind Krishnamurthy"}]},"title":"ETTM - A Scalable Fault Tolerant Network Manager.","venue":"NSDI","year":"2011","type":"Conference and Workshop Papers","key":"conf/nsdi/DixonUBBAK10","ee":"https://www.usenix.org/conference/nsdi11/ettm-scalable-fault-tolerant-network-manager","url":"https://dblp.org/rec/conf/nsdi/DixonUBBAK10"},
+"url":"URL#3090897"
+},
+{
+"@score":"1",
+"@id":"3090898",
+"info":{"authors":{"author":[{"@pid":"71/4226-2","text":"Ali Ghodsi 0002"},{"@pid":"36/2133","text":"Matei Zaharia"},{"@pid":"57/3356","text":"Benjamin Hindman"},{"@pid":"62/3300","text":"Andy Konwinski"},{"@pid":"34/5593","text":"Scott Shenker"},{"@pid":"s/IonStoica","text":"Ion Stoica"}]},"title":"Dominant Resource Fairness - Fair Allocation of Multiple Resource Types.","venue":"NSDI","year":"2011","type":"Conference and Workshop Papers","key":"conf/nsdi/GhodsiZHKSS10","ee":"https://www.usenix.org/conference/nsdi11/dominant-resource-fairness-fair-allocation-multiple-resource-types","url":"https://dblp.org/rec/conf/nsdi/GhodsiZHKSS10"},
+"url":"URL#3090898"
+},
+{
+"@score":"1",
+"@id":"3090899",
+"info":{"authors":{"author":[{"@pid":"g/RachidGuerraoui","text":"Rachid Guerraoui"},{"@pid":"26/6645","text":"Maysam Yabandeh"}]},"title":"Model Checking a Networked System Without the Network.","venue":"NSDI","year":"2011","type":"Conference and Workshop Papers","key":"conf/nsdi/GuerraouiY10","ee":"https://www.usenix.org/conference/nsdi11/model-checking-networked-system-without-network","url":"https://dblp.org/rec/conf/nsdi/GuerraouiY10"},
+"url":"URL#3090899"
+},
+{
+"@score":"1",
+"@id":"3090900",
+"info":{"authors":{"author":[{"@pid":"42/5459","text":"Saikat Guha"},{"@pid":"48/6970","text":"Bin Cheng"},{"@pid":"f/PaulFrancis","text":"Paul Francis"}]},"title":"Privad - Practical Privacy in Online Advertising.","venue":"NSDI","year":"2011","type":"Conference and Workshop Papers","key":"conf/nsdi/GuhaCF10","ee":"https://www.usenix.org/conference/nsdi11/privad-practical-privacy-online-advertising","url":"https://dblp.org/rec/conf/nsdi/GuhaCF10"},
+"url":"URL#3090900"
+},
+{
+"@score":"1",
+"@id":"3090901",
+"info":{"authors":{"author":[{"@pid":"84/5664","text":"Haryadi S. Gunawi"},{"@pid":"03/6177","text":"Thanh Do"},{"@pid":"21/279","text":"Pallavi Joshi"},{"@pid":"25/4106","text":"Peter Alvaro"},{"@pid":"h/JosephMHellerstein","text":"Joseph M. Hellerstein"},{"@pid":"a/AndreaCArpaciDusseau","text":"Andrea C. Arpaci-Dusseau"},{"@pid":"a/RemziHArpaciDusseau","text":"Remzi H. Arpaci-Dusseau"},{"@pid":"04/418","text":"Koushik Sen"},{"@pid":"51/8165","text":"Dhruba Borthakur"}]},"title":"FATE and DESTINI - A Framework for Cloud Recovery Testing.","venue":"NSDI","year":"2011","type":"Conference and Workshop Papers","key":"conf/nsdi/GunawiDJAHAASB10","ee":"https://www.usenix.org/conference/nsdi11/fate-and-destini-framework-cloud-recovery-testing","url":"https://dblp.org/rec/conf/nsdi/GunawiDJAHAASB10"},
+"url":"URL#3090901"
+},
+{
+"@score":"1",
+"@id":"3090902",
+"info":{"authors":{"author":[{"@pid":"57/3356","text":"Benjamin Hindman"},{"@pid":"62/3300","text":"Andy Konwinski"},{"@pid":"36/2133","text":"Matei Zaharia"},{"@pid":"71/4226-2","text":"Ali Ghodsi 0002"},{"@pid":"30/2317","text":"Anthony D. Joseph"},{"@pid":"k/RandyHKatz","text":"Randy H. Katz"},{"@pid":"34/5593","text":"Scott Shenker"},{"@pid":"s/IonStoica","text":"Ion Stoica"}]},"title":"Mesos - A Platform for Fine-Grained Resource Sharing in the Data Center.","venue":"NSDI","year":"2011","type":"Conference and Workshop Papers","key":"conf/nsdi/HindmanKZGJKSS10","ee":"https://www.usenix.org/conference/nsdi11/mesos-platform-fine-grained-resource-sharing-data-center","url":"https://dblp.org/rec/conf/nsdi/HindmanKZGJKSS10"},
+"url":"URL#3090902"
+},
+{
+"@score":"1",
+"@id":"3090904",
+"info":{"authors":{"author":[{"@pid":"40/503","text":"Keon Jang"},{"@pid":"87/6455","text":"Sangjin Han"},{"@pid":"44/2111","text":"Seungyeop Han"},{"@pid":"m/SueBMoon","text":"Sue B. Moon"},{"@pid":"67/4936","text":"KyoungSoo Park"}]},"title":"SSLShader - Cheap SSL Acceleration with Commodity Processors.","venue":"NSDI","year":"2011","type":"Conference and Workshop Papers","key":"conf/nsdi/JangHHMP10","ee":"https://www.usenix.org/conference/nsdi11/sslshader-cheap-ssl-acceleration-commodity-processors","url":"https://dblp.org/rec/conf/nsdi/JangHHMP10"},
+"url":"URL#3090904"
+},
+{
+"@score":"1",
+"@id":"3090906",
+"info":{"authors":{"author":[{"@pid":"33/2805-2","text":"Ang Li 0002"},{"@pid":"76/1820","text":"Xin Liu"},{"@pid":"y/XiaoweiYang","text":"Xiaowei Yang 0001"}]},"title":"Bootstrapping Accountability in the Internet We Have.","venue":"NSDI","year":"2011","type":"Conference and Workshop Papers","key":"conf/nsdi/LiLY10","ee":"https://www.usenix.org/conference/nsdi11/bootstrapping-accountability-internet-we-have","url":"https://dblp.org/rec/conf/nsdi/LiLY10"},
+"url":"URL#3090906"
+},
+{
+"@score":"1",
+"@id":"3090907",
+"info":{"authors":{"author":[{"@pid":"76/3136","text":"Guohan Lu"},{"@pid":"95/4962","text":"Chuanxiong Guo"},{"@pid":"71/2140","text":"Yulong Li"},{"@pid":"60/8343","text":"Zhiqiang Zhou"},{"@pid":"145/1888","text":"Tong Yuan"},{"@pid":"96/1582","text":"Haitao Wu"},{"@pid":"57/4569","text":"Yongqiang Xiong"},{"@pid":"43/2694","text":"Rui Gao"},{"@pid":"70/3755","text":"Yongguang Zhang"}]},"title":"ServerSwitch - A Programmable and High Performance Platform for Data Center Networks.","venue":"NSDI","year":"2011","type":"Conference and Workshop Papers","key":"conf/nsdi/LuGLZYWXGZ10","ee":"https://www.usenix.org/conference/nsdi11/serverswitch-programmable-and-high-performance-platform-data-center-networks","url":"https://dblp.org/rec/conf/nsdi/LuGLZYWXGZ10"},
+"url":"URL#3090907"
+},
+{
+"@score":"1",
+"@id":"3090908",
+"info":{"authors":{"author":[{"@pid":"82/1824","text":"Derek Gordon Murray"},{"@pid":"49/7988","text":"Malte Schwarzkopf"},{"@pid":"03/7968","text":"Christopher Smowton"},{"@pid":"64/5525","text":"Steven Smith"},{"@pid":"32/1528","text":"Anil Madhavapeddy"},{"@pid":"69/6457","text":"Steven Hand"}]},"title":"CIEL - A Universal Execution Engine for Distributed Data-Flow Computing.","venue":"NSDI","year":"2011","type":"Conference and Workshop Papers","key":"conf/nsdi/MurraySSSMH10","ee":"https://www.usenix.org/conference/nsdi11/ciel-universal-execution-engine-distributed-data-flow-computing","url":"https://dblp.org/rec/conf/nsdi/MurraySSSMH10"},
+"url":"URL#3090908"
+},
+{
+"@score":"1",
+"@id":"3090909",
+"info":{"authors":{"author":{"@pid":"98/6904","text":"Calvin C. Newport"}},"title":"Improving Wireless Network Performance Using Sensor Hints.","venue":"NSDI","year":"2011","type":"Conference and Workshop Papers","key":"conf/nsdi/Newport10","ee":"https://www.usenix.org/conference/nsdi11/improving-wireless-network-performance-using-sensor-hints","url":"https://dblp.org/rec/conf/nsdi/Newport10"},
+"url":"URL#3090909"
+},
+{
+"@score":"1",
+"@id":"3090910",
+"info":{"authors":{"author":[{"@pid":"03/3849","text":"Ansley Post"},{"@pid":"145/1911","text":"Vijit Shah"},{"@pid":"31/3833","text":"Alan Mislove"}]},"title":"Bazaar - Strengthening User Reputations in Online Marketplaces.","venue":"NSDI","year":"2011","type":"Conference and Workshop Papers","key":"conf/nsdi/PostSM10","ee":"https://www.usenix.org/conference/nsdi11/bazaar-strengthening-user-reputations-online-marketplaces","url":"https://dblp.org/rec/conf/nsdi/PostSM10"},
+"url":"URL#3090910"
+},
+{
+"@score":"1",
+"@id":"3090913",
+"info":{"authors":{"author":[{"@pid":"07/7551","text":"Alexander Rasmussen"},{"@pid":"09/313","text":"George Porter"},{"@pid":"127/9201","text":"Michael Conley"},{"@pid":"45/2026","text":"Harsha V. Madhyastha"},{"@pid":"48/7546","text":"Radhika Niranjan Mysore"},{"@pid":"128/8104","text":"Alexander Pucher"},{"@pid":"v/AminVahdat","text":"Amin Vahdat"}]},"title":"TritonSort - A Balanced Large-Scale Sorting System.","venue":"NSDI","year":"2011","type":"Conference and Workshop Papers","key":"conf/nsdi/RasmussenPCMMPV10","ee":"https://www.usenix.org/conference/nsdi11/tritonsort-balanced-large-scale-sorting-system","url":"https://dblp.org/rec/conf/nsdi/RasmussenPCMMPV10"},
+"url":"URL#3090913"
+},
+{
+"@score":"1",
+"@id":"3090914",
+"info":{"authors":{"author":[{"@pid":"99/5200","text":"Raja R. Sambasivan"},{"@pid":"79/3207","text":"Alice X. Zheng"},{"@pid":"145/1851","text":"Michael De Rosa"},{"@pid":"50/4099","text":"Elie Krevat"},{"@pid":"145/1893","text":"Spencer Whitman"},{"@pid":"133/2054","text":"Michael Stroucken"},{"@pid":"66/9854","text":"William Wang"},{"@pid":"68/2865","text":"Lianghong Xu"},{"@pid":"g/GregoryRGanger","text":"Gregory R. Ganger"}]},"title":"Diagnosing Performance Changes by Comparing Request Flows.","venue":"NSDI","year":"2011","type":"Conference and Workshop Papers","key":"conf/nsdi/SambasivanZRKWSWXG10","ee":"https://www.usenix.org/conference/nsdi11/diagnosing-performance-changes-comparing-request-flows","url":"https://dblp.org/rec/conf/nsdi/SambasivanZRKWSWXG10"},
+"url":"URL#3090914"
+},
+{
+"@score":"1",
+"@id":"3090916",
+"info":{"authors":{"author":[{"@pid":"36/3616","text":"Alan Shieh"},{"@pid":"k/SrikanthKandula","text":"Srikanth Kandula"},{"@pid":"g/AlbertGGreenberg","text":"Albert G. Greenberg"},{"@pid":"55/4381","text":"Changhoon Kim"},{"@pid":"49/10014","text":"Bikas Saha"}]},"title":"Sharing the Data Center Network.","venue":"NSDI","year":"2011","type":"Conference and Workshop Papers","key":"conf/nsdi/ShiehKGKS10","ee":"https://www.usenix.org/conference/nsdi11/sharing-data-center-network","url":"https://dblp.org/rec/conf/nsdi/ShiehKGKS10"},
+"url":"URL#3090916"
+},
+{
+"@score":"1",
+"@id":"3090917",
+"info":{"authors":{"author":[{"@pid":"24/2078","text":"Vivek Shrivastava"},{"@pid":"81/6174","text":"Shravan K. Rayanchu"},{"@pid":"p/SumanBanerjee","text":"Suman Banerjee"},{"@pid":"70/3728","text":"Konstantina Papagiannaki"}]},"title":"PIE in the Sky - Online Passive Interference Estimation for Enterprise WLANs.","venue":"NSDI","year":"2011","type":"Conference and Workshop Papers","key":"conf/nsdi/ShrivastavaRBP10","ee":"https://www.usenix.org/conference/nsdi11/pie-sky-online-passive-interference-estimation-enterprise-wlans","url":"https://dblp.org/rec/conf/nsdi/ShrivastavaRBP10"},
+"url":"URL#3090917"
+},
+{
+"@score":"1",
+"@id":"3090919",
+"info":{"authors":{"author":[{"@pid":"47/1858","text":"Arvind Thiagarajan"},{"@pid":"22/4453","text":"Lenin Ravindranath"},{"@pid":"b/HariBalakrishnan","text":"Hari Balakrishnan"},{"@pid":"m/SamuelMadden","text":"Samuel Madden"},{"@pid":"16/1646","text":"Lewis Girod"}]},"title":"Accurate, Low-Energy Trajectory Mapping for Mobile Devices.","venue":"NSDI","year":"2011","type":"Conference and Workshop Papers","key":"conf/nsdi/ThiagarajanRBMG10","ee":"https://www.usenix.org/conference/nsdi11/accurate-low-energy-trajectory-mapping-mobile-devices","url":"https://dblp.org/rec/conf/nsdi/ThiagarajanRBMG10"},
+"url":"URL#3090919"
+},
+{
+"@score":"1",
+"@id":"3090920",
+"info":{"authors":{"author":[{"@pid":"53/7541","text":"Frank Uyeda"},{"@pid":"11/2127","text":"Luca Foschini"},{"@pid":"04/2169","text":"Fred Baker"},{"@pid":"s/SubhashSuri","text":"Subhash Suri"},{"@pid":"v/GeorgeVarghese","text":"George Varghese"}]},"title":"Efficiently Measuring Bandwidth at All Time Scales.","venue":"NSDI","year":"2011","type":"Conference and Workshop Papers","key":"conf/nsdi/UyedaFBSV10","ee":"https://www.usenix.org/conference/nsdi11/efficiently-measuring-bandwidth-all-time-scales","url":"https://dblp.org/rec/conf/nsdi/UyedaFBSV10"},
+"url":"URL#3090920"
+},
+{
+"@score":"1",
+"@id":"3090921",
+"info":{"authors":{"author":[{"@pid":"87/3412","text":"Arun Viswanathan"},{"@pid":"13/2327","text":"Alefiya Hussain"},{"@pid":"89/6100","text":"Jelena Mirkovic"},{"@pid":"83/3126","text":"Stephen Schwab"},{"@pid":"92/3944","text":"John Wroclawski"}]},"title":"A Semantic Framework for Data Analysis in Networked Systems.","venue":"NSDI","year":"2011","type":"Conference and Workshop Papers","key":"conf/nsdi/ViswanathanHMSW10","ee":"https://www.usenix.org/conference/nsdi11/semantic-framework-data-analysis-networked-systems","url":"https://dblp.org/rec/conf/nsdi/ViswanathanHMSW10"},
+"url":"URL#3090921"
+},
+{
+"@score":"1",
+"@id":"3090922",
+"info":{"authors":{"author":[{"@pid":"84/2694","text":"Yong Wang"},{"@pid":"77/8023","text":"Daniel Burgener"},{"@pid":"127/2799","text":"Marcel Flores"},{"@pid":"k/AleksandarKuzmanovic","text":"Aleksandar Kuzmanovic"},{"@pid":"83/5898-2","text":"Cheng Huang 0002"}]},"title":"Towards Street-Level Client-Independent IP Geolocation.","venue":"NSDI","year":"2011","type":"Conference and Workshop Papers","key":"conf/nsdi/WangBFKH10","ee":"https://www.usenix.org/conference/nsdi11/towards-street-level-client-independent-ip-geolocation","url":"https://dblp.org/rec/conf/nsdi/WangBFKH10"},
+"url":"URL#3090922"
+},
+{
+"@score":"1",
+"@id":"3090927",
+"info":{"authors":{"author":[{"@pid":"73/7447","text":"Elias Weingärtner"},{"@pid":"61/4643-2","text":"Florian Schmidt 0002"},{"@pid":"09/7882","text":"Hendrik vom Lehn"},{"@pid":"94/1260","text":"Tobias Heer"},{"@pid":"w/KlausWehrle","text":"Klaus Wehrle"}]},"title":"SliceTime - A Platform for Scalable and Accurate Network Emulation.","venue":"NSDI","year":"2011","type":"Conference and Workshop Papers","key":"conf/nsdi/WeingartnerSLHW10","ee":"https://www.usenix.org/conference/nsdi11/slicetime-platform-scalable-and-accurate-network-emulation","url":"https://dblp.org/rec/conf/nsdi/WeingartnerSLHW10"},
+"url":"URL#3090927"
+},
+{
+"@score":"1",
+"@id":"3090928",
+"info":{"authors":{"author":[{"@pid":"18/4263","text":"Damon Wischik"},{"@pid":"62/2645","text":"Costin Raiciu"},{"@pid":"56/2873","text":"Adam Greenhalgh"},{"@pid":"h/MarkHandley","text":"Mark Handley"}]},"title":"Design, Implementation and Evaluation of Congestion Control for Multipath TCP.","venue":"NSDI","year":"2011","type":"Conference and Workshop Papers","key":"conf/nsdi/WischikRGH10","ee":"https://www.usenix.org/conference/nsdi11/design-implementation-and-evaluation-congestion-control-multipath-tcp","url":"https://dblp.org/rec/conf/nsdi/WischikRGH10"},
+"url":"URL#3090928"
+},
+{
+"@score":"1",
+"@id":"3090929",
+"info":{"authors":{"author":[{"@pid":"89/6345","text":"Minlan Yu"},{"@pid":"g/AlbertGGreenberg","text":"Albert G. Greenberg"},{"@pid":"65/1459","text":"David A. Maltz"},{"@pid":"r/JenniferRexford","text":"Jennifer Rexford"},{"@pid":"61/2443","text":"Lihua Yuan"},{"@pid":"k/SrikanthKandula","text":"Srikanth Kandula"},{"@pid":"55/4381","text":"Changhoon Kim"}]},"title":"Profiling Network Performance for Multi-tier Data Center Applications.","venue":"NSDI","year":"2011","type":"Conference and Workshop Papers","key":"conf/nsdi/YuGMRYKK10","ee":"https://www.usenix.org/conference/nsdi11/profiling-network-performance-multi-tier-data-center-applications","url":"https://dblp.org/rec/conf/nsdi/YuGMRYKK10"},
+"url":"URL#3090929"
+},
+{
+"@score":"1",
+"@id":"3123386",
+"info":{"authors":{"author":[{"@pid":"a/DavidGAndersen","text":"David G. Andersen"},{"@pid":"68/5579","text":"Sylvia Ratnasamy"}]},"title":"Proceedings of the 8th USENIX Symposium on Networked Systems Design and Implementation, NSDI 2011, Boston, MA, USA, March 30 - April 1, 2011","venue":"NSDI","publisher":"USENIX Association","year":"2011","type":"Editorship","key":"conf/nsdi/2011","url":"https://dblp.org/rec/conf/nsdi/2011"},
+"url":"URL#3123386"
+}
+]
+}
+}
+}
