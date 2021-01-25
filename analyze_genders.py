@@ -11,7 +11,7 @@ import matplotlib.ticker as ticker
 import pandas as pd
 
 
-def infer_genders():
+def infer_genders(field='db'):
     """
     Construct a dictionary of first author counts by gender from
     DBLP JSON files which match a particular glob pattern
@@ -24,8 +24,8 @@ def infer_genders():
     gc = genderComputer.GenderComputer()
     gender_counts = []
 
-    for json_file in glob.glob('data/*.json'):
-        conf = json_file.split('-')[0].split('/')[1]
+    for json_file in glob.glob(os.path.join('data', field, '*.json')):
+        conf = json_file.split('-')[0].split('/')[-1]
         year = int(json_file.split('-')[1].split('.')[0])
 
         data = json.load(open(json_file))['result']['hits'].get('hit', [])
