@@ -11,7 +11,7 @@ import matplotlib.ticker as ticker
 import pandas as pd
 
 
-def infer_genders(field='db'):
+def infer_genders(field=None):
     """
     Construct a dictionary of first author counts by gender from
     DBLP JSON files which match a particular glob pattern
@@ -24,7 +24,13 @@ def infer_genders(field='db'):
     gc = genderComputer.GenderComputer()
     gender_counts = []
 
-    for json_file in glob.glob(os.path.join('data', field, '*.json')):
+    # If no field is specified, use them all
+    if field is None:
+        field = '**'
+    glob_path = os.path.join('data', field, '*.json')
+
+    for json_file in glob.glob(glob_path):
+        field = json_file.split('-')[0].split('/')[1]
         conf = json_file.split('-')[0].split('/')[-1]
         year = int(json_file.split('-')[1].split('.')[0])
 
@@ -44,6 +50,7 @@ def infer_genders(field='db'):
             for (index, author) in enumerate(author_info):
                 # Initialize a new data point
                 datum = collections.OrderedDict(
+                    field=field,
                     paper_id=paper['@id'],
                     conf=conf,
                     year=year,
@@ -86,13 +93,16 @@ def infer_genders(field='db'):
     return gender_counts
 
 
-def dataframe(genders=None):
+def dataframe(genders=None, field=None):
     """
     Return the data as a Pandas DataFrame
     """
     # Infer genders for data files in the data/ directory
     if genders is None:
-        genders = infer_genders()
+        genders = infer_genders(field)
+    elif field is not None:
+        raise ValueError("Can't specify both data and field")
+
     df = pd.DataFrame(genders)
     df['male'] = df['male'] == 1
     df['female'] = df['female'] == 1
@@ -195,7 +205,7 @@ def plot_authors(df, plot_label, save=False, header=True):
 
 def main():
     # Infer genders for data files in the data/ directory
-    genders = infer_genders()
+    genders = infer_genders(field='db')
 
     # Write a header row
     csv_writer = csv.writer(open(os.path.join('output', 'gender.csv'), 'w'))
