@@ -30,7 +30,7 @@ def infer_genders(field=None):
     glob_path = os.path.join('data', field, '*.json')
 
     for json_file in glob.glob(glob_path):
-        field = json_file.split('-')[0].split('/')[1]
+        field = json_file.split('-')[0].split('/')[1].replace('_', ' ')
         conf = json_file.split('-')[0].split('/')[-1]
         year = int(json_file.split('-')[1].split('.')[0])
 
@@ -204,7 +204,7 @@ def plot_authors(df, plot_label, save=False, header=True):
 
 def main():
     # Infer genders for data files in the data/ directory
-    genders = infer_genders(field='db')
+    genders = infer_genders(field='DB')
 
     # Write a header row
     csv_writer = csv.writer(open(os.path.join('output', 'gender.csv'), 'w'))
