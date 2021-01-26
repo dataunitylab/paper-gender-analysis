@@ -1,0 +1,182 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"usenix\"/\"usenix2003g\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"99.62"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"25",
+"@dc":"25",
+"@oc":"25",
+"@id":"17594187",
+"text":":facetid:toc:db/conf/usenix/usenix2003g.bht"
+}
+},
+"hits":{
+"@total":"25",
+"@computed":"25",
+"@sent":"25",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"4526276",
+"info":{"authors":{"author":[{"@pid":"78/6905","text":"Aaron B. Brown"},{"@pid":"p/DAPatterson","text":"David A. Patterson"}]},"title":"Undo for Operators - Building an Undoable E-mail Store.","venue":"USENIX Annual Technical Conference, General Track","pages":"1-14","year":"2003","type":"Conference and Workshop Papers","key":"conf/usenix/BrownP03","ee":"http://www.usenix.org/events/usenix03/tech/brown.html","url":"https://dblp.org/rec/conf/usenix/BrownP03"},
+"url":"URL#4526276"
+},
+{
+"@score":"1",
+"@id":"4526277",
+"info":{"authors":{"author":[{"@pid":"61/5154","text":"Zhifeng Chen"},{"@pid":"99/2747-1","text":"Yuanyuan Zhou 0001"},{"@pid":"l/KaiLi1","text":"Kai Li 0001"}]},"title":"Eviction-based Cache Placement for Storage Caches.","venue":"USENIX Annual Technical Conference, General Track","pages":"269-281","year":"2003","type":"Conference and Workshop Papers","key":"conf/usenix/ChenZL03","ee":"http://www.usenix.org/events/usenix03/tech/chen.html","url":"https://dblp.org/rec/conf/usenix/ChenZL03"},
+"url":"URL#4526277"
+},
+{
+"@score":"1",
+"@id":"4526278",
+"info":{"authors":{"author":[{"@pid":"81/5635","text":"Grzegorz Czajkowski"},{"@pid":"d/LaurentDaynes","text":"Laurent Daynès"},{"@pid":"t/BenTitzer","text":"Ben L. Titzer"}]},"title":"A Multi-User Virtual Machine.","venue":"USENIX Annual Technical Conference, General Track","pages":"85-98","year":"2003","type":"Conference and Workshop Papers","key":"conf/usenix/CzajkowskiDT03","ee":"http://www.usenix.org/events/usenix03/tech/czajkowski.html","url":"https://dblp.org/rec/conf/usenix/CzajkowskiDT03"},
+"url":"URL#4526278"
+},
+{
+"@score":"1",
+"@id":"4526279",
+"info":{"authors":{"author":[{"@pid":"d/FredDouglis","text":"Fred Douglis"},{"@pid":"i/ArunIyengar","text":"Arun Iyengar"}]},"title":"Application-specific Delta-encoding via Resemblance Detection.","venue":"USENIX Annual Technical Conference, General Track","pages":"113-126","year":"2003","type":"Conference and Workshop Papers","key":"conf/usenix/DouglisI03","ee":"http://www.usenix.org/events/usenix03/tech/douglis.html","url":"https://dblp.org/rec/conf/usenix/DouglisI03"},
+"url":"URL#4526279"
+},
+{
+"@score":"1",
+"@id":"4526283",
+"info":{"authors":{"author":[{"@pid":"21/5545","text":"Keir Faser"},{"@pid":"13/6463","text":"Fay Chang"}]},"title":"Operating System I/O Speculation - How Two Invocations Are Faster Than One.","venue":"USENIX Annual Technical Conference, General Track","pages":"325-338","year":"2003","type":"Conference and Workshop Papers","key":"conf/usenix/FaserC03","ee":"http://www.usenix.org/events/usenix03/tech/fraser.html","url":"https://dblp.org/rec/conf/usenix/FaserC03"},
+"url":"URL#4526283"
+},
+{
+"@score":"1",
+"@id":"4526287",
+"info":{"authors":{"author":[{"@pid":"h/MikeHibler","text":"Mike Hibler"},{"@pid":"97/5570","text":"Leigh Stoller"},{"@pid":"l/JayLepreau","text":"Jay Lepreau"},{"@pid":"37/2827","text":"Robert Ricci"},{"@pid":"41/4871","text":"Chad Barb"}]},"title":"Fast, Scalable Disk Imaging with Frisbee.","venue":"USENIX Annual Technical Conference, General Track","pages":"283-296","year":"2003","type":"Conference and Workshop Papers","key":"conf/usenix/HiblerSLRB03","ee":"http://www.usenix.org/events/usenix03/tech/hibler.html","url":"https://dblp.org/rec/conf/usenix/HiblerSLRB03"},
+"url":"URL#4526287"
+},
+{
+"@score":"1",
+"@id":"4526288",
+"info":{"authors":{"author":[{"@pid":"51/944-2","text":"Hai Huang 0002"},{"@pid":"36/6668","text":"Padmanabhan Pillai"},{"@pid":"s/KangGShin","text":"Kang G. Shin"}]},"title":"Design and Implementation of Power-Aware Virtual Memory.","venue":"USENIX Annual Technical Conference, General Track","pages":"57-70","year":"2003","type":"Conference and Workshop Papers","key":"conf/usenix/HuangPS03","ee":"http://www.usenix.org/events/usenix03/tech/huang.html","url":"https://dblp.org/rec/conf/usenix/HuangPS03"},
+"url":"URL#4526288"
+},
+{
+"@score":"1",
+"@id":"4526289",
+"info":{"authors":{"author":[{"@pid":"43/6998","text":"Minwen Ji"},{"@pid":"28/2712","text":"Alistair C. Veitch"},{"@pid":"w/JohnWilkes","text":"John Wilkes"}]},"title":"Seneca - remote mirroring done write.","venue":"USENIX Annual Technical Conference, General Track","pages":"253-268","year":"2003","type":"Conference and Workshop Papers","key":"conf/usenix/JiVW03","ee":"http://www.usenix.org/events/usenix03/tech/ji.html","url":"https://dblp.org/rec/conf/usenix/JiVW03"},
+"url":"URL#4526289"
+},
+{
+"@score":"1",
+"@id":"4526290",
+"info":{"authors":{"author":[{"@pid":"k/AngelosDKeromytis","text":"Angelos D. Keromytis"},{"@pid":"27/4846","text":"Jason L. Wright"},{"@pid":"54/954","text":"Theo de Raadt"}]},"title":"The Design of the {OpenBSD} Cryptographic Framework.","venue":"USENIX Annual Technical Conference, General Track","pages":"181-196","year":"2003","type":"Conference and Workshop Papers","key":"conf/usenix/KeromytisWR03","ee":"http://www.usenix.org/events/usenix03/tech/keromytis.html","url":"https://dblp.org/rec/conf/usenix/KeromytisWR03"},
+"url":"URL#4526290"
+},
+{
+"@score":"1",
+"@id":"4526292",
+"info":{"authors":{"author":[{"@pid":"54/5833","text":"Samuel T. King"},{"@pid":"54/6493","text":"George W. Dunlap"},{"@pid":"c/PeterMChen","text":"Peter M. Chen"}]},"title":"Operating System Support for Virtual Machines.","venue":"USENIX Annual Technical Conference, General Track","pages":"71-84","year":"2003","type":"Conference and Workshop Papers","key":"conf/usenix/KingDC03","ee":"http://www.usenix.org/events/usenix03/tech/king.html","url":"https://dblp.org/rec/conf/usenix/KingDC03"},
+"url":"URL#4526292"
+},
+{
+"@score":"1",
+"@id":"4526296",
+"info":{"authors":{"author":[{"@pid":"99/6098","text":"Mark Lillibridge"},{"@pid":"18/1967","text":"Sameh Elnikety"},{"@pid":"b/AndrewBirrell","text":"Andrew Birrell"},{"@pid":"73/615","text":"Michael Burrows"},{"@pid":"17/5751","text":"Michael Isard"}]},"title":"A Cooperative Internet Backup Scheme.","venue":"USENIX Annual Technical Conference, General Track","pages":"29-41","year":"2003","type":"Conference and Workshop Papers","key":"conf/usenix/LillibridgeEBBI03","ee":"http://www.usenix.org/events/usenix03/tech/lillibridge.html","url":"https://dblp.org/rec/conf/usenix/LillibridgeEBBI03"},
+"url":"URL#4526296"
+},
+{
+"@score":"1",
+"@id":"4526300",
+"info":{"authors":{"author":[{"@pid":"73/5268","text":"James A. Nugent"},{"@pid":"a/AndreaCArpaciDusseau","text":"Andrea C. Arpaci-Dusseau"},{"@pid":"a/RemziHArpaciDusseau","text":"Remzi H. Arpaci-Dusseau"}]},"title":"Controlling Your PLACE in the File System with Gray-box Techniques.","venue":"USENIX Annual Technical Conference, General Track","pages":"311-323","year":"2003","type":"Conference and Workshop Papers","key":"conf/usenix/NugentAA03","ee":"http://www.usenix.org/events/usenix03/tech/nugent.html","url":"https://dblp.org/rec/conf/usenix/NugentAA03"},
+"url":"URL#4526300"
+},
+{
+"@score":"1",
+"@id":"4526302",
+"info":{"authors":{"author":[{"@pid":"24/4849","text":"Yoann Padioleau"},{"@pid":"r/ORidoux","text":"Olivier Ridoux"}]},"title":"A Logic File System.","venue":"USENIX Annual Technical Conference, General Track","pages":"99-112","year":"2003","type":"Conference and Workshop Papers","key":"conf/usenix/PadioleauR03","ee":"http://www.usenix.org/events/usenix03/tech/padioleau.html","url":"https://dblp.org/rec/conf/usenix/PadioleauR03"},
+"url":"URL#4526302"
+},
+{
+"@score":"1",
+"@id":"4526305",
+"info":{"authors":{"author":[{"@pid":"34/1202","text":"Florentina I. Popovici"},{"@pid":"a/AndreaCArpaciDusseau","text":"Andrea C. Arpaci-Dusseau"},{"@pid":"a/RemziHArpaciDusseau","text":"Remzi H. Arpaci-Dusseau"}]},"title":"Robust, Portable I/O Scheduling with the Disk Mimic.","venue":"USENIX Annual Technical Conference, General Track","pages":"297-310","year":"2003","type":"Conference and Workshop Papers","key":"conf/usenix/PopoviciAA03","ee":"http://www.usenix.org/events/usenix03/tech/popovici.html","url":"https://dblp.org/rec/conf/usenix/PopoviciAA03"},
+"url":"URL#4526305"
+},
+{
+"@score":"1",
+"@id":"4526306",
+"info":{"authors":{"author":[{"@pid":"78/1434","text":"Manish Prasad"},{"@pid":"c/TcChiueh","text":"Tzi-cker Chiueh"}]},"title":"A Binary Rewriting Defense Against Stack based Buffer Overflow Attacks.","venue":"USENIX Annual Technical Conference, General Track","pages":"211-224","year":"2003","type":"Conference and Workshop Papers","key":"conf/usenix/PrasadC03","ee":"http://www.usenix.org/events/usenix03/tech/prasad.html","url":"https://dblp.org/rec/conf/usenix/PrasadC03"},
+"url":"URL#4526306"
+},
+{
+"@score":"1",
+"@id":"4526308",
+"info":{"authors":{"author":[{"@pid":"r/MarcelCatalinRosu","text":"Marcel-Catalin Rosu"},{"@pid":"40/578","text":"Daniela Rosu 0001"}]},"title":"Kernel Support for Faster Web Proxies.","venue":"USENIX Annual Technical Conference, General Track","pages":"225-238","year":"2003","type":"Conference and Workshop Papers","key":"conf/usenix/RosuR03","ee":"http://www.usenix.org/events/usenix03/tech/rosu.html","url":"https://dblp.org/rec/conf/usenix/RosuR03"},
+"url":"URL#4526308"
+},
+{
+"@score":"1",
+"@id":"4526309",
+"info":{"authors":{"author":[{"@pid":"r/MRoussopoulos","text":"Mema Roussopoulos"},{"@pid":"b/MaryBaker","text":"Mary Baker"}]},"title":"CUP - Controlled Update Propagation in Peer-to-Peer Networks.","venue":"USENIX Annual Technical Conference, General Track","pages":"167-180","year":"2003","type":"Conference and Workshop Papers","key":"conf/usenix/RoussopoulosB03","ee":"http://www.usenix.org/events/usenix03/tech/roussopoulos.html","url":"https://dblp.org/rec/conf/usenix/RoussopoulosB03"},
+"url":"URL#4526309"
+},
+{
+"@score":"1",
+"@id":"4526311",
+"info":{"authors":{"author":[{"@pid":"35/680","text":"Craig A. N. Soules"},{"@pid":"36/248","text":"Jonathan Appavoo"},{"@pid":"39/3074","text":"Kevin Hui"},{"@pid":"01/6137","text":"Robert W. Wisniewski"},{"@pid":"03/6463","text":"Dilma Da Silva"},{"@pid":"g/GregoryRGanger","text":"Gregory R. Ganger"},{"@pid":"73/2727","text":"Orran Krieger"},{"@pid":"82/5150","text":"Michael Stumm"},{"@pid":"46/4364","text":"Marc A. Auslander"},{"@pid":"66/5207","text":"Michal Ostrowski"},{"@pid":"54/7010","text":"Bryan S. Rosenburg"},{"@pid":"17/1537","text":"Jimi Xenidis"}]},"title":"System Support for Online Reconfiguration.","venue":"USENIX Annual Technical Conference, General Track","pages":"141-154","year":"2003","type":"Conference and Workshop Papers","key":"conf/usenix/SoulesAHWSGKSAORX03","ee":"http://www.usenix.org/events/usenix03/tech/soules.html","url":"https://dblp.org/rec/conf/usenix/SoulesAHWSGKSAORX03"},
+"url":"URL#4526311"
+},
+{
+"@score":"1",
+"@id":"4526312",
+"info":{"authors":{"author":[{"@pid":"73/3350","text":"Godfrey Tan"},{"@pid":"24/5162","text":"Massimiliano Poletto"},{"@pid":"g/JohnVGuttag","text":"John V. Guttag"},{"@pid":"k/MFransKaashoek","text":"M. Frans Kaashoek"}]},"title":"Role Classification of Hosts Within Enterprise Networks Based on Connection Patterns.","venue":"USENIX Annual Technical Conference, General Track","pages":"15-28","year":"2003","type":"Conference and Workshop Papers","key":"conf/usenix/TanPGK03","ee":"http://www.usenix.org/events/usenix03/tech/tan.html","url":"https://dblp.org/rec/conf/usenix/TanPGK03"},
+"url":"URL#4526312"
+},
+{
+"@score":"1",
+"@id":"4526313",
+"info":{"authors":{"author":[{"@pid":"t/NirajTolia","text":"Niraj Tolia"},{"@pid":"59/5000","text":"Michael Kozuch"},{"@pid":"s/MahadevSatyanarayanan","text":"Mahadev Satyanarayanan"},{"@pid":"06/5980","text":"Brad Karp"},{"@pid":"b/ThomasCBressoud","text":"Thomas C. Bressoud"},{"@pid":"16/6873","text":"Adrian Perrig"}]},"title":"Opportunistic Use of Content Addressable Storage for Distributed File Systems.","venue":"USENIX Annual Technical Conference, General Track","pages":"127-140","year":"2003","type":"Conference and Workshop Papers","key":"conf/usenix/ToliaKSKBP03","ee":"http://www.usenix.org/events/usenix03/tech/tolia.html","url":"https://dblp.org/rec/conf/usenix/ToliaKSKBP03"},
+"url":"URL#4526313"
+},
+{
+"@score":"1",
+"@id":"4526317",
+"info":{"authors":{"author":[{"@pid":"51/5214","text":"Charles P. Wright"},{"@pid":"40/886","text":"Michael C. Martino"},{"@pid":"71/1341","text":"Erez Zadok"}]},"title":"NCryptfs - A Secure and Convenient Cryptographic File System.","venue":"USENIX Annual Technical Conference, General Track","pages":"197-210","year":"2003","type":"Conference and Workshop Papers","key":"conf/usenix/WrightMZ03","ee":"http://www.usenix.org/events/usenix03/tech/wright.html","url":"https://dblp.org/rec/conf/usenix/WrightMZ03"},
+"url":"URL#4526317"
+},
+{
+"@score":"1",
+"@id":"4526318",
+"info":{"authors":{"author":[{"@pid":"24/5057","text":"Victor C. Zandy"},{"@pid":"m/BartonPMiller","text":"Barton P. Miller"}]},"title":"Checkpoints of GUI-based Applications.","venue":"USENIX Annual Technical Conference, General Track","pages":"155-165","year":"2003","type":"Conference and Workshop Papers","key":"conf/usenix/ZandyM03","ee":"http://www.usenix.org/events/usenix03/tech/zandy.html","url":"https://dblp.org/rec/conf/usenix/ZandyM03"},
+"url":"URL#4526318"
+},
+{
+"@score":"1",
+"@id":"4526320",
+"info":{"authors":{"author":[{"@pid":"99/5780","text":"Nickolai Zeldovich"},{"@pid":"24/1123","text":"Alexander Yip"},{"@pid":"19/6590","text":"Frank Dabek"},{"@pid":"82/11191","text":"Robert Tappan Morris"},{"@pid":"m/DMazieres","text":"David Mazières"},{"@pid":"k/MFransKaashoek","text":"M. Frans Kaashoek"}]},"title":"Multiprocessor Support for Event-Driven Programs.","venue":"USENIX Annual Technical Conference, General Track","pages":"239-252","year":"2003","type":"Conference and Workshop Papers","key":"conf/usenix/ZeldovichYDMMK03","ee":"http://www.usenix.org/events/usenix03/tech/zeldovich.html","url":"https://dblp.org/rec/conf/usenix/ZeldovichYDMMK03"},
+"url":"URL#4526320"
+},
+{
+"@score":"1",
+"@id":"4526321",
+"info":{"authors":{"author":[{"@pid":"99/4278","text":"Heng Zeng"},{"@pid":"e/CSEllis","text":"Carla Schlatter Ellis"},{"@pid":"l/ARLebeck","text":"Alvin R. Lebeck"},{"@pid":"v/AminVahdat","text":"Amin Vahdat"}]},"title":"Currentcy - A Unifying Abstraction for Expressing Energy Management Policies.","venue":"USENIX Annual Technical Conference, General Track","pages":"43-56","year":"2003","type":"Conference and Workshop Papers","key":"conf/usenix/ZengELV03","ee":"http://www.usenix.org/events/usenix03/tech/zeng.html","url":"https://dblp.org/rec/conf/usenix/ZengELV03"},
+"url":"URL#4526321"
+},
+{
+"@score":"1",
+"@id":"4532245",
+"info":{"title":"Proceedings of the General Track - 2003 USENIX Annual Technical Conference, June 9-14, 2003, San Antonio, Texas, USA","venue":"USENIX Annual Technical Conference, General Track","publisher":"USENIX","year":"2003","type":"Editorship","key":"conf/usenix/2003g","url":"https://dblp.org/rec/conf/usenix/2003g"},
+"url":"URL#4532245"
+}
+]
+}
+}
+}

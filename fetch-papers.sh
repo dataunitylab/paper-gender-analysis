@@ -5,12 +5,12 @@ mkdir -p data
 function get_dblp_json() {
     local OPTIND
 
-    local field pub_type start_idx end_idx offset skip label
+    local field pub_type start_idx end_idx offset skip label parts group suffix
 
     offset=0
     skip=1
 
-    while getopts "f:t:k:s:e:o:n:l:p:" opt; do
+    while getopts "f:t:k:s:e:o:n:l:p:g:x:" opt; do
         case "$opt" in
             f)  # Field of the publication
                 field="$OPTARG";;
@@ -38,11 +38,20 @@ function get_dblp_json() {
 
             p)  # Number of parts for multipart proceedings
                 parts="$OPTARG";;
+
+            g)  # The first part of the path after /{conf,journal}
+                group="$OPTARG";;
+
+            x)  # A suffix which should be added to the URL, but not saved
+                suffix="$OPTARG";;
         esac
     done
 
     # Default the label to the key
     if [ -z "$label" ]; then label="$key"; fi
+
+    # Default the group to the key
+    if [ -z "$group" ]; then group="$key"; fi
 
     # Loop over the range of parameters
     # (typically years or journal volume numbers)
@@ -52,10 +61,10 @@ function get_dblp_json() {
             if [ -z "$parts" ]; then
                 # Exclude the part entirely for single part proceedings
                 local outfile="data/$field/$label-$(($param+$offset)).json"
-                local url="https://dblp.org/search/publ/api?q=toc%3Adb/$pub_type/$key/$key$param.bht%3A&h=1000&format=json"
+                local url="https://dblp.org/search/publ/api?q=toc%3Adb/$pub_type/$group/$key$param$suffix.bht%3A&h=1000&format=json"
             else
                 local outfile="data/$field/$label-$(($param+$offset))-$part.json"
-                local url="https://dblp.org/search/publ/api?q=toc%3Adb/$pub_type/$key/$key$param-$part.bht%3A&h=1000&format=json"
+                local url="https://dblp.org/search/publ/api?q=toc%3Adb/$pub_type/$group/$key$param$suffix-$part.bht%3A&h=1000&format=json"
             fi
 
             # Download the file if does not exist
@@ -99,9 +108,9 @@ get_dblp_json -f db -t journals -k pvldb -s 1 -e 13 -o 2007 -l vldb
 #get_dblp_json -f ai -t conf -k icml -s 1993 -e 2020
 
 get_dblp_json -f ai -t conf -k aaai -s 80 -e 93 -o 1900
-get_dblp_json -f ai -t conf -k aaai -s 94 -e 96 -o 1900 -p 2 -n 2
+get_dblp_json -f ai -t conf -k aaai -s 94 -e 96 -o 1900 -n 2 -p 2
 get_dblp_json -f ai -t conf -k aaai -s 97 -e 99 -o 1900
-get_dblp_json -f ai -t conf -k aaai -s 2000 -e 2004 -p 2
+get_dblp_json -f ai -t conf -k aaai -s 2000 -e 2004 -n 2
 get_dblp_json -f ai -t conf -k aaai -s 2005 -e 2020
 
 #get_dblp_json -f ai -t conf -k iclr -s 2013 -e 2020
@@ -119,6 +128,12 @@ get_dblp_json -f hci -t conf -k chi -s 2000 -e 2020
 
 get_dblp_json -f hci -t conf -k uist -s 1988 -e 2020
 
+get_dblp_json -f hci -t conf -k huc -s 1999 -e 2000 -l ubicomp
+get_dblp_json -f hci -t conf -g huc -k ubicomp -s 2001 -e 2019
+
+get_dblp_json -f hci -t conf -k pervasive -s 2002 -e 2012
+
+get_dblp_json -f hci -t conf -k imwut -s 1 -e 4 -o 2016
 
 ### Networking ###
 
@@ -127,7 +142,7 @@ get_dblp_json -f networking -t conf -k sigcomm -s 1981 -e 2020
 get_dblp_json -f networking -t conf -k nsdi -s 2004 -e 2020
 
 
-### Systems ###
+### Operating Systems ###
 
 get_dblp_json -f systems -t conf -k osdi -s 94 -e 96 -o 1900 -n 2
 get_dblp_json -f systems -t conf -k osdi -s 99 -e 99 -o 1900
@@ -140,5 +155,7 @@ get_dblp_json -f systems -t conf -k eurosys -s 2006 -o 2020
 
 get_dblp_json -f systems -t conf -k fast -s 2002 -e 2020
 
-# TODO Get earlier years
-get_dblp_json -f systems -t conf -k usenix -s 2009 -e 2020
+get_dblp_json -f systems -t conf -k usenix -s 96 -e 97 -o 1900
+get_dblp_json -f systems -t conf -k usenix -s 1998
+get_dblp_json -f systems -t conf -k usenix -s 1999 -e 2006 -x g
+get_dblp_json -f systems -t conf -k usenix -s 2007 -e 2020

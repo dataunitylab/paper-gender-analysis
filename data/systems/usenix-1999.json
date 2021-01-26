@@ -1,0 +1,176 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"usenix\"/\"usenix1999g\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"136.98"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"24",
+"@dc":"24",
+"@oc":"24",
+"@id":"17594179",
+"text":":facetid:toc:db/conf/usenix/usenix1999g.bht"
+}
+},
+"hits":{
+"@total":"24",
+"@computed":"24",
+"@sent":"24",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"4849447",
+"info":{"authors":{"author":[{"@pid":"90/4916","text":"Todd A. Anderson"},{"@pid":"g/JimGriffioen","text":"Jim Griffioen"}]},"title":"An Application-Aware Data Storage Model.","venue":"USENIX Annual Technical Conference, General Track","pages":"309-322","year":"1999","type":"Conference and Workshop Papers","key":"conf/usenix/AndersonG99","ee":"http://www.usenix.org/events/usenix99/full_papers/anderson/anderson.pdf","url":"https://dblp.org/rec/conf/usenix/AndersonG99"},
+"url":"URL#4849447"
+},
+{
+"@score":"1",
+"@id":"4849448",
+"info":{"authors":{"author":[{"@pid":"86/5918","text":"Mohit Aron"},{"@pid":"d/PDruschel","text":"Peter Druschel"},{"@pid":"z/WZwaenepoel","text":"Willy Zwaenepoel"}]},"title":"Efficient Support for P-HTTP in Cluster-Based Web Servers.","venue":"USENIX Annual Technical Conference, General Track","pages":"185-198","year":"1999","type":"Conference and Workshop Papers","key":"conf/usenix/AronDZ99","ee":"http://www.usenix.org/events/usenix99/full_papers/aron/aron.pdf","url":"https://dblp.org/rec/conf/usenix/AronDZ99"},
+"url":"URL#4849448"
+},
+{
+"@score":"1",
+"@id":"4849450",
+"info":{"authors":{"author":[{"@pid":"55/2641","text":"Gaurav Banga"},{"@pid":"m/JeffreyCMogul","text":"Jeffrey C. Mogul"},{"@pid":"d/PDruschel","text":"Peter Druschel"}]},"title":"A Scalable and Explicit Event Delivery Mechanism for UNIX.","venue":"USENIX Annual Technical Conference, General Track","pages":"253-265","year":"1999","type":"Conference and Workshop Papers","key":"conf/usenix/BangaMD99","ee":"http://www.usenix.org/events/usenix99/full_papers/banga/banga.pdf","url":"https://dblp.org/rec/conf/usenix/BangaMD99"},
+"url":"URL#4849450"
+},
+{
+"@score":"1",
+"@id":"4849452",
+"info":{"authors":{"author":[{"@pid":"b/TimBrecht","text":"Tim Brecht"},{"@pid":"98/3387","text":"Harjinder S. Sandhu"}]},"title":"The Region Trap Library - Handling Traps on Application-Defined Regions of Memory.","venue":"USENIX Annual Technical Conference, General Track","pages":"85-99","year":"1999","type":"Conference and Workshop Papers","key":"conf/usenix/BrechtS99","ee":"http://www.usenix.org/events/usenix99/full_papers/brecht/brecht.pdf","url":"https://dblp.org/rec/conf/usenix/BrechtS99"},
+"url":"URL#4849452"
+},
+{
+"@score":"1",
+"@id":"4849453",
+"info":{"authors":{"author":[{"@pid":"b/JohnLBruno","text":"John L. Bruno"},{"@pid":"b/JoseCarlosBrustoloni","text":"José Carlos Brustoloni"},{"@pid":"25/598","text":"Eran Gabber"},{"@pid":"o/BanuOzden","text":"Banu Özden"},{"@pid":"s/AbrahamSilberschatz","text":"Abraham Silberschatz"}]},"title":"Retrofitting Quality of Service into a Time-Sharing Operating System.","venue":"USENIX Annual Technical Conference, General Track","pages":"15-26","year":"1999","type":"Conference and Workshop Papers","key":"conf/usenix/BrunoBGOS99","ee":"http://www.usenix.org/events/usenix99/full_papers/bruno/bruno.pdf","url":"https://dblp.org/rec/conf/usenix/BrunoBGOS99"},
+"url":"URL#4849453"
+},
+{
+"@score":"1",
+"@id":"4849456",
+"info":{"authors":{"author":[{"@pid":"61/4476","text":"Jongmoo Choi"},{"@pid":"81/970","text":"Sam H. Noh"},{"@pid":"34/5109","text":"Sang Lyul Min"},{"@pid":"92/4612","text":"Yookun Cho"}]},"title":"An Implementation Study of a Detection-Based Adaptive Block Replacement Scheme.","venue":"USENIX Annual Technical Conference, General Track","pages":"239-252","year":"1999","type":"Conference and Workshop Papers","key":"conf/usenix/ChoiNMC99","ee":"http://www.usenix.org/events/usenix99/full_papers/choi/choi.pdf","url":"https://dblp.org/rec/conf/usenix/ChoiNMC99"},
+"url":"URL#4849456"
+},
+{
+"@score":"1",
+"@id":"4849458",
+"info":{"authors":{"author":[{"@pid":"11/5709","text":"Charles D. Cranor"},{"@pid":"50/4579","text":"Guru M. Parulkar"}]},"title":"The UVM Virtual Memory System.","venue":"USENIX Annual Technical Conference, General Track","pages":"117-130","year":"1999","type":"Conference and Workshop Papers","key":"conf/usenix/CranorP99","ee":"http://www.usenix.org/events/usenix99/full_papers/cranor/cranor.pdf","url":"https://dblp.org/rec/conf/usenix/CranorP99"},
+"url":"URL#4849458"
+},
+{
+"@score":"1",
+"@id":"4849460",
+"info":{"authors":{"author":[{"@pid":"11/4765","text":"Luke Deller"},{"@pid":"h/GernotHeiser","text":"Gernot Heiser"}]},"title":"Linking Programs in a Single Address Space.","venue":"USENIX Annual Technical Conference, General Track","pages":"283-294","year":"1999","type":"Conference and Workshop Papers","key":"conf/usenix/DellerH99","ee":"http://www.usenix.org/events/usenix99/full_papers/deller/deller.pdf","url":"https://dblp.org/rec/conf/usenix/DellerH99"},
+"url":"URL#4849460"
+},
+{
+"@score":"1",
+"@id":"4849461",
+"info":{"authors":{"author":[{"@pid":"d/FredDouglis","text":"Fred Douglis"},{"@pid":"90/6576","text":"Tom Killian"}]},"title":"Adaptive Modem Connection Lifetimes.","venue":"USENIX Annual Technical Conference, General Track","pages":"27-41","year":"1999","type":"Conference and Workshop Papers","key":"conf/usenix/DouglisK99","ee":"http://www.usenix.org/events/usenix99/full_papers/douglis/douglis.pdf","url":"https://dblp.org/rec/conf/usenix/DouglisK99"},
+"url":"URL#4849461"
+},
+{
+"@score":"1",
+"@id":"4849465",
+"info":{"authors":{"author":[{"@pid":"25/598","text":"Eran Gabber"},{"@pid":"s/ChristopherSmall","text":"Christopher Small"},{"@pid":"b/JohnLBruno","text":"John L. Bruno"},{"@pid":"b/JoseCarlosBrustoloni","text":"José Carlos Brustoloni"},{"@pid":"s/AbrahamSilberschatz","text":"Abraham Silberschatz"}]},"title":"The Pebble Component-Based Operating System.","venue":"USENIX Annual Technical Conference, General Track","pages":"267-282","year":"1999","type":"Conference and Workshop Papers","key":"conf/usenix/GabberSBBS99","ee":"http://www.usenix.org/events/usenix99/full_papers/gabber/gabber.pdf","url":"https://dblp.org/rec/conf/usenix/GabberSBBS99"},
+"url":"URL#4849465"
+},
+{
+"@score":"1",
+"@id":"4849467",
+"info":{"authors":{"author":[{"@pid":"g/StevenDGribble","text":"Steven D. Gribble"},{"@pid":"w/MattWelsh","text":"Matt Welsh"},{"@pid":"b/EricABrewer","text":"Eric A. Brewer"},{"@pid":"c/DavidECuller","text":"David E. Culler"}]},"title":"The MultiSpace - An Evolutionary Platform for Infrastructural Services.","venue":"USENIX Annual Technical Conference, General Track","pages":"157-170","year":"1999","type":"Conference and Workshop Papers","key":"conf/usenix/GribbleWBC99","ee":"http://www.usenix.org/events/usenix99/full_papers/gribble/gribble.pdf","url":"https://dblp.org/rec/conf/usenix/GribbleWBC99"},
+"url":"URL#4849467"
+},
+{
+"@score":"1",
+"@id":"4849468",
+"info":{"authors":{"author":[{"@pid":"83/2798","text":"Thomas Gschwind"},{"@pid":"h/ManfredHauswirth","text":"Manfred Hauswirth"}]},"title":"NewsCache - A High-Performance Cache Implementation for Usenet News.","venue":"USENIX Annual Technical Conference, General Track","pages":"213-224","year":"1999","type":"Conference and Workshop Papers","key":"conf/usenix/GschwindH99","ee":"http://www.usenix.org/events/usenix99/full_papers/gschwind/gschwind.pdf","url":"https://dblp.org/rec/conf/usenix/GschwindH99"},
+"url":"URL#4849468"
+},
+{
+"@score":"1",
+"@id":"4849472",
+"info":{"authors":{"author":[{"@pid":"38/794","text":"Yui-Wah Lee"},{"@pid":"l/KwongSakLeung","text":"Kwong-Sak Leung"},{"@pid":"s/MahadevSatyanarayanan","text":"Mahadev Satyanarayanan"}]},"title":"Operation-based Update Propagation in a Mobile File System.","venue":"USENIX Annual Technical Conference, General Track","pages":"43-56","year":"1999","type":"Conference and Workshop Papers","key":"conf/usenix/LeeLS99","ee":"http://www.usenix.org/events/usenix99/full_papers/lee/lee.pdf","url":"https://dblp.org/rec/conf/usenix/LeeLS99"},
+"url":"URL#4849472"
+},
+{
+"@score":"1",
+"@id":"4849475",
+"info":{"authors":{"author":[{"@pid":"83/2134","text":"Carlos Maltzahn"},{"@pid":"85/3987","text":"Kathy J. Richardson"},{"@pid":"g/DirkGrunwald","text":"Dirk Grunwald"}]},"title":"Reducing the Disk I/O of Web Proxy Server Caches.","venue":"USENIX Annual Technical Conference, General Track","pages":"225-238","year":"1999","type":"Conference and Workshop Papers","key":"conf/usenix/MaltzahnRG99","ee":"http://www.usenix.org/events/usenix99/full_papers/maltzahn/maltzahn.pdf","url":"https://dblp.org/rec/conf/usenix/MaltzahnRG99"},
+"url":"URL#4849475"
+},
+{
+"@score":"1",
+"@id":"4849479",
+"info":{"authors":{"author":[{"@pid":"m/RobMiller","text":"Robert C. Miller"},{"@pid":"54/1970","text":"Brad A. Myers"}]},"title":"Lightweight Structured Text Processing.","venue":"USENIX Annual Technical Conference, General Track","pages":"131-144","year":"1999","type":"Conference and Workshop Papers","key":"conf/usenix/MillerM99","ee":"http://www.usenix.org/events/usenix99/full_papers/miller/miller.pdf","url":"https://dblp.org/rec/conf/usenix/MillerM99"},
+"url":"URL#4849479"
+},
+{
+"@score":"1",
+"@id":"4849481",
+"info":{"authors":{"author":[{"@pid":"66/6694","text":"Tycho Nightingale"},{"@pid":"68/5169","text":"Yiming Hu"},{"@pid":"47/3749-1","text":"Qing Yang 0001"}]},"title":"The Design and Implementation of a DCD Device Driver for Unix.","venue":"USENIX Annual Technical Conference, General Track","pages":"295-307","year":"1999","type":"Conference and Workshop Papers","key":"conf/usenix/NightingaleHY99","ee":"http://www.usenix.org/events/usenix99/full_papers/nightingale/nightingale.pdf","url":"https://dblp.org/rec/conf/usenix/NightingaleHY99"},
+"url":"URL#4849481"
+},
+{
+"@score":"1",
+"@id":"4849483",
+"info":{"authors":{"author":[{"@pid":"00/1016","text":"Vivek S. Pai"},{"@pid":"d/PDruschel","text":"Peter Druschel"},{"@pid":"z/WZwaenepoel","text":"Willy Zwaenepoel"}]},"title":"Flash - An efficient and portable Web server.","venue":"USENIX Annual Technical Conference, General Track","pages":"199-212","year":"1999","type":"Conference and Workshop Papers","key":"conf/usenix/PaiDZ99","ee":"http://www.usenix.org/events/usenix99/full_papers/pai/pai.pdf","url":"https://dblp.org/rec/conf/usenix/PaiDZ99"},
+"url":"URL#4849483"
+},
+{
+"@score":"1",
+"@id":"4849484",
+"info":{"authors":{"author":[{"@pid":"86/2622","text":"David Petrou"},{"@pid":"62/5423","text":"John W. Milford"},{"@pid":"g/GarthAGibson","text":"Garth A. Gibson"}]},"title":"Implementing Lottery Scheduling - Matching the Specializations in Traditional Schedulers.","venue":"USENIX Annual Technical Conference, General Track","pages":"1-14","year":"1999","type":"Conference and Workshop Papers","key":"conf/usenix/PetrouMG99","ee":"http://www.usenix.org/events/usenix99/full_papers/petrou/petrou.pdf","url":"https://dblp.org/rec/conf/usenix/PetrouMG99"},
+"url":"URL#4849484"
+},
+{
+"@score":"1",
+"@id":"4849490",
+"info":{"authors":{"author":[{"@pid":"64/2667","text":"Elizabeth A. M. Shriver"},{"@pid":"s/ChristopherSmall","text":"Christopher Small"},{"@pid":"s/KeithASmith","text":"Keith A. Smith"}]},"title":"Why does file system prefetching work?","venue":"USENIX Annual Technical Conference, General Track","pages":"71-84","year":"1999","type":"Conference and Workshop Papers","key":"conf/usenix/ShriverSS99","ee":"http://www.usenix.org/events/usenix99/full_papers/shriver/shriver.pdf","url":"https://dblp.org/rec/conf/usenix/ShriverSS99"},
+"url":"URL#4849490"
+},
+{
+"@score":"1",
+"@id":"4849491",
+"info":{"authors":{"author":{"@pid":"s/LincolnStein","text":"Lincoln Stein"}},"title":"SBOX - Put CGI Scripts in a Box.","venue":"USENIX Annual Technical Conference, General Track","pages":"145-155","year":"1999","type":"Conference and Workshop Papers","key":"conf/usenix/Stein99","ee":"http://www.usenix.org/events/usenix99/full_papers/stein/stein.pdf","url":"https://dblp.org/rec/conf/usenix/Stein99"},
+"url":"URL#4849491"
+},
+{
+"@score":"1",
+"@id":"4849493",
+"info":{"authors":{"author":[{"@pid":"40/6597","text":"Radek Vingralek"},{"@pid":"b/YuriBreitbart","text":"Yuri Breitbart"},{"@pid":"45/177","text":"Mehmet Sayal"},{"@pid":"s/PeterScheuermann","text":"Peter Scheuermann"}]},"title":"Web++ - A System for Fast and Reliable Web Service.","venue":"USENIX Annual Technical Conference, General Track","pages":"171-184","year":"1999","type":"Conference and Workshop Papers","key":"conf/usenix/VingralekBSS99","ee":"http://www.usenix.org/events/usenix99/full_papers/vingralek/vingralek.pdf","url":"https://dblp.org/rec/conf/usenix/VingralekBSS99"},
+"url":"URL#4849493"
+},
+{
+"@score":"1",
+"@id":"4849495",
+"info":{"authors":{"author":[{"@pid":"43/1901","text":"Paul R. Wilson"},{"@pid":"77/5214","text":"Scott F. Kaplan"},{"@pid":"s/YSmaragdakis","text":"Yannis Smaragdakis"}]},"title":"The Case for Compressed Caching in Virtual Memory Systems.","venue":"USENIX Annual Technical Conference, General Track","pages":"101-116","year":"1999","type":"Conference and Workshop Papers","key":"conf/usenix/WilsonKS99","ee":"http://www.usenix.org/events/usenix99/full_papers/wilson/wilson.pdf","url":"https://dblp.org/rec/conf/usenix/WilsonKS99"},
+"url":"URL#4849495"
+},
+{
+"@score":"1",
+"@id":"4849496",
+"info":{"authors":{"author":[{"@pid":"71/1341","text":"Erez Zadok"},{"@pid":"48/239","text":"Ion Badulescu"},{"@pid":"61/1027","text":"Alex Shender"}]},"title":"Extending File Systems Using Stackable Templates.","venue":"USENIX Annual Technical Conference, General Track","pages":"57-70","year":"1999","type":"Conference and Workshop Papers","key":"conf/usenix/ZadokBS99","ee":"http://www.usenix.org/events/usenix99/full_papers/zadok/zadok.pdf","url":"https://dblp.org/rec/conf/usenix/ZadokBS99"},
+"url":"URL#4849496"
+},
+{
+"@score":"1",
+"@id":"4852934",
+"info":{"title":"Proceedings of the 1999 USENIX Annual Technical Conference, June 6-11, 1999, Monterey, California, USA","venue":"USENIX Annual Technical Conference, General Track","publisher":"USENIX","year":"1999","type":"Editorship","key":"conf/usenix/1999g","url":"https://dblp.org/rec/conf/usenix/1999g"},
+"url":"URL#4852934"
+}
+]
+}
+}
+}
