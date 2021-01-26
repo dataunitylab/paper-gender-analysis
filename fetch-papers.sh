@@ -3,18 +3,47 @@
 mkdir -p data
 
 function get_dblp_json() {
-    local field=$1
-    local type=$2
-    local key=$3
-    local start=$4
-    local end=$5
-    local offset=$6
-    local skip=$7
-    local label="${8:-$key}"
+    local OPTIND
+
+    local field pub_type start_idx end_idx offset skip label
+
+    offset=0
+    skip=1
+
+    while getopts "f:t:k:s:e:o:p:l:" opt; do
+        case "$opt" in
+            f)  # Field of the publication
+                field="$OPTARG";;
+
+            t)  # Publication type (journal/conf)
+                pub_type="$OPTARG";;
+
+            k)  # The key of the publication (used in the URL)
+                key="$OPTARG";;
+
+            s)  # The numerical index to start retrieval
+                start_idx="$OPTARG";;
+
+            e)  # The numerical index to end retrieval
+                end_idx="$OPTARG";;
+
+            o)  # The offset between the numerical index and the year
+                offset="$OPTARG";;
+
+            p)  # The number to skip on increment (e.g. 2 for alternate years)
+                skip="$OPTARG";;
+
+            l)  # The label to be stored under (if different than key)
+                label="$OPTARG";;
+        esac
+    done
+
+    # Default the label to the key
+    if [ -z "$label" ]; then label="$key"; fi
 
     # Loop over the range of parameters
     # (typically years or journal volume numbers)
-    for param in $(seq $start $skip $end); do
+    for param in $(seq $start_idx $skip $end_idx); do
         # Find the output filename
         local outfile="data/$field/$label-$(($param+$offset)).json"
 
@@ -30,23 +59,23 @@ function get_dblp_json() {
 
 ### DB ###
 
-get_dblp_json db conf cidr 2003 2020 0 2
+get_dblp_json -f db -t conf -k cidr -s 2003 -e 2020 -p 2
 
-get_dblp_json db conf edbt 88 99 1900
-get_dblp_json db conf edbt 2000 2020 0
+get_dblp_json -f db -t conf -k edbt -s 88 -e 99 -o 1900
+get_dblp_json -f db -t conf -k edbt -s 2000 -e 2020
 
-get_dblp_json db conf icde 84 99 1900
-get_dblp_json db conf icde 2000 2020 0
+get_dblp_json -f db -t conf -k icde -s 84 -e 99 -o 1900
+get_dblp_json -f db -t conf -k icde -s 2000 -e 2020
 
-get_dblp_json db conf sigmod 75 99 1900
-get_dblp_json db conf sigmod 2000 2020 0
+get_dblp_json -f db -t conf -k sigmod -s 75 -e 99 -o 1900
+get_dblp_json -f db -t conf -k sigmod -s 2000 -e 2020
 
-get_dblp_json db journals vldb 1 29 1991 1 vldbj
+get_dblp_json -f db -t journals -k vldb -s 1 -e 29 -o 1991 -l vldbj
 
 # VLDB is fragmented on DBLP but we collect the data together
-get_dblp_json db conf vldb 75 99 1900
-get_dblp_json db conf vldb 2000 2007 0
-get_dblp_json db journals pvldb 1 13 2007 1 vldb
+get_dblp_json -f db -t conf -k vldb -s 75 -e 99 -o 1900
+get_dblp_json -f db -t conf -k vldb -s 2000 -e 2007
+get_dblp_json -f db -t journals -k pvldb -s 1 -e 13 -o 2007 -l vldb
 
 # get_dblp_json db journals tods 1 45 1975
 #get_dblp_json db conf kdd 2010 2020 0
@@ -55,51 +84,51 @@ get_dblp_json db journals pvldb 1 13 2007 1 vldb
 
 ### AI ###
 
-get_dblp_json ai conf nips 1987 2019 0
+get_dblp_json -f ai -t conf -k nips -s 1987 -e 2019
 
-get_dblp_json ai conf icml 1993 2020 0
+get_dblp_json -f ai -t conf -k icml -s 1993 -e 2020
 
-get_dblp_json ai conf aaai 80 93 1900
+get_dblp_json -f ai -t conf -k aaai -s 80 -e 93 -o 1900
 # TODO Get weird years with -1 and -2 suffixes
-get_dblp_json ai conf aaai 97 99 1900
-get_dblp_json ai conf aaai 2000 2004 0 2
-get_dblp_json ai conf aaai 2005 2020 0
+get_dblp_json -f ai -t conf -k aaai -s 97 -e 99 -o 1900
+get_dblp_json -f ai -t conf -k aaai -s 2000 -e 2004 -p 2
+get_dblp_json -f ai -t conf -k aaai -s 2005 -e 2020
 
-get_dblp_json ai conf iclr 2013 2020 0
+get_dblp_json -f ai -t conf -k iclr -s 2013 -e 2020
 
-get_dblp_json ai conf ijcai 69 99 1900 2
-get_dblp_json ai conf ijcai 2001 2015 0 2
-get_dblp_json ai conf ijcai 2016 2020 0
+get_dblp_json -f ai -t conf -k ijcai -s 69 -e 99 -o 1900 -p 2
+get_dblp_json -f ai -t conf -k ijcai -s 2001 -e 2015 -p 2
+get_dblp_json -f ai -t conf -k ijcai -s 2016 -e 2020
 
 
 ### HCI ###
 
-get_dblp_json hci conf chi 1989 1991 0
-get_dblp_json hci conf chi 92 99 1900
-get_dblp_json hci conf chi 2000 2020 0
+get_dblp_json -f hci -t conf -k chi -s 1989 -e 1991
+get_dblp_json -f hci -t conf -k chi -s 92 -e 99 -o 1900
+get_dblp_json -f hci -t conf -k chi -s 2000 -e 2020
 
-get_dblp_json hci conf uist 1988 2020 0
+get_dblp_json -f hci -t conf -k uist -s 1988 -e 2020
 
 
 ### Networking ###
 
-get_dblp_json networking conf sigcomm 1981 2020 0
+get_dblp_json -f networking -t conf -k sigcomm -s 1981 -e 2020
 
-get_dblp_json networking conf nsdi 2004 2020 0
+get_dblp_json -f networking -t conf -k nsdi -s 2004 -e 2020
 
 
 ### Systems ###
 
-get_dblp_json systems conf osdi 94 96 1900 2
-get_dblp_json systems conf osdi 99 99 1900
-get_dblp_json systems conf osdi 2000 2018 0 2
+get_dblp_json -f systems -t conf -k osdi -s 94 -e 96 -o 1900 -p 2
+get_dblp_json -f systems -t conf -k osdi -s 99 -e 99 -o 1900
+get_dblp_json -f systems -t conf -k osdi -s 2000 -e 2018 -p 2
 
-get_dblp_json systems conf sosp 69 99 1900 2
-get_dblp_json systems conf sosp 2001 2019 0 2
+get_dblp_json -f systems -t conf -k sosp -s 69 -e 99 -o 1900 -p 2
+get_dblp_json -f systems -t conf -k sosp -s 2001 -e 2019 -p 2
 
-get_dblp_json systems conf eurosys 2006 2020 0
+get_dblp_json -f systems -t conf -k eurosys -s 2006 -o 2020
 
-get_dblp_json systems conf fast 2002 2020 0
+get_dblp_json -f systems -t conf -k fast -s 2002 -e 2020
 
 # TODO Get earlier years
-get_dblp_json systems conf usenix 2009 2020 0
+get_dblp_json -f systems -t conf -k usenix -s 2009 -e 2020
