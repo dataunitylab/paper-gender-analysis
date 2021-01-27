@@ -1,0 +1,200 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"pods\"/\"pods93\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"132.50"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"28",
+"@dc":"28",
+"@oc":"28",
+"@id":"17593454",
+"text":":facetid:toc:db/conf/pods/pods93.bht"
+}
+},
+"hits":{
+"@total":"28",
+"@computed":"28",
+"@sent":"28",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"5145102",
+"info":{"authors":{"author":[{"@pid":"b/JVdBussche","text":"Jan Van den Bussche"},{"@pid":"g/DirkVanGucht","text":"Dirk Van Gucht"},{"@pid":"v/GottfriedVossen","text":"Gottfried Vossen"}]},"title":"Reflective Programming in the Relational Algebra.","venue":"PODS","pages":"17-25","year":"1993","type":"Conference and Workshop Papers","key":"conf/pods/BusscheGV93","doi":"10.1145/153850.153852","ee":"https://doi.org/10.1145/153850.153852","url":"https://dblp.org/rec/conf/pods/BusscheGV93"},
+"url":"URL#5145102"
+},
+{
+"@score":"1",
+"@id":"5145103",
+"info":{"authors":{"author":{"@pid":"c/SurajitChaudhuri","text":"Surajit Chaudhuri"}},"title":"Finding Nonrecursive Envelopes for Datalog Predicates.","venue":"PODS","pages":"135-146","year":"1993","type":"Conference and Workshop Papers","key":"conf/pods/Chaudhuri93","doi":"10.1145/153850.153862","ee":"https://doi.org/10.1145/153850.153862","url":"https://dblp.org/rec/conf/pods/Chaudhuri93"},
+"url":"URL#5145103"
+},
+{
+"@score":"1",
+"@id":"5145104",
+"info":{"authors":{"author":[{"@pid":"c/SurajitChaudhuri","text":"Surajit Chaudhuri"},{"@pid":"v/MosheYVardi","text":"Moshe Y. Vardi"}]},"title":"Optimization of Real Conjunctive Queries.","venue":"PODS","pages":"59-70","year":"1993","type":"Conference and Workshop Papers","key":"conf/pods/ChaudhuriV93","doi":"10.1145/153850.153856","ee":"https://doi.org/10.1145/153850.153856","url":"https://dblp.org/rec/conf/pods/ChaudhuriV93"},
+"url":"URL#5145104"
+},
+{
+"@score":"1",
+"@id":"5145105",
+"info":{"authors":{"author":[{"@pid":"10/1448-5","text":"Weidong Chen 0005"},{"@pid":"w/DavidScottWarren","text":"David Scott Warren"}]},"title":"Query Evaluation under the Well Founded Semantics.","venue":"PODS","pages":"168-179","year":"1993","type":"Conference and Workshop Papers","key":"conf/pods/ChenW93","doi":"10.1145/153850.153865","ee":"https://doi.org/10.1145/153850.153865","url":"https://dblp.org/rec/conf/pods/ChenW93"},
+"url":"URL#5145105"
+},
+{
+"@score":"1",
+"@id":"5145106",
+"info":{"authors":{"author":[{"@pid":"c/JChomicki","text":"Jan Chomicki"},{"@pid":"n/DamianNiwinski","text":"Damian Niwinski"}]},"title":"On the Feasibility of Checking Temporal Integrity Constraints.","venue":"PODS","pages":"202-213","year":"1993","type":"Conference and Workshop Papers","key":"conf/pods/ChomickiN93","doi":"10.1145/153850.153876","ee":"https://doi.org/10.1145/153850.153876","url":"https://dblp.org/rec/conf/pods/ChomickiN93"},
+"url":"URL#5145106"
+},
+{
+"@score":"1",
+"@id":"5145107",
+"info":{"authors":{"author":[{"@pid":"07/4085","text":"Karl Denninghoff"},{"@pid":"v/VictorVianu","text":"Victor Vianu"}]},"title":"Database Method Schemas and Object Creation.","venue":"PODS","pages":"265-275","year":"1993","type":"Conference and Workshop Papers","key":"conf/pods/DenninghoffV93","doi":"10.1145/153850.153911","ee":"https://doi.org/10.1145/153850.153911","url":"https://dblp.org/rec/conf/pods/DenninghoffV93"},
+"url":"URL#5145107"
+},
+{
+"@score":"1",
+"@id":"5145108",
+"info":{"authors":{"author":[{"@pid":"e/TEiter","text":"Thomas Eiter"},{"@pid":"g/GeorgGottlob","text":"Georg Gottlob"}]},"title":"Complexity Aspects of Various Semantics for Disjunctive Databases.","venue":"PODS","pages":"158-167","year":"1993","type":"Conference and Workshop Papers","key":"conf/pods/EiterG93","doi":"10.1145/153850.153864","ee":"https://doi.org/10.1145/153850.153864","url":"https://dblp.org/rec/conf/pods/EiterG93"},
+"url":"URL#5145108"
+},
+{
+"@score":"1",
+"@id":"5145109",
+"info":{"authors":{"author":[{"@pid":"81/2715","text":"Martha Escobar-Molano"},{"@pid":"h/RichardHull","text":"Richard Hull 0001"},{"@pid":"96/2901","text":"Dean Jacobs"}]},"title":"Safety and Translation of Calculus Queries with Scalar Functions.","venue":"PODS","pages":"253-264","year":"1993","type":"Conference and Workshop Papers","key":"conf/pods/Escobar-MolanoHJ93","doi":"10.1145/153850.153909","ee":"https://doi.org/10.1145/153850.153909","url":"https://dblp.org/rec/conf/pods/Escobar-MolanoHJ93"},
+"url":"URL#5145109"
+},
+{
+"@score":"1",
+"@id":"5145110",
+"info":{"authors":{"author":{"@pid":"g/AllenVanGelder","text":"Allen Van Gelder"}},"title":"Multiple Join Size Estimation by Virtual Domains.","venue":"PODS","pages":"180-189","year":"1993","type":"Conference and Workshop Papers","key":"conf/pods/Gelder93","doi":"10.1145/153850.153872","ee":"https://doi.org/10.1145/153850.153872","url":"https://dblp.org/rec/conf/pods/Gelder93"},
+"url":"URL#5145110"
+},
+{
+"@score":"1",
+"@id":"5145111",
+"info":{"authors":{"author":[{"@pid":"g/SGrumbach","text":"Stéphane Grumbach"},{"@pid":"m/TovaMilo","text":"Tova Milo"}]},"title":"Towards Tractable Algebras for Bags.","venue":"PODS","pages":"49-58","year":"1993","type":"Conference and Workshop Papers","key":"conf/pods/GrumbachM93","doi":"10.1145/153850.153855","ee":"https://doi.org/10.1145/153850.153855","url":"https://dblp.org/rec/conf/pods/GrumbachM93"},
+"url":"URL#5145111"
+},
+{
+"@score":"1",
+"@id":"5145112",
+"info":{"authors":{"author":[{"@pid":"h/PeterJHaas","text":"Peter J. Haas"},{"@pid":"n/JeffreyFNaughton","text":"Jeffrey F. Naughton"},{"@pid":"71/2538","text":"S. Seshadri"},{"@pid":"98/589","text":"Arun N. Swami"}]},"title":"Fixed-Precision Estimation of Join Selectivity.","venue":"PODS","pages":"190-201","year":"1993","type":"Conference and Workshop Papers","key":"conf/pods/HaasNSS93","doi":"10.1145/153850.153875","ee":"https://doi.org/10.1145/153850.153875","url":"https://dblp.org/rec/conf/pods/HaasNSS93"},
+"url":"URL#5145112"
+},
+{
+"@score":"1",
+"@id":"5145113",
+"info":{"authors":{"author":[{"@pid":"h/TirzaHirst","text":"Tirza Hirst"},{"@pid":"h/DavidHarel","text":"David Harel"}]},"title":"Completeness Results for Recursive Data Bases.","venue":"PODS","pages":"244-252","year":"1993","type":"Conference and Workshop Papers","key":"conf/pods/HirstH93","doi":"10.1145/153850.153905","ee":"https://doi.org/10.1145/153850.153905","url":"https://dblp.org/rec/conf/pods/HirstH93"},
+"url":"URL#5145113"
+},
+{
+"@score":"1",
+"@id":"5145114",
+"info":{"authors":{"author":[{"@pid":"k/ParisCKanellakis","text":"Paris C. Kanellakis"},{"@pid":"85/6371","text":"Sridhar Ramaswamy"},{"@pid":"50/2398","text":"Darren Erik Vengroff"},{"@pid":"v/JeffreyScottVitter","text":"Jeffrey Scott Vitter"}]},"title":"Indexing for Data Models with Constraints and Classes.","venue":"PODS","pages":"233-243","year":"1993","type":"Conference and Workshop Papers","key":"conf/pods/KanellakisRVV93","doi":"10.1145/153850.153884","ee":"https://doi.org/10.1145/153850.153884","url":"https://dblp.org/rec/conf/pods/KanellakisRVV93"},
+"url":"URL#5145114"
+},
+{
+"@score":"1",
+"@id":"5145115",
+"info":{"authors":{"author":[{"@pid":"h/AlonYHalevy","text":"Alon Y. Levy"},{"@pid":"m/ISMumick","text":"Inderpal Singh Mumick"},{"@pid":"26/5086","text":"Yehoshua Sagiv"},{"@pid":"s/OShmueli","text":"Oded Shmueli"}]},"title":"Equivalence, Query-Reachability, and Satisfiability in Datalog Extensions.","venue":"PODS","pages":"109-122","year":"1993","type":"Conference and Workshop Papers","key":"conf/pods/LevyMSS93","doi":"10.1145/153850.153860","ee":"https://doi.org/10.1145/153850.153860","url":"https://dblp.org/rec/conf/pods/LevyMSS93"},
+"url":"URL#5145115"
+},
+{
+"@score":"1",
+"@id":"5145116",
+"info":{"authors":{"author":[{"@pid":"l/LeonidLibkin","text":"Leonid Libkin"},{"@pid":"w/LimsoonWong","text":"Limsoon Wong"}]},"title":"Semantic Representations and Query Languages for Or-sets.","venue":"PODS","pages":"37-48","year":"1993","type":"Conference and Workshop Papers","key":"conf/pods/LibkinW93","doi":"10.1145/153850.153854","ee":"https://doi.org/10.1145/153850.153854","url":"https://dblp.org/rec/conf/pods/LibkinW93"},
+"url":"URL#5145116"
+},
+{
+"@score":"1",
+"@id":"5145117",
+"info":{"authors":{"author":[{"@pid":"m/DavidMaier","text":"David Maier 0001"},{"@pid":"35/6080","text":"Bennet Vance"}]},"title":"A Call to Order.","venue":"PODS","pages":"1-16","year":"1993","type":"Conference and Workshop Papers","key":"conf/pods/MaierV93","doi":"10.1145/153850.153851","ee":"https://doi.org/10.1145/153850.153851","url":"https://dblp.org/rec/conf/pods/MaierV93"},
+"url":"URL#5145117"
+},
+{
+"@score":"1",
+"@id":"5145118",
+"info":{"authors":{"author":{"@pid":"m/ShinichiMorishita","text":"Shinichi Morishita"}},"title":"An Alternating Fixpoint Tailored to Magic Programs.","venue":"PODS","pages":"123-134","year":"1993","type":"Conference and Workshop Papers","key":"conf/pods/Morishita93","doi":"10.1145/153850.153861","ee":"https://doi.org/10.1145/153850.153861","url":"https://dblp.org/rec/conf/pods/Morishita93"},
+"url":"URL#5145118"
+},
+{
+"@score":"1",
+"@id":"5145119",
+"info":{"authors":{"author":[{"@pid":"13/2564","text":"Mark H. Nodine"},{"@pid":"g/MichaelTGoodrich","text":"Michael T. Goodrich"},{"@pid":"v/JeffreyScottVitter","text":"Jeffrey Scott Vitter"}]},"title":"Blocking for External Graph Searching.","venue":"PODS","pages":"222-232","year":"1993","type":"Conference and Workshop Papers","key":"conf/pods/NodineGV93","doi":"10.1145/153850.153880","ee":"https://doi.org/10.1145/153850.153880","url":"https://dblp.org/rec/conf/pods/NodineGV93"},
+"url":"URL#5145119"
+},
+{
+"@score":"1",
+"@id":"5145120",
+"info":{"authors":{"author":[{"@pid":"60/6281","text":"Bernd-Uwe Pagel"},{"@pid":"s/HansWernerSix","text":"Hans-Werner Six"},{"@pid":"63/3052","text":"Heinrich Toben"},{"@pid":"w/PeterWidmayer","text":"Peter Widmayer"}]},"title":"Towards an Analysis of Range Query Performance in Spatial Data Structures.","venue":"PODS","pages":"214-221","year":"1993","type":"Conference and Workshop Papers","key":"conf/pods/PagelSTW93","doi":"10.1145/153850.153878","ee":"https://doi.org/10.1145/153850.153878","url":"https://dblp.org/rec/conf/pods/PagelSTW93"},
+"url":"URL#5145120"
+},
+{
+"@score":"1",
+"@id":"5145121",
+"info":{"authors":{"author":[{"@pid":"r/RajeevRastogi","text":"Rajeev Rastogi"},{"@pid":"k/HenryFKorth","text":"Henry F. Korth"},{"@pid":"s/AbrahamSilberschatz","text":"Abraham Silberschatz"}]},"title":"Strict Histories in Object-Based Database Systems.","venue":"PODS","pages":"288-299","year":"1993","type":"Conference and Workshop Papers","key":"conf/pods/RastogiKS93","doi":"10.1145/153850.153934","ee":"https://doi.org/10.1145/153850.153934","url":"https://dblp.org/rec/conf/pods/RastogiKS93"},
+"url":"URL#5145121"
+},
+{
+"@score":"1",
+"@id":"5145122",
+"info":{"authors":{"author":[{"@pid":"r/RajeevRastogi","text":"Rajeev Rastogi"},{"@pid":"m/SharadMehrotra","text":"Sharad Mehrotra"},{"@pid":"b/YuriBreitbart","text":"Yuri Breitbart"},{"@pid":"k/HenryFKorth","text":"Henry F. Korth"},{"@pid":"s/AbrahamSilberschatz","text":"Abraham Silberschatz"}]},"title":"On Correctness of Non-serializable Executions.","venue":"PODS","pages":"97-108","year":"1993","type":"Conference and Workshop Papers","key":"conf/pods/RastogiMBKS93","doi":"10.1145/153850.153859","ee":"https://doi.org/10.1145/153850.153859","url":"https://dblp.org/rec/conf/pods/RastogiMBKS93"},
+"url":"URL#5145122"
+},
+{
+"@score":"1",
+"@id":"5145123",
+"info":{"authors":{"author":{"@pid":"r/YoavRaz","text":"Yoav Raz"}},"title":"Extended Commitment Ordering or Guaranteeing Global Serializability by Applying Commitment Order Selectivity to Global Transactions.","venue":"PODS","pages":"83-96","year":"1993","type":"Conference and Workshop Papers","key":"conf/pods/Raz93","doi":"10.1145/153850.153858","ee":"https://doi.org/10.1145/153850.153858","url":"https://dblp.org/rec/conf/pods/Raz93"},
+"url":"URL#5145123"
+},
+{
+"@score":"1",
+"@id":"5145124",
+"info":{"authors":{"author":{"@pid":"r/PZRevesz","text":"Peter Z. Revesz"}},"title":"On the Semantics of Theory Change - Arbitration between Old and New Information.","venue":"PODS","pages":"71-82","year":"1993","type":"Conference and Workshop Papers","key":"conf/pods/Revesz93","doi":"10.1145/153850.153857","ee":"https://doi.org/10.1145/153850.153857","url":"https://dblp.org/rec/conf/pods/Revesz93"},
+"url":"URL#5145124"
+},
+{
+"@score":"1",
+"@id":"5145125",
+"info":{"authors":{"author":{"@pid":"00/2963","text":"Marco Schaerf"}},"title":"Negation and Minimality in Non-Horn Databases.","venue":"PODS","pages":"147-157","year":"1993","type":"Conference and Workshop Papers","key":"conf/pods/Schaerf93","doi":"10.1145/153850.153863","ee":"https://doi.org/10.1145/153850.153863","url":"https://dblp.org/rec/conf/pods/Schaerf93"},
+"url":"URL#5145125"
+},
+{
+"@score":"1",
+"@id":"5145126",
+"info":{"authors":{"author":[{"@pid":"s/HansJorgSchek","text":"Hans-Jörg Schek"},{"@pid":"w/GerhardWeikum","text":"Gerhard Weikum"},{"@pid":"55/2489","text":"Haiyan Ye"}]},"title":"Towards a Unified Theory of Concurrency Control and Recovery.","venue":"PODS","pages":"300-311","year":"1993","type":"Conference and Workshop Papers","key":"conf/pods/SchekWY93","doi":"10.1145/153850.153935","ee":"https://doi.org/10.1145/153850.153935","url":"https://dblp.org/rec/conf/pods/SchekWY93"},
+"url":"URL#5145126"
+},
+{
+"@score":"1",
+"@id":"5145127",
+"info":{"authors":{"author":{"@pid":"w/LimsoonWong","text":"Limsoon Wong"}},"title":"Normal Forms and Conservative Properties for Query Languages over Collection Types.","venue":"PODS","pages":"26-36","year":"1993","type":"Conference and Workshop Papers","key":"conf/pods/Wong93","doi":"10.1145/153850.153853","ee":"https://doi.org/10.1145/153850.153853","url":"https://dblp.org/rec/conf/pods/Wong93"},
+"url":"URL#5145127"
+},
+{
+"@score":"1",
+"@id":"5145128",
+"info":{"authors":{"author":[{"@pid":"w/ManHonWong","text":"Man Hon Wong 0001"},{"@pid":"a/DivyakantAgrawal","text":"Divyakant Agrawal"}]},"title":"Context-Based Synchronisation - An Approach beyond Semantics for Concurrency Control.","venue":"PODS","pages":"276-287","year":"1993","type":"Conference and Workshop Papers","key":"conf/pods/WongA93","doi":"10.1145/153850.153922","ee":"https://doi.org/10.1145/153850.153922","url":"https://dblp.org/rec/conf/pods/WongA93"},
+"url":"URL#5145128"
+},
+{
+"@score":"1",
+"@id":"5150191",
+"info":{"authors":{"author":{"@pid":"b/CBeeri","text":"Catriel Beeri"}},"title":"Proceedings of the Twelfth ACM SIGACT-SIGMOD-SIGART Symposium on Principles of Database Systems, May 25-28, 1993, Washington, DC, USA","publisher":"ACM Press","year":"1993","type":"Editorship","key":"conf/pods/93","ee":"http://dl.acm.org/citation.cfm?id=153850","url":"https://dblp.org/rec/conf/pods/93"},
+"url":"URL#5150191"
+}
+]
+}
+}
+}

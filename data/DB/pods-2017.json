@@ -1,0 +1,248 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"pods\"/\"pods2017\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"139.23"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"36",
+"@dc":"36",
+"@oc":"36",
+"@id":"17593439",
+"text":":facetid:toc:db/conf/pods/pods2017.bht"
+}
+},
+"hits":{
+"@total":"36",
+"@computed":"36",
+"@sent":"36",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"1404182",
+"info":{"authors":{"author":[{"@pid":"17/4975","text":"Mario Alviano"},{"@pid":"33/8486","text":"Michael Morak"},{"@pid":"89/5672","text":"Andreas Pieris"}]},"title":"Stable Model Semantics for Tuple-Generating Dependencies Revisited.","venue":"PODS","pages":"377-388","year":"2017","type":"Conference and Workshop Papers","key":"conf/pods/AlvianoMP17","doi":"10.1145/3034786.3034794","ee":"https://doi.org/10.1145/3034786.3034794","url":"https://dblp.org/rec/conf/pods/AlvianoMP17"},
+"url":"URL#1404182"
+},
+{
+"@score":"1",
+"@id":"1404183",
+"info":{"authors":{"author":[{"@pid":"56/9687","text":"Antoine Amarilli"},{"@pid":"183/1682","text":"Mikaël Monet"},{"@pid":"12/225","text":"Pierre Senellart"}]},"title":"Conjunctive Queries on Probabilistic Graphs - Combined Complexity.","venue":"PODS","pages":"217-232","year":"2017","type":"Conference and Workshop Papers","key":"conf/pods/AmarilliMS17","doi":"10.1145/3034786.3056121","ee":"https://doi.org/10.1145/3034786.3056121","url":"https://dblp.org/rec/conf/pods/AmarilliMS17"},
+"url":"URL#1404183"
+},
+{
+"@score":"1",
+"@id":"1404184",
+"info":{"authors":{"author":{"@pid":"125/2903","text":"Sepehr Assadi"}},"title":"Tight Space-Approximation Tradeoff for the Multi-Pass Streaming Set Cover Problem.","venue":"PODS","pages":"321-335","year":"2017","type":"Conference and Workshop Papers","key":"conf/pods/Assadi17","doi":"10.1145/3034786.3056116","ee":"https://doi.org/10.1145/3034786.3056116","url":"https://dblp.org/rec/conf/pods/Assadi17"},
+"url":"URL#1404184"
+},
+{
+"@score":"1",
+"@id":"1404185",
+"info":{"authors":{"author":[{"@pid":"b/MichaelABender","text":"Michael A. Bender"},{"@pid":"f/MartinFarachColton","text":"Martin Farach-Colton"},{"@pid":"47/6172","text":"Rob Johnson"},{"@pid":"199/6302","text":"Simon Mauras"},{"@pid":"199/6288","text":"Tyler Mayer"},{"@pid":"18/1807","text":"Cynthia A. Phillips"},{"@pid":"60/8527","text":"Helen Xu"}]},"title":"Write-Optimized Skip Lists.","venue":"PODS","pages":"69-78","year":"2017","type":"Conference and Workshop Papers","key":"conf/pods/BenderFJMMPX17","doi":"10.1145/3034786.3056117","ee":"https://doi.org/10.1145/3034786.3056117","url":"https://dblp.org/rec/conf/pods/BenderFJMMPX17"},
+"url":"URL#1404185"
+},
+{
+"@score":"1",
+"@id":"1404186",
+"info":{"authors":{"author":[{"@pid":"b/MichaelBenedikt","text":"Michael Benedikt"},{"@pid":"07/1548","text":"George Konstantinidis 0001"},{"@pid":"m/GMecca","text":"Giansalvatore Mecca"},{"@pid":"56/1508","text":"Boris Motik"},{"@pid":"p/PaoloPapotti","text":"Paolo Papotti"},{"@pid":"32/5873","text":"Donatello Santoro"},{"@pid":"03/2000","text":"Efthymia Tsamoura"}]},"title":"Benchmarking the Chase.","venue":"PODS","pages":"37-52","year":"2017","type":"Conference and Workshop Papers","key":"conf/pods/BenediktKMMPST17","doi":"10.1145/3034786.3034796","ee":"https://doi.org/10.1145/3034786.3034796","url":"https://dblp.org/rec/conf/pods/BenediktKMMPST17"},
+"url":"URL#1404186"
+},
+{
+"@score":"1",
+"@id":"1404187",
+"info":{"authors":{"author":[{"@pid":"09/11269","text":"Christoph Berkholz"},{"@pid":"195/5682","text":"Jens Keppeler"},{"@pid":"s/NicoleSchweikardt","text":"Nicole Schweikardt"}]},"title":"Answering Conjunctive Queries under Updates.","venue":"PODS","pages":"303-318","year":"2017","type":"Conference and Workshop Papers","key":"conf/pods/BerkholzKS17","doi":"10.1145/3034786.3034789","ee":"https://doi.org/10.1145/3034786.3034789","url":"https://dblp.org/rec/conf/pods/BerkholzKS17"},
+"url":"URL#1404187"
+},
+{
+"@score":"1",
+"@id":"1404188",
+"info":{"authors":{"author":[{"@pid":"80/28","text":"Meghyn Bienvenu"},{"@pid":"99/8038","text":"Stanislav Kikot"},{"@pid":"09/3547","text":"Roman Kontchakov"},{"@pid":"96/273","text":"Vladimir V. Podolskii"},{"@pid":"58/3023","text":"Vladislav Ryzhikov"},{"@pid":"z/MZakharyaschev","text":"Michael Zakharyaschev"}]},"title":"The Complexity of Ontology-Based Data Access with OWL 2 QL and Bounded Treewidth Queries.","venue":"PODS","pages":"201-216","year":"2017","type":"Conference and Workshop Papers","key":"conf/pods/BienvenuKKPRZ17","doi":"10.1145/3034786.3034791","ee":"https://doi.org/10.1145/3034786.3034791","url":"https://dblp.org/rec/conf/pods/BienvenuKKPRZ17"},
+"url":"URL#1404188"
+},
+{
+"@score":"1",
+"@id":"1404189",
+"info":{"authors":{"author":[{"@pid":"08/6004","text":"Pierre Bourhis"},{"@pid":"36/27","text":"Juan L. Reutter"},{"@pid":"99/4810","text":"Fernando Suárez"},{"@pid":"31/8653","text":"Domagoj Vrgoc"}]},"title":"JSON - Data model, Query languages and Schema specification.","venue":"PODS","pages":"123-135","year":"2017","type":"Conference and Workshop Papers","key":"conf/pods/BourhisRSV17","doi":"10.1145/3034786.3056120","ee":"https://doi.org/10.1145/3034786.3056120","url":"https://dblp.org/rec/conf/pods/BourhisRSV17"},
+"url":"URL#1404189"
+},
+{
+"@score":"1",
+"@id":"1404190",
+"info":{"authors":{"author":[{"@pid":"79/1368","text":"Simone Bova"},{"@pid":"s/StefanSzeider","text":"Stefan Szeider"}]},"title":"Circuit Treewidth, Sentential Decision, and Query Compilation.","venue":"PODS","pages":"233-246","year":"2017","type":"Conference and Workshop Papers","key":"conf/pods/BovaS17","doi":"10.1145/3034786.3034787","ee":"https://doi.org/10.1145/3034786.3034787","url":"https://dblp.org/rec/conf/pods/BovaS17"},
+"url":"URL#1404190"
+},
+{
+"@score":"1",
+"@id":"1404191",
+"info":{"authors":{"author":[{"@pid":"14/4758","text":"Vladimir Braverman"},{"@pid":"117/9255","text":"Stephen R. Chestnut"},{"@pid":"170/0251","text":"Nikita Ivkin"},{"@pid":"68/3296","text":"Jelani Nelson"},{"@pid":"64/2310","text":"Zhengyu Wang"},{"@pid":"w/DPWoodruff","text":"David P. Woodruff"}]},"title":"BPTree - An ℓ2 Heavy Hitters Algorithm Using Constant Memory.","venue":"PODS","pages":"361-376","year":"2017","type":"Conference and Workshop Papers","key":"conf/pods/BravermanCINWW17","doi":"10.1145/3034786.3034798","ee":"https://doi.org/10.1145/3034786.3034798","url":"https://dblp.org/rec/conf/pods/BravermanCINWW17"},
+"url":"URL#1404191"
+},
+{
+"@score":"1",
+"@id":"1404192",
+"info":{"authors":{"author":[{"@pid":"179/2145","text":"Nofar Carmeli"},{"@pid":"83/11148","text":"Batya Kenig"},{"@pid":"74/3195","text":"Benny Kimelfeld"}]},"title":"Efficiently Enumerating Minimal Triangulations.","venue":"PODS","pages":"273-287","year":"2017","type":"Conference and Workshop Papers","key":"conf/pods/CarmeliKK17","doi":"10.1145/3034786.3056109","ee":"https://doi.org/10.1145/3034786.3056109","url":"https://dblp.org/rec/conf/pods/CarmeliKK17"},
+"url":"URL#1404192"
+},
+{
+"@score":"1",
+"@id":"1404193",
+"info":{"authors":{"author":[{"@pid":"d/SBDavidson","text":"Susan B. Davidson"},{"@pid":"b/PeterBuneman","text":"Peter Buneman"},{"@pid":"98/6876","text":"Daniel Deutch"},{"@pid":"m/TovaMilo","text":"Tova Milo"},{"@pid":"71/3148","text":"Gianmaria Silvello"}]},"title":"Data Citation - A Computational Challenge.","venue":"PODS","pages":"1-4","year":"2017","type":"Conference and Workshop Papers","key":"conf/pods/DavidsonBDMS17","doi":"10.1145/3034786.3056123","ee":"https://doi.org/10.1145/3034786.3056123","url":"https://dblp.org/rec/conf/pods/DavidsonBDMS17"},
+"url":"URL#1404193"
+},
+{
+"@score":"1",
+"@id":"1404194",
+"info":{"authors":{"author":[{"@pid":"e/DEppstein","text":"David Eppstein"},{"@pid":"g/MichaelTGoodrich","text":"Michael T. Goodrich"},{"@pid":"74/838","text":"Michael Mitzenmacher"},{"@pid":"153/5354","text":"Manuel R. Torres"}]},"title":"2-3 Cuckoo Filters for Faster Triangle Listing and Set Intersection.","venue":"PODS","pages":"247-260","year":"2017","type":"Conference and Workshop Papers","key":"conf/pods/EppsteinGMT17","doi":"10.1145/3034786.3056115","ee":"https://doi.org/10.1145/3034786.3056115","url":"https://dblp.org/rec/conf/pods/EppsteinGMT17"},
+"url":"URL#1404194"
+},
+{
+"@score":"1",
+"@id":"1404195",
+"info":{"authors":{"author":[{"@pid":"94/2372","text":"Wenfei Fan"},{"@pid":"39/7035","text":"Ping Lu"}]},"title":"Dependencies for Graphs.","venue":"PODS","pages":"403-416","year":"2017","type":"Conference and Workshop Papers","key":"conf/pods/FanL17","doi":"10.1145/3034786.3056114","ee":"https://doi.org/10.1145/3034786.3056114","url":"https://dblp.org/rec/conf/pods/FanL17"},
+"url":"URL#1404195"
+},
+{
+"@score":"1",
+"@id":"1404196",
+"info":{"authors":{"author":[{"@pid":"78/9854","text":"Nadime Francis"},{"@pid":"l/LeonidLibkin","text":"Leonid Libkin"}]},"title":"Schema Mappings for Data Graphs.","venue":"PODS","pages":"389-401","year":"2017","type":"Conference and Workshop Papers","key":"conf/pods/FrancisL17","doi":"10.1145/3034786.3056113","ee":"https://doi.org/10.1145/3034786.3056113","url":"https://dblp.org/rec/conf/pods/FrancisL17"},
+"url":"URL#1404196"
+},
+{
+"@score":"1",
+"@id":"1404197",
+"info":{"authors":{"author":{"@pid":"g/LiseGetoor","text":"Lise Getoor"}},"title":"Statistical Relational Learning - Unifying AI &amp; DB Perspectives on Structured Probabilistic Models.","venue":"PODS","pages":"183","year":"2017","type":"Conference and Workshop Papers","key":"conf/pods/Getoor17","doi":"10.1145/3034786.3056450","ee":"https://doi.org/10.1145/3034786.3056450","url":"https://dblp.org/rec/conf/pods/Getoor17"},
+"url":"URL#1404197"
+},
+{
+"@score":"1",
+"@id":"1404198",
+"info":{"authors":{"author":[{"@pid":"58/11411","text":"Behzad Golshan"},{"@pid":"h/AlonYHalevy","text":"Alon Y. Halevy"},{"@pid":"m/GeorgeAMihaila","text":"George A. Mihaila"},{"@pid":"t/WangChiewTan","text":"Wang-Chiew Tan"}]},"title":"Data Integration - After the Teenage Years.","venue":"PODS","pages":"101-106","year":"2017","type":"Conference and Workshop Papers","key":"conf/pods/GolshanHMT17","doi":"10.1145/3034786.3056124","ee":"https://doi.org/10.1145/3034786.3056124","url":"https://dblp.org/rec/conf/pods/GolshanHMT17"},
+"url":"URL#1404198"
+},
+{
+"@score":"1",
+"@id":"1404199",
+"info":{"authors":{"author":[{"@pid":"39/9545","text":"Priya Govindan"},{"@pid":"11/4322","text":"Morteza Monemizadeh"},{"@pid":"m/SMuthukrishnan","text":"S. Muthukrishnan"}]},"title":"Streaming Algorithms for Measuring H-Impact.","venue":"PODS","pages":"337-346","year":"2017","type":"Conference and Workshop Papers","key":"conf/pods/GovindanMM17","doi":"10.1145/3034786.3056118","ee":"https://doi.org/10.1145/3034786.3056118","url":"https://dblp.org/rec/conf/pods/GovindanMM17"},
+"url":"URL#1404199"
+},
+{
+"@score":"1",
+"@id":"1404200",
+"info":{"authors":{"author":[{"@pid":"g/ToddJGreen","text":"Todd J. Green"},{"@pid":"t/ValTannen","text":"Val Tannen"}]},"title":"The Semiring Framework for Database Provenance.","venue":"PODS","pages":"93-99","year":"2017","type":"Conference and Workshop Papers","key":"conf/pods/GreenT17","doi":"10.1145/3034786.3056125","ee":"https://doi.org/10.1145/3034786.3056125","url":"https://dblp.org/rec/conf/pods/GreenT17"},
+"url":"URL#1404200"
+},
+{
+"@score":"1",
+"@id":"1404201",
+"info":{"authors":{"author":[{"@pid":"g/RachidGuerraoui","text":"Rachid Guerraoui"},{"@pid":"62/2631","text":"Jingjing Wang"}]},"title":"How Fast can a Distributed Transaction Commit?","venue":"PODS","pages":"107-122","year":"2017","type":"Conference and Workshop Papers","key":"conf/pods/GuerraouiW17","doi":"10.1145/3034786.3034799","ee":"https://doi.org/10.1145/3034786.3034799","url":"https://dblp.org/rec/conf/pods/GuerraouiW17"},
+"url":"URL#1404201"
+},
+{
+"@score":"1",
+"@id":"1404202",
+"info":{"authors":{"author":[{"@pid":"78/1057","text":"André Hernich"},{"@pid":"l/CarstenLutz","text":"Carsten Lutz"},{"@pid":"77/10525","text":"Fabio Papacchini"},{"@pid":"w/FrankWolter","text":"Frank Wolter"}]},"title":"Dichotomies in Ontology-Mediated Querying with the Guarded Fragment.","venue":"PODS","pages":"185-199","year":"2017","type":"Conference and Workshop Papers","key":"conf/pods/HernichLPW17","doi":"10.1145/3034786.3056108","ee":"https://doi.org/10.1145/3034786.3056108","url":"https://dblp.org/rec/conf/pods/HernichLPW17"},
+"url":"URL#1404202"
+},
+{
+"@score":"1",
+"@id":"1404203",
+"info":{"authors":{"author":[{"@pid":"h/JanHidders","text":"Jan Hidders"},{"@pid":"p/JParedaens","text":"Jan Paredaens"},{"@pid":"b/JVdBussche","text":"Jan Van den Bussche"}]},"title":"J-Logic - Logical Foundations for JSON Querying.","venue":"PODS","pages":"137-149","year":"2017","type":"Conference and Workshop Papers","key":"conf/pods/HiddersPB17","doi":"10.1145/3034786.3056106","ee":"https://doi.org/10.1145/3034786.3056106","url":"https://dblp.org/rec/conf/pods/HiddersPB17"},
+"url":"URL#1404203"
+},
+{
+"@score":"1",
+"@id":"1404204",
+"info":{"authors":{"author":[{"@pid":"19/1374","text":"Xiao Hu"},{"@pid":"t/YufeiTao","text":"Yufei Tao"},{"@pid":"43/1219-1","text":"Ke Yi 0001"}]},"title":"Output-optimal Parallel Algorithms for Similarity Joins.","venue":"PODS","pages":"79-90","year":"2017","type":"Conference and Workshop Papers","key":"conf/pods/HuTY17","doi":"10.1145/3034786.3056110","ee":"https://doi.org/10.1145/3034786.3056110","url":"https://dblp.org/rec/conf/pods/HuTY17"},
+"url":"URL#1404204"
+},
+{
+"@score":"1",
+"@id":"1404205",
+"info":{"authors":{"author":[{"@pid":"97/9726","text":"Zengfeng Huang"},{"@pid":"l/LinXuemin","text":"Xuemin Lin 0001"},{"@pid":"98/5684-1","text":"Wenjie Zhang 0001"},{"@pid":"13/6769-1","text":"Ying Zhang 0001"}]},"title":"Efficient Matrix Sketching over Distributed Data.","venue":"PODS","pages":"347-359","year":"2017","type":"Conference and Workshop Papers","key":"conf/pods/HuangLZZ17","doi":"10.1145/3034786.3056119","ee":"https://doi.org/10.1145/3034786.3056119","url":"https://dblp.org/rec/conf/pods/HuangLZZ17"},
+"url":"URL#1404205"
+},
+{
+"@score":"1",
+"@id":"1404206",
+"info":{"authors":{"author":[{"@pid":"67/1300","text":"Shiva Prasad Kasiviswanathan"},{"@pid":"65/801","text":"Kobbi Nissim"},{"@pid":"55/2789","text":"Hongxia Jin"}]},"title":"Private Incremental Regression.","venue":"PODS","pages":"167-182","year":"2017","type":"Conference and Workshop Papers","key":"conf/pods/Kasiviswanathan17","doi":"10.1145/3034786.3034795","ee":"https://doi.org/10.1145/3034786.3034795","url":"https://dblp.org/rec/conf/pods/Kasiviswanathan17"},
+"url":"URL#1404206"
+},
+{
+"@score":"1",
+"@id":"1404207",
+"info":{"authors":{"author":[{"@pid":"173/4933","text":"Tarun Kathuria"},{"@pid":"s/SSudarshan1","text":"S. Sudarshan 0001"}]},"title":"Efficient and Provable Multi-Query Optimization.","venue":"PODS","pages":"53-67","year":"2017","type":"Conference and Workshop Papers","key":"conf/pods/Kathuria017","doi":"10.1145/3034786.3034792","ee":"https://doi.org/10.1145/3034786.3034792","url":"https://dblp.org/rec/conf/pods/Kathuria017"},
+"url":"URL#1404207"
+},
+{
+"@score":"1",
+"@id":"1404208",
+"info":{"authors":{"author":[{"@pid":"83/11148","text":"Batya Kenig"},{"@pid":"74/3195","text":"Benny Kimelfeld"},{"@pid":"181/6266","text":"Haoyue Ping"},{"@pid":"s/JuliaStoyanovich","text":"Julia Stoyanovich"}]},"title":"Querying Probabilistic Preferences in Databases.","venue":"PODS","pages":"21-36","year":"2017","type":"Conference and Workshop Papers","key":"conf/pods/KenigKPS17","doi":"10.1145/3034786.3056111","ee":"https://doi.org/10.1145/3034786.3056111","url":"https://dblp.org/rec/conf/pods/KenigKPS17"},
+"url":"URL#1404208"
+},
+{
+"@score":"1",
+"@id":"1404209",
+"info":{"authors":{"author":[{"@pid":"147/1168","text":"Bas Ketsman"},{"@pid":"s/DanSuciu","text":"Dan Suciu"}]},"title":"A Worst-Case Optimal Multi-Round Algorithm for Parallel Computation of Conjunctive Queries.","venue":"PODS","pages":"417-428","year":"2017","type":"Conference and Workshop Papers","key":"conf/pods/KetsmanS17","doi":"10.1145/3034786.3034788","ee":"https://doi.org/10.1145/3034786.3034788","url":"https://dblp.org/rec/conf/pods/KetsmanS17"},
+"url":"URL#1404209"
+},
+{
+"@score":"1",
+"@id":"1404210",
+"info":{"authors":{"author":[{"@pid":"144/7839","text":"Mahmoud Abo Khamis"},{"@pid":"n/HungQNgo","text":"Hung Q. Ngo 0001"},{"@pid":"s/DanSuciu","text":"Dan Suciu"}]},"title":"What Do Shannon-type Inequalities, Submodular Width, and Disjunctive Datalog Have to Do with One Another?","venue":"PODS","pages":"429-444","year":"2017","type":"Conference and Workshop Papers","key":"conf/pods/Khamis0S17","doi":"10.1145/3034786.3056105","ee":"https://doi.org/10.1145/3034786.3056105","url":"https://dblp.org/rec/conf/pods/Khamis0S17"},
+"url":"URL#1404210"
+},
+{
+"@score":"1",
+"@id":"1404211",
+"info":{"authors":{"author":[{"@pid":"74/3195","text":"Benny Kimelfeld"},{"@pid":"r/ChristopherRe","text":"Christopher Ré"}]},"title":"A Relational Framework for Classifier Engineering.","venue":"PODS","pages":"5-20","year":"2017","type":"Conference and Workshop Papers","key":"conf/pods/KimelfeldR17","doi":"10.1145/3034786.3034797","ee":"https://doi.org/10.1145/3034786.3034797","url":"https://dblp.org/rec/conf/pods/KimelfeldR17"},
+"url":"URL#1404211"
+},
+{
+"@score":"1",
+"@id":"1404212",
+"info":{"authors":{"author":[{"@pid":"l/LeonidLibkin","text":"Leonid Libkin"},{"@pid":"v/MosheYVardi","text":"Moshe Y. Vardi"}]},"title":"2017 ACM PODS Alberto O. Mendelzon Test-of-Time Award.","venue":"PODS","pages":"91","year":"2017","type":"Conference and Workshop Papers","key":"conf/pods/LibkinV17","doi":"10.1145/3034786.3056122","ee":"https://doi.org/10.1145/3034786.3056122","url":"https://dblp.org/rec/conf/pods/LibkinV17"},
+"url":"URL#1404212"
+},
+{
+"@score":"1",
+"@id":"1404213",
+"info":{"authors":{"author":[{"@pid":"177/8852","text":"Ester Livshits"},{"@pid":"74/3195","text":"Benny Kimelfeld"}]},"title":"Counting and Enumerating (Preferred) Database Repairs.","venue":"PODS","pages":"289-301","year":"2017","type":"Conference and Workshop Papers","key":"conf/pods/LivshitsK17","doi":"10.1145/3034786.3056107","ee":"https://doi.org/10.1145/3034786.3056107","url":"https://dblp.org/rec/conf/pods/LivshitsK17"},
+"url":"URL#1404213"
+},
+{
+"@score":"1",
+"@id":"1404214",
+"info":{"authors":{"author":{"@pid":"s/DanSuciu","text":"Dan Suciu"}},"title":"Communication Cost in Parallel Query Evaluation - A Tutorial.","venue":"PODS","pages":"319","year":"2017","type":"Conference and Workshop Papers","key":"conf/pods/Suciu17","doi":"10.1145/3034786.3056449","ee":"https://doi.org/10.1145/3034786.3056449","url":"https://dblp.org/rec/conf/pods/Suciu17"},
+"url":"URL#1404214"
+},
+{
+"@score":"1",
+"@id":"1404215",
+"info":{"authors":{"author":[{"@pid":"62/8236","text":"Yaacov Y. Weiss"},{"@pid":"c/SaraCohen","text":"Sara Cohen"}]},"title":"Reverse Engineering SPJ-Queries from Examples.","venue":"PODS","pages":"151-166","year":"2017","type":"Conference and Workshop Papers","key":"conf/pods/WeissC17","doi":"10.1145/3034786.3056112","ee":"https://doi.org/10.1145/3034786.3056112","url":"https://dblp.org/rec/conf/pods/WeissC17"},
+"url":"URL#1404215"
+},
+{
+"@score":"1",
+"@id":"1404216",
+"info":{"authors":{"author":[{"@pid":"43/5467","text":"Di Xiao"},{"@pid":"65/2576","text":"Yi Cui"},{"@pid":"08/9072","text":"Daren B. H. Cline"},{"@pid":"l/DmitriLoguinov","text":"Dmitri Loguinov"}]},"title":"On Asymptotic Cost of Triangle Listing in Random Graphs.","venue":"PODS","pages":"261-272","year":"2017","type":"Conference and Workshop Papers","key":"conf/pods/XiaoCCL17","doi":"10.1145/3034786.3034790","ee":"https://doi.org/10.1145/3034786.3034790","url":"https://dblp.org/rec/conf/pods/XiaoCCL17"},
+"url":"URL#1404216"
+},
+{
+"@score":"1",
+"@id":"1437239",
+"info":{"authors":{"author":[{"@pid":"20/9117","text":"Emanuel Sallinger"},{"@pid":"b/JVdBussche","text":"Jan Van den Bussche"},{"@pid":"g/FlorisGeerts","text":"Floris Geerts"}]},"title":"Proceedings of the 36th ACM SIGMOD-SIGACT-SIGAI Symposium on Principles of Database Systems, PODS 2017, Chicago, IL, USA, May 14-19, 2017","venue":"PODS","publisher":"ACM","year":"2017","type":"Editorship","key":"conf/pods/2017","ee":"http://dl.acm.org/citation.cfm?id=3034786","url":"https://dblp.org/rec/conf/pods/2017"},
+"url":"URL#1437239"
+}
+]
+}
+}
+}

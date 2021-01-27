@@ -1,0 +1,230 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"pods\"/\"pods2020\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"124.74"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"33",
+"@dc":"33",
+"@oc":"33",
+"@id":"17593442",
+"text":":facetid:toc:db/conf/pods/pods2020.bht"
+}
+},
+"hits":{
+"@total":"33",
+"@computed":"33",
+"@sent":"33",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"289182",
+"info":{"authors":{"author":{"@pid":"91/2388-1","text":"Arnaud Durand 0001"}},"title":"Fine-Grained Complexity Analysis of Queries - From Decision to Counting and Enumeration.","venue":"PODS","pages":"331-346","year":"2020","type":"Conference and Workshop Papers","key":"conf/pods/000120","doi":"10.1145/3375395.3389130","ee":"https://doi.org/10.1145/3375395.3389130","url":"https://dblp.org/rec/conf/pods/000120"},
+"url":"URL#289182"
+},
+{
+"@score":"1",
+"@id":"289183",
+"info":{"authors":{"author":[{"@pid":"26/2051","text":"Martin Aumüller 0001"},{"@pid":"p/RasmusPagh","text":"Rasmus Pagh"},{"@pid":"02/6456-1","text":"Francesco Silvestri 0001"}]},"title":"Fair Near Neighbor Search - Independent Range Sampling in High Dimensions.","venue":"PODS","pages":"191-204","year":"2020","type":"Conference and Workshop Papers","key":"conf/pods/0001P020","doi":"10.1145/3375395.3387648","ee":"https://doi.org/10.1145/3375395.3387648","url":"https://dblp.org/rec/conf/pods/0001P020"},
+"url":"URL#289183"
+},
+{
+"@score":"1",
+"@id":"289184",
+"info":{"authors":{"author":[{"@pid":"51/1169","text":"Andrew McGregor 0001"},{"@pid":"150/2747","text":"Sofya Vorotnikova"}]},"title":"Triangle and Four Cycle Counting in the Data Stream Model.","venue":"PODS","pages":"445-456","year":"2020","type":"Conference and Workshop Papers","key":"conf/pods/0001V20","doi":"10.1145/3375395.3387652","ee":"https://doi.org/10.1145/3375395.3387652","url":"https://dblp.org/rec/conf/pods/0001V20"},
+"url":"URL#289184"
+},
+{
+"@score":"1",
+"@id":"289185",
+"info":{"authors":{"author":[{"@pid":"29/7117-2","text":"Ahmet Kara 0002"},{"@pid":"57/10355","text":"Milos Nikolic"},{"@pid":"o/DanOlteanu","text":"Dan Olteanu"},{"@pid":"218/5378","text":"Haozhe Zhang"}]},"title":"Trade-offs in Static and Dynamic Evaluation of Hierarchical Queries.","venue":"PODS","pages":"375-392","year":"2020","type":"Conference and Workshop Papers","key":"conf/pods/0002NOZ20","doi":"10.1145/3375395.3387646","ee":"https://doi.org/10.1145/3375395.3387646","url":"https://dblp.org/rec/conf/pods/0002NOZ20"},
+"url":"URL#289185"
+},
+{
+"@score":"1",
+"@id":"289186",
+"info":{"authors":{"author":[{"@pid":"a/PankajKAgarwal","text":"Pankaj K. Agarwal"},{"@pid":"151/3111","text":"Stavros Sintos"},{"@pid":"266/6161","text":"Alex Steiger"}]},"title":"Efficient Indexes for Diverse Top-k Range Queries.","venue":"PODS","pages":"213-227","year":"2020","type":"Conference and Workshop Papers","key":"conf/pods/AgarwalSS20","doi":"10.1145/3375395.3387667","ee":"https://doi.org/10.1145/3375395.3387667","url":"https://dblp.org/rec/conf/pods/AgarwalSS20"},
+"url":"URL#289186"
+},
+{
+"@score":"1",
+"@id":"289187",
+"info":{"authors":{"author":[{"@pid":"76/6735","text":"Marcelo Arenas"},{"@pid":"29/5169","text":"Pablo Barceló"},{"@pid":"183/1682","text":"Mikaël Monet"}]},"title":"Counting Problems over Incomplete Databases.","venue":"PODS","pages":"165-177","year":"2020","type":"Conference and Workshop Papers","key":"conf/pods/ArenasBM20","doi":"10.1145/3375395.3387656","ee":"https://doi.org/10.1145/3375395.3387656","url":"https://dblp.org/rec/conf/pods/ArenasBM20"},
+"url":"URL#289187"
+},
+{
+"@score":"1",
+"@id":"289188",
+"info":{"authors":{"author":[{"@pid":"29/5169","text":"Pablo Barceló"},{"@pid":"96/696","text":"Victor Dalmau"},{"@pid":"50/6554","text":"Cristina Feier"},{"@pid":"l/CarstenLutz","text":"Carsten Lutz"},{"@pid":"89/5672","text":"Andreas Pieris"}]},"title":"The Limits of Efficiency for Open- and Closed-World Query Evaluation Under Guarded TGDs.","venue":"PODS","pages":"259-270","year":"2020","type":"Conference and Workshop Papers","key":"conf/pods/BarceloDFLP20","doi":"10.1145/3375395.3387653","ee":"https://doi.org/10.1145/3375395.3387653","url":"https://dblp.org/rec/conf/pods/BarceloDFLP20"},
+"url":"URL#289188"
+},
+{
+"@score":"1",
+"@id":"289189",
+"info":{"authors":{"author":[{"@pid":"170/8023","text":"Omri Ben-Eliezer"},{"@pid":"202/9970","text":"Rajesh Jayaram"},{"@pid":"w/DPWoodruff","text":"David P. Woodruff"},{"@pid":"129/1614","text":"Eylon Yogev"}]},"title":"A Framework for Adversarially Robust Streaming Algorithms.","venue":"PODS","pages":"63-80","year":"2020","type":"Conference and Workshop Papers","key":"conf/pods/Ben-EliezerJWY20","doi":"10.1145/3375395.3387658","ee":"https://doi.org/10.1145/3375395.3387658","url":"https://dblp.org/rec/conf/pods/Ben-EliezerJWY20"},
+"url":"URL#289189"
+},
+{
+"@score":"1",
+"@id":"289190",
+"info":{"authors":{"author":[{"@pid":"170/8023","text":"Omri Ben-Eliezer"},{"@pid":"129/1614","text":"Eylon Yogev"}]},"title":"The Adversarial Robustness of Sampling.","venue":"PODS","pages":"49-62","year":"2020","type":"Conference and Workshop Papers","key":"conf/pods/Ben-EliezerY20","doi":"10.1145/3375395.3387643","ee":"https://doi.org/10.1145/3375395.3387643","url":"https://dblp.org/rec/conf/pods/Ben-EliezerY20"},
+"url":"URL#289190"
+},
+{
+"@score":"1",
+"@id":"289191",
+"info":{"authors":{"author":[{"@pid":"b/MichaelBenedikt","text":"Michael Benedikt"},{"@pid":"99/8038","text":"Stanislav Kikot"},{"@pid":"195/6032","text":"Piotr Ostropolski-Nalewaja"},{"@pid":"57/4918-1","text":"Miguel Romero 0001"}]},"title":"On Monotonic Determinacy and Rewritability for Recursive Queries and Views.","venue":"PODS","pages":"131-148","year":"2020","type":"Conference and Workshop Papers","key":"conf/pods/BenediktKO020","doi":"10.1145/3375395.3387661","ee":"https://doi.org/10.1145/3375395.3387661","url":"https://dblp.org/rec/conf/pods/BenediktKO020"},
+"url":"URL#289191"
+},
+{
+"@score":"1",
+"@id":"289192",
+"info":{"authors":{"author":[{"@pid":"68/10670","text":"Suman K. Bera"},{"@pid":"60/4210","text":"C. Seshadhri"}]},"title":"How the Degeneracy Helps for Triangle Counting in Graph Streams.","venue":"PODS","pages":"457-467","year":"2020","type":"Conference and Workshop Papers","key":"conf/pods/BeraS20","doi":"10.1145/3375395.3387665","ee":"https://doi.org/10.1145/3375395.3387665","url":"https://dblp.org/rec/conf/pods/BeraS20"},
+"url":"URL#289192"
+},
+{
+"@score":"1",
+"@id":"289193",
+"info":{"authors":{"author":[{"@pid":"179/2145","text":"Nofar Carmeli"},{"@pid":"255/5890","text":"Shai Zeevi"},{"@pid":"09/11269","text":"Christoph Berkholz"},{"@pid":"74/3195","text":"Benny Kimelfeld"},{"@pid":"s/NicoleSchweikardt","text":"Nicole Schweikardt"}]},"title":"Answering (Unions of) Conjunctive Queries using Random Access and Random-Order Enumeration.","venue":"PODS","pages":"393-409","year":"2020","type":"Conference and Workshop Papers","key":"conf/pods/CarmeliZBKS20","doi":"10.1145/3375395.3387662","ee":"https://doi.org/10.1145/3375395.3387662","url":"https://dblp.org/rec/conf/pods/CarmeliZBKS20"},
+"url":"URL#289193"
+},
+{
+"@score":"1",
+"@id":"289194",
+"info":{"authors":{"author":[{"@pid":"116/1425","text":"Marco Console"},{"@pid":"47/9855","text":"Paolo Guagliardo"},{"@pid":"l/LeonidLibkin","text":"Leonid Libkin"},{"@pid":"219/6542","text":"Etienne Toussaint"}]},"title":"Coping with Incomplete Data - Recent Advances.","venue":"PODS","pages":"33-47","year":"2020","type":"Conference and Workshop Papers","key":"conf/pods/ConsoleGLT20","doi":"10.1145/3375395.3387970","ee":"https://doi.org/10.1145/3375395.3387970","url":"https://dblp.org/rec/conf/pods/ConsoleGLT20"},
+"url":"URL#289194"
+},
+{
+"@score":"1",
+"@id":"289195",
+"info":{"authors":{"author":[{"@pid":"116/1425","text":"Marco Console"},{"@pid":"172/8475","text":"Matthias F. J. Hofer"},{"@pid":"l/LeonidLibkin","text":"Leonid Libkin"}]},"title":"Queries with Arithmetic on Incomplete Databases.","venue":"PODS","pages":"179-189","year":"2020","type":"Conference and Workshop Papers","key":"conf/pods/ConsoleHL20","doi":"10.1145/3375395.3387666","ee":"https://doi.org/10.1145/3375395.3387666","url":"https://dblp.org/rec/conf/pods/ConsoleHL20"},
+"url":"URL#289195"
+},
+{
+"@score":"1",
+"@id":"289196",
+"info":{"authors":{"author":[{"@pid":"c/GrahamCormode","text":"Graham Cormode"},{"@pid":"143/7938","text":"Pavel Veselý"}]},"title":"A Tight Lower Bound for Comparison-Based Quantile Summaries.","venue":"PODS","pages":"81-93","year":"2020","type":"Conference and Workshop Papers","key":"conf/pods/CormodeV20","doi":"10.1145/3375395.3387650","ee":"https://doi.org/10.1145/3375395.3387650","url":"https://dblp.org/rec/conf/pods/CormodeV20"},
+"url":"URL#289196"
+},
+{
+"@score":"1",
+"@id":"289197",
+"info":{"authors":{"author":{"@pid":"p/ADarwiche","text":"Adnan Darwiche"}},"title":"Three Modern Roles for Logic in AI.","venue":"PODS","pages":"229-243","year":"2020","type":"Conference and Workshop Papers","key":"conf/pods/Darwiche20","doi":"10.1145/3375395.3389131","ee":"https://doi.org/10.1145/3375395.3389131","url":"https://dblp.org/rec/conf/pods/Darwiche20"},
+"url":"URL#289197"
+},
+{
+"@score":"1",
+"@id":"289198",
+"info":{"authors":{"author":[{"@pid":"68/9473","text":"Cibele Freire"},{"@pid":"36/5673","text":"Wolfgang Gatterbauer"},{"@pid":"i/NeilImmerman","text":"Neil Immerman"},{"@pid":"04/1835","text":"Alexandra Meliou"}]},"title":"New Results for the Complexity of Resilience for Binary Conjunctive Queries with Self-Joins.","venue":"PODS","pages":"271-284","year":"2020","type":"Conference and Workshop Papers","key":"conf/pods/FreireGIM20","doi":"10.1145/3375395.3387647","ee":"https://doi.org/10.1145/3375395.3387647","url":"https://dblp.org/rec/conf/pods/FreireGIM20"},
+"url":"URL#289198"
+},
+{
+"@score":"1",
+"@id":"289199",
+"info":{"authors":{"author":[{"@pid":"64/11266","text":"Tomasz Gogacz"},{"@pid":"37/6028","text":"Jerzy Marcinkowski"},{"@pid":"89/5672","text":"Andreas Pieris"}]},"title":"All-Instances Restricted Chase Termination.","venue":"PODS","pages":"245-258","year":"2020","type":"Conference and Workshop Papers","key":"conf/pods/GogaczMP20","doi":"10.1145/3375395.3387644","ee":"https://doi.org/10.1145/3375395.3387644","url":"https://dblp.org/rec/conf/pods/GogaczMP20"},
+"url":"URL#289199"
+},
+{
+"@score":"1",
+"@id":"289200",
+"info":{"authors":{"author":[{"@pid":"90/9661","text":"Mayank Goswami 0001"},{"@pid":"27/2539","text":"Riko Jacob"},{"@pid":"p/RasmusPagh","text":"Rasmus Pagh"}]},"title":"On the I/O Complexity of the k-Nearest Neighbors Problem.","venue":"PODS","pages":"205-212","year":"2020","type":"Conference and Workshop Papers","key":"conf/pods/GoswamiJP20","doi":"10.1145/3375395.3387649","ee":"https://doi.org/10.1145/3375395.3387649","url":"https://dblp.org/rec/conf/pods/GoswamiJP20"},
+"url":"URL#289200"
+},
+{
+"@score":"1",
+"@id":"289201",
+"info":{"authors":{"author":[{"@pid":"g/GeorgGottlob","text":"Georg Gottlob"},{"@pid":"b/JVdBussche","text":"Jan Van den Bussche"},{"@pid":"g/DirkVanGucht","text":"Dirk Van Gucht"}]},"title":"2020 ACM PODS Alberto O. Mendelzon Test-of-Time Award.","venue":"PODS","pages":"17","year":"2020","type":"Conference and Workshop Papers","key":"conf/pods/GottlobBG20","doi":"10.1145/3375395.3387723","ee":"https://doi.org/10.1145/3375395.3387723","url":"https://dblp.org/rec/conf/pods/GottlobBG20"},
+"url":"URL#289201"
+},
+{
+"@score":"1",
+"@id":"289202",
+"info":{"authors":{"author":{"@pid":"g/MGrohe","text":"Martin Grohe"}},"title":"word2vec, node2vec, graph2vec, X2vec - Towards a Theory of Vector Embeddings of Structured Data.","venue":"PODS","pages":"1-16","year":"2020","type":"Conference and Workshop Papers","key":"conf/pods/Grohe20","doi":"10.1145/3375395.3387641","ee":"https://doi.org/10.1145/3375395.3387641","url":"https://dblp.org/rec/conf/pods/Grohe20"},
+"url":"URL#289202"
+},
+{
+"@score":"1",
+"@id":"289203",
+"info":{"authors":{"author":[{"@pid":"g/MGrohe","text":"Martin Grohe"},{"@pid":"39/9937","text":"Benjamin Lucien Kaminski"},{"@pid":"k/JoostPieterKatoen","text":"Joost-Pieter Katoen"},{"@pid":"223/4092-1","text":"Peter Lindner 0001"}]},"title":"Generative Datalog with Continuous Distributions.","venue":"PODS","pages":"347-360","year":"2020","type":"Conference and Workshop Papers","key":"conf/pods/GroheKKL20","doi":"10.1145/3375395.3387659","ee":"https://doi.org/10.1145/3375395.3387659","url":"https://dblp.org/rec/conf/pods/GroheKKL20"},
+"url":"URL#289203"
+},
+{
+"@score":"1",
+"@id":"289204",
+"info":{"authors":{"author":[{"@pid":"19/1374","text":"Xiao Hu"},{"@pid":"43/1219-1","text":"Ke Yi 0001"}]},"title":"Parallel Algorithms for Sparse Matrix Multiplication and Join-Aggregate Queries.","venue":"PODS","pages":"411-425","year":"2020","type":"Conference and Workshop Papers","key":"conf/pods/Hu020","doi":"10.1145/3375395.3387657","ee":"https://doi.org/10.1145/3375395.3387657","url":"https://dblp.org/rec/conf/pods/Hu020"},
+"url":"URL#289204"
+},
+{
+"@score":"1",
+"@id":"289205",
+"info":{"authors":{"author":[{"@pid":"147/1168","text":"Bas Ketsman"},{"@pid":"k/ChristophKoch","text":"Christoph Koch 0001"},{"@pid":"n/FrankNeven","text":"Frank Neven"},{"@pid":"215/6207","text":"Brecht Vandevoort"}]},"title":"Deciding Robustness for Lower SQL Isolation Levels.","venue":"PODS","pages":"315-330","year":"2020","type":"Conference and Workshop Papers","key":"conf/pods/Ketsman0NV20","doi":"10.1145/3375395.3387655","ee":"https://doi.org/10.1145/3375395.3387655","url":"https://dblp.org/rec/conf/pods/Ketsman0NV20"},
+"url":"URL#289205"
+},
+{
+"@score":"1",
+"@id":"289206",
+"info":{"authors":{"author":[{"@pid":"144/7839","text":"Mahmoud Abo Khamis"},{"@pid":"k/PGKolaitis","text":"Phokion G. Kolaitis"},{"@pid":"n/HungQNgo","text":"Hung Q. Ngo 0001"},{"@pid":"s/DanSuciu","text":"Dan Suciu"}]},"title":"Bag Query Containment and Information Theory.","venue":"PODS","pages":"95-112","year":"2020","type":"Conference and Workshop Papers","key":"conf/pods/KhamisK0S20","doi":"10.1145/3375395.3387645","ee":"https://doi.org/10.1145/3375395.3387645","url":"https://dblp.org/rec/conf/pods/KhamisK0S20"},
+"url":"URL#289206"
+},
+{
+"@score":"1",
+"@id":"289207",
+"info":{"authors":{"author":[{"@pid":"49/8316","text":"Paraschos Koutris"},{"@pid":"w/JefWijsen","text":"Jef Wijsen"}]},"title":"First-Order Rewritability in Consistent Query Answering with Respect to Multiple Keys.","venue":"PODS","pages":"113-129","year":"2020","type":"Conference and Workshop Papers","key":"conf/pods/KoutrisW20","doi":"10.1145/3375395.3387654","ee":"https://doi.org/10.1145/3375395.3387654","url":"https://dblp.org/rec/conf/pods/KoutrisW20"},
+"url":"URL#289207"
+},
+{
+"@score":"1",
+"@id":"289208",
+"info":{"authors":{"author":{"@pid":"183/1682","text":"Mikaël Monet"}},"title":"Solving a Special Case of the Intensional vs Extensional Conjecture in Probabilistic Databases.","venue":"PODS","pages":"149-163","year":"2020","type":"Conference and Workshop Papers","key":"conf/pods/Monet20","doi":"10.1145/3375395.3387642","ee":"https://doi.org/10.1145/3375395.3387642","url":"https://dblp.org/rec/conf/pods/Monet20"},
+"url":"URL#289208"
+},
+{
+"@score":"1",
+"@id":"289209",
+"info":{"authors":{"author":[{"@pid":"255/6475","text":"Alon Reshef"},{"@pid":"74/3195","text":"Benny Kimelfeld"},{"@pid":"177/8852","text":"Ester Livshits"}]},"title":"The Impact of Negation on the Complexity of the Shapley Value in Conjunctive Queries.","venue":"PODS","pages":"285-297","year":"2020","type":"Conference and Workshop Papers","key":"conf/pods/ReshefKL20","doi":"10.1145/3375395.3387664","ee":"https://doi.org/10.1145/3375395.3387664","url":"https://dblp.org/rec/conf/pods/ReshefKL20"},
+"url":"URL#289209"
+},
+{
+"@score":"1",
+"@id":"289210",
+"info":{"authors":{"author":{"@pid":"65/9125","text":"Markus L. Schmid"}},"title":"Conjunctive Regular Path Queries with String Variables.","venue":"PODS","pages":"361-374","year":"2020","type":"Conference and Workshop Papers","key":"conf/pods/Schmid20","doi":"10.1145/3375395.3387663","ee":"https://doi.org/10.1145/3375395.3387663","url":"https://dblp.org/rec/conf/pods/Schmid20"},
+"url":"URL#289210"
+},
+{
+"@score":"1",
+"@id":"289211",
+"info":{"authors":{"author":[{"@pid":"s/LucSegoufin","text":"Luc Segoufin"},{"@pid":"v/VictorVianu","text":"Victor Vianu"}]},"title":"Projection Views of Register Automata.","venue":"PODS","pages":"299-313","year":"2020","type":"Conference and Workshop Papers","key":"conf/pods/SegoufinV20","doi":"10.1145/3375395.3387651","ee":"https://doi.org/10.1145/3375395.3387651","url":"https://dblp.org/rec/conf/pods/SegoufinV20"},
+"url":"URL#289211"
+},
+{
+"@score":"1",
+"@id":"289212",
+"info":{"authors":{"author":{"@pid":"s/DanSuciu","text":"Dan Suciu"}},"title":"Probabilistic Databases for All.","venue":"PODS","pages":"19-31","year":"2020","type":"Conference and Workshop Papers","key":"conf/pods/Suciu20","doi":"10.1145/3375395.3389129","ee":"https://doi.org/10.1145/3375395.3389129","url":"https://dblp.org/rec/conf/pods/Suciu20"},
+"url":"URL#289212"
+},
+{
+"@score":"1",
+"@id":"289213",
+"info":{"authors":{"author":{"@pid":"29/7757","text":"Szymon Torunczyk"}},"title":"Aggregate Queries on Sparse Databases.","venue":"PODS","pages":"427-443","year":"2020","type":"Conference and Workshop Papers","key":"conf/pods/Torunczyk20","doi":"10.1145/3375395.3387660","ee":"https://doi.org/10.1145/3375395.3387660","url":"https://dblp.org/rec/conf/pods/Torunczyk20"},
+"url":"URL#289213"
+},
+{
+"@score":"1",
+"@id":"312539",
+"info":{"authors":{"author":[{"@pid":"s/DanSuciu","text":"Dan Suciu"},{"@pid":"t/YufeiTao","text":"Yufei Tao"},{"@pid":"94/4260","text":"Zhewei Wei"}]},"title":"Proceedings of the 39th ACM SIGMOD-SIGACT-SIGAI Symposium on Principles of Database Systems, PODS 2020, Portland, OR, USA, June 14-19, 2020.","venue":"PODS","publisher":"ACM","year":"2020","type":"Editorship","key":"conf/pods/2020","doi":"10.1145/3403468","ee":"https://doi.org/10.1145/3403468","url":"https://dblp.org/rec/conf/pods/2020"},
+"url":"URL#312539"
+}
+]
+}
+}
+}

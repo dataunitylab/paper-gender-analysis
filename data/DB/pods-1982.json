@@ -1,0 +1,260 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"pods\"/\"pods82\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"101.57"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"38",
+"@dc":"38",
+"@oc":"38",
+"@id":"17593443",
+"text":":facetid:toc:db/conf/pods/pods82.bht"
+}
+},
+"hits":{
+"@total":"38",
+"@computed":"38",
+"@sent":"38",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"5359225",
+"info":{"authors":{"author":[{"@pid":"a/PAtzeni","text":"Paolo Atzeni"},{"@pid":"p/DSParkerJr","text":"Douglas Stott Parker Jr."}]},"title":"Assumptions in Relational Database Theory.","venue":"PODS","pages":"1-9","year":"1982","type":"Conference and Workshop Papers","key":"conf/pods/AtzeniP82","doi":"10.1145/588111.588113","ee":"https://doi.org/10.1145/588111.588113","url":"https://dblp.org/rec/conf/pods/AtzeniP82"},
+"url":"URL#5359225"
+},
+{
+"@score":"1",
+"@id":"5359226",
+"info":{"authors":{"author":[{"@pid":"b/CBeeri","text":"Catriel Beeri"},{"@pid":"k/HenryFKorth","text":"Henry F. Korth"}]},"title":"Compatible Attributes in a Universal Relation.","venue":"PODS","pages":"55-62","year":"1982","type":"Conference and Workshop Papers","key":"conf/pods/BeeriK82","doi":"10.1145/588111.588121","ee":"https://doi.org/10.1145/588111.588121","url":"https://dblp.org/rec/conf/pods/BeeriK82"},
+"url":"URL#5359226"
+},
+{
+"@score":"1",
+"@id":"5359227",
+"info":{"authors":{"author":{"@pid":"c/MarcoACasanova","text":"Marco A. Casanova"}},"title":"A Theory of Data Dependencies over Relational Expressions.","venue":"PODS","pages":"189-198","year":"1982","type":"Conference and Workshop Papers","key":"conf/pods/Casanova82","doi":"10.1145/588111.588143","ee":"https://doi.org/10.1145/588111.588143","url":"https://dblp.org/rec/conf/pods/Casanova82"},
+"url":"URL#5359227"
+},
+{
+"@score":"1",
+"@id":"5359228",
+"info":{"authors":{"author":[{"@pid":"c/MarcoACasanova","text":"Marco A. Casanova"},{"@pid":"f/RonaldFagin","text":"Ronald Fagin"},{"@pid":"p/CHPapadimitriou","text":"Christos H. Papadimitriou"}]},"title":"Inclusion Dependencies and Their Interaction with Functional Dependencies.","venue":"PODS","pages":"171-176","year":"1982","type":"Conference and Workshop Papers","key":"conf/pods/CasanovaFP82","doi":"10.1145/588111.588141","ee":"https://doi.org/10.1145/588111.588141","url":"https://dblp.org/rec/conf/pods/CasanovaFP82"},
+"url":"URL#5359228"
+},
+{
+"@score":"1",
+"@id":"5359229",
+"info":{"authors":{"author":[{"@pid":"56/4267","text":"Ashok K. Chandra"},{"@pid":"h/DavidHarel","text":"David Harel"}]},"title":"Horn Clauses and the Fixpoint Query Hierarchy.","venue":"PODS","pages":"158-163","year":"1982","type":"Conference and Workshop Papers","key":"conf/pods/ChandraH82","doi":"10.1145/588111.588137","ee":"https://doi.org/10.1145/588111.588137","url":"https://dblp.org/rec/conf/pods/ChandraH82"},
+"url":"URL#5359229"
+},
+{
+"@score":"1",
+"@id":"5359230",
+"info":{"authors":{"author":[{"@pid":"76/2198","text":"Umeshwar Dayal"},{"@pid":"28/4334","text":"Nathan Goodman"},{"@pid":"k/RandyHKatz","text":"Randy H. Katz"}]},"title":"An Extended Relational Algebra with Control over Duplicate Elimination.","venue":"PODS","pages":"117-123","year":"1982","type":"Conference and Workshop Papers","key":"conf/pods/DayalGK82","doi":"10.1145/588111.588132","ee":"https://doi.org/10.1145/588111.588132","url":"https://dblp.org/rec/conf/pods/DayalGK82"},
+"url":"URL#5359230"
+},
+{
+"@score":"1",
+"@id":"5359231",
+"info":{"authors":{"author":[{"@pid":"f/MichaelJFischer","text":"Michael J. Fischer"},{"@pid":"77/5810","text":"A. Michael"}]},"title":"Sacrificing Serializability to Attain High Availability of Data.","venue":"PODS","pages":"70-75","year":"1982","type":"Conference and Workshop Papers","key":"conf/pods/FischerM82","doi":"10.1145/588111.588124","ee":"https://doi.org/10.1145/588111.588124","url":"https://dblp.org/rec/conf/pods/FischerM82"},
+"url":"URL#5359231"
+},
+{
+"@score":"1",
+"@id":"5359232",
+"info":{"authors":{"author":[{"@pid":"g/GastonHGonnet","text":"Gaston H. Gonnet"},{"@pid":"l/PALarson","text":"Per-Åke Larson"}]},"title":"External Hashing with Limited Internal Storage.","venue":"PODS","pages":"256-261","year":"1982","type":"Conference and Workshop Papers","key":"conf/pods/GonnetL82","doi":"10.1145/588111.588153","ee":"https://doi.org/10.1145/588111.588153","url":"https://dblp.org/rec/conf/pods/GonnetL82"},
+"url":"URL#5359232"
+},
+{
+"@score":"1",
+"@id":"5359233",
+"info":{"authors":{"author":[{"@pid":"28/4334","text":"Nathan Goodman"},{"@pid":"s/OShmueli","text":"Oded Shmueli"}]},"title":"The Tree Property is Fundamental for Query Processing.","venue":"PODS","pages":"40-48","year":"1982","type":"Conference and Workshop Papers","key":"conf/pods/GoodmanS82","doi":"10.1145/588111.588119","ee":"https://doi.org/10.1145/588111.588119","url":"https://dblp.org/rec/conf/pods/GoodmanS82"},
+"url":"URL#5359233"
+},
+{
+"@score":"1",
+"@id":"5359234",
+"info":{"authors":{"author":[{"@pid":"28/4334","text":"Nathan Goodman"},{"@pid":"s/OShmueli","text":"Oded Shmueli"}]},"title":"Transforming Cyclic Schemas into Trees.","venue":"PODS","pages":"49-54","year":"1982","type":"Conference and Workshop Papers","key":"conf/pods/GoodmanS82a","doi":"10.1145/588111.588120","ee":"https://doi.org/10.1145/588111.588120","url":"https://dblp.org/rec/conf/pods/GoodmanS82a"},
+"url":"URL#5359234"
+},
+{
+"@score":"1",
+"@id":"5359235",
+"info":{"authors":{"author":[{"@pid":"32/3985","text":"Marc H. Graham"},{"@pid":"m/AOMendelzon","text":"Alberto O. Mendelzon"}]},"title":"Notions of Dependency Satisfaction.","venue":"PODS","pages":"177-188","year":"1982","type":"Conference and Workshop Papers","key":"conf/pods/GrahamM82","doi":"10.1145/588111.588142","ee":"https://doi.org/10.1145/588111.588142","url":"https://dblp.org/rec/conf/pods/GrahamM82"},
+"url":"URL#5359235"
+},
+{
+"@score":"1",
+"@id":"5359236",
+"info":{"authors":{"author":[{"@pid":"32/3985","text":"Marc H. Graham"},{"@pid":"y/MihalisYannakakis","text":"Mihalis Yannakakis"}]},"title":"Independent Database Schemas.","venue":"PODS","pages":"199-204","year":"1982","type":"Conference and Workshop Papers","key":"conf/pods/GrahamY82","doi":"10.1145/588111.588144","ee":"https://doi.org/10.1145/588111.588144","url":"https://dblp.org/rec/conf/pods/GrahamY82"},
+"url":"URL#5359236"
+},
+{
+"@score":"1",
+"@id":"5359237",
+"info":{"authors":{"author":[{"@pid":"g/YuriGurevich","text":"Yuri Gurevich"},{"@pid":"l/HarryRLewis","text":"Harry R. Lewis"}]},"title":"The Inference Problem for Template Dependencies.","venue":"PODS","pages":"221-229","year":"1982","type":"Conference and Workshop Papers","key":"conf/pods/GurevichL82","doi":"10.1145/588111.588148","ee":"https://doi.org/10.1145/588111.588148","url":"https://dblp.org/rec/conf/pods/GurevichL82"},
+"url":"URL#5359237"
+},
+{
+"@score":"1",
+"@id":"5359238",
+"info":{"authors":{"author":{"@pid":"h/VassosHadzilacos","text":"Vassos Hadzilacos"}},"title":"An Algorithm for Minimizing Roll Back Cost.","venue":"PODS","pages":"93-97","year":"1982","type":"Conference and Workshop Papers","key":"conf/pods/Hadzilacos82","doi":"10.1145/588111.588128","ee":"https://doi.org/10.1145/588111.588128","url":"https://dblp.org/rec/conf/pods/Hadzilacos82"},
+"url":"URL#5359238"
+},
+{
+"@score":"1",
+"@id":"5359239",
+"info":{"authors":{"author":[{"@pid":"h/RichardHull","text":"Richard Hull 0001"},{"@pid":"y/CheeKengYap","text":"Chee-Keng Yap"}]},"title":"The Format Model - A Theory of Database Organization.","venue":"PODS","pages":"205-211","year":"1982","type":"Conference and Workshop Papers","key":"conf/pods/HullY82","doi":"10.1145/588111.588146","ee":"https://doi.org/10.1145/588111.588146","url":"https://dblp.org/rec/conf/pods/HullY82"},
+"url":"URL#5359239"
+},
+{
+"@score":"1",
+"@id":"5359240",
+"info":{"authors":{"author":[{"@pid":"i/TomaszImielinski","text":"Tomasz Imielinski"},{"@pid":"80/3449","text":"Witold Lipski Jr."}]},"title":"The Relational Model of Data and Cylindrial Algebras.","venue":"PODS","pages":"170","year":"1982","type":"Conference and Workshop Papers","key":"conf/pods/ImielinskiL82","doi":"10.1145/588111.588139","ee":"https://doi.org/10.1145/588111.588139","url":"https://dblp.org/rec/conf/pods/ImielinskiL82"},
+"url":"URL#5359240"
+},
+{
+"@score":"1",
+"@id":"5359241",
+"info":{"authors":{"author":[{"@pid":"34/6303","text":"Gerhard Jaeschke"},{"@pid":"s/HansJorgSchek","text":"Hans-Jörg Schek"}]},"title":"Remarks on the Algebra of Non First Normal Form Relations.","venue":"PODS","pages":"124-138","year":"1982","type":"Conference and Workshop Papers","key":"conf/pods/JaeschkeS82","doi":"10.1145/588111.588133","ee":"https://doi.org/10.1145/588111.588133","url":"https://dblp.org/rec/conf/pods/JaeschkeS82"},
+"url":"URL#5359241"
+},
+{
+"@score":"1",
+"@id":"5359242",
+"info":{"authors":{"author":[{"@pid":"j/DavidSJohnson","text":"David S. Johnson"},{"@pid":"11/4223","text":"Anthony C. Klug"}]},"title":"Testing Containment of Conjunctive Queries Under Functional and Inclusion Dependencies.","venue":"PODS","pages":"164-169","year":"1982","type":"Conference and Workshop Papers","key":"conf/pods/JohnsonK82","doi":"10.1145/588111.588138","ee":"https://doi.org/10.1145/588111.588138","url":"https://dblp.org/rec/conf/pods/JohnsonK82"},
+"url":"URL#5359242"
+},
+{
+"@score":"1",
+"@id":"5359243",
+"info":{"authors":{"author":[{"@pid":"k/ParisCKanellakis","text":"Paris C. Kanellakis"},{"@pid":"p/CHPapadimitriou","text":"Christos H. Papadimitriou"}]},"title":"Is Distributed Locking Harder?","venue":"PODS","pages":"98-107","year":"1982","type":"Conference and Workshop Papers","key":"conf/pods/KanellakisP82","doi":"10.1145/588111.588129","ee":"https://doi.org/10.1145/588111.588129","url":"https://dblp.org/rec/conf/pods/KanellakisP82"},
+"url":"URL#5359243"
+},
+{
+"@score":"1",
+"@id":"5359244",
+"info":{"authors":{"author":[{"@pid":"97/5651","text":"Ravi Krishnamurthy"},{"@pid":"76/2198","text":"Umeshwar Dayal"}]},"title":"Theory of Serializability for a Parallel Model of Transactions.","venue":"PODS","pages":"293-305","year":"1982","type":"Conference and Workshop Papers","key":"conf/pods/KrishnamurthyD82","doi":"10.1145/588111.588158","ee":"https://doi.org/10.1145/588111.588158","url":"https://dblp.org/rec/conf/pods/KrishnamurthyD82"},
+"url":"URL#5359244"
+},
+{
+"@score":"1",
+"@id":"5359245",
+"info":{"authors":{"author":[{"@pid":"36/2009","text":"Sharon McCure Kuck"},{"@pid":"26/5086","text":"Yehoshua Sagiv"}]},"title":"A Universal Relation Database System Implemented via the Network Model.","venue":"PODS","pages":"147-157","year":"1982","type":"Conference and Workshop Papers","key":"conf/pods/KuckS82","doi":"10.1145/588111.588135","ee":"https://doi.org/10.1145/588111.588135","url":"https://dblp.org/rec/conf/pods/KuckS82"},
+"url":"URL#5359245"
+},
+{
+"@score":"1",
+"@id":"5359246",
+"info":{"authors":{"author":{"@pid":"l/NancyALynch","text":"Nancy A. Lynch"}},"title":"Multilevel Atomicity.","venue":"PODS","pages":"63-69","year":"1982","type":"Conference and Workshop Papers","key":"conf/pods/Lynch82","doi":"10.1145/588111.588123","ee":"https://doi.org/10.1145/588111.588123","url":"https://dblp.org/rec/conf/pods/Lynch82"},
+"url":"URL#5359246"
+},
+{
+"@score":"1",
+"@id":"5359247",
+"info":{"authors":{"author":{"@pid":"m/DavidMaier","text":"David Maier 0001"}},"title":"Using Write-once Memory for Database Storage.","venue":"PODS","pages":"239-246","year":"1982","type":"Conference and Workshop Papers","key":"conf/pods/Maier82","doi":"10.1145/588111.588151","ee":"https://doi.org/10.1145/588111.588151","url":"https://dblp.org/rec/conf/pods/Maier82"},
+"url":"URL#5359247"
+},
+{
+"@score":"1",
+"@id":"5359248",
+"info":{"authors":{"author":[{"@pid":"m/DavidMaier","text":"David Maier 0001"},{"@pid":"u/JeffreyDUllman","text":"Jeffrey D. Ullman"}]},"title":"Connections in Acyclic Hypergraphs.","venue":"PODS","pages":"34-39","year":"1982","type":"Conference and Workshop Papers","key":"conf/pods/MaierU82","doi":"10.1145/588111.588118","ee":"https://doi.org/10.1145/588111.588118","url":"https://dblp.org/rec/conf/pods/MaierU82"},
+"url":"URL#5359248"
+},
+{
+"@score":"1",
+"@id":"5359249",
+"info":{"authors":{"author":[{"@pid":"m/UdiManber","text":"Udi Manber"},{"@pid":"l/RELadner","text":"Richard E. Ladner"}]},"title":"Concurrency Control in a Dynamic Search Structure.","venue":"PODS","pages":"268-282","year":"1982","type":"Conference and Workshop Papers","key":"conf/pods/ManberL82","doi":"10.1145/588111.588156","ee":"https://doi.org/10.1145/588111.588156","url":"https://dblp.org/rec/conf/pods/ManberL82"},
+"url":"URL#5359249"
+},
+{
+"@score":"1",
+"@id":"5359250",
+"info":{"authors":{"author":[{"@pid":"m/DAMenasce","text":"Daniel A. Menascé"},{"@pid":"13/1185","text":"Tatuo Nakanishi"}]},"title":"Performance Evaluation of a Two-Phase Commit Based Protocol for DDBS.","venue":"PODS","pages":"247-255","year":"1982","type":"Conference and Workshop Papers","key":"conf/pods/MenasceN82","doi":"10.1145/588111.588152","ee":"https://doi.org/10.1145/588111.588152","url":"https://dblp.org/rec/conf/pods/MenasceN82"},
+"url":"URL#5359250"
+},
+{
+"@score":"1",
+"@id":"5359251",
+"info":{"authors":{"author":[{"@pid":"m/CMohan","text":"C. Mohan 0001"},{"@pid":"f/DonaldSFussell","text":"Donald S. Fussell"},{"@pid":"s/AbrahamSilberschatz","text":"Abraham Silberschatz"}]},"title":"Compatibility and Commutativity in Non-two-phase Locking Protocols.","venue":"PODS","pages":"283-292","year":"1982","type":"Conference and Workshop Papers","key":"conf/pods/MohanFS82","doi":"10.1145/588111.588157","ee":"https://doi.org/10.1145/588111.588157","url":"https://dblp.org/rec/conf/pods/MohanFS82"},
+"url":"URL#5359251"
+},
+{
+"@score":"1",
+"@id":"5359252",
+"info":{"authors":{"author":[{"@pid":"p/CHPapadimitriou","text":"Christos H. Papadimitriou"},{"@pid":"k/ParisCKanellakis","text":"Paris C. Kanellakis"}]},"title":"On Concurrency Control by Multiple Versions.","venue":"PODS","pages":"76-82","year":"1982","type":"Conference and Workshop Papers","key":"conf/pods/PapadimitriouK82","doi":"10.1145/588111.588125","ee":"https://doi.org/10.1145/588111.588125","url":"https://dblp.org/rec/conf/pods/PapadimitriouK82"},
+"url":"URL#5359252"
+},
+{
+"@score":"1",
+"@id":"5359253",
+"info":{"authors":{"author":[{"@pid":"r/StevenPReiss","text":"Steven P. Reiss"},{"@pid":"73/5877","text":"Mark J. Post"},{"@pid":"23/2322","text":"Tore Dalenius"}]},"title":"Non-reversible Privacy Transformations.","venue":"PODS","pages":"139-146","year":"1982","type":"Conference and Workshop Papers","key":"conf/pods/ReissPD82","doi":"10.1145/588111.588134","ee":"https://doi.org/10.1145/588111.588134","url":"https://dblp.org/rec/conf/pods/ReissPD82"},
+"url":"URL#5359253"
+},
+{
+"@score":"1",
+"@id":"5359254",
+"info":{"authors":{"author":{"@pid":"r/AReuter","text":"Andreas Reuter 0001"}},"title":"Concurrency on High-trafic Data Elements.","venue":"PODS","pages":"83-92","year":"1982","type":"Conference and Workshop Papers","key":"conf/pods/Reuter82","doi":"10.1145/588111.588126","ee":"https://doi.org/10.1145/588111.588126","url":"https://dblp.org/rec/conf/pods/Reuter82"},
+"url":"URL#5359254"
+},
+{
+"@score":"1",
+"@id":"5359255",
+"info":{"authors":{"author":{"@pid":"r/JormaRissanen","text":"Jorma Rissanen"}},"title":"On Equivalences of Database Schemes.","venue":"PODS","pages":"23-26","year":"1982","type":"Conference and Workshop Papers","key":"conf/pods/Rissanen82","doi":"10.1145/588111.588116","ee":"https://doi.org/10.1145/588111.588116","url":"https://dblp.org/rec/conf/pods/Rissanen82"},
+"url":"URL#5359255"
+},
+{
+"@score":"1",
+"@id":"5359256",
+"info":{"authors":{"author":[{"@pid":"r/DoronRotem","text":"Doron Rotem"},{"@pid":"t/FrankWmTompa","text":"Frank Wm. Tompa"},{"@pid":"19/1282","text":"David G. Kirkpatrick"}]},"title":"Foundations for Multifile Design by Application Partitioning.","venue":"PODS","pages":"262-267","year":"1982","type":"Conference and Workshop Papers","key":"conf/pods/RotemTK82","doi":"10.1145/588111.588154","ee":"https://doi.org/10.1145/588111.588154","url":"https://dblp.org/rec/conf/pods/RotemTK82"},
+"url":"URL#5359256"
+},
+{
+"@score":"1",
+"@id":"5359257",
+"info":{"authors":{"author":[{"@pid":"19/6819","text":"Eljas Soisalon-Soininen"},{"@pid":"w/DerickWood","text":"Derick Wood"}]},"title":"An Optimal Algorithm for Testing for Safety and Detecting Deadlocks in Locked Transaction Systems.","venue":"PODS","pages":"108-116","year":"1982","type":"Conference and Workshop Papers","key":"conf/pods/Soisalon-SoininenW82","doi":"10.1145/588111.588130","ee":"https://doi.org/10.1145/588111.588130","url":"https://dblp.org/rec/conf/pods/Soisalon-SoininenW82"},
+"url":"URL#5359257"
+},
+{
+"@score":"1",
+"@id":"5359258",
+"info":{"authors":{"author":{"@pid":"s/NicolasSpyratos","text":"Nicolas Spyratos"}},"title":"An Operational Approach to Data Bases.","venue":"PODS","pages":"212-220","year":"1982","type":"Conference and Workshop Papers","key":"conf/pods/Spyratos82","doi":"10.1145/588111.588147","ee":"https://doi.org/10.1145/588111.588147","url":"https://dblp.org/rec/conf/pods/Spyratos82"},
+"url":"URL#5359258"
+},
+{
+"@score":"1",
+"@id":"5359259",
+"info":{"authors":{"author":{"@pid":"u/JeffreyDUllman","text":"Jeffrey D. Ullman"}},"title":"The U. R. Strikes Back.","venue":"PODS","pages":"10-22","year":"1982","type":"Conference and Workshop Papers","key":"conf/pods/Ullman82","doi":"10.1145/588111.588114","ee":"https://doi.org/10.1145/588111.588114","url":"https://dblp.org/rec/conf/pods/Ullman82"},
+"url":"URL#5359259"
+},
+{
+"@score":"1",
+"@id":"5359260",
+"info":{"authors":{"author":{"@pid":"v/MosheYVardi","text":"Moshe Y. Vardi"}},"title":"The Implication and Finite Implication Problems for Typed Template Dependencies.","venue":"PODS","pages":"230-238","year":"1982","type":"Conference and Workshop Papers","key":"conf/pods/Vardi82","doi":"10.1145/588111.588149","ee":"https://doi.org/10.1145/588111.588149","url":"https://dblp.org/rec/conf/pods/Vardi82"},
+"url":"URL#5359260"
+},
+{
+"@score":"1",
+"@id":"5359261",
+"info":{"authors":{"author":{"@pid":"z/CZaniolo","text":"Carlo Zaniolo"}},"title":"Database Relations with Null Values.","venue":"PODS","pages":"27-33","year":"1982","type":"Conference and Workshop Papers","key":"conf/pods/Zaniolo82","doi":"10.1145/588111.588117","ee":"https://doi.org/10.1145/588111.588117","url":"https://dblp.org/rec/conf/pods/Zaniolo82"},
+"url":"URL#5359261"
+},
+{
+"@score":"1",
+"@id":"5359986",
+"info":{"authors":{"author":[{"@pid":"u/JeffreyDUllman","text":"Jeffrey D. Ullman"},{"@pid":"a/AVAho","text":"Alfred V. Aho"}]},"title":"Proceedings of the ACM Symposium on Principles of Database Systems, March 29-31, 1982, Los Angeles, California, USA","publisher":"ACM","year":"1982","type":"Editorship","key":"conf/pods/82","ee":"http://dl.acm.org/citation.cfm?id=588111","url":"https://dblp.org/rec/conf/pods/82"},
+"url":"URL#5359986"
+}
+]
+}
+}
+}

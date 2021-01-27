@@ -1,0 +1,206 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"pods\"/\"pods2011\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"124.03"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"29",
+"@dc":"29",
+"@oc":"29",
+"@id":"17593433",
+"text":":facetid:toc:db/conf/pods/pods2011.bht"
+}
+},
+"hits":{
+"@total":"29",
+"@computed":"29",
+"@sent":"29",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"3097300",
+"info":{"authors":{"author":[{"@pid":"a/SergeAbiteboul","text":"Serge Abiteboul"},{"@pid":"80/28","text":"Meghyn Bienvenu"},{"@pid":"89/4894","text":"Alban Galland"},{"@pid":"162/9086","text":"Émilien Antoine"}]},"title":"A rule-based language for web data management.","venue":"PODS","pages":"293-304","year":"2011","type":"Conference and Workshop Papers","key":"conf/pods/AbiteboulBGA11","doi":"10.1145/1989284.1989320","ee":"https://doi.org/10.1145/1989284.1989320","url":"https://dblp.org/rec/conf/pods/AbiteboulBGA11"},
+"url":"URL#3097300"
+},
+{
+"@score":"1",
+"@id":"3097301",
+"info":{"authors":{"author":[{"@pid":"05/8909","text":"Tom J. Ameloot"},{"@pid":"n/FrankNeven","text":"Frank Neven"},{"@pid":"b/JVdBussche","text":"Jan Van den Bussche"}]},"title":"Relational transducers for declarative networking.","venue":"PODS","pages":"283-292","year":"2011","type":"Conference and Workshop Papers","key":"conf/pods/AmelootNB11","doi":"10.1145/1989284.1989321","ee":"https://doi.org/10.1145/1989284.1989321","url":"https://dblp.org/rec/conf/pods/AmelootNB11"},
+"url":"URL#3097301"
+},
+{
+"@score":"1",
+"@id":"3097302",
+"info":{"authors":{"author":[{"@pid":"88/9060","text":"Yael Amsterdamer"},{"@pid":"98/6876","text":"Daniel Deutch"},{"@pid":"m/TovaMilo","text":"Tova Milo"},{"@pid":"t/ValTannen","text":"Val Tannen"}]},"title":"On provenance minimization.","venue":"PODS","pages":"141-152","year":"2011","type":"Conference and Workshop Papers","key":"conf/pods/AmsterdamerDMT11","doi":"10.1145/1989284.1989303","ee":"https://doi.org/10.1145/1989284.1989303","url":"https://dblp.org/rec/conf/pods/AmsterdamerDMT11"},
+"url":"URL#3097302"
+},
+{
+"@score":"1",
+"@id":"3097303",
+"info":{"authors":{"author":[{"@pid":"88/9060","text":"Yael Amsterdamer"},{"@pid":"98/6876","text":"Daniel Deutch"},{"@pid":"t/ValTannen","text":"Val Tannen"}]},"title":"Provenance for aggregate queries.","venue":"PODS","pages":"153-164","year":"2011","type":"Conference and Workshop Papers","key":"conf/pods/AmsterdamerDT11","doi":"10.1145/1989284.1989302","ee":"https://doi.org/10.1145/1989284.1989302","url":"https://dblp.org/rec/conf/pods/AmsterdamerDT11"},
+"url":"URL#3097303"
+},
+{
+"@score":"1",
+"@id":"3097304",
+"info":{"authors":{"author":[{"@pid":"62/6761","text":"Timos Antonopoulos"},{"@pid":"95/3517","text":"Wim Martens"},{"@pid":"n/FrankNeven","text":"Frank Neven"}]},"title":"The complexity of text-preserving XML transformations.","venue":"PODS","pages":"247-258","year":"2011","type":"Conference and Workshop Papers","key":"conf/pods/AntonopoulosMN11","doi":"10.1145/1989284.1989316","ee":"https://doi.org/10.1145/1989284.1989316","url":"https://dblp.org/rec/conf/pods/AntonopoulosMN11"},
+"url":"URL#3097304"
+},
+{
+"@score":"1",
+"@id":"3097305",
+"info":{"authors":{"author":[{"@pid":"76/6735","text":"Marcelo Arenas"},{"@pid":"12/6407-1","text":"Jorge Pérez 0001"}]},"title":"Querying semantic web data with SPARQL.","venue":"PODS","pages":"305-316","year":"2011","type":"Conference and Workshop Papers","key":"conf/pods/ArenasP11","doi":"10.1145/1989284.1989312","ee":"https://doi.org/10.1145/1989284.1989312","url":"https://dblp.org/rec/conf/pods/ArenasP11"},
+"url":"URL#3097305"
+},
+{
+"@score":"1",
+"@id":"3097306",
+"info":{"authors":{"author":[{"@pid":"76/6735","text":"Marcelo Arenas"},{"@pid":"12/6407-1","text":"Jorge Pérez 0001"},{"@pid":"36/27","text":"Juan L. Reutter"}]},"title":"Data exchange beyond complete data.","venue":"PODS","pages":"83-94","year":"2011","type":"Conference and Workshop Papers","key":"conf/pods/ArenasPR11","doi":"10.1145/1989284.1989293","ee":"https://doi.org/10.1145/1989284.1989293","url":"https://dblp.org/rec/conf/pods/ArenasPR11"},
+"url":"URL#3097306"
+},
+{
+"@score":"1",
+"@id":"3097307",
+"info":{"authors":{"author":[{"@pid":"29/5169","text":"Pablo Barceló"},{"@pid":"l/LeonidLibkin","text":"Leonid Libkin"},{"@pid":"36/27","text":"Juan L. Reutter"}]},"title":"Querying graph patterns.","venue":"PODS","pages":"199-210","year":"2011","type":"Conference and Workshop Papers","key":"conf/pods/BarceloLR11","doi":"10.1145/1989284.1989307","ee":"https://doi.org/10.1145/1989284.1989307","url":"https://dblp.org/rec/conf/pods/BarceloLR11"},
+"url":"URL#3097307"
+},
+{
+"@score":"1",
+"@id":"3097308",
+"info":{"authors":{"author":[{"@pid":"b/MichaelBenedikt","text":"Michael Benedikt"},{"@pid":"g/GeorgGottlob","text":"Georg Gottlob"},{"@pid":"12/225","text":"Pierre Senellart"}]},"title":"Determining relevance of accesses at runtime.","venue":"PODS","pages":"211-222","year":"2011","type":"Conference and Workshop Papers","key":"conf/pods/BenediktGS11","doi":"10.1145/1989284.1989309","ee":"https://doi.org/10.1145/1989284.1989309","url":"https://dblp.org/rec/conf/pods/BenediktGS11"},
+"url":"URL#3097308"
+},
+{
+"@score":"1",
+"@id":"3097309",
+"info":{"authors":{"author":[{"@pid":"53/4804","text":"Mikolaj Bojanczyk"},{"@pid":"23/6104","text":"Diego Figueira"}]},"title":"Efficient evaluation for a temporal logic on changing XML documents.","venue":"PODS","pages":"259-270","year":"2011","type":"Conference and Workshop Papers","key":"conf/pods/BojanczykF11","doi":"10.1145/1989284.1989317","ee":"https://doi.org/10.1145/1989284.1989317","url":"https://dblp.org/rec/conf/pods/BojanczykF11"},
+"url":"URL#3097309"
+},
+{
+"@score":"1",
+"@id":"3097310",
+"info":{"authors":{"author":[{"@pid":"40/1039","text":"Edith Cohen"},{"@pid":"48/3950","text":"Haim Kaplan"}]},"title":"Get the most out of your sample - optimal unbiased estimators using partial information.","venue":"PODS","pages":"13-24","year":"2011","type":"Conference and Workshop Papers","key":"conf/pods/CohenK11","doi":"10.1145/1989284.1989288","ee":"https://doi.org/10.1145/1989284.1989288","url":"https://dblp.org/rec/conf/pods/CohenK11"},
+"url":"URL#3097310"
+},
+{
+"@score":"1",
+"@id":"3097311",
+"info":{"authors":{"author":[{"@pid":"d/SBDavidson","text":"Susan B. Davidson"},{"@pid":"k/SanjeevKhanna","text":"Sanjeev Khanna"},{"@pid":"m/TovaMilo","text":"Tova Milo"},{"@pid":"81/6547","text":"Debmalya Panigrahi"},{"@pid":"77/4620","text":"Sudeepa Roy"}]},"title":"Provenance views for module privacy.","venue":"PODS","pages":"175-186","year":"2011","type":"Conference and Workshop Papers","key":"conf/pods/DavidsonKMPR11","doi":"10.1145/1989284.1989305","ee":"https://doi.org/10.1145/1989284.1989305","url":"https://dblp.org/rec/conf/pods/DavidsonKMPR11"},
+"url":"URL#3097311"
+},
+{
+"@score":"1",
+"@id":"3097312",
+"info":{"authors":{"author":[{"@pid":"98/6876","text":"Daniel Deutch"},{"@pid":"m/TovaMilo","text":"Tova Milo"}]},"title":"A quest for beauty and wealth (or, business processes for database researchers).","venue":"PODS","pages":"1-12","year":"2011","type":"Conference and Workshop Papers","key":"conf/pods/DeutchM11","doi":"10.1145/1989284.1989286","ee":"https://doi.org/10.1145/1989284.1989286","url":"https://dblp.org/rec/conf/pods/DeutchM11"},
+"url":"URL#3097312"
+},
+{
+"@score":"1",
+"@id":"3097313",
+"info":{"authors":{"author":[{"@pid":"f/RonaldFagin","text":"Ronald Fagin"},{"@pid":"74/3195","text":"Benny Kimelfeld"},{"@pid":"60/2319","text":"Yunyao Li 0001"},{"@pid":"04/2966","text":"Sriram Raghavan"},{"@pid":"81/6125","text":"Shivakumar Vaithyanathan"}]},"title":"Rewrite rules for search database systems.","venue":"PODS","pages":"271-282","year":"2011","type":"Conference and Workshop Papers","key":"conf/pods/FaginKLRV11","doi":"10.1145/1989284.1989322","ee":"https://doi.org/10.1145/1989284.1989322","url":"https://dblp.org/rec/conf/pods/FaginKLRV11"},
+"url":"URL#3097313"
+},
+{
+"@score":"1",
+"@id":"3097314",
+"info":{"authors":{"author":[{"@pid":"94/2372","text":"Wenfei Fan"},{"@pid":"g/FlorisGeerts","text":"Floris Geerts"},{"@pid":"w/JefWijsen","text":"Jef Wijsen"}]},"title":"Determining the currency of data.","venue":"PODS","pages":"71-82","year":"2011","type":"Conference and Workshop Papers","key":"conf/pods/FanGW11","doi":"10.1145/1989284.1989295","ee":"https://doi.org/10.1145/1989284.1989295","url":"https://dblp.org/rec/conf/pods/FanGW11"},
+"url":"URL#3097314"
+},
+{
+"@score":"1",
+"@id":"3097315",
+"info":{"authors":{"author":[{"@pid":"14/7259","text":"Yeye He"},{"@pid":"63/478","text":"Siddharth Barman"},{"@pid":"18/5410","text":"Di Wang"},{"@pid":"n/JeffreyFNaughton","text":"Jeffrey F. Naughton"}]},"title":"On the complexity of privacy-preserving complex event processing.","venue":"PODS","pages":"165-174","year":"2011","type":"Conference and Workshop Papers","key":"conf/pods/HeBWN11","doi":"10.1145/1989284.1989304","ee":"https://doi.org/10.1145/1989284.1989304","url":"https://dblp.org/rec/conf/pods/HeBWN11"},
+"url":"URL#3097315"
+},
+{
+"@score":"1",
+"@id":"3097316",
+"info":{"authors":{"author":[{"@pid":"29/358","text":"Hossein Jowhari"},{"@pid":"10/8383","text":"Mert Saglam"},{"@pid":"t/GaborTardos","text":"Gábor Tardos"}]},"title":"Tight bounds for Lp samplers, finding duplicates in streams, and related problems.","venue":"PODS","pages":"49-58","year":"2011","type":"Conference and Workshop Papers","key":"conf/pods/JowhariST11","doi":"10.1145/1989284.1989289","ee":"https://doi.org/10.1145/1989284.1989289","url":"https://dblp.org/rec/conf/pods/JowhariST11"},
+"url":"URL#3097316"
+},
+{
+"@score":"1",
+"@id":"3097317",
+"info":{"authors":{"author":[{"@pid":"74/3195","text":"Benny Kimelfeld"},{"@pid":"26/5086","text":"Yehoshua Sagiv"}]},"title":"Finding a minimal tree pattern under neighborhood constraints.","venue":"PODS","pages":"235-246","year":"2011","type":"Conference and Workshop Papers","key":"conf/pods/KimelfeldS11","doi":"10.1145/1989284.1989318","ee":"https://doi.org/10.1145/1989284.1989318","url":"https://dblp.org/rec/conf/pods/KimelfeldS11"},
+"url":"URL#3097317"
+},
+{
+"@score":"1",
+"@id":"3097318",
+"info":{"authors":{"author":[{"@pid":"74/3195","text":"Benny Kimelfeld"},{"@pid":"29/5942","text":"Jan Vondrák"},{"@pid":"w/RyanWilliams","text":"Ryan Williams 0001"}]},"title":"Maximizing conjunctive views in deletion propagation.","venue":"PODS","pages":"187-198","year":"2011","type":"Conference and Workshop Papers","key":"conf/pods/KimelfeldVW11","doi":"10.1145/1989284.1989308","ee":"https://doi.org/10.1145/1989284.1989308","url":"https://dblp.org/rec/conf/pods/KimelfeldVW11"},
+"url":"URL#3097318"
+},
+{
+"@score":"1",
+"@id":"3097319",
+"info":{"authors":{"author":[{"@pid":"49/8316","text":"Paraschos Koutris"},{"@pid":"s/DanSuciu","text":"Dan Suciu"}]},"title":"Parallel evaluation of conjunctive queries.","venue":"PODS","pages":"223-234","year":"2011","type":"Conference and Workshop Papers","key":"conf/pods/KoutrisS11","doi":"10.1145/1989284.1989310","ee":"https://doi.org/10.1145/1989284.1989310","url":"https://dblp.org/rec/conf/pods/KoutrisS11"},
+"url":"URL#3097319"
+},
+{
+"@score":"1",
+"@id":"3097320",
+"info":{"authors":{"author":{"@pid":"l/LeonidLibkin","text":"Leonid Libkin"}},"title":"Incomplete information and certain answers in general data models.","venue":"PODS","pages":"59-70","year":"2011","type":"Conference and Workshop Papers","key":"conf/pods/Libkin11","doi":"10.1145/1989284.1989294","ee":"https://doi.org/10.1145/1989284.1989294","url":"https://dblp.org/rec/conf/pods/Libkin11"},
+"url":"URL#3097320"
+},
+{
+"@score":"1",
+"@id":"3097321",
+"info":{"authors":{"author":[{"@pid":"75/7789","text":"Darakhshan J. Mir"},{"@pid":"m/SMuthukrishnan","text":"S. Muthukrishnan"},{"@pid":"24/7867","text":"Aleksandar Nikolov"},{"@pid":"w/RebeccaNWright","text":"Rebecca N. Wright"}]},"title":"Pan-private algorithms via statistics on sketches.","venue":"PODS","pages":"37-48","year":"2011","type":"Conference and Workshop Papers","key":"conf/pods/MirMNW11","doi":"10.1145/1989284.1989290","ee":"https://doi.org/10.1145/1989284.1989290","url":"https://dblp.org/rec/conf/pods/MirMNW11"},
+"url":"URL#3097321"
+},
+{
+"@score":"1",
+"@id":"3097322",
+"info":{"authors":{"author":{"@pid":"m/SMuthukrishnan","text":"S. Muthukrishnan"}},"title":"Theory of data stream computing - where to go.","venue":"PODS","pages":"317-319","year":"2011","type":"Conference and Workshop Papers","key":"conf/pods/Muthukrishnan11","doi":"10.1145/1989284.1989314","ee":"https://doi.org/10.1145/1989284.1989314","url":"https://dblp.org/rec/conf/pods/Muthukrishnan11"},
+"url":"URL#3097322"
+},
+{
+"@score":"1",
+"@id":"3097323",
+"info":{"authors":{"author":[{"@pid":"88/4537","text":"Alessio Orlandi"},{"@pid":"44/5068","text":"Rossano Venturini"}]},"title":"Space-efficient substring occurrence estimation.","venue":"PODS","pages":"95-106","year":"2011","type":"Conference and Workshop Papers","key":"conf/pods/OrlandiV11","doi":"10.1145/1989284.1989300","ee":"https://doi.org/10.1145/1989284.1989300","url":"https://dblp.org/rec/conf/pods/OrlandiV11"},
+"url":"URL#3097323"
+},
+{
+"@score":"1",
+"@id":"3097324",
+"info":{"authors":{"author":[{"@pid":"57/7114","text":"Cheng Sheng 0001"},{"@pid":"t/YufeiTao","text":"Yufei Tao"}]},"title":"FIFO indexes for decomposable problems.","venue":"PODS","pages":"25-35","year":"2011","type":"Conference and Workshop Papers","key":"conf/pods/ShengT11","doi":"10.1145/1989284.1989291","ee":"https://doi.org/10.1145/1989284.1989291","url":"https://dblp.org/rec/conf/pods/ShengT11"},
+"url":"URL#3097324"
+},
+{
+"@score":"1",
+"@id":"3097325",
+"info":{"authors":{"author":[{"@pid":"57/7114","text":"Cheng Sheng 0001"},{"@pid":"t/YufeiTao","text":"Yufei Tao"}]},"title":"On finding skylines in external memory.","venue":"PODS","pages":"107-116","year":"2011","type":"Conference and Workshop Papers","key":"conf/pods/ShengT11a","doi":"10.1145/1989284.1989298","ee":"https://doi.org/10.1145/1989284.1989298","url":"https://dblp.org/rec/conf/pods/ShengT11a"},
+"url":"URL#3097325"
+},
+{
+"@score":"1",
+"@id":"3097326",
+"info":{"authors":{"author":[{"@pid":"57/7114","text":"Cheng Sheng 0001"},{"@pid":"t/YufeiTao","text":"Yufei Tao"}]},"title":"New results on two-dimensional orthogonal range aggregation in external memory.","venue":"PODS","pages":"129-139","year":"2011","type":"Conference and Workshop Papers","key":"conf/pods/ShengT11b","doi":"10.1145/1989284.1989297","ee":"https://doi.org/10.1145/1989284.1989297","url":"https://dblp.org/rec/conf/pods/ShengT11b"},
+"url":"URL#3097326"
+},
+{
+"@score":"1",
+"@id":"3097327",
+"info":{"authors":{"author":[{"@pid":"94/4260","text":"Zhewei Wei"},{"@pid":"43/1219-1","text":"Ke Yi 0001"}]},"title":"Beyond simple aggregates - indexing for summary queries.","venue":"PODS","pages":"117-128","year":"2011","type":"Conference and Workshop Papers","key":"conf/pods/WeiY11","doi":"10.1145/1989284.1989299","ee":"https://doi.org/10.1145/1989284.1989299","url":"https://dblp.org/rec/conf/pods/WeiY11"},
+"url":"URL#3097327"
+},
+{
+"@score":"1",
+"@id":"3126222",
+"info":{"authors":{"author":[{"@pid":"l/MLenzerini","text":"Maurizio Lenzerini"},{"@pid":"s/TSchwentick","text":"Thomas Schwentick"}]},"title":"Proceedings of the 30th ACM SIGMOD-SIGACT-SIGART Symposium on Principles of Database Systems, PODS 2011, June 12-16, 2011, Athens, Greece","venue":"PODS","publisher":"ACM","year":"2011","type":"Editorship","key":"conf/pods/2011","ee":"http://dl.acm.org/citation.cfm?id=1989284","url":"https://dblp.org/rec/conf/pods/2011"},
+"url":"URL#3126222"
+}
+]
+}
+}
+}
