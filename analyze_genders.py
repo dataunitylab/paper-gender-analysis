@@ -31,7 +31,7 @@ def infer_genders(field=None):
 
     for json_file in glob.glob(glob_path):
         field = json_file.split('-')[0].split('/')[1].replace('_', ' ')
-        conf = json_file.split('-')[0].split('/')[-1]
+        conf = json_file.split('-')[0].split('/')[-1].upper()
         year = int(json_file.split('-')[1].split('.')[0])
 
         data = json.load(open(json_file))['result']['hits'].get('hit', [])
@@ -144,14 +144,15 @@ def _all_female_author(group):
     return group['female'].all()
 
 
-def aggregate_authorship(df, group_attrs=['conf', 'year']):
+def aggregate_authorship(df, group_attrs=['conf', 'year'], funcs=None):
     aggregates = {}
-    funcs = {
-        'first': _first_female_author,
-        'last': _last_female_author,
-        'any': _any_female_author,
-        'all': _all_female_author
-    }
+    if funcs is None:
+        funcs = {
+            'first': _first_female_author,
+            'last': _last_female_author,
+            'any': _any_female_author,
+            'all': _all_female_author
+        }
     for (name, fn) in funcs.items():
         # First group by paper ID to calculate values per paper
         df_agg = df.groupby(['paper_id'] + group_attrs) \
@@ -163,7 +164,7 @@ def aggregate_authorship(df, group_attrs=['conf', 'year']):
     return aggregates
 
 
-def plot_authors(df, plot_label, save=False, header=True):
+def plot_authors(df, plot_label, save=None, header=True):
     # Calculate the rolling mean across three years
     rolling_mean = df.unstack(level=0).sort_values(['year']).ffill() \
                      .rolling(window=3).mean()
@@ -181,8 +182,8 @@ def plot_authors(df, plot_label, save=False, header=True):
     # y-axis is always a percentage of all papers
     fig.set_ylabel('% of papers')
 
-    # Label based on uppercase journal name
-    fig.legend([c.split(', ')[1].rstrip(')').upper()
+    # Strip the extra group part from legends
+    fig.legend([c.split(', ')[1].rstrip(')')
                 for c in fig.get_legend_handles_labels()[1]])
 
     # Optionally save to file
@@ -197,7 +198,13 @@ def plot_authors(df, plot_label, save=False, header=True):
             'font.size': 20,
         })
 
-        filename = plot_label.replace(' ', '_') + '.pgf'
+        # Calculate the filename
+        if save is True:
+            filename = plot_label.replace(' ', '_')
+        else:
+            filename = save
+        filename += '.pgf'
+
         fig.figure.set_tight_layout(True)
         fig.figure.savefig(os.path.join('output', filename))
 
@@ -222,6 +229,10 @@ def main():
     plot_authors(aggregates['any'], 'any position', save=True, header=False)
     plot_authors(aggregates['first'], 'first author', save=True, header=False)
     plot_authors(aggregates['last'], 'last author', save=True, header=False)
+
+    df = dataframe()
+    aggregates = aggregate_authorship(df, group_attrs=['field', 'year'], funcs={'any': _any_female_author})
+    plot_authors(aggregates['any'], 'any position', save='fields', header=False)
 
 
 if __name__ == '__main__':
