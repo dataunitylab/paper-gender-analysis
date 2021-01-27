@@ -129,7 +129,9 @@ get_dblp_json -f AI -t conf -k aaai -s 2005 -e 2020
 
 #get_dblp_json -f AI -t conf -k iclr -s 2013 -e 2020
 
-get_dblp_json -f AI -t conf -k ijcai -s 69 -e 99 -o 1900 -n 2
+get_dblp_json -f AI -t conf -k ijcai -s 69 -e 77 -o 1900 -n 2
+get_dblp_json -f AI -t conf -k ijcai -s 1979 -e 1979
+get_dblp_json -f AI -t conf -k ijcai -s 81 -e 99 -o 1900 -n 2
 get_dblp_json -f AI -t conf -k ijcai -s 2001 -e 2015 -n 2
 get_dblp_json -f AI -t conf -k ijcai -s 2016 -e 2020
 
