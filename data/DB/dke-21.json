@@ -1,23 +1,134 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke21\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke21\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.38"
+"text":"113.66"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"17",
+"@dc":"17",
+"@oc":"17",
+"@id":"17615701",
+"text":":facetid:toc:db/journals/dke/dke21.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"17",
+"@computed":"17",
+"@sent":"17",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"4923623",
+"info":{"authors":{"author":[{"@pid":"26/7438","text":"Ana Paula Ambrosio"},{"@pid":"36/3146","text":"Elisabeth Métais"},{"@pid":"58/4371","text":"Jean-Noël Meunier"}]},"title":"The Linguistic Level - Contribution for Conceptual Design, View Integration, Reuse and Documentation.","venue":"Data Knowl. Eng.","volume":"21","number":"2","pages":"111-129","year":"1997","type":"Journal Articles","key":"journals/dke/AmbrosioMM97","doi":"10.1016/S0169-023X(96)00028-6","ee":"https://doi.org/10.1016/S0169-023X(96)00028-6","url":"https://dblp.org/rec/journals/dke/AmbrosioMM97"},
+"url":"URL#4923623"
+},
+{
+"@score":"1",
+"@id":"4923627",
+"info":{"authors":{"author":[{"@pid":"b/DBeneventano","text":"Domenico Beneventano"},{"@pid":"b/SBergamaschi","text":"Sonia Bergamaschi"}]},"title":"Incoherence and Subsumption for Recursive Views and Queries in Object-Oriented Data Models.","venue":"Data Knowl. Eng.","volume":"21","number":"3","pages":"217-252","year":"1997","type":"Journal Articles","key":"journals/dke/BeneventanoB97","doi":"10.1016/S0169-023X(96)00020-1","ee":"https://doi.org/10.1016/S0169-023X(96)00020-1","url":"https://dblp.org/rec/journals/dke/BeneventanoB97"},
+"url":"URL#4923627"
+},
+{
+"@score":"1",
+"@id":"4923630",
+"info":{"authors":{"author":{"@pid":"b/MBouzeghoub","text":"Mokrane Bouzeghoub"}},"title":"Natural Language for Data Bases - Preface to the Special Issue.","venue":"Data Knowl. Eng.","volume":"21","number":"2","pages":"109-110","year":"1997","type":"Journal Articles","key":"journals/dke/Bouzeghoub97","doi":"10.1016/S0169-023X(96)00027-4","ee":"https://doi.org/10.1016/S0169-023X(96)00027-4","url":"https://dblp.org/rec/journals/dke/Bouzeghoub97"},
+"url":"URL#4923630"
+},
+{
+"@score":"1",
+"@id":"4923632",
+"info":{"authors":{"author":[{"@pid":"28/5195","text":"J. F. M. Burg"},{"@pid":"r/RPvandeRiet","text":"Reind P. van de Riet"}]},"title":"The Impact of Linguistics on Conceptual Models - Consistency and Understandability.","venue":"Data Knowl. Eng.","volume":"21","number":"2","pages":"131-146","year":"1997","type":"Journal Articles","key":"journals/dke/BurgR97","doi":"10.1016/S0169-023X(96)00029-8","ee":"https://doi.org/10.1016/S0169-023X(96)00029-8","url":"https://dblp.org/rec/journals/dke/BurgR97"},
+"url":"URL#4923632"
+},
+{
+"@score":"1",
+"@id":"4923640",
+"info":{"authors":{"author":[{"@pid":"12/1075","text":"Ioannis Hatzilygeroudis"},{"@pid":"93/5245","text":"Han Reichgelt"}]},"title":"Handling Inheritance in a System Integrating Logic in Objects.","venue":"Data Knowl. Eng.","volume":"21","number":"3","pages":"253-280","year":"1997","type":"Journal Articles","key":"journals/dke/HatzilygeroudisR97","doi":"10.1016/S0169-023X(96)00044-4","ee":"https://doi.org/10.1016/S0169-023X(96)00044-4","url":"https://dblp.org/rec/journals/dke/HatzilygeroudisR97"},
+"url":"URL#4923640"
+},
+{
+"@score":"1",
+"@id":"4923645",
+"info":{"authors":{"author":{"@pid":"j/PaulJohannesson","text":"Paul Johannesson"}},"title":"Supporting Schema Integration by Linguistic Instruments.","venue":"Data Knowl. Eng.","volume":"21","number":"2","pages":"165-182","year":"1997","type":"Journal Articles","key":"journals/dke/Johannesson97","doi":"10.1016/S0169-023X(96)00031-6","ee":"https://doi.org/10.1016/S0169-023X(96)00031-6","url":"https://dblp.org/rec/journals/dke/Johannesson97"},
+"url":"URL#4923645"
+},
+{
+"@score":"1",
+"@id":"4923648",
+"info":{"authors":{"author":{"@pid":"k/VijayKumar-2","text":"Vijay Kumar 0002"}},"title":"KRISHNA - An Efficient Concurrency Control Algorithm Based on Dynamic Attributes of Transactions and its Performance.","venue":"Data Knowl. Eng.","volume":"21","number":"3","pages":"281-296","year":"1997","type":"Journal Articles","key":"journals/dke/Kumar97","doi":"10.1016/S0169-023X(96)00018-3","ee":"https://doi.org/10.1016/S0169-023X(96)00018-3","url":"https://dblp.org/rec/journals/dke/Kumar97"},
+"url":"URL#4923648"
+},
+{
+"@score":"1",
+"@id":"4923650",
+"info":{"authors":{"author":[{"@pid":"79/4100","text":"Bernd van Linder"},{"@pid":"h/WiebevanderHoek","text":"Wiebe van der Hoek"},{"@pid":"m/JJCMeyer","text":"John-Jules Ch. Meyer"}]},"title":"The Dynamics of Default Reasoning.","venue":"Data Knowl. Eng.","volume":"21","number":"3","pages":"317-346","year":"1997","type":"Journal Articles","key":"journals/dke/LinderHM97","doi":"10.1016/S0169-023X(96)00021-3","ee":"https://doi.org/10.1016/S0169-023X(96)00021-3","url":"https://dblp.org/rec/journals/dke/LinderHM97"},
+"url":"URL#4923650"
+},
+{
+"@score":"1",
+"@id":"4923653",
+"info":{"authors":{"author":{"@pid":"50/3538","text":"Isabelle Mirbel"}},"title":"Semantic Integration of Conceptual Schemas.","venue":"Data Knowl. Eng.","volume":"21","number":"2","pages":"183-195","year":"1997","type":"Journal Articles","key":"journals/dke/Mirbel97","doi":"10.1016/S0169-023X(97)80001-D","ee":"https://doi.org/10.1016/S0169-023X(97)80001-D","url":"https://dblp.org/rec/journals/dke/Mirbel97"},
+"url":"URL#4923653"
+},
+{
+"@score":"1",
+"@id":"4923659",
+"info":{"authors":{"author":{"@pid":"s/PatrickSaintDizier","text":"Patrick Saint-Dizier"}},"title":"Semantic Verb Classes and Lexical Conceptual Structures for Enhancing the Conceptual Modelling and the Access to Databases.","venue":"Data Knowl. Eng.","volume":"21","number":"2","pages":"197-211","year":"1997","type":"Journal Articles","key":"journals/dke/Saint-Dizier97","doi":"10.1016/S0169-023X(96)00034-1","ee":"https://doi.org/10.1016/S0169-023X(96)00034-1","url":"https://dblp.org/rec/journals/dke/Saint-Dizier97"},
+"url":"URL#4923659"
+},
+{
+"@score":"1",
+"@id":"4923660",
+"info":{"authors":{"author":[{"@pid":"s/PeretzShoval","text":"Peretz Shoval"},{"@pid":"42/2609","text":"Sagit Shiran"}]},"title":"Entity-Relationship and Object-Oriented Data Modeling-an Experimental Comparison of Design Quality.","venue":"Data Knowl. Eng.","volume":"21","number":"3","pages":"297-315","year":"1997","type":"Journal Articles","key":"journals/dke/ShovalS97","doi":"10.1016/S0169-023X(97)88935-5","ee":"https://doi.org/10.1016/S0169-023X(97)88935-5","url":"https://dblp.org/rec/journals/dke/ShovalS97"},
+"url":"URL#4923660"
+},
+{
+"@score":"1",
+"@id":"4923665",
+"info":{"authors":{"author":[{"@pid":"15/6239","text":"Bram van der Vos"},{"@pid":"g/JonAtleGulla","text":"Jon Atle Gulla"},{"@pid":"r/RPvandeRiet","text":"Reind P. van de Riet"}]},"title":"Verification of Conceptual Models Based on Linguistic Knowledge.","venue":"Data Knowl. Eng.","volume":"21","number":"2","pages":"147-163","year":"1997","type":"Journal Articles","key":"journals/dke/VosGR97","doi":"10.1016/S0169-023X(96)00030-4","ee":"https://doi.org/10.1016/S0169-023X(96)00030-4","url":"https://dblp.org/rec/journals/dke/VosGR97"},
+"url":"URL#4923665"
+},
+{
+"@score":"1",
+"@id":"4923669",
+"info":{"authors":{"author":[{"@pid":"75/1922","text":"Sang Bong Yoo"},{"@pid":"c/SangKyunCha","text":"Sang Kyun Cha"}]},"title":"Integrity Maintenance in a Heterogeneous Engineering Database Environment.","venue":"Data Knowl. Eng.","volume":"21","number":"3","pages":"347-363","year":"1997","type":"Journal Articles","key":"journals/dke/YooC97","doi":"10.1016/S0169-023X(96)00026-2","ee":"https://doi.org/10.1016/S0169-023X(96)00026-2","url":"https://dblp.org/rec/journals/dke/YooC97"},
+"url":"URL#4923669"
+},
+{
+"@score":"1",
+"@id":"4977958",
+"info":{"authors":{"author":[{"@pid":"09/6181","text":"Rex Blankinship"},{"@pid":"71/1004","text":"Alan R. Hevner"},{"@pid":"91/2156","text":"S. Bing Yao"}]},"title":"An Iterative Method for Distributed Database Optimization.","venue":"Data Knowl. Eng.","volume":"21","number":"1","pages":"1-30","year":"1996","type":"Journal Articles","key":"journals/dke/BlankinshipHY96","doi":"10.1016/S0169-023X(96)00023-7","ee":"https://doi.org/10.1016/S0169-023X(96)00023-7","url":"https://dblp.org/rec/journals/dke/BlankinshipHY96"},
+"url":"URL#4977958"
+},
+{
+"@score":"1",
+"@id":"4977960",
+"info":{"authors":{"author":[{"@pid":"c/SilvanaCastano","text":"Silvana Castano"},{"@pid":"14/6283","text":"Giancarlo Martella"},{"@pid":"s/PSamarati","text":"Pierangela Samarati"}]},"title":"Analysis, Comparison and Design of Role-Based Security Specifications.","venue":"Data Knowl. Eng.","volume":"21","number":"1","pages":"31-55","year":"1996","type":"Journal Articles","key":"journals/dke/CastanoMS96","doi":"10.1016/S0169-023X(96)00025-0","ee":"https://doi.org/10.1016/S0169-023X(96)00025-0","url":"https://dblp.org/rec/journals/dke/CastanoMS96"},
+"url":"URL#4977960"
+},
+{
+"@score":"1",
+"@id":"4977961",
+"info":{"authors":{"author":[{"@pid":"78/4406","text":"Roger H. L. Chiang"},{"@pid":"39/1331","text":"Terence M. Barron"},{"@pid":"41/1781","text":"Veda C. Storey"}]},"title":"A Framework for the Design and Evaluation of Reverse Engineering Methods for Relational Databases.","venue":"Data Knowl. Eng.","volume":"21","number":"1","pages":"57-77","year":"1996","type":"Journal Articles","key":"journals/dke/ChiangBS96","doi":"10.1016/S0169-023X(96)00022-5","ee":"https://doi.org/10.1016/S0169-023X(96)00022-5","url":"https://dblp.org/rec/journals/dke/ChiangBS96"},
+"url":"URL#4977961"
+},
+{
+"@score":"1",
+"@id":"4977988",
+"info":{"authors":{"author":{"@pid":"46/1719","text":"Susan V. Vrbsky"}},"title":"A Data Model for Approximate Query Processing of Real-Time Databases.","venue":"Data Knowl. Eng.","volume":"21","number":"1","pages":"79-102","year":"1996","type":"Journal Articles","key":"journals/dke/Vrbsky96","doi":"10.1016/S0169-023X(96)00019-5","ee":"https://doi.org/10.1016/S0169-023X(96)00019-5","url":"https://dblp.org/rec/journals/dke/Vrbsky96"},
+"url":"URL#4977988"
+}
+]
+}
 }
 }

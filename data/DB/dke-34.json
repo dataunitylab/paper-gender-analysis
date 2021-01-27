@@ -1,23 +1,104 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke34\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke34\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.43"
+"text":"147.31"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"12",
+"@dc":"12",
+"@oc":"12",
+"@id":"17615715",
+"text":":facetid:toc:db/journals/dke/dke34.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"12",
+"@computed":"12",
+"@sent":"12",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"4718070",
+"info":{"authors":{"author":[{"@pid":"98/2805","text":"Harry W. Agius"},{"@pid":"50/1005","text":"Marios C. Angelides"}]},"title":"A method for developing interactive multimedia from their semantic content.","venue":"Data Knowl. Eng.","volume":"34","number":"2","pages":"165-187","year":"2000","type":"Journal Articles","key":"journals/dke/AgiusA00","doi":"10.1016/S0169-023X(00)00014-8","ee":"https://doi.org/10.1016/S0169-023X(00)00014-8","url":"https://dblp.org/rec/journals/dke/AgiusA00"},
+"url":"URL#4718070"
+},
+{
+"@score":"1",
+"@id":"4718072",
+"info":{"authors":{"author":{"@pid":"b/ZohraBellahsene","text":"Zohra Bellahsene"}},"title":"Updates and object-generating views in ODBS.","venue":"Data Knowl. Eng.","volume":"34","number":"2","pages":"125-163","year":"2000","type":"Journal Articles","key":"journals/dke/Bellahsene00","doi":"10.1016/S0169-023X(00)00011-2","ee":"https://doi.org/10.1016/S0169-023X(00)00011-2","url":"https://dblp.org/rec/journals/dke/Bellahsene00"},
+"url":"URL#4718072"
+},
+{
+"@score":"1",
+"@id":"4718078",
+"info":{"authors":{"author":[{"@pid":"89/4827","text":"Eliseo Clementini"},{"@pid":"62/2291","text":"Paolino Di Felice"},{"@pid":"12/5561","text":"Krzysztof Koperski"}]},"title":"Mining multiple-level spatial association rules for objects with a broad boundary.","venue":"Data Knowl. Eng.","volume":"34","number":"3","pages":"251-270","year":"2000","type":"Journal Articles","key":"journals/dke/ClementiniFK00","doi":"10.1016/S0169-023X(00)00017-3","ee":"https://doi.org/10.1016/S0169-023X(00)00017-3","url":"https://dblp.org/rec/journals/dke/ClementiniFK00"},
+"url":"URL#4718078"
+},
+{
+"@score":"1",
+"@id":"4718081",
+"info":{"authors":{"author":[{"@pid":"63/4733","text":"Ran Giladi"},{"@pid":"49/2960","text":"Chanan Glezer"},{"@pid":"22/3031","text":"Nir Melamoud"},{"@pid":"72/2489","text":"Phillip Ein-Dor"},{"@pid":"e/OEtzion","text":"Opher Etzion"}]},"title":"The metaknowledge-based intelligent routing system (MIRS).","venue":"Data Knowl. Eng.","volume":"34","number":"2","pages":"189-217","year":"2000","type":"Journal Articles","key":"journals/dke/GiladiGMEE00","doi":"10.1016/S0169-023X(00)00015-X","ee":"https://doi.org/10.1016/S0169-023X(00)00015-X","url":"https://dblp.org/rec/journals/dke/GiladiGMEE00"},
+"url":"URL#4718081"
+},
+{
+"@score":"1",
+"@id":"4718087",
+"info":{"authors":{"author":[{"@pid":"42/5258","text":"David Edmond"},{"@pid":"h/AHMterHofstede","text":"Arthur H. M. ter Hofstede"}]},"title":"A reflective infrastructure for workflow adaptability.","venue":"Data Knowl. Eng.","volume":"34","number":"3","pages":"271-304","year":"2000","type":"Journal Articles","key":"journals/dke/Hofstede00","doi":"10.1016/S0169-023X(00)00018-5","ee":"https://doi.org/10.1016/S0169-023X(00)00018-5","url":"https://dblp.org/rec/journals/dke/Hofstede00"},
+"url":"URL#4718087"
+},
+{
+"@score":"1",
+"@id":"4718089",
+"info":{"authors":{"author":{"@pid":"23/4530","text":"Anthony Hunter"}},"title":"Merging potentially inconsistent items of structured text.","venue":"Data Knowl. Eng.","volume":"34","number":"3","pages":"305-332","year":"2000","type":"Journal Articles","key":"journals/dke/Hunter00a","doi":"10.1016/S0169-023X(00)00019-7","ee":"https://doi.org/10.1016/S0169-023X(00)00019-7","url":"https://dblp.org/rec/journals/dke/Hunter00a"},
+"url":"URL#4718089"
+},
+{
+"@score":"1",
+"@id":"4718094",
+"info":{"authors":{"author":{"@pid":"k/NickKoudas","text":"Nick Koudas"}},"title":"Indexing support for spatial joins.","venue":"Data Knowl. Eng.","volume":"34","number":"2","pages":"99-124","year":"2000","type":"Journal Articles","key":"journals/dke/Koudas00","doi":"10.1016/S0169-023X(00)00010-0","ee":"https://doi.org/10.1016/S0169-023X(00)00010-0","url":"https://dblp.org/rec/journals/dke/Koudas00"},
+"url":"URL#4718094"
+},
+{
+"@score":"1",
+"@id":"4718095",
+"info":{"authors":{"author":[{"@pid":"k/VijayKumar","text":"Vijay Kumar"},{"@pid":"88/5996","text":"Narayan Gaddipati"}]},"title":"An efficient CCM KRISHNA for high contention environment and its performance comparison with WDL.","venue":"Data Knowl. Eng.","volume":"34","number":"1","pages":"39-76","year":"2000","type":"Journal Articles","key":"journals/dke/KumarG00","doi":"10.1016/S0169-023X(00)00008-2","ee":"https://doi.org/10.1016/S0169-023X(00)00008-2","url":"https://dblp.org/rec/journals/dke/KumarG00"},
+"url":"URL#4718095"
+},
+{
+"@score":"1",
+"@id":"4718097",
+"info":{"authors":{"author":[{"@pid":"69/3962","text":"Dong-Ho Lee"},{"@pid":"k/HyoungJooKim","text":"Hyoung-Joo Kim"}]},"title":"SPY-TEC - An efficient indexing method for similarity search in high-dimensional data spaces.","venue":"Data Knowl. Eng.","volume":"34","number":"1","pages":"77-97","year":"2000","type":"Journal Articles","key":"journals/dke/LeeK00","doi":"10.1016/S0169-023X(00)00009-4","ee":"https://doi.org/10.1016/S0169-023X(00)00009-4","url":"https://dblp.org/rec/journals/dke/LeeK00"},
+"url":"URL#4718097"
+},
+{
+"@score":"1",
+"@id":"4718100",
+"info":{"authors":{"author":[{"@pid":"31/1277","text":"Weifa Liang"},{"@pid":"39/721-10","text":"Hui Wang 0010"},{"@pid":"o/MariaEOrlowska","text":"Maria E. Orlowska"}]},"title":"Range queries in dynamic OLAP data cubes.","venue":"Data Knowl. Eng.","volume":"34","number":"1","pages":"21-38","year":"2000","type":"Journal Articles","key":"journals/dke/LiangWO00","doi":"10.1016/S0169-023X(00)00007-0","ee":"https://doi.org/10.1016/S0169-023X(00)00007-0","url":"https://dblp.org/rec/journals/dke/LiangWO00"},
+"url":"URL#4718100"
+},
+{
+"@score":"1",
+"@id":"4718112",
+"info":{"authors":{"author":[{"@pid":"39/899","text":"Lila Rao"},{"@pid":"93/5245","text":"Han Reichgelt"}]},"title":"STIRDAT - A system tightly integrating relational databases and a theorem prover.","venue":"Data Knowl. Eng.","volume":"34","number":"1","pages":"1-20","year":"2000","type":"Journal Articles","key":"journals/dke/RaoR00","doi":"10.1016/S0169-023X(00)00005-7","ee":"https://doi.org/10.1016/S0169-023X(00)00005-7","url":"https://dblp.org/rec/journals/dke/RaoR00"},
+"url":"URL#4718112"
+},
+{
+"@score":"1",
+"@id":"4718120",
+"info":{"authors":{"author":{"@pid":"y/AdnanHYahya","text":"Adnan H. Yahya"}},"title":"Minimal model generation for refined answering of generalized queries in disjunctive deductive databases.","venue":"Data Knowl. Eng.","volume":"34","number":"3","pages":"219-249","year":"2000","type":"Journal Articles","key":"journals/dke/Yahya00","doi":"10.1016/S0169-023X(00)00016-1","ee":"https://doi.org/10.1016/S0169-023X(00)00016-1","url":"https://dblp.org/rec/journals/dke/Yahya00"},
+"url":"URL#4718120"
+}
+]
+}
 }
 }

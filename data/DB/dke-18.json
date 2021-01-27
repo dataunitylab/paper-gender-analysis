@@ -1,23 +1,86 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke18\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke18\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.44"
+"text":"131.22"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"9",
+"@dc":"9",
+"@oc":"9",
+"@id":"17615697",
+"text":":facetid:toc:db/journals/dke/dke18.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"9",
+"@computed":"9",
+"@sent":"9",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"4977954",
+"info":{"authors":{"author":[{"@pid":"a/SarabjotSAnand","text":"Sarabjot S. Anand"},{"@pid":"b/DavidABell","text":"David A. Bell"},{"@pid":"h/JohnGHughes","text":"John G. Hughes"}]},"title":"EDM - A General Framework for Data Mining Based on Evidence Theory.","venue":"Data Knowl. Eng.","volume":"18","number":"3","pages":"189-223","year":"1996","type":"Journal Articles","key":"journals/dke/AnandBH96","doi":"10.1016/0169-023X(95)00038-T","ee":"https://doi.org/10.1016/0169-023X(95)00038-T","url":"https://dblp.org/rec/journals/dke/AnandBH96"},
+"url":"URL#4977954"
+},
+{
+"@score":"1",
+"@id":"4977956",
+"info":{"authors":{"author":[{"@pid":"b/DavidABell","text":"David A. Bell"},{"@pid":"39/2957","text":"J. W. Guan"},{"@pid":"15/4720","text":"Suk Kyoon Lee"}]},"title":"Generalized Union and Project Operations for Pooling Uncertain and Imprecise Information.","venue":"Data Knowl. Eng.","volume":"18","number":"2","pages":"89-117","year":"1996","type":"Journal Articles","key":"journals/dke/BellGL96","doi":"10.1016/0169-023X(95)00029-R","ee":"https://doi.org/10.1016/0169-023X(95)00029-R","url":"https://dblp.org/rec/journals/dke/BellGL96"},
+"url":"URL#4977956"
+},
+{
+"@score":"1",
+"@id":"4977962",
+"info":{"authors":{"author":{"@pid":"c/StefanConrad1","text":"Stefan Conrad 0001"}},"title":"A Basic Calculus for Verifying Properties of Interacting Objects.","venue":"Data Knowl. Eng.","volume":"18","number":"2","pages":"119-145","year":"1996","type":"Journal Articles","key":"journals/dke/Conrad96","doi":"10.1016/0169-023X(95)00039-U","ee":"https://doi.org/10.1016/0169-023X(95)00039-U","url":"https://dblp.org/rec/journals/dke/Conrad96"},
+"url":"URL#4977962"
+},
+{
+"@score":"1",
+"@id":"4977966",
+"info":{"authors":{"author":[{"@pid":"30/6480","text":"Cheng Hian Goh"},{"@pid":"l/HongjunLu","text":"Hongjun Lu"},{"@pid":"o/BengChinOoi","text":"Beng Chin Ooi"},{"@pid":"t/KianLeeTan","text":"Kian-Lee Tan"}]},"title":"Indexing Temporal Data Using Existing B+-Trees.","venue":"Data Knowl. Eng.","volume":"18","number":"2","pages":"147-165","year":"1996","type":"Journal Articles","key":"journals/dke/GohLOT96","doi":"10.1016/0169-023X(95)00034-P","ee":"https://doi.org/10.1016/0169-023X(95)00034-P","url":"https://dblp.org/rec/journals/dke/GohLOT96"},
+"url":"URL#4977966"
+},
+{
+"@score":"1",
+"@id":"4977969",
+"info":{"authors":{"author":[{"@pid":"76/2017","text":"John Hale"},{"@pid":"72/2300","text":"Sujeet Shenoi"}]},"title":"Analyzing FD Inference in Relational Databases.","venue":"Data Knowl. Eng.","volume":"18","number":"2","pages":"167-183","year":"1996","type":"Journal Articles","key":"journals/dke/HaleS96","doi":"10.1016/0169-023X(95)00033-O","ee":"https://doi.org/10.1016/0169-023X(95)00033-O","url":"https://dblp.org/rec/journals/dke/HaleS96"},
+"url":"URL#4977969"
+},
+{
+"@score":"1",
+"@id":"4977970",
+"info":{"authors":{"author":[{"@pid":"05/3186","text":"Paul P. Ignatius"},{"@pid":"78/4000","text":"C. Siva Ram Murthy"}]},"title":"On Mapping Production Systems Onto Multiprocessors.","venue":"Data Knowl. Eng.","volume":"18","number":"1","pages":"1-27","year":"1996","type":"Journal Articles","key":"journals/dke/IgnatiusM96","doi":"10.1016/0169-023X(96)00032-8","ee":"https://doi.org/10.1016/0169-023X(96)00032-8","url":"https://dblp.org/rec/journals/dke/IgnatiusM96"},
+"url":"URL#4977970"
+},
+{
+"@score":"1",
+"@id":"4977971",
+"info":{"authors":{"author":{"@pid":"48/5413","text":"C. A. Johnson"}},"title":"On Computing Minimal and Perfect Model Membership.","venue":"Data Knowl. Eng.","volume":"18","number":"3","pages":"225-276","year":"1996","type":"Journal Articles","key":"journals/dke/Johnson96","doi":"10.1016/0169-023X(96)00037-7","ee":"https://doi.org/10.1016/0169-023X(96)00037-7","url":"https://dblp.org/rec/journals/dke/Johnson96"},
+"url":"URL#4977971"
+},
+{
+"@score":"1",
+"@id":"4977978",
+"info":{"authors":{"author":[{"@pid":"o/SylviaLOsborn","text":"Sylvia L. Osborn"},{"@pid":"70/5913","text":"Li Yu"}]},"title":"Unifying Data, Behaviours, and Messages in Object-Oriented Databases.","venue":"Data Knowl. Eng.","volume":"18","number":"1","pages":"29-54","year":"1996","type":"Journal Articles","key":"journals/dke/OsbornY96","doi":"10.1016/0169-023X(96)00000-6","ee":"https://doi.org/10.1016/0169-023X(96)00000-6","url":"https://dblp.org/rec/journals/dke/OsbornY96"},
+"url":"URL#4977978"
+},
+{
+"@score":"1",
+"@id":"4977979",
+"info":{"authors":{"author":[{"@pid":"s/PSamarati","text":"Pierangela Samarati"},{"@pid":"a/PAmmann","text":"Paul Ammann"},{"@pid":"j/SushilJajodia","text":"Sushil Jajodia"}]},"title":"Maintaining Replicated Authorizations in Distributed Database Systems.","venue":"Data Knowl. Eng.","volume":"18","number":"1","pages":"55-84","year":"1996","type":"Journal Articles","key":"journals/dke/SamaratiAJ96","doi":"10.1016/0169-023X(95)00000-I","ee":"https://doi.org/10.1016/0169-023X(95)00000-I","url":"https://dblp.org/rec/journals/dke/SamaratiAJ96"},
+"url":"URL#4977979"
+}
+]
+}
 }
 }

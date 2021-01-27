@@ -1,23 +1,80 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke98\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke98\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.52"
+"text":"101.53"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"8",
+"@dc":"8",
+"@oc":"8",
+"@id":"17615780",
+"text":":facetid:toc:db/journals/dke/dke98.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"8",
+"@computed":"8",
+"@sent":"8",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"1807275",
+"info":{"authors":{"author":[{"@pid":"35/2350","text":"Renato Fileto"},{"@pid":"153/4206","text":"Cleto May"},{"@pid":"84/4085","text":"Chiara Renso"},{"@pid":"89/5510","text":"Nikos Pelekis"},{"@pid":"153/4193","text":"Douglas Klein"},{"@pid":"t/YannisTheodoridis","text":"Yannis Theodoridis"}]},"title":"The Baquara2 knowledge-based framework for semantic enrichment and analysis of movement data.","venue":"Data Knowl. Eng.","volume":"98","pages":"104-122","year":"2015","type":"Journal Articles","key":"journals/dke/FiletoMRPKT15","doi":"10.1016/J.DATAK.2015.07.010","ee":"https://doi.org/10.1016/j.datak.2015.07.010","url":"https://dblp.org/rec/journals/dke/FiletoMRPKT15"},
+"url":"URL#1807275"
+},
+{
+"@score":"1",
+"@id":"1807279",
+"info":{"authors":{"author":[{"@pid":"34/11440","text":"Nico Herzberg"},{"@pid":"90/64-1","text":"Andreas Meyer 0001"},{"@pid":"w/MathiasWeske","text":"Mathias Weske"}]},"title":"Improving business process intelligence by observing object state transitions.","venue":"Data Knowl. Eng.","volume":"98","pages":"144-164","year":"2015","type":"Journal Articles","key":"journals/dke/Herzberg0W15","doi":"10.1016/J.DATAK.2015.07.008","ee":"https://doi.org/10.1016/j.datak.2015.07.008","url":"https://dblp.org/rec/journals/dke/Herzberg0W15"},
+"url":"URL#1807279"
+},
+{
+"@score":"1",
+"@id":"1807282",
+"info":{"authors":{"author":[{"@pid":"42/559","text":"C. Maria Keet"},{"@pid":"56/5594","text":"Pablo Rubén Fillottrani"}]},"title":"An ontology-driven unifying metamodel of UML Class Diagrams, EER, and ORM2.","venue":"Data Knowl. Eng.","volume":"98","pages":"30-53","year":"2015","type":"Journal Articles","key":"journals/dke/KeetF15","doi":"10.1016/J.DATAK.2015.07.004","ee":"https://doi.org/10.1016/j.datak.2015.07.004","url":"https://dblp.org/rec/journals/dke/KeetF15"},
+"url":"URL#1807282"
+},
+{
+"@score":"1",
+"@id":"1807284",
+"info":{"authors":{"author":[{"@pid":"31/10003","text":"Van Bao Tran Le"},{"@pid":"l/SebastianLink","text":"Sebastian Link"},{"@pid":"87/3758","text":"Flavio Ferrarotti"}]},"title":"Empirical evidence for the usefulness of Armstrong tables in the acquisition of semantically meaningful SQL constraints.","venue":"Data Knowl. Eng.","volume":"98","pages":"74-103","year":"2015","type":"Journal Articles","key":"journals/dke/LeLF15","doi":"10.1016/J.DATAK.2015.07.006","ee":"https://doi.org/10.1016/j.datak.2015.07.006","url":"https://dblp.org/rec/journals/dke/LeLF15"},
+"url":"URL#1807284"
+},
+{
+"@score":"1",
+"@id":"1807292",
+"info":{"authors":{"author":[{"@pid":"m/GMecca","text":"Giansalvatore Mecca"},{"@pid":"42/5536","text":"Guillem Rull"},{"@pid":"32/5873","text":"Donatello Santoro"},{"@pid":"t/ErnestTeniente","text":"Ernest Teniente"}]},"title":"Ontology-based mappings.","venue":"Data Knowl. Eng.","volume":"98","pages":"8-29","year":"2015","type":"Journal Articles","key":"journals/dke/MeccaRST15","doi":"10.1016/J.DATAK.2015.07.003","ee":"https://doi.org/10.1016/j.datak.2015.07.003","url":"https://dblp.org/rec/journals/dke/MeccaRST15"},
+"url":"URL#1807292"
+},
+{
+"@score":"1",
+"@id":"1807298",
+"info":{"authors":{"author":[{"@pid":"01/9836","text":"Elda Paja"},{"@pid":"00/203","text":"Fabiano Dalpiaz"},{"@pid":"g/PaoloGiorgini","text":"Paolo Giorgini"}]},"title":"Modelling and reasoning about security requirements in socio-technical systems.","venue":"Data Knowl. Eng.","volume":"98","pages":"123-143","year":"2015","type":"Journal Articles","key":"journals/dke/PajaDG15","doi":"10.1016/J.DATAK.2015.07.007","ee":"https://doi.org/10.1016/j.datak.2015.07.007","url":"https://dblp.org/rec/journals/dke/PajaDG15"},
+"url":"URL#1807298"
+},
+{
+"@score":"1",
+"@id":"1807301",
+"info":{"authors":{"author":[{"@pid":"41/1781","text":"Veda C. Storey"},{"@pid":"50/2311","text":"Juan Trujillo"},{"@pid":"l/StephenWLiddle","text":"Stephen W. Liddle"}]},"title":"Research on conceptual modeling - Themes, topics, and introduction to the special issue.","venue":"Data Knowl. Eng.","volume":"98","pages":"1-7","year":"2015","type":"Journal Articles","key":"journals/dke/StoreyTL15","doi":"10.1016/J.DATAK.2015.07.002","ee":"https://doi.org/10.1016/j.datak.2015.07.002","url":"https://dblp.org/rec/journals/dke/StoreyTL15"},
+"url":"URL#1807301"
+},
+{
+"@score":"1",
+"@id":"1807309",
+"info":{"authors":{"author":[{"@pid":"52/8530","text":"Tilmann Zäschke"},{"@pid":"81/4741","text":"Stefania Leone"},{"@pid":"137/2795","text":"Tobias Gmünder"},{"@pid":"n/MoiraCNorrie","text":"Moira C. Norrie"}]},"title":"Improving conceptual data models through iterative development.","venue":"Data Knowl. Eng.","volume":"98","pages":"54-73","year":"2015","type":"Journal Articles","key":"journals/dke/ZaschkeLGN15","doi":"10.1016/J.DATAK.2015.07.005","ee":"https://doi.org/10.1016/j.datak.2015.07.005","url":"https://dblp.org/rec/journals/dke/ZaschkeLGN15"},
+"url":"URL#1807309"
+}
+]
+}
 }
 }

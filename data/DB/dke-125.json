@@ -1,23 +1,92 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke125\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke125\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.48"
+"text":"120.36"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"10",
+"@dc":"10",
+"@oc":"10",
+"@id":"17615686",
+"text":":facetid:toc:db/journals/dke/dke125.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"10",
+"@computed":"10",
+"@sent":"10",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"64367",
+"info":{"authors":{"author":[{"@pid":"194/4703","text":"Chloé Adam"},{"@pid":"194/4787","text":"Antoine Aliotti"},{"@pid":"22/9458","text":"Fragkiskos D. Malliaros"},{"@pid":"01/2224","text":"Paul-Henry Cournède"}]},"title":"Dynamic monitoring of software use with recurrent neural networks.","venue":"Data Knowl. Eng.","volume":"125","pages":"101781","year":"2020","type":"Journal Articles","key":"journals/dke/AdamAMC20","doi":"10.1016/J.DATAK.2019.101781","ee":"https://doi.org/10.1016/j.datak.2019.101781","url":"https://dblp.org/rec/journals/dke/AdamAMC20"},
+"url":"URL#64367"
+},
+{
+"@score":"1",
+"@id":"64381",
+"info":{"authors":{"author":[{"@pid":"183/9269","text":"Samrat Gupta"},{"@pid":"02/3108-1","text":"Pradeep Kumar 0001"}]},"title":"An overlapping community detection algorithm based on rough clustering of links.","venue":"Data Knowl. Eng.","volume":"125","pages":"101777","year":"2020","type":"Journal Articles","key":"journals/dke/GuptaK20","doi":"10.1016/J.DATAK.2019.101777","ee":"https://doi.org/10.1016/j.datak.2019.101777","url":"https://dblp.org/rec/journals/dke/GuptaK20"},
+"url":"URL#64381"
+},
+{
+"@score":"1",
+"@id":"64383",
+"info":{"authors":{"author":[{"@pid":"189/5928","text":"Hendrik ter Horst"},{"@pid":"14/1942","text":"Matthias Hartung"},{"@pid":"12/1983","text":"Philipp Cimiano"},{"@pid":"212/9281","text":"Nicole Brazda"},{"@pid":"212/9280","text":"Hans Werner Müller"},{"@pid":"21/4183","text":"Roman Klinger"}]},"title":"Learning soft domain constraints in a factor graph model for template-based information extraction.","venue":"Data Knowl. Eng.","volume":"125","pages":"101764","year":"2020","type":"Journal Articles","key":"journals/dke/HorstHCBMK20","doi":"10.1016/J.DATAK.2019.101764","ee":"https://doi.org/10.1016/j.datak.2019.101764","url":"https://dblp.org/rec/journals/dke/HorstHCBMK20"},
+"url":"URL#64383"
+},
+{
+"@score":"1",
+"@id":"64384",
+"info":{"authors":{"author":[{"@pid":"124/2794","text":"Hyun Ji Jeong"},{"@pid":"178/0924","text":"Myoung Ho Kim"}]},"title":"Utilizing adjacency of colleagues and type correlations for enhanced link prediction.","venue":"Data Knowl. Eng.","volume":"125","pages":"101785","year":"2020","type":"Journal Articles","key":"journals/dke/JeongK20","doi":"10.1016/J.DATAK.2019.101785","ee":"https://doi.org/10.1016/j.datak.2019.101785","url":"https://dblp.org/rec/journals/dke/JeongK20"},
+"url":"URL#64384"
+},
+{
+"@score":"1",
+"@id":"64385",
+"info":{"authors":{"author":[{"@pid":"00/8002","text":"Przemyslaw Juszczuk"},{"@pid":"04/7145","text":"Jan Kozak"},{"@pid":"117/6144","text":"Krzysztof Kania"}]},"title":"Using similarity measures in prediction of changes in financial market stream data - Experimental approach.","venue":"Data Knowl. Eng.","volume":"125","pages":"101782","year":"2020","type":"Journal Articles","key":"journals/dke/JuszczukKK20","doi":"10.1016/J.DATAK.2019.101782","ee":"https://doi.org/10.1016/j.datak.2019.101782","url":"https://dblp.org/rec/journals/dke/JuszczukKK20"},
+"url":"URL#64385"
+},
+{
+"@score":"1",
+"@id":"64392",
+"info":{"authors":{"author":[{"@pid":"260/5410","text":"Ariane Rodrigues Pereira"},{"@pid":"75/6260","text":"João José Pinto Ferreira"},{"@pid":"76/5776","text":"Alexandra Lopes"}]},"title":"A knowledge representation of the beginning of the innovation process - The Front End of Innovation Integrative Ontology (FEI2O).","venue":"Data Knowl. Eng.","volume":"125","pages":"101760","year":"2020","type":"Journal Articles","key":"journals/dke/PereiraFL20","doi":"10.1016/J.DATAK.2019.101760","ee":"https://doi.org/10.1016/j.datak.2019.101760","url":"https://dblp.org/rec/journals/dke/PereiraFL20"},
+"url":"URL#64392"
+},
+{
+"@score":"1",
+"@id":"64393",
+"info":{"authors":{"author":[{"@pid":"175/1737","text":"Elvys Linhares Pontes"},{"@pid":"58/2322","text":"Stéphane Huet"},{"@pid":"53/3721","text":"Juan-Manuel Torres-Moreno"},{"@pid":"76/6646","text":"Andréa Carneiro Linhares"}]},"title":"Compressive approaches for cross-language multi-document summarization.","venue":"Data Knowl. Eng.","volume":"125","pages":"101763","year":"2020","type":"Journal Articles","key":"journals/dke/PontesHTL20","doi":"10.1016/J.DATAK.2019.101763","ee":"https://doi.org/10.1016/j.datak.2019.101763","url":"https://dblp.org/rec/journals/dke/PontesHTL20"},
+"url":"URL#64393"
+},
+{
+"@score":"1",
+"@id":"64394",
+"info":{"authors":{"author":[{"@pid":"155/3459","text":"Francesca Pratesi"},{"@pid":"132/4915","text":"Lorenzo Gabrielli"},{"@pid":"134/5436","text":"Paolo Cintia"},{"@pid":"40/1533","text":"Anna Monreale"},{"@pid":"g/FoscaGiannotti","text":"Fosca Giannotti"}]},"title":"PRIMULE - Privacy risk mitigation for user profiles.","venue":"Data Knowl. Eng.","volume":"125","pages":"101786","year":"2020","type":"Journal Articles","key":"journals/dke/PratesiGCMG20","doi":"10.1016/J.DATAK.2019.101786","ee":"https://doi.org/10.1016/j.datak.2019.101786","url":"https://dblp.org/rec/journals/dke/PratesiGCMG20"},
+"url":"URL#64394"
+},
+{
+"@score":"1",
+"@id":"64398",
+"info":{"authors":{"author":[{"@pid":"93/9436","text":"Justin JongSu Song"},{"@pid":"11/4874","text":"Wookey Lee"},{"@pid":"177/0985","text":"Jafar Afshar"}]},"title":"Corrigendum to &quot;An effective High Recall Retrieval method&quot; [Data Knowl. Eng. 123 (2019) 13].","venue":"Data Knowl. Eng.","volume":"125","pages":"101778","year":"2020","type":"Journal Articles","key":"journals/dke/SongLA20","doi":"10.1016/J.DATAK.2019.101778","ee":"https://doi.org/10.1016/j.datak.2019.101778","url":"https://dblp.org/rec/journals/dke/SongLA20"},
+"url":"URL#64398"
+},
+{
+"@score":"1",
+"@id":"64400",
+"info":{"authors":{"author":[{"@pid":"w/KyuYoungWhang","text":"Kyu-Young Whang"},{"@pid":"260/5718","text":"Inju Na"},{"@pid":"117/9401","text":"Tae-Seob Yun"},{"@pid":"126/5248","text":"Jin-Ah Park"},{"@pid":"260/5711","text":"Kyu-Hyun Cho"},{"@pid":"93/1554","text":"Se-Jin Kim"},{"@pid":"188/3859","text":"Ilyeop Yi"},{"@pid":"l/ByungSukLee","text":"Byung Suk Lee"}]},"title":"Building social networking services systems using the relational shared-nothing parallel DBMS.","venue":"Data Knowl. Eng.","volume":"125","pages":"101756","year":"2020","type":"Journal Articles","key":"journals/dke/WhangNYPCKYL20","doi":"10.1016/J.DATAK.2019.101756","ee":"https://doi.org/10.1016/j.datak.2019.101756","url":"https://dblp.org/rec/journals/dke/WhangNYPCKYL20"},
+"url":"URL#64400"
+}
+]
+}
 }
 }

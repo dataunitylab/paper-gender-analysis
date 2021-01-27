@@ -1,23 +1,116 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke37\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke37\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.53"
+"text":"136.19"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"14",
+"@dc":"14",
+"@oc":"14",
+"@id":"17615718",
+"text":":facetid:toc:db/journals/dke/dke37.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"14",
+"@computed":"14",
+"@sent":"14",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"4636538",
+"info":{"authors":{"author":[{"@pid":"78/5866","text":"Sean Bechhofer"},{"@pid":"g/CaroleAGoble","text":"Carole A. Goble"}]},"title":"Thesaurus construction through knowledge representation.","venue":"Data Knowl. Eng.","volume":"37","number":"1","pages":"25-45","year":"2001","type":"Journal Articles","key":"journals/dke/BechhoferG01","doi":"10.1016/S0169-023X(00)00052-5","ee":"https://doi.org/10.1016/S0169-023X(00)00052-5","url":"https://dblp.org/rec/journals/dke/BechhoferG01"},
+"url":"URL#4636538"
+},
+{
+"@score":"1",
+"@id":"4636540",
+"info":{"authors":{"author":[{"@pid":"b/FernandoBerzal","text":"Fernando Berzal Galiano"},{"@pid":"c/JuanCCubero","text":"Juan C. Cubero"},{"@pid":"59/5368","text":"Nicolás Marín"},{"@pid":"s/JoseMariaSerrano","text":"José-María Serrano"}]},"title":"TBAR - An efficient method for association rule mining in relational databases.","venue":"Data Knowl. Eng.","volume":"37","number":"1","pages":"47-64","year":"2001","type":"Journal Articles","key":"journals/dke/BerzalCMS01","doi":"10.1016/S0169-023X(00)00055-0","ee":"https://doi.org/10.1016/S0169-023X(00)00055-0","url":"https://dblp.org/rec/journals/dke/BerzalCMS01"},
+"url":"URL#4636540"
+},
+{
+"@score":"1",
+"@id":"4636549",
+"info":{"authors":{"author":[{"@pid":"89/4827","text":"Eliseo Clementini"},{"@pid":"62/2291","text":"Paolino Di Felice"}]},"title":"A spatial model for complex objects with a broad boundary supporting queries on uncertain data.","venue":"Data Knowl. Eng.","volume":"37","number":"3","pages":"285-305","year":"2001","type":"Journal Articles","key":"journals/dke/ClementiniF01","doi":"10.1016/S0169-023X(01)00010-6","ee":"https://doi.org/10.1016/S0169-023X(01)00010-6","url":"https://dblp.org/rec/journals/dke/ClementiniF01"},
+"url":"URL#4636549"
+},
+{
+"@score":"1",
+"@id":"4636550",
+"info":{"authors":{"author":[{"@pid":"c/FredericCuppens","text":"Frédéric Cuppens"},{"@pid":"g/AlbanGabillon","text":"Alban Gabillon"}]},"title":"Cover story management.","venue":"Data Knowl. Eng.","volume":"37","number":"2","pages":"177-201","year":"2001","type":"Journal Articles","key":"journals/dke/CuppensG01","doi":"10.1016/S0169-023X(01)00006-4","ee":"https://doi.org/10.1016/S0169-023X(01)00006-4","url":"https://dblp.org/rec/journals/dke/CuppensG01"},
+"url":"URL#4636550"
+},
+{
+"@score":"1",
+"@id":"4636555",
+"info":{"authors":{"author":[{"@pid":"58/4464","text":"Ling Feng"},{"@pid":"25/4706","text":"Tharam S. Dillon"},{"@pid":"l/JNKLiu","text":"James N. K. Liu"}]},"title":"Inter-transactional association rules for multi-dimensional contexts for prediction and their application to studying meteorological data.","venue":"Data Knowl. Eng.","volume":"37","number":"1","pages":"85-115","year":"2001","type":"Journal Articles","key":"journals/dke/FengDL01","doi":"10.1016/S0169-023X(01)00003-9","ee":"https://doi.org/10.1016/S0169-023X(01)00003-9","url":"https://dblp.org/rec/journals/dke/FengDL01"},
+"url":"URL#4636555"
+},
+{
+"@score":"1",
+"@id":"4636558",
+"info":{"authors":{"author":{"@pid":"89/5117","text":"Narasimhaiah Gorla"}},"title":"An object-oriented database design for improved performance.","venue":"Data Knowl. Eng.","volume":"37","number":"2","pages":"117-138","year":"2001","type":"Journal Articles","key":"journals/dke/Gorla01","doi":"10.1016/S0169-023X(01)00004-0","ee":"https://doi.org/10.1016/S0169-023X(01)00004-0","url":"https://dblp.org/rec/journals/dke/Gorla01"},
+"url":"URL#4636558"
+},
+{
+"@score":"1",
+"@id":"4636566",
+"info":{"authors":{"author":[{"@pid":"31/1277","text":"Weifa Liang"},{"@pid":"39/721-10","text":"Hui Wang 0010"},{"@pid":"o/MariaEOrlowska","text":"Maria E. Orlowska"}]},"title":"Materialized view selection under the maintenance time constraint.","venue":"Data Knowl. Eng.","volume":"37","number":"2","pages":"203-216","year":"2001","type":"Journal Articles","key":"journals/dke/LiangWO01","doi":"10.1016/S0169-023X(01)00007-6","ee":"https://doi.org/10.1016/S0169-023X(01)00007-6","url":"https://dblp.org/rec/journals/dke/LiangWO01"},
+"url":"URL#4636566"
+},
+{
+"@score":"1",
+"@id":"4636567",
+"info":{"authors":{"author":[{"@pid":"92/972","text":"Andrew Lim 0001"},{"@pid":"08/6146","text":"Jennifer Lai-Pheng Kwan"},{"@pid":"85/699","text":"Wee-Chong Oon"}]},"title":"Page access scheduling in join processing.","venue":"Data Knowl. Eng.","volume":"37","number":"3","pages":"267-284","year":"2001","type":"Journal Articles","key":"journals/dke/LimKO01","doi":"10.1016/S0169-023X(01)00009-X","ee":"https://doi.org/10.1016/S0169-023X(01)00009-X","url":"https://dblp.org/rec/journals/dke/LimKO01"},
+"url":"URL#4636567"
+},
+{
+"@score":"1",
+"@id":"4636569",
+"info":{"authors":{"author":[{"@pid":"m/SanjayKumarMadria","text":"Sanjay Kumar Madria"},{"@pid":"54/4484","text":"S. N. Maheshwari"},{"@pid":"94/5910","text":"B. Chandra 0001"}]},"title":"Formalization and correctness of a concurrent linear hash structure algorithm using nested transactions and I/O automata.","venue":"Data Knowl. Eng.","volume":"37","number":"2","pages":"139-176","year":"2001","type":"Journal Articles","key":"journals/dke/MadriaMC01","doi":"10.1016/S0169-023X(01)00005-2","ee":"https://doi.org/10.1016/S0169-023X(01)00005-2","url":"https://dblp.org/rec/journals/dke/MadriaMC01"},
+"url":"URL#4636569"
+},
+{
+"@score":"1",
+"@id":"4636571",
+"info":{"authors":{"author":[{"@pid":"m/YManolopoulos","text":"Yannis Manolopoulos"},{"@pid":"n/EnricoNardelli","text":"Enrico Nardelli"},{"@pid":"p/GProietti","text":"Guido Proietti"},{"@pid":"98/2429","text":"Eleni Tousidou"}]},"title":"A generalized comparison of linear representations of thematic layers.","venue":"Data Knowl. Eng.","volume":"37","number":"1","pages":"1-23","year":"2001","type":"Journal Articles","key":"journals/dke/ManolopoulosNPT01","doi":"10.1016/S0169-023X(00)00045-8","ee":"https://doi.org/10.1016/S0169-023X(00)00045-8","url":"https://dblp.org/rec/journals/dke/ManolopoulosNPT01"},
+"url":"URL#4636571"
+},
+{
+"@score":"1",
+"@id":"4636574",
+"info":{"authors":{"author":[{"@pid":"n/AlexandrosNanopoulos","text":"Alexandros Nanopoulos"},{"@pid":"m/YManolopoulos","text":"Yannis Manolopoulos"}]},"title":"Mining patterns from graph traversals.","venue":"Data Knowl. Eng.","volume":"37","number":"3","pages":"243-266","year":"2001","type":"Journal Articles","key":"journals/dke/NanopoulosM01","doi":"10.1016/S0169-023X(01)00008-8","ee":"https://doi.org/10.1016/S0169-023X(01)00008-8","url":"https://dblp.org/rec/journals/dke/NanopoulosM01"},
+"url":"URL#4636574"
+},
+{
+"@score":"1",
+"@id":"4636579",
+"info":{"authors":{"author":[{"@pid":"82/464","text":"Dong-Joo Park"},{"@pid":"k/HyoungJooKim","text":"Hyoung-Joo Kim"}]},"title":"Prefetch policies for large objects in a Web-enabled GIS application.","venue":"Data Knowl. Eng.","volume":"37","number":"1","pages":"65-84","year":"2001","type":"Journal Articles","key":"journals/dke/ParkK01","doi":"10.1016/S0169-023X(01)00002-7","ee":"https://doi.org/10.1016/S0169-023X(01)00002-7","url":"https://dblp.org/rec/journals/dke/ParkK01"},
+"url":"URL#4636579"
+},
+{
+"@score":"1",
+"@id":"4636583",
+"info":{"authors":{"author":{"@pid":"56/6476","text":"Eugene Santos Jr."}},"title":"Verification and validation of Bayesian knowledge-bases.","venue":"Data Knowl. Eng.","volume":"37","number":"3","pages":"307-329","year":"2001","type":"Journal Articles","key":"journals/dke/Santos01","doi":"10.1016/S0169-023X(01)00011-8","ee":"https://doi.org/10.1016/S0169-023X(01)00011-8","url":"https://dblp.org/rec/journals/dke/Santos01"},
+"url":"URL#4636583"
+},
+{
+"@score":"1",
+"@id":"4636587",
+"info":{"authors":{"author":[{"@pid":"92/1375","text":"Jin Wang"},{"@pid":"76/2151","text":"Bradford G. Nickerson"},{"@pid":"53/5952","text":"Ronald M. Lees"},{"@pid":"90/6278","text":"Li-Hong Xu"}]},"title":"Knowledge-based spectroscopic assignment.","venue":"Data Knowl. Eng.","volume":"37","number":"3","pages":"217-242","year":"2001","type":"Journal Articles","key":"journals/dke/WangNLX01","doi":"10.1016/S0169-023X(00)00056-2","ee":"https://doi.org/10.1016/S0169-023X(00)00056-2","url":"https://dblp.org/rec/journals/dke/WangNLX01"},
+"url":"URL#4636587"
+}
+]
+}
 }
 }

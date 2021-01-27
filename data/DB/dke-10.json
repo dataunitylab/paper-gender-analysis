@@ -1,23 +1,104 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke10\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke10\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.48"
+"text":"134.87"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"12",
+"@dc":"12",
+"@oc":"12",
+"@id":"17615658",
+"text":":facetid:toc:db/journals/dke/dke10.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"12",
+"@computed":"12",
+"@sent":"12",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"5116210",
+"info":{"authors":{"author":[{"@pid":"b/ElisaBertino","text":"Elisa Bertino"},{"@pid":"69/6323","text":"C. Guglielmina"}]},"title":"Path-Index - An Approach to the Efficient Execution of Object-Oriented Queries.","venue":"Data Knowl. Eng.","volume":"10","pages":"1-27","year":"1993","type":"Journal Articles","key":"journals/dke/BertinoG93","doi":"10.1016/0169-023X(93)90017-J","ee":"https://doi.org/10.1016/0169-023X(93)90017-J","url":"https://dblp.org/rec/journals/dke/BertinoG93"},
+"url":"URL#5116210"
+},
+{
+"@score":"1",
+"@id":"5116215",
+"info":{"authors":{"author":[{"@pid":"g/PaulWPJGrefen","text":"Paul W. P. J. Grefen"},{"@pid":"a/PeterMGApers","text":"Peter M. G. Apers"}]},"title":"Integrity Control in Relational Database Systems - An Overview.","venue":"Data Knowl. Eng.","volume":"10","pages":"187-223","year":"1993","type":"Journal Articles","key":"journals/dke/GrefenA93","doi":"10.1016/0169-023X(93)90008-D","ee":"https://doi.org/10.1016/0169-023X(93)90008-D","url":"https://dblp.org/rec/journals/dke/GrefenA93"},
+"url":"URL#5116215"
+},
+{
+"@score":"1",
+"@id":"5116216",
+"info":{"authors":{"author":[{"@pid":"28/5669","text":"Giovanni V. Guardalben"},{"@pid":"58/3401","text":"Dario Lucarella"}]},"title":"Information Retrieval Based on Fuzzy Reasoning.","venue":"Data Knowl. Eng.","volume":"10","pages":"29-44","year":"1993","type":"Journal Articles","key":"journals/dke/GuardalbenL93","doi":"10.1016/0169-023X(93)90018-K","ee":"https://doi.org/10.1016/0169-023X(93)90018-K","url":"https://dblp.org/rec/journals/dke/GuardalbenL93"},
+"url":"URL#5116216"
+},
+{
+"@score":"1",
+"@id":"5116218",
+"info":{"authors":{"author":[{"@pid":"h/AHMterHofstede","text":"Arthur H. M. ter Hofstede"},{"@pid":"w/TPvanderWeide","text":"Theo P. van der Weide"}]},"title":"Expressiveness in Conceptual Data Modelling.","venue":"Data Knowl. Eng.","volume":"10","pages":"65-100","year":"1993","type":"Journal Articles","key":"journals/dke/HofstedeW93","doi":"10.1016/0169-023X(93)90020-P","ee":"https://doi.org/10.1016/0169-023X(93)90020-P","url":"https://dblp.org/rec/journals/dke/HofstedeW93"},
+"url":"URL#5116218"
+},
+{
+"@score":"1",
+"@id":"5116219",
+"info":{"authors":{"author":[{"@pid":"j/KalervoJarvelin","text":"Kalervo Järvelin"},{"@pid":"82/1446","text":"Timo Niemi"}]},"title":"An Entity-Based Approach to Query Processing in Relational Databases. Part I - Entity Type Representation.","venue":"Data Knowl. Eng.","volume":"10","pages":"117-150","year":"1993","type":"Journal Articles","key":"journals/dke/JarvelinN93","doi":"10.1016/0169-023X(93)90006-B","ee":"https://doi.org/10.1016/0169-023X(93)90006-B","url":"https://dblp.org/rec/journals/dke/JarvelinN93"},
+"url":"URL#5116219"
+},
+{
+"@score":"1",
+"@id":"5116220",
+"info":{"authors":{"author":[{"@pid":"j/KalervoJarvelin","text":"Kalervo Järvelin"},{"@pid":"82/1446","text":"Timo Niemi"}]},"title":"An Entity-Based Approach to Query Processing in Relational Databases. Part II - Entity Query Construction and Updating.","venue":"Data Knowl. Eng.","volume":"10","pages":"151-186","year":"1993","type":"Journal Articles","key":"journals/dke/JarvelinN93a","doi":"10.1016/0169-023X(93)90007-C","ee":"https://doi.org/10.1016/0169-023X(93)90007-C","url":"https://dblp.org/rec/journals/dke/JarvelinN93a"},
+"url":"URL#5116220"
+},
+{
+"@score":"1",
+"@id":"5116225",
+"info":{"authors":{"author":[{"@pid":"l/PCLockemann","text":"Peter C. Lockemann"},{"@pid":"m/GuidoMoerkotte","text":"Guido Moerkotte"},{"@pid":"34/6120","text":"Andrea Neufeld"},{"@pid":"87/1866-2","text":"Klaus Radermacher 0002"},{"@pid":"40/2508","text":"Norbert Runge"}]},"title":"Database Design with User-Definable Modelling Concepts.","venue":"Data Knowl. Eng.","volume":"10","pages":"229-257","year":"1993","type":"Journal Articles","key":"journals/dke/LockemannMNRR93","doi":"10.1016/0169-023X(93)90031-J","ee":"https://doi.org/10.1016/0169-023X(93)90031-J","url":"https://dblp.org/rec/journals/dke/LockemannMNRR93"},
+"url":"URL#5116225"
+},
+{
+"@score":"1",
+"@id":"5116227",
+"info":{"authors":{"author":[{"@pid":"p/NWPaton","text":"Norman W. Paton"},{"@pid":"16/55","text":"Oscar Díaz"},{"@pid":"80/1011","text":"Maria L. Barja"}]},"title":"Combining Active Rules and Metaclasses for Enhanced Extensibility in Object-Oriented Systems.","venue":"Data Knowl. Eng.","volume":"10","pages":"45-63","year":"1993","type":"Journal Articles","key":"journals/dke/PatonDB93","doi":"10.1016/0169-023X(93)90019-L","ee":"https://doi.org/10.1016/0169-023X(93)90019-L","url":"https://dblp.org/rec/journals/dke/PatonDB93"},
+"url":"URL#5116227"
+},
+{
+"@score":"1",
+"@id":"5116228",
+"info":{"authors":{"author":{"@pid":"r/NaphtaliRishe","text":"Naphtali Rishe"}},"title":"A Methodology and Tool for Top-Down Relational Database Design.","venue":"Data Knowl. Eng.","volume":"10","pages":"259-291","year":"1993","type":"Journal Articles","key":"journals/dke/Rishe93","doi":"10.1016/0169-023X(93)90032-K","ee":"https://doi.org/10.1016/0169-023X(93)90032-K","url":"https://dblp.org/rec/journals/dke/Rishe93"},
+"url":"URL#5116228"
+},
+{
+"@score":"1",
+"@id":"5116229",
+"info":{"authors":{"author":[{"@pid":"s/PeretzShoval","text":"Peretz Shoval"},{"@pid":"87/766","text":"Nili Shreiber"}]},"title":"Database Reverse Engineering - From the Relational to the Binary Relationship model.","venue":"Data Knowl. Eng.","volume":"10","pages":"293-315","year":"1993","type":"Journal Articles","key":"journals/dke/ShovalS93","doi":"10.1016/0169-023X(93)90033-L","ee":"https://doi.org/10.1016/0169-023X(93)90033-L","url":"https://dblp.org/rec/journals/dke/ShovalS93"},
+"url":"URL#5116229"
+},
+{
+"@score":"1",
+"@id":"5116233",
+"info":{"authors":{"author":[{"@pid":"89/2974","text":"Kevin Tomsovic"},{"@pid":"66/6427","text":"Chen-Ching Liu"}]},"title":"Bounding the Computation Time of Forward-Chaining Rule-Based Systems.","venue":"Data Knowl. Eng.","volume":"10","pages":"317-334","year":"1993","type":"Journal Articles","key":"journals/dke/TomsovicL93","doi":"10.1016/0169-023X(93)90034-M","ee":"https://doi.org/10.1016/0169-023X(93)90034-M","url":"https://dblp.org/rec/journals/dke/TomsovicL93"},
+"url":"URL#5116233"
+},
+{
+"@score":"1",
+"@id":"5116235",
+"info":{"authors":{"author":[{"@pid":"79/156","text":"Volker Turau"},{"@pid":"72/2429","text":"Horst Duchêne"}]},"title":"Equality Testing for Complex Objects Based on Hashing.","venue":"Data Knowl. Eng.","volume":"10","pages":"101-111","year":"1993","type":"Journal Articles","key":"journals/dke/TurauD93","doi":"10.1016/0169-023X(93)90021-G","ee":"https://doi.org/10.1016/0169-023X(93)90021-G","url":"https://dblp.org/rec/journals/dke/TurauD93"},
+"url":"URL#5116235"
+}
+]
+}
 }
 }

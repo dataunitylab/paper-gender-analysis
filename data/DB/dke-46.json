@@ -1,23 +1,110 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke46\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke46\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.25"
+"text":"99.61"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"13",
+"@dc":"13",
+"@oc":"13",
+"@id":"17615728",
+"text":":facetid:toc:db/journals/dke/dke46.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"13",
+"@computed":"13",
+"@sent":"13",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"4437477",
+"info":{"authors":{"author":[{"@pid":"b/SSBhowmick","text":"Sourav S. Bhowmick"},{"@pid":"17/6239","text":"Ang Kho Kiong"},{"@pid":"m/SanjayKumarMadria","text":"Sanjay Kumar Madria"}]},"title":"Formulating disjunctive coupling queries in a web warehouse.","venue":"Data Knowl. Eng.","volume":"46","number":"1","pages":"1-40","year":"2003","type":"Journal Articles","key":"journals/dke/BhowmickKM03","doi":"10.1016/S0169-023X(02)00193-3","ee":"https://doi.org/10.1016/S0169-023X(02)00193-3","url":"https://dblp.org/rec/journals/dke/BhowmickKM03"},
+"url":"URL#4437477"
+},
+{
+"@score":"1",
+"@id":"4437483",
+"info":{"authors":{"author":[{"@pid":"38/4232","text":"Tae-Sun Chung"},{"@pid":"k/HyoungJooKim","text":"Hyoung-Joo Kim"}]},"title":"Techniques for the evaluation of XML queries - a survey.","venue":"Data Knowl. Eng.","volume":"46","number":"2","pages":"225-246","year":"2003","type":"Journal Articles","key":"journals/dke/ChungK03","doi":"10.1016/S0169-023X(02)00211-2","ee":"https://doi.org/10.1016/S0169-023X(02)00211-2","url":"https://dblp.org/rec/journals/dke/ChungK03"},
+"url":"URL#4437483"
+},
+{
+"@score":"1",
+"@id":"4437485",
+"info":{"authors":{"author":[{"@pid":"50/3138","text":"Óscar Corcho"},{"@pid":"25/6831","text":"Mariano Fernández-López"},{"@pid":"83/5312","text":"Asunción Gómez-Pérez"}]},"title":"Methodologies, tools and languages for building ontologies - Where is their meeting point?","venue":"Data Knowl. Eng.","volume":"46","number":"1","pages":"41-64","year":"2003","type":"Journal Articles","key":"journals/dke/CorchoFG03","doi":"10.1016/S0169-023X(02)00195-7","ee":"https://doi.org/10.1016/S0169-023X(02)00195-7","url":"https://dblp.org/rec/journals/dke/CorchoFG03"},
+"url":"URL#4437485"
+},
+{
+"@score":"1",
+"@id":"4437488",
+"info":{"authors":{"author":[{"@pid":"92/5626","text":"Devanshu Dhyani"},{"@pid":"b/SSBhowmick","text":"Sourav S. Bhowmick"},{"@pid":"n/WeeKeongNg","text":"Wee Keong Ng"}]},"title":"Deriving and verifying statistical distribution of a hyperlink-based Web page quality metric.","venue":"Data Knowl. Eng.","volume":"46","number":"3","pages":"291-315","year":"2003","type":"Journal Articles","key":"journals/dke/DhyaniBN03","doi":"10.1016/S0169-023X(03)00034-X","ee":"https://doi.org/10.1016/S0169-023X(03)00034-X","url":"https://dblp.org/rec/journals/dke/DhyaniBN03"},
+"url":"URL#4437488"
+},
+{
+"@score":"1",
+"@id":"4437492",
+"info":{"authors":{"author":[{"@pid":"67/4887","text":"Pin-Kwang Eng"},{"@pid":"o/BengChinOoi","text":"Beng Chin Ooi"},{"@pid":"t/KianLeeTan","text":"Kian-Lee Tan"}]},"title":"Indexing for progressive skyline computation.","venue":"Data Knowl. Eng.","volume":"46","number":"2","pages":"169-201","year":"2003","type":"Journal Articles","key":"journals/dke/EngOT03","doi":"10.1016/S0169-023X(02)00208-2","ee":"https://doi.org/10.1016/S0169-023X(02)00208-2","url":"https://dblp.org/rec/journals/dke/EngOT03"},
+"url":"URL#4437492"
+},
+{
+"@score":"1",
+"@id":"4437494",
+"info":{"authors":{"author":[{"@pid":"99/5874","text":"Sergio Flesca"},{"@pid":"28/168","text":"Elio Masciari"}]},"title":"Efficient and effective Web change detection.","venue":"Data Knowl. Eng.","volume":"46","number":"2","pages":"203-224","year":"2003","type":"Journal Articles","key":"journals/dke/FlescaM03","doi":"10.1016/S0169-023X(02)00210-0","ee":"https://doi.org/10.1016/S0169-023X(02)00210-0","url":"https://dblp.org/rec/journals/dke/FlescaM03"},
+"url":"URL#4437494"
+},
+{
+"@score":"1",
+"@id":"4437498",
+"info":{"authors":{"author":[{"@pid":"268/3862-1","text":"Fabio Grandi 0001"},{"@pid":"19/4797","text":"Federica Mandreoli"}]},"title":"A formal model for temporal schema versioning in object-oriented databases.","venue":"Data Knowl. Eng.","volume":"46","number":"2","pages":"123-167","year":"2003","type":"Journal Articles","key":"journals/dke/GrandiM03","doi":"10.1016/S0169-023X(02)00207-0","ee":"https://doi.org/10.1016/S0169-023X(02)00207-0","url":"https://dblp.org/rec/journals/dke/GrandiM03"},
+"url":"URL#4437498"
+},
+{
+"@score":"1",
+"@id":"4437500",
+"info":{"authors":{"author":[{"@pid":"46/1274","text":"Rattikorn Hewett"},{"@pid":"78/3695","text":"John H. Leuchner"}]},"title":"Restructuring decision tables for elucidation of knowledge.","venue":"Data Knowl. Eng.","volume":"46","number":"3","pages":"271-290","year":"2003","type":"Journal Articles","key":"journals/dke/HewettL03","doi":"10.1016/S0169-023X(03)00020-X","ee":"https://doi.org/10.1016/S0169-023X(03)00020-X","url":"https://dblp.org/rec/journals/dke/HewettL03"},
+"url":"URL#4437500"
+},
+{
+"@score":"1",
+"@id":"4437502",
+"info":{"authors":{"author":[{"@pid":"87/35","text":"David Jouve"},{"@pid":"69/1988","text":"Youssef Amghar"},{"@pid":"65/2824","text":"Bertrand Chabbat"},{"@pid":"p/JMPinon","text":"Jean-Marie Pinon"}]},"title":"Conceptual framework for document semantic modelling - an application to document and knowledge management in the legal domain.","venue":"Data Knowl. Eng.","volume":"46","number":"3","pages":"345-375","year":"2003","type":"Journal Articles","key":"journals/dke/JouveACP03","doi":"10.1016/S0169-023X(03)00046-6","ee":"https://doi.org/10.1016/S0169-023X(03)00046-6","url":"https://dblp.org/rec/journals/dke/JouveACP03"},
+"url":"URL#4437502"
+},
+{
+"@score":"1",
+"@id":"4437506",
+"info":{"authors":{"author":{"@pid":"73/1610","text":"Wilfried Lemahieu"}},"title":"Encapsulation and information hiding as the keys to enhanced hypermedia development and maintenance.","venue":"Data Knowl. Eng.","volume":"46","number":"1","pages":"65-96","year":"2003","type":"Journal Articles","key":"journals/dke/Lemahieu03","doi":"10.1016/S0169-023X(02)00196-9","ee":"https://doi.org/10.1016/S0169-023X(02)00196-9","url":"https://dblp.org/rec/journals/dke/Lemahieu03"},
+"url":"URL#4437506"
+},
+{
+"@score":"1",
+"@id":"4437511",
+"info":{"authors":{"author":[{"@pid":"m/FlorentMasseglia","text":"Florent Masseglia"},{"@pid":"68/525","text":"Pascal Poncelet"},{"@pid":"t/MTeisseire","text":"Maguelonne Teisseire"}]},"title":"Incremental mining of sequential patterns in large databases.","venue":"Data Knowl. Eng.","volume":"46","number":"1","pages":"97-121","year":"2003","type":"Journal Articles","key":"journals/dke/MassegliaPT03","doi":"10.1016/S0169-023X(02)00209-4","ee":"https://doi.org/10.1016/S0169-023X(02)00209-4","url":"https://dblp.org/rec/journals/dke/MassegliaPT03"},
+"url":"URL#4437511"
+},
+{
+"@score":"1",
+"@id":"4437513",
+"info":{"authors":{"author":[{"@pid":"48/1823","text":"Tapio Niemi"},{"@pid":"58/1177","text":"Jyrki Nummenmaa"},{"@pid":"t/PeterThanisch","text":"Peter Thanisch"}]},"title":"Normalising OLAP cubes for controlling sparsity.","venue":"Data Knowl. Eng.","volume":"46","number":"3","pages":"317-343","year":"2003","type":"Journal Articles","key":"journals/dke/NiemiNT03","doi":"10.1016/S0169-023X(03)00035-1","ee":"https://doi.org/10.1016/S0169-023X(03)00035-1","url":"https://dblp.org/rec/journals/dke/NiemiNT03"},
+"url":"URL#4437513"
+},
+{
+"@score":"1",
+"@id":"4437527",
+"info":{"authors":{"author":[{"@pid":"46/2750","text":"Moshe Zviran"},{"@pid":"97/2900","text":"Niv Ahituv"},{"@pid":"49/2960","text":"Chanan Glezer"}]},"title":"A conceptual model for increasing utilization of dependable computer networks.","venue":"Data Knowl. Eng.","volume":"46","number":"3","pages":"247-269","year":"2003","type":"Journal Articles","key":"journals/dke/ZviranAG03","doi":"10.1016/S0169-023X(03)00019-3","ee":"https://doi.org/10.1016/S0169-023X(03)00019-3","url":"https://dblp.org/rec/journals/dke/ZviranAG03"},
+"url":"URL#4437527"
+}
+]
+}
 }
 }

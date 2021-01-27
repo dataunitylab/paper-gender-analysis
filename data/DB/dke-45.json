@@ -1,23 +1,110 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke45\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke45\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.33"
+"text":"96.35"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"13",
+"@dc":"13",
+"@oc":"13",
+"@id":"17615727",
+"text":":facetid:toc:db/journals/dke/dke45.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"13",
+"@computed":"13",
+"@sent":"13",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"4437474",
+"info":{"authors":{"author":[{"@pid":"45/1950-1","text":"Yun Bai 0001"},{"@pid":"v/VijayVaradharajan","text":"Vijay Varadharajan"}]},"title":"On transformation of authorization policies.","venue":"Data Knowl. Eng.","volume":"45","number":"3","pages":"333-357","year":"2003","type":"Journal Articles","key":"journals/dke/BaiV03","doi":"10.1016/S0169-023X(02)00194-5","ee":"https://doi.org/10.1016/S0169-023X(02)00194-5","url":"https://dblp.org/rec/journals/dke/BaiV03"},
+"url":"URL#4437474"
+},
+{
+"@score":"1",
+"@id":"4437478",
+"info":{"authors":{"author":[{"@pid":"b/SSBhowmick","text":"Sourav S. Bhowmick"},{"@pid":"n/WeeKeongNg","text":"Wee Keong Ng"},{"@pid":"m/SanjayKumarMadria","text":"Sanjay Kumar Madria"}]},"title":"Constraint-driven join processing in a Web Warehouse.","venue":"Data Knowl. Eng.","volume":"45","number":"1","pages":"33-78","year":"2003","type":"Journal Articles","key":"journals/dke/BhowmickNM03","url":"https://dblp.org/rec/journals/dke/BhowmickNM03"},
+"url":"URL#4437478"
+},
+{
+"@score":"1",
+"@id":"4437482",
+"info":{"authors":{"author":[{"@pid":"84/6869","text":"Yeow Wei Choong"},{"@pid":"l/DominiqueLaurent","text":"Dominique Laurent"},{"@pid":"32/1783","text":"Patrick Marcel"}]},"title":"Computing appropriate representations for multidimensional data.","venue":"Data Knowl. Eng.","volume":"45","number":"2","pages":"181-203","year":"2003","type":"Journal Articles","key":"journals/dke/ChoongLM03","url":"https://dblp.org/rec/journals/dke/ChoongLM03"},
+"url":"URL#4437482"
+},
+{
+"@score":"1",
+"@id":"4437484",
+"info":{"authors":{"author":[{"@pid":"c/PaoloCiaccia","text":"Paolo Ciaccia"},{"@pid":"g/MatteoGolfarelli","text":"Matteo Golfarelli"},{"@pid":"75/5487","text":"Stefano Rizzi"}]},"title":"Bounding the cardinality of aggregate views through domain-derived constraints.","venue":"Data Knowl. Eng.","volume":"45","number":"2","pages":"131-153","year":"2003","type":"Journal Articles","key":"journals/dke/CiacciaGR03","url":"https://dblp.org/rec/journals/dke/CiacciaGR03"},
+"url":"URL#4437484"
+},
+{
+"@score":"1",
+"@id":"4437493",
+"info":{"authors":{"author":[{"@pid":"56/1932","text":"Mauricio Minuto Espil"},{"@pid":"58/6139","text":"Alejandro A. Vaisman"}]},"title":"Revising aggregation hierarchies in OLAP - a rule-based approach.","venue":"Data Knowl. Eng.","volume":"45","number":"2","pages":"225-256","year":"2003","type":"Journal Articles","key":"journals/dke/EspilV03","url":"https://dblp.org/rec/journals/dke/EspilV03"},
+"url":"URL#4437493"
+},
+{
+"@score":"1",
+"@id":"4437497",
+"info":{"authors":{"author":[{"@pid":"g/JamesGeller","text":"James Geller"},{"@pid":"98/3698","text":"Huanying Gu"},{"@pid":"p/YehoshuaPerl","text":"Yehoshua Perl"},{"@pid":"79/2305","text":"Michael Halper"}]},"title":"Semantic refinement and error correction in large terminological knowledge bases.","venue":"Data Knowl. Eng.","volume":"45","number":"1","pages":"1-32","year":"2003","type":"Journal Articles","key":"journals/dke/GellerGPH03","url":"https://dblp.org/rec/journals/dke/GellerGPH03"},
+"url":"URL#4437497"
+},
+{
+"@score":"1",
+"@id":"4437499",
+"info":{"authors":{"author":{"@pid":"h/JoachimHammer","text":"Joachim Hammer"}},"title":"Introductory notes to the special issue on Advances in online analytical processing.","venue":"Data Knowl. Eng.","volume":"45","number":"2","pages":"127-129","year":"2003","type":"Journal Articles","key":"journals/dke/Hammer03","url":"https://dblp.org/rec/journals/dke/Hammer03"},
+"url":"URL#4437499"
+},
+{
+"@score":"1",
+"@id":"4437503",
+"info":{"authors":{"author":[{"@pid":"74/1533","text":"Nikos Karayannidis"},{"@pid":"s/TimosKSellis","text":"Timos K. Sellis"}]},"title":"SISYPHUS - The implementation of a chunk-based storage manager for OLAP data cubes.","venue":"Data Knowl. Eng.","volume":"45","number":"2","pages":"155-180","year":"2003","type":"Journal Articles","key":"journals/dke/KarayannidisS03","url":"https://dblp.org/rec/journals/dke/KarayannidisS03"},
+"url":"URL#4437503"
+},
+{
+"@score":"1",
+"@id":"4437504",
+"info":{"authors":{"author":[{"@pid":"95/4288","text":"SungSuk Kim"},{"@pid":"73/3458-1","text":"SangKeun Lee 0001"},{"@pid":"96/4145","text":"Chong-Sun Hwang"}]},"title":"Using reordering technique for mobile transaction management in broadcast environments.","venue":"Data Knowl. Eng.","volume":"45","number":"1","pages":"79-100","year":"2003","type":"Journal Articles","key":"journals/dke/KimLH03","url":"https://dblp.org/rec/journals/dke/KimLH03"},
+"url":"URL#4437504"
+},
+{
+"@score":"1",
+"@id":"4437515",
+"info":{"authors":{"author":[{"@pid":"80/840","text":"Chanjung Park"},{"@pid":"95/2895","text":"Seog Park"}]},"title":"The Freeze algorithms for concurrency control in secure real-time database systems.","venue":"Data Knowl. Eng.","volume":"45","number":"1","pages":"101-125","year":"2003","type":"Journal Articles","key":"journals/dke/ParkP03","url":"https://dblp.org/rec/journals/dke/ParkP03"},
+"url":"URL#4437515"
+},
+{
+"@score":"1",
+"@id":"4437517",
+"info":{"authors":{"author":{"@pid":"14/4103","text":"Ruud W. van der Pol"}},"title":"Dipe-R - a knowledge representation language.","venue":"Data Knowl. Eng.","volume":"45","number":"3","pages":"257-290","year":"2003","type":"Journal Articles","key":"journals/dke/Pol03","doi":"10.1016/S0169-023X(02)00190-8","ee":"https://doi.org/10.1016/S0169-023X(02)00190-8","url":"https://dblp.org/rec/journals/dke/Pol03"},
+"url":"URL#4437517"
+},
+{
+"@score":"1",
+"@id":"4437518",
+"info":{"authors":{"author":[{"@pid":"20/842","text":"Luigi Pontieri"},{"@pid":"u/DomenicoUrsino","text":"Domenico Ursino"},{"@pid":"42/4927","text":"Ester Zumpano"}]},"title":"An approach for the extensional integration of data sources with heterogeneous representation formats.","venue":"Data Knowl. Eng.","volume":"45","number":"3","pages":"291-331","year":"2003","type":"Journal Articles","key":"journals/dke/PontieriUZ03","doi":"10.1016/S0169-023X(02)00192-1","ee":"https://doi.org/10.1016/S0169-023X(02)00192-1","url":"https://dblp.org/rec/journals/dke/PontieriUZ03"},
+"url":"URL#4437518"
+},
+{
+"@score":"1",
+"@id":"4437522",
+"info":{"authors":{"author":[{"@pid":"t/DimitriTheodoratos","text":"Dimitri Theodoratos"},{"@pid":"07/5852","text":"Aris Tsois"}]},"title":"Processing OLAP queries in hierarchically clustered databases.","venue":"Data Knowl. Eng.","volume":"45","number":"2","pages":"205-224","year":"2003","type":"Journal Articles","key":"journals/dke/TheodoratosT03","url":"https://dblp.org/rec/journals/dke/TheodoratosT03"},
+"url":"URL#4437522"
+}
+]
+}
 }
 }

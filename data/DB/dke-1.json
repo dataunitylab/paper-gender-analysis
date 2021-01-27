@@ -1,23 +1,116 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke1\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke1\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.41"
+"text":"115.10"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"14",
+"@dc":"14",
+"@oc":"14",
+"@id":"17615657",
+"text":":facetid:toc:db/journals/dke/dke1.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"14",
+"@computed":"14",
+"@sent":"14",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"5318223",
+"info":{"authors":{"author":[{"@pid":"24/4874","text":"Suranjan De"},{"@pid":"90/2068","text":"Shuh-Shen Pan"},{"@pid":"06/891","text":"Andrew B. Whinston"}]},"title":"Natural Language Query Processing in a Temporal Database.","venue":"Data Knowl. Eng.","volume":"1","number":"1","pages":"3-15","year":"1985","type":"Journal Articles","key":"journals/dke/DePW85","doi":"10.1016/0169-023X(85)90024-2","ee":"https://doi.org/10.1016/0169-023X(85)90024-2","url":"https://dblp.org/rec/journals/dke/DePW85"},
+"url":"URL#5318223"
+},
+{
+"@score":"1",
+"@id":"5318224",
+"info":{"authors":{"author":{"@pid":"42/3495","text":"S. Misbah Deen"}},"title":"A Relational Language with Deductions, Functions and Recursions.","venue":"Data Knowl. Eng.","volume":"1","number":"2","pages":"139-154","year":"1985","type":"Journal Articles","key":"journals/dke/Deen85","doi":"10.1016/0169-023X(85)90032-1","ee":"https://doi.org/10.1016/0169-023X(85)90032-1","url":"https://dblp.org/rec/journals/dke/Deen85"},
+"url":"URL#5318224"
+},
+{
+"@score":"1",
+"@id":"5318225",
+"info":{"authors":{"author":[{"@pid":"e/RamezElmasri","text":"Ramez Elmasri"},{"@pid":"02/1511","text":"James A. Weeldreyer"},{"@pid":"71/1004","text":"Alan R. Hevner"}]},"title":"The Category Concept - An Extension to the Entity-Relationship Model.","venue":"Data Knowl. Eng.","volume":"1","number":"1","pages":"75-116","year":"1985","type":"Journal Articles","key":"journals/dke/ElmasriWH85","doi":"10.1016/0169-023X(85)90027-8","ee":"https://doi.org/10.1016/0169-023X(85)90027-8","url":"https://dblp.org/rec/journals/dke/ElmasriWH85"},
+"url":"URL#5318225"
+},
+{
+"@score":"1",
+"@id":"5318226",
+"info":{"authors":{"author":{"@pid":"l/TokWangLing","text":"Tok Wang Ling"}},"title":"An Analysis of Multivalued and Join Dependencies Based on the Entity-Relationship Approach.","venue":"Data Knowl. Eng.","volume":"1","number":"3","pages":"253-271","year":"1985","type":"Journal Articles","key":"journals/dke/Ling85","doi":"10.1016/0169-023X(85)90019-9","ee":"https://doi.org/10.1016/0169-023X(85)90019-9","url":"https://dblp.org/rec/journals/dke/Ling85"},
+"url":"URL#5318226"
+},
+{
+"@score":"1",
+"@id":"5318227",
+"info":{"authors":{"author":[{"@pid":"03/2919","text":"Jock D. Mackinlay"},{"@pid":"g/MRGenesereth","text":"Michael R. Genesereth"}]},"title":"Expressiveness and Language Choice.","venue":"Data Knowl. Eng.","volume":"1","number":"1","pages":"17-29","year":"1985","type":"Journal Articles","key":"journals/dke/MackinlayG85","doi":"10.1016/0169-023X(85)90025-4","ee":"https://doi.org/10.1016/0169-023X(85)90025-4","url":"https://dblp.org/rec/journals/dke/MackinlayG85"},
+"url":"URL#5318227"
+},
+{
+"@score":"1",
+"@id":"5318228",
+"info":{"authors":{"author":[{"@pid":"57/3783","text":"Michael V. Mannino"},{"@pid":"09/5651","text":"Cynthia R. Karle"}]},"title":"An Extension of the General Entity Manipulator Language for Global View Definition.","venue":"Data Knowl. Eng.","volume":"1","number":"4","pages":"305-326","year":"1985","type":"Journal Articles","key":"journals/dke/ManninoK85","doi":"10.1016/0169-023X(85)90003-5","ee":"https://doi.org/10.1016/0169-023X(85)90003-5","url":"https://dblp.org/rec/journals/dke/ManninoK85"},
+"url":"URL#5318228"
+},
+{
+"@score":"1",
+"@id":"5318229",
+"info":{"authors":{"author":[{"@pid":"56/3","text":"Lawrence J. Mazlack"},{"@pid":"78/5037","text":"Jeffrey Bernstein"},{"@pid":"41/4725","text":"David Kelley"},{"@pid":"50/5418","text":"Greg Vaughn"}]},"title":"A Multi-Threshold, Internal Rule Representation Form Used to Support User Modifiable Knowledge-Based Systems.","venue":"Data Knowl. Eng.","volume":"1","number":"4","pages":"327-336","year":"1985","type":"Journal Articles","key":"journals/dke/MazlackBKV85","doi":"10.1016/0169-023X(85)90004-7","ee":"https://doi.org/10.1016/0169-023X(85)90004-7","url":"https://dblp.org/rec/journals/dke/MazlackBKV85"},
+"url":"URL#5318229"
+},
+{
+"@score":"1",
+"@id":"5318230",
+"info":{"authors":{"author":[{"@pid":"88/101","text":"Eva-Maria M. Mueckstein"},{"@pid":"86/5026","text":"Galina Datskovsky Moerdler"}]},"title":"Semantic Interpretation of a Database Query Language.","venue":"Data Knowl. Eng.","volume":"1","number":"2","pages":"123-138","year":"1985","type":"Journal Articles","key":"journals/dke/MuecksteinM85","doi":"10.1016/0169-023X(85)90031-X","ee":"https://doi.org/10.1016/0169-023X(85)90031-X","url":"https://dblp.org/rec/journals/dke/MuecksteinM85"},
+"url":"URL#5318230"
+},
+{
+"@score":"1",
+"@id":"5318231",
+"info":{"authors":{"author":{"@pid":"n/BernhardNebel","text":"Bernhard Nebel"}},"title":"How well does a Vanilla Loop fit into a Frame?","venue":"Data Knowl. Eng.","volume":"1","number":"2","pages":"181-194","year":"1985","type":"Journal Articles","key":"journals/dke/Nebel85","doi":"10.1016/0169-023X(85)90034-5","ee":"https://doi.org/10.1016/0169-023X(85)90034-5","url":"https://dblp.org/rec/journals/dke/Nebel85"},
+"url":"URL#5318231"
+},
+{
+"@score":"1",
+"@id":"5318232",
+"info":{"authors":{"author":[{"@pid":"78/160","text":"Bruce D. Parrello"},{"@pid":"o/RossAOverbeek","text":"Ross A. Overbeek"},{"@pid":"l/EwingLLusk","text":"Ewing L. Lusk"}]},"title":"The Design of Entity-Relationship Models for General Ledger Systems.","venue":"Data Knowl. Eng.","volume":"1","number":"2","pages":"155-180","year":"1985","type":"Journal Articles","key":"journals/dke/ParrelloOL85","doi":"10.1016/0169-023X(85)90033-3","ee":"https://doi.org/10.1016/0169-023X(85)90033-3","url":"https://dblp.org/rec/journals/dke/ParrelloOL85"},
+"url":"URL#5318232"
+},
+{
+"@score":"1",
+"@id":"5318233",
+"info":{"authors":{"author":{"@pid":"r/UlrichReimer","text":"Ulrich Reimer"}},"title":"A Representation Construct for Roles.","venue":"Data Knowl. Eng.","volume":"1","number":"3","pages":"233-251","year":"1985","type":"Journal Articles","key":"journals/dke/Reimer85","doi":"10.1016/0169-023X(85)90018-7","ee":"https://doi.org/10.1016/0169-023X(85)90018-7","url":"https://dblp.org/rec/journals/dke/Reimer85"},
+"url":"URL#5318233"
+},
+{
+"@score":"1",
+"@id":"5318234",
+"info":{"authors":{"author":[{"@pid":"38/5106","text":"Douglas R. Skuce"},{"@pid":"m/StanMatwin","text":"Stan Matwin"},{"@pid":"10/4377","text":"Branka Tauzovich"},{"@pid":"o/FranzOppacher","text":"Franz Oppacher"},{"@pid":"s/StanSzpakowicz","text":"Stan Szpakowicz"}]},"title":"A Logic-Based Knowledge Source System for Natural Language Document.","venue":"Data Knowl. Eng.","volume":"1","number":"3","pages":"201-231","year":"1985","type":"Journal Articles","key":"journals/dke/SkuceMTOS85","doi":"10.1016/0169-023X(85)90017-5","ee":"https://doi.org/10.1016/0169-023X(85)90017-5","url":"https://dblp.org/rec/journals/dke/SkuceMTOS85"},
+"url":"URL#5318234"
+},
+{
+"@score":"1",
+"@id":"5318235",
+"info":{"authors":{"author":[{"@pid":"29/5523","text":"Rajendra S. Wall"},{"@pid":"a/AmyWApon","text":"Amy W. Apon"},{"@pid":"17/4477","text":"Jennifer Beal"},{"@pid":"20/2933","text":"Michael T. Gately"},{"@pid":"26/2489","text":"Lamott G. Oren"}]},"title":"An Evaluation of Commercial Expert System Building Tools.","venue":"Data Knowl. Eng.","volume":"1","number":"4","pages":"279-304","year":"1985","type":"Journal Articles","key":"journals/dke/WallABGO85","doi":"10.1016/0169-023X(85)90002-3","ee":"https://doi.org/10.1016/0169-023X(85)90002-3","url":"https://dblp.org/rec/journals/dke/WallABGO85"},
+"url":"URL#5318235"
+},
+{
+"@score":"1",
+"@id":"5318236",
+"info":{"authors":{"author":{"@pid":"12/3071","text":"Ramin Yasdi"}},"title":"A Conceptual Design Aid Environment for Expert-Database Systems.","venue":"Data Knowl. Eng.","volume":"1","number":"1","pages":"31-73","year":"1985","type":"Journal Articles","key":"journals/dke/Yasdi85","doi":"10.1016/0169-023X(85)90026-6","ee":"https://doi.org/10.1016/0169-023X(85)90026-6","url":"https://dblp.org/rec/journals/dke/Yasdi85"},
+"url":"URL#5318236"
+}
+]
+}
 }
 }

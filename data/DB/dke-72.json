@@ -1,23 +1,110 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke72\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke72\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.60"
+"text":"129.84"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"13",
+"@dc":"13",
+"@oc":"13",
+"@id":"17615757",
+"text":":facetid:toc:db/journals/dke/dke72.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"13",
+"@computed":"13",
+"@sent":"13",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"2659861",
+"info":{"authors":{"author":[{"@pid":"86/6459","text":"Osman Abul"},{"@pid":"80/3120","text":"Harun Gökçe"}]},"title":"Knowledge hiding from tree and graph databases.","venue":"Data Knowl. Eng.","volume":"72","pages":"148-171","year":"2012","type":"Journal Articles","key":"journals/dke/AbulG12","doi":"10.1016/J.DATAK.2011.10.002","ee":"https://doi.org/10.1016/j.datak.2011.10.002","url":"https://dblp.org/rec/journals/dke/AbulG12"},
+"url":"URL#2659861"
+},
+{
+"@score":"1",
+"@id":"2659867",
+"info":{"authors":{"author":[{"@pid":"b/LoretoBravo","text":"Loreto Bravo"},{"@pid":"83/6294","text":"M. Andrea Rodríguez"}]},"title":"Formalization and reasoning about spatial semantic integrity constraints.","venue":"Data Knowl. Eng.","volume":"72","pages":"63-82","year":"2012","type":"Journal Articles","key":"journals/dke/BravoR12","doi":"10.1016/J.DATAK.2011.09.006","ee":"https://doi.org/10.1016/j.datak.2011.09.006","url":"https://dblp.org/rec/journals/dke/BravoR12"},
+"url":"URL#2659867"
+},
+{
+"@score":"1",
+"@id":"2659869",
+"info":{"authors":{"author":[{"@pid":"34/6061","text":"Mario Cataldi"},{"@pid":"c/KSelcukCandan","text":"K. Selçuk Candan"},{"@pid":"s/MariaLuisaSapino","text":"Maria Luisa Sapino"}]},"title":"Narrative-based taxonomy distillation for effective indexing of text collections.","venue":"Data Knowl. Eng.","volume":"72","pages":"103-125","year":"2012","type":"Journal Articles","key":"journals/dke/CataldiCS12","doi":"10.1016/J.DATAK.2011.09.008","ee":"https://doi.org/10.1016/j.datak.2011.09.008","url":"https://dblp.org/rec/journals/dke/CataldiCS12"},
+"url":"URL#2659869"
+},
+{
+"@score":"1",
+"@id":"2659879",
+"info":{"authors":{"author":[{"@pid":"i/SayyedKamyarIzadi","text":"Sayyed Kamyar Izadi"},{"@pid":"h/MostfaSHaghjoo","text":"Mostafa S. Haghjoo"},{"@pid":"h/TheoHarder","text":"Theo Härder"}]},"title":"S3 - Processing tree-pattern XML queries with all logical operators.","venue":"Data Knowl. Eng.","volume":"72","pages":"31-62","year":"2012","type":"Journal Articles","key":"journals/dke/IzadiHH12","doi":"10.1016/J.DATAK.2011.09.003","ee":"https://doi.org/10.1016/j.datak.2011.09.003","url":"https://dblp.org/rec/journals/dke/IzadiHH12"},
+"url":"URL#2659879"
+},
+{
+"@score":"1",
+"@id":"2659880",
+"info":{"authors":{"author":[{"@pid":"52/3440","text":"Peiquan Jin"},{"@pid":"68/59","text":"Yi Ou"},{"@pid":"h/TheoHarder","text":"Theo Härder"},{"@pid":"43/3166-7","text":"Zhi Li 0007"}]},"title":"AD-LRU - An efficient buffer replacement algorithm for flash-based databases.","venue":"Data Knowl. Eng.","volume":"72","pages":"83-102","year":"2012","type":"Journal Articles","key":"journals/dke/JinOHL12","doi":"10.1016/J.DATAK.2011.09.007","ee":"https://doi.org/10.1016/j.datak.2011.09.007","url":"https://dblp.org/rec/journals/dke/JinOHL12"},
+"url":"URL#2659880"
+},
+{
+"@score":"1",
+"@id":"2659882",
+"info":{"authors":{"author":[{"@pid":"83/7296","text":"Mijung Kim"},{"@pid":"c/KSelcukCandan","text":"K. Selçuk Candan"}]},"title":"SBV-Cut - Vertex-cut based graph partitioning using structural balance vertices.","venue":"Data Knowl. Eng.","volume":"72","pages":"285-303","year":"2012","type":"Journal Articles","key":"journals/dke/KimC12","doi":"10.1016/J.DATAK.2011.11.004","ee":"https://doi.org/10.1016/j.datak.2011.11.004","url":"https://dblp.org/rec/journals/dke/KimC12"},
+"url":"URL#2659882"
+},
+{
+"@score":"1",
+"@id":"2659888",
+"info":{"authors":{"author":[{"@pid":"60/3167","text":"Martin Necaský"},{"@pid":"31/1317","text":"Irena Mlýnková"},{"@pid":"35/7915","text":"Jakub Klímek"},{"@pid":"32/7915","text":"Jakub Malý"}]},"title":"When conceptual model meets grammar - A dual approach to XML data modeling.","venue":"Data Knowl. Eng.","volume":"72","pages":"1-30","year":"2012","type":"Journal Articles","key":"journals/dke/NecaskyMKM12","doi":"10.1016/J.DATAK.2011.09.002","ee":"https://doi.org/10.1016/j.datak.2011.09.002","url":"https://dblp.org/rec/journals/dke/NecaskyMKM12"},
+"url":"URL#2659888"
+},
+{
+"@score":"1",
+"@id":"2659890",
+"info":{"authors":{"author":[{"@pid":"67/2827","text":"Övünç Öztürk"},{"@pid":"16/437","text":"Tugba Özacar"},{"@pid":"48/5039","text":"Murat Osman Ünalir"}]},"title":"The extension-based inference algorithm for pD*.","venue":"Data Knowl. Eng.","volume":"72","pages":"172-201","year":"2012","type":"Journal Articles","key":"journals/dke/OzturkOU12","doi":"10.1016/J.DATAK.2011.10.003","ee":"https://doi.org/10.1016/j.datak.2011.10.003","url":"https://dblp.org/rec/journals/dke/OzturkOU12"},
+"url":"URL#2659890"
+},
+{
+"@score":"1",
+"@id":"2659898",
+"info":{"authors":{"author":{"@pid":"30/1163","text":"Arijit Sengupta"}},"title":"On the feasibility of using conceptual modeling constructs for the design and analysis of XML data.","venue":"Data Knowl. Eng.","volume":"72","pages":"219-238","year":"2012","type":"Journal Articles","key":"journals/dke/Sengupta12","doi":"10.1016/J.DATAK.2011.11.001","ee":"https://doi.org/10.1016/j.datak.2011.11.001","url":"https://dblp.org/rec/journals/dke/Sengupta12"},
+"url":"URL#2659898"
+},
+{
+"@score":"1",
+"@id":"2659901",
+"info":{"authors":{"author":[{"@pid":"16/11148","text":"Sathya Sundaram"},{"@pid":"m/SanjayKumarMadria","text":"Sanjay Kumar Madria"}]},"title":"A change detection system for unordered XML data using a relational model.","venue":"Data Knowl. Eng.","volume":"72","pages":"257-284","year":"2012","type":"Journal Articles","key":"journals/dke/SundaramM12","doi":"10.1016/J.DATAK.2011.11.003","ee":"https://doi.org/10.1016/j.datak.2011.11.003","url":"https://dblp.org/rec/journals/dke/SundaramM12"},
+"url":"URL#2659901"
+},
+{
+"@score":"1",
+"@id":"2659904",
+"info":{"authors":{"author":[{"@pid":"74/5514","text":"Ibrahim Yakut"},{"@pid":"42/211","text":"Huseyin Polat"}]},"title":"Arbitrarily distributed data-based recommendations with privacy.","venue":"Data Knowl. Eng.","volume":"72","pages":"239-256","year":"2012","type":"Journal Articles","key":"journals/dke/YakutP12","doi":"10.1016/J.DATAK.2011.11.002","ee":"https://doi.org/10.1016/j.datak.2011.11.002","url":"https://dblp.org/rec/journals/dke/YakutP12"},
+"url":"URL#2659904"
+},
+{
+"@score":"1",
+"@id":"2659905",
+"info":{"authors":{"author":[{"@pid":"52/5812","text":"Jian Yu"},{"@pid":"s/QuanZSheng","text":"Quan Z. Sheng"},{"@pid":"02/3721-4","text":"Jun Han 0004"},{"@pid":"25/1851","text":"Yanbo Wu"},{"@pid":"l/ChengfeiLiu","text":"Chengfei Liu"}]},"title":"A semantically enhanced service repository for user-centric service discovery and management.","venue":"Data Knowl. Eng.","volume":"72","pages":"202-218","year":"2012","type":"Journal Articles","key":"journals/dke/YuSHWL12","doi":"10.1016/J.DATAK.2011.10.005","ee":"https://doi.org/10.1016/j.datak.2011.10.005","url":"https://dblp.org/rec/journals/dke/YuSHWL12"},
+"url":"URL#2659905"
+},
+{
+"@score":"1",
+"@id":"2659906",
+"info":{"authors":{"author":[{"@pid":"51/9582","text":"Duncan Yung"},{"@pid":"23/282","text":"Man Lung Yiu"},{"@pid":"80/2320","text":"Eric Lo 0001"}]},"title":"A safe-exit approach for efficient network-based moving range queries.","venue":"Data Knowl. Eng.","volume":"72","pages":"126-147","year":"2012","type":"Journal Articles","key":"journals/dke/YungYL12","doi":"10.1016/J.DATAK.2011.10.001","ee":"https://doi.org/10.1016/j.datak.2011.10.001","url":"https://dblp.org/rec/journals/dke/YungYL12"},
+"url":"URL#2659906"
+}
+]
+}
 }
 }

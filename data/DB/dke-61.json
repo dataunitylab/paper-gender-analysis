@@ -1,23 +1,218 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke61\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke61\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.32"
+"text":"146.72"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"31",
+"@dc":"31",
+"@oc":"31",
+"@id":"17615745",
+"text":":facetid:toc:db/journals/dke/dke61.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"31",
+"@computed":"31",
+"@sent":"31",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"3801799",
+"info":{"authors":{"author":[{"@pid":"a/WilMPvanderAalst","text":"Wil M. P. van der Aalst"},{"@pid":"b/BoualemBenatallah","text":"Boualem Benatallah"},{"@pid":"c/FabioCasati","text":"Fabio Casati"},{"@pid":"48/2448","text":"Francisco Curbera"},{"@pid":"v/HMWVerbeek","text":"Eric Verbeek 0001"}]},"title":"Business process management - Where business processes and web services meet.","venue":"Data Knowl. Eng.","volume":"61","number":"1","pages":"1-5","year":"2007","type":"Journal Articles","key":"journals/dke/AalstBCCV07","doi":"10.1016/J.DATAK.2006.04.005","ee":"https://doi.org/10.1016/j.datak.2006.04.005","url":"https://dblp.org/rec/journals/dke/AalstBCCV07"},
+"url":"URL#3801799"
+},
+{
+"@score":"1",
+"@id":"3801800",
+"info":{"authors":{"author":[{"@pid":"42/904","text":"Muhammad Abulaish"},{"@pid":"09/3737","text":"Lipika Dey"}]},"title":"Biological relation extraction and query answering from MEDLINE abstracts using ontology-based text mining.","venue":"Data Knowl. Eng.","volume":"61","number":"2","pages":"228-262","year":"2007","type":"Journal Articles","key":"journals/dke/AbulaishD07","doi":"10.1016/J.DATAK.2006.06.007","ee":"https://doi.org/10.1016/j.datak.2006.06.007","url":"https://dblp.org/rec/journals/dke/AbulaishD07"},
+"url":"URL#3801800"
+},
+{
+"@score":"1",
+"@id":"3801808",
+"info":{"authors":{"author":[{"@pid":"b/PvBommel","text":"Patrick van Bommel"},{"@pid":"12/5887","text":"Bas van Gils"},{"@pid":"p/ErikProper","text":"Henderik Alex Proper"},{"@pid":"38/3166","text":"Mario van Vliet"},{"@pid":"w/TPvanderWeide","text":"Theo P. van der Weide"}]},"title":"Value and the information market.","venue":"Data Knowl. Eng.","volume":"61","number":"1","pages":"153-175","year":"2007","type":"Journal Articles","key":"journals/dke/BommelGPVW07","doi":"10.1016/J.DATAK.2006.05.002","ee":"https://doi.org/10.1016/j.datak.2006.05.002","url":"https://dblp.org/rec/journals/dke/BommelGPVW07"},
+"url":"URL#3801808"
+},
+{
+"@score":"1",
+"@id":"3801812",
+"info":{"authors":{"author":{"@pid":"40/5915","text":"Olga Brazhnik"}},"title":"Databases and the geometry of knowledge.","venue":"Data Knowl. Eng.","volume":"61","number":"2","pages":"207-227","year":"2007","type":"Journal Articles","key":"journals/dke/Brazhnik07","doi":"10.1016/J.DATAK.2006.05.005","ee":"https://doi.org/10.1016/j.datak.2006.05.005","url":"https://dblp.org/rec/journals/dke/Brazhnik07"},
+"url":"URL#3801812"
+},
+{
+"@score":"1",
+"@id":"3801818",
+"info":{"authors":{"author":[{"@pid":"60/3596","text":"Charu Chandra"},{"@pid":"30/3225","text":"Armen Tumanyan"}]},"title":"Organization and problem ontology for supply chain information support system.","venue":"Data Knowl. Eng.","volume":"61","number":"2","pages":"263-280","year":"2007","type":"Journal Articles","key":"journals/dke/ChandraT07","doi":"10.1016/J.DATAK.2006.06.005","ee":"https://doi.org/10.1016/j.datak.2006.06.005","url":"https://dblp.org/rec/journals/dke/ChandraT07"},
+"url":"URL#3801818"
+},
+{
+"@score":"1",
+"@id":"3801819",
+"info":{"authors":{"author":{"@pid":"c/DChatziantoniou","text":"Damianos Chatziantoniou"}},"title":"Using grouping variables to express complex decision support queries.","venue":"Data Knowl. Eng.","volume":"61","number":"1","pages":"114-136","year":"2007","type":"Journal Articles","key":"journals/dke/Chatziantoniou07","doi":"10.1016/J.DATAK.2006.05.001","ee":"https://doi.org/10.1016/j.datak.2006.05.001","url":"https://dblp.org/rec/journals/dke/Chatziantoniou07"},
+"url":"URL#3801819"
+},
+{
+"@score":"1",
+"@id":"3801826",
+"info":{"authors":{"author":[{"@pid":"58/2715","text":"Francisco M. Couto"},{"@pid":"98/2258","text":"Mário J. Silva"},{"@pid":"75/1472","text":"Pedro Coutinho"}]},"title":"Measuring semantic similarity between Gene Ontology terms.","venue":"Data Knowl. Eng.","volume":"61","number":"1","pages":"137-152","year":"2007","type":"Journal Articles","key":"journals/dke/CoutoSC07","doi":"10.1016/J.DATAK.2006.05.003","ee":"https://doi.org/10.1016/j.datak.2006.05.003","url":"https://dblp.org/rec/journals/dke/CoutoSC07"},
+"url":"URL#3801826"
+},
+{
+"@score":"1",
+"@id":"3801827",
+"info":{"authors":{"author":[{"@pid":"32/723","text":"Manoranjan Dash"},{"@pid":"19/5170","text":"Simona Petrutiu"},{"@pid":"s/PeterScheuermann","text":"Peter Scheuermann"}]},"title":"pPOP - Fast yet accurate parallel hierarchical clustering using partitioning.","venue":"Data Knowl. Eng.","volume":"61","number":"3","pages":"563-578","year":"2007","type":"Journal Articles","key":"journals/dke/DashPS07","doi":"10.1016/J.DATAK.2006.07.004","ee":"https://doi.org/10.1016/j.datak.2006.07.004","url":"https://dblp.org/rec/journals/dke/DashPS07"},
+"url":"URL#3801827"
+},
+{
+"@score":"1",
+"@id":"3801833",
+"info":{"authors":{"author":[{"@pid":"02/3376","text":"Tsai-Hung Fan"},{"@pid":"84/6424","text":"Dennis K. J. Lin"},{"@pid":"59/1210","text":"Kuang-Fu Cheng"}]},"title":"Regression analysis for massive datasets.","venue":"Data Knowl. Eng.","volume":"61","number":"3","pages":"554-562","year":"2007","type":"Journal Articles","key":"journals/dke/FanLC07","doi":"10.1016/J.DATAK.2006.06.017","ee":"https://doi.org/10.1016/j.datak.2006.06.017","url":"https://dblp.org/rec/journals/dke/FanLC07"},
+"url":"URL#3801833"
+},
+{
+"@score":"1",
+"@id":"3801834",
+"info":{"authors":{"author":[{"@pid":"02/2386","text":"Tore Fjellheim"},{"@pid":"m/StephenMilliner","text":"Stephen Milliner"},{"@pid":"d/MarlonDumas","text":"Marlon Dumas"},{"@pid":"63/3765","text":"Julien Vayssière"}]},"title":"A process-based methodology for designing event-based mobile composite applications.","venue":"Data Knowl. Eng.","volume":"61","number":"1","pages":"6-22","year":"2007","type":"Journal Articles","key":"journals/dke/FjellheimMDV07","doi":"10.1016/J.DATAK.2006.04.004","ee":"https://doi.org/10.1016/j.datak.2006.04.004","url":"https://dblp.org/rec/journals/dke/FjellheimMDV07"},
+"url":"URL#3801834"
+},
+{
+"@score":"1",
+"@id":"3801836",
+"info":{"authors":{"author":[{"@pid":"80/5020","text":"Günther Fliedl"},{"@pid":"k/CKop","text":"Christian Kop"},{"@pid":"89/200","text":"Heinrich C. Mayr"},{"@pid":"27/6298","text":"Alexander Salbrechter"},{"@pid":"29/3211","text":"Jürgen Vöhringer"},{"@pid":"73/6837","text":"Georg Weber"},{"@pid":"81/160","text":"Christian Winkler"}]},"title":"Deriving static and dynamic concepts from software requirements using sophisticated tagging.","venue":"Data Knowl. Eng.","volume":"61","number":"3","pages":"433-448","year":"2007","type":"Journal Articles","key":"journals/dke/FliedlKMSVWW07","doi":"10.1016/J.DATAK.2006.06.012","ee":"https://doi.org/10.1016/j.datak.2006.06.012","url":"https://dblp.org/rec/journals/dke/FliedlKMSVWW07"},
+"url":"URL#3801836"
+},
+{
+"@score":"1",
+"@id":"3801844",
+"info":{"authors":{"author":[{"@pid":"92/638","text":"Yiqiu Han"},{"@pid":"48/1707","text":"Wai Lam"}]},"title":"Utilizing hierarchical feature domain values for prediction.","venue":"Data Knowl. Eng.","volume":"61","number":"3","pages":"540-553","year":"2007","type":"Journal Articles","key":"journals/dke/HanL07","doi":"10.1016/J.DATAK.2006.06.018","ee":"https://doi.org/10.1016/j.datak.2006.06.018","url":"https://dblp.org/rec/journals/dke/HanL07"},
+"url":"URL#3801844"
+},
+{
+"@score":"1",
+"@id":"3801846",
+"info":{"authors":{"author":[{"@pid":"13/158","text":"Michael Peter Haustein"},{"@pid":"h/TheoHarder","text":"Theo Härder"}]},"title":"An efficient infrastructure for native transactional XML processing.","venue":"Data Knowl. Eng.","volume":"61","number":"3","pages":"500-523","year":"2007","type":"Journal Articles","key":"journals/dke/HausteinH07","doi":"10.1016/J.DATAK.2006.06.015","ee":"https://doi.org/10.1016/j.datak.2006.06.015","url":"https://dblp.org/rec/journals/dke/HausteinH07"},
+"url":"URL#3801846"
+},
+{
+"@score":"1",
+"@id":"3801847",
+"info":{"authors":{"author":[{"@pid":"82/3398","text":"Kees M. van Hee"},{"@pid":"s/AlexanderSerebrenik","text":"Alexander Serebrenik"},{"@pid":"06/5070","text":"Natalia Sidorova"},{"@pid":"48/1901","text":"Marc Voorhoeve"},{"@pid":"64/3455","text":"Jan van der Wal"}]},"title":"Scheduling-free resource management.","venue":"Data Knowl. Eng.","volume":"61","number":"1","pages":"59-75","year":"2007","type":"Journal Articles","key":"journals/dke/HeeSSVW07","doi":"10.1016/J.DATAK.2006.04.008","ee":"https://doi.org/10.1016/j.datak.2006.04.008","url":"https://dblp.org/rec/journals/dke/HeeSSVW07"},
+"url":"URL#3801847"
+},
+{
+"@score":"1",
+"@id":"3801856",
+"info":{"authors":{"author":[{"@pid":"51/964","text":"Yiannis Kanellopoulos"},{"@pid":"19/304","text":"Christos Makris"},{"@pid":"65/6096","text":"Christos Tjortjis"}]},"title":"An improved methodology on information distillation by mining program source code.","venue":"Data Knowl. Eng.","volume":"61","number":"2","pages":"359-383","year":"2007","type":"Journal Articles","key":"journals/dke/KanellopoulosMT07","doi":"10.1016/J.DATAK.2006.06.002","ee":"https://doi.org/10.1016/j.datak.2006.06.002","url":"https://dblp.org/rec/journals/dke/KanellopoulosMT07"},
+"url":"URL#3801856"
+},
+{
+"@score":"1",
+"@id":"3801858",
+"info":{"authors":{"author":[{"@pid":"12/3183","text":"Zsolt Tivadar Kardkovács"},{"@pid":"55/6632","text":"Domonkos Tikk"}]},"title":"On the transformation of sentences with genitive relations to SQL queries.","venue":"Data Knowl. Eng.","volume":"61","number":"3","pages":"406-416","year":"2007","type":"Journal Articles","key":"journals/dke/KardkovacsT07","doi":"10.1016/J.DATAK.2006.06.013","ee":"https://doi.org/10.1016/j.datak.2006.06.013","url":"https://dblp.org/rec/journals/dke/KardkovacsT07"},
+"url":"URL#3801858"
+},
+{
+"@score":"1",
+"@id":"3801859",
+"info":{"authors":{"author":{"@pid":"36/4111","text":"Rania Khalaf"}},"title":"From RosettaNet PIPs to BPEL processes - A three level approach for business protocols.","venue":"Data Knowl. Eng.","volume":"61","number":"1","pages":"23-38","year":"2007","type":"Journal Articles","key":"journals/dke/Khalaf07","doi":"10.1016/J.DATAK.2006.04.006","ee":"https://doi.org/10.1016/j.datak.2006.04.006","url":"https://dblp.org/rec/journals/dke/Khalaf07"},
+"url":"URL#3801859"
+},
+{
+"@score":"1",
+"@id":"3801860",
+"info":{"authors":{"author":[{"@pid":"03/6158","text":"Minseong Kim"},{"@pid":"93/6311","text":"Sooyong Park"},{"@pid":"66/6868","text":"Vijayan Sugumaran"},{"@pid":"36/3674","text":"Hwasil Yang"}]},"title":"Managing requirements conflicts in software product lines - A goal and scenario based approach.","venue":"Data Knowl. Eng.","volume":"61","number":"3","pages":"417-432","year":"2007","type":"Journal Articles","key":"journals/dke/KimPSY07","doi":"10.1016/J.DATAK.2006.06.009","ee":"https://doi.org/10.1016/j.datak.2006.06.009","url":"https://dblp.org/rec/journals/dke/KimPSY07"},
+"url":"URL#3801860"
+},
+{
+"@score":"1",
+"@id":"3801864",
+"info":{"authors":{"author":[{"@pid":"63/5321","text":"Zornitsa Kozareva"},{"@pid":"68/18","text":"Óscar Ferrández"},{"@pid":"65/6427","text":"Andrés Montoyo"},{"@pid":"m/RafaelMunoz","text":"Rafael Muñoz 0001"},{"@pid":"28/1151","text":"Armando Suárez"},{"@pid":"47/943","text":"Jaime Gómez"}]},"title":"Combining data-driven systems for improving Named Entity Recognition.","venue":"Data Knowl. Eng.","volume":"61","number":"3","pages":"449-466","year":"2007","type":"Journal Articles","key":"journals/dke/KozarevaFMMSG07","doi":"10.1016/J.DATAK.2006.06.014","ee":"https://doi.org/10.1016/j.datak.2006.06.014","url":"https://dblp.org/rec/journals/dke/KozarevaFMMSG07"},
+"url":"URL#3801864"
+},
+{
+"@score":"1",
+"@id":"3801872",
+"info":{"authors":{"author":[{"@pid":"22/1606","text":"Richard Lenz"},{"@pid":"r/ManfredReichert","text":"Manfred Reichert"}]},"title":"IT support for healthcare processes - premises, challenges, perspectives.","venue":"Data Knowl. Eng.","volume":"61","number":"1","pages":"39-58","year":"2007","type":"Journal Articles","key":"journals/dke/LenzR07","doi":"10.1016/J.DATAK.2006.04.007","ee":"https://doi.org/10.1016/j.datak.2006.04.007","url":"https://dblp.org/rec/journals/dke/LenzR07"},
+"url":"URL#3801872"
+},
+{
+"@score":"1",
+"@id":"3801873",
+"info":{"authors":{"author":[{"@pid":"l/ErwinLeonardi","text":"Erwin Leonardi"},{"@pid":"40/106","text":"Tran T. Hoai"},{"@pid":"b/SSBhowmick","text":"Sourav S. Bhowmick"},{"@pid":"m/SanjayKumarMadria","text":"Sanjay Kumar Madria"}]},"title":"DTD-Diff - A change detection algorithm for DTDs.","venue":"Data Knowl. Eng.","volume":"61","number":"2","pages":"384-402","year":"2007","type":"Journal Articles","key":"journals/dke/LeonardiHBM07","doi":"10.1016/J.DATAK.2006.06.003","ee":"https://doi.org/10.1016/j.datak.2006.06.003","url":"https://dblp.org/rec/journals/dke/LeonardiHBM07"},
+"url":"URL#3801873"
+},
+{
+"@score":"1",
+"@id":"3801878",
+"info":{"authors":{"author":[{"@pid":"33/2972","text":"Haibin Liu"},{"@pid":"32/5995","text":"Vlado Keselj"}]},"title":"Combined mining of Web server logs and web contents for classifying user navigation patterns and predicting users&apos; future requests.","venue":"Data Knowl. Eng.","volume":"61","number":"2","pages":"304-330","year":"2007","type":"Journal Articles","key":"journals/dke/LiuK07","doi":"10.1016/J.DATAK.2006.06.001","ee":"https://doi.org/10.1016/j.datak.2006.06.001","url":"https://dblp.org/rec/journals/dke/LiuK07"},
+"url":"URL#3801878"
+},
+{
+"@score":"1",
+"@id":"3801886",
+"info":{"authors":{"author":[{"@pid":"39/1501","text":"Wenlei Mao"},{"@pid":"c/WesleyWChu","text":"Wesley W. Chu"}]},"title":"The phrase-based vector space model for automatic retrieval of free-text medical documents.","venue":"Data Knowl. Eng.","volume":"61","number":"1","pages":"76-92","year":"2007","type":"Journal Articles","key":"journals/dke/MaoC07","doi":"10.1016/J.DATAK.2006.02.008","ee":"https://doi.org/10.1016/j.datak.2006.02.008","url":"https://dblp.org/rec/journals/dke/MaoC07"},
+"url":"URL#3801886"
+},
+{
+"@score":"1",
+"@id":"3801891",
+"info":{"authors":{"author":[{"@pid":"81/6318","text":"Paloma Moreda"},{"@pid":"42/5025","text":"Borja Navarro"},{"@pid":"p/ManuelPalomar","text":"Manuel Palomar"}]},"title":"Corpus-based semantic role approach in information retrieval.","venue":"Data Knowl. Eng.","volume":"61","number":"3","pages":"467-483","year":"2007","type":"Journal Articles","key":"journals/dke/MoredaNP07","doi":"10.1016/J.DATAK.2006.06.010","ee":"https://doi.org/10.1016/j.datak.2006.06.010","url":"https://dblp.org/rec/journals/dke/MoredaNP07"},
+"url":"URL#3801891"
+},
+{
+"@score":"1",
+"@id":"3801894",
+"info":{"authors":{"author":[{"@pid":"m/RafaelMunoz","text":"Rafael Muñoz 0001"},{"@pid":"65/6427","text":"Andrés Montoyo"}]},"title":"Advances on natural language processing.","venue":"Data Knowl. Eng.","volume":"61","number":"3","pages":"403-405","year":"2007","type":"Journal Articles","key":"journals/dke/MunozM07","doi":"10.1016/J.DATAK.2006.06.008","ee":"https://doi.org/10.1016/j.datak.2006.06.008","url":"https://dblp.org/rec/journals/dke/MunozM07"},
+"url":"URL#3801894"
+},
+{
+"@score":"1",
+"@id":"3801898",
+"info":{"authors":{"author":[{"@pid":"02/3157","text":"Girish Keshav Palshikar"},{"@pid":"34/2270","text":"Mandar S. Kale"},{"@pid":"40/6919","text":"Manoj M. Apte"}]},"title":"Association rules mining using heavy itemsets.","venue":"Data Knowl. Eng.","volume":"61","number":"1","pages":"93-113","year":"2007","type":"Journal Articles","key":"journals/dke/PalshikarKA07","doi":"10.1016/J.DATAK.2006.04.009","ee":"https://doi.org/10.1016/j.datak.2006.04.009","url":"https://dblp.org/rec/journals/dke/PalshikarKA07"},
+"url":"URL#3801898"
+},
+{
+"@score":"1",
+"@id":"3801905",
+"info":{"authors":{"author":[{"@pid":"12/4617","text":"V. P. Subramanyam Rallabandi"},{"@pid":"85/3450","text":"S. K. Sett"}]},"title":"Image retrieval system using R-tree self-organizing map.","venue":"Data Knowl. Eng.","volume":"61","number":"3","pages":"524-539","year":"2007","type":"Journal Articles","key":"journals/dke/RallabandiS07","doi":"10.1016/J.DATAK.2006.06.016","ee":"https://doi.org/10.1016/j.datak.2006.06.016","url":"https://dblp.org/rec/journals/dke/RallabandiS07"},
+"url":"URL#3801905"
+},
+{
+"@score":"1",
+"@id":"3801906",
+"info":{"authors":{"author":[{"@pid":"88/4490","text":"Juan Raposo"},{"@pid":"36/5165","text":"Alberto Pan"},{"@pid":"47/6672","text":"Manuel Álvarez"},{"@pid":"73/1199","text":"Justo Hidalgo"}]},"title":"Automatically maintaining wrappers for semi-structured web sources.","venue":"Data Knowl. Eng.","volume":"61","number":"2","pages":"331-358","year":"2007","type":"Journal Articles","key":"journals/dke/RaposoPAH07","doi":"10.1016/J.DATAK.2006.06.006","ee":"https://doi.org/10.1016/j.datak.2006.06.006","url":"https://dblp.org/rec/journals/dke/RaposoPAH07"},
+"url":"URL#3801906"
+},
+{
+"@score":"1",
+"@id":"3801908",
+"info":{"authors":{"author":[{"@pid":"25/4536","text":"Maria Ruiz-Casado"},{"@pid":"23/2128","text":"Enrique Alfonseca"},{"@pid":"c/PabloCastells","text":"Pablo Castells"}]},"title":"Automatising the learning of lexical patterns - An application to the enrichment of WordNet by extracting semantic relationships from Wikipedia.","venue":"Data Knowl. Eng.","volume":"61","number":"3","pages":"484-499","year":"2007","type":"Journal Articles","key":"journals/dke/Ruiz-CasadoAC07","doi":"10.1016/J.DATAK.2006.06.011","ee":"https://doi.org/10.1016/j.datak.2006.06.011","url":"https://dblp.org/rec/journals/dke/Ruiz-CasadoAC07"},
+"url":"URL#3801908"
+},
+{
+"@score":"1",
+"@id":"3801924",
+"info":{"authors":{"author":[{"@pid":"65/1374","text":"Da-Wei Wang"},{"@pid":"03/3350","text":"Churn-Jung Liau"},{"@pid":"19/2124","text":"Tsan-sheng Hsu"}]},"title":"An epistemic framework for privacy protection in database linking.","venue":"Data Knowl. Eng.","volume":"61","number":"1","pages":"176-205","year":"2007","type":"Journal Articles","key":"journals/dke/WangLH07a","doi":"10.1016/J.DATAK.2006.05.004","ee":"https://doi.org/10.1016/j.datak.2006.05.004","url":"https://dblp.org/rec/journals/dke/WangLH07a"},
+"url":"URL#3801924"
+},
+{
+"@score":"1",
+"@id":"3801937",
+"info":{"authors":{"author":[{"@pid":"91/6896","text":"Huimin Zhao"},{"@pid":"17/3798","text":"Sudha Ram"}]},"title":"Combining schema and instance information for integrating heterogeneous data sources.","venue":"Data Knowl. Eng.","volume":"61","number":"2","pages":"281-303","year":"2007","type":"Journal Articles","key":"journals/dke/ZhaoR07","doi":"10.1016/J.DATAK.2006.06.004","ee":"https://doi.org/10.1016/j.datak.2006.06.004","url":"https://dblp.org/rec/journals/dke/ZhaoR07"},
+"url":"URL#3801937"
+}
+]
+}
 }
 }

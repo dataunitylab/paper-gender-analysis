@@ -1,23 +1,110 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke27\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke27\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.33"
+"text":"139.35"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"13",
+"@dc":"13",
+"@oc":"13",
+"@id":"17615707",
+"text":":facetid:toc:db/journals/dke/dke27.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"13",
+"@computed":"13",
+"@sent":"13",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"4862041",
+"info":{"authors":{"author":[{"@pid":"30/5842","text":"C. Anantaram"},{"@pid":"45/891","text":"G. Nagaraja"},{"@pid":"27/2494","text":"K. V. Nori"}]},"title":"Verification of Accuracy of Rules in a Rule Based System.","venue":"Data Knowl. Eng.","volume":"27","number":"2","pages":"115-138","year":"1998","type":"Journal Articles","key":"journals/dke/AnantaramNN98","doi":"10.1016/S0169-023X(98)00009-3","ee":"https://doi.org/10.1016/S0169-023X(98)00009-3","url":"https://dblp.org/rec/journals/dke/AnantaramNN98"},
+"url":"URL#4862041"
+},
+{
+"@score":"1",
+"@id":"4862047",
+"info":{"authors":{"author":[{"@pid":"13/5897","text":"Te-Wei Chiang"},{"@pid":"59/5869","text":"Hai-Yen Hau"},{"@pid":"56/4508","text":"Hwan-Ming Chiang"},{"@pid":"05/4819","text":"Su-Yun Ko"},{"@pid":"43/5717","text":"Chao-Ho Hsieh"}]},"title":"Knowledge-Based System for Railway Scheduling.","venue":"Data Knowl. Eng.","volume":"27","number":"3","pages":"289-312","year":"1998","type":"Journal Articles","key":"journals/dke/ChiangHCKH98","doi":"10.1016/S0169-023X(97)00040-2","ee":"https://doi.org/10.1016/S0169-023X(97)00040-2","url":"https://dblp.org/rec/journals/dke/ChiangHCKH98"},
+"url":"URL#4862047"
+},
+{
+"@score":"1",
+"@id":"4862048",
+"info":{"authors":{"author":[{"@pid":"c/FabioCrestani","text":"Fabio Crestani"},{"@pid":"34/194","text":"Massimo Melucci"}]},"title":"A Case study of Automatic Authoring - From a Textbook to a Hyper-Textbook.","venue":"Data Knowl. Eng.","volume":"27","number":"1","pages":"1-30","year":"1998","type":"Journal Articles","key":"journals/dke/CrestaniM98","doi":"10.1016/S0169-023X(97)00043-8","ee":"https://doi.org/10.1016/S0169-023X(97)00043-8","url":"https://dblp.org/rec/journals/dke/CrestaniM98"},
+"url":"URL#4862048"
+},
+{
+"@score":"1",
+"@id":"4862054",
+"info":{"authors":{"author":[{"@pid":"g/PaulWPJGrefen","text":"Paul W. P. J. Grefen"},{"@pid":"83/558","text":"Remmert Remmerts de Vries"}]},"title":"A Reference Architecture for Workflow Management Systems.","venue":"Data Knowl. Eng.","volume":"27","number":"1","pages":"31-57","year":"1998","type":"Journal Articles","key":"journals/dke/GrefenV98","doi":"10.1016/S0169-023X(97)00057-8","ee":"https://doi.org/10.1016/S0169-023X(97)00057-8","url":"https://dblp.org/rec/journals/dke/GrefenV98"},
+"url":"URL#4862054"
+},
+{
+"@score":"1",
+"@id":"4862056",
+"info":{"authors":{"author":[{"@pid":"79/2305","text":"Michael Halper"},{"@pid":"g/JamesGeller","text":"James Geller"},{"@pid":"p/YehoshuaPerl","text":"Yehoshua Perl"}]},"title":"An OODB Part-Whole Model - Semantics, Notation and Implementation.","venue":"Data Knowl. Eng.","volume":"27","number":"1","pages":"59-95","year":"1998","type":"Journal Articles","key":"journals/dke/HalperGP98","doi":"10.1016/S0169-023X(97)00055-4","ee":"https://doi.org/10.1016/S0169-023X(97)00055-4","url":"https://dblp.org/rec/journals/dke/HalperGP98"},
+"url":"URL#4862056"
+},
+{
+"@score":"1",
+"@id":"4862069",
+"info":{"authors":{"author":[{"@pid":"60/5978","text":"Wen-Syan Li"},{"@pid":"c/KSelcukCandan","text":"K. Selçuk Candan"},{"@pid":"51/6682","text":"Kyoji Hirata"},{"@pid":"29/2567","text":"Yoshinori Hara"}]},"title":"Hierarchical Image Modeling for Object-Based Media Retrieval.","venue":"Data Knowl. Eng.","volume":"27","number":"2","pages":"139-176","year":"1998","type":"Journal Articles","key":"journals/dke/LiCHH98","doi":"10.1016/S0169-023X(97)00058-X","ee":"https://doi.org/10.1016/S0169-023X(97)00058-X","url":"https://dblp.org/rec/journals/dke/LiCHH98"},
+"url":"URL#4862069"
+},
+{
+"@score":"1",
+"@id":"4862071",
+"info":{"authors":{"author":[{"@pid":"49/1954","text":"Qianhong Liu"},{"@pid":"30/5754","text":"Peter A. Ng"}]},"title":"A Query Generalizer for Providing Cooperative Responses in an Office Document System.","venue":"Data Knowl. Eng.","volume":"27","number":"2","pages":"177-205","year":"1998","type":"Journal Articles","key":"journals/dke/LiuN98","doi":"10.1016/S0169-023X(97)00041-4","ee":"https://doi.org/10.1016/S0169-023X(97)00041-4","url":"https://dblp.org/rec/journals/dke/LiuN98"},
+"url":"URL#4862071"
+},
+{
+"@score":"1",
+"@id":"4862074",
+"info":{"authors":{"author":{"@pid":"47/4702","text":"Andrew J. McAllister"}},"title":"Complete Rules for n-Ary Relationship Cardinality Constraints.","venue":"Data Knowl. Eng.","volume":"27","number":"3","pages":"255-288","year":"1998","type":"Journal Articles","key":"journals/dke/McAllister98","doi":"10.1016/S0169-023X(98)00007-X","ee":"https://doi.org/10.1016/S0169-023X(98)00007-X","url":"https://dblp.org/rec/journals/dke/McAllister98"},
+"url":"URL#4862074"
+},
+{
+"@score":"1",
+"@id":"4862075",
+"info":{"authors":{"author":[{"@pid":"51/4374","text":"Rokia Missaoui"},{"@pid":"49/6980","text":"Robert Godin"},{"@pid":"s/HouariASahraoui","text":"Houari A. Sahraoui"}]},"title":"Migrating to an Object-Oriented Database Using Semantic Clustering and Transformation Rules.","venue":"Data Knowl. Eng.","volume":"27","number":"1","pages":"97-113","year":"1998","type":"Journal Articles","key":"journals/dke/MissaouiGS98","doi":"10.1016/S0169-023X(98)00004-4","ee":"https://doi.org/10.1016/S0169-023X(98)00004-4","url":"https://dblp.org/rec/journals/dke/MissaouiGS98"},
+"url":"URL#4862075"
+},
+{
+"@score":"1",
+"@id":"4862090",
+"info":{"authors":{"author":[{"@pid":"57/4080","text":"Olga Sourina"},{"@pid":"43/6223","text":"Seng H. Boey"}]},"title":"Geometric Query Types for Data Retrieval in Relational Databases.","venue":"Data Knowl. Eng.","volume":"27","number":"2","pages":"207-229","year":"1998","type":"Journal Articles","key":"journals/dke/SourinaB98","doi":"10.1016/S0169-023X(97)00061-X","ee":"https://doi.org/10.1016/S0169-023X(97)00061-X","url":"https://dblp.org/rec/journals/dke/SourinaB98"},
+"url":"URL#4862090"
+},
+{
+"@score":"1",
+"@id":"4862095",
+"info":{"authors":{"author":[{"@pid":"t/YannisTheodoridis","text":"Yannis Theodoridis"},{"@pid":"p/DimitrisPapadias","text":"Dimitris Papadias"},{"@pid":"s/EmmanuelStefanakis","text":"Emmanuel Stefanakis"},{"@pid":"s/TimosKSellis","text":"Timos K. Sellis"}]},"title":"Direction Relations and Two-Dimensional Range Queries - Optimisation Techniques.","venue":"Data Knowl. Eng.","volume":"27","number":"3","pages":"313-336","year":"1998","type":"Journal Articles","key":"journals/dke/TheodoridisPSS98","doi":"10.1016/S0169-023X(97)00060-8","ee":"https://doi.org/10.1016/S0169-023X(97)00060-8","url":"https://dblp.org/rec/journals/dke/TheodoridisPSS98"},
+"url":"URL#4862095"
+},
+{
+"@score":"1",
+"@id":"4862096",
+"info":{"authors":{"author":[{"@pid":"81/5348","text":"Frank Shou-Cheng Tseng"},{"@pid":"78/4487","text":"Jeng-Jye Chiang"},{"@pid":"20/5454","text":"Wei-Pang Yang"}]},"title":"Integration of Relations with Conflicting Schema Structures in Heterogeneous Database Systems.","venue":"Data Knowl. Eng.","volume":"27","number":"2","pages":"231-248","year":"1998","type":"Journal Articles","key":"journals/dke/TsengCY98","doi":"10.1016/S0169-023X(98)00005-6","ee":"https://doi.org/10.1016/S0169-023X(98)00005-6","url":"https://dblp.org/rec/journals/dke/TsengCY98"},
+"url":"URL#4862096"
+},
+{
+"@score":"1",
+"@id":"4862097",
+"info":{"authors":{"author":[{"@pid":"90/2838","text":"Jan Vanthienen"},{"@pid":"69/5663","text":"Christophe Mues"},{"@pid":"73/4873","text":"Ann Aerts"}]},"title":"An Illustration of Verification and Validation in the Modelling Phase of KBS Development.","venue":"Data Knowl. Eng.","volume":"27","number":"3","pages":"337-352","year":"1998","type":"Journal Articles","key":"journals/dke/VanthienenMA98","doi":"10.1016/S0169-023X(98)80003-7","ee":"https://doi.org/10.1016/S0169-023X(98)80003-7","url":"https://dblp.org/rec/journals/dke/VanthienenMA98"},
+"url":"URL#4862097"
+}
+]
+}
 }
 }

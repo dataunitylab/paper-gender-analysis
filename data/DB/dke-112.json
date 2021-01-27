@@ -1,23 +1,74 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke112\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke112\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.57"
+"text":"146.53"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"7",
+"@dc":"7",
+"@oc":"7",
+"@id":"17615672",
+"text":":facetid:toc:db/journals/dke/dke112.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"7",
+"@computed":"7",
+"@sent":"7",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"1175735",
+"info":{"authors":{"author":[{"@pid":"94/1446","text":"Lorenzo Baldacci"},{"@pid":"g/MatteoGolfarelli","text":"Matteo Golfarelli"},{"@pid":"153/4210","text":"Simone Graziani"},{"@pid":"75/5487","text":"Stefano Rizzi"}]},"title":"QETL - An approach to on-demand ETL from non-owned data sources.","venue":"Data Knowl. Eng.","volume":"112","pages":"17-37","year":"2017","type":"Journal Articles","key":"journals/dke/BaldacciGGR17","doi":"10.1016/J.DATAK.2017.09.002","ee":"https://doi.org/10.1016/j.datak.2017.09.002","url":"https://dblp.org/rec/journals/dke/BaldacciGGR17"},
+"url":"URL#1175735"
+},
+{
+"@score":"1",
+"@id":"1175737",
+"info":{"authors":{"author":[{"@pid":"96/5520","text":"José Ramón Cano"},{"@pid":"27/5514","text":"Salvador García"}]},"title":"Training set selection for monotonic ordinal classification.","venue":"Data Knowl. Eng.","volume":"112","pages":"94-105","year":"2017","type":"Journal Articles","key":"journals/dke/CanoG17","doi":"10.1016/J.DATAK.2017.10.003","ee":"https://doi.org/10.1016/j.datak.2017.10.003","url":"https://dblp.org/rec/journals/dke/CanoG17"},
+"url":"URL#1175737"
+},
+{
+"@score":"1",
+"@id":"1175739",
+"info":{"authors":{"author":[{"@pid":"134/6925","text":"Willem Coetzer"},{"@pid":"80/311","text":"Deshendran Moodley"},{"@pid":"16/245","text":"Aurona Gerber"}]},"title":"A knowledge-based system for generating interaction networks from ecological data.","venue":"Data Knowl. Eng.","volume":"112","pages":"55-78","year":"2017","type":"Journal Articles","key":"journals/dke/CoetzerMG17","doi":"10.1016/J.DATAK.2017.09.005","ee":"https://doi.org/10.1016/j.datak.2017.09.005","url":"https://dblp.org/rec/journals/dke/CoetzerMG17"},
+"url":"URL#1175739"
+},
+{
+"@score":"1",
+"@id":"1175751",
+"info":{"authors":{"author":[{"@pid":"51/3105","text":"Orion Fausto Reyes-Galaviz"},{"@pid":"p/WitoldPedrycz","text":"Witold Pedrycz"},{"@pid":"209/5456","text":"Ziyue He"},{"@pid":"p/NicolinoJPizzi","text":"Nick J. Pizzi"}]},"title":"A supervised gradient-based learning algorithm for optimized entity resolution.","venue":"Data Knowl. Eng.","volume":"112","pages":"106-129","year":"2017","type":"Journal Articles","key":"journals/dke/Reyes-GalavizPH17","doi":"10.1016/J.DATAK.2017.10.004","ee":"https://doi.org/10.1016/j.datak.2017.10.004","url":"https://dblp.org/rec/journals/dke/Reyes-GalavizPH17"},
+"url":"URL#1175751"
+},
+{
+"@score":"1",
+"@id":"1175756",
+"info":{"authors":{"author":[{"@pid":"38/5145","text":"Kurt Stockinger"},{"@pid":"124/8649","text":"Richard Bödi"},{"@pid":"209/5277","text":"Jonas Heitz"},{"@pid":"209/5184","text":"Thomas Weinmann"}]},"title":"ZNS - Efficient query processing with ZurichNoSQL.","venue":"Data Knowl. Eng.","volume":"112","pages":"38-54","year":"2017","type":"Journal Articles","key":"journals/dke/StockingerBHW17","doi":"10.1016/J.DATAK.2017.09.004","ee":"https://doi.org/10.1016/j.datak.2017.09.004","url":"https://dblp.org/rec/journals/dke/StockingerBHW17"},
+"url":"URL#1175756"
+},
+{
+"@score":"1",
+"@id":"1175758",
+"info":{"authors":{"author":[{"@pid":"150/4993","text":"Vasileios Theodorou"},{"@pid":"88/2053","text":"Alberto Abelló"},{"@pid":"48/2949","text":"Maik Thiele"},{"@pid":"l/WLehner","text":"Wolfgang Lehner"}]},"title":"Frequent patterns in ETL workflows - An empirical approach.","venue":"Data Knowl. Eng.","volume":"112","pages":"1-16","year":"2017","type":"Journal Articles","key":"journals/dke/TheodorouATL17","doi":"10.1016/J.DATAK.2017.08.004","ee":"https://doi.org/10.1016/j.datak.2017.08.004","url":"https://dblp.org/rec/journals/dke/TheodorouATL17"},
+"url":"URL#1175758"
+},
+{
+"@score":"1",
+"@id":"1175764",
+"info":{"authors":{"author":[{"@pid":"44/7805","text":"Nansu Zong"},{"@pid":"75/4867","text":"Hong-Gee Kim"},{"@pid":"95/3957","text":"Sejin Nam"}]},"title":"Constructing faceted taxonomy for heterogeneous entities based on object properties in linked data.","venue":"Data Knowl. Eng.","volume":"112","pages":"79-93","year":"2017","type":"Journal Articles","key":"journals/dke/ZongKN17","doi":"10.1016/J.DATAK.2017.09.006","ee":"https://doi.org/10.1016/j.datak.2017.09.006","url":"https://dblp.org/rec/journals/dke/ZongKN17"},
+"url":"URL#1175764"
+}
+]
+}
 }
 }

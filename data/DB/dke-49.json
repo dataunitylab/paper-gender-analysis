@@ -1,23 +1,116 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke49\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke49\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.28"
+"text":"137.19"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"14",
+"@dc":"14",
+"@oc":"14",
+"@id":"17615731",
+"text":":facetid:toc:db/journals/dke/dke49.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"14",
+"@computed":"14",
+"@sent":"14",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"4307508",
+"info":{"authors":{"author":[{"@pid":"78/1728","text":"Vinay Bhat"},{"@pid":"34/3824","text":"Tim Oates"},{"@pid":"08/6973","text":"Vishal Shanbhag"},{"@pid":"n/CharlesKNicholas","text":"Charles K. Nicholas"}]},"title":"Finding aliases on the web using latent semantic analysis.","venue":"Data Knowl. Eng.","volume":"49","number":"2","pages":"129-143","year":"2004","type":"Journal Articles","key":"journals/dke/BhatOSN04","doi":"10.1016/J.DATAK.2003.10.006","ee":"https://doi.org/10.1016/j.datak.2003.10.006","url":"https://dblp.org/rec/journals/dke/BhatOSN04"},
+"url":"URL#4307508"
+},
+{
+"@score":"1",
+"@id":"4307514",
+"info":{"authors":{"author":[{"@pid":"c/LiChen16","text":"Li Chen 0016"},{"@pid":"62/3151-1","text":"Song Wang 0001"},{"@pid":"r/EARundensteiner","text":"Elke A. Rundensteiner"}]},"title":"Replacement strategies for XQuery caching systems.","venue":"Data Knowl. Eng.","volume":"49","number":"2","pages":"145-175","year":"2004","type":"Journal Articles","key":"journals/dke/ChenWR04","doi":"10.1016/J.DATAK.2003.10.002","ee":"https://doi.org/10.1016/j.datak.2003.10.002","url":"https://dblp.org/rec/journals/dke/ChenWR04"},
+"url":"URL#4307514"
+},
+{
+"@score":"1",
+"@id":"4307515",
+"info":{"authors":{"author":[{"@pid":"78/4406","text":"Roger H. L. Chiang"},{"@pid":"l/AHFLaender","text":"Alberto H. F. Laender"},{"@pid":"l/EePengLim","text":"Ee-Peng Lim"}]},"title":"Fourth ACM International Workshop on Web Information and Data Management (WIDM 2002).","venue":"Data Knowl. Eng.","volume":"49","number":"2","pages":"127-128","year":"2004","type":"Journal Articles","key":"journals/dke/ChiangLL04","doi":"10.1016/J.DATAK.2003.10.001","ee":"https://doi.org/10.1016/j.datak.2003.10.001","url":"https://dblp.org/rec/journals/dke/ChiangLL04"},
+"url":"URL#4307515"
+},
+{
+"@score":"1",
+"@id":"4307517",
+"info":{"authors":{"author":[{"@pid":"c/AntonioCorral","text":"Antonio Corral"},{"@pid":"m/YManolopoulos","text":"Yannis Manolopoulos"},{"@pid":"t/YannisTheodoridis","text":"Yannis Theodoridis"},{"@pid":"05/1759","text":"Michael Vassilakopoulos"}]},"title":"Algorithms for processing K-closest-pair queries in spatial databases.","venue":"Data Knowl. Eng.","volume":"49","number":"1","pages":"67-104","year":"2004","type":"Journal Articles","key":"journals/dke/CorralMTV04","doi":"10.1016/J.DATAK.2003.08.007","ee":"https://doi.org/10.1016/j.datak.2003.08.007","url":"https://dblp.org/rec/journals/dke/CorralMTV04"},
+"url":"URL#4307517"
+},
+{
+"@score":"1",
+"@id":"4307522",
+"info":{"authors":{"author":[{"@pid":"g/MatteoGolfarelli","text":"Matteo Golfarelli"},{"@pid":"36/4608","text":"Vittorio Maniezzo"},{"@pid":"75/5487","text":"Stefano Rizzi"}]},"title":"Materialization of fragmented views in multidimensional databases.","venue":"Data Knowl. Eng.","volume":"49","number":"3","pages":"325-351","year":"2004","type":"Journal Articles","key":"journals/dke/GolfarelliMR04","doi":"10.1016/J.DATAK.2003.11.001","ee":"https://doi.org/10.1016/j.datak.2003.11.001","url":"https://dblp.org/rec/journals/dke/GolfarelliMR04"},
+"url":"URL#4307522"
+},
+{
+"@score":"1",
+"@id":"4307524",
+"info":{"authors":{"author":[{"@pid":"14/1746","text":"Tony Griffiths"},{"@pid":"f/AAAFernandes","text":"Alvaro A. A. Fernandes"},{"@pid":"p/NWPaton","text":"Norman W. Paton"},{"@pid":"47/4122","text":"Robert Barr"}]},"title":"The Tripod spatio-historical data model.","venue":"Data Knowl. Eng.","volume":"49","number":"1","pages":"23-65","year":"2004","type":"Journal Articles","key":"journals/dke/GriffithsFPB04","doi":"10.1016/J.DATAK.2003.08.003","ee":"https://doi.org/10.1016/j.datak.2003.08.003","url":"https://dblp.org/rec/journals/dke/GriffithsFPB04"},
+"url":"URL#4307524"
+},
+{
+"@score":"1",
+"@id":"4307528",
+"info":{"authors":{"author":[{"@pid":"k/DimitriosKatsaros","text":"Dimitrios Katsaros 0001"},{"@pid":"m/YManolopoulos","text":"Yannis Manolopoulos"}]},"title":"Broadcast program generation for Webcasting.","venue":"Data Knowl. Eng.","volume":"49","number":"1","pages":"1-21","year":"2004","type":"Journal Articles","key":"journals/dke/KatsarosM04","doi":"10.1016/J.DATAK.2003.07.001","ee":"https://doi.org/10.1016/j.datak.2003.07.001","url":"https://dblp.org/rec/journals/dke/KatsarosM04"},
+"url":"URL#4307528"
+},
+{
+"@score":"1",
+"@id":"4307531",
+"info":{"authors":{"author":[{"@pid":"23/5945","text":"Juliano Palmieri Lage"},{"@pid":"s/ASdaSilva","text":"Altigran Soares da Silva"},{"@pid":"37/450","text":"Paulo Braz Golgher"},{"@pid":"l/AHFLaender","text":"Alberto H. F. Laender"}]},"title":"Automatic generation of agents for collecting hidden Web pages for data extraction.","venue":"Data Knowl. Eng.","volume":"49","number":"2","pages":"177-196","year":"2004","type":"Journal Articles","key":"journals/dke/LageSGL04","doi":"10.1016/J.DATAK.2003.10.003","ee":"https://doi.org/10.1016/j.datak.2003.10.003","url":"https://dblp.org/rec/journals/dke/LageSGL04"},
+"url":"URL#4307531"
+},
+{
+"@score":"1",
+"@id":"4307536",
+"info":{"authors":{"author":[{"@pid":"l/ZehuaLiu","text":"Zehua Liu"},{"@pid":"n/WeeKeongNg","text":"Wee Keong Ng"},{"@pid":"l/EePengLim","text":"Ee-Peng Lim"},{"@pid":"l/FeifeiLi","text":"Feifei Li 0001"}]},"title":"Towards building logical views of websites.","venue":"Data Knowl. Eng.","volume":"49","number":"2","pages":"197-222","year":"2004","type":"Journal Articles","key":"journals/dke/LiuNLL04","doi":"10.1016/J.DATAK.2003.10.004","ee":"https://doi.org/10.1016/j.datak.2003.10.004","url":"https://dblp.org/rec/journals/dke/LiuNLL04"},
+"url":"URL#4307536"
+},
+{
+"@score":"1",
+"@id":"4307540",
+"info":{"authors":{"author":{"@pid":"n/KjetilNorvag","text":"Kjetil Nørvåg"}},"title":"Supporting temporal text-containment queries in temporal document databases.","venue":"Data Knowl. Eng.","volume":"49","number":"1","pages":"105-125","year":"2004","type":"Journal Articles","key":"journals/dke/Norvag04","doi":"10.1016/J.DATAK.2003.08.006","ee":"https://doi.org/10.1016/j.datak.2003.08.006","url":"https://dblp.org/rec/journals/dke/Norvag04"},
+"url":"URL#4307540"
+},
+{
+"@score":"1",
+"@id":"4307545",
+"info":{"authors":{"author":{"@pid":"r/IndrakshiRay","text":"Indrakshi Ray"}},"title":"Real-time update of access control policies.","venue":"Data Knowl. Eng.","volume":"49","number":"3","pages":"287-309","year":"2004","type":"Journal Articles","key":"journals/dke/Ray04","doi":"10.1016/J.DATAK.2003.09.003","ee":"https://doi.org/10.1016/j.datak.2003.09.003","url":"https://dblp.org/rec/journals/dke/Ray04"},
+"url":"URL#4307545"
+},
+{
+"@score":"1",
+"@id":"4307556",
+"info":{"authors":{"author":[{"@pid":"38/6253","text":"Grigorios Tsoumakas"},{"@pid":"16/4783","text":"Lefteris Angelis"},{"@pid":"v/IoannisPVlahavas","text":"Ioannis P. Vlahavas"}]},"title":"Clustering classifiers for knowledge discovery from physically distributed databases.","venue":"Data Knowl. Eng.","volume":"49","number":"3","pages":"223-242","year":"2004","type":"Journal Articles","key":"journals/dke/TsoumakasAV04","doi":"10.1016/J.DATAK.2003.09.002","ee":"https://doi.org/10.1016/j.datak.2003.09.002","url":"https://dblp.org/rec/journals/dke/TsoumakasAV04"},
+"url":"URL#4307556"
+},
+{
+"@score":"1",
+"@id":"4307557",
+"info":{"authors":{"author":[{"@pid":"79/4180","text":"Theodoros Tzouramanis"},{"@pid":"05/1759","text":"Michael Vassilakopoulos"},{"@pid":"m/YManolopoulos","text":"Yannis Manolopoulos"}]},"title":"Benchmarking access methods for time-evolving regional data.","venue":"Data Knowl. Eng.","volume":"49","number":"3","pages":"243-286","year":"2004","type":"Journal Articles","key":"journals/dke/TzouramanisVM04","doi":"10.1016/J.DATAK.2003.08.008","ee":"https://doi.org/10.1016/j.datak.2003.08.008","url":"https://dblp.org/rec/journals/dke/TzouramanisVM04"},
+"url":"URL#4307557"
+},
+{
+"@score":"1",
+"@id":"4307558",
+"info":{"authors":{"author":[{"@pid":"76/796","text":"Shouhong Wang"},{"@pid":"59/3767-8","text":"Hai Wang 0008"}]},"title":"Conceptual construction on incomplete survey data.","venue":"Data Knowl. Eng.","volume":"49","number":"3","pages":"311-323","year":"2004","type":"Journal Articles","key":"journals/dke/WangW04","doi":"10.1016/J.DATAK.2003.10.007","ee":"https://doi.org/10.1016/j.datak.2003.10.007","url":"https://dblp.org/rec/journals/dke/WangW04"},
+"url":"URL#4307558"
+}
+]
+}
 }
 }

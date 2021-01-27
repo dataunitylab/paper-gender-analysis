@@ -1,23 +1,188 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke65\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke65\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.30"
+"text":"145.55"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"26",
+"@dc":"26",
+"@oc":"26",
+"@id":"17615749",
+"text":":facetid:toc:db/journals/dke/dke65.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"26",
+"@computed":"26",
+"@sent":"26",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"3603419",
+"info":{"authors":{"author":[{"@pid":"b/FBonchi","text":"Francesco Bonchi"},{"@pid":"m/BradleyMalin","text":"Bradley A. Malin"},{"@pid":"48/5154","text":"Yücel Saygin"}]},"title":"Recent advances in preserving privacy when mining data.","venue":"Data Knowl. Eng.","volume":"65","number":"1","pages":"1-4","year":"2008","type":"Journal Articles","key":"journals/dke/BonchiMS08","doi":"10.1016/J.DATAK.2007.07.001","ee":"https://doi.org/10.1016/j.datak.2007.07.001","url":"https://dblp.org/rec/journals/dke/BonchiMS08"},
+"url":"URL#3603419"
+},
+{
+"@score":"1",
+"@id":"3603429",
+"info":{"authors":{"author":[{"@pid":"12/1983","text":"Philipp Cimiano"},{"@pid":"h/PeterHaase1","text":"Peter Haase 0001"},{"@pid":"37/2498","text":"Jörg Heizmann"},{"@pid":"80/4418","text":"Matthias Mantel"},{"@pid":"s/RudiStuder","text":"Rudi Studer"}]},"title":"Towards portable natural language interfaces to knowledge bases - The case of the ORAKEL system.","venue":"Data Knowl. Eng.","volume":"65","number":"2","pages":"325-354","year":"2008","type":"Journal Articles","key":"journals/dke/CimianoHHMS08","doi":"10.1016/J.DATAK.2007.10.007","ee":"https://doi.org/10.1016/j.datak.2007.10.007","url":"https://dblp.org/rec/journals/dke/CimianoHHMS08"},
+"url":"URL#3603429"
+},
+{
+"@score":"1",
+"@id":"3603430",
+"info":{"authors":{"author":{"@pid":"32/2991","text":"Kajal T. Claypool"}},"title":"SUSAX - Context-specific searching in XML documents using sequence alignment techniques.","venue":"Data Knowl. Eng.","volume":"65","number":"2","pages":"177-197","year":"2008","type":"Journal Articles","key":"journals/dke/Claypool08","doi":"10.1016/J.DATAK.2007.09.010","ee":"https://doi.org/10.1016/j.datak.2007.09.010","url":"https://dblp.org/rec/journals/dke/Claypool08"},
+"url":"URL#3603430"
+},
+{
+"@score":"1",
+"@id":"3603432",
+"info":{"authors":{"author":[{"@pid":"76/296","text":"Eladio Domínguez"},{"@pid":"92/6861","text":"Jorge Lloret"},{"@pid":"01/3695","text":"Ángel Luis Rubio"},{"@pid":"10/5012","text":"María Antonia Zapata"}]},"title":"MeDEA - A database evolution architecture with traceability.","venue":"Data Knowl. Eng.","volume":"65","number":"3","pages":"419-441","year":"2008","type":"Journal Articles","key":"journals/dke/DominguezLRZ08","doi":"10.1016/J.DATAK.2007.12.001","ee":"https://doi.org/10.1016/j.datak.2007.12.001","url":"https://dblp.org/rec/journals/dke/DominguezLRZ08"},
+"url":"URL#3603432"
+},
+{
+"@score":"1",
+"@id":"3603443",
+"info":{"authors":{"author":[{"@pid":"g/SvenGroppe","text":"Sven Groppe"},{"@pid":"64/388","text":"Jinghua Groppe"},{"@pid":"b/StBottcher","text":"Stefan Böttcher"}]},"title":"Simplifying XPath queries for optimization with regard to the elimination of intersect and except operators.","venue":"Data Knowl. Eng.","volume":"65","number":"2","pages":"198-222","year":"2008","type":"Journal Articles","key":"journals/dke/GroppeGB08","doi":"10.1016/J.DATAK.2007.09.002","ee":"https://doi.org/10.1016/j.datak.2007.09.002","url":"https://dblp.org/rec/journals/dke/GroppeGB08"},
+"url":"URL#3603443"
+},
+{
+"@score":"1",
+"@id":"3603444",
+"info":{"authors":{"author":[{"@pid":"13/158","text":"Michael Peter Haustein"},{"@pid":"h/TheoHarder","text":"Theo Härder"}]},"title":"Optimizing lock protocols for native XML processing.","venue":"Data Knowl. Eng.","volume":"65","number":"1","pages":"147-173","year":"2008","type":"Journal Articles","key":"journals/dke/HausteinH08","doi":"10.1016/J.DATAK.2007.11.001","ee":"https://doi.org/10.1016/j.datak.2007.11.001","url":"https://dblp.org/rec/journals/dke/HausteinH08"},
+"url":"URL#3603444"
+},
+{
+"@score":"1",
+"@id":"3603447",
+"info":{"authors":{"author":[{"@pid":"55/991","text":"Shu-Ming Hsieh"},{"@pid":"30/2819","text":"Chiun-Chieh Hsu"}]},"title":"Graph-based representation for similarity retrieval of symbolic images.","venue":"Data Knowl. Eng.","volume":"65","number":"3","pages":"401-418","year":"2008","type":"Journal Articles","key":"journals/dke/HsiehH08","doi":"10.1016/J.DATAK.2007.12.004","ee":"https://doi.org/10.1016/j.datak.2007.12.004","url":"https://dblp.org/rec/journals/dke/HsiehH08"},
+"url":"URL#3603447"
+},
+{
+"@score":"1",
+"@id":"3603449",
+"info":{"authors":{"author":[{"@pid":"28/1806","text":"Geetha Jagannathan"},{"@pid":"w/RebeccaNWright","text":"Rebecca N. Wright"}]},"title":"Privacy-preserving imputation of missing data.","venue":"Data Knowl. Eng.","volume":"65","number":"1","pages":"40-56","year":"2008","type":"Journal Articles","key":"journals/dke/JagannathanW08","doi":"10.1016/J.DATAK.2007.06.013","ee":"https://doi.org/10.1016/j.datak.2007.06.013","url":"https://dblp.org/rec/journals/dke/JagannathanW08"},
+"url":"URL#3603449"
+},
+{
+"@score":"1",
+"@id":"3603450",
+"info":{"authors":{"author":[{"@pid":"67/933","text":"Kuen-Fang Jea"},{"@pid":"48/163","text":"Ming-Yuan Chang"}]},"title":"Discovering frequent itemsets by support approximation and itemset clustering.","venue":"Data Knowl. Eng.","volume":"65","number":"1","pages":"90-107","year":"2008","type":"Journal Articles","key":"journals/dke/JeaC08","doi":"10.1016/J.DATAK.2007.10.003","ee":"https://doi.org/10.1016/j.datak.2007.10.003","url":"https://dblp.org/rec/journals/dke/JeaC08"},
+"url":"URL#3603450"
+},
+{
+"@score":"1",
+"@id":"3603451",
+"info":{"authors":{"author":[{"@pid":"21/3839","text":"Wei Jiang"},{"@pid":"c/CClifton","text":"Chris Clifton"},{"@pid":"36/195","text":"Murat Kantarcioglu"}]},"title":"Transforming semi-honest protocols to ensure accountability.","venue":"Data Knowl. Eng.","volume":"65","number":"1","pages":"57-74","year":"2008","type":"Journal Articles","key":"journals/dke/JiangCK08","doi":"10.1016/J.DATAK.2007.06.014","ee":"https://doi.org/10.1016/j.datak.2007.06.014","url":"https://dblp.org/rec/journals/dke/JiangCK08"},
+"url":"URL#3603451"
+},
+{
+"@score":"1",
+"@id":"3603460",
+"info":{"authors":{"author":[{"@pid":"97/3472","text":"Wan-Jui Lee"},{"@pid":"13/1365","text":"Jung-Yi Jiang"},{"@pid":"24/1502","text":"Shie-Jue Lee"}]},"title":"Mining fuzzy periodic association rules.","venue":"Data Knowl. Eng.","volume":"65","number":"3","pages":"442-462","year":"2008","type":"Journal Articles","key":"journals/dke/LeeJL08","doi":"10.1016/J.DATAK.2007.11.002","ee":"https://doi.org/10.1016/j.datak.2007.11.002","url":"https://dblp.org/rec/journals/dke/LeeJL08"},
+"url":"URL#3603460"
+},
+{
+"@score":"1",
+"@id":"3603463",
+"info":{"authors":{"author":[{"@pid":"92/250","text":"Tiancheng Li"},{"@pid":"l/NinghuiLi","text":"Ninghui Li"}]},"title":"Towards optimal k-anonymization.","venue":"Data Knowl. Eng.","volume":"65","number":"1","pages":"22-39","year":"2008","type":"Journal Articles","key":"journals/dke/LiL08","doi":"10.1016/J.DATAK.2007.06.015","ee":"https://doi.org/10.1016/j.datak.2007.06.015","url":"https://dblp.org/rec/journals/dke/LiL08"},
+"url":"URL#3603463"
+},
+{
+"@score":"1",
+"@id":"3603467",
+"info":{"authors":{"author":[{"@pid":"33/4528","text":"Li Liu"},{"@pid":"36/195","text":"Murat Kantarcioglu"},{"@pid":"t/BMThuraisingham","text":"Bhavani M. Thuraisingham"}]},"title":"The applicability of the perturbation based privacy preserving data mining for real-world data.","venue":"Data Knowl. Eng.","volume":"65","number":"1","pages":"5-21","year":"2008","type":"Journal Articles","key":"journals/dke/LiuKT08","doi":"10.1016/J.DATAK.2007.06.011","ee":"https://doi.org/10.1016/j.datak.2007.06.011","url":"https://dblp.org/rec/journals/dke/LiuKT08"},
+"url":"URL#3603467"
+},
+{
+"@score":"1",
+"@id":"3603471",
+"info":{"authors":{"author":[{"@pid":"m/SanjayKumarMadria","text":"Sanjay Kumar Madria"},{"@pid":"b/SSBhowmick","text":"Sourav S. Bhowmick"}]},"title":"Schema and web data management.","venue":"Data Knowl. Eng.","volume":"65","number":"2","pages":"175-176","year":"2008","type":"Journal Articles","key":"journals/dke/MadriaB08","doi":"10.1016/J.DATAK.2007.09.001","ee":"https://doi.org/10.1016/j.datak.2007.09.001","url":"https://dblp.org/rec/journals/dke/MadriaB08"},
+"url":"URL#3603471"
+},
+{
+"@score":"1",
+"@id":"3603472",
+"info":{"authors":{"author":[{"@pid":"m/SanjayKumarMadria","text":"Sanjay Kumar Madria"},{"@pid":"46/3527","text":"Kalpdrum Passi"},{"@pid":"b/SSBhowmick","text":"Sourav S. Bhowmick"}]},"title":"An XML Schema integration and query mechanism system.","venue":"Data Knowl. Eng.","volume":"65","number":"2","pages":"266-303","year":"2008","type":"Journal Articles","key":"journals/dke/MadriaPB08","doi":"10.1016/J.DATAK.2007.09.008","ee":"https://doi.org/10.1016/j.datak.2007.09.008","url":"https://dblp.org/rec/journals/dke/MadriaPB08"},
+"url":"URL#3603472"
+},
+{
+"@score":"1",
+"@id":"3603473",
+"info":{"authors":{"author":[{"@pid":"78/6035","text":"Iraj Mahdavi"},{"@pid":"97/2777","text":"Namjae Cho"},{"@pid":"37/5443","text":"Babak Shirazi"},{"@pid":"11/5994","text":"Navid Sahebjamnia"}]},"title":"Designing evolving user profile in e-CRM with dynamic clustering of Web documents.","venue":"Data Knowl. Eng.","volume":"65","number":"2","pages":"355-372","year":"2008","type":"Journal Articles","key":"journals/dke/MahdaviCSS08","doi":"10.1016/J.DATAK.2007.12.003","ee":"https://doi.org/10.1016/j.datak.2007.12.003","url":"https://dblp.org/rec/journals/dke/MahdaviCSS08"},
+"url":"URL#3603473"
+},
+{
+"@score":"1",
+"@id":"3603479",
+"info":{"authors":{"author":[{"@pid":"64/2333","text":"George V. Moustakides"},{"@pid":"94/1028","text":"Vassilios S. Verykios"}]},"title":"A MaxMin approach for hiding frequent itemsets.","venue":"Data Knowl. Eng.","volume":"65","number":"1","pages":"75-89","year":"2008","type":"Journal Articles","key":"journals/dke/MoustakidesV08","doi":"10.1016/J.DATAK.2007.06.012","ee":"https://doi.org/10.1016/j.datak.2007.06.012","url":"https://dblp.org/rec/journals/dke/MoustakidesV08"},
+"url":"URL#3603479"
+},
+{
+"@score":"1",
+"@id":"3603483",
+"info":{"authors":{"author":[{"@pid":"74/4142","text":"Matteo Palmonari"},{"@pid":"62/1600","text":"Gianluigi Viscusi"},{"@pid":"69/1334","text":"Carlo Batini"}]},"title":"A semantic repository approach to improve the government to business relationship.","venue":"Data Knowl. Eng.","volume":"65","number":"3","pages":"485-511","year":"2008","type":"Journal Articles","key":"journals/dke/PalmonariVB08","doi":"10.1016/J.DATAK.2008.01.001","ee":"https://doi.org/10.1016/j.datak.2008.01.001","url":"https://dblp.org/rec/journals/dke/PalmonariVB08"},
+"url":"URL#3603483"
+},
+{
+"@score":"1",
+"@id":"3603485",
+"info":{"authors":{"author":[{"@pid":"66/2028","text":"Sungjune Park"},{"@pid":"01/3703","text":"Nallan C. Suresh"},{"@pid":"69/2991","text":"Bong-Keun Jeong"}]},"title":"Sequence-based clustering for Web usage mining - A new experimental framework and ANN-enhanced K-means algorithm.","venue":"Data Knowl. Eng.","volume":"65","number":"3","pages":"512-543","year":"2008","type":"Journal Articles","key":"journals/dke/ParkSJ08","doi":"10.1016/J.DATAK.2008.01.002","ee":"https://doi.org/10.1016/j.datak.2008.01.002","url":"https://dblp.org/rec/journals/dke/ParkSJ08"},
+"url":"URL#3603485"
+},
+{
+"@score":"1",
+"@id":"3603486",
+"info":{"authors":{"author":[{"@pid":"25/5256","text":"Yuhua Qian"},{"@pid":"04/2363","text":"Chuangyin Dang"},{"@pid":"80/6535","text":"Jiye Liang"},{"@pid":"59/2953","text":"Haiyun Zhang"},{"@pid":"59/18","text":"Jianmin Ma"}]},"title":"On the evaluation of the decision performance of an incomplete decision table.","venue":"Data Knowl. Eng.","volume":"65","number":"3","pages":"373-400","year":"2008","type":"Journal Articles","key":"journals/dke/QianDLZM08","doi":"10.1016/J.DATAK.2007.12.002","ee":"https://doi.org/10.1016/j.datak.2007.12.002","url":"https://dblp.org/rec/journals/dke/QianDLZM08"},
+"url":"URL#3603486"
+},
+{
+"@score":"1",
+"@id":"3603499",
+"info":{"authors":{"author":[{"@pid":"s/RichardTSnodgrass","text":"Richard T. Snodgrass"},{"@pid":"d/CEDyreson","text":"Curtis E. Dyreson"},{"@pid":"83/3958","text":"Faiz Currim"},{"@pid":"22/5067","text":"Sabah Currim"},{"@pid":"68/4652","text":"Shailesh Joshi"}]},"title":"Validating quicksand - Temporal schema versioning in tauXSchema.","venue":"Data Knowl. Eng.","volume":"65","number":"2","pages":"223-242","year":"2008","type":"Journal Articles","key":"journals/dke/SnodgrassDCCJ08","doi":"10.1016/J.DATAK.2007.09.003","ee":"https://doi.org/10.1016/j.datak.2007.09.003","url":"https://dblp.org/rec/journals/dke/SnodgrassDCCJ08"},
+"url":"URL#3603499"
+},
+{
+"@score":"1",
+"@id":"3603500",
+"info":{"authors":{"author":[{"@pid":"s/StefanoSpaccapietra","text":"Stefano Spaccapietra"},{"@pid":"94/6041","text":"Christine Parent"},{"@pid":"d/MariaLuisaDamiani","text":"Maria Luisa Damiani"},{"@pid":"f/JAFernandesdeMacedo","text":"José Antônio Fernandes de Macêdo"},{"@pid":"p/FabioPorto","text":"Fábio Porto"},{"@pid":"v/ChristelleVangenot","text":"Christelle Vangenot"}]},"title":"A conceptual view on trajectories.","venue":"Data Knowl. Eng.","volume":"65","number":"1","pages":"126-146","year":"2008","type":"Journal Articles","key":"journals/dke/SpaccapietraPDMPV08","doi":"10.1016/J.DATAK.2007.10.008","ee":"https://doi.org/10.1016/j.datak.2007.10.008","url":"https://dblp.org/rec/journals/dke/SpaccapietraPDMPV08"},
+"url":"URL#3603500"
+},
+{
+"@score":"1",
+"@id":"3603505",
+"info":{"authors":{"author":[{"@pid":"14/1709","text":"En Tzu Wang"},{"@pid":"22/5355","text":"Guanling Lee"}]},"title":"An efficient sanitization algorithm for balancing information privacy and knowledge discovery in association patterns mining.","venue":"Data Knowl. Eng.","volume":"65","number":"3","pages":"463-484","year":"2008","type":"Journal Articles","key":"journals/dke/WangL08","doi":"10.1016/J.DATAK.2007.12.005","ee":"https://doi.org/10.1016/j.datak.2007.12.005","url":"https://dblp.org/rec/journals/dke/WangL08"},
+"url":"URL#3603505"
+},
+{
+"@score":"1",
+"@id":"3603506",
+"info":{"authors":{"author":[{"@pid":"69/3405-1","text":"Fusheng Wang 0001"},{"@pid":"z/CZaniolo","text":"Carlo Zaniolo"}]},"title":"Temporal queries and version management in XML-based document archives.","venue":"Data Knowl. Eng.","volume":"65","number":"2","pages":"304-324","year":"2008","type":"Journal Articles","key":"journals/dke/WangZ08","doi":"10.1016/J.DATAK.2007.08.002","ee":"https://doi.org/10.1016/j.datak.2007.08.002","url":"https://dblp.org/rec/journals/dke/WangZ08"},
+"url":"URL#3603506"
+},
+{
+"@score":"1",
+"@id":"3603508",
+"info":{"authors":{"author":[{"@pid":"31/5099","text":"Mingzhu Wei"},{"@pid":"r/EARundensteiner","text":"Elke A. Rundensteiner"},{"@pid":"m/MuraliMani","text":"Murali Mani"},{"@pid":"l/MingLi8","text":"Ming Li 0008"}]},"title":"Processing recursive XQuery over XML streams - The Raindrop approach.","venue":"Data Knowl. Eng.","volume":"65","number":"2","pages":"243-265","year":"2008","type":"Journal Articles","key":"journals/dke/WeiRML08","doi":"10.1016/J.DATAK.2007.09.007","ee":"https://doi.org/10.1016/j.datak.2007.09.007","url":"https://dblp.org/rec/journals/dke/WeiRML08"},
+"url":"URL#3603508"
+},
+{
+"@score":"1",
+"@id":"3603510",
+"info":{"authors":{"author":[{"@pid":"62/473","text":"Hua Yan"},{"@pid":"g/WilliamIGrosky","text":"William I. Grosky"},{"@pid":"f/FarshadFotouhi","text":"Farshad Fotouhi"}]},"title":"Augmenting the power of LSI in text retrieval - Singular value rescaling.","venue":"Data Knowl. Eng.","volume":"65","number":"1","pages":"108-125","year":"2008","type":"Journal Articles","key":"journals/dke/YanGF08","doi":"10.1016/J.DATAK.2007.10.005","ee":"https://doi.org/10.1016/j.datak.2007.10.005","url":"https://dblp.org/rec/journals/dke/YanGF08"},
+"url":"URL#3603510"
+}
+]
+}
 }
 }

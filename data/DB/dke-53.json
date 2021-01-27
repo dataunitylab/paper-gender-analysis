@@ -1,23 +1,110 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke53\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke53\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.30"
+"text":"132.57"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"13",
+"@dc":"13",
+"@oc":"13",
+"@id":"17615736",
+"text":":facetid:toc:db/journals/dke/dke53.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"13",
+"@computed":"13",
+"@sent":"13",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"4155706",
+"info":{"authors":{"author":[{"@pid":"a/WilMPvanderAalst","text":"Wil M. P. van der Aalst"},{"@pid":"w/MathiasWeske","text":"Mathias Weske"},{"@pid":"26/2649","text":"Dolf Grünbauer"}]},"title":"Case handling - a new paradigm for business process support.","venue":"Data Knowl. Eng.","volume":"53","number":"2","pages":"129-162","year":"2005","type":"Journal Articles","key":"journals/dke/AalstWG05","doi":"10.1016/J.DATAK.2004.07.003","ee":"https://doi.org/10.1016/j.datak.2004.07.003","url":"https://dblp.org/rec/journals/dke/AalstWG05"},
+"url":"URL#4155706"
+},
+{
+"@score":"1",
+"@id":"4155710",
+"info":{"authors":{"author":[{"@pid":"a/FabrizioAngiulli","text":"Fabrizio Angiulli"},{"@pid":"p/ClaraPizzuti","text":"Clara Pizzuti"}]},"title":"An approximate algorithm for top-k closest pairs join query in large high dimensional data.","venue":"Data Knowl. Eng.","volume":"53","number":"3","pages":"263-281","year":"2005","type":"Journal Articles","key":"journals/dke/AngiulliP05","doi":"10.1016/J.DATAK.2004.08.003","ee":"https://doi.org/10.1016/j.datak.2004.08.003","url":"https://dblp.org/rec/journals/dke/AngiulliP05"},
+"url":"URL#4155710"
+},
+{
+"@score":"1",
+"@id":"4155712",
+"info":{"authors":{"author":[{"@pid":"b/SSBhowmick","text":"Sourav S. Bhowmick"},{"@pid":"j/HasanMJamil","text":"Hasan M. Jamil"}]},"title":"Biological Data Management (BIDM 2003).","venue":"Data Knowl. Eng.","volume":"53","number":"1","pages":"1-2","year":"2005","type":"Journal Articles","key":"journals/dke/BhowmickJ05","doi":"10.1016/J.DATAK.2004.06.010","ee":"https://doi.org/10.1016/j.datak.2004.06.010","url":"https://dblp.org/rec/journals/dke/BhowmickJ05"},
+"url":"URL#4155712"
+},
+{
+"@score":"1",
+"@id":"4155716",
+"info":{"authors":{"author":[{"@pid":"c/MariaClaudiaReisCavalcanti","text":"Maria Cláudia Cavalcanti"},{"@pid":"78/2486","text":"Rafael Targino"},{"@pid":"b/FAraujoBaiao","text":"Fernanda Araujo Baião"},{"@pid":"27/1981","text":"Shaila C. Rössle"},{"@pid":"20/3486","text":"Paulo Mascarello Bisch"},{"@pid":"69/1904","text":"Paulo F. Pires"},{"@pid":"78/4279","text":"Maria Luiza Machado Campos"},{"@pid":"m/MartaLQueirosMattoso","text":"Marta Mattoso"}]},"title":"Managing structural genomic workflows using Web services.","venue":"Data Knowl. Eng.","volume":"53","number":"1","pages":"45-74","year":"2005","type":"Journal Articles","key":"journals/dke/CavalcantiTBRBPCM05","doi":"10.1016/J.DATAK.2004.06.013","ee":"https://doi.org/10.1016/j.datak.2004.06.013","url":"https://dblp.org/rec/journals/dke/CavalcantiTBRBPCM05"},
+"url":"URL#4155716"
+},
+{
+"@score":"1",
+"@id":"4155717",
+"info":{"authors":{"author":[{"@pid":"84/3307","text":"Chia-Hui Chang"},{"@pid":"03/4339","text":"Zhi-Kai Ding"}]},"title":"Categorical data visualization and clustering using subjective factors.","venue":"Data Knowl. Eng.","volume":"53","number":"3","pages":"243-262","year":"2005","type":"Journal Articles","key":"journals/dke/ChangD05","doi":"10.1016/J.DATAK.2004.09.001","ee":"https://doi.org/10.1016/j.datak.2004.09.001","url":"https://dblp.org/rec/journals/dke/ChangD05"},
+"url":"URL#4155717"
+},
+{
+"@score":"1",
+"@id":"4155718",
+"info":{"authors":{"author":[{"@pid":"78/4406","text":"Roger H. L. Chiang"},{"@pid":"c/CecilChuaEngHuang","text":"Cecil Chua Eng Huang"},{"@pid":"l/EePengLim","text":"Ee-Peng Lim"}]},"title":"Linear correlation discovery in databases - a data mining approach.","venue":"Data Knowl. Eng.","volume":"53","number":"3","pages":"311-337","year":"2005","type":"Journal Articles","key":"journals/dke/ChiangCL05","doi":"10.1016/J.DATAK.2004.09.002","ee":"https://doi.org/10.1016/j.datak.2004.09.002","url":"https://dblp.org/rec/journals/dke/ChiangCL05"},
+"url":"URL#4155718"
+},
+{
+"@score":"1",
+"@id":"4155729",
+"info":{"authors":{"author":[{"@pid":"f/FedericoMicheleFacca","text":"Federico Michele Facca"},{"@pid":"l/PierLucaLanzi","text":"Pier Luca Lanzi"}]},"title":"Mining interesting knowledge from weblogs - a survey.","venue":"Data Knowl. Eng.","volume":"53","number":"3","pages":"225-241","year":"2005","type":"Journal Articles","key":"journals/dke/FaccaL05","doi":"10.1016/J.DATAK.2004.08.001","ee":"https://doi.org/10.1016/j.datak.2004.08.001","url":"https://dblp.org/rec/journals/dke/FaccaL05"},
+"url":"URL#4155729"
+},
+{
+"@score":"1",
+"@id":"4155730",
+"info":{"authors":{"author":[{"@pid":"09/1312","text":"William G. Farmerie"},{"@pid":"h/JoachimHammer","text":"Joachim Hammer"},{"@pid":"33/4528-35","text":"Li Liu 0035"},{"@pid":"50/862","text":"Anuj Sahni"},{"@pid":"s/MarkusSchneider1","text":"Markus Schneider 0001"}]},"title":"Biological workflow with BlastQuest.","venue":"Data Knowl. Eng.","volume":"53","number":"1","pages":"75-97","year":"2005","type":"Journal Articles","key":"journals/dke/FarmerieHLSS05","doi":"10.1016/J.DATAK.2004.06.014","ee":"https://doi.org/10.1016/j.datak.2004.06.014","url":"https://dblp.org/rec/journals/dke/FarmerieHLSS05"},
+"url":"URL#4155730"
+},
+{
+"@score":"1",
+"@id":"4155731",
+"info":{"authors":{"author":[{"@pid":"80/1912","text":"Carles Farré"},{"@pid":"t/ErnestTeniente","text":"Ernest Teniente"},{"@pid":"35/1865","text":"Toni Urpí"}]},"title":"Checking query containment with the CQC method.","venue":"Data Knowl. Eng.","volume":"53","number":"2","pages":"163-223","year":"2005","type":"Journal Articles","key":"journals/dke/FarreTU05","doi":"10.1016/J.DATAK.2004.08.002","ee":"https://doi.org/10.1016/j.datak.2004.08.002","url":"https://dblp.org/rec/journals/dke/FarreTU05"},
+"url":"URL#4155731"
+},
+{
+"@score":"1",
+"@id":"4155733",
+"info":{"authors":{"author":[{"@pid":"37/2418","text":"Renata de Matos Galante"},{"@pid":"s/CSdSantos","text":"Clesio Saraiva dos Santos"},{"@pid":"e/NinaEdelweiss","text":"Nina Edelweiss"},{"@pid":"50/3403","text":"Álvaro Freitas Moreira"}]},"title":"Temporal and versioning model for schema evolution in object-oriented databases.","venue":"Data Knowl. Eng.","volume":"53","number":"2","pages":"99-128","year":"2005","type":"Journal Articles","key":"journals/dke/GalanteSEM05","doi":"10.1016/J.DATAK.2004.07.001","ee":"https://doi.org/10.1016/j.datak.2004.07.001","url":"https://dblp.org/rec/journals/dke/GalanteSEM05"},
+"url":"URL#4155733"
+},
+{
+"@score":"1",
+"@id":"4155740",
+"info":{"authors":{"author":[{"@pid":"31/6512","text":"Xiang-Rong Jiang"},{"@pid":"g/LeGruenwald","text":"Le Gruenwald"}]},"title":"Microarray gene expression data association rules mining based on BSC-tree and FIS-tree.","venue":"Data Knowl. Eng.","volume":"53","number":"1","pages":"3-29","year":"2005","type":"Journal Articles","key":"journals/dke/JiangG05","doi":"10.1016/J.DATAK.2004.06.011","ee":"https://doi.org/10.1016/j.datak.2004.06.011","url":"https://dblp.org/rec/journals/dke/JiangG05"},
+"url":"URL#4155740"
+},
+{
+"@score":"1",
+"@id":"4155749",
+"info":{"authors":{"author":[{"@pid":"73/4466","text":"Saumil Mehta"},{"@pid":"93/6637","text":"Deendayal Dinakarpandian"}]},"title":"ConsDiff - an algorithm for the detection of conserved differences between protein sequences.","venue":"Data Knowl. Eng.","volume":"53","number":"1","pages":"31-43","year":"2005","type":"Journal Articles","key":"journals/dke/MehtaD05","doi":"10.1016/J.DATAK.2004.06.012","ee":"https://doi.org/10.1016/j.datak.2004.06.012","url":"https://dblp.org/rec/journals/dke/MehtaD05"},
+"url":"URL#4155749"
+},
+{
+"@score":"1",
+"@id":"4155766",
+"info":{"authors":{"author":[{"@pid":"z/YongluanZhou","text":"Yongluan Zhou"},{"@pid":"o/BengChinOoi","text":"Beng Chin Ooi"},{"@pid":"t/KianLeeTan","text":"Kian-Lee Tan"},{"@pid":"t/WHTok","text":"Wee Hyong Tok"}]},"title":"An adaptable distributed query processing architecture.","venue":"Data Knowl. Eng.","volume":"53","number":"3","pages":"283-309","year":"2005","type":"Journal Articles","key":"journals/dke/ZhouOTT05","doi":"10.1016/J.DATAK.2004.08.004","ee":"https://doi.org/10.1016/j.datak.2004.08.004","url":"https://dblp.org/rec/journals/dke/ZhouOTT05"},
+"url":"URL#4155766"
+}
+]
+}
 }
 }

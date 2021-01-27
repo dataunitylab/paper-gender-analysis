@@ -1,23 +1,80 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke111\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke111\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.46"
+"text":"101.95"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"8",
+"@dc":"8",
+"@oc":"8",
+"@id":"17615671",
+"text":":facetid:toc:db/journals/dke/dke111.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"8",
+"@computed":"8",
+"@sent":"8",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"1175734",
+"info":{"authors":{"author":[{"@pid":"152/2543","text":"Mahfoud Bala"},{"@pid":"63/3490","text":"Omar Boussaid"},{"@pid":"44/1185","text":"Zaia Alimazighi"}]},"title":"A Fine‐Grained Distribution Approach for ETL Processes in Big Data Environments.","venue":"Data Knowl. Eng.","volume":"111","pages":"114-136","year":"2017","type":"Journal Articles","key":"journals/dke/BalaBA17","doi":"10.1016/J.DATAK.2017.08.003","ee":"https://doi.org/10.1016/j.datak.2017.08.003","url":"https://dblp.org/rec/journals/dke/BalaBA17"},
+"url":"URL#1175734"
+},
+{
+"@score":"1",
+"@id":"1175744",
+"info":{"authors":{"author":[{"@pid":"195/5494","text":"Atikur R. Khan"},{"@pid":"65/5803","text":"Christine M. O&apos;Keefe"}]},"title":"Disclosure risk reduction for generalized linear model output in a remote analysis system.","venue":"Data Knowl. Eng.","volume":"111","pages":"90-102","year":"2017","type":"Journal Articles","key":"journals/dke/KhanO17","doi":"10.1016/J.DATAK.2017.07.009","ee":"https://doi.org/10.1016/j.datak.2017.07.009","url":"https://dblp.org/rec/journals/dke/KhanO17"},
+"url":"URL#1175744"
+},
+{
+"@score":"1",
+"@id":"1175745",
+"info":{"authors":{"author":[{"@pid":"117/9270","text":"In-Joong Kim"},{"@pid":"w/KyuYoungWhang","text":"Kyu-Young Whang"},{"@pid":"117/9378","text":"Hyuk-Yoon Kwon"}]},"title":"Maximal object+ - An acyclic semantic structure on the universal relation model.","venue":"Data Knowl. Eng.","volume":"111","pages":"39-57","year":"2017","type":"Journal Articles","key":"journals/dke/KimWK17","doi":"10.1016/J.DATAK.2017.06.004","ee":"https://doi.org/10.1016/j.datak.2017.06.004","url":"https://dblp.org/rec/journals/dke/KimWK17"},
+"url":"URL#1175745"
+},
+{
+"@score":"1",
+"@id":"1175746",
+"info":{"authors":{"author":[{"@pid":"25/8214","text":"Henrik Leopold"},{"@pid":"125/0326","text":"Fabian Pittke"},{"@pid":"m/JanMendling","text":"Jan Mendling"}]},"title":"Ensuring the canonicity of process models.","venue":"Data Knowl. Eng.","volume":"111","pages":"22-38","year":"2017","type":"Journal Articles","key":"journals/dke/LeopoldPM17","doi":"10.1016/J.DATAK.2017.03.010","ee":"https://doi.org/10.1016/j.datak.2017.03.010","url":"https://dblp.org/rec/journals/dke/LeopoldPM17"},
+"url":"URL#1175746"
+},
+{
+"@score":"1",
+"@id":"1175747",
+"info":{"authors":{"author":[{"@pid":"146/0459","text":"Marwa Manaa"},{"@pid":"54/4115","text":"Jalel Akaichi"}]},"title":"Ontology-based modeling and querying of trajectory data.","venue":"Data Knowl. Eng.","volume":"111","pages":"58-72","year":"2017","type":"Journal Articles","key":"journals/dke/ManaaA17","doi":"10.1016/J.DATAK.2017.06.005","ee":"https://doi.org/10.1016/j.datak.2017.06.005","url":"https://dblp.org/rec/journals/dke/ManaaA17"},
+"url":"URL#1175747"
+},
+{
+"@score":"1",
+"@id":"1175759",
+"info":{"authors":{"author":[{"@pid":"142/3011","text":"Ugur Turan"},{"@pid":"t/IJToroslu","text":"Ismail Hakki Toroslu"},{"@pid":"36/195","text":"Murat Kantarcioglu"}]},"title":"Secure logical schema and decomposition algorithm for proactive context dependent attribute based inference control.","venue":"Data Knowl. Eng.","volume":"111","pages":"1-21","year":"2017","type":"Journal Articles","key":"journals/dke/TuranTK17","doi":"10.1016/J.DATAK.2017.02.002","ee":"https://doi.org/10.1016/j.datak.2017.02.002","url":"https://dblp.org/rec/journals/dke/TuranTK17"},
+"url":"URL#1175759"
+},
+{
+"@score":"1",
+"@id":"1175760",
+"info":{"authors":{"author":[{"@pid":"175/5921","text":"Sirisha Velampalli"},{"@pid":"207/0721","text":"Murthy V. Jonnalagedda"}]},"title":"Graph based knowledge discovery using MapReduce and SUBDUE algorithm.","venue":"Data Knowl. Eng.","volume":"111","pages":"103-113","year":"2017","type":"Journal Articles","key":"journals/dke/VelampalliJ17","doi":"10.1016/J.DATAK.2017.08.001","ee":"https://doi.org/10.1016/j.datak.2017.08.001","url":"https://dblp.org/rec/journals/dke/VelampalliJ17"},
+"url":"URL#1175760"
+},
+{
+"@score":"1",
+"@id":"1175763",
+"info":{"authors":{"author":[{"@pid":"129/7222","text":"Yongjun Zhu"},{"@pid":"47/7380","text":"Erjia Yan"},{"@pid":"s/IlYeolSong","text":"Il-Yeol Song"}]},"title":"A natural language interface to a graph-based bibliographic information retrieval system.","venue":"Data Knowl. Eng.","volume":"111","pages":"73-89","year":"2017","type":"Journal Articles","key":"journals/dke/ZhuYS17","doi":"10.1016/J.DATAK.2017.06.006","ee":"https://doi.org/10.1016/j.datak.2017.06.006","url":"https://dblp.org/rec/journals/dke/ZhuYS17"},
+"url":"URL#1175763"
+}
+]
+}
 }
 }

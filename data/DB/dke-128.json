@@ -1,23 +1,68 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke128\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke128\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.44"
+"text":"99.09"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"6",
+"@dc":"6",
+"@oc":"6",
+"@id":"17615689",
+"text":":facetid:toc:db/journals/dke/dke128.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"6",
+"@computed":"6",
+"@sent":"6",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"64372",
+"info":{"authors":{"author":[{"@pid":"272/4087","text":"Z. K. A. Baizal"},{"@pid":"54/2403","text":"Dwi H. Widyantoro"},{"@pid":"25/10160","text":"Nur Ulfa Maulidevi"}]},"title":"Computational model for generating interactions in conversational recommender system based on product functional requirements.","venue":"Data Knowl. Eng.","volume":"128","pages":"101813","year":"2020","type":"Journal Articles","key":"journals/dke/BaizalWM20","doi":"10.1016/J.DATAK.2020.101813","ee":"https://doi.org/10.1016/j.datak.2020.101813","url":"https://dblp.org/rec/journals/dke/BaizalWM20"},
+"url":"URL#64372"
+},
+{
+"@score":"1",
+"@id":"64374",
+"info":{"authors":{"author":[{"@pid":"87/3974","text":"Sandro Bimonte"},{"@pid":"136/1490","text":"Libo Ren"},{"@pid":"162/3575","text":"Nestor Koueya"}]},"title":"A linear programming-based framework for handling missing data in multi-granular data warehouses.","venue":"Data Knowl. Eng.","volume":"128","pages":"101832","year":"2020","type":"Journal Articles","key":"journals/dke/BimonteRK20","doi":"10.1016/J.DATAK.2020.101832","ee":"https://doi.org/10.1016/j.datak.2020.101832","url":"https://dblp.org/rec/journals/dke/BimonteRK20"},
+"url":"URL#64374"
+},
+{
+"@score":"1",
+"@id":"64375",
+"info":{"authors":{"author":[{"@pid":"226/9449","text":"Gregory Borodin"},{"@pid":"k/YaronKanza","text":"Yaron Kanza"}]},"title":"Search-by-example over SQL repositories using structural and intent-driven similarity.","venue":"Data Knowl. Eng.","volume":"128","pages":"101811","year":"2020","type":"Journal Articles","key":"journals/dke/BorodinK20","doi":"10.1016/J.DATAK.2020.101811","ee":"https://doi.org/10.1016/j.datak.2020.101811","url":"https://dblp.org/rec/journals/dke/BorodinK20"},
+"url":"URL#64375"
+},
+{
+"@score":"1",
+"@id":"64376",
+"info":{"authors":{"author":[{"@pid":"50/8851","text":"Paulius Danenas"},{"@pid":"29/1950","text":"Tomas Skersys"},{"@pid":"25/250","text":"Rimantas Butleris"}]},"title":"Natural language processing-enhanced extraction of SBVR business vocabularies and business rules from UML use case diagrams.","venue":"Data Knowl. Eng.","volume":"128","pages":"101822","year":"2020","type":"Journal Articles","key":"journals/dke/DanenasSB20","doi":"10.1016/J.DATAK.2020.101822","ee":"https://doi.org/10.1016/j.datak.2020.101822","url":"https://dblp.org/rec/journals/dke/DanenasSB20"},
+"url":"URL#64376"
+},
+{
+"@score":"1",
+"@id":"64382",
+"info":{"authors":{"author":[{"@pid":"132/4902","text":"Tahrima Hashem"},{"@pid":"08/10247","text":"Lida Rashidi"},{"@pid":"57/1331","text":"Lars Kulik"},{"@pid":"b/JamesBailey","text":"James Bailey 0001"}]},"title":"PRESS - A personalised approach for mining top-k groups of objects with subspace similarity.","venue":"Data Knowl. Eng.","volume":"128","pages":"101833","year":"2020","type":"Journal Articles","key":"journals/dke/HashemRKB20","doi":"10.1016/J.DATAK.2020.101833","ee":"https://doi.org/10.1016/j.datak.2020.101833","url":"https://dblp.org/rec/journals/dke/HashemRKB20"},
+"url":"URL#64382"
+},
+{
+"@score":"1",
+"@id":"64399",
+"info":{"authors":{"author":[{"@pid":"89/7958","text":"Dinusha Vatsalan"},{"@pid":"c/PeterChristen","text":"Peter Christen"},{"@pid":"r/ERahm","text":"Erhard Rahm"}]},"title":"Incremental clustering techniques for multi-party Privacy-Preserving Record Linkage.","venue":"Data Knowl. Eng.","volume":"128","pages":"101809","year":"2020","type":"Journal Articles","key":"journals/dke/VatsalanCR20","doi":"10.1016/J.DATAK.2020.101809","ee":"https://doi.org/10.1016/j.datak.2020.101809","url":"https://dblp.org/rec/journals/dke/VatsalanCR20"},
+"url":"URL#64399"
+}
+]
+}
 }
 }

@@ -1,23 +1,122 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke39\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke39\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.35"
+"text":"97.84"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"15",
+"@dc":"15",
+"@oc":"15",
+"@id":"17615720",
+"text":":facetid:toc:db/journals/dke/dke39.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"15",
+"@computed":"15",
+"@sent":"15",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"4636541",
+"info":{"authors":{"author":[{"@pid":"b/SSBhowmick","text":"Sourav S. Bhowmick"},{"@pid":"n/WeeKeongNg","text":"Wee Keong Ng"},{"@pid":"m/SanjayKumarMadria","text":"Sanjay Kumar Madria"}]},"title":"Schemas for web data - a reverse engineering approach.","venue":"Data Knowl. Eng.","volume":"39","number":"2","pages":"105-142","year":"2001","type":"Journal Articles","key":"journals/dke/BhowmickNM01","doi":"10.1016/S0169-023X(01)00036-2","ee":"https://doi.org/10.1016/S0169-023X(01)00036-2","url":"https://dblp.org/rec/journals/dke/BhowmickNM01"},
+"url":"URL#4636541"
+},
+{
+"@score":"1",
+"@id":"4636543",
+"info":{"authors":{"author":[{"@pid":"b/FBonchi","text":"Francesco Bonchi"},{"@pid":"g/FoscaGiannotti","text":"Fosca Giannotti"},{"@pid":"87/1176","text":"Cristian Gozzi"},{"@pid":"m/GiuseppeManco-1","text":"Giuseppe Manco 0001"},{"@pid":"60/6693","text":"Mirco Nanni"},{"@pid":"p/DPedreschi","text":"Dino Pedreschi"},{"@pid":"84/4085","text":"Chiara Renso"},{"@pid":"86/3031","text":"Salvatore Ruggieri"}]},"title":"Web log data warehousing and mining for intelligent web caching.","venue":"Data Knowl. Eng.","volume":"39","number":"2","pages":"165-189","year":"2001","type":"Journal Articles","key":"journals/dke/BonchiGGMNPRR01","doi":"10.1016/S0169-023X(01)00038-6","ee":"https://doi.org/10.1016/S0169-023X(01)00038-6","url":"https://dblp.org/rec/journals/dke/BonchiGGMNPRR01"},
+"url":"URL#4636543"
+},
+{
+"@score":"1",
+"@id":"4636548",
+"info":{"authors":{"author":[{"@pid":"32/2991","text":"Kajal T. Claypool"},{"@pid":"r/EARundensteiner","text":"Elke A. Rundensteiner"},{"@pid":"41/5390","text":"George T. Heineman"}]},"title":"ROVER - flexible yet consistent evolution of relationships.","venue":"Data Knowl. Eng.","volume":"39","number":"1","pages":"27-50","year":"2001","type":"Journal Articles","key":"journals/dke/ClaypoolRH01","doi":"10.1016/S0169-023X(01)00029-5","ee":"https://doi.org/10.1016/S0169-023X(01)00029-5","url":"https://dblp.org/rec/journals/dke/ClaypoolRH01"},
+"url":"URL#4636548"
+},
+{
+"@score":"1",
+"@id":"4636559",
+"info":{"authors":{"author":{"@pid":"h/SvenHartmann","text":"Sven Hartmann"}},"title":"Decomposing relationship types by pivoting and schema equivalence.","venue":"Data Knowl. Eng.","volume":"39","number":"1","pages":"75-99","year":"2001","type":"Journal Articles","key":"journals/dke/Hartmann01","doi":"10.1016/S0169-023X(01)00031-3","ee":"https://doi.org/10.1016/S0169-023X(01)00031-3","url":"https://dblp.org/rec/journals/dke/Hartmann01"},
+"url":"URL#4636559"
+},
+{
+"@score":"1",
+"@id":"4636560",
+"info":{"authors":{"author":[{"@pid":"71/4216","text":"Moon Jeung Joe"},{"@pid":"w/KyuYoungWhang","text":"Kyu-Young Whang"},{"@pid":"64/5810","text":"Sang-Wook Kim"}]},"title":"Wavelet transformation-based management of integrated summary data for distributed query processing.","venue":"Data Knowl. Eng.","volume":"39","number":"3","pages":"293-312","year":"2001","type":"Journal Articles","key":"journals/dke/JoeWK01","doi":"10.1016/S0169-023X(01)00044-1","ee":"https://doi.org/10.1016/S0169-023X(01)00044-1","url":"https://dblp.org/rec/journals/dke/JoeWK01"},
+"url":"URL#4636560"
+},
+{
+"@score":"1",
+"@id":"4636564",
+"info":{"authors":{"author":[{"@pid":"l/AHFLaender","text":"Alberto H. F. Laender"},{"@pid":"41/1781","text":"Veda C. Storey"}]},"title":"19th International Conference on Conceptual Modeling (ER2000).","venue":"Data Knowl. Eng.","volume":"39","number":"1","pages":"1-2","year":"2001","type":"Journal Articles","key":"journals/dke/LaenderS01","doi":"10.1016/S0169-023X(01)00027-1","ee":"https://doi.org/10.1016/S0169-023X(01)00027-1","url":"https://dblp.org/rec/journals/dke/LaenderS01"},
+"url":"URL#4636564"
+},
+{
+"@score":"1",
+"@id":"4636565",
+"info":{"authors":{"author":[{"@pid":"l/DongwonLee","text":"Dongwon Lee 0001"},{"@pid":"c/WesleyWChu","text":"Wesley W. Chu"}]},"title":"CPI - Constraints-Preserving Inlining algorithm for mapping XML DTD to relational schema.","venue":"Data Knowl. Eng.","volume":"39","number":"1","pages":"3-25","year":"2001","type":"Journal Articles","key":"journals/dke/LeeC01","doi":"10.1016/S0169-023X(01)00028-3","ee":"https://doi.org/10.1016/S0169-023X(01)00028-3","url":"https://dblp.org/rec/journals/dke/LeeC01"},
+"url":"URL#4636565"
+},
+{
+"@score":"1",
+"@id":"4636568",
+"info":{"authors":{"author":{"@pid":"m/SanjayKumarMadria","text":"Sanjay Kumar Madria"}},"title":"Guest Editorial - Data Warehousing.","venue":"Data Knowl. Eng.","volume":"39","number":"3","pages":"215-217","year":"2001","type":"Journal Articles","key":"journals/dke/Madria01","doi":"10.1016/S0169-023X(01)00040-4","ee":"https://doi.org/10.1016/S0169-023X(01)00040-4","url":"https://dblp.org/rec/journals/dke/Madria01"},
+"url":"URL#4636568"
+},
+{
+"@score":"1",
+"@id":"4636573",
+"info":{"authors":{"author":{"@pid":"85/6670","text":"Mukesh K. Mohania"}},"title":"Building web warehouse for semi-structured data.","venue":"Data Knowl. Eng.","volume":"39","number":"2","pages":"101-103","year":"2001","type":"Journal Articles","key":"journals/dke/Mohania01","doi":"10.1016/S0169-023X(01)00035-0","ee":"https://doi.org/10.1016/S0169-023X(01)00035-0","url":"https://dblp.org/rec/journals/dke/Mohania01"},
+"url":"URL#4636573"
+},
+{
+"@score":"1",
+"@id":"4636585",
+"info":{"authors":{"author":[{"@pid":"14/4461","text":"Thomas Thalhammer"},{"@pid":"s/MichaelSchrefl","text":"Michael Schrefl"},{"@pid":"85/6670","text":"Mukesh K. Mohania"}]},"title":"Active data warehouses - complementing OLAP with analysis rules.","venue":"Data Knowl. Eng.","volume":"39","number":"3","pages":"241-269","year":"2001","type":"Journal Articles","key":"journals/dke/ThalhammerSM01","doi":"10.1016/S0169-023X(01)00042-8","ee":"https://doi.org/10.1016/S0169-023X(01)00042-8","url":"https://dblp.org/rec/journals/dke/ThalhammerSM01"},
+"url":"URL#4636585"
+},
+{
+"@score":"1",
+"@id":"4636586",
+"info":{"authors":{"author":[{"@pid":"t/DimitriTheodoratos","text":"Dimitri Theodoratos"},{"@pid":"57/3008","text":"Spyros Ligoudistianos"},{"@pid":"s/TimosKSellis","text":"Timos K. Sellis"}]},"title":"View selection for designing the global data warehouse.","venue":"Data Knowl. Eng.","volume":"39","number":"3","pages":"219-240","year":"2001","type":"Journal Articles","key":"journals/dke/TheodoratosLS01","doi":"10.1016/S0169-023X(01)00041-6","ee":"https://doi.org/10.1016/S0169-023X(01)00041-6","url":"https://dblp.org/rec/journals/dke/TheodoratosLS01"},
+"url":"URL#4636586"
+},
+{
+"@score":"1",
+"@id":"4636588",
+"info":{"authors":{"author":[{"@pid":"w/CAWelty","text":"Christopher A. Welty"},{"@pid":"65/6778","text":"Nicola Guarino"}]},"title":"Supporting ontological analysis of taxonomic relationships.","venue":"Data Knowl. Eng.","volume":"39","number":"1","pages":"51-74","year":"2001","type":"Journal Articles","key":"journals/dke/WeltyG01","doi":"10.1016/S0169-023X(01)00030-1","ee":"https://doi.org/10.1016/S0169-023X(01)00030-1","url":"https://dblp.org/rec/journals/dke/WeltyG01"},
+"url":"URL#4636588"
+},
+{
+"@score":"1",
+"@id":"4636589",
+"info":{"authors":{"author":[{"@pid":"86/6410","text":"Yongqiao Xiao"},{"@pid":"d/MargaretHDunham","text":"Margaret H. Dunham"}]},"title":"Efficient mining of traversal patterns.","venue":"Data Knowl. Eng.","volume":"39","number":"2","pages":"191-214","year":"2001","type":"Journal Articles","key":"journals/dke/XiaoD01","doi":"10.1016/S0169-023X(01)00039-8","ee":"https://doi.org/10.1016/S0169-023X(01)00039-8","url":"https://dblp.org/rec/journals/dke/XiaoD01"},
+"url":"URL#4636589"
+},
+{
+"@score":"1",
+"@id":"4636590",
+"info":{"authors":{"author":{"@pid":"z/OsmarRZaiane","text":"Osmar R. Zaïane"}},"title":"Building virtual web views.","venue":"Data Knowl. Eng.","volume":"39","number":"2","pages":"143-163","year":"2001","type":"Journal Articles","key":"journals/dke/Zaiane01","doi":"10.1016/S0169-023X(01)00037-4","ee":"https://doi.org/10.1016/S0169-023X(01)00037-4","url":"https://dblp.org/rec/journals/dke/Zaiane01"},
+"url":"URL#4636590"
+},
+{
+"@score":"1",
+"@id":"4636591",
+"info":{"authors":{"author":[{"@pid":"66/5080","text":"Kazi A. Zaman"},{"@pid":"p/SPadmanabhan","text":"Sriram Padmanabhan"}]},"title":"An efficient workload-based data layout scheme for multidimensional data.","venue":"Data Knowl. Eng.","volume":"39","number":"3","pages":"271-291","year":"2001","type":"Journal Articles","key":"journals/dke/ZamanP01","doi":"10.1016/S0169-023X(01)00043-X","ee":"https://doi.org/10.1016/S0169-023X(01)00043-X","url":"https://dblp.org/rec/journals/dke/ZamanP01"},
+"url":"URL#4636591"
+}
+]
+}
 }
 }

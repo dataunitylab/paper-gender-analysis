@@ -1,23 +1,74 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke83\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke83\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.53"
+"text":"133.90"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"7",
+"@dc":"7",
+"@oc":"7",
+"@id":"17615765",
+"text":":facetid:toc:db/journals/dke/dke83.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"7",
+"@computed":"7",
+"@sent":"7",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"2385738",
+"info":{"authors":{"author":[{"@pid":"00/4593","text":"Chris Giannella"},{"@pid":"06/2592-1","text":"Kun Liu 0001"},{"@pid":"k/HillolKargupta","text":"Hillol Kargupta"}]},"title":"Breaching Euclidean distance-preserving data perturbation using few known inputs.","venue":"Data Knowl. Eng.","volume":"83","pages":"93-110","year":"2013","type":"Journal Articles","key":"journals/dke/GiannellaLK13","doi":"10.1016/J.DATAK.2012.10.004","ee":"https://doi.org/10.1016/j.datak.2012.10.004","url":"https://dblp.org/rec/journals/dke/GiannellaLK13"},
+"url":"URL#2385738"
+},
+{
+"@score":"1",
+"@id":"2385740",
+"info":{"authors":{"author":[{"@pid":"62/7116","text":"Jun-Seok Heo"},{"@pid":"76/4977","text":"Junghoo Cho"},{"@pid":"w/KyuYoungWhang","text":"Kyu-Young Whang"}]},"title":"Subspace top-k query processing using the hybrid-layer index with a tight bound.","venue":"Data Knowl. Eng.","volume":"83","pages":"1-19","year":"2013","type":"Journal Articles","key":"journals/dke/HeoCW13","doi":"10.1016/J.DATAK.2012.07.001","ee":"https://doi.org/10.1016/j.datak.2012.07.001","url":"https://dblp.org/rec/journals/dke/HeoCW13"},
+"url":"URL#2385740"
+},
+{
+"@score":"1",
+"@id":"2385747",
+"info":{"authors":{"author":[{"@pid":"84/10846","text":"Jeroen de Knijff"},{"@pid":"30/2592","text":"Flavius Frasincar"},{"@pid":"50/7979","text":"Frederik Hogenboom"}]},"title":"Domain taxonomy learning from text - The subsumption method versus hierarchical clustering.","venue":"Data Knowl. Eng.","volume":"83","pages":"54-69","year":"2013","type":"Journal Articles","key":"journals/dke/KnijffFH13","doi":"10.1016/J.DATAK.2012.10.002","ee":"https://doi.org/10.1016/j.datak.2012.10.002","url":"https://dblp.org/rec/journals/dke/KnijffFH13"},
+"url":"URL#2385747"
+},
+{
+"@score":"1",
+"@id":"2385769",
+"info":{"authors":{"author":[{"@pid":"128/3013","text":"Jirapond Muangprathub"},{"@pid":"15/1592","text":"Veera Boonjing"},{"@pid":"77/326","text":"Puntip Pattaraintakorn"}]},"title":"A new case-based classification using incremental concept lattice knowledge.","venue":"Data Knowl. Eng.","volume":"83","pages":"39-53","year":"2013","type":"Journal Articles","key":"journals/dke/MuangprathubBP13","doi":"10.1016/J.DATAK.2012.10.001","ee":"https://doi.org/10.1016/j.datak.2012.10.001","url":"https://dblp.org/rec/journals/dke/MuangprathubBP13"},
+"url":"URL#2385769"
+},
+{
+"@score":"1",
+"@id":"2385772",
+"info":{"authors":{"author":[{"@pid":"43/6826","text":"Nimit Pattanasri"},{"@pid":"02/6136","text":"Sujeet Pradhan"},{"@pid":"44/3648","text":"Katsumi Tanaka"}]},"title":"Extending information unit across media streams for improving retrieval effectiveness.","venue":"Data Knowl. Eng.","volume":"83","pages":"70-92","year":"2013","type":"Journal Articles","key":"journals/dke/PattanasriPT13","doi":"10.1016/J.DATAK.2012.10.003","ee":"https://doi.org/10.1016/j.datak.2012.10.003","url":"https://dblp.org/rec/journals/dke/PattanasriPT13"},
+"url":"URL#2385772"
+},
+{
+"@score":"1",
+"@id":"2385781",
+"info":{"authors":{"author":[{"@pid":"90/6461","text":"Zohreh Asgharzadeh Talebi"},{"@pid":"01/3589","text":"Rada Chirkova"},{"@pid":"53/876","text":"Yahya Fathi"}]},"title":"An integer programming approach for the view and index selection problem.","venue":"Data Knowl. Eng.","volume":"83","pages":"111-125","year":"2013","type":"Journal Articles","key":"journals/dke/TalebiCF13","doi":"10.1016/J.DATAK.2012.11.001","ee":"https://doi.org/10.1016/j.datak.2012.11.001","url":"https://dblp.org/rec/journals/dke/TalebiCF13"},
+"url":"URL#2385781"
+},
+{
+"@score":"1",
+"@id":"2385790",
+"info":{"authors":{"author":[{"@pid":"46/999-2","text":"Bo Yang 0002"},{"@pid":"67/1861","text":"Di Jin"},{"@pid":"l/JimingLiu-1","text":"Jiming Liu 0001"},{"@pid":"17/6835","text":"Dayou Liu"}]},"title":"Hierarchical community detection with applications to real-world network analysis.","venue":"Data Knowl. Eng.","volume":"83","pages":"20-38","year":"2013","type":"Journal Articles","key":"journals/dke/YangJLL13","doi":"10.1016/J.DATAK.2012.09.002","ee":"https://doi.org/10.1016/j.datak.2012.09.002","url":"https://dblp.org/rec/journals/dke/YangJLL13"},
+"url":"URL#2385790"
+}
+]
+}
 }
 }

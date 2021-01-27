@@ -1,23 +1,116 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke25\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke25\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.57"
+"text":"138.28"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"14",
+"@dc":"14",
+"@oc":"14",
+"@id":"17615705",
+"text":":facetid:toc:db/journals/dke/dke25.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"14",
+"@computed":"14",
+"@sent":"14",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"4862042",
+"info":{"authors":{"author":{"@pid":"b/ElisaBertino","text":"Elisa Bertino"}},"title":"Data Security.","venue":"Data Knowl. Eng.","volume":"25","number":"1-2","pages":"199-216","year":"1998","type":"Journal Articles","key":"journals/dke/Bertino98","doi":"10.1016/S0169-023X(97)00049-9","ee":"https://doi.org/10.1016/S0169-023X(97)00049-9","url":"https://dblp.org/rec/journals/dke/Bertino98"},
+"url":"URL#4862042"
+},
+{
+"@score":"1",
+"@id":"4862043",
+"info":{"authors":{"author":[{"@pid":"b/VicenteJBotti","text":"Vicente J. Botti"},{"@pid":"60/1527","text":"Federico Barber"},{"@pid":"93/4108","text":"Alfons Crespo"}]},"title":"Towards a Temporal Coherence Management in Real-Time Knowledge-Based Systems.","venue":"Data Knowl. Eng.","volume":"25","number":"3","pages":"247-266","year":"1998","type":"Journal Articles","key":"journals/dke/BottiBC98","doi":"10.1016/S0169-023X(97)00025-6","ee":"https://doi.org/10.1016/S0169-023X(97)00025-6","url":"https://dblp.org/rec/journals/dke/BottiBC98"},
+"url":"URL#4862043"
+},
+{
+"@score":"1",
+"@id":"4862046",
+"info":{"authors":{"author":[{"@pid":"c/PPChen","text":"Peter P. Chen"},{"@pid":"r/RPvandeRiet","text":"Reind P. van de Riet"}]},"title":"Introduction to the Special Issue Celebrating the 25th Volume of Data &amp; Knowledge Engineering - DKE.","venue":"Data Knowl. Eng.","volume":"25","number":"1-2","pages":"1-9","year":"1998","type":"Journal Articles","key":"journals/dke/ChenR98","doi":"10.1016/S0169-023X(97)00059-1","ee":"https://doi.org/10.1016/S0169-023X(97)00059-1","url":"https://dblp.org/rec/journals/dke/ChenR98"},
+"url":"URL#4862046"
+},
+{
+"@score":"1",
+"@id":"4862052",
+"info":{"authors":{"author":[{"@pid":"31/4309","text":"Dieter Fensel"},{"@pid":"r/MCRousset","text":"Marie-Christine Rousset"},{"@pid":"d/StefanDecker","text":"Stefan Decker"}]},"title":"Workshop on Comparing Description and Frame Logics.","venue":"Data Knowl. Eng.","volume":"25","number":"3","pages":"347-352","year":"1998","type":"Journal Articles","key":"journals/dke/FenselRD98","doi":"10.1016/S0169-023X(97)00039-6","ee":"https://doi.org/10.1016/S0169-023X(97)00039-6","url":"https://dblp.org/rec/journals/dke/FenselRD98"},
+"url":"URL#4862052"
+},
+{
+"@score":"1",
+"@id":"4862057",
+"info":{"authors":{"author":[{"@pid":"h/JiaweiHan","text":"Jiawei Han 0001"},{"@pid":"n/ShojiroNishio","text":"Shojiro Nishio"},{"@pid":"36/2722","text":"Hiroyuki Kawano"},{"@pid":"w/WeiWang9","text":"Wei Wang 0009"}]},"title":"Generalization-Based Data Mining in Object-Oriented Databases Using an Object Cube Model.","venue":"Data Knowl. Eng.","volume":"25","number":"1-2","pages":"55-97","year":"1998","type":"Journal Articles","key":"journals/dke/HanNKW98","doi":"10.1016/S0169-023X(97)00051-7","ee":"https://doi.org/10.1016/S0169-023X(97)00051-7","url":"https://dblp.org/rec/journals/dke/HanNKW98"},
+"url":"URL#4862057"
+},
+{
+"@score":"1",
+"@id":"4862063",
+"info":{"authors":{"author":[{"@pid":"k/ArneKoschel","text":"Arne Koschel"},{"@pid":"l/PCLockemann","text":"Peter C. Lockemann"}]},"title":"Distributed Events in Active Database Systems - Letting the Genie out of the Bottle.","venue":"Data Knowl. Eng.","volume":"25","number":"1-2","pages":"11-28","year":"1998","type":"Journal Articles","key":"journals/dke/KoschelL98","doi":"10.1016/S0169-023X(97)00054-2","ee":"https://doi.org/10.1016/S0169-023X(97)00054-2","url":"https://dblp.org/rec/journals/dke/KoschelL98"},
+"url":"URL#4862063"
+},
+{
+"@score":"1",
+"@id":"4862073",
+"info":{"authors":{"author":[{"@pid":"m/RLdMantaras","text":"Ramón López de Mántaras"},{"@pid":"00/4228","text":"Eva Armengol"}]},"title":"Machine Learning from Examples - Inductive and Lazy Methods.","venue":"Data Knowl. Eng.","volume":"25","number":"1-2","pages":"99-123","year":"1998","type":"Journal Articles","key":"journals/dke/MantarasA98","doi":"10.1016/S0169-023X(97)00053-0","ee":"https://doi.org/10.1016/S0169-023X(97)00053-0","url":"https://dblp.org/rec/journals/dke/MantarasA98"},
+"url":"URL#4862073"
+},
+{
+"@score":"1",
+"@id":"4862078",
+"info":{"authors":{"author":[{"@pid":"p/JParedaens","text":"Jan Paredaens"},{"@pid":"k/BartKuijpers","text":"Bart Kuijpers"}]},"title":"Data Models and Query Languages for Spatial Databases.","venue":"Data Knowl. Eng.","volume":"25","number":"1-2","pages":"29-53","year":"1998","type":"Journal Articles","key":"journals/dke/ParedaensK98","doi":"10.1016/S0169-023X(98)00052-4","ee":"https://doi.org/10.1016/S0169-023X(98)00052-4","url":"https://dblp.org/rec/journals/dke/ParedaensK98"},
+"url":"URL#4862078"
+},
+{
+"@score":"1",
+"@id":"4862079",
+"info":{"authors":{"author":[{"@pid":"p/JParedaens","text":"Jan Paredaens"},{"@pid":"27/3522","text":"Peter Peelman"},{"@pid":"t/LetiziaTanca","text":"Letizia Tanca"}]},"title":"Merging Graph-Based and Rule-Based Computation - The Language G-Log.","venue":"Data Knowl. Eng.","volume":"25","number":"3","pages":"267-300","year":"1998","type":"Journal Articles","key":"journals/dke/ParedaensPT98","doi":"10.1016/S0169-023X(97)00020-7","ee":"https://doi.org/10.1016/S0169-023X(97)00020-7","url":"https://dblp.org/rec/journals/dke/ParedaensPT98"},
+"url":"URL#4862079"
+},
+{
+"@score":"1",
+"@id":"4862083",
+"info":{"authors":{"author":{"@pid":"r/RPvandeRiet","text":"Reind P. van de Riet"}},"title":"Complex Objects - Theory and Practice from a Data- and Knowledge Engineering Perspective, as Seen in and from Yellostone Park.","venue":"Data Knowl. Eng.","volume":"25","number":"1-2","pages":"217-238","year":"1998","type":"Journal Articles","key":"journals/dke/Riet98","doi":"10.1016/S0169-023X(97)86224-6","ee":"https://doi.org/10.1016/S0169-023X(97)86224-6","url":"https://dblp.org/rec/journals/dke/Riet98"},
+"url":"URL#4862083"
+},
+{
+"@score":"1",
+"@id":"4862084",
+"info":{"authors":{"author":[{"@pid":"r/CRolland","text":"Colette Rolland"},{"@pid":"21/1955","text":"Camille Ben Achour"}]},"title":"Guiding the Construction of Textual Use Case Specifications.","venue":"Data Knowl. Eng.","volume":"25","number":"1-2","pages":"125-160","year":"1998","type":"Journal Articles","key":"journals/dke/RollandA98","doi":"10.1016/S0169-023X(97)86223-4","ee":"https://doi.org/10.1016/S0169-023X(97)86223-4","url":"https://dblp.org/rec/journals/dke/RollandA98"},
+"url":"URL#4862084"
+},
+{
+"@score":"1",
+"@id":"4862086",
+"info":{"authors":{"author":{"@pid":"s/GiuseppeSantucci","text":"Giuseppe Santucci"}},"title":"Semantic Schema Refinements for Multilevel Schema Integration.","venue":"Data Knowl. Eng.","volume":"25","number":"3","pages":"301-326","year":"1998","type":"Journal Articles","key":"journals/dke/Santucci98","doi":"10.1016/S0169-023X(97)00024-4","ee":"https://doi.org/10.1016/S0169-023X(97)00024-4","url":"https://dblp.org/rec/journals/dke/Santucci98"},
+"url":"URL#4862086"
+},
+{
+"@score":"1",
+"@id":"4862093",
+"info":{"authors":{"author":[{"@pid":"s/RudiStuder","text":"Rudi Studer"},{"@pid":"12/6612","text":"V. Richard Benjamins"},{"@pid":"31/4309","text":"Dieter Fensel"}]},"title":"Knowledge Engineering - Principles and Methods.","venue":"Data Knowl. Eng.","volume":"25","number":"1-2","pages":"161-197","year":"1998","type":"Journal Articles","key":"journals/dke/StuderBF98","doi":"10.1016/S0169-023X(97)00056-6","ee":"https://doi.org/10.1016/S0169-023X(97)00056-6","url":"https://dblp.org/rec/journals/dke/StuderBF98"},
+"url":"URL#4862093"
+},
+{
+"@score":"1",
+"@id":"4862098",
+"info":{"authors":{"author":[{"@pid":"70/260","text":"Hans Weigand"},{"@pid":"n/AnneHHNgu","text":"Anne H. H. Ngu"}]},"title":"Flexible Specification of Interoperable Transactions.","venue":"Data Knowl. Eng.","volume":"25","number":"3","pages":"327-345","year":"1998","type":"Journal Articles","key":"journals/dke/WeigandN98","doi":"10.1016/S0169-023X(97)00021-9","ee":"https://doi.org/10.1016/S0169-023X(97)00021-9","url":"https://dblp.org/rec/journals/dke/WeigandN98"},
+"url":"URL#4862098"
+}
+]
+}
 }
 }

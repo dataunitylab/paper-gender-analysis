@@ -1,23 +1,104 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke56\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke56\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.34"
+"text":"123.97"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"12",
+"@dc":"12",
+"@oc":"12",
+"@id":"17615739",
+"text":":facetid:toc:db/journals/dke/dke56.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"12",
+"@computed":"12",
+"@sent":"12",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"3986969",
+"info":{"authors":{"author":[{"@pid":"83/3310","text":"Issam Chebbi"},{"@pid":"d/SDustdar","text":"Schahram Dustdar"},{"@pid":"t/SamirTata","text":"Samir Tata"}]},"title":"The view-based approach to dynamic inter-organizational workflow cooperation.","venue":"Data Knowl. Eng.","volume":"56","number":"2","pages":"139-173","year":"2006","type":"Journal Articles","key":"journals/dke/ChebbiDT06","doi":"10.1016/J.DATAK.2005.03.008","ee":"https://doi.org/10.1016/j.datak.2005.03.008","url":"https://dblp.org/rec/journals/dke/ChebbiDT06"},
+"url":"URL#3986969"
+},
+{
+"@score":"1",
+"@id":"3986977",
+"info":{"authors":{"author":{"@pid":"c/AlfredoCuzzocrea","text":"Alfredo Cuzzocrea"}},"title":"Improving range-sum query evaluation on data cubes via polynomial approximation.","venue":"Data Knowl. Eng.","volume":"56","number":"2","pages":"85-121","year":"2006","type":"Journal Articles","key":"journals/dke/Cuzzocrea06","doi":"10.1016/J.DATAK.2005.03.011","ee":"https://doi.org/10.1016/j.datak.2005.03.011","url":"https://dblp.org/rec/journals/dke/Cuzzocrea06"},
+"url":"URL#3986977"
+},
+{
+"@score":"1",
+"@id":"3986987",
+"info":{"authors":{"author":[{"@pid":"99/194","text":"F. A. Grootjen"},{"@pid":"w/TPvanderWeide","text":"Theo P. van der Weide"}]},"title":"Conceptual query expansion.","venue":"Data Knowl. Eng.","volume":"56","number":"2","pages":"174-193","year":"2006","type":"Journal Articles","key":"journals/dke/GrootjenW06","doi":"10.1016/J.DATAK.2005.03.006","ee":"https://doi.org/10.1016/j.datak.2005.03.006","url":"https://dblp.org/rec/journals/dke/GrootjenW06"},
+"url":"URL#3986987"
+},
+{
+"@score":"1",
+"@id":"3986989",
+"info":{"authors":{"author":[{"@pid":"06/4213","text":"Byung-Hyun Ha"},{"@pid":"11/1683","text":"Joonsoo Bae"},{"@pid":"68/2704","text":"Yong-Tae Park"},{"@pid":"53/6819","text":"Suk-Ho Kang"}]},"title":"Development of process execution rules for workload balancing on agents.","venue":"Data Knowl. Eng.","volume":"56","number":"1","pages":"64-84","year":"2006","type":"Journal Articles","key":"journals/dke/HaBPK06","doi":"10.1016/J.DATAK.2005.02.007","ee":"https://doi.org/10.1016/j.datak.2005.02.007","url":"https://dblp.org/rec/journals/dke/HaBPK06"},
+"url":"URL#3986989"
+},
+{
+"@score":"1",
+"@id":"3986990",
+"info":{"authors":{"author":[{"@pid":"14/708","text":"Markus Hammori"},{"@pid":"72/2797","text":"Joachim Herbst"},{"@pid":"78/4166","text":"Niko Kleiner"}]},"title":"Interactive workflow mining - requirements, concepts and implementation.","venue":"Data Knowl. Eng.","volume":"56","number":"1","pages":"41-63","year":"2006","type":"Journal Articles","key":"journals/dke/HammoriHK06","doi":"10.1016/J.DATAK.2005.02.006","ee":"https://doi.org/10.1016/j.datak.2005.02.006","url":"https://dblp.org/rec/journals/dke/HammoriHK06"},
+"url":"URL#3986990"
+},
+{
+"@score":"1",
+"@id":"3986993",
+"info":{"authors":{"author":[{"@pid":"82/3398","text":"Kees M. van Hee"},{"@pid":"06/5070","text":"Natalia Sidorova"},{"@pid":"16/3155","text":"Lou J. Somers"},{"@pid":"48/1901","text":"Marc Voorhoeve"}]},"title":"Consistency in model integration.","venue":"Data Knowl. Eng.","volume":"56","number":"1","pages":"4-22","year":"2006","type":"Journal Articles","key":"journals/dke/HeeSSV06","doi":"10.1016/J.DATAK.2005.02.004","ee":"https://doi.org/10.1016/j.datak.2005.02.004","url":"https://dblp.org/rec/journals/dke/HeeSSV06"},
+"url":"URL#3986993"
+},
+{
+"@score":"1",
+"@id":"3986998",
+"info":{"authors":{"author":[{"@pid":"95/6096","text":"Monique H. Jansen-Vullers"},{"@pid":"a/WilMPvanderAalst","text":"Wil M. P. van der Aalst"},{"@pid":"r/MichaelRosemann","text":"Michael Rosemann"}]},"title":"Mining configurable enterprise information systems.","venue":"Data Knowl. Eng.","volume":"56","number":"3","pages":"195-244","year":"2006","type":"Journal Articles","key":"journals/dke/Jansen-VullersAR06","doi":"10.1016/J.DATAK.2005.03.007","ee":"https://doi.org/10.1016/j.datak.2005.03.007","url":"https://dblp.org/rec/journals/dke/Jansen-VullersAR06"},
+"url":"URL#3986998"
+},
+{
+"@score":"1",
+"@id":"3987000",
+"info":{"authors":{"author":{"@pid":"60/1600","text":"Ekkart Kindler"}},"title":"On the semantics of EPCs - Resolving the vicious circle.","venue":"Data Knowl. Eng.","volume":"56","number":"1","pages":"23-40","year":"2006","type":"Journal Articles","key":"journals/dke/Kindler06","doi":"10.1016/J.DATAK.2005.02.005","ee":"https://doi.org/10.1016/j.datak.2005.02.005","url":"https://dblp.org/rec/journals/dke/Kindler06"},
+"url":"URL#3987000"
+},
+{
+"@score":"1",
+"@id":"3987003",
+"info":{"authors":{"author":[{"@pid":"87/6162","text":"Dongseop Kwon"},{"@pid":"91/5525","text":"Sangjun Lee"},{"@pid":"38/3461","text":"Wonik Choi"},{"@pid":"58/2763","text":"Sukho Lee"}]},"title":"An adaptive hashing technique for indexing moving objects.","venue":"Data Knowl. Eng.","volume":"56","number":"3","pages":"287-303","year":"2006","type":"Journal Articles","key":"journals/dke/KwonLCL06","doi":"10.1016/J.DATAK.2005.04.004","ee":"https://doi.org/10.1016/j.datak.2005.04.004","url":"https://dblp.org/rec/journals/dke/KwonLCL06"},
+"url":"URL#3987003"
+},
+{
+"@score":"1",
+"@id":"3987020",
+"info":{"authors":{"author":{"@pid":"60/6668","text":"Susanne Patig"}},"title":"Evolution of entity-relationship modelling.","venue":"Data Knowl. Eng.","volume":"56","number":"2","pages":"122-138","year":"2006","type":"Journal Articles","key":"journals/dke/Patig06","doi":"10.1016/J.DATAK.2005.03.010","ee":"https://doi.org/10.1016/j.datak.2005.03.010","url":"https://dblp.org/rec/journals/dke/Patig06"},
+"url":"URL#3987020"
+},
+{
+"@score":"1",
+"@id":"3987022",
+"info":{"authors":{"author":[{"@pid":"p/BarbaraPernici","text":"Barbara Pernici"},{"@pid":"w/MathiasWeske","text":"Mathias Weske"}]},"title":"Business process management.","venue":"Data Knowl. Eng.","volume":"56","number":"1","pages":"1-3","year":"2006","type":"Journal Articles","key":"journals/dke/PerniciW06","doi":"10.1016/J.DATAK.2005.02.003","ee":"https://doi.org/10.1016/j.datak.2005.02.003","url":"https://dblp.org/rec/journals/dke/PerniciW06"},
+"url":"URL#3987022"
+},
+{
+"@score":"1",
+"@id":"3987028",
+"info":{"authors":{"author":[{"@pid":"s/IngoSchmitt","text":"Ingo Schmitt"},{"@pid":"32/5964","text":"Sören Balko"}]},"title":"Filter ranking in high-dimensional space.","venue":"Data Knowl. Eng.","volume":"56","number":"3","pages":"245-286","year":"2006","type":"Journal Articles","key":"journals/dke/SchmittB06","doi":"10.1016/J.DATAK.2005.03.005","ee":"https://doi.org/10.1016/j.datak.2005.03.005","url":"https://dblp.org/rec/journals/dke/SchmittB06"},
+"url":"URL#3987028"
+}
+]
+}
 }
 }

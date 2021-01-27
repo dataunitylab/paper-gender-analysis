@@ -1,23 +1,68 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke81\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke81\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.49"
+"text":"104.76"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"6",
+"@dc":"6",
+"@oc":"6",
+"@id":"17615764",
+"text":":facetid:toc:db/journals/dke/dke81.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"6",
+"@computed":"6",
+"@sent":"6",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"2659863",
+"info":{"authors":{"author":[{"@pid":"128/2967","text":"Mina Alibeigi"},{"@pid":"87/5700","text":"Sattar Hashemi"},{"@pid":"04/4722","text":"Ali Hamzeh"}]},"title":"DBFS - An effective Density Based Feature Selection scheme for small sample size and high dimensional imbalanced data sets.","venue":"Data Knowl. Eng.","volume":"81-82","pages":"67-103","year":"2012","type":"Journal Articles","key":"journals/dke/AlibeigiHH12","doi":"10.1016/J.DATAK.2012.08.001","ee":"https://doi.org/10.1016/j.datak.2012.08.001","url":"https://dblp.org/rec/journals/dke/AlibeigiHH12"},
+"url":"URL#2659863"
+},
+{
+"@score":"1",
+"@id":"2659864",
+"info":{"authors":{"author":[{"@pid":"64/5252","text":"Geoffrey Andogah"},{"@pid":"b/GosseBouma","text":"Gosse Bouma"},{"@pid":"n/JohnNerbonne","text":"John Nerbonne"}]},"title":"Every document has a geographical scope.","venue":"Data Knowl. Eng.","volume":"81-82","pages":"1-20","year":"2012","type":"Journal Articles","key":"journals/dke/AndogahBN12","doi":"10.1016/J.DATAK.2012.07.002","ee":"https://doi.org/10.1016/j.datak.2012.07.002","url":"https://dblp.org/rec/journals/dke/AndogahBN12"},
+"url":"URL#2659864"
+},
+{
+"@score":"1",
+"@id":"2659877",
+"info":{"authors":{"author":[{"@pid":"137/3611","text":"Boris A. Galitsky"},{"@pid":"43/6066","text":"Josep Lluís de la Rosa"},{"@pid":"16/8218","text":"Gabor Dobrocsi"}]},"title":"Inferring the semantic properties of sentences by mining syntactic parse trees.","venue":"Data Knowl. Eng.","volume":"81-82","pages":"21-45","year":"2012","type":"Journal Articles","key":"journals/dke/GalitskyRD12","doi":"10.1016/J.DATAK.2012.07.003","ee":"https://doi.org/10.1016/j.datak.2012.07.003","url":"https://dblp.org/rec/journals/dke/GalitskyRD12"},
+"url":"URL#2659877"
+},
+{
+"@score":"1",
+"@id":"2659889",
+"info":{"authors":{"author":[{"@pid":"13/5832","text":"Javier Nogueras-Iso"},{"@pid":"37/7329","text":"Miguel Ángel Latre"},{"@pid":"08/5765","text":"Rubén Béjar"},{"@pid":"25/200","text":"Pedro R. Muro-Medrano"},{"@pid":"z/FJavierZarazagaSoria","text":"F. Javier Zarazaga-Soria"}]},"title":"A model driven approach for the development of metadata editors, applicability to the annotation of geographic information resources.","venue":"Data Knowl. Eng.","volume":"81-82","pages":"118-139","year":"2012","type":"Journal Articles","key":"journals/dke/Nogueras-IsoLBMZ12","doi":"10.1016/J.DATAK.2012.09.001","ee":"https://doi.org/10.1016/j.datak.2012.09.001","url":"https://dblp.org/rec/journals/dke/Nogueras-IsoLBMZ12"},
+"url":"URL#2659889"
+},
+{
+"@score":"1",
+"@id":"2659893",
+"info":{"authors":{"author":[{"@pid":"39/7256","text":"Javier Parra-Arnau"},{"@pid":"78/1744","text":"David Rebollo-Monedero"},{"@pid":"90/3475","text":"Jordi Forné"},{"@pid":"80/4675","text":"Jose L. Muñoz"},{"@pid":"40/6314","text":"Oscar Esparza"}]},"title":"Optimal tag suppression for privacy protection in the semantic Web.","venue":"Data Knowl. Eng.","volume":"81-82","pages":"46-66","year":"2012","type":"Journal Articles","key":"journals/dke/Parra-ArnauRFME12","doi":"10.1016/J.DATAK.2012.07.004","ee":"https://doi.org/10.1016/j.datak.2012.07.004","url":"https://dblp.org/rec/journals/dke/Parra-ArnauRFME12"},
+"url":"URL#2659893"
+},
+{
+"@score":"1",
+"@id":"2659907",
+"info":{"authors":{"author":[{"@pid":"90/1622","text":"Sulan Zhang"},{"@pid":"33/5440-2","text":"Ping Guo 0002"},{"@pid":"34/6923","text":"Jifu Zhang"},{"@pid":"24/3969","text":"Xinxin Wang"},{"@pid":"p/WitoldPedrycz","text":"Witold Pedrycz"}]},"title":"A completeness analysis of frequent weighted concept lattices and their algebraic properties.","venue":"Data Knowl. Eng.","volume":"81-82","pages":"104-117","year":"2012","type":"Journal Articles","key":"journals/dke/ZhangGZWP12","doi":"10.1016/J.DATAK.2012.08.002","ee":"https://doi.org/10.1016/j.datak.2012.08.002","url":"https://dblp.org/rec/journals/dke/ZhangGZWP12"},
+"url":"URL#2659907"
+}
+]
+}
 }
 }

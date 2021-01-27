@@ -1,23 +1,116 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke23\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke23\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.52"
+"text":"109.93"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"14",
+"@dc":"14",
+"@oc":"14",
+"@id":"17615703",
+"text":":facetid:toc:db/journals/dke/dke23.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"14",
+"@computed":"14",
+"@sent":"14",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"4923625",
+"info":{"authors":{"author":[{"@pid":"44/5607","text":"Ahmad Baraani-Dastjerdi"},{"@pid":"p/JosefPieprzyk","text":"Josef Pieprzyk"},{"@pid":"s/ReihanehSafaviNaini","text":"Reihaneh Safavi-Naini"}]},"title":"A Multi-Level View Model for Secure Object-Oriented Databases.","venue":"Data Knowl. Eng.","volume":"23","number":"2","pages":"97-117","year":"1997","type":"Journal Articles","key":"journals/dke/Baraani-DastjerdiPS97","doi":"10.1016/S0169-023X(96)00054-7","ee":"https://doi.org/10.1016/S0169-023X(96)00054-7","url":"https://dblp.org/rec/journals/dke/Baraani-DastjerdiPS97"},
+"url":"URL#4923625"
+},
+{
+"@score":"1",
+"@id":"4923628",
+"info":{"authors":{"author":{"@pid":"15/1","text":"Alfs T. Berztiss"}},"title":"Natural-Language-Based Development of Information Systems.","venue":"Data Knowl. Eng.","volume":"23","number":"1","pages":"47-57","year":"1997","type":"Journal Articles","key":"journals/dke/Berztiss97","doi":"10.1016/S0169-023X(97)00010-4","ee":"https://doi.org/10.1016/S0169-023X(97)00010-4","url":"https://dblp.org/rec/journals/dke/Berztiss97"},
+"url":"URL#4923628"
+},
+{
+"@score":"1",
+"@id":"4923631",
+"info":{"authors":{"author":[{"@pid":"22/5607","text":"Edith Buchholz"},{"@pid":"d/ADusterhoft","text":"Antje Düsterhöft"},{"@pid":"t/BernhardThalheim","text":"Bernhard Thalheim"}]},"title":"Capturing Information on Behaviour with the RADD-NLI - A Linguistic and Knowledge-Based Approach.","venue":"Data Knowl. Eng.","volume":"23","number":"1","pages":"33-46","year":"1997","type":"Journal Articles","key":"journals/dke/BuchholzDT97","doi":"10.1016/S0169-023X(97)00009-8","ee":"https://doi.org/10.1016/S0169-023X(97)00009-8","url":"https://dblp.org/rec/journals/dke/BuchholzDT97"},
+"url":"URL#4923631"
+},
+{
+"@score":"1",
+"@id":"4923633",
+"info":{"authors":{"author":{"@pid":"c/PPChen","text":"Peter P. Chen"}},"title":"English, Chinese and ER Diagrams.","venue":"Data Knowl. Eng.","volume":"23","number":"1","pages":"5-16","year":"1997","type":"Journal Articles","key":"journals/dke/Chen97","doi":"10.1016/S0169-023X(97)00017-7","ee":"https://doi.org/10.1016/S0169-023X(97)00017-7","url":"https://dblp.org/rec/journals/dke/Chen97"},
+"url":"URL#4923633"
+},
+{
+"@score":"1",
+"@id":"4923635",
+"info":{"authors":{"author":[{"@pid":"83/5251","text":"Barbara Dellen"},{"@pid":"m/FrankMaurer","text":"Frank Maurer"},{"@pid":"29/3798","text":"Gerhard Pews"}]},"title":"Knowledge-Based Techniques to Increase the Flexibility of Workflow Management.","venue":"Data Knowl. Eng.","volume":"23","number":"3","pages":"269-315","year":"1997","type":"Journal Articles","key":"journals/dke/DellenMP97","doi":"10.1016/S0169-023X(97)00015-3","ee":"https://doi.org/10.1016/S0169-023X(97)00015-3","url":"https://dblp.org/rec/journals/dke/DellenMP97"},
+"url":"URL#4923635"
+},
+{
+"@score":"1",
+"@id":"4923636",
+"info":{"authors":{"author":[{"@pid":"13/1995","text":"Christian Fahrner"},{"@pid":"98/3166","text":"Thomas Marx"},{"@pid":"72/800","text":"Stephan Philippi"}]},"title":"DICE - Declarative Integrity Constraint Embedding Into the Object Database Standard ODMG-93.","venue":"Data Knowl. Eng.","volume":"23","number":"2","pages":"119-145","year":"1997","type":"Journal Articles","key":"journals/dke/FahrnerMP97","doi":"10.1016/S0169-023X(96)00046-8","ee":"https://doi.org/10.1016/S0169-023X(96)00046-8","url":"https://dblp.org/rec/journals/dke/FahrnerMP97"},
+"url":"URL#4923636"
+},
+{
+"@score":"1",
+"@id":"4923639",
+"info":{"authors":{"author":[{"@pid":"g/JonAtleGulla","text":"Jon Atle Gulla"},{"@pid":"15/6239","text":"Bram van der Vos"},{"@pid":"t/UlrichThiel","text":"Ulrich Thiel"}]},"title":"An Abductive, Linguistic Approach to Model Retrieval.","venue":"Data Knowl. Eng.","volume":"23","number":"1","pages":"17-31","year":"1997","type":"Journal Articles","key":"journals/dke/GullaVT97","doi":"10.1016/S0169-023X(97)00008-6","ee":"https://doi.org/10.1016/S0169-023X(97)00008-6","url":"https://dblp.org/rec/journals/dke/GullaVT97"},
+"url":"URL#4923639"
+},
+{
+"@score":"1",
+"@id":"4923641",
+"info":{"authors":{"author":[{"@pid":"15/7047","text":"Jeroen Hoppenbrouwers"},{"@pid":"15/6239","text":"Bram van der Vos"},{"@pid":"91/562","text":"S. Hoppenbrouwers"}]},"title":"NL Structures and Conceptual Modelling - Grammalizing for KISS.","venue":"Data Knowl. Eng.","volume":"23","number":"1","pages":"79-92","year":"1997","type":"Journal Articles","key":"journals/dke/HoppenbrouwersVH97","doi":"10.1016/S0169-023X(97)00011-6","ee":"https://doi.org/10.1016/S0169-023X(97)00011-6","url":"https://dblp.org/rec/journals/dke/HoppenbrouwersVH97"},
+"url":"URL#4923641"
+},
+{
+"@score":"1",
+"@id":"4923642",
+"info":{"authors":{"author":[{"@pid":"22/3219","text":"Jan-Willem G. M. Hubbers"},{"@pid":"h/AHMterHofstede","text":"Arthur H. M. ter Hofstede"}]},"title":"Formalization of Communication and Behaviour in Object-Oriented Analysis.","venue":"Data Knowl. Eng.","volume":"23","number":"2","pages":"147-183","year":"1997","type":"Journal Articles","key":"journals/dke/HubbersH97","doi":"10.1016/S0169-023X(96)00039-0","ee":"https://doi.org/10.1016/S0169-023X(96)00039-0","url":"https://dblp.org/rec/journals/dke/HubbersH97"},
+"url":"URL#4923642"
+},
+{
+"@score":"1",
+"@id":"4923644",
+"info":{"authors":{"author":[{"@pid":"j/MatthiasJarke","text":"Matthias Jarke"},{"@pid":"j/ManfredAJeusfeld","text":"Manfred A. Jeusfeld"},{"@pid":"46/39","text":"Peter Peters 0001"},{"@pid":"p/KlausPohl","text":"Klaus Pohl"}]},"title":"Coordinating Distributed Organizational Knowledge.","venue":"Data Knowl. Eng.","volume":"23","number":"3","pages":"247-268","year":"1997","type":"Journal Articles","key":"journals/dke/JarkeJPP97","doi":"10.1016/S0169-023X(97)00014-1","ee":"https://doi.org/10.1016/S0169-023X(97)00014-1","url":"https://dblp.org/rec/journals/dke/JarkeJPP97"},
+"url":"URL#4923644"
+},
+{
+"@score":"1",
+"@id":"4923649",
+"info":{"authors":{"author":[{"@pid":"l/NicolaLeone","text":"Nicola Leone"},{"@pid":"p/ClaraPizzuti","text":"Clara Pizzuti"},{"@pid":"95/5833","text":"Pasquale Rullo"}]},"title":"Efficient Evaluation of a Class of Ordered Logic Programs.","venue":"Data Knowl. Eng.","volume":"23","number":"2","pages":"185-214","year":"1997","type":"Journal Articles","key":"journals/dke/LeonePR97","doi":"10.1016/S0169-023X(96)00050-X","ee":"https://doi.org/10.1016/S0169-023X(96)00050-X","url":"https://dblp.org/rec/journals/dke/LeonePR97"},
+"url":"URL#4923649"
+},
+{
+"@score":"1",
+"@id":"4923651",
+"info":{"authors":{"author":{"@pid":"65/2470","text":"Barbara Messing"}},"title":"Combining Knowledge with Many-Valued Logics.","venue":"Data Knowl. Eng.","volume":"23","number":"3","pages":"297-315","year":"1997","type":"Journal Articles","key":"journals/dke/Messing97","doi":"10.1016/S0169-023X(97)00012-8","ee":"https://doi.org/10.1016/S0169-023X(97)00012-8","url":"https://dblp.org/rec/journals/dke/Messing97"},
+"url":"URL#4923651"
+},
+{
+"@score":"1",
+"@id":"4923652",
+"info":{"authors":{"author":[{"@pid":"36/3146","text":"Elisabeth Métais"},{"@pid":"02/1736","text":"Zoubida Kedad"},{"@pid":"c/IsabelleComynWattiau","text":"Isabelle Comyn-Wattiau"},{"@pid":"b/MBouzeghoub","text":"Mokrane Bouzeghoub"}]},"title":"Using Linguistic Knowledge in View Integration - Toward a Third Generation of Tools.","venue":"Data Knowl. Eng.","volume":"23","number":"1","pages":"59-78","year":"1997","type":"Journal Articles","key":"journals/dke/MetaisKCB97","doi":"10.1016/S0169-023X(97)00004-9","ee":"https://doi.org/10.1016/S0169-023X(97)00004-9","url":"https://dblp.org/rec/journals/dke/MetaisKCB97"},
+"url":"URL#4923652"
+},
+{
+"@score":"1",
+"@id":"4923654",
+"info":{"authors":{"author":{"@pid":"42/306","text":"Heinz Jürgen Müller"}},"title":"Towards Agent Systems Engineering.","venue":"Data Knowl. Eng.","volume":"23","number":"3","pages":"217-245","year":"1997","type":"Journal Articles","key":"journals/dke/Muller97","doi":"10.1016/S0169-023X(97)00013-X","ee":"https://doi.org/10.1016/S0169-023X(97)00013-X","url":"https://dblp.org/rec/journals/dke/Muller97"},
+"url":"URL#4923654"
+}
+]
+}
 }
 }

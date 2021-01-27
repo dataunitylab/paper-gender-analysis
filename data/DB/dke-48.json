@@ -1,23 +1,128 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke48\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke48\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.44"
+"text":"121.80"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"16",
+"@dc":"16",
+"@oc":"16",
+"@id":"17615730",
+"text":":facetid:toc:db/journals/dke/dke48.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"16",
+"@computed":"16",
+"@sent":"16",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"4307502",
+"info":{"authors":{"author":[{"@pid":"42/2586","text":"Troels Andreasen"},{"@pid":"09/2841","text":"Per Anker Jensen"},{"@pid":"95/2533","text":"Jørgen Fischer Nilsson"},{"@pid":"31/6683","text":"Patrizia Paggio"},{"@pid":"15/1759","text":"Bolette Sandford Pedersen"},{"@pid":"43/4733","text":"Hanne Erdman Thomsen"}]},"title":"Content-based text querying with ontological descriptors.","venue":"Data Knowl. Eng.","volume":"48","number":"2","pages":"199-219","year":"2004","type":"Journal Articles","key":"journals/dke/AndreasenJNPPT04","doi":"10.1016/S0169-023X(03)00105-8","ee":"https://doi.org/10.1016/S0169-023X(03)00105-8","url":"https://dblp.org/rec/journals/dke/AndreasenJNPPT04"},
+"url":"URL#4307502"
+},
+{
+"@score":"1",
+"@id":"4307503",
+"info":{"authors":{"author":[{"@pid":"42/2586","text":"Troels Andreasen"},{"@pid":"95/2533","text":"Jørgen Fischer Nilsson"}]},"title":"Grammatical specification of domain ontologies.","venue":"Data Knowl. Eng.","volume":"48","number":"2","pages":"221-230","year":"2004","type":"Journal Articles","key":"journals/dke/AndreasenN04","doi":"10.1016/S0169-023X(03)00107-1","ee":"https://doi.org/10.1016/S0169-023X(03)00107-1","url":"https://dblp.org/rec/journals/dke/AndreasenN04"},
+"url":"URL#4307503"
+},
+{
+"@score":"1",
+"@id":"4307507",
+"info":{"authors":{"author":[{"@pid":"72/4648","text":"Martin Bernauer"},{"@pid":"s/MichaelSchrefl","text":"Michael Schrefl"}]},"title":"Self-maintaining web pages - from theory to practice.","venue":"Data Knowl. Eng.","volume":"48","number":"1","pages":"39-73","year":"2004","type":"Journal Articles","key":"journals/dke/BernauerS04","doi":"10.1016/S0169-023X(03)00109-5","ee":"https://doi.org/10.1016/S0169-023X(03)00109-5","url":"https://dblp.org/rec/journals/dke/BernauerS04"},
+"url":"URL#4307507"
+},
+{
+"@score":"1",
+"@id":"4307512",
+"info":{"authors":{"author":[{"@pid":"b/EmmaByrne","text":"Emma Byrne"},{"@pid":"23/4530","text":"Anthony Hunter"}]},"title":"Man bites dog - looking for interesting inconsistencies in structured news reports.","venue":"Data Knowl. Eng.","volume":"48","number":"3","pages":"265-295","year":"2004","type":"Journal Articles","key":"journals/dke/ByrneH04","doi":"10.1016/S0169-023X(03)00123-X","ee":"https://doi.org/10.1016/S0169-023X(03)00123-X","url":"https://dblp.org/rec/journals/dke/ByrneH04"},
+"url":"URL#4307512"
+},
+{
+"@score":"1",
+"@id":"4307516",
+"info":{"authors":{"author":[{"@pid":"38/3461","text":"Wonik Choi"},{"@pid":"20/6358","text":"Bongki Moon"},{"@pid":"58/2763","text":"Sukho Lee"}]},"title":"Adaptive cell-based index for moving objects.","venue":"Data Knowl. Eng.","volume":"48","number":"1","pages":"75-101","year":"2004","type":"Journal Articles","key":"journals/dke/ChoiML04","doi":"10.1016/S0169-023X(03)00120-4","ee":"https://doi.org/10.1016/S0169-023X(03)00120-4","url":"https://dblp.org/rec/journals/dke/ChoiML04"},
+"url":"URL#4307516"
+},
+{
+"@score":"1",
+"@id":"4307518",
+"info":{"authors":{"author":[{"@pid":"09/451","text":"Sebastian van Delden"},{"@pid":"g/FernandoGomez","text":"Fernando Gomez"}]},"title":"Retrieving NASA problem reports - a case study in natural language information retrieval.","venue":"Data Knowl. Eng.","volume":"48","number":"2","pages":"231-246","year":"2004","type":"Journal Articles","key":"journals/dke/DeldenG04","doi":"10.1016/S0169-023X(03)00106-X","ee":"https://doi.org/10.1016/S0169-023X(03)00106-X","url":"https://dblp.org/rec/journals/dke/DeldenG04"},
+"url":"URL#4307518"
+},
+{
+"@score":"1",
+"@id":"4307519",
+"info":{"authors":{"author":[{"@pid":"d/ADusterhoft","text":"Antje Düsterhöft"},{"@pid":"t/BernhardThalheim","text":"Bernhard Thalheim"}]},"title":"Linguistic based search facilities in snowflake-like database schemes.","venue":"Data Knowl. Eng.","volume":"48","number":"2","pages":"177-198","year":"2004","type":"Journal Articles","key":"journals/dke/DusterhoftT04","doi":"10.1016/S0169-023X(03)00104-6","ee":"https://doi.org/10.1016/S0169-023X(03)00104-6","url":"https://dblp.org/rec/journals/dke/DusterhoftT04"},
+"url":"URL#4307519"
+},
+{
+"@score":"1",
+"@id":"4307526",
+"info":{"authors":{"author":{"@pid":"j/PaulJohannesson","text":"Paul Johannesson"}},"title":"NLDB2002 - Editorial.","venue":"Data Knowl. Eng.","volume":"48","number":"2","pages":"153-154","year":"2004","type":"Journal Articles","key":"journals/dke/Johannesson04","doi":"10.1016/S0169-023X(03)00102-2","ee":"https://doi.org/10.1016/S0169-023X(03)00102-2","url":"https://dblp.org/rec/journals/dke/Johannesson04"},
+"url":"URL#4307526"
+},
+{
+"@score":"1",
+"@id":"4307532",
+"info":{"authors":{"author":[{"@pid":"33/5461","text":"Nadira Lammari"},{"@pid":"36/3146","text":"Elisabeth Métais"}]},"title":"Building and maintaining ontologies - a set of algorithms.","venue":"Data Knowl. Eng.","volume":"48","number":"2","pages":"155-176","year":"2004","type":"Journal Articles","key":"journals/dke/LammariM04","doi":"10.1016/S0169-023X(03)00103-4","ee":"https://doi.org/10.1016/S0169-023X(03)00103-4","url":"https://dblp.org/rec/journals/dke/LammariM04"},
+"url":"URL#4307532"
+},
+{
+"@score":"1",
+"@id":"4307533",
+"info":{"authors":{"author":[{"@pid":"l/SangWonLee","text":"Sang-Won Lee 0001"},{"@pid":"21/2436","text":"Yong-Han Kim"},{"@pid":"k/HyoungJooKim","text":"Hyoung-Joo Kim"}]},"title":"The semantics of an extended referential integrity for a multilevel secure relational data model.","venue":"Data Knowl. Eng.","volume":"48","number":"1","pages":"129-152","year":"2004","type":"Journal Articles","key":"journals/dke/LeeKK04","doi":"10.1016/S0169-023X(03)00122-8","ee":"https://doi.org/10.1016/S0169-023X(03)00122-8","url":"https://dblp.org/rec/journals/dke/LeeKK04"},
+"url":"URL#4307533"
+},
+{
+"@score":"1",
+"@id":"4307537",
+"info":{"authors":{"author":[{"@pid":"l/JixueLiu","text":"Jixue Liu"},{"@pid":"v/MillistWVincent","text":"Millist W. Vincent"}]},"title":"Querying relational databases through XSLT.","venue":"Data Knowl. Eng.","volume":"48","number":"1","pages":"103-128","year":"2004","type":"Journal Articles","key":"journals/dke/LiuV04","doi":"10.1016/S0169-023X(03)00121-6","ee":"https://doi.org/10.1016/S0169-023X(03)00121-6","url":"https://dblp.org/rec/journals/dke/LiuV04"},
+"url":"URL#4307537"
+},
+{
+"@score":"1",
+"@id":"4307541",
+"info":{"authors":{"author":[{"@pid":"n/NatalyaFridmanNoy","text":"Natalya Fridman Noy"},{"@pid":"91/5218","text":"Mark A. Musen"},{"@pid":"95/6419","text":"José L. V. Mejino Jr."},{"@pid":"48/3158","text":"Cornelius Rosse"}]},"title":"Pushing the envelope - challenges in a frame-based representation of human anatomy.","venue":"Data Knowl. Eng.","volume":"48","number":"3","pages":"335-359","year":"2004","type":"Journal Articles","key":"journals/dke/NoyMMR04","doi":"10.1016/J.DATAK.2003.06.002","ee":"https://doi.org/10.1016/j.datak.2003.06.002","url":"https://dblp.org/rec/journals/dke/NoyMMR04"},
+"url":"URL#4307541"
+},
+{
+"@score":"1",
+"@id":"4307543",
+"info":{"authors":{"author":[{"@pid":"76/5344","text":"Charnyote Pluempitiwiriyawej"},{"@pid":"h/JoachimHammer","text":"Joachim Hammer"}]},"title":"Element matching across data-oriented XML sources using a multi-strategy clustering model.","venue":"Data Knowl. Eng.","volume":"48","number":"3","pages":"297-333","year":"2004","type":"Journal Articles","key":"journals/dke/PluempitiwiriyawejH04","doi":"10.1016/J.DATAK.2003.06.001","ee":"https://doi.org/10.1016/j.datak.2003.06.001","url":"https://dblp.org/rec/journals/dke/PluempitiwiriyawejH04"},
+"url":"URL#4307543"
+},
+{
+"@score":"1",
+"@id":"4307549",
+"info":{"authors":{"author":[{"@pid":"91/2341","text":"Domenico Rosaci"},{"@pid":"t/GiorgioTerracina","text":"Giorgio Terracina"},{"@pid":"u/DomenicoUrsino","text":"Domenico Ursino"}]},"title":"A framework for abstracting data sources having heterogeneous representation formats.","venue":"Data Knowl. Eng.","volume":"48","number":"1","pages":"1-38","year":"2004","type":"Journal Articles","key":"journals/dke/RosaciTU04","doi":"10.1016/S0169-023X(03)00092-2","ee":"https://doi.org/10.1016/S0169-023X(03)00092-2","url":"https://dblp.org/rec/journals/dke/RosaciTU04"},
+"url":"URL#4307549"
+},
+{
+"@score":"1",
+"@id":"4307550",
+"info":{"authors":{"author":[{"@pid":"36/2688","text":"Horacio Saggion"},{"@pid":"01/1194","text":"Hamish Cunningham"},{"@pid":"b/KalinaBontcheva","text":"Kalina Bontcheva"},{"@pid":"69/4767","text":"Diana Maynard"},{"@pid":"60/1917","text":"Oana Hamza"},{"@pid":"w/YorickWilks","text":"Yorick Wilks"}]},"title":"Multimedia indexing through multi-source and multi-language information extraction - the MUMIS project.","venue":"Data Knowl. Eng.","volume":"48","number":"2","pages":"247-264","year":"2004","type":"Journal Articles","key":"journals/dke/SaggionCBMHW04","doi":"10.1016/S0169-023X(03)00108-3","ee":"https://doi.org/10.1016/S0169-023X(03)00108-3","url":"https://dblp.org/rec/journals/dke/SaggionCBMHW04"},
+"url":"URL#4307550"
+},
+{
+"@score":"1",
+"@id":"4307551",
+"info":{"authors":{"author":[{"@pid":"s/EikeSchallehn","text":"Eike Schallehn"},{"@pid":"s/KaiUweSattler","text":"Kai-Uwe Sattler"},{"@pid":"s/GunterSaake","text":"Gunter Saake"}]},"title":"Efficient similarity-based operations for data integration.","venue":"Data Knowl. Eng.","volume":"48","number":"3","pages":"361-387","year":"2004","type":"Journal Articles","key":"journals/dke/SchallehnSS04","doi":"10.1016/J.DATAK.2003.08.004","ee":"https://doi.org/10.1016/j.datak.2003.08.004","url":"https://dblp.org/rec/journals/dke/SchallehnSS04"},
+"url":"URL#4307551"
+}
+]
+}
 }
 }

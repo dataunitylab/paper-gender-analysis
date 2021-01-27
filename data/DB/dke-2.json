@@ -1,23 +1,110 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke2\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke2\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.41"
+"text":"147.40"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"13",
+"@dc":"13",
+"@oc":"13",
+"@id":"17615699",
+"text":":facetid:toc:db/journals/dke/dke2.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"13",
+"@computed":"13",
+"@sent":"13",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"5286831",
+"info":{"authors":{"author":[{"@pid":"c/DougCampbell","text":"Douglas M. Campbell"},{"@pid":"e/DWEmbley","text":"David W. Embley"},{"@pid":"30/3110","text":"Bogdan D. Czejdo"}]},"title":"Graphical Query Formulation for an Entity-Relationship Model.","venue":"Data Knowl. Eng.","volume":"2","pages":"89-121","year":"1987","type":"Journal Articles","key":"journals/dke/CampbellEC87","doi":"10.1016/0169-023X(87)90017-6","ee":"https://doi.org/10.1016/0169-023X(87)90017-6","url":"https://dblp.org/rec/journals/dke/CampbellEC87"},
+"url":"URL#5286831"
+},
+{
+"@score":"1",
+"@id":"5286832",
+"info":{"authors":{"author":[{"@pid":"78/1552","text":"P. Chisholm"},{"@pid":"87/3288","text":"G. Chen"},{"@pid":"69/6374","text":"D. Ferbrache"},{"@pid":"t/PeterThanisch","text":"Peter Thanisch"},{"@pid":"04/968","text":"M. Howard Williams"}]},"title":"Coping with Indefinite and Negative Data in Deductive Databases - A Survey.","venue":"Data Knowl. Eng.","volume":"2","pages":"259-284","year":"1987","type":"Journal Articles","key":"journals/dke/ChisholmCFTW87","doi":"10.1016/0169-023X(87)90022-X","ee":"https://doi.org/10.1016/0169-023X(87)90022-X","url":"https://dblp.org/rec/journals/dke/ChisholmCFTW87"},
+"url":"URL#5286832"
+},
+{
+"@score":"1",
+"@id":"5286833",
+"info":{"authors":{"author":[{"@pid":"d/FrankDignum","text":"Frank Dignum"},{"@pid":"38/5387","text":"T. Kemme"},{"@pid":"42/5714","text":"W. Kreuzen"},{"@pid":"70/260","text":"Hans Weigand"},{"@pid":"r/RPvandeRiet","text":"Reind P. van de Riet"}]},"title":"Constraint Modelling Using a Conceptual Prototyping Language.","venue":"Data Knowl. Eng.","volume":"2","pages":"213-254","year":"1987","type":"Journal Articles","key":"journals/dke/DignumKKWR87","doi":"10.1016/0169-023X(87)90031-0","ee":"https://doi.org/10.1016/0169-023X(87)90031-0","url":"https://dblp.org/rec/journals/dke/DignumKKWR87"},
+"url":"URL#5286833"
+},
+{
+"@score":"1",
+"@id":"5286834",
+"info":{"authors":{"author":[{"@pid":"f/NVFindler","text":"Nicholas V. Findler"},{"@pid":"35/6710","text":"Ji Gao"}]},"title":"Dynamic Hierarchical Control for Distributed Problem Solving.","venue":"Data Knowl. Eng.","volume":"2","pages":"285-301","year":"1987","type":"Journal Articles","key":"journals/dke/FindlerG87","doi":"10.1016/0169-023X(87)90023-1","ee":"https://doi.org/10.1016/0169-023X(87)90023-1","url":"https://dblp.org/rec/journals/dke/FindlerG87"},
+"url":"URL#5286834"
+},
+{
+"@score":"1",
+"@id":"5286835",
+"info":{"authors":{"author":[{"@pid":"65/92","text":"Donald A. Jardine"},{"@pid":"95/3253","text":"J. J. van Griethuysen"}]},"title":"A Logic-Based Information Modelling Language.","venue":"Data Knowl. Eng.","volume":"2","pages":"59-81","year":"1987","type":"Journal Articles","key":"journals/dke/JardineG87","doi":"10.1016/0169-023X(87)90009-7","ee":"https://doi.org/10.1016/0169-023X(87)90009-7","url":"https://dblp.org/rec/journals/dke/JardineG87"},
+"url":"URL#5286835"
+},
+{
+"@score":"1",
+"@id":"5286836",
+"info":{"authors":{"author":[{"@pid":"65/92","text":"Donald A. Jardine"},{"@pid":"95/3253","text":"J. J. van Griethuysen"}]},"title":"Specification of Information Systems Operations in INFOMOD.","venue":"Data Knowl. Eng.","volume":"2","pages":"177-190","year":"1987","type":"Journal Articles","key":"journals/dke/JardineG87a","doi":"10.1016/0169-023X(87)90029-2","ee":"https://doi.org/10.1016/0169-023X(87)90029-2","url":"https://dblp.org/rec/journals/dke/JardineG87a"},
+"url":"URL#5286836"
+},
+{
+"@score":"1",
+"@id":"5286837",
+"info":{"authors":{"author":[{"@pid":"98/2944","text":"Perry Jones"},{"@pid":"72/5652","text":"Michael J. R. Shave"}]},"title":"A Language for Simple Interactive Retrieval from a Database System.","venue":"Data Knowl. Eng.","volume":"2","pages":"303-321","year":"1987","type":"Journal Articles","key":"journals/dke/JonesS87","doi":"10.1016/0169-023X(87)90024-3","ee":"https://doi.org/10.1016/0169-023X(87)90024-3","url":"https://dblp.org/rec/journals/dke/JonesS87"},
+"url":"URL#5286837"
+},
+{
+"@score":"1",
+"@id":"5286838",
+"info":{"authors":{"author":{"@pid":"l/TokWangLing","text":"Tok Wang Ling"}},"title":"Integrity Constraint Checking in Deductive Databases Using the Prolog Not-Predicate.","venue":"Data Knowl. Eng.","volume":"2","pages":"145-168","year":"1987","type":"Journal Articles","key":"journals/dke/Ling87","doi":"10.1016/0169-023X(87)90019-X","ee":"https://doi.org/10.1016/0169-023X(87)90019-X","url":"https://dblp.org/rec/journals/dke/Ling87"},
+"url":"URL#5286838"
+},
+{
+"@score":"1",
+"@id":"5286839",
+"info":{"authors":{"author":[{"@pid":"p/GPiatetskyShapiro","text":"Gregory Piatetsky-Shapiro"},{"@pid":"03/2899","text":"Gabriel Jakobson"}]},"title":"An Intermediate Database Language and its Rule-Based Transformation to Different Database Languages.","venue":"Data Knowl. Eng.","volume":"2","pages":"1-29","year":"1987","type":"Journal Articles","key":"journals/dke/Piatetsky-ShapiroJ87","doi":"10.1016/0169-023X(87)90007-3","ee":"https://doi.org/10.1016/0169-023X(87)90007-3","url":"https://dblp.org/rec/journals/dke/Piatetsky-ShapiroJ87"},
+"url":"URL#5286839"
+},
+{
+"@score":"1",
+"@id":"5286840",
+"info":{"authors":{"author":[{"@pid":"32/769","text":"Kevin D. Reilly"},{"@pid":"80/6488","text":"Akram Salah 0001"},{"@pid":"36/6302","text":"Chao-Chih Yang"}]},"title":"A Logic Programming Perspective on Decision Table Theory and Practice.","venue":"Data Knowl. Eng.","volume":"2","pages":"191-212","year":"1987","type":"Journal Articles","key":"journals/dke/ReillySY87","doi":"10.1016/0169-023X(87)90030-9","ee":"https://doi.org/10.1016/0169-023X(87)90030-9","url":"https://dblp.org/rec/journals/dke/ReillySY87"},
+"url":"URL#5286840"
+},
+{
+"@score":"1",
+"@id":"5286841",
+"info":{"authors":{"author":[{"@pid":"47/183","text":"Arun Sen"},{"@pid":"k/LarryKerschberg","text":"Larry Kerschberg"}]},"title":"Enterprise Modeling for Database Specification and Design.","venue":"Data Knowl. Eng.","volume":"2","pages":"31-58","year":"1987","type":"Journal Articles","key":"journals/dke/SenK87","doi":"10.1016/0169-023X(87)90008-5","ee":"https://doi.org/10.1016/0169-023X(87)90008-5","url":"https://dblp.org/rec/journals/dke/SenK87"},
+"url":"URL#5286841"
+},
+{
+"@score":"1",
+"@id":"5286842",
+"info":{"authors":{"author":[{"@pid":"s/PeretzShoval","text":"Peretz Shoval"},{"@pid":"64/814","text":"Moshe Even-Chaime"}]},"title":"ADDS - A System for Automatic Database Schema Design Based on the Binary-Relationship Model.","venue":"Data Knowl. Eng.","volume":"2","pages":"123-144","year":"1987","type":"Journal Articles","key":"journals/dke/ShovalE87","doi":"10.1016/0169-023X(87)90018-8","ee":"https://doi.org/10.1016/0169-023X(87)90018-8","url":"https://dblp.org/rec/journals/dke/ShovalE87"},
+"url":"URL#5286842"
+},
+{
+"@score":"1",
+"@id":"5286843",
+"info":{"authors":{"author":{"@pid":"36/6302","text":"Chao-Chih Yang"}},"title":"On Interpreting and Inferring Propositional Formulas of Data Dependencies in a Relational Database.","venue":"Data Knowl. Eng.","volume":"2","pages":"323-338","year":"1987","type":"Journal Articles","key":"journals/dke/Yang87","doi":"10.1016/0169-023X(87)90025-5","ee":"https://doi.org/10.1016/0169-023X(87)90025-5","url":"https://dblp.org/rec/journals/dke/Yang87"},
+"url":"URL#5286843"
+}
+]
+}
 }
 }

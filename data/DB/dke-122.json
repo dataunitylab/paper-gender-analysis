@@ -1,23 +1,92 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke122\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke122\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.46"
+"text":"102.44"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"10",
+"@dc":"10",
+"@oc":"10",
+"@id":"17615683",
+"text":":facetid:toc:db/journals/dke/dke122.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"10",
+"@computed":"10",
+"@sent":"10",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"433929",
+"info":{"authors":{"author":[{"@pid":"34/6985","text":"Zijun Chen"},{"@pid":"54/2465","text":"Tingting Zhao"},{"@pid":"44/4260","text":"Wenyuan Liu"}]},"title":"Time-aware spatial keyword cover query.","venue":"Data Knowl. Eng.","volume":"122","pages":"81-100","year":"2019","type":"Journal Articles","key":"journals/dke/ChenZL19","doi":"10.1016/J.DATAK.2019.05.004","ee":"https://doi.org/10.1016/j.datak.2019.05.004","url":"https://dblp.org/rec/journals/dke/ChenZL19"},
+"url":"URL#433929"
+},
+{
+"@score":"1",
+"@id":"433931",
+"info":{"authors":{"author":[{"@pid":"185/9985","text":"Ludovik Coba"},{"@pid":"78/4490","text":"Panagiotis Symeonidis"},{"@pid":"90/3147","text":"Markus Zanker"}]},"title":"Personalised novel and explainable matrix factorisation.","venue":"Data Knowl. Eng.","volume":"122","pages":"142-158","year":"2019","type":"Journal Articles","key":"journals/dke/CobaSZ19","doi":"10.1016/J.DATAK.2019.06.003","ee":"https://doi.org/10.1016/j.datak.2019.06.003","url":"https://dblp.org/rec/journals/dke/CobaSZ19"},
+"url":"URL#433931"
+},
+{
+"@score":"1",
+"@id":"433932",
+"info":{"authors":{"author":[{"@pid":"193/4197","text":"Maria Bala Duggimpudi"},{"@pid":"213/1450","text":"Shaaban Abbady"},{"@pid":"49/6002-32","text":"Jian Chen 0032"},{"@pid":"r/VVRaghavan1","text":"Vijay V. Raghavan 0001"}]},"title":"Spatio-temporal outlier detection algorithms based on computing behavioral outlierness factor.","venue":"Data Knowl. Eng.","volume":"122","pages":"1-24","year":"2019","type":"Journal Articles","key":"journals/dke/DuggimpudiACR19","doi":"10.1016/J.DATAK.2017.12.001","ee":"https://doi.org/10.1016/j.datak.2017.12.001","url":"https://dblp.org/rec/journals/dke/DuggimpudiACR19"},
+"url":"URL#433932"
+},
+{
+"@score":"1",
+"@id":"433933",
+"info":{"authors":{"author":[{"@pid":"145/1136","text":"Cheikh Kacfah Emani"},{"@pid":"22/3884","text":"Catarina Ferreira Da Silva"},{"@pid":"75/175","text":"Bruno Fiés"},{"@pid":"91/4781","text":"Parisa Ghodous"}]},"title":"NALDO - From natural language definitions to OWL expressions.","venue":"Data Knowl. Eng.","volume":"122","pages":"130-141","year":"2019","type":"Journal Articles","key":"journals/dke/EmaniSFG19","doi":"10.1016/J.DATAK.2019.06.002","ee":"https://doi.org/10.1016/j.datak.2019.06.002","url":"https://dblp.org/rec/journals/dke/EmaniSFG19"},
+"url":"URL#433933"
+},
+{
+"@score":"1",
+"@id":"433940",
+"info":{"authors":{"author":[{"@pid":"246/4409","text":"Johnpaul C. I."},{"@pid":"44/57","text":"Munaga V. N. K. Prasad"},{"@pid":"39/7686","text":"S. Nickolas"},{"@pid":"10/3459","text":"G. R. Gangadharan"}]},"title":"General representational automata using deep neural networks.","venue":"Data Knowl. Eng.","volume":"122","pages":"159-180","year":"2019","type":"Journal Articles","key":"journals/dke/IPNG19","doi":"10.1016/J.DATAK.2019.06.004","ee":"https://doi.org/10.1016/j.datak.2019.06.004","url":"https://dblp.org/rec/journals/dke/IPNG19"},
+"url":"URL#433940"
+},
+{
+"@score":"1",
+"@id":"433942",
+"info":{"authors":{"author":[{"@pid":"194/9036","text":"Christos Kalyvas"},{"@pid":"89/1731","text":"Manolis Maragoudakis"}]},"title":"Skyline and reverse skyline query processing in SpatialHadoop.","venue":"Data Knowl. Eng.","volume":"122","pages":"55-80","year":"2019","type":"Journal Articles","key":"journals/dke/KalyvasM19","doi":"10.1016/J.DATAK.2019.04.004","ee":"https://doi.org/10.1016/j.datak.2019.04.004","url":"https://dblp.org/rec/journals/dke/KalyvasM19"},
+"url":"URL#433942"
+},
+{
+"@score":"1",
+"@id":"433948",
+"info":{"authors":{"author":{"@pid":"64/8687","text":"Julius Köpke"}},"title":"Annotation paths for matching XML-Schemas.","venue":"Data Knowl. Eng.","volume":"122","pages":"25-54","year":"2019","type":"Journal Articles","key":"journals/dke/Kopke19","doi":"10.1016/J.DATAK.2017.12.002","ee":"https://doi.org/10.1016/j.datak.2017.12.002","url":"https://dblp.org/rec/journals/dke/Kopke19"},
+"url":"URL#433948"
+},
+{
+"@score":"1",
+"@id":"433950",
+"info":{"authors":{"author":[{"@pid":"185/3447","text":"Ignacio Leguey"},{"@pid":"16/5524","text":"Concha Bielza"},{"@pid":"04/5852","text":"Pedro Larrañaga"}]},"title":"Circular Bayesian classifiers using wrapped Cauchy distributions.","venue":"Data Knowl. Eng.","volume":"122","pages":"101-115","year":"2019","type":"Journal Articles","key":"journals/dke/LegueyBL19","doi":"10.1016/J.DATAK.2019.05.005","ee":"https://doi.org/10.1016/j.datak.2019.05.005","url":"https://dblp.org/rec/journals/dke/LegueyBL19"},
+"url":"URL#433950"
+},
+{
+"@score":"1",
+"@id":"433957",
+"info":{"authors":{"author":[{"@pid":"225/1829","text":"Kevin O&apos;Hare"},{"@pid":"45/8120","text":"Anna Jurek-Loughrey"},{"@pid":"05/2010","text":"Cassio P. de Campos"}]},"title":"An unsupervised blocking technique for more efficient record linkage.","venue":"Data Knowl. Eng.","volume":"122","pages":"181-195","year":"2019","type":"Journal Articles","key":"journals/dke/OHareJC19","doi":"10.1016/J.DATAK.2019.06.005","ee":"https://doi.org/10.1016/j.datak.2019.06.005","url":"https://dblp.org/rec/journals/dke/OHareJC19"},
+"url":"URL#433957"
+},
+{
+"@score":"1",
+"@id":"433963",
+"info":{"authors":{"author":[{"@pid":"t/PeterThanisch","text":"Peter Thanisch"},{"@pid":"48/1823","text":"Tapio Niemi"},{"@pid":"58/1177","text":"Jyrki Nummenmaa"},{"@pid":"50/238","text":"Marko Niinimäki"}]},"title":"Detecting measurement issues in SQL arithmetic expressions and aggregations.","venue":"Data Knowl. Eng.","volume":"122","pages":"116-129","year":"2019","type":"Journal Articles","key":"journals/dke/ThanischNNN19","doi":"10.1016/J.DATAK.2019.06.001","ee":"https://doi.org/10.1016/j.datak.2019.06.001","url":"https://dblp.org/rec/journals/dke/ThanischNNN19"},
+"url":"URL#433963"
+}
+]
+}
 }
 }

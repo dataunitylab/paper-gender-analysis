@@ -1,23 +1,116 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke28\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke28\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.28"
+"text":"141.29"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"14",
+"@dc":"14",
+"@oc":"14",
+"@id":"17615708",
+"text":":facetid:toc:db/journals/dke/dke28.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"14",
+"@computed":"14",
+"@sent":"14",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"4862040",
+"info":{"authors":{"author":[{"@pid":"a/AnastasiaAnalyti","text":"Anastasia Analyti"},{"@pid":"s/NicolasSpyratos","text":"Nicolas Spyratos"},{"@pid":"c/PConstantopoulos","text":"Panos Constantopoulos"}]},"title":"Deriving Semantic Information through Property Covering and Inheritance.","venue":"Data Knowl. Eng.","volume":"28","number":"1","pages":"3-30","year":"1998","type":"Journal Articles","key":"journals/dke/AnalytiSC98","doi":"10.1016/S0169-023X(98)00011-1","ee":"https://doi.org/10.1016/S0169-023X(98)00011-1","url":"https://dblp.org/rec/journals/dke/AnalytiSC98"},
+"url":"URL#4862040"
+},
+{
+"@score":"1",
+"@id":"4862049",
+"info":{"authors":{"author":[{"@pid":"25/6332","text":"Debabrata Dey"},{"@pid":"90/3807","text":"Sumit Sarkar"}]},"title":"PSQL - A Query Language for Probabilistic Relational Data.","venue":"Data Knowl. Eng.","volume":"28","number":"1","pages":"107-120","year":"1998","type":"Journal Articles","key":"journals/dke/DeyS98","doi":"10.1016/S0169-023X(98)00015-9","ee":"https://doi.org/10.1016/S0169-023X(98)00015-9","url":"https://dblp.org/rec/journals/dke/DeyS98"},
+"url":"URL#4862049"
+},
+{
+"@score":"1",
+"@id":"4862050",
+"info":{"authors":{"author":[{"@pid":"e/OEtzion","text":"Opher Etzion"},{"@pid":"64/1608","text":"Boris Dahav"}]},"title":"Patterns of Self-Stabilization in Database Consistency Maintenance.","venue":"Data Knowl. Eng.","volume":"28","number":"3","pages":"299-319","year":"1998","type":"Journal Articles","key":"journals/dke/EtzionD98","doi":"10.1016/S0169-023X(98)00024-X","ee":"https://doi.org/10.1016/S0169-023X(98)00024-X","url":"https://dblp.org/rec/journals/dke/EtzionD98"},
+"url":"URL#4862050"
+},
+{
+"@score":"1",
+"@id":"4862053",
+"info":{"authors":{"author":[{"@pid":"57/5819","text":"Iqbal A. Goralwalla"},{"@pid":"s/DuaneSzafron","text":"Duane Szafron"},{"@pid":"o/MTamerOzsu","text":"M. Tamer Özsu"},{"@pid":"p/RJPeters","text":"Randal J. Peters"}]},"title":"A Temporal Approach to Managing Schema Evolution in Object Database Systems.","venue":"Data Knowl. Eng.","volume":"28","number":"1","pages":"73-105","year":"1998","type":"Journal Articles","key":"journals/dke/GoralwallaSOP98","doi":"10.1016/S0169-023X(98)00014-7","ee":"https://doi.org/10.1016/S0169-023X(98)00014-7","url":"https://dblp.org/rec/journals/dke/GoralwallaSOP98"},
+"url":"URL#4862053"
+},
+{
+"@score":"1",
+"@id":"4862055",
+"info":{"authors":{"author":{"@pid":"g/JarekGryz","text":"Jarek Gryz"}},"title":"An Architecture for a Parallel Disjunctive Deductive Database System.","venue":"Data Knowl. Eng.","volume":"28","number":"2","pages":"233-248","year":"1998","type":"Journal Articles","key":"journals/dke/Gryz98","doi":"10.1016/S0169-023X(98)00027-5","ee":"https://doi.org/10.1016/S0169-023X(98)00027-5","url":"https://dblp.org/rec/journals/dke/Gryz98"},
+"url":"URL#4862055"
+},
+{
+"@score":"1",
+"@id":"4862062",
+"info":{"authors":{"author":[{"@pid":"45/150","text":"Yakov A. Kogan"},{"@pid":"66/3491","text":"David Michaeli"},{"@pid":"26/5086","text":"Yehoshua Sagiv"},{"@pid":"s/OShmueli","text":"Oded Shmueli"}]},"title":"Utilizing the Multiple Facets of WWW Contents.","venue":"Data Knowl. Eng.","volume":"28","number":"3","pages":"255-275","year":"1998","type":"Journal Articles","key":"journals/dke/KoganMSS98","doi":"10.1016/S0169-023X(98)00026-3","ee":"https://doi.org/10.1016/S0169-023X(98)00026-3","url":"https://dblp.org/rec/journals/dke/KoganMSS98"},
+"url":"URL#4862062"
+},
+{
+"@score":"1",
+"@id":"4862064",
+"info":{"authors":{"author":[{"@pid":"97/1555","text":"Sze Kin Lam"},{"@pid":"w/ManHonWong","text":"Man Hon Wong 0001"}]},"title":"A Fast Projection Algorithm for Sequence Data Searching.","venue":"Data Knowl. Eng.","volume":"28","number":"3","pages":"321-339","year":"1998","type":"Journal Articles","key":"journals/dke/LamW98","doi":"10.1016/S0169-023X(98)00023-8","ee":"https://doi.org/10.1016/S0169-023X(98)00023-8","url":"https://dblp.org/rec/journals/dke/LamW98"},
+"url":"URL#4862064"
+},
+{
+"@score":"1",
+"@id":"4862068",
+"info":{"authors":{"author":[{"@pid":"l/HuiLei","text":"Hui Lei 0001"},{"@pid":"r/KARoss","text":"Kenneth A. Ross"}]},"title":"Faster Joins, Self-Joins and Multi-Way Joins Using Join Indices.","venue":"Data Knowl. Eng.","volume":"28","number":"3","pages":"277-298","year":"1998","type":"Journal Articles","key":"journals/dke/LeiR98","doi":"10.1016/S0169-023X(98)00025-1","ee":"https://doi.org/10.1016/S0169-023X(98)00025-1","url":"https://dblp.org/rec/journals/dke/LeiR98"},
+"url":"URL#4862068"
+},
+{
+"@score":"1",
+"@id":"4862077",
+"info":{"authors":{"author":[{"@pid":"68/2738","text":"Ojelanki K. Ngwenyama"},{"@pid":"b/KMOBryson","text":"Noel Bryson"}]},"title":"Generating Belief Functions from Qualitative Preferences - An Approach to Eliciting Expert Judgments and Deriving Probability Functions.","venue":"Data Knowl. Eng.","volume":"28","number":"2","pages":"145-159","year":"1998","type":"Journal Articles","key":"journals/dke/NgwenyamaB98","doi":"10.1016/S0169-023X(98)00008-1","ee":"https://doi.org/10.1016/S0169-023X(98)00008-1","url":"https://dblp.org/rec/journals/dke/NgwenyamaB98"},
+"url":"URL#4862077"
+},
+{
+"@score":"1",
+"@id":"4862081",
+"info":{"authors":{"author":[{"@pid":"p/APoulovassilis","text":"Alexandra Poulovassilis"},{"@pid":"m/PeterMcBrien","text":"Peter McBrien"}]},"title":"A General Formal Framework for Schema Transformation.","venue":"Data Knowl. Eng.","volume":"28","number":"1","pages":"47-71","year":"1998","type":"Journal Articles","key":"journals/dke/PoulovassilisM98","doi":"10.1016/S0169-023X(98)00013-5","ee":"https://doi.org/10.1016/S0169-023X(98)00013-5","url":"https://dblp.org/rec/journals/dke/PoulovassilisM98"},
+"url":"URL#4862081"
+},
+{
+"@score":"1",
+"@id":"4862087",
+"info":{"authors":{"author":{"@pid":"s/KlausDieterSchewe","text":"Klaus-Dieter Schewe"}},"title":"Consistency Enforcement in Entity-Relationship and Object-Oriented Models.","venue":"Data Knowl. Eng.","volume":"28","number":"1","pages":"121-140","year":"1998","type":"Journal Articles","key":"journals/dke/Schewe98","doi":"10.1016/S0169-023X(98)00016-0","ee":"https://doi.org/10.1016/S0169-023X(98)00016-0","url":"https://dblp.org/rec/journals/dke/Schewe98"},
+"url":"URL#4862087"
+},
+{
+"@score":"1",
+"@id":"4862091",
+"info":{"authors":{"author":{"@pid":"43/4008","text":"Christian Soutou"}},"title":"Relational Database Reverse Engineering - Algorithms to Extract Cardinality Constraints.","venue":"Data Knowl. Eng.","volume":"28","number":"2","pages":"161-207","year":"1998","type":"Journal Articles","key":"journals/dke/Soutou98","doi":"10.1016/S0169-023X(98)00017-2","ee":"https://doi.org/10.1016/S0169-023X(98)00017-2","url":"https://dblp.org/rec/journals/dke/Soutou98"},
+"url":"URL#4862091"
+},
+{
+"@score":"1",
+"@id":"4862092",
+"info":{"authors":{"author":[{"@pid":"41/1781","text":"Veda C. Storey"},{"@pid":"25/6332","text":"Debabrata Dey"},{"@pid":"08/1476","text":"Harald Ullrich"},{"@pid":"32/3909","text":"Shankar Sundaresan"}]},"title":"An Ontology-Based Expert System for Database Design.","venue":"Data Knowl. Eng.","volume":"28","number":"1","pages":"31-46","year":"1998","type":"Journal Articles","key":"journals/dke/StoreyDUS98","doi":"10.1016/S0169-023X(98)00012-3","ee":"https://doi.org/10.1016/S0169-023X(98)00012-3","url":"https://dblp.org/rec/journals/dke/StoreyDUS98"},
+"url":"URL#4862092"
+},
+{
+"@score":"1",
+"@id":"4862094",
+"info":{"authors":{"author":[{"@pid":"t/KianLeeTan","text":"Kian-Lee Tan"},{"@pid":"o/BengChinOoi","text":"Beng Chin Ooi"}]},"title":"On Selective Tuning in Unreliable Wireless Channels.","venue":"Data Knowl. Eng.","volume":"28","number":"2","pages":"209-231","year":"1998","type":"Journal Articles","key":"journals/dke/TanO98","doi":"10.1016/S0169-023X(98)00018-4","ee":"https://doi.org/10.1016/S0169-023X(98)00018-4","url":"https://dblp.org/rec/journals/dke/TanO98"},
+"url":"URL#4862094"
+}
+]
+}
 }
 }

@@ -1,23 +1,68 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke129\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke129\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.45"
+"text":"106.48"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"6",
+"@dc":"6",
+"@oc":"6",
+"@id":"17615690",
+"text":":facetid:toc:db/journals/dke/dke129.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"6",
+"@computed":"6",
+"@sent":"6",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"64365",
+"info":{"authors":{"author":[{"@pid":"o/CarlosOrdonez","text":"Carlos Ordonez 0001"},{"@pid":"s/IlYeolSong","text":"Il-Yeol Song"}]},"title":"Guest Editorial - DaWaK 2019 Special Issue - Evolving Big Data Analytics Towards Data Science.","venue":"Data Knowl. Eng.","volume":"129","pages":"101838","year":"2020","type":"Journal Articles","key":"journals/dke/0001S20","doi":"10.1016/J.DATAK.2020.101838","ee":"https://doi.org/10.1016/j.datak.2020.101838","url":"https://dblp.org/rec/journals/dke/0001S20"},
+"url":"URL#64365"
+},
+{
+"@score":"1",
+"@id":"64366",
+"info":{"authors":{"author":[{"@pid":"59/5997","text":"Pablo Accuosto"},{"@pid":"36/2688","text":"Horacio Saggion"}]},"title":"Mining arguments in scientific abstracts with discourse-level embeddings.","venue":"Data Knowl. Eng.","volume":"129","pages":"101840","year":"2020","type":"Journal Articles","key":"journals/dke/AccuostoS20","doi":"10.1016/J.DATAK.2020.101840","ee":"https://doi.org/10.1016/j.datak.2020.101840","url":"https://dblp.org/rec/journals/dke/AccuostoS20"},
+"url":"URL#64366"
+},
+{
+"@score":"1",
+"@id":"64370",
+"info":{"authors":{"author":[{"@pid":"42/2586","text":"Troels Andreasen"},{"@pid":"92/2350","text":"Henrik Bulskov"},{"@pid":"09/2841","text":"Per Anker Jensen"},{"@pid":"95/2533","text":"Jørgen Fischer Nilsson"}]},"title":"Natural logic knowledge bases and their graph form.","venue":"Data Knowl. Eng.","volume":"129","pages":"101848","year":"2020","type":"Journal Articles","key":"journals/dke/AndreasenBJN20","doi":"10.1016/J.DATAK.2020.101848","ee":"https://doi.org/10.1016/j.datak.2020.101848","url":"https://dblp.org/rec/journals/dke/AndreasenBJN20"},
+"url":"URL#64370"
+},
+{
+"@score":"1",
+"@id":"64371",
+"info":{"authors":{"author":[{"@pid":"247/1348","text":"Judith Awiti"},{"@pid":"58/6139","text":"Alejandro A. Vaisman"},{"@pid":"82/2871","text":"Esteban Zimányi"}]},"title":"Design and implementation of ETL processes using BPMN and relational algebra.","venue":"Data Knowl. Eng.","volume":"129","pages":"101837","year":"2020","type":"Journal Articles","key":"journals/dke/AwitiVZ20","doi":"10.1016/J.DATAK.2020.101837","ee":"https://doi.org/10.1016/j.datak.2020.101837","url":"https://dblp.org/rec/journals/dke/AwitiVZ20"},
+"url":"URL#64371"
+},
+{
+"@score":"1",
+"@id":"64379",
+"info":{"authors":{"author":[{"@pid":"136/4315","text":"Enrico Gallinucci"},{"@pid":"g/MatteoGolfarelli","text":"Matteo Golfarelli"},{"@pid":"75/5487","text":"Stefano Rizzi"}]},"title":"Mo.Re.Farming - A hybrid architecture for tactical and strategic precision agriculture.","venue":"Data Knowl. Eng.","volume":"129","pages":"101836","year":"2020","type":"Journal Articles","key":"journals/dke/GallinucciGR20","doi":"10.1016/J.DATAK.2020.101836","ee":"https://doi.org/10.1016/j.datak.2020.101836","url":"https://dblp.org/rec/journals/dke/GallinucciGR20"},
+"url":"URL#64379"
+},
+{
+"@score":"1",
+"@id":"64395",
+"info":{"authors":{"author":[{"@pid":"14/10956","text":"Samant Saurabh"},{"@pid":"m/SanjayKumarMadria","text":"Sanjay Madria"},{"@pid":"61/780","text":"Anirban Mondal"},{"@pid":"45/173","text":"Ashok Singh Sairam"},{"@pid":"34/8757","text":"Saurabh Mishra"}]},"title":"An analytical model for information gathering and propagation in social networks using random graphs.","venue":"Data Knowl. Eng.","volume":"129","pages":"101852","year":"2020","type":"Journal Articles","key":"journals/dke/SaurabhMMSM20","doi":"10.1016/J.DATAK.2020.101852","ee":"https://doi.org/10.1016/j.datak.2020.101852","url":"https://dblp.org/rec/journals/dke/SaurabhMMSM20"},
+"url":"URL#64395"
+}
+]
+}
 }
 }

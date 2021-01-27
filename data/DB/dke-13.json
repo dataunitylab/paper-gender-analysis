@@ -1,23 +1,92 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke13\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke13\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.53"
+"text":"100.64"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"10",
+"@dc":"10",
+"@oc":"10",
+"@id":"17615691",
+"text":":facetid:toc:db/journals/dke/dke13.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"10",
+"@computed":"10",
+"@sent":"10",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"5072937",
+"info":{"authors":{"author":{"@pid":"b/PvBommel","text":"Patrick van Bommel"}},"title":"Experiences with EDO - An Evolutionary Database Optimizer.","venue":"Data Knowl. Eng.","volume":"13","number":"3","pages":"243-263","year":"1994","type":"Journal Articles","key":"journals/dke/Bommel94","doi":"10.1016/0169-023X(94)00017-4","ee":"https://doi.org/10.1016/0169-023X(94)00017-4","url":"https://dblp.org/rec/journals/dke/Bommel94"},
+"url":"URL#5072937"
+},
+{
+"@score":"1",
+"@id":"5072940",
+"info":{"authors":{"author":[{"@pid":"08/2052","text":"Jean-Pierre Cheiney"},{"@pid":"06/400","text":"Yan-Nong Huang"}]},"title":"Efficient Maintenance of Explicit Transitive Closures with Set-Oriented Update Propagation and Parallel Processing.","venue":"Data Knowl. Eng.","volume":"13","number":"3","pages":"197-220","year":"1994","type":"Journal Articles","key":"journals/dke/CheineyH94","doi":"10.1016/0169-023X(94)00014-X","ee":"https://doi.org/10.1016/0169-023X(94)00014-X","url":"https://dblp.org/rec/journals/dke/CheineyH94"},
+"url":"URL#5072940"
+},
+{
+"@score":"1",
+"@id":"5072944",
+"info":{"authors":{"author":[{"@pid":"f/BFinance","text":"Béatrice Finance"},{"@pid":"g/GeorgesGardarin","text":"Georges Gardarin"}]},"title":"A Rule-Based Query Optimizer with Multiple Search Strategies.","venue":"Data Knowl. Eng.","volume":"13","number":"1","pages":"1-29","year":"1994","type":"Journal Articles","key":"journals/dke/FinanceG94","doi":"10.1016/0169-023X(94)90045-0","ee":"https://doi.org/10.1016/0169-023X(94)90045-0","url":"https://dblp.org/rec/journals/dke/FinanceG94"},
+"url":"URL#5072944"
+},
+{
+"@score":"1",
+"@id":"5072950",
+"info":{"authors":{"author":[{"@pid":"62/4474","text":"Karen L. Kwast"},{"@pid":"63/1601","text":"Sieger van Denneheuvel"}]},"title":"Duplicates in SQL.","venue":"Data Knowl. Eng.","volume":"13","number":"1","pages":"31-66","year":"1994","type":"Journal Articles","key":"journals/dke/KwastD94","doi":"10.1016/0169-023X(94)90046-9","ee":"https://doi.org/10.1016/0169-023X(94)90046-9","url":"https://dblp.org/rec/journals/dke/KwastD94"},
+"url":"URL#5072950"
+},
+{
+"@score":"1",
+"@id":"5072951",
+"info":{"authors":{"author":[{"@pid":"181/2689-1","text":"Qing Li 0001"},{"@pid":"d/GuozhuDong","text":"Guozhu Dong"}]},"title":"A Framework for Object Migration in Object-Oriented Databases.","venue":"Data Knowl. Eng.","volume":"13","number":"3","pages":"221-242","year":"1994","type":"Journal Articles","key":"journals/dke/LiD94","doi":"10.1016/0169-023X(94)00015-8","ee":"https://doi.org/10.1016/0169-023X(94)00015-8","url":"https://dblp.org/rec/journals/dke/LiD94"},
+"url":"URL#5072951"
+},
+{
+"@score":"1",
+"@id":"5072955",
+"info":{"authors":{"author":[{"@pid":"p/LuigiPalopoli","text":"Luigi Palopoli"},{"@pid":"t/RiccardoTorlone","text":"Riccardo Torlone"}]},"title":"A Rule-Based Update Language for Complex Objects with Identity.","venue":"Data Knowl. Eng.","volume":"13","number":"1","pages":"67-96","year":"1994","type":"Journal Articles","key":"journals/dke/PalopoliT94","doi":"10.1016/0169-023X(94)90047-7","ee":"https://doi.org/10.1016/0169-023X(94)90047-7","url":"https://dblp.org/rec/journals/dke/PalopoliT94"},
+"url":"URL#5072955"
+},
+{
+"@score":"1",
+"@id":"5072956",
+"info":{"authors":{"author":[{"@pid":"p/FioraPirri","text":"Fiora Pirri"},{"@pid":"p/ClaraPizzuti","text":"Clara Pizzuti"}]},"title":"Explaining Incompatibilities in Data Dictionary Design through Abduction.","venue":"Data Knowl. Eng.","volume":"13","number":"2","pages":"101-139","year":"1994","type":"Journal Articles","key":"journals/dke/PirriP94","doi":"10.1016/0169-023X(94)90001-9","ee":"https://doi.org/10.1016/0169-023X(94)90001-9","url":"https://dblp.org/rec/journals/dke/PirriP94"},
+"url":"URL#5072956"
+},
+{
+"@score":"1",
+"@id":"5072958",
+"info":{"authors":{"author":{"@pid":"73/2861","text":"Andrea Schaerf"}},"title":"Reasoning with Individuals in Concept Languages.","venue":"Data Knowl. Eng.","volume":"13","number":"2","pages":"141-176","year":"1994","type":"Journal Articles","key":"journals/dke/Schaerf94","doi":"10.1016/0169-023X(94)90002-7","ee":"https://doi.org/10.1016/0169-023X(94)90002-7","url":"https://dblp.org/rec/journals/dke/Schaerf94"},
+"url":"URL#5072958"
+},
+{
+"@score":"1",
+"@id":"5072961",
+"info":{"authors":{"author":[{"@pid":"90/2838","text":"Jan Vanthienen"},{"@pid":"00/1842","text":"Geert Wets"}]},"title":"From Decision Tables to Expert System Shells.","venue":"Data Knowl. Eng.","volume":"13","number":"3","pages":"265-282","year":"1994","type":"Journal Articles","key":"journals/dke/VanthienenW94","doi":"10.1016/0169-023X(94)00020-4","ee":"https://doi.org/10.1016/0169-023X(94)00020-4","url":"https://dblp.org/rec/journals/dke/VanthienenW94"},
+"url":"URL#5072961"
+},
+{
+"@score":"1",
+"@id":"5072963",
+"info":{"authors":{"author":[{"@pid":"z/XiaofangZhou","text":"Xiaofang Zhou 0001"},{"@pid":"32/2837","text":"Yanchun Zhang"},{"@pid":"o/MariaEOrlowska","text":"Maria E. Orlowska"}]},"title":"A new Fragmentation Scheme for Recursive Query Processing.","venue":"Data Knowl. Eng.","volume":"13","number":"2","pages":"177-192","year":"1994","type":"Journal Articles","key":"journals/dke/ZhouZO94","doi":"10.1016/0169-023X(94)90003-5","ee":"https://doi.org/10.1016/0169-023X(94)90003-5","url":"https://dblp.org/rec/journals/dke/ZhouZO94"},
+"url":"URL#5072963"
+}
+]
+}
 }
 }

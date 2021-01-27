@@ -1,23 +1,122 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke4\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke4\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.54"
+"text":"101.06"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"15",
+"@dc":"15",
+"@oc":"15",
+"@id":"17615721",
+"text":":facetid:toc:db/journals/dke/dke4.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"15",
+"@computed":"15",
+"@sent":"15",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"5244568",
+"info":{"authors":{"author":[{"@pid":"33/3618","text":"Francesco Antonacci"},{"@pid":"19/6361","text":"M. Russo"},{"@pid":"98/2076","text":"Maria Teresa Pazienza"},{"@pid":"12/2807","text":"Paola Velardi"}]},"title":"A System for Text Analysis and Lexical Knowledge Acquisition.","venue":"Data Knowl. Eng.","volume":"4","number":"1","pages":"1-20","year":"1989","type":"Journal Articles","key":"journals/dke/AntonacciRPV89","doi":"10.1016/0169-023X(89)90002-5","ee":"https://doi.org/10.1016/0169-023X(89)90002-5","url":"https://dblp.org/rec/journals/dke/AntonacciRPV89"},
+"url":"URL#5244568"
+},
+{
+"@score":"1",
+"@id":"5244569",
+"info":{"authors":{"author":[{"@pid":"33/138","text":"Anupam Basu"},{"@pid":"75/2752","text":"Tapas K. Nayak"},{"@pid":"72/5978","text":"Sarit Mukherjee"}]},"title":"Design and Simulation of a Parallel Inference Machine Architecture for Rule Based Systems.","venue":"Data Knowl. Eng.","volume":"4","pages":"267-285","year":"1989","type":"Journal Articles","key":"journals/dke/BasuNM89","doi":"10.1016/0169-023X(89)90026-8","ee":"https://doi.org/10.1016/0169-023X(89)90026-8","url":"https://dblp.org/rec/journals/dke/BasuNM89"},
+"url":"URL#5244569"
+},
+{
+"@score":"1",
+"@id":"5244570",
+"info":{"authors":{"author":[{"@pid":"b/GiuseppeDiBattista","text":"Giuseppe Di Battista"},{"@pid":"65/919","text":"Hannu Kangassalo"},{"@pid":"t/RobertoTamassia","text":"Roberto Tamassia"}]},"title":"Definition Libraries for Conceptual Modelling.","venue":"Data Knowl. Eng.","volume":"4","pages":"245-260","year":"1989","type":"Journal Articles","key":"journals/dke/BattistaKT89","doi":"10.1016/0169-023X(89)90022-0","ee":"https://doi.org/10.1016/0169-023X(89)90022-0","url":"https://dblp.org/rec/journals/dke/BattistaKT89"},
+"url":"URL#5244570"
+},
+{
+"@score":"1",
+"@id":"5244572",
+"info":{"authors":{"author":[{"@pid":"34/3441","text":"Subrata Kumar Das"},{"@pid":"04/968","text":"M. Howard Williams"}]},"title":"A Path Finding Method for Constraint Checking in Deductive Databases.","venue":"Data Knowl. Eng.","volume":"4","pages":"223-244","year":"1989","type":"Journal Articles","key":"journals/dke/DasW89","doi":"10.1016/0169-023X(89)90021-9","ee":"https://doi.org/10.1016/0169-023X(89)90021-9","url":"https://dblp.org/rec/journals/dke/DasW89"},
+"url":"URL#5244572"
+},
+{
+"@score":"1",
+"@id":"5244573",
+"info":{"authors":{"author":{"@pid":"h/WarrenHarrison","text":"Warren Harrison"}},"title":"PDSS - A Programmer&apos;s Decision Support System.","venue":"Data Knowl. Eng.","volume":"4","pages":"115-123","year":"1989","type":"Journal Articles","key":"journals/dke/Harrison89","doi":"10.1016/0169-023X(89)90036-0","ee":"https://doi.org/10.1016/0169-023X(89)90036-0","url":"https://dblp.org/rec/journals/dke/Harrison89"},
+"url":"URL#5244573"
+},
+{
+"@score":"1",
+"@id":"5244575",
+"info":{"authors":{"author":[{"@pid":"l/KwongSakLeung","text":"Kwong-Sak Leung"},{"@pid":"w/ManHonWong","text":"Man Hon Wong 0001"},{"@pid":"73/5607","text":"W. Lam"}]},"title":"A Fuzzy Expert Database System.","venue":"Data Knowl. Eng.","volume":"4","pages":"287-304","year":"1989","type":"Journal Articles","key":"journals/dke/LeungWL89","doi":"10.1016/0169-023X(89)90027-X","ee":"https://doi.org/10.1016/0169-023X(89)90027-X","url":"https://dblp.org/rec/journals/dke/LeungWL89"},
+"url":"URL#5244575"
+},
+{
+"@score":"1",
+"@id":"5244576",
+"info":{"authors":{"author":{"@pid":"l/FrankLeymann","text":"Frank Leymann"}},"title":"A Survey of the Universal Relation Model.","venue":"Data Knowl. Eng.","volume":"4","pages":"305-320","year":"1989","type":"Journal Articles","key":"journals/dke/Leymann89","doi":"10.1016/0169-023X(89)90028-1","ee":"https://doi.org/10.1016/0169-023X(89)90028-1","url":"https://dblp.org/rec/journals/dke/Leymann89"},
+"url":"URL#5244576"
+},
+{
+"@score":"1",
+"@id":"5244577",
+"info":{"authors":{"author":[{"@pid":"51/1612","text":"Chih-Chen Lin"},{"@pid":"03/5097","text":"Leo Mark"},{"@pid":"s/TimosKSellis","text":"Timos K. Sellis"},{"@pid":"f/CFaloutsos","text":"Christos Faloutsos"}]},"title":"Performance Issues in the Binary Relationship Model.","venue":"Data Knowl. Eng.","volume":"4","pages":"195-221","year":"1989","type":"Journal Articles","key":"journals/dke/LinMSF89","doi":"10.1016/0169-023X(89)90020-7","ee":"https://doi.org/10.1016/0169-023X(89)90020-7","url":"https://dblp.org/rec/journals/dke/LinMSF89"},
+"url":"URL#5244577"
+},
+{
+"@score":"1",
+"@id":"5244578",
+"info":{"authors":{"author":[{"@pid":"44/721","text":"Gia Toan Nguyen"},{"@pid":"54/5215","text":"Dominique Rieu"}]},"title":"Schema Evolution in Object-Oriented Database Systems.","venue":"Data Knowl. Eng.","volume":"4","number":"1","pages":"43-67","year":"1989","type":"Journal Articles","key":"journals/dke/NguyenR89","doi":"10.1016/0169-023X(89)90004-9","ee":"https://doi.org/10.1016/0169-023X(89)90004-9","url":"https://dblp.org/rec/journals/dke/NguyenR89"},
+"url":"URL#5244578"
+},
+{
+"@score":"1",
+"@id":"5244580",
+"info":{"authors":{"author":{"@pid":"95/6388","text":"W. A. Perkins"}},"title":"Generation of Natural Language from Information in a Frame Structure.","venue":"Data Knowl. Eng.","volume":"4","pages":"101-114","year":"1989","type":"Journal Articles","key":"journals/dke/Perkins89","doi":"10.1016/0169-023X(89)90035-9","ee":"https://doi.org/10.1016/0169-023X(89)90035-9","url":"https://dblp.org/rec/journals/dke/Perkins89"},
+"url":"URL#5244580"
+},
+{
+"@score":"1",
+"@id":"5244581",
+"info":{"authors":{"author":[{"@pid":"p/WalterDPotter","text":"Walter D. Potter"},{"@pid":"34/6520","text":"Robert P. Trueblood"},{"@pid":"e/CarolineMEastman","text":"Caroline M. Eastman"}]},"title":"Hyper-Semantic Data Modeling.","venue":"Data Knowl. Eng.","volume":"4","number":"1","pages":"69-90","year":"1989","type":"Journal Articles","key":"journals/dke/PotterTE89","doi":"10.1016/0169-023X(89)90005-0","ee":"https://doi.org/10.1016/0169-023X(89)90005-0","url":"https://dblp.org/rec/journals/dke/PotterTE89"},
+"url":"URL#5244581"
+},
+{
+"@score":"1",
+"@id":"5244582",
+"info":{"authors":{"author":[{"@pid":"r/UlrichReimer","text":"Ulrich Reimer"},{"@pid":"s/HansJorgSchek","text":"Hans-Jörg Schek"}]},"title":"A Frame-Based Knowledge Representation Model and its Mapping to Nested Relations.","venue":"Data Knowl. Eng.","volume":"4","pages":"321-352","year":"1989","type":"Journal Articles","key":"journals/dke/ReimerS89","doi":"10.1016/0169-023X(89)90029-3","ee":"https://doi.org/10.1016/0169-023X(89)90029-3","url":"https://dblp.org/rec/journals/dke/ReimerS89"},
+"url":"URL#5244582"
+},
+{
+"@score":"1",
+"@id":"5244583",
+"info":{"authors":{"author":{"@pid":"r/RPvandeRiet","text":"Reind P. van de Riet"}},"title":"MOKUM - An Object-Oriented Active Knowledge Base System.","venue":"Data Knowl. Eng.","volume":"4","number":"1","pages":"21-42","year":"1989","type":"Journal Articles","key":"journals/dke/Riet89","doi":"10.1016/0169-023X(89)90003-7","ee":"https://doi.org/10.1016/0169-023X(89)90003-7","url":"https://dblp.org/rec/journals/dke/Riet89"},
+"url":"URL#5244583"
+},
+{
+"@score":"1",
+"@id":"5244586",
+"info":{"authors":{"author":{"@pid":"38/6399","text":"Steven Twine"}},"title":"Mapping between a NIAM Conceptual Schema and KEE Frames.","venue":"Data Knowl. Eng.","volume":"4","pages":"125-155","year":"1989","type":"Journal Articles","key":"journals/dke/Twine89","doi":"10.1016/0169-023X(89)90037-2","ee":"https://doi.org/10.1016/0169-023X(89)90037-2","url":"https://dblp.org/rec/journals/dke/Twine89"},
+"url":"URL#5244586"
+},
+{
+"@score":"1",
+"@id":"5244587",
+"info":{"authors":{"author":[{"@pid":"w/RoelWieringa","text":"Roel J. Wieringa"},{"@pid":"m/JJCMeyer","text":"John-Jules Ch. Meyer"},{"@pid":"70/260","text":"Hans Weigand"}]},"title":"Specifying Dynamic and Deontic Integrity Constraints.","venue":"Data Knowl. Eng.","volume":"4","pages":"157-189","year":"1989","type":"Journal Articles","key":"journals/dke/WieringaMW89","doi":"10.1016/0169-023X(89)90038-4","ee":"https://doi.org/10.1016/0169-023X(89)90038-4","url":"https://dblp.org/rec/journals/dke/WieringaMW89"},
+"url":"URL#5244587"
+}
+]
+}
 }
 }

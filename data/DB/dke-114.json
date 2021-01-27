@@ -1,23 +1,68 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke114\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke114\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.53"
+"text":"111.32"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"6",
+"@dc":"6",
+"@oc":"6",
+"@id":"17615674",
+"text":":facetid:toc:db/journals/dke/dke114.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"6",
+"@computed":"6",
+"@sent":"6",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"821343",
+"info":{"authors":{"author":[{"@pid":"58/2848","text":"Lam Thu Bui"},{"@pid":"191/0611","text":"Van Truong Vu"},{"@pid":"168/0627","text":"Thi Thu Huong Dinh"}]},"title":"A novel evolutionary multi-objective ensemble learning approach for forecasting currency exchange rates.","venue":"Data Knowl. Eng.","volume":"114","pages":"40-66","year":"2018","type":"Journal Articles","key":"journals/dke/BuiVD18","doi":"10.1016/J.DATAK.2017.07.001","ee":"https://doi.org/10.1016/j.datak.2017.07.001","url":"https://dblp.org/rec/journals/dke/BuiVD18"},
+"url":"URL#821343"
+},
+{
+"@score":"1",
+"@id":"821353",
+"info":{"authors":{"author":[{"@pid":"35/6092","text":"Phan-Thuan Do"},{"@pid":"171/2676","text":"Nguyen-Viet-Dung Nghiem"},{"@pid":"171/2670","text":"Ngoc-Quang Nguyen"},{"@pid":"03/1673","text":"Quang-Dung Pham"}]},"title":"A time-dependent model with speed windows for share-a-ride problems - A case study for Tokyo transportation.","venue":"Data Knowl. Eng.","volume":"114","pages":"67-85","year":"2018","type":"Journal Articles","key":"journals/dke/DoNNP18","doi":"10.1016/J.DATAK.2017.06.002","ee":"https://doi.org/10.1016/j.datak.2017.06.002","url":"https://dblp.org/rec/journals/dke/DoNNP18"},
+"url":"URL#821353"
+},
+{
+"@score":"1",
+"@id":"821355",
+"info":{"authors":{"author":[{"@pid":"191/0617","text":"Mai Duong"},{"@pid":"121/2623","text":"Minh-Quoc Nghiem"},{"@pid":"174/4407","text":"Ngan Luu-Thuy Nguyen"}]},"title":"Exploring alignment-classification methods in the context of professional writing assistance.","venue":"Data Knowl. Eng.","volume":"114","pages":"1-11","year":"2018","type":"Journal Articles","key":"journals/dke/DuongNN18","doi":"10.1016/J.DATAK.2017.08.005","ee":"https://doi.org/10.1016/j.datak.2017.08.005","url":"https://dblp.org/rec/journals/dke/DuongNN18"},
+"url":"URL#821355"
+},
+{
+"@score":"1",
+"@id":"821364",
+"info":{"authors":{"author":[{"@pid":"36/7726","text":"Ashwin Ittoo"},{"@pid":"n/MinhLeNguyen","text":"Minh Le Nguyen"},{"@pid":"23/3704","text":"Satoshi Tojo"}]},"title":"Preface KSE 2016.","venue":"Data Knowl. Eng.","volume":"114","pages":"iii","year":"2018","type":"Journal Articles","key":"journals/dke/IttooNT18","doi":"10.1016/S0169-023X(18)30107-1","ee":"https://doi.org/10.1016/S0169-023X(18)30107-1","url":"https://dblp.org/rec/journals/dke/IttooNT18"},
+"url":"URL#821364"
+},
+{
+"@score":"1",
+"@id":"821389",
+"info":{"authors":{"author":[{"@pid":"138/9957","text":"Duc-Hong Pham"},{"@pid":"97/1252","text":"Anh-Cuong Le"}]},"title":"Learning multiple layers of knowledge representation for aspect based sentiment analysis.","venue":"Data Knowl. Eng.","volume":"114","pages":"26-39","year":"2018","type":"Journal Articles","key":"journals/dke/PhamL18","doi":"10.1016/J.DATAK.2017.06.001","ee":"https://doi.org/10.1016/j.datak.2017.06.001","url":"https://dblp.org/rec/journals/dke/PhamL18"},
+"url":"URL#821389"
+},
+{
+"@score":"1",
+"@id":"821390",
+"info":{"authors":{"author":[{"@pid":"207/4674","text":"Anh Viet Phan"},{"@pid":"191/0588","text":"Ngoc Phuong Chau"},{"@pid":"n/MinhLeNguyen","text":"Minh Le Nguyen"},{"@pid":"58/2848","text":"Lam Thu Bui"}]},"title":"Automatically classifying source code using tree-based approaches.","venue":"Data Knowl. Eng.","volume":"114","pages":"12-25","year":"2018","type":"Journal Articles","key":"journals/dke/PhanCNB18","doi":"10.1016/J.DATAK.2017.07.003","ee":"https://doi.org/10.1016/j.datak.2017.07.003","url":"https://dblp.org/rec/journals/dke/PhanCNB18"},
+"url":"URL#821390"
+}
+]
+}
 }
 }

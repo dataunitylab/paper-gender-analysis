@@ -1,23 +1,86 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke31\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke31\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.55"
+"text":"101.83"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"9",
+"@dc":"9",
+"@oc":"9",
+"@id":"17615712",
+"text":":facetid:toc:db/journals/dke/dke31.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"9",
+"@computed":"9",
+"@sent":"9",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"4794999",
+"info":{"authors":{"author":[{"@pid":"c/SilvanaCastano","text":"Silvana Castano"},{"@pid":"a/ValeriaDeAntonellis","text":"Valeria De Antonellis"},{"@pid":"45/1072","text":"Michele Melchiori"}]},"title":"A Methodology and Tool Environment for Process Analysis and Reengineering.","venue":"Data Knowl. Eng.","volume":"31","number":"3","pages":"253-278","year":"1999","type":"Journal Articles","key":"journals/dke/CastanoAM99","doi":"10.1016/S0169-023X(99)00028-2","ee":"https://doi.org/10.1016/S0169-023X(99)00028-2","url":"https://dblp.org/rec/journals/dke/CastanoAM99"},
+"url":"URL#4794999"
+},
+{
+"@score":"1",
+"@id":"4795002",
+"info":{"authors":{"author":[{"@pid":"e/DWEmbley","text":"David W. Embley"},{"@pid":"c/DougCampbell","text":"Douglas M. Campbell"},{"@pid":"64/2889","text":"Y. S. Jiang"},{"@pid":"l/StephenWLiddle","text":"Stephen W. Liddle"},{"@pid":"08/4453","text":"Yiu-Kai Ng"},{"@pid":"q/DQuass","text":"Dallan Quass"},{"@pid":"91/243","text":"Randy D. Smith"}]},"title":"Conceptual-Model-Based Data Extraction from Multiple-Record Web Pages.","venue":"Data Knowl. Eng.","volume":"31","number":"3","pages":"227-251","year":"1999","type":"Journal Articles","key":"journals/dke/EmbleyCJLNQS99","doi":"10.1016/S0169-023X(99)00027-0","ee":"https://doi.org/10.1016/S0169-023X(99)00027-0","url":"https://dblp.org/rec/journals/dke/EmbleyCJLNQS99"},
+"url":"URL#4795002"
+},
+{
+"@score":"1",
+"@id":"4795003",
+"info":{"authors":{"author":[{"@pid":"28/6504","text":"Aldo Gangemi"},{"@pid":"19/4883","text":"Domenico M. Pisanelli"},{"@pid":"50/5529","text":"Geri Steve"}]},"title":"An Overview of the ONIONS Project - Applying Ontologies to the Integration of Medical Terminologies.","venue":"Data Knowl. Eng.","volume":"31","number":"2","pages":"183-220","year":"1999","type":"Journal Articles","key":"journals/dke/GangemiPS99","doi":"10.1016/S0169-023X(99)00023-3","ee":"https://doi.org/10.1016/S0169-023X(99)00023-3","url":"https://dblp.org/rec/journals/dke/GangemiPS99"},
+"url":"URL#4795003"
+},
+{
+"@score":"1",
+"@id":"4795007",
+"info":{"authors":{"author":[{"@pid":"j/PaulJohannesson","text":"Paul Johannesson"},{"@pid":"01/1248","text":"Petia Wohed"}]},"title":"The Deontic Pattern - a Framework for Domain Analysis in Information Systems Design.","venue":"Data Knowl. Eng.","volume":"31","number":"2","pages":"135-153","year":"1999","type":"Journal Articles","key":"journals/dke/JohannessonW99","doi":"10.1016/S0169-023X(99)00019-1","ee":"https://doi.org/10.1016/S0169-023X(99)00019-1","url":"https://dblp.org/rec/journals/dke/JohannessonW99"},
+"url":"URL#4795007"
+},
+{
+"@score":"1",
+"@id":"4795009",
+"info":{"authors":{"author":[{"@pid":"96/804","text":"Dean M. Jones"},{"@pid":"28/82","text":"Ray Paton"}]},"title":"Toward Principles for the Representation of Hierarchical Knowledge in Formal Ontologies.","venue":"Data Knowl. Eng.","volume":"31","number":"2","pages":"99-113","year":"1999","type":"Journal Articles","key":"journals/dke/JonesP99","doi":"10.1016/S0169-023X(99)00022-1","ee":"https://doi.org/10.1016/S0169-023X(99)00022-1","url":"https://dblp.org/rec/journals/dke/JonesP99"},
+"url":"URL#4795009"
+},
+{
+"@score":"1",
+"@id":"4795016",
+"info":{"authors":{"author":[{"@pid":"l/TokWangLing","text":"Tok Wang Ling"},{"@pid":"17/3798","text":"Sudha Ram"}]},"title":"17th International Conference on Conceptual Modeling (ER&apos;98).","venue":"Data Knowl. Eng.","volume":"31","number":"3","pages":"225-226","year":"1999","type":"Journal Articles","key":"journals/dke/LingR99","doi":"10.1016/S0169-023X(99)00026-9","ee":"https://doi.org/10.1016/S0169-023X(99)00026-9","url":"https://dblp.org/rec/journals/dke/LingR99"},
+"url":"URL#4795016"
+},
+{
+"@score":"1",
+"@id":"4795019",
+"info":{"authors":{"author":{"@pid":"13/2923","text":"Luca Pazzi"}},"title":"Implicit versus Explicit Characterization of Complex Entities and Events.","venue":"Data Knowl. Eng.","volume":"31","number":"2","pages":"115-134","year":"1999","type":"Journal Articles","key":"journals/dke/Pazzi99","doi":"10.1016/S0169-023X(99)00020-8","ee":"https://doi.org/10.1016/S0169-023X(99)00020-8","url":"https://dblp.org/rec/journals/dke/Pazzi99"},
+"url":"URL#4795019"
+},
+{
+"@score":"1",
+"@id":"4795026",
+"info":{"authors":{"author":[{"@pid":"t/DimitriTheodoratos","text":"Dimitri Theodoratos"},{"@pid":"s/TimosKSellis","text":"Timos K. Sellis"}]},"title":"Designing Data Warehouses.","venue":"Data Knowl. Eng.","volume":"31","number":"3","pages":"279-301","year":"1999","type":"Journal Articles","key":"journals/dke/TheodoratosS99","doi":"10.1016/S0169-023X(99)00029-4","ee":"https://doi.org/10.1016/S0169-023X(99)00029-4","url":"https://dblp.org/rec/journals/dke/TheodoratosS99"},
+"url":"URL#4795026"
+},
+{
+"@score":"1",
+"@id":"4795028",
+"info":{"authors":{"author":[{"@pid":"w/CAWelty","text":"Christopher A. Welty"},{"@pid":"92/1213","text":"Jessica Jenkins"}]},"title":"Formal Ontology for Subject.","venue":"Data Knowl. Eng.","volume":"31","number":"2","pages":"155-181","year":"1999","type":"Journal Articles","key":"journals/dke/WeltyJ99","doi":"10.1016/S0169-023X(99)90021-6","ee":"https://doi.org/10.1016/S0169-023X(99)90021-6","url":"https://dblp.org/rec/journals/dke/WeltyJ99"},
+"url":"URL#4795028"
+}
+]
+}
 }
 }

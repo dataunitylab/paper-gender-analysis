@@ -1,23 +1,134 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke55\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke55\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.41"
+"text":"108.44"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"17",
+"@dc":"17",
+"@oc":"17",
+"@id":"17615738",
+"text":":facetid:toc:db/journals/dke/dke55.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"17",
+"@computed":"17",
+"@sent":"17",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"4155711",
+"info":{"authors":{"author":[{"@pid":"65/847","text":"Rainer Anzböck"},{"@pid":"d/SDustdar","text":"Schahram Dustdar"}]},"title":"Modeling and implementing medical Web services.","venue":"Data Knowl. Eng.","volume":"55","number":"2","pages":"203-236","year":"2005","type":"Journal Articles","key":"journals/dke/AnzbockD05","doi":"10.1016/J.DATAK.2005.03.009","ee":"https://doi.org/10.1016/j.datak.2005.03.009","url":"https://dblp.org/rec/journals/dke/AnzbockD05"},
+"url":"URL#4155711"
+},
+{
+"@score":"1",
+"@id":"4155714",
+"info":{"authors":{"author":[{"@pid":"02/4306","text":"Andrew Burton-Jones"},{"@pid":"41/1781","text":"Veda C. Storey"},{"@pid":"66/6868","text":"Vijayan Sugumaran"},{"@pid":"49/4064","text":"Punit Ahluwalia"}]},"title":"A semiotic metrics suite for assessing the quality of ontologies.","venue":"Data Knowl. Eng.","volume":"55","number":"1","pages":"84-102","year":"2005","type":"Journal Articles","key":"journals/dke/Burton-JonesSSA05","doi":"10.1016/J.DATAK.2004.11.010","ee":"https://doi.org/10.1016/j.datak.2004.11.010","url":"https://dblp.org/rec/journals/dke/Burton-JonesSSA05"},
+"url":"URL#4155714"
+},
+{
+"@score":"1",
+"@id":"4155720",
+"info":{"authors":{"author":[{"@pid":"12/1983","text":"Philipp Cimiano"},{"@pid":"34/2617","text":"Uwe Reyle"},{"@pid":"65/2867","text":"Jasmin Saric"}]},"title":"Ontology-driven discourse analysis for information extraction.","venue":"Data Knowl. Eng.","volume":"55","number":"1","pages":"59-83","year":"2005","type":"Journal Articles","key":"journals/dke/CimianoRS05","doi":"10.1016/J.DATAK.2004.11.009","ee":"https://doi.org/10.1016/j.datak.2004.11.009","url":"https://dblp.org/rec/journals/dke/CimianoRS05"},
+"url":"URL#4155720"
+},
+{
+"@score":"1",
+"@id":"4155724",
+"info":{"authors":{"author":[{"@pid":"d/SDustdar","text":"Schahram Dustdar"},{"@pid":"93/9155","text":"Thomas Hoffmann 0001"},{"@pid":"a/WilMPvanderAalst","text":"Wil M. P. van der Aalst"}]},"title":"Mining of ad-hoc business processes with TeamLog.","venue":"Data Knowl. Eng.","volume":"55","number":"2","pages":"129-158","year":"2005","type":"Journal Articles","key":"journals/dke/DustdarHA05","doi":"10.1016/J.DATAK.2005.02.002","ee":"https://doi.org/10.1016/j.datak.2005.02.002","url":"https://dblp.org/rec/journals/dke/DustdarHA05"},
+"url":"URL#4155724"
+},
+{
+"@score":"1",
+"@id":"4155725",
+"info":{"authors":{"author":[{"@pid":"d/ADusterhoft","text":"Antje Düsterhöft"},{"@pid":"t/BernhardThalheim","text":"Bernhard Thalheim"}]},"title":"Introduction to the special issue on Natural Language and Database and Information Systems - NLDB03.","venue":"Data Knowl. Eng.","volume":"55","number":"1","pages":"1-3","year":"2005","type":"Journal Articles","key":"journals/dke/DusterhoftT05","doi":"10.1016/J.DATAK.2004.11.006","ee":"https://doi.org/10.1016/j.datak.2004.11.006","url":"https://dblp.org/rec/journals/dke/DusterhoftT05"},
+"url":"URL#4155725"
+},
+{
+"@score":"1",
+"@id":"4155732",
+"info":{"authors":{"author":[{"@pid":"80/5020","text":"Günther Fliedl"},{"@pid":"k/CKop","text":"Christian Kop"},{"@pid":"89/200","text":"Heinrich C. Mayr"}]},"title":"From textual scenarios to a conceptual schema.","venue":"Data Knowl. Eng.","volume":"55","number":"1","pages":"20-37","year":"2005","type":"Journal Articles","key":"journals/dke/FliedlKM05","doi":"10.1016/J.DATAK.2004.11.007","ee":"https://doi.org/10.1016/j.datak.2004.11.007","url":"https://dblp.org/rec/journals/dke/FliedlKM05"},
+"url":"URL#4155732"
+},
+{
+"@score":"1",
+"@id":"4155734",
+"info":{"authors":{"author":[{"@pid":"82/3796","text":"Andrew Gemino"},{"@pid":"66/626","text":"Yair Wand"}]},"title":"Complexity and clarity in conceptual modeling - Comparison of mandatory and optional properties.","venue":"Data Knowl. Eng.","volume":"55","number":"3","pages":"301-326","year":"2005","type":"Journal Articles","key":"journals/dke/GeminoW05","doi":"10.1016/J.DATAK.2004.12.009","ee":"https://doi.org/10.1016/j.datak.2004.12.009","url":"https://dblp.org/rec/journals/dke/GeminoW05"},
+"url":"URL#4155734"
+},
+{
+"@score":"1",
+"@id":"4155741",
+"info":{"authors":{"author":[{"@pid":"25/351","text":"Epaminondas Kapetanios"},{"@pid":"25/6212","text":"David Baer"},{"@pid":"86/3361","text":"Paul Groenewoud"}]},"title":"Simplifying syntactic and semantic parsing of NL-based queries in advanced application domains.","venue":"Data Knowl. Eng.","volume":"55","number":"1","pages":"38-58","year":"2005","type":"Journal Articles","key":"journals/dke/KapetaniosBG05","doi":"10.1016/J.DATAK.2004.11.008","ee":"https://doi.org/10.1016/j.datak.2004.11.008","url":"https://dblp.org/rec/journals/dke/KapetaniosBG05"},
+"url":"URL#4155741"
+},
+{
+"@score":"1",
+"@id":"4155744",
+"info":{"authors":{"author":[{"@pid":"l/PLiberatore","text":"Paolo Liberatore"},{"@pid":"00/2963","text":"Marco Schaerf"}]},"title":"The complexity of model checking for propositional default logics.","venue":"Data Knowl. Eng.","volume":"55","number":"2","pages":"189-202","year":"2005","type":"Journal Articles","key":"journals/dke/LiberatoreS05","doi":"10.1016/J.DATAK.2005.03.002","ee":"https://doi.org/10.1016/j.datak.2005.03.002","url":"https://dblp.org/rec/journals/dke/LiberatoreS05"},
+"url":"URL#4155744"
+},
+{
+"@score":"1",
+"@id":"4155750",
+"info":{"authors":{"author":{"@pid":"19/3024","text":"Daniel L. Moody"}},"title":"Theoretical and practical issues in evaluating the quality of conceptual models - current state and future directions.","venue":"Data Knowl. Eng.","volume":"55","number":"3","pages":"243-276","year":"2005","type":"Journal Articles","key":"journals/dke/Moody05","doi":"10.1016/J.DATAK.2004.12.005","ee":"https://doi.org/10.1016/j.datak.2004.12.005","url":"https://dblp.org/rec/journals/dke/Moody05"},
+"url":"URL#4155750"
+},
+{
+"@score":"1",
+"@id":"4155751",
+"info":{"authors":{"author":[{"@pid":"41/6586","text":"H. James Nelson"},{"@pid":"72/6796","text":"Geert Poels"},{"@pid":"g/MarcelaGenero","text":"Marcela Genero"},{"@pid":"p/MPiattini","text":"Mario Piattini"}]},"title":"Quality in conceptual modeling - five examples of the state of the art.","venue":"Data Knowl. Eng.","volume":"55","number":"3","pages":"237-242","year":"2005","type":"Journal Articles","key":"journals/dke/NelsonPGP05","doi":"10.1016/J.DATAK.2004.12.004","ee":"https://doi.org/10.1016/j.datak.2004.12.004","url":"https://dblp.org/rec/journals/dke/NelsonPGP05"},
+"url":"URL#4155751"
+},
+{
+"@score":"1",
+"@id":"4155752",
+"info":{"authors":{"author":[{"@pid":"12/256","text":"Andreas L. Opdahl"},{"@pid":"45/5440","text":"Brian Henderson-Sellers"}]},"title":"A Unified Modelling Language without referential redundancy.","venue":"Data Knowl. Eng.","volume":"55","number":"3","pages":"277-300","year":"2005","type":"Journal Articles","key":"journals/dke/OpdahlH05","doi":"10.1016/J.DATAK.2004.12.007","ee":"https://doi.org/10.1016/j.datak.2004.12.007","url":"https://dblp.org/rec/journals/dke/OpdahlH05"},
+"url":"URL#4155752"
+},
+{
+"@score":"1",
+"@id":"4155754",
+"info":{"authors":{"author":[{"@pid":"81/5940","text":"Jeffrey Parsons"},{"@pid":"11/6286","text":"Linda Cole"}]},"title":"What do the pictures mean? Guidelines for experimental evaluation of representation fidelity in diagrammatical conceptual modeling techniques.","venue":"Data Knowl. Eng.","volume":"55","number":"3","pages":"327-342","year":"2005","type":"Journal Articles","key":"journals/dke/ParsonsC05","doi":"10.1016/J.DATAK.2004.12.008","ee":"https://doi.org/10.1016/j.datak.2004.12.008","url":"https://dblp.org/rec/journals/dke/ParsonsC05"},
+"url":"URL#4155754"
+},
+{
+"@score":"1",
+"@id":"4155755",
+"info":{"authors":{"author":[{"@pid":"57/3553","text":"Jim Prentzas"},{"@pid":"12/1075","text":"Ioannis Hatzilygeroudis"}]},"title":"Rule-based update methods for a hybrid rule base.","venue":"Data Knowl. Eng.","volume":"55","number":"2","pages":"103-128","year":"2005","type":"Journal Articles","key":"journals/dke/PrentzasH05","doi":"10.1016/J.DATAK.2005.02.001","ee":"https://doi.org/10.1016/j.datak.2005.02.001","url":"https://dblp.org/rec/journals/dke/PrentzasH05"},
+"url":"URL#4155755"
+},
+{
+"@score":"1",
+"@id":"4155760",
+"info":{"authors":{"author":[{"@pid":"s/KengSiau","text":"Keng L. Siau"},{"@pid":"89/6413","text":"Xin Tan"}]},"title":"Improving the quality of conceptual modeling using cognitive mapping techniques.","venue":"Data Knowl. Eng.","volume":"55","number":"3","pages":"343-365","year":"2005","type":"Journal Articles","key":"journals/dke/SiauT05","doi":"10.1016/J.DATAK.2004.12.006","ee":"https://doi.org/10.1016/j.datak.2004.12.006","url":"https://dblp.org/rec/journals/dke/SiauT05"},
+"url":"URL#4155760"
+},
+{
+"@score":"1",
+"@id":"4155761",
+"info":{"authors":{"author":[{"@pid":"04/2533","text":"Niculae Stratica"},{"@pid":"k/LeilaKosseim","text":"Leila Kosseim"},{"@pid":"d/BipinCDesai","text":"Bipin C. Desai"}]},"title":"Using semantic templates for a natural language interface to the CINDI virtual library.","venue":"Data Knowl. Eng.","volume":"55","number":"1","pages":"4-19","year":"2005","type":"Journal Articles","key":"journals/dke/StraticaKD05","doi":"10.1016/J.DATAK.2004.12.002","ee":"https://doi.org/10.1016/j.datak.2004.12.002","url":"https://dblp.org/rec/journals/dke/StraticaKD05"},
+"url":"URL#4155761"
+},
+{
+"@score":"1",
+"@id":"4155763",
+"info":{"authors":{"author":{"@pid":"t/BMThuraisingham","text":"Bhavani M. Thuraisingham"}},"title":"Privacy constraint processing in a privacy-enhanced database management system.","venue":"Data Knowl. Eng.","volume":"55","number":"2","pages":"159-188","year":"2005","type":"Journal Articles","key":"journals/dke/Thuraisingham05","doi":"10.1016/J.DATAK.2005.03.001","ee":"https://doi.org/10.1016/j.datak.2005.03.001","url":"https://dblp.org/rec/journals/dke/Thuraisingham05"},
+"url":"URL#4155763"
+}
+]
+}
 }
 }

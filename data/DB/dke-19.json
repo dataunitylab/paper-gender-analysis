@@ -1,23 +1,86 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke19\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke19\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.53"
+"text":"124.32"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"9",
+"@dc":"9",
+"@oc":"9",
+"@id":"17615698",
+"text":":facetid:toc:db/journals/dke/dke19.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"9",
+"@computed":"9",
+"@sent":"9",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"4977968",
+"info":{"authors":{"author":{"@pid":"h/JeanLucHainaut","text":"Jean-Luc Hainaut"}},"title":"Specification Preservation in Schema Transformations - Application to Semantics and Statistics.","venue":"Data Knowl. Eng.","volume":"19","number":"2","pages":"99-134","year":"1996","type":"Journal Articles","key":"journals/dke/Hainaut96","doi":"10.1016/0169-023X(95)00041-P","ee":"https://doi.org/10.1016/0169-023X(95)00041-P","url":"https://dblp.org/rec/journals/dke/Hainaut96"},
+"url":"URL#4977968"
+},
+{
+"@score":"1",
+"@id":"4977972",
+"info":{"authors":{"author":[{"@pid":"16/1103","text":"Trevor H. Jones"},{"@pid":"s/IlYeolSong","text":"Il-Yeol Song"}]},"title":"Analysis of Binary/Ternary Cardinality Combinations in Entity-Relationship Modeling.","venue":"Data Knowl. Eng.","volume":"19","number":"1","pages":"39-64","year":"1996","type":"Journal Articles","key":"journals/dke/JonesS96","doi":"10.1016/0169-023X(95)00036-R","ee":"https://doi.org/10.1016/0169-023X(95)00036-R","url":"https://dblp.org/rec/journals/dke/JonesS96"},
+"url":"URL#4977972"
+},
+{
+"@score":"1",
+"@id":"4977973",
+"info":{"authors":{"author":[{"@pid":"l/TokWangLing","text":"Tok Wang Ling"},{"@pid":"l/MongLiLee","text":"Mong-Li Lee"}]},"title":"View Update in Entity-Relationship Approach.","venue":"Data Knowl. Eng.","volume":"19","number":"2","pages":"135-169","year":"1996","type":"Journal Articles","key":"journals/dke/LingL96","doi":"10.1016/0169-023X(95)00042-Q","ee":"https://doi.org/10.1016/0169-023X(95)00042-Q","url":"https://dblp.org/rec/journals/dke/LingL96"},
+"url":"URL#4977973"
+},
+{
+"@score":"1",
+"@id":"4977975",
+"info":{"authors":{"author":[{"@pid":"58/1769-1","text":"Bernd Meyer 0001"},{"@pid":"32/4034","text":"Gerd Westerman"},{"@pid":"g/MartinGogolla","text":"Martin Gogolla"}]},"title":"Drafting ER and OO Schemas in Prototype Environments.","venue":"Data Knowl. Eng.","volume":"19","number":"3","pages":"201-240","year":"1996","type":"Journal Articles","key":"journals/dke/MeyerWG96","doi":"10.1016/0169-023X(95)00046-U","ee":"https://doi.org/10.1016/0169-023X(95)00046-U","url":"https://dblp.org/rec/journals/dke/MeyerWG96"},
+"url":"URL#4977975"
+},
+{
+"@score":"1",
+"@id":"4977977",
+"info":{"authors":{"author":{"@pid":"44/4448","text":"Gustaf Neumann"}},"title":"Reasoning About ER Models in a Deductive Environment.","venue":"Data Knowl. Eng.","volume":"19","number":"3","pages":"241-266","year":"1996","type":"Journal Articles","key":"journals/dke/Neumann96","doi":"10.1016/0169-023X(95)00047-V","ee":"https://doi.org/10.1016/0169-023X(95)00047-V","url":"https://dblp.org/rec/journals/dke/Neumann96"},
+"url":"URL#4977977"
+},
+{
+"@score":"1",
+"@id":"4977980",
+"info":{"authors":{"author":[{"@pid":"61/5698","text":"Amílcar Sernadas"},{"@pid":"06/3694","text":"Cristina Sernadas"},{"@pid":"14/5672","text":"Jaime Ramos"}]},"title":"A Temporal Logic Approach to Object Certification.","venue":"Data Knowl. Eng.","volume":"19","number":"3","pages":"267-294","year":"1996","type":"Journal Articles","key":"journals/dke/SernadasSR96","doi":"10.1016/0169-023X(96)00004-3","ee":"https://doi.org/10.1016/0169-023X(96)00004-3","url":"https://dblp.org/rec/journals/dke/SernadasSR96"},
+"url":"URL#4977980"
+},
+{
+"@score":"1",
+"@id":"4977982",
+"info":{"authors":{"author":[{"@pid":"70/2587","text":"Monique Snoeck"},{"@pid":"42/2987","text":"Guido Dedene"}]},"title":"Generalization/Specialization and Role in Object Oriented Conceptual Modeling.","venue":"Data Knowl. Eng.","volume":"19","number":"2","pages":"171-195","year":"1996","type":"Journal Articles","key":"journals/dke/SnoeckD96","doi":"10.1016/0169-023X(95)00044-S","ee":"https://doi.org/10.1016/0169-023X(95)00044-S","url":"https://dblp.org/rec/journals/dke/SnoeckD96"},
+"url":"URL#4977982"
+},
+{
+"@score":"1",
+"@id":"4977983",
+"info":{"authors":{"author":[{"@pid":"52/2294","text":"William Wei Song"},{"@pid":"j/PaulJohannesson","text":"Paul Johannesson"},{"@pid":"b/JABubenko","text":"Janis A. Bubenko Jr."}]},"title":"Semantic Similarity Relations and Computation in Schema Integration.","venue":"Data Knowl. Eng.","volume":"19","number":"1","pages":"65-97","year":"1996","type":"Journal Articles","key":"journals/dke/SongJB96","doi":"10.1016/0169-023X(95)00040-Y","ee":"https://doi.org/10.1016/0169-023X(95)00040-Y","url":"https://dblp.org/rec/journals/dke/SongJB96"},
+"url":"URL#4977983"
+},
+{
+"@score":"1",
+"@id":"4977985",
+"info":{"authors":{"author":{"@pid":"57/2745","text":"Olga De Troyer"}},"title":"A Fomalization of the Binary Object-Role Model based on Logic.","venue":"Data Knowl. Eng.","volume":"19","number":"1","pages":"1-37","year":"1996","type":"Journal Articles","key":"journals/dke/Troyer96","doi":"10.1016/0169-023X(95)00045-T","ee":"https://doi.org/10.1016/0169-023X(95)00045-T","url":"https://dblp.org/rec/journals/dke/Troyer96"},
+"url":"URL#4977985"
+}
+]
+}
 }
 }

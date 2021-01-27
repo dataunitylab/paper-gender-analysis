@@ -1,23 +1,122 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke100\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke100\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.29"
+"text":"103.95"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"15",
+"@dc":"15",
+"@oc":"15",
+"@id":"17615659",
+"text":":facetid:toc:db/journals/dke/dke100.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"15",
+"@computed":"15",
+"@sent":"15",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"1807268",
+"info":{"authors":{"author":[{"@pid":"51/4015-4","text":"Zhuo Li 0004"},{"@pid":"84/1160","text":"Sandra Carberry"},{"@pid":"03/2511","text":"Hui Fang"},{"@pid":"m/KathleenFMcCoy","text":"Kathleen F. McCoy"},{"@pid":"146/9326","text":"Kelly Peterson"},{"@pid":"132/7614","text":"Matthew Stagitis"}]},"title":"A novel methodology for retrieving infographics utilizing structure and message content.","venue":"Data Knowl. Eng.","volume":"100","pages":"191-210","year":"2015","type":"Journal Articles","key":"journals/dke/0004CFMPS15","doi":"10.1016/J.DATAK.2015.05.005","ee":"https://doi.org/10.1016/j.datak.2015.05.005","url":"https://dblp.org/rec/journals/dke/0004CFMPS15"},
+"url":"URL#1807268"
+},
+{
+"@score":"1",
+"@id":"1807269",
+"info":{"authors":{"author":[{"@pid":"30/10201","text":"Hidayet Aksu"},{"@pid":"71/6902","text":"Mustafa Canim"},{"@pid":"14/2029","text":"Yuan-Chi Chang"},{"@pid":"97/2118","text":"Ibrahim Korpeoglu"},{"@pid":"u/OzgurUlusoy","text":"Özgür Ulusoy"}]},"title":"Efficient community identification and maintenance at multiple resolutions on distributed datastores.","venue":"Data Knowl. Eng.","volume":"100","pages":"133-147","year":"2015","type":"Journal Articles","key":"journals/dke/AksuCCKU15","doi":"10.1016/J.DATAK.2015.06.001","ee":"https://doi.org/10.1016/j.datak.2015.06.001","url":"https://dblp.org/rec/journals/dke/AksuCCKU15"},
+"url":"URL#1807269"
+},
+{
+"@score":"1",
+"@id":"1807270",
+"info":{"authors":{"author":[{"@pid":"27/7872","text":"Ibrahim Bounhas"},{"@pid":"116/7203","text":"Raja Ayed"},{"@pid":"27/4581","text":"Bilel Elayeb"},{"@pid":"40/9467","text":"Narjès Bellamine Ben Saoud"}]},"title":"A hybrid possibilistic approach for Arabic full morphological disambiguation.","venue":"Data Knowl. Eng.","volume":"100","pages":"240-254","year":"2015","type":"Journal Articles","key":"journals/dke/BounhasAES15","doi":"10.1016/J.DATAK.2015.06.008","ee":"https://doi.org/10.1016/j.datak.2015.06.008","url":"https://dblp.org/rec/journals/dke/BounhasAES15"},
+"url":"URL#1807270"
+},
+{
+"@score":"1",
+"@id":"1807273",
+"info":{"authors":{"author":[{"@pid":"v/MVilaresF","text":"Manuel Vilares Ferro"},{"@pid":"93/2605","text":"Milagros Fernández Gavilanes"},{"@pid":"135/1039","text":"Adrián Blanco González"}]},"title":"Supporting knowledge discovery for biodiversity.","venue":"Data Knowl. Eng.","volume":"100","pages":"34-53","year":"2015","type":"Journal Articles","key":"journals/dke/FerroGG15","doi":"10.1016/J.DATAK.2015.08.002","ee":"https://doi.org/10.1016/j.datak.2015.08.002","url":"https://dblp.org/rec/journals/dke/FerroGG15"},
+"url":"URL#1807273"
+},
+{
+"@score":"1",
+"@id":"1807274",
+"info":{"authors":{"author":[{"@pid":"26/7837","text":"Michele Filannino"},{"@pid":"60/6717","text":"Goran Nenadic"}]},"title":"Temporal expression extraction with extensive feature type selection and a posteriori label adjustment.","venue":"Data Knowl. Eng.","volume":"100","pages":"19-33","year":"2015","type":"Journal Articles","key":"journals/dke/FilanninoN15","doi":"10.1016/J.DATAK.2015.09.002","ee":"https://doi.org/10.1016/j.datak.2015.09.002","url":"https://dblp.org/rec/journals/dke/FilanninoN15"},
+"url":"URL#1807274"
+},
+{
+"@score":"1",
+"@id":"1807276",
+"info":{"authors":{"author":[{"@pid":"47/9409","text":"André Freitas"},{"@pid":"70/9766","text":"João Carlos Pereira da Silva"},{"@pid":"60/2291","text":"Edward Curry"},{"@pid":"08/3075","text":"Paul Buitelaar"}]},"title":"Approximate and selective reasoning on knowledge graphs - A distributional semantics approach.","venue":"Data Knowl. Eng.","volume":"100","pages":"211-225","year":"2015","type":"Journal Articles","key":"journals/dke/FreitasSCB15","doi":"10.1016/J.DATAK.2015.06.010","ee":"https://doi.org/10.1016/j.datak.2015.06.010","url":"https://dblp.org/rec/journals/dke/FreitasSCB15"},
+"url":"URL#1807276"
+},
+{
+"@score":"1",
+"@id":"1807278",
+"info":{"authors":{"author":[{"@pid":"74/6646","text":"Javier Herranz"},{"@pid":"29/5284","text":"Jordi Nin"},{"@pid":"86/824","text":"Pablo Rodríguez"},{"@pid":"04/2852","text":"Tamir Tassa"}]},"title":"Revisiting distance-based record linkage for privacy-preserving release of statistical datasets.","venue":"Data Knowl. Eng.","volume":"100","pages":"78-93","year":"2015","type":"Journal Articles","key":"journals/dke/HerranzNRT15","doi":"10.1016/J.DATAK.2015.07.009","ee":"https://doi.org/10.1016/j.datak.2015.07.009","url":"https://dblp.org/rec/journals/dke/HerranzNRT15"},
+"url":"URL#1807278"
+},
+{
+"@score":"1",
+"@id":"1807285",
+"info":{"authors":{"author":[{"@pid":"17/7624-1","text":"Yuxuan Li 0001"},{"@pid":"b/JamesBailey","text":"James Bailey 0001"},{"@pid":"57/1331","text":"Lars Kulik"}]},"title":"Efficient mining of platoon patterns in trajectory databases.","venue":"Data Knowl. Eng.","volume":"100","pages":"167-187","year":"2015","type":"Journal Articles","key":"journals/dke/LiBK15","doi":"10.1016/J.DATAK.2015.02.001","ee":"https://doi.org/10.1016/j.datak.2015.02.001","url":"https://dblp.org/rec/journals/dke/LiBK15"},
+"url":"URL#1807285"
+},
+{
+"@score":"1",
+"@id":"1807286",
+"info":{"authors":{"author":{"@pid":"39/4747","text":"Ying-Ho Liu"}},"title":"Mining time-interval univariate uncertain sequential patterns.","venue":"Data Knowl. Eng.","volume":"100","pages":"54-77","year":"2015","type":"Journal Articles","key":"journals/dke/Liu15","doi":"10.1016/J.DATAK.2015.07.012","ee":"https://doi.org/10.1016/j.datak.2015.07.012","url":"https://dblp.org/rec/journals/dke/Liu15"},
+"url":"URL#1807286"
+},
+{
+"@score":"1",
+"@id":"1807287",
+"info":{"authors":{"author":[{"@pid":"65/2726","text":"Ran Liu"},{"@pid":"82/5868","text":"Wenjian Luo"},{"@pid":"45/4923","text":"Lihua Yue"}]},"title":"Hiding multiple solutions in a hard 3-SAT formula.","venue":"Data Knowl. Eng.","volume":"100","pages":"1-18","year":"2015","type":"Journal Articles","key":"journals/dke/LiuLY15","doi":"10.1016/J.DATAK.2015.09.003","ee":"https://doi.org/10.1016/j.datak.2015.09.003","url":"https://dblp.org/rec/journals/dke/LiuLY15"},
+"url":"URL#1807287"
+},
+{
+"@score":"1",
+"@id":"1807293",
+"info":{"authors":{"author":[{"@pid":"36/3146","text":"Elisabeth Métais"},{"@pid":"r/MathieuRoche","text":"Mathieu Roche"},{"@pid":"t/MTeisseire","text":"Maguelonne Teisseire"}]},"title":"Application of natural language to information systems (NLDB&apos;14).","venue":"Data Knowl. Eng.","volume":"100","pages":"189-190","year":"2015","type":"Journal Articles","key":"journals/dke/MetaisRT15","doi":"10.1016/J.DATAK.2015.07.001","ee":"https://doi.org/10.1016/j.datak.2015.07.001","url":"https://dblp.org/rec/journals/dke/MetaisRT15"},
+"url":"URL#1807293"
+},
+{
+"@score":"1",
+"@id":"1807300",
+"info":{"authors":{"author":[{"@pid":"52/5115","text":"Wenhao Shu"},{"@pid":"09/8041","text":"Wenbin Qian"}]},"title":"An incremental approach to attribute reduction from dynamic incomplete decision systems in rough set theory.","venue":"Data Knowl. Eng.","volume":"100","pages":"116-132","year":"2015","type":"Journal Articles","key":"journals/dke/ShuQ15","doi":"10.1016/J.DATAK.2015.06.009","ee":"https://doi.org/10.1016/j.datak.2015.06.009","url":"https://dblp.org/rec/journals/dke/ShuQ15"},
+"url":"URL#1807300"
+},
+{
+"@score":"1",
+"@id":"1807303",
+"info":{"authors":{"author":[{"@pid":"67/3066","text":"Amine Trabelsi"},{"@pid":"z/OsmarRZaiane","text":"Osmar R. Zaïane"}]},"title":"Extraction and clustering of arguing expressions in contentious text.","venue":"Data Knowl. Eng.","volume":"100","pages":"226-239","year":"2015","type":"Journal Articles","key":"journals/dke/TrabelsiZ15","doi":"10.1016/J.DATAK.2015.05.004","ee":"https://doi.org/10.1016/j.datak.2015.05.004","url":"https://dblp.org/rec/journals/dke/TrabelsiZ15"},
+"url":"URL#1807303"
+},
+{
+"@score":"1",
+"@id":"1807307",
+"info":{"authors":{"author":[{"@pid":"52/4725","text":"Wendy Hui Wang"},{"@pid":"32/1085","text":"Ruilin Liu"}]},"title":"Hiding outliers into crowd - Privacy-preserving data publishing with outliers.","venue":"Data Knowl. Eng.","volume":"100","pages":"94-115","year":"2015","type":"Journal Articles","key":"journals/dke/WangL15","doi":"10.1016/J.DATAK.2015.06.012","ee":"https://doi.org/10.1016/j.datak.2015.06.012","url":"https://dblp.org/rec/journals/dke/WangL15"},
+"url":"URL#1807307"
+},
+{
+"@score":"1",
+"@id":"1807308",
+"info":{"authors":{"author":[{"@pid":"31/5896","text":"Lin Yue"},{"@pid":"64/1676","text":"Wanli Zuo"},{"@pid":"89/6609-3","text":"Tao Peng 0003"},{"@pid":"94/3104-9","text":"Ying Wang 0009"},{"@pid":"98/6023","text":"Xuming Han"}]},"title":"A fuzzy document clustering approach based on domain-specified ontology.","venue":"Data Knowl. Eng.","volume":"100","pages":"148-166","year":"2015","type":"Journal Articles","key":"journals/dke/YueZPWH15","doi":"10.1016/J.DATAK.2015.04.008","ee":"https://doi.org/10.1016/j.datak.2015.04.008","url":"https://dblp.org/rec/journals/dke/YueZPWH15"},
+"url":"URL#1807308"
+}
+]
+}
 }
 }

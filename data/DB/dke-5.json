@@ -1,23 +1,152 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke5\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke5\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.26"
+"text":"139.56"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"20",
+"@dc":"20",
+"@oc":"20",
+"@id":"17615732",
+"text":":facetid:toc:db/journals/dke/dke5.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"20",
+"@computed":"20",
+"@sent":"20",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"5218158",
+"info":{"authors":{"author":{"@pid":"a/SergeAbiteboul","text":"Serge Abiteboul"}},"title":"Towards a Deductive Object-Oriented Database Language.","venue":"Data Knowl. Eng.","volume":"5","pages":"263-287","year":"1990","type":"Journal Articles","key":"journals/dke/Abiteboul90","doi":"10.1016/0169-023X(90)90016-7","ee":"https://doi.org/10.1016/0169-023X(90)90016-7","url":"https://dblp.org/rec/journals/dke/Abiteboul90"},
+"url":"URL#5218158"
+},
+{
+"@score":"1",
+"@id":"5218159",
+"info":{"authors":{"author":[{"@pid":"59/4991","text":"Fernando Alonso"},{"@pid":"67/4931","text":"José Luis Maté"},{"@pid":"97/2467","text":"Juan Pazos"}]},"title":"Knowledge Engineering versus Software Engineering.","venue":"Data Knowl. Eng.","volume":"5","pages":"79-91","year":"1990","type":"Journal Articles","key":"journals/dke/AlonsoMP90","doi":"10.1016/0169-023X(90)90005-X","ee":"https://doi.org/10.1016/0169-023X(90)90005-X","url":"https://dblp.org/rec/journals/dke/AlonsoMP90"},
+"url":"URL#5218159"
+},
+{
+"@score":"1",
+"@id":"5218160",
+"info":{"authors":{"author":{"@pid":"b/CBeeri","text":"Catriel Beeri"}},"title":"A Formal Approach to Object-Oriented Databases.","venue":"Data Knowl. Eng.","volume":"5","pages":"353-382","year":"1990","type":"Journal Articles","key":"journals/dke/Beeri90","doi":"10.1016/0169-023X(90)90020-E","ee":"https://doi.org/10.1016/0169-023X(90)90020-E","url":"https://dblp.org/rec/journals/dke/Beeri90"},
+"url":"URL#5218160"
+},
+{
+"@score":"1",
+"@id":"5218161",
+"info":{"authors":{"author":[{"@pid":"05/2730","text":"Daniel Borrajo"},{"@pid":"97/4934","text":"Juan Rios"},{"@pid":"54/4603","text":"M. Alicia Pérez"},{"@pid":"97/2467","text":"Juan Pazos"}]},"title":"Dominoes as a Domain where to use Proverbs as Heuristics.","venue":"Data Knowl. Eng.","volume":"5","pages":"129-137","year":"1990","type":"Journal Articles","key":"journals/dke/BorrajoRPP90","doi":"10.1016/0169-023X(90)90009-3","ee":"https://doi.org/10.1016/0169-023X(90)90009-3","url":"https://dblp.org/rec/journals/dke/BorrajoRPP90"},
+"url":"URL#5218161"
+},
+{
+"@score":"1",
+"@id":"5218162",
+"info":{"authors":{"author":{"@pid":"b/FrancoisBry","text":"François Bry"}},"title":"Query Evaluation in Deductive Databases - Bottom-Up and Top-Down Reconciled.","venue":"Data Knowl. Eng.","volume":"5","pages":"289-312","year":"1990","type":"Journal Articles","key":"journals/dke/Bry90","doi":"10.1016/0169-023X(90)90017-8","ee":"https://doi.org/10.1016/0169-023X(90)90017-8","url":"https://dblp.org/rec/journals/dke/Bry90"},
+"url":"URL#5218162"
+},
+{
+"@score":"1",
+"@id":"5218163",
+"info":{"authors":{"author":[{"@pid":"c/SophieCluet","text":"Sophie Cluet"},{"@pid":"05/611","text":"Claude Delobel"},{"@pid":"82/67","text":"Christophe Lécluse"},{"@pid":"29/2689","text":"Philippe Richard"}]},"title":"RELOOP, an Algebra Based Query Language for an Object-Oriented Database System.","venue":"Data Knowl. Eng.","volume":"5","pages":"333-352","year":"1990","type":"Journal Articles","key":"journals/dke/CluetDLR90","doi":"10.1016/0169-023X(90)90019-A","ee":"https://doi.org/10.1016/0169-023X(90)90019-A","url":"https://dblp.org/rec/journals/dke/CluetDLR90"},
+"url":"URL#5218163"
+},
+{
+"@score":"1",
+"@id":"5218164",
+"info":{"authors":{"author":[{"@pid":"03/2428","text":"Larry E. Druffel"},{"@pid":"36/5717","text":"Reed Little"}]},"title":"Software Engineering for AI Based Software Product.","venue":"Data Knowl. Eng.","volume":"5","pages":"93-103","year":"1990","type":"Journal Articles","key":"journals/dke/DruffelL90","doi":"10.1016/0169-023X(90)90006-Y","ee":"https://doi.org/10.1016/0169-023X(90)90006-Y","url":"https://dblp.org/rec/journals/dke/DruffelL90"},
+"url":"URL#5218164"
+},
+{
+"@score":"1",
+"@id":"5218165",
+"info":{"authors":{"author":[{"@pid":"76/3668","text":"Z. Fu"},{"@pid":"69/486","text":"J. A. Long"}]},"title":"Heuristics and Multi-Dimensional Physical Database Design - An Experimental KBS.","venue":"Data Knowl. Eng.","volume":"5","pages":"183-206","year":"1990","type":"Journal Articles","key":"journals/dke/FuL90","doi":"10.1016/0169-023X(90)90001-T","ee":"https://doi.org/10.1016/0169-023X(90)90001-T","url":"https://dblp.org/rec/journals/dke/FuL90"},
+"url":"URL#5218165"
+},
+{
+"@score":"1",
+"@id":"5218166",
+"info":{"authors":{"author":[{"@pid":"89/5117","text":"Narasimhaiah Gorla"},{"@pid":"24/2269","text":"Warren J. Boe"}]},"title":"Database Operating Efficiency in Fragmented Databases in Mainframe, Mini, and Micro System Environments.","venue":"Data Knowl. Eng.","volume":"5","pages":"1-19","year":"1990","type":"Journal Articles","key":"journals/dke/GorlaB90","doi":"10.1016/0169-023X(90)90030-H","ee":"https://doi.org/10.1016/0169-023X(90)90030-H","url":"https://dblp.org/rec/journals/dke/GorlaB90"},
+"url":"URL#5218166"
+},
+{
+"@score":"1",
+"@id":"5218167",
+"info":{"authors":{"author":{"@pid":"14/6778","text":"A. Nico Habermann"}},"title":"Engineering Large Knowledge-Based Systems.","venue":"Data Knowl. Eng.","volume":"5","pages":"105-117","year":"1990","type":"Journal Articles","key":"journals/dke/Habermann90","doi":"10.1016/0169-023X(90)90007-Z","ee":"https://doi.org/10.1016/0169-023X(90)90007-Z","url":"https://dblp.org/rec/journals/dke/Habermann90"},
+"url":"URL#5218167"
+},
+{
+"@score":"1",
+"@id":"5218168",
+"info":{"authors":{"author":[{"@pid":"24/5480","text":"Erik Lambrichts"},{"@pid":"46/809","text":"Peter Nees"},{"@pid":"p/JParedaens","text":"Jan Paredaens"},{"@pid":"27/3522","text":"Peter Peelman"}]},"title":"Integration of Functions in Logic Database Systems.","venue":"Data Knowl. Eng.","volume":"5","pages":"207-226","year":"1990","type":"Journal Articles","key":"journals/dke/LambrichtsNPP90","doi":"10.1016/0169-023X(90)90002-U","ee":"https://doi.org/10.1016/0169-023X(90)90002-U","url":"https://dblp.org/rec/journals/dke/LambrichtsNPP90"},
+"url":"URL#5218168"
+},
+{
+"@score":"1",
+"@id":"5218169",
+"info":{"authors":{"author":{"@pid":"l/FrankLeymann","text":"Frank Leymann"}},"title":"UDH - A Universal Relation System.","venue":"Data Knowl. Eng.","volume":"5","pages":"21-38","year":"1990","type":"Journal Articles","key":"journals/dke/Leymann90","doi":"10.1016/0169-023X(90)90031-8","ee":"https://doi.org/10.1016/0169-023X(90)90031-8","url":"https://dblp.org/rec/journals/dke/Leymann90"},
+"url":"URL#5218169"
+},
+{
+"@score":"1",
+"@id":"5218170",
+"info":{"authors":{"author":{"@pid":"l/Luqi","text":"Luqi"}},"title":"Automated Prototyping and Data Translation.","venue":"Data Knowl. Eng.","volume":"5","pages":"167-177","year":"1990","type":"Journal Articles","key":"journals/dke/Luqi90","doi":"10.1016/0169-023X(90)90011-2","ee":"https://doi.org/10.1016/0169-023X(90)90011-2","url":"https://dblp.org/rec/journals/dke/Luqi90"},
+"url":"URL#5218170"
+},
+{
+"@score":"1",
+"@id":"5218171",
+"info":{"authors":{"author":{"@pid":"56/3","text":"Lawrence J. Mazlack"}},"title":"Satisficing in Knowledge-Based Systems.","venue":"Data Knowl. Eng.","volume":"5","pages":"139-166","year":"1990","type":"Journal Articles","key":"journals/dke/Mazlack90","doi":"10.1016/0169-023X(90)90010-B","ee":"https://doi.org/10.1016/0169-023X(90)90010-B","url":"https://dblp.org/rec/journals/dke/Mazlack90"},
+"url":"URL#5218171"
+},
+{
+"@score":"1",
+"@id":"5218172",
+"info":{"authors":{"author":{"@pid":"32/2767","text":"Nobuyoshi Miyazaki"}},"title":"Selection Propagation in Deductive Databases.","venue":"Data Knowl. Eng.","volume":"5","pages":"313-332","year":"1990","type":"Journal Articles","key":"journals/dke/Miyazaki90","doi":"10.1016/0169-023X(90)90018-9","ee":"https://doi.org/10.1016/0169-023X(90)90018-9","url":"https://dblp.org/rec/journals/dke/Miyazaki90"},
+"url":"URL#5218172"
+},
+{
+"@score":"1",
+"@id":"5218173",
+"info":{"authors":{"author":{"@pid":"r/RPvandeRiet","text":"Reind P. van de Riet"}},"title":"Introduction to the Special Issue on Deductive and Object-Oriented Databases.","venue":"Data Knowl. Eng.","volume":"5","pages":"255-261","year":"1990","type":"Journal Articles","key":"journals/dke/Riet90","doi":"10.1016/0169-023X(90)90015-6","ee":"https://doi.org/10.1016/0169-023X(90)90015-6","url":"https://dblp.org/rec/journals/dke/Riet90"},
+"url":"URL#5218173"
+},
+{
+"@score":"1",
+"@id":"5218174",
+"info":{"authors":{"author":{"@pid":"93/5634","text":"Mary Shaw"}},"title":"Toward Higher-Level Abstractions for Software Systems.","venue":"Data Knowl. Eng.","volume":"5","pages":"119-128","year":"1990","type":"Journal Articles","key":"journals/dke/Shaw90","doi":"10.1016/0169-023X(90)90008-2","ee":"https://doi.org/10.1016/0169-023X(90)90008-2","url":"https://dblp.org/rec/journals/dke/Shaw90"},
+"url":"URL#5218174"
+},
+{
+"@score":"1",
+"@id":"5218175",
+"info":{"authors":{"author":[{"@pid":"s/PCYSheu","text":"Phillip C.-Y. Sheu"},{"@pid":"39/3383","text":"Wonhee Sull"}]},"title":"Knowledge Management in Deductive Object Bases.","venue":"Data Knowl. Eng.","volume":"5","pages":"39-58","year":"1990","type":"Journal Articles","key":"journals/dke/SheuS90","doi":"10.1016/0169-023X(90)90032-9","ee":"https://doi.org/10.1016/0169-023X(90)90032-9","url":"https://dblp.org/rec/journals/dke/SheuS90"},
+"url":"URL#5218175"
+},
+{
+"@score":"1",
+"@id":"5218176",
+"info":{"authors":{"author":{"@pid":"t/BMThuraisingham","text":"Bhavani M. Thuraisingham"}},"title":"Towards the Design of a Secure Data/Knowledge Base Management System.","venue":"Data Knowl. Eng.","volume":"5","pages":"59-72","year":"1990","type":"Journal Articles","key":"journals/dke/Thuraisingham90","doi":"10.1016/0169-023X(90)90033-A","ee":"https://doi.org/10.1016/0169-023X(90)90033-A","url":"https://dblp.org/rec/journals/dke/Thuraisingham90"},
+"url":"URL#5218176"
+},
+{
+"@score":"1",
+"@id":"5218177",
+"info":{"authors":{"author":[{"@pid":"00/6959","text":"Hiroyuki Yamauchi"},{"@pid":"25/4174","text":"Setsuo Ohsuga"}]},"title":"Losse Coupling of KAUS with Existing RDBMSs.","venue":"Data Knowl. Eng.","volume":"5","pages":"227-251","year":"1990","type":"Journal Articles","key":"journals/dke/YamauchiO90","doi":"10.1016/0169-023X(90)90003-V","ee":"https://doi.org/10.1016/0169-023X(90)90003-V","url":"https://dblp.org/rec/journals/dke/YamauchiO90"},
+"url":"URL#5218177"
+}
+]
+}
 }
 }

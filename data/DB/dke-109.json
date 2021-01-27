@@ -1,23 +1,74 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke109\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke109\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.58"
+"text":"118.62"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"7",
+"@dc":"7",
+"@oc":"7",
+"@id":"17615668",
+"text":":facetid:toc:db/journals/dke/dke109.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"7",
+"@computed":"7",
+"@sent":"7",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"1175738",
+"info":{"authors":{"author":[{"@pid":"37/7639","text":"Victorio Albani de Carvalho"},{"@pid":"91/3408","text":"João Paulo A. Almeida"},{"@pid":"169/2246","text":"Claudenir M. Fonseca"},{"@pid":"11/78","text":"Giancarlo Guizzardi"}]},"title":"Multi-level ontology-based conceptual modeling.","venue":"Data Knowl. Eng.","volume":"109","pages":"3-24","year":"2017","type":"Journal Articles","key":"journals/dke/CarvalhoAFG17","doi":"10.1016/J.DATAK.2017.03.002","ee":"https://doi.org/10.1016/j.datak.2017.03.002","url":"https://dblp.org/rec/journals/dke/CarvalhoAFG17"},
+"url":"URL#1175738"
+},
+{
+"@score":"1",
+"@id":"1175742",
+"info":{"authors":{"author":[{"@pid":"120/7814","text":"Felipe Pontes Guimarães"},{"@pid":"34/64","text":"Genaína Nunes Rodrigues"},{"@pid":"06/1901","text":"Raian Ali"},{"@pid":"20/833","text":"Daniel Macêdo Batista"}]},"title":"Planning runtime software adaptation through pragmatic goal model.","venue":"Data Knowl. Eng.","volume":"109","pages":"25-40","year":"2017","type":"Journal Articles","key":"journals/dke/GuimaraesRAB17","doi":"10.1016/J.DATAK.2017.03.003","ee":"https://doi.org/10.1016/j.datak.2017.03.003","url":"https://dblp.org/rec/journals/dke/GuimaraesRAB17"},
+"url":"URL#1175742"
+},
+{
+"@score":"1",
+"@id":"1175743",
+"info":{"authors":{"author":[{"@pid":"j/PaulJohannesson","text":"Paul Johannesson"},{"@pid":"l/MongLiLee","text":"Mong-Li Lee"},{"@pid":"l/StephenWLiddle","text":"Stephen W. Liddle"},{"@pid":"12/256","text":"Andreas L. Opdahl"},{"@pid":"p/OscarPastor","text":"Oscar Pastor 0001"}]},"title":"Special issue on conceptual modeling - 34th International Conference on Conceptual Modeling (ER 2015).","venue":"Data Knowl. Eng.","volume":"109","pages":"1-2","year":"2017","type":"Journal Articles","key":"journals/dke/JohannessonLLOP17","doi":"10.1016/J.DATAK.2017.03.001","ee":"https://doi.org/10.1016/j.datak.2017.03.001","url":"https://dblp.org/rec/journals/dke/JohannessonLLOP17"},
+"url":"URL#1175743"
+},
+{
+"@score":"1",
+"@id":"1175752",
+"info":{"authors":{"author":[{"@pid":"37/528","text":"Fabiano Borges Ruy"},{"@pid":"11/78","text":"Giancarlo Guizzardi"},{"@pid":"229/4259","text":"Ricardo de Almeida Falbo"},{"@pid":"166/8962","text":"Cássio Chaves Reginato"},{"@pid":"135/0809","text":"Victor Amorim dos Santos"}]},"title":"From reference ontologies to ontology patterns and back.","venue":"Data Knowl. Eng.","volume":"109","pages":"41-69","year":"2017","type":"Journal Articles","key":"journals/dke/RuyGFRS17","doi":"10.1016/J.DATAK.2017.03.004","ee":"https://doi.org/10.1016/j.datak.2017.03.004","url":"https://dblp.org/rec/journals/dke/RuyGFRS17"},
+"url":"URL#1175752"
+},
+{
+"@score":"1",
+"@id":"1175753",
+"info":{"authors":{"author":[{"@pid":"164/7207","text":"Metta Santiputri"},{"@pid":"g/AdityaKGhose","text":"Aditya K. Ghose"},{"@pid":"75/4194","text":"Hoa Khanh Dam"}]},"title":"Mining task post-conditions - Automating the acquisition of process semantics.","venue":"Data Knowl. Eng.","volume":"109","pages":"112-125","year":"2017","type":"Journal Articles","key":"journals/dke/SantiputriGD17","doi":"10.1016/J.DATAK.2017.03.007","ee":"https://doi.org/10.1016/j.datak.2017.03.007","url":"https://dblp.org/rec/journals/dke/SantiputriGD17"},
+"url":"URL#1175753"
+},
+{
+"@score":"1",
+"@id":"1175754",
+"info":{"authors":{"author":[{"@pid":"130/7732","text":"Matt Selway"},{"@pid":"s/MarkusStumptner","text":"Markus Stumptner"},{"@pid":"50/5315","text":"Wolfgang Mayer"},{"@pid":"130/7659","text":"Andreas Jordan"},{"@pid":"89/733","text":"Georg Grossmann"},{"@pid":"s/MichaelSchrefl","text":"Michael Schrefl"}]},"title":"A conceptual framework for large-scale ecosystem interoperability and industrial product lifecycles.","venue":"Data Knowl. Eng.","volume":"109","pages":"85-111","year":"2017","type":"Journal Articles","key":"journals/dke/SelwaySMJGS17","doi":"10.1016/J.DATAK.2017.03.006","ee":"https://doi.org/10.1016/j.datak.2017.03.006","url":"https://dblp.org/rec/journals/dke/SelwaySMJGS17"},
+"url":"URL#1175754"
+},
+{
+"@score":"1",
+"@id":"1175761",
+"info":{"authors":{"author":[{"@pid":"56/4499","text":"Liang Wang"},{"@pid":"47/1798-11","text":"Liwei Wang 0011"},{"@pid":"40/1233","text":"Zhiyong Peng"}]},"title":"Probabilistic object deputy model for uncertain data and lineage management.","venue":"Data Knowl. Eng.","volume":"109","pages":"70-84","year":"2017","type":"Journal Articles","key":"journals/dke/WangWP17","doi":"10.1016/J.DATAK.2017.03.005","ee":"https://doi.org/10.1016/j.datak.2017.03.005","url":"https://dblp.org/rec/journals/dke/WangWP17"},
+"url":"URL#1175761"
+}
+]
+}
 }
 }

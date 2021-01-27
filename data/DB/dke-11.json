@@ -1,23 +1,98 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke11\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke11\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.33"
+"text":"143.48"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"11",
+"@dc":"11",
+"@oc":"11",
+"@id":"17615669",
+"text":":facetid:toc:db/journals/dke/dke11.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"11",
+"@computed":"11",
+"@sent":"11",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"5116211",
+"info":{"authors":{"author":[{"@pid":"53/2231","text":"B. Bhuniya"},{"@pid":"14/4644","text":"P. Niyogi"}]},"title":"Lossless Join Property in Fuzzy Relational Databases.","venue":"Data Knowl. Eng.","volume":"11","number":"2","pages":"109-124","year":"1993","type":"Journal Articles","key":"journals/dke/BhuniyaN93","doi":"10.1016/0169-023X(93)90001-6","ee":"https://doi.org/10.1016/0169-023X(93)90001-6","url":"https://dblp.org/rec/journals/dke/BhuniyaN93"},
+"url":"URL#5116211"
+},
+{
+"@score":"1",
+"@id":"5116212",
+"info":{"authors":{"author":[{"@pid":"c/MarcoACasanova","text":"Marco A. Casanova"},{"@pid":"83/334","text":"Luiz Tucherman"},{"@pid":"l/AHFLaender","text":"Alberto H. F. Laender"}]},"title":"On the Design and Maintenance of Optimized Relational Representations of Entity-Relationship Schemas.","venue":"Data Knowl. Eng.","volume":"11","number":"1","pages":"1-20","year":"1993","type":"Journal Articles","key":"journals/dke/CasanovaTL93","doi":"10.1016/0169-023X(93)90043-O","ee":"https://doi.org/10.1016/0169-023X(93)90043-O","url":"https://dblp.org/rec/journals/dke/CasanovaTL93"},
+"url":"URL#5116212"
+},
+{
+"@score":"1",
+"@id":"5116213",
+"info":{"authors":{"author":[{"@pid":"77/4054","text":"Sunil Choenni"},{"@pid":"32/6205","text":"Henk M. Blanken"},{"@pid":"06/6728","text":"Thiel Chang"}]},"title":"On the Selection of Secondary Indices in Relational Databases.","venue":"Data Knowl. Eng.","volume":"11","number":"3","pages":"207-233","year":"1993","type":"Journal Articles","key":"journals/dke/ChoenniBC93","doi":"10.1016/0169-023X(93)90023-I","ee":"https://doi.org/10.1016/0169-023X(93)90023-I","url":"https://dblp.org/rec/journals/dke/ChoenniBC93"},
+"url":"URL#5116213"
+},
+{
+"@score":"1",
+"@id":"5116214",
+"info":{"authors":{"author":[{"@pid":"c/PaoloCiaccia","text":"Paolo Ciaccia"},{"@pid":"m/DarioMaio","text":"Dario Maio"}]},"title":"Access Cost Estimation for Physical Database Design.","venue":"Data Knowl. Eng.","volume":"11","number":"2","pages":"125-150","year":"1993","type":"Journal Articles","key":"journals/dke/CiacciaM93","doi":"10.1016/0169-023X(93)90002-7","ee":"https://doi.org/10.1016/0169-023X(93)90002-7","url":"https://dblp.org/rec/journals/dke/CiacciaM93"},
+"url":"URL#5116214"
+},
+{
+"@score":"1",
+"@id":"5116222",
+"info":{"authors":{"author":[{"@pid":"l/StephenWLiddle","text":"Stephen W. Liddle"},{"@pid":"e/DWEmbley","text":"David W. Embley"},{"@pid":"w/ScottNWoodfield","text":"Scott N. Woodfield"}]},"title":"Cardinality Constraints in Semantic Data Models.","venue":"Data Knowl. Eng.","volume":"11","number":"3","pages":"235-270","year":"1993","type":"Journal Articles","key":"journals/dke/LiddleEW93","doi":"10.1016/0169-023X(93)90024-J","ee":"https://doi.org/10.1016/0169-023X(93)90024-J","url":"https://dblp.org/rec/journals/dke/LiddleEW93"},
+"url":"URL#5116222"
+},
+{
+"@score":"1",
+"@id":"5116223",
+"info":{"authors":{"author":[{"@pid":"l/LinXuemin","text":"Xuemin Lin 0001"},{"@pid":"o/MariaEOrlowska","text":"Maria E. Orlowska"},{"@pid":"32/2837","text":"Yanchun Zhang"}]},"title":"A Graph Based Cluster Approach for Vertical Partitioning in Database Design.","venue":"Data Knowl. Eng.","volume":"11","number":"2","pages":"151-169","year":"1993","type":"Journal Articles","key":"journals/dke/LinOZ93","doi":"10.1016/0169-023X(93)90003-8","ee":"https://doi.org/10.1016/0169-023X(93)90003-8","url":"https://dblp.org/rec/journals/dke/LinOZ93"},
+"url":"URL#5116223"
+},
+{
+"@score":"1",
+"@id":"5116224",
+"info":{"authors":{"author":{"@pid":"181/2612","text":"Ling Liu"}},"title":"A Recursive Object Algebra Based on Aggregation Abstraction for Manipulating Complex Object.","venue":"Data Knowl. Eng.","volume":"11","number":"1","pages":"21-60","year":"1993","type":"Journal Articles","key":"journals/dke/Liu93","doi":"10.1016/0169-023X(93)90044-P","ee":"https://doi.org/10.1016/0169-023X(93)90044-P","url":"https://dblp.org/rec/journals/dke/Liu93"},
+"url":"URL#5116224"
+},
+{
+"@score":"1",
+"@id":"5116230",
+"info":{"authors":{"author":[{"@pid":"s/GaryHSockut","text":"Gary H. Sockut"},{"@pid":"13/2236","text":"Luanne M. Burns"},{"@pid":"73/247","text":"Ashok Malhotra"},{"@pid":"w/KyuYoungWhang","text":"Kyu-Young Whang"}]},"title":"GRAQULA - A Graphical Query Language for Entity-Relationship or Relational Databases.","venue":"Data Knowl. Eng.","volume":"11","number":"2","pages":"171-202","year":"1993","type":"Journal Articles","key":"journals/dke/SockutBMW93","doi":"10.1016/0169-023X(93)90004-9","ee":"https://doi.org/10.1016/0169-023X(93)90004-9","url":"https://dblp.org/rec/journals/dke/SockutBMW93"},
+"url":"URL#5116230"
+},
+{
+"@score":"1",
+"@id":"5116231",
+"info":{"authors":{"author":{"@pid":"41/1781","text":"Veda C. Storey"}},"title":"A Selective Survey of the Use of Artificial Intelligence for Database Design Systems.","venue":"Data Knowl. Eng.","volume":"11","number":"1","pages":"61-102","year":"1993","type":"Journal Articles","key":"journals/dke/Storey93","doi":"10.1016/0169-023X(93)90045-Q","ee":"https://doi.org/10.1016/0169-023X(93)90045-Q","url":"https://dblp.org/rec/journals/dke/Storey93"},
+"url":"URL#5116231"
+},
+{
+"@score":"1",
+"@id":"5116232",
+"info":{"authors":{"author":[{"@pid":"t/BMThuraisingham","text":"Bhavani M. Thuraisingham"},{"@pid":"121/2672","text":"William R. Ford"},{"@pid":"175/5978","text":"Marie Collins"},{"@pid":"61/477","text":"J. O&apos;Keeffe"}]},"title":"Design and Implementation of a Database Inference Controller.","venue":"Data Knowl. Eng.","volume":"11","number":"3","pages":"271-297","year":"1993","type":"Journal Articles","key":"journals/dke/ThuraisinghamFCO93","doi":"10.1016/0169-023X(93)90025-K","ee":"https://doi.org/10.1016/0169-023X(93)90025-K","url":"https://dblp.org/rec/journals/dke/ThuraisinghamFCO93"},
+"url":"URL#5116232"
+},
+{
+"@score":"1",
+"@id":"5116234",
+"info":{"authors":{"author":[{"@pid":"81/5348","text":"Frank Shou-Cheng Tseng"},{"@pid":"c/ALPChen","text":"Arbee L. P. Chen"},{"@pid":"20/5454","text":"Wei-Pang Yang"}]},"title":"Refining Imprecise Data by Integrity Constraints.","venue":"Data Knowl. Eng.","volume":"11","number":"3","pages":"299-316","year":"1993","type":"Journal Articles","key":"journals/dke/TsengCY93","doi":"10.1016/0169-023X(93)90026-L","ee":"https://doi.org/10.1016/0169-023X(93)90026-L","url":"https://dblp.org/rec/journals/dke/TsengCY93"},
+"url":"URL#5116234"
+}
+]
+}
 }
 }

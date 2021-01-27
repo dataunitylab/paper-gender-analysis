@@ -1,23 +1,134 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke29\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke29\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.40"
+"text":"137.21"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"17",
+"@dc":"17",
+"@oc":"17",
+"@id":"17615709",
+"text":":facetid:toc:db/journals/dke/dke29.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"17",
+"@computed":"17",
+"@sent":"17",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"4794990",
+"info":{"authors":{"author":[{"@pid":"78/11148","text":"Reda Alhajj"},{"@pid":"04/14","text":"Ashraf Elnagar"}]},"title":"Incremental Materialization of Object-Oriented Views.","venue":"Data Knowl. Eng.","volume":"29","number":"2","pages":"121-145","year":"1999","type":"Journal Articles","key":"journals/dke/AlhajjE99","doi":"10.1016/S0169-023X(98)00042-1","ee":"https://doi.org/10.1016/S0169-023X(98)00042-1","url":"https://dblp.org/rec/journals/dke/AlhajjE99"},
+"url":"URL#4794990"
+},
+{
+"@score":"1",
+"@id":"4794991",
+"info":{"authors":{"author":[{"@pid":"92/5278","text":"Laura Amadesi"},{"@pid":"268/3862-1","text":"Fabio Grandi 0001"}]},"title":"An Adaptive Split Policy for the Time Split B-Tree.","venue":"Data Knowl. Eng.","volume":"29","number":"1","pages":"1-15","year":"1999","type":"Journal Articles","key":"journals/dke/AmadesiG99","doi":"10.1016/S0169-023X(98)00030-5","ee":"https://doi.org/10.1016/S0169-023X(98)00030-5","url":"https://dblp.org/rec/journals/dke/AmadesiG99"},
+"url":"URL#4794991"
+},
+{
+"@score":"1",
+"@id":"4794993",
+"info":{"authors":{"author":[{"@pid":"88/1945","text":"Florence Le Ber"},{"@pid":"17/5603","text":"Marie-Pierre Chouvet"}]},"title":"An Agent-Based Model for Domain Knowledge Representation.","venue":"Data Knowl. Eng.","volume":"29","number":"2","pages":"147-161","year":"1999","type":"Journal Articles","key":"journals/dke/BerC99","doi":"10.1016/S0169-023X(98)00041-X","ee":"https://doi.org/10.1016/S0169-023X(98)00041-X","url":"https://dblp.org/rec/journals/dke/BerC99"},
+"url":"URL#4794993"
+},
+{
+"@score":"1",
+"@id":"4794994",
+"info":{"authors":{"author":[{"@pid":"96/2728","text":"Sabina Beraha"},{"@pid":"s/JWSu","text":"Jianwen Su"}]},"title":"Support for Modeling Relationships in Object-Oriented Databases.","venue":"Data Knowl. Eng.","volume":"29","number":"3","pages":"227-257","year":"1999","type":"Journal Articles","key":"journals/dke/BerahaS99","doi":"10.1016/S0169-023X(99)80001-9","ee":"https://doi.org/10.1016/S0169-023X(99)80001-9","url":"https://dblp.org/rec/journals/dke/BerahaS99"},
+"url":"URL#4794994"
+},
+{
+"@score":"1",
+"@id":"4794996",
+"info":{"authors":{"author":[{"@pid":"11/4932","text":"Frances M. T. Brazier"},{"@pid":"t/JanTreur","text":"Jan Treur"},{"@pid":"32/4395","text":"Niek J. E. Wijngaards"},{"@pid":"82/5316","text":"Mark Willems"}]},"title":"Temporal Semantics of Compositional Task Models and Problem Solving Methods.","venue":"Data Knowl. Eng.","volume":"29","number":"1","pages":"17-42","year":"1999","type":"Journal Articles","key":"journals/dke/BrazierTWW99","doi":"10.1016/S0169-023X(98)00029-9","ee":"https://doi.org/10.1016/S0169-023X(98)00029-9","url":"https://dblp.org/rec/journals/dke/BrazierTWW99"},
+"url":"URL#4794996"
+},
+{
+"@score":"1",
+"@id":"4794997",
+"info":{"authors":{"author":[{"@pid":"40/6057","text":"Siwoo Byun"},{"@pid":"48/5545","text":"Songchun Moon"}]},"title":"Resilient Data Management for Replicated Mobile Database Systems.","venue":"Data Knowl. Eng.","volume":"29","number":"1","pages":"43-55","year":"1999","type":"Journal Articles","key":"journals/dke/ByunM99","doi":"10.1016/S0169-023X(98)00028-7","ee":"https://doi.org/10.1016/S0169-023X(98)00028-7","url":"https://dblp.org/rec/journals/dke/ByunM99"},
+"url":"URL#4794997"
+},
+{
+"@score":"1",
+"@id":"4795000",
+"info":{"authors":{"author":[{"@pid":"c/FredericCuppens","text":"Frédéric Cuppens"},{"@pid":"g/AlbanGabillon","text":"Alban Gabillon"}]},"title":"Logical Foundations of Multilevel Databases.","venue":"Data Knowl. Eng.","volume":"29","number":"3","pages":"259-291","year":"1999","type":"Journal Articles","key":"journals/dke/CuppensG99","doi":"10.1016/S0169-023X(98)00044-5","ee":"https://doi.org/10.1016/S0169-023X(98)00044-5","url":"https://dblp.org/rec/journals/dke/CuppensG99"},
+"url":"URL#4795000"
+},
+{
+"@score":"1",
+"@id":"4795004",
+"info":{"authors":{"author":[{"@pid":"66/4926","text":"Robert C. Goldstein"},{"@pid":"41/1781","text":"Veda C. Storey"}]},"title":"Data Abstractions - Why and How?","venue":"Data Knowl. Eng.","volume":"29","number":"3","pages":"293-311","year":"1999","type":"Journal Articles","key":"journals/dke/GoldsteinS99","doi":"10.1016/S0169-023X(98)00043-3","ee":"https://doi.org/10.1016/S0169-023X(98)00043-3","url":"https://dblp.org/rec/journals/dke/GoldsteinS99"},
+"url":"URL#4795004"
+},
+{
+"@score":"1",
+"@id":"4795005",
+"info":{"authors":{"author":[{"@pid":"g/FernandoGomez","text":"Fernando Gomez"},{"@pid":"96/441","text":"Carlos Segami"},{"@pid":"01/1578","text":"Carl Delaune"}]},"title":"A System for the Semiautomatic Generation of E-R Models from Natural Language Specifications.","venue":"Data Knowl. Eng.","volume":"29","number":"1","pages":"57-81","year":"1999","type":"Journal Articles","key":"journals/dke/GomezSD99","doi":"10.1016/S0169-023X(98)00032-9","ee":"https://doi.org/10.1016/S0169-023X(98)00032-9","url":"https://dblp.org/rec/journals/dke/GomezSD99"},
+"url":"URL#4795005"
+},
+{
+"@score":"1",
+"@id":"4795011",
+"info":{"authors":{"author":{"@pid":"36/3958","text":"Juhnyong Lee"}},"title":"Precise Serialization for Optimistic Concurrency Control.","venue":"Data Knowl. Eng.","volume":"29","number":"2","pages":"163-178","year":"1999","type":"Journal Articles","key":"journals/dke/Lee99","doi":"10.1016/S0169-023X(98)00033-0","ee":"https://doi.org/10.1016/S0169-023X(98)00033-0","url":"https://dblp.org/rec/journals/dke/Lee99"},
+"url":"URL#4795011"
+},
+{
+"@score":"1",
+"@id":"4795013",
+"info":{"authors":{"author":[{"@pid":"l/HuiLei","text":"Hui Lei 0001"},{"@pid":"r/KARoss","text":"Kenneth A. Ross"}]},"title":"Faster Joins, Self-Joins and Multi-Way Joins Using Join Indices.","venue":"Data Knowl. Eng.","volume":"29","number":"2","pages":"179-200","year":"1999","type":"Journal Articles","key":"journals/dke/LeiR99","doi":"10.1016/S0169-023X(98)00031-7","ee":"https://doi.org/10.1016/S0169-023X(98)00031-7","url":"https://dblp.org/rec/journals/dke/LeiR99"},
+"url":"URL#4795013"
+},
+{
+"@score":"1",
+"@id":"4795015",
+"info":{"authors":{"author":[{"@pid":"l/EePengLim","text":"Ee-Peng Lim"},{"@pid":"78/4406","text":"Roger H. L. Chiang"},{"@pid":"94/1083","text":"Yinyan Cao"}]},"title":"Tuple Source Relational Model - A Source-Aware Data Model for Multidatabases.","venue":"Data Knowl. Eng.","volume":"29","number":"1","pages":"83-114","year":"1999","type":"Journal Articles","key":"journals/dke/LimCC99","doi":"10.1016/S0169-023X(99)00021-X","ee":"https://doi.org/10.1016/S0169-023X(99)00021-X","url":"https://dblp.org/rec/journals/dke/LimCC99"},
+"url":"URL#4795015"
+},
+{
+"@score":"1",
+"@id":"4795017",
+"info":{"authors":{"author":[{"@pid":"26/1286","text":"Nikos A. Lorentzos"},{"@pid":"81/4632","text":"Constantine P. Yialouris"},{"@pid":"65/6693","text":"Alexander B. Sideridis"}]},"title":"Time-Evolving Rule-Based Knowledge Bases.","venue":"Data Knowl. Eng.","volume":"29","number":"3","pages":"313-335","year":"1999","type":"Journal Articles","key":"journals/dke/LorentzosYS99","doi":"10.1016/S0169-023X(98)00048-2","ee":"https://doi.org/10.1016/S0169-023X(98)00048-2","url":"https://dblp.org/rec/journals/dke/LorentzosYS99"},
+"url":"URL#4795017"
+},
+{
+"@score":"1",
+"@id":"4795021",
+"info":{"authors":{"author":[{"@pid":"42/250","text":"Bryan W. Scotney"},{"@pid":"m/SallyIMcClean","text":"Sally I. McClean"},{"@pid":"01/783","text":"Máire Rodgers"}]},"title":"Optimal and Efficient Integration of Heterogeneous Summary Tables in a Distributed Database.","venue":"Data Knowl. Eng.","volume":"29","number":"3","pages":"337-350","year":"1999","type":"Journal Articles","key":"journals/dke/ScotneyMR99","doi":"10.1016/S0169-023X(98)00039-1","ee":"https://doi.org/10.1016/S0169-023X(98)00039-1","url":"https://dblp.org/rec/journals/dke/ScotneyMR99"},
+"url":"URL#4795021"
+},
+{
+"@score":"1",
+"@id":"4795023",
+"info":{"authors":{"author":[{"@pid":"35/5958","text":"Antonio Si"},{"@pid":"l/HongVaLeong","text":"Hong Va Leong"}]},"title":"Query Optimization for Broadcast Database.","venue":"Data Knowl. Eng.","volume":"29","number":"3","pages":"351-380","year":"1999","type":"Journal Articles","key":"journals/dke/SiL99","doi":"10.1016/S0169-023X(98)00040-8","ee":"https://doi.org/10.1016/S0169-023X(98)00040-8","url":"https://dblp.org/rec/journals/dke/SiL99"},
+"url":"URL#4795023"
+},
+{
+"@score":"1",
+"@id":"4795025",
+"info":{"authors":{"author":[{"@pid":"t/KianLeeTan","text":"Kian-Lee Tan"},{"@pid":"y/JXuYu","text":"Jeffrey Xu Yu"},{"@pid":"67/4887","text":"Pin-Kwang Eng"}]},"title":"Supporting Range Queries in a Wireless Environment with Nonuniform Broadcast.","venue":"Data Knowl. Eng.","volume":"29","number":"2","pages":"201-221","year":"1999","type":"Journal Articles","key":"journals/dke/TanYE99","doi":"10.1016/S0169-023X(98)00038-X","ee":"https://doi.org/10.1016/S0169-023X(98)00038-X","url":"https://dblp.org/rec/journals/dke/TanYE99"},
+"url":"URL#4795025"
+},
+{
+"@score":"1",
+"@id":"4795027",
+"info":{"authors":{"author":[{"@pid":"79/4180","text":"Theodoros Tzouramanis"},{"@pid":"m/YManolopoulos","text":"Yannis Manolopoulos"},{"@pid":"26/1286","text":"Nikos A. Lorentzos"}]},"title":"Overlapping B+-Trees - An Implementation of a Transaction Time Access Method.","venue":"Data Knowl. Eng.","volume":"29","number":"3","pages":"381-404","year":"1999","type":"Journal Articles","key":"journals/dke/TzouramanisML99","doi":"10.1016/S0169-023X(98)00046-9","ee":"https://doi.org/10.1016/S0169-023X(98)00046-9","url":"https://dblp.org/rec/journals/dke/TzouramanisML99"},
+"url":"URL#4795027"
+}
+]
+}
 }
 }

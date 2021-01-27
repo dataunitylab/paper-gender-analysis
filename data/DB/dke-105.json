@@ -1,23 +1,92 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke105\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke105\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.52"
+"text":"147.62"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"10",
+"@dc":"10",
+"@oc":"10",
+"@id":"17615664",
+"text":":facetid:toc:db/journals/dke/dke105.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"10",
+"@computed":"10",
+"@sent":"10",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"1501986",
+"info":{"authors":{"author":[{"@pid":"05/10951","text":"Ayed Alwadain"},{"@pid":"02/279","text":"Erwin Fielt"},{"@pid":"46/5996","text":"Axel Korthaus"},{"@pid":"r/MichaelRosemann","text":"Michael Rosemann"}]},"title":"Empirical insights into the development of a service-oriented enterprise architecture.","venue":"Data Knowl. Eng.","volume":"105","pages":"39-52","year":"2016","type":"Journal Articles","key":"journals/dke/AlwadainFKR16","doi":"10.1016/J.DATAK.2015.09.004","ee":"https://doi.org/10.1016/j.datak.2015.09.004","url":"https://dblp.org/rec/journals/dke/AlwadainFKR16"},
+"url":"URL#1501986"
+},
+{
+"@score":"1",
+"@id":"1501989",
+"info":{"authors":{"author":[{"@pid":"119/0934","text":"Izunildo Cabral"},{"@pid":"63/6448-2","text":"António Grilo 0002"},{"@pid":"48/7082","text":"António M. Gonçalves-Coelho"},{"@pid":"80/7085","text":"António J. F. Mourão"}]},"title":"An agent-based model for analyzing the impact of business interoperability on the performance of cooperativeindustrial networks.","venue":"Data Knowl. Eng.","volume":"105","pages":"107-129","year":"2016","type":"Journal Articles","key":"journals/dke/Cabral0GM16","doi":"10.1016/J.DATAK.2015.08.001","ee":"https://doi.org/10.1016/j.datak.2015.08.001","url":"https://dblp.org/rec/journals/dke/Cabral0GM16"},
+"url":"URL#1501989"
+},
+{
+"@score":"1",
+"@id":"1501992",
+"info":{"authors":{"author":[{"@pid":"151/2618","text":"Tarcisio Mendes de Farias"},{"@pid":"52/9982","text":"Ana Roxin"},{"@pid":"48/5937","text":"Christophe Nicolle"}]},"title":"SWRL rule-selection methodology for ontology interoperability.","venue":"Data Knowl. Eng.","volume":"105","pages":"53-72","year":"2016","type":"Journal Articles","key":"journals/dke/FariasRN16","doi":"10.1016/J.DATAK.2015.09.001","ee":"https://doi.org/10.1016/j.datak.2015.09.001","url":"https://dblp.org/rec/journals/dke/FariasRN16"},
+"url":"URL#1501992"
+},
+{
+"@score":"1",
+"@id":"1501995",
+"info":{"authors":{"author":[{"@pid":"22/1742","text":"Maroua Hachicha"},{"@pid":"66/6892-1","text":"Muhammad Fahad 0001"},{"@pid":"27/2256","text":"Néjib Moalla"},{"@pid":"85/4269","text":"Yacine Ouzrout"}]},"title":"Performance assessment architecture for collaborative business processes in BPM-SOA-based environment.","venue":"Data Knowl. Eng.","volume":"105","pages":"73-89","year":"2016","type":"Journal Articles","key":"journals/dke/HachichaFMO16","doi":"10.1016/J.DATAK.2015.12.002","ee":"https://doi.org/10.1016/j.datak.2015.12.002","url":"https://dblp.org/rec/journals/dke/HachichaFMO16"},
+"url":"URL#1501995"
+},
+{
+"@score":"1",
+"@id":"1502005",
+"info":{"authors":{"author":[{"@pid":"24/465","text":"Hervé Panetto"},{"@pid":"13/2607","text":"Lawrence E. Whitman"}]},"title":"Knowledge engineering for enterprise integration, interoperability and networking - Theory and applications.","venue":"Data Knowl. Eng.","volume":"105","pages":"1-4","year":"2016","type":"Journal Articles","key":"journals/dke/PanettoW16","doi":"10.1016/J.DATAK.2016.05.001","ee":"https://doi.org/10.1016/j.datak.2016.05.001","url":"https://dblp.org/rec/journals/dke/PanettoW16"},
+"url":"URL#1502005"
+},
+{
+"@score":"1",
+"@id":"1502010",
+"info":{"authors":{"author":[{"@pid":"32/66","text":"Chris Stary"},{"@pid":"05/11356","text":"Dominik Wachholder"}]},"title":"System-of-systems support - A bigraph approach to interoperability and emergent behavior.","venue":"Data Knowl. Eng.","volume":"105","pages":"155-172","year":"2016","type":"Journal Articles","key":"journals/dke/StaryW16","doi":"10.1016/J.DATAK.2015.12.001","ee":"https://doi.org/10.1016/j.datak.2015.12.001","url":"https://dblp.org/rec/journals/dke/StaryW16"},
+"url":"URL#1502010"
+},
+{
+"@score":"1",
+"@id":"1502012",
+"info":{"authors":{"author":[{"@pid":"04/4842","text":"Leonid Stoimenov"},{"@pid":"146/6101","text":"Nikola Davidovic"},{"@pid":"53/695","text":"Aleksandar S. Stanimirovic"},{"@pid":"123/0480","text":"Milos Bogdanovic"},{"@pid":"53/11029","text":"Dalibor Nikolic"}]},"title":"Enterprise integration solution for power supply company based on GeoNis interoperability framework.","venue":"Data Knowl. Eng.","volume":"105","pages":"23-38","year":"2016","type":"Journal Articles","key":"journals/dke/StoimenovDSBN16","doi":"10.1016/J.DATAK.2015.10.001","ee":"https://doi.org/10.1016/j.datak.2015.10.001","url":"https://dblp.org/rec/journals/dke/StoimenovDSBN16"},
+"url":"URL#1502012"
+},
+{
+"@score":"1",
+"@id":"1502014",
+"info":{"authors":{"author":[{"@pid":"161/1592","text":"David Tchoffa"},{"@pid":"12/4773","text":"Nicolas Figay"},{"@pid":"91/4781","text":"Parisa Ghodous"},{"@pid":"17/3806","text":"Ernesto Exposito"},{"@pid":"01/2455","text":"Lyes Kermad"},{"@pid":"123/5058","text":"Thomas Vosgien"},{"@pid":"99/5879","text":"Abderrahman El Mhamedi"}]},"title":"Digital factory system for dynamic manufacturing network supporting networked collaborative product development.","venue":"Data Knowl. Eng.","volume":"105","pages":"130-154","year":"2016","type":"Journal Articles","key":"journals/dke/TchoffaFGEKVM16","doi":"10.1016/J.DATAK.2016.02.004","ee":"https://doi.org/10.1016/j.datak.2016.02.004","url":"https://dblp.org/rec/journals/dke/TchoffaFGEKVM16"},
+"url":"URL#1502014"
+},
+{
+"@score":"1",
+"@id":"1502015",
+"info":{"authors":{"author":[{"@pid":"87/10351","text":"Alix Vargas"},{"@pid":"51/10352","text":"Andrés Boza"},{"@pid":"28/899","text":"Shushma Patel"},{"@pid":"p/DilipPatel","text":"Dilip Patel"},{"@pid":"62/10351","text":"Llanos Cuenca"},{"@pid":"b/AngelOrtizBas","text":"Ángel Ortiz Bas"}]},"title":"Inter-enterprise architecture as a tool to empower decision-making in hierarchical collaborative production planning.","venue":"Data Knowl. Eng.","volume":"105","pages":"5-22","year":"2016","type":"Journal Articles","key":"journals/dke/VargasBPPCB16","doi":"10.1016/J.DATAK.2015.10.002","ee":"https://doi.org/10.1016/j.datak.2015.10.002","url":"https://dblp.org/rec/journals/dke/VargasBPPCB16"},
+"url":"URL#1502015"
+},
+{
+"@score":"1",
+"@id":"1502017",
+"info":{"authors":{"author":[{"@pid":"26/442","text":"Georg Weichhart"},{"@pid":"05/5476","text":"Wided Guédria"},{"@pid":"98/91","text":"Yannick Naudet"}]},"title":"Supporting interoperability in complex adaptive enterprise systems - A domain specific language approach.","venue":"Data Knowl. Eng.","volume":"105","pages":"90-106","year":"2016","type":"Journal Articles","key":"journals/dke/WeichhartGN16","doi":"10.1016/J.DATAK.2016.04.001","ee":"https://doi.org/10.1016/j.datak.2016.04.001","url":"https://dblp.org/rec/journals/dke/WeichhartGN16"},
+"url":"URL#1502017"
+}
+]
+}
 }
 }

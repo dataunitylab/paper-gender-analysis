@@ -1,23 +1,128 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke8\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke8\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.53"
+"text":"102.80"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"16",
+"@dc":"16",
+"@oc":"16",
+"@id":"17615763",
+"text":":facetid:toc:db/journals/dke/dke8.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"16",
+"@computed":"16",
+"@sent":"16",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"5155312",
+"info":{"authors":{"author":[{"@pid":"a/PAtzeni","text":"Paolo Atzeni"},{"@pid":"t/RiccardoTorlone","text":"Riccardo Torlone"}]},"title":"Updating intensional predicates in Datalog.","venue":"Data Knowl. Eng.","volume":"8","pages":"1-17","year":"1992","type":"Journal Articles","key":"journals/dke/AtzeniT92","doi":"10.1016/0169-023X(92)90002-S","ee":"https://doi.org/10.1016/0169-023X(92)90002-S","url":"https://dblp.org/rec/journals/dke/AtzeniT92"},
+"url":"URL#5155312"
+},
+{
+"@score":"1",
+"@id":"5155314",
+"info":{"authors":{"author":[{"@pid":"92/5402","text":"Kamal Kant Bharadwaj"},{"@pid":"23/6566","text":"N. K. Jain"}]},"title":"Hierarchical Censored Production Rules (HCPRs) system.","venue":"Data Knowl. Eng.","volume":"8","pages":"19-34","year":"1992","type":"Journal Articles","key":"journals/dke/BharadwajJ92","doi":"10.1016/0169-023X(92)90003-T","ee":"https://doi.org/10.1016/0169-023X(92)90003-T","url":"https://dblp.org/rec/journals/dke/BharadwajJ92"},
+"url":"URL#5155314"
+},
+{
+"@score":"1",
+"@id":"5155315",
+"info":{"authors":{"author":[{"@pid":"b/PvBommel","text":"Patrick van Bommel"},{"@pid":"w/TPvanderWeide","text":"Theo P. van der Weide"}]},"title":"Reducing the search space for conceptual schema transformation.","venue":"Data Knowl. Eng.","volume":"8","pages":"269-292","year":"1992","type":"Journal Articles","key":"journals/dke/BommelW92","doi":"10.1016/0169-023X(92)90042-A","ee":"https://doi.org/10.1016/0169-023X(92)90042-A","url":"https://dblp.org/rec/journals/dke/BommelW92"},
+"url":"URL#5155315"
+},
+{
+"@score":"1",
+"@id":"5155316",
+"info":{"authors":{"author":[{"@pid":"04/6126","text":"Francesca Cesarini"},{"@pid":"m/MMissikoff","text":"Michele Missikoff"},{"@pid":"91/2911","text":"Giovanni Soda"}]},"title":"An expert system approach for database application tuning.","venue":"Data Knowl. Eng.","volume":"8","pages":"35-55","year":"1992","type":"Journal Articles","key":"journals/dke/CesariniMS92","doi":"10.1016/0169-023X(92)90004-U","ee":"https://doi.org/10.1016/0169-023X(92)90004-U","url":"https://dblp.org/rec/journals/dke/CesariniMS92"},
+"url":"URL#5155316"
+},
+{
+"@score":"1",
+"@id":"5155317",
+"info":{"authors":{"author":[{"@pid":"d/FrankDignum","text":"Frank Dignum"},{"@pid":"r/RPvandeRiet","text":"Reind P. van de Riet"}]},"title":"Addition and removal of information for a knowledge base with incomplete information.","venue":"Data Knowl. Eng.","volume":"8","pages":"293-307","year":"1992","type":"Journal Articles","key":"journals/dke/DignumR92","doi":"10.1016/0169-023X(92)90043-B","ee":"https://doi.org/10.1016/0169-023X(92)90043-B","url":"https://dblp.org/rec/journals/dke/DignumR92"},
+"url":"URL#5155317"
+},
+{
+"@score":"1",
+"@id":"5155320",
+"info":{"authors":{"author":{"@pid":"86/6002","text":"Peter Gerstl"}},"title":"Linking linguistic and non-linguistic information.","venue":"Data Knowl. Eng.","volume":"8","pages":"205-222","year":"1992","type":"Journal Articles","key":"journals/dke/Gerstl92","doi":"10.1016/0169-023X(92)90023-5","ee":"https://doi.org/10.1016/0169-023X(92)90023-5","url":"https://dblp.org/rec/journals/dke/Gerstl92"},
+"url":"URL#5155320"
+},
+{
+"@score":"1",
+"@id":"5155321",
+"info":{"authors":{"author":[{"@pid":"g/WilliamIGrosky","text":"William I. Grosky"},{"@pid":"93/6730","text":"Peter Neo"},{"@pid":"26/4987","text":"Rajiv Mehrotra"}]},"title":"A pictorial index mechanism for model-based matching.","venue":"Data Knowl. Eng.","volume":"8","pages":"309-327","year":"1992","type":"Journal Articles","key":"journals/dke/GroskyNM92","doi":"10.1016/0169-023X(92)90044-C","ee":"https://doi.org/10.1016/0169-023X(92)90044-C","url":"https://dblp.org/rec/journals/dke/GroskyNM92"},
+"url":"URL#5155321"
+},
+{
+"@score":"1",
+"@id":"5155322",
+"info":{"authors":{"author":{"@pid":"65/6778","text":"Nicola Guarino"}},"title":"Concepts, attributes and arbitrary relations.","venue":"Data Knowl. Eng.","volume":"8","pages":"249-261","year":"1992","type":"Journal Articles","key":"journals/dke/Guarino92","doi":"10.1016/0169-023X(92)90025-7","ee":"https://doi.org/10.1016/0169-023X(92)90025-7","url":"https://dblp.org/rec/journals/dke/Guarino92"},
+"url":"URL#5155322"
+},
+{
+"@score":"1",
+"@id":"5155325",
+"info":{"authors":{"author":[{"@pid":"m/BernardMoulin","text":"Bernard Moulin"},{"@pid":"88/1580","text":"Peter N. Creasy"}]},"title":"Extending the conceptual graph approach for data conceptual modelling.","venue":"Data Knowl. Eng.","volume":"8","pages":"223-248","year":"1992","type":"Journal Articles","key":"journals/dke/MoulinC92","doi":"10.1016/0169-023X(92)90024-6","ee":"https://doi.org/10.1016/0169-023X(92)90024-6","url":"https://dblp.org/rec/journals/dke/MoulinC92"},
+"url":"URL#5155325"
+},
+{
+"@score":"1",
+"@id":"5155326",
+"info":{"authors":{"author":[{"@pid":"53/6168","text":"Ghassan Z. Qadah"},{"@pid":"14/4212","text":"Jung J. Kim"}]},"title":"The processing of a class of transitive-closure queries on uniprocessor and shared-nothing multiprocessor systems.","venue":"Data Knowl. Eng.","volume":"8","pages":"57-89","year":"1992","type":"Journal Articles","key":"journals/dke/QadahK92","doi":"10.1016/0169-023X(92)90005-V","ee":"https://doi.org/10.1016/0169-023X(92)90005-V","url":"https://dblp.org/rec/journals/dke/QadahK92"},
+"url":"URL#5155326"
+},
+{
+"@score":"1",
+"@id":"5155327",
+"info":{"authors":{"author":[{"@pid":"18/1768","text":"Tzvi Raz"},{"@pid":"59/6602","text":"Nancy A. Botten"}]},"title":"The knowledge base partitioning problem - Mathematical formulation and heuristic clustering.","venue":"Data Knowl. Eng.","volume":"8","pages":"329-337","year":"1992","type":"Journal Articles","key":"journals/dke/RazB92","doi":"10.1016/0169-023X(92)90045-D","ee":"https://doi.org/10.1016/0169-023X(92)90045-D","url":"https://dblp.org/rec/journals/dke/RazB92"},
+"url":"URL#5155327"
+},
+{
+"@score":"1",
+"@id":"5155328",
+"info":{"authors":{"author":{"@pid":"r/NaphtaliRishe","text":"Naphtali Rishe"}},"title":"Interval-based approach to lexicograhpic representation and compression of numeric data.","venue":"Data Knowl. Eng.","volume":"8","pages":"339-351","year":"1992","type":"Journal Articles","key":"journals/dke/Rishe92","doi":"10.1016/0169-023X(92)90046-E","ee":"https://doi.org/10.1016/0169-023X(92)90046-E","url":"https://dblp.org/rec/journals/dke/Rishe92"},
+"url":"URL#5155328"
+},
+{
+"@score":"1",
+"@id":"5155330",
+"info":{"authors":{"author":{"@pid":"03/6046","text":"Peter Sander"}},"title":"Boolean lattices of nested relations as a foundation for rule-based database languages.","venue":"Data Knowl. Eng.","volume":"8","pages":"93-130","year":"1992","type":"Journal Articles","key":"journals/dke/Sander92","doi":"10.1016/0169-023X(92)90033-8","ee":"https://doi.org/10.1016/0169-023X(92)90033-8","url":"https://dblp.org/rec/journals/dke/Sander92"},
+"url":"URL#5155330"
+},
+{
+"@score":"1",
+"@id":"5155331",
+"info":{"authors":{"author":[{"@pid":"s/ShashiShekhar","text":"Shashi Shekhar"},{"@pid":"s/JaideepSrivastava","text":"Jaideep Srivastava"},{"@pid":"58/4984","text":"Soumitra Dutta"}]},"title":"A formal model of trade-off between optimization and execution costs in semantic query optimization.","venue":"Data Knowl. Eng.","volume":"8","pages":"131-151","year":"1992","type":"Journal Articles","key":"journals/dke/ShekharSD92","doi":"10.1016/0169-023X(92)90034-9","ee":"https://doi.org/10.1016/0169-023X(92)90034-9","url":"https://dblp.org/rec/journals/dke/ShekharSD92"},
+"url":"URL#5155331"
+},
+{
+"@score":"1",
+"@id":"5155334",
+"info":{"authors":{"author":[{"@pid":"62/1192","text":"Susan Darling Urban"},{"@pid":"76/4992","text":"Mario Desiderio"}]},"title":"CONTEXT - A CONstrainT EXplanation Tool.","venue":"Data Knowl. Eng.","volume":"8","pages":"153-183","year":"1992","type":"Journal Articles","key":"journals/dke/UrbanD92","doi":"10.1016/0169-023X(92)90035-A","ee":"https://doi.org/10.1016/0169-023X(92)90035-A","url":"https://dblp.org/rec/journals/dke/UrbanD92"},
+"url":"URL#5155334"
+},
+{
+"@score":"1",
+"@id":"5155335",
+"info":{"authors":{"author":{"@pid":"70/260","text":"Hans Weigand"}},"title":"Assessing Functional Grammar for knowledge representation.","venue":"Data Knowl. Eng.","volume":"8","pages":"191-203","year":"1992","type":"Journal Articles","key":"journals/dke/Weigand92","doi":"10.1016/0169-023X(92)90022-4","ee":"https://doi.org/10.1016/0169-023X(92)90022-4","url":"https://dblp.org/rec/journals/dke/Weigand92"},
+"url":"URL#5155335"
+}
+]
+}
 }
 }

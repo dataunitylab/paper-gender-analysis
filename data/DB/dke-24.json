@@ -1,23 +1,104 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke24\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke24\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.56"
+"text":"105.87"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"12",
+"@dc":"12",
+"@oc":"12",
+"@id":"17615704",
+"text":":facetid:toc:db/journals/dke/dke24.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"12",
+"@computed":"12",
+"@sent":"12",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"4862044",
+"info":{"authors":{"author":[{"@pid":"c/FabioCasati","text":"Fabio Casati"},{"@pid":"c/StefanoCeri","text":"Stefano Ceri"},{"@pid":"p/BarbaraPernici","text":"Barbara Pernici"},{"@pid":"87/3851","text":"Giuseppe Pozzi"}]},"title":"Workflow Evolution.","venue":"Data Knowl. Eng.","volume":"24","number":"3","pages":"211-238","year":"1998","type":"Journal Articles","key":"journals/dke/CasatiCPP98","doi":"10.1016/S0169-023X(97)00033-5","ee":"https://doi.org/10.1016/S0169-023X(97)00033-5","url":"https://dblp.org/rec/journals/dke/CasatiCPP98"},
+"url":"URL#4862044"
+},
+{
+"@score":"1",
+"@id":"4862058",
+"info":{"authors":{"author":[{"@pid":"h/AHMterHofstede","text":"Arthur H. M. ter Hofstede"},{"@pid":"o/MariaEOrlowska","text":"Maria E. Orlowska"},{"@pid":"89/3958","text":"Jayantha Rajapakse"}]},"title":"Verification Problems in Conceptual Workflow Specifications.","venue":"Data Knowl. Eng.","volume":"24","number":"3","pages":"239-256","year":"1998","type":"Journal Articles","key":"journals/dke/HofstedeOR98","doi":"10.1016/S0169-023X(97)00032-3","ee":"https://doi.org/10.1016/S0169-023X(97)00032-3","url":"https://dblp.org/rec/journals/dke/HofstedeOR98"},
+"url":"URL#4862058"
+},
+{
+"@score":"1",
+"@id":"4862066",
+"info":{"authors":{"author":[{"@pid":"72/6418","text":"Jae Yong Lee"},{"@pid":"e/RamezElmasri","text":"Ramez Elmasri"},{"@pid":"83/4296","text":"Jongho Won"}]},"title":"An Integrated Temporal Data Model Incorporating Time Series Concept.","venue":"Data Knowl. Eng.","volume":"24","number":"3","pages":"257-276","year":"1998","type":"Journal Articles","key":"journals/dke/LeeEW98","doi":"10.1016/S0169-023X(97)00034-7","ee":"https://doi.org/10.1016/S0169-023X(97)00034-7","url":"https://dblp.org/rec/journals/dke/LeeEW98"},
+"url":"URL#4862066"
+},
+{
+"@score":"1",
+"@id":"4862072",
+"info":{"authors":{"author":[{"@pid":"m/JAMakowsky","text":"Johann A. Makowsky"},{"@pid":"26/437","text":"Elena V. Ravve"}]},"title":"Dependency Preserving Refinements and the Fundamental Problem of Database Design.","venue":"Data Knowl. Eng.","volume":"24","number":"3","pages":"277-312","year":"1998","type":"Journal Articles","key":"journals/dke/MakowskyR98","doi":"10.1016/S0169-023X(97)00029-3","ee":"https://doi.org/10.1016/S0169-023X(97)00029-3","url":"https://dblp.org/rec/journals/dke/MakowskyR98"},
+"url":"URL#4862072"
+},
+{
+"@score":"1",
+"@id":"4862076",
+"info":{"authors":{"author":[{"@pid":"m/WaiYinMok","text":"Wai Yin Mok"},{"@pid":"e/DWEmbley","text":"David W. Embley"}]},"title":"Using NNF to Transform Conceptual Data Models to Object-Oriented Database Designs.","venue":"Data Knowl. Eng.","volume":"24","number":"3","pages":"313-336","year":"1998","type":"Journal Articles","key":"journals/dke/MokE98","doi":"10.1016/S0169-023X(97)82108-8","ee":"https://doi.org/10.1016/S0169-023X(97)82108-8","url":"https://dblp.org/rec/journals/dke/MokE98"},
+"url":"URL#4862076"
+},
+{
+"@score":"1",
+"@id":"4923624",
+"info":{"authors":{"author":[{"@pid":"a/PAtzeni","text":"Paolo Atzeni"},{"@pid":"c/LucaCabibbo","text":"Luca Cabibbo"},{"@pid":"m/GMecca","text":"Giansalvatore Mecca"}]},"title":"ISALOG(¬) - A Deductive Language with Negation for Complex-Object Databases with Hierarchies.","venue":"Data Knowl. Eng.","volume":"24","number":"1","pages":"1-38","year":"1997","type":"Journal Articles","key":"journals/dke/AtzeniCM97","doi":"10.1016/S0169-023X(96)00051-1","ee":"https://doi.org/10.1016/S0169-023X(96)00051-1","url":"https://dblp.org/rec/journals/dke/AtzeniCM97"},
+"url":"URL#4923624"
+},
+{
+"@score":"1",
+"@id":"4923626",
+"info":{"authors":{"author":[{"@pid":"b/NickBassiliades","text":"Nick Bassiliades"},{"@pid":"v/IoannisPVlahavas","text":"Ioannis P. Vlahavas"}]},"title":"Processing Production Rules in DEVICE, and Active Knowledge Base System.","venue":"Data Knowl. Eng.","volume":"24","number":"2","pages":"117-155","year":"1997","type":"Journal Articles","key":"journals/dke/BassiliadesV97","doi":"10.1016/S0169-023X(97)00006-2","ee":"https://doi.org/10.1016/S0169-023X(97)00006-2","url":"https://dblp.org/rec/journals/dke/BassiliadesV97"},
+"url":"URL#4923626"
+},
+{
+"@score":"1",
+"@id":"4923637",
+"info":{"authors":{"author":[{"@pid":"47/224","text":"Anna Formica"},{"@pid":"53/908","text":"Hans Dietmar Gröger"},{"@pid":"m/MMissikoff","text":"Michele Missikoff"}]},"title":"Object-Oriented Database Schema Analysis and Inheritance Processing - A Graphtheoretic Approach.","venue":"Data Knowl. Eng.","volume":"24","number":"2","pages":"157-181","year":"1997","type":"Journal Articles","key":"journals/dke/FormicaGM97","doi":"10.1016/S0169-023X(97)00018-9","ee":"https://doi.org/10.1016/S0169-023X(97)00018-9","url":"https://dblp.org/rec/journals/dke/FormicaGM97"},
+"url":"URL#4923637"
+},
+{
+"@score":"1",
+"@id":"4923638",
+"info":{"authors":{"author":[{"@pid":"g/GiovannaGuerrini","text":"Giovanna Guerrini"},{"@pid":"69/5578","text":"Danilo Montesi"}]},"title":"Design and Implementation of Chimera Active Rule Language.","venue":"Data Knowl. Eng.","volume":"24","number":"1","pages":"39-67","year":"1997","type":"Journal Articles","key":"journals/dke/GuerriniM97","doi":"10.1016/S0169-023X(97)00016-5","ee":"https://doi.org/10.1016/S0169-023X(97)00016-5","url":"https://dblp.org/rec/journals/dke/GuerriniM97"},
+"url":"URL#4923638"
+},
+{
+"@score":"1",
+"@id":"4923658",
+"info":{"authors":{"author":[{"@pid":"r/RPvandeRiet","text":"Reind P. van de Riet"},{"@pid":"08/7000","text":"Andrea Junk"},{"@pid":"g/EhudGudes","text":"Ehud Gudes"}]},"title":"Security in Cyberspace - A Knowledge-Base Approach.","venue":"Data Knowl. Eng.","volume":"24","number":"1","pages":"69-96","year":"1997","type":"Journal Articles","key":"journals/dke/RietJG97","doi":"10.1016/S0169-023X(97)00002-5","ee":"https://doi.org/10.1016/S0169-023X(97)00002-5","url":"https://dblp.org/rec/journals/dke/RietJG97"},
+"url":"URL#4923658"
+},
+{
+"@score":"1",
+"@id":"4923661",
+"info":{"authors":{"author":[{"@pid":"t/KianLeeTan","text":"Kian-Lee Tan"},{"@pid":"y/JXuYu","text":"Jeffrey Xu Yu"}]},"title":"A Dynamic Scheduler for the Infinite Air-Cache.","venue":"Data Knowl. Eng.","volume":"24","number":"1","pages":"97-112","year":"1997","type":"Journal Articles","key":"journals/dke/TanY97","doi":"10.1016/S0169-023X(97)00003-7","ee":"https://doi.org/10.1016/S0169-023X(97)00003-7","url":"https://dblp.org/rec/journals/dke/TanY97"},
+"url":"URL#4923661"
+},
+{
+"@score":"1",
+"@id":"4923667",
+"info":{"authors":{"author":{"@pid":"01/3409","text":"Jae Dong Yang"}},"title":"F_MP - A Fuzzy Match Framework for Rule-Based Programming.","venue":"Data Knowl. Eng.","volume":"24","number":"2","pages":"183-203","year":"1997","type":"Journal Articles","key":"journals/dke/Yang97","doi":"10.1016/S0169-023X(97)00005-0","ee":"https://doi.org/10.1016/S0169-023X(97)00005-0","url":"https://dblp.org/rec/journals/dke/Yang97"},
+"url":"URL#4923667"
+}
+]
+}
 }
 }

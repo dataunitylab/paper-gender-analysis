@@ -1,23 +1,74 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke96\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke96\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.43"
+"text":"139.02"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"7",
+"@dc":"7",
+"@oc":"7",
+"@id":"17615779",
+"text":":facetid:toc:db/journals/dke/dke96.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"7",
+"@computed":"7",
+"@sent":"7",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"1807272",
+"info":{"authors":{"author":[{"@pid":"177/1845","text":"Tien-Tuan Dao"},{"@pid":"31/1015","text":"Philippe Pouletaut"},{"@pid":"139/0034","text":"Fabrice Charleux"},{"@pid":"117/1980","text":"Áron Lazary"},{"@pid":"139/0082","text":"Peter Eltes"},{"@pid":"138/9951","text":"Peter Pal Varga"},{"@pid":"11/1526","text":"Marie Christine Ho Ba Tho"}]},"title":"Multimodal medical imaging (CT and dynamic MRI) data and computer-graphics multi-physical model for the estimation of patient specific lumbar spine muscle forces.","venue":"Data Knowl. Eng.","volume":"96","pages":"3-18","year":"2015","type":"Journal Articles","key":"journals/dke/DaoPCLEVT15","doi":"10.1016/J.DATAK.2015.04.001","ee":"https://doi.org/10.1016/j.datak.2015.04.001","url":"https://dblp.org/rec/journals/dke/DaoPCLEVT15"},
+"url":"URL#1807272"
+},
+{
+"@score":"1",
+"@id":"1807280",
+"info":{"authors":{"author":[{"@pid":"28/3836","text":"Van-Nam Huynh"},{"@pid":"55/6209","text":"Son Bao Pham"}]},"title":"Knowledge and Systems Engineering - KSE 2013 - Editorial.","venue":"Data Knowl. Eng.","volume":"96","pages":"1-2","year":"2015","type":"Journal Articles","key":"journals/dke/HuynhP15","doi":"10.1016/J.DATAK.2015.04.007","ee":"https://doi.org/10.1016/j.datak.2015.04.007","url":"https://dblp.org/rec/journals/dke/HuynhP15"},
+"url":"URL#1807280"
+},
+{
+"@score":"1",
+"@id":"1807289",
+"info":{"authors":{"author":[{"@pid":"139/0041","text":"Ngoc-Quang Luong"},{"@pid":"67/3881","text":"Laurent Besacier"},{"@pid":"12/7818","text":"Benjamin Lecouteux"}]},"title":"Towards accurate predictors of word quality for Machine Translation - Lessons learned on French-English and English-Spanish systems.","venue":"Data Knowl. Eng.","volume":"96","pages":"32-42","year":"2015","type":"Journal Articles","key":"journals/dke/LuongBL15","doi":"10.1016/J.DATAK.2015.04.003","ee":"https://doi.org/10.1016/j.datak.2015.04.003","url":"https://dblp.org/rec/journals/dke/LuongBL15"},
+"url":"URL#1807289"
+},
+{
+"@score":"1",
+"@id":"1807295",
+"info":{"authors":{"author":[{"@pid":"00/2953","text":"Linh Anh Nguyen"},{"@pid":"132/2834","text":"Thi-Bich-Loc Nguyen"},{"@pid":"60/661","text":"Andrzej Szalas"}]},"title":"Towards richer rule languages with polynomial data complexity for the Semantic Web.","venue":"Data Knowl. Eng.","volume":"96","pages":"57-77","year":"2015","type":"Journal Articles","key":"journals/dke/NguyenNS15","doi":"10.1016/J.DATAK.2015.04.005","ee":"https://doi.org/10.1016/j.datak.2015.04.005","url":"https://dblp.org/rec/journals/dke/NguyenNS15"},
+"url":"URL#1807295"
+},
+{
+"@score":"1",
+"@id":"1807296",
+"info":{"authors":{"author":[{"@pid":"159/2733","text":"Hoai Anh Nguyen"},{"@pid":"159/9213","text":"Cong Long Vu"},{"@pid":"16/5165","text":"Tu Minh Phuong"},{"@pid":"58/2848","text":"Lam Thu Bui"}]},"title":"Discovery of pathways in protein-protein interaction networks using a genetic algorithm.","venue":"Data Knowl. Eng.","volume":"96","pages":"19-31","year":"2015","type":"Journal Articles","key":"journals/dke/NguyenVTB15","doi":"10.1016/J.DATAK.2015.04.002","ee":"https://doi.org/10.1016/j.datak.2015.04.002","url":"https://dblp.org/rec/journals/dke/NguyenVTB15"},
+"url":"URL#1807296"
+},
+{
+"@score":"1",
+"@id":"1807304",
+"info":{"authors":{"author":[{"@pid":"73/6009","text":"Bay Vo"},{"@pid":"87/10907","text":"Tuong Le"},{"@pid":"93/2166","text":"Tzung-Pei Hong"},{"@pid":"93/5448","text":"Hoai Bac Le"}]},"title":"Fast updated frequent-itemset lattice for transaction deletion.","venue":"Data Knowl. Eng.","volume":"96","pages":"78-89","year":"2015","type":"Journal Articles","key":"journals/dke/VoLHL15","doi":"10.1016/J.DATAK.2015.04.006","ee":"https://doi.org/10.1016/j.datak.2015.04.006","url":"https://dblp.org/rec/journals/dke/VoLHL15"},
+"url":"URL#1807304"
+},
+{
+"@score":"1",
+"@id":"1807305",
+"info":{"authors":{"author":[{"@pid":"135/3146","text":"Xuan-Truong Vu"},{"@pid":"53/4888","text":"Marie-Hélène Abel"},{"@pid":"20/4799","text":"Pierre Morizet-Mahoudeaux"}]},"title":"A user-centered approach for integrating social data into groups of interest.","venue":"Data Knowl. Eng.","volume":"96","pages":"43-56","year":"2015","type":"Journal Articles","key":"journals/dke/VuAM15","doi":"10.1016/J.DATAK.2015.04.004","ee":"https://doi.org/10.1016/j.datak.2015.04.004","url":"https://dblp.org/rec/journals/dke/VuAM15"},
+"url":"URL#1807305"
+}
+]
+}
 }
 }

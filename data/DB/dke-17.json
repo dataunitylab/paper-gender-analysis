@@ -1,23 +1,86 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke17\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke17\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.55"
+"text":"130.25"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"9",
+"@dc":"9",
+"@oc":"9",
+"@id":"17615696",
+"text":":facetid:toc:db/journals/dke/dke17.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"9",
+"@computed":"9",
+"@sent":"9",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"5027534",
+"info":{"authors":{"author":[{"@pid":"79/2000","text":"Roberto Basili 0001"},{"@pid":"35/235","text":"Fabrizio Grisoli"},{"@pid":"98/2076","text":"Maria Teresa Pazienza"}]},"title":"HIRMA - Hypertextual Information Retrieval System Managed by ARIOSTO.","venue":"Data Knowl. Eng.","volume":"17","number":"3","pages":"187-213","year":"1995","type":"Journal Articles","key":"journals/dke/BasiliGP95","doi":"10.1016/0169-023X(95)00025-N","ee":"https://doi.org/10.1016/0169-023X(95)00025-N","url":"https://dblp.org/rec/journals/dke/BasiliGP95"},
+"url":"URL#5027534"
+},
+{
+"@score":"1",
+"@id":"5027537",
+"info":{"authors":{"author":[{"@pid":"b/ChristianBreiteneder","text":"Christian Breiteneder"},{"@pid":"57/4535","text":"Thomas A. Mück"}]},"title":"Graph Rewriting Systems for the Entity-Relationship Approach.","venue":"Data Knowl. Eng.","volume":"17","number":"3","pages":"215-243","year":"1995","type":"Journal Articles","key":"journals/dke/BreitenederM95","doi":"10.1016/0169-023X(95)00028-Q","ee":"https://doi.org/10.1016/0169-023X(95)00028-Q","url":"https://dblp.org/rec/journals/dke/BreitenederM95"},
+"url":"URL#5027537"
+},
+{
+"@score":"1",
+"@id":"5027538",
+"info":{"authors":{"author":[{"@pid":"c/TCatarci","text":"Tiziana Catarci"},{"@pid":"03/1949","text":"Giovanna D&apos;Angiolini"},{"@pid":"l/MLenzerini","text":"Maurizio Lenzerini"}]},"title":"Conceptual Language for Statistical Data Modeling.","venue":"Data Knowl. Eng.","volume":"17","number":"2","pages":"93-125","year":"1995","type":"Journal Articles","key":"journals/dke/CatarciDL95","doi":"10.1016/0169-023X(95)98435-5","ee":"https://doi.org/10.1016/0169-023X(95)98435-5","url":"https://dblp.org/rec/journals/dke/CatarciDL95"},
+"url":"URL#5027538"
+},
+{
+"@score":"1",
+"@id":"5027546",
+"info":{"authors":{"author":[{"@pid":"g/SergioGreco","text":"Sergio Greco"},{"@pid":"p/LuigiPalopoli","text":"Luigi Palopoli"},{"@pid":"66/2571","text":"Eugenio Spadafora"}]},"title":"Extending Datalog with Arrays.","venue":"Data Knowl. Eng.","volume":"17","number":"1","pages":"31-57","year":"1995","type":"Journal Articles","key":"journals/dke/GrecoPS95","doi":"10.1016/0169-023X(95)00027-P","ee":"https://doi.org/10.1016/0169-023X(95)00027-P","url":"https://dblp.org/rec/journals/dke/GrecoPS95"},
+"url":"URL#5027546"
+},
+{
+"@score":"1",
+"@id":"5027549",
+"info":{"authors":{"author":[{"@pid":"95/4052","text":"Maurice A. W. Houtsma"},{"@pid":"98/589","text":"Arun N. Swami"}]},"title":"Set-Oriented Data Mining in relational Databases.","venue":"Data Knowl. Eng.","volume":"17","number":"3","pages":"245-262","year":"1995","type":"Journal Articles","key":"journals/dke/HoutsmaS95","doi":"10.1016/0169-023X(95)00024-M","ee":"https://doi.org/10.1016/0169-023X(95)00024-M","url":"https://dblp.org/rec/journals/dke/HoutsmaS95"},
+"url":"URL#5027549"
+},
+{
+"@score":"1",
+"@id":"5027552",
+"info":{"authors":{"author":[{"@pid":"26/1286","text":"Nikos A. Lorentzos"},{"@pid":"m/YManolopoulos","text":"Yannis Manolopoulos"}]},"title":"Functional Requirements for Historical and Interval Extensions to the Relational Model.","venue":"Data Knowl. Eng.","volume":"17","number":"1","pages":"59-86","year":"1995","type":"Journal Articles","key":"journals/dke/LorentzosM95","doi":"10.1016/0169-023X(95)00026-O","ee":"https://doi.org/10.1016/0169-023X(95)00026-O","url":"https://dblp.org/rec/journals/dke/LorentzosM95"},
+"url":"URL#5027552"
+},
+{
+"@score":"1",
+"@id":"5027553",
+"info":{"authors":{"author":[{"@pid":"26/1286","text":"Nikos A. Lorentzos"},{"@pid":"p/APoulovassilis","text":"Alexandra Poulovassilis"},{"@pid":"11/5195","text":"Carol Small"}]},"title":"Manipulation Operations for an Interval-Extended Relational Model.","venue":"Data Knowl. Eng.","volume":"17","number":"1","pages":"1-29","year":"1995","type":"Journal Articles","key":"journals/dke/LorentzosPS95","doi":"10.1016/0169-023X(95)00022-K","ee":"https://doi.org/10.1016/0169-023X(95)00022-K","url":"https://dblp.org/rec/journals/dke/LorentzosPS95"},
+"url":"URL#5027553"
+},
+{
+"@score":"1",
+"@id":"5027554",
+"info":{"authors":{"author":[{"@pid":"39/1490","text":"Fortune S. Mhlanga"},{"@pid":"56/1040","text":"Zhijian Zhu"},{"@pid":"w/JasonTsongLiWang","text":"Jason Tsong-Li Wang"},{"@pid":"30/5754","text":"Peter A. Ng"}]},"title":"A New Approach to Modeling Personal Office Documents.","venue":"Data Knowl. Eng.","volume":"17","number":"2","pages":"127-158","year":"1995","type":"Journal Articles","key":"journals/dke/MhlangaZWN95","doi":"10.1016/0169-023X(95)00019-O","ee":"https://doi.org/10.1016/0169-023X(95)00019-O","url":"https://dblp.org/rec/journals/dke/MhlangaZWN95"},
+"url":"URL#5027554"
+},
+{
+"@score":"1",
+"@id":"5027560",
+"info":{"authors":{"author":[{"@pid":"79/1035","text":"Mauricio J. V. Silva"},{"@pid":"62/2441","text":"C. Robert Carlson"}]},"title":"MOODD, a Method for Object-Oriented Database Design.","venue":"Data Knowl. Eng.","volume":"17","number":"2","pages":"159-181","year":"1995","type":"Journal Articles","key":"journals/dke/SilvaC95","doi":"10.1016/0169-023X(95)00021-J","ee":"https://doi.org/10.1016/0169-023X(95)00021-J","url":"https://dblp.org/rec/journals/dke/SilvaC95"},
+"url":"URL#5027560"
+}
+]
+}
 }
 }

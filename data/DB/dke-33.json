@@ -1,23 +1,110 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke33\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke33\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.50"
+"text":"133.87"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"13",
+"@dc":"13",
+"@oc":"13",
+"@id":"17615714",
+"text":":facetid:toc:db/journals/dke/dke33.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"13",
+"@computed":"13",
+"@sent":"13",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"4718071",
+"info":{"authors":{"author":[{"@pid":"a/Jung-HoAhn","text":"Jung-Ho Ahn 0001"},{"@pid":"67/124","text":"Ha-Joo Song"},{"@pid":"k/HyoungJooKim","text":"Hyoung-Joo Kim"}]},"title":"Index set - A practical indexing scheme for object database systems.","venue":"Data Knowl. Eng.","volume":"33","number":"3","pages":"199-217","year":"2000","type":"Journal Articles","key":"journals/dke/AhnSK00","doi":"10.1016/S0169-023X(00)00006-9","ee":"https://doi.org/10.1016/S0169-023X(00)00006-9","url":"https://dblp.org/rec/journals/dke/AhnSK00"},
+"url":"URL#4718071"
+},
+{
+"@score":"1",
+"@id":"4718073",
+"info":{"authors":{"author":{"@pid":"b/JBiskup","text":"Joachim Biskup"}},"title":"For unknown secrecies refusal is better than lying.","venue":"Data Knowl. Eng.","volume":"33","number":"1","pages":"1-23","year":"2000","type":"Journal Articles","key":"journals/dke/Biskup00","doi":"10.1016/S0169-023X(99)00043-9","ee":"https://doi.org/10.1016/S0169-023X(99)00043-9","url":"https://dblp.org/rec/journals/dke/Biskup00"},
+"url":"URL#4718073"
+},
+{
+"@score":"1",
+"@id":"4718075",
+"info":{"authors":{"author":[{"@pid":"91/4944","text":"Keith A. Butler"},{"@pid":"01/1053","text":"Ali Bahrami"},{"@pid":"57/5347","text":"Chris Esposito"},{"@pid":"35/1315","text":"Ron Hebron"}]},"title":"Conceptual models for coordinating the design of user work with the design of information systems.","venue":"Data Knowl. Eng.","volume":"33","number":"2","pages":"191-198","year":"2000","type":"Journal Articles","key":"journals/dke/ButlerBEH00","doi":"10.1016/S0169-023X(99)00051-8","ee":"https://doi.org/10.1016/S0169-023X(99)00051-8","url":"https://dblp.org/rec/journals/dke/ButlerBEH00"},
+"url":"URL#4718075"
+},
+{
+"@score":"1",
+"@id":"4718077",
+"info":{"authors":{"author":[{"@pid":"67/1778","text":"Ana M. Moreno-Capuchino"},{"@pid":"35/4144","text":"Natalia Juristo Juzgado"},{"@pid":"r/RPvandeRiet","text":"Reind P. van de Riet"}]},"title":"Formal justification in object-oriented modelling - A linguistic approach.","venue":"Data Knowl. Eng.","volume":"33","number":"1","pages":"25-47","year":"2000","type":"Journal Articles","key":"journals/dke/CapuchinoJR00","doi":"10.1016/S0169-023X(99)00046-4","ee":"https://doi.org/10.1016/S0169-023X(99)00046-4","url":"https://dblp.org/rec/journals/dke/CapuchinoJR00"},
+"url":"URL#4718077"
+},
+{
+"@score":"1",
+"@id":"4718083",
+"info":{"authors":{"author":[{"@pid":"02/2481","text":"Shen-Tat Goh"},{"@pid":"t/KianLeeTan","text":"Kian-Lee Tan"}]},"title":"MOSAIC - A fast multi-feature image retrieval system.","venue":"Data Knowl. Eng.","volume":"33","number":"3","pages":"219-239","year":"2000","type":"Journal Articles","key":"journals/dke/GohT00","doi":"10.1016/S0169-023X(00)00002-1","ee":"https://doi.org/10.1016/S0169-023X(00)00002-1","url":"https://dblp.org/rec/journals/dke/GohT00"},
+"url":"URL#4718083"
+},
+{
+"@score":"1",
+"@id":"4718084",
+"info":{"authors":{"author":[{"@pid":"40/508","text":"A. Gómez"},{"@pid":"67/1778","text":"Ana María Moreno 0001"},{"@pid":"97/2467","text":"Juan Pazos"},{"@pid":"03/4965","text":"Almudena Sierra-Alonso"}]},"title":"Knowledge maps - An essential technique for conceptualisation.","venue":"Data Knowl. Eng.","volume":"33","number":"2","pages":"169-190","year":"2000","type":"Journal Articles","key":"journals/dke/GomezMPS00","doi":"10.1016/S0169-023X(99)00050-6","ee":"https://doi.org/10.1016/S0169-023X(99)00050-6","url":"https://dblp.org/rec/journals/dke/GomezMPS00"},
+"url":"URL#4718084"
+},
+{
+"@score":"1",
+"@id":"4718085",
+"info":{"authors":{"author":[{"@pid":"14/4642","text":"Stewart Greenhill"},{"@pid":"81/1984","text":"Svetha Venkatesh"}]},"title":"Semantic data modelling and visualisation using Noetica.","venue":"Data Knowl. Eng.","volume":"33","number":"3","pages":"241-276","year":"2000","type":"Journal Articles","key":"journals/dke/GreenhillV00","doi":"10.1016/S0169-023X(00)00003-3","ee":"https://doi.org/10.1016/S0169-023X(00)00003-3","url":"https://dblp.org/rec/journals/dke/GreenhillV00"},
+"url":"URL#4718085"
+},
+{
+"@score":"1",
+"@id":"4718092",
+"info":{"authors":{"author":[{"@pid":"35/4144","text":"Natalia Juristo Juzgado"},{"@pid":"67/1778","text":"Ana María Moreno 0001"}]},"title":"Introductory paper - Reflections on Conceptual Modelling.","venue":"Data Knowl. Eng.","volume":"33","number":"2","pages":"103-117","year":"2000","type":"Journal Articles","key":"journals/dke/JuristoM00","doi":"10.1016/S0169-023X(99)00047-6","ee":"https://doi.org/10.1016/S0169-023X(99)00047-6","url":"https://dblp.org/rec/journals/dke/JuristoM00"},
+"url":"URL#4718092"
+},
+{
+"@score":"1",
+"@id":"4718093",
+"info":{"authors":{"author":{"@pid":"53/2482","text":"Marite Kirikova"}},"title":"Explanatory capability of enterprise models.","venue":"Data Knowl. Eng.","volume":"33","number":"2","pages":"119-136","year":"2000","type":"Journal Articles","key":"journals/dke/Kirikova00","doi":"10.1016/S0169-023X(99)00048-8","ee":"https://doi.org/10.1016/S0169-023X(99)00048-8","url":"https://dblp.org/rec/journals/dke/Kirikova00"},
+"url":"URL#4718093"
+},
+{
+"@score":"1",
+"@id":"4718099",
+"info":{"authors":{"author":[{"@pid":"60/5978","text":"Wen-Syan Li"},{"@pid":"c/CClifton","text":"Chris Clifton"}]},"title":"SEMINT - A tool for identifying attribute correspondences in heterogeneous databases using neural networks.","venue":"Data Knowl. Eng.","volume":"33","number":"1","pages":"49-84","year":"2000","type":"Journal Articles","key":"journals/dke/LiC00","doi":"10.1016/S0169-023X(99)00044-0","ee":"https://doi.org/10.1016/S0169-023X(99)00044-0","url":"https://dblp.org/rec/journals/dke/LiC00"},
+"url":"URL#4718099"
+},
+{
+"@score":"1",
+"@id":"4718101",
+"info":{"authors":{"author":[{"@pid":"l/LinXuemin","text":"Xuemin Lin 0001"},{"@pid":"59/1155","text":"Xiaomei Zhou"},{"@pid":"l/ChengfeiLiu","text":"Chengfei Liu"}]},"title":"Efficient computation of a proximity matching in spatial databases.","venue":"Data Knowl. Eng.","volume":"33","number":"1","pages":"85-102","year":"2000","type":"Journal Articles","key":"journals/dke/LinZL00","doi":"10.1016/S0169-023X(99)00045-2","ee":"https://doi.org/10.1016/S0169-023X(99)00045-2","url":"https://dblp.org/rec/journals/dke/LinZL00"},
+"url":"URL#4718101"
+},
+{
+"@score":"1",
+"@id":"4718104",
+"info":{"authors":{"author":[{"@pid":"m/CBMedeiros","text":"Claudia Bauzer Medeiros"},{"@pid":"b/MarieJoBellosta","text":"Marie-Jo Bellosta"},{"@pid":"73/6957","text":"Geneviève Jomier"}]},"title":"Multiversion views - Constructing views in a multiversion database.","venue":"Data Knowl. Eng.","volume":"33","number":"3","pages":"277-306","year":"2000","type":"Journal Articles","key":"journals/dke/MedeirosBJ00","doi":"10.1016/S0169-023X(00)00004-5","ee":"https://doi.org/10.1016/S0169-023X(00)00004-5","url":"https://dblp.org/rec/journals/dke/MedeirosBJ00"},
+"url":"URL#4718104"
+},
+{
+"@score":"1",
+"@id":"4718106",
+"info":{"authors":{"author":[{"@pid":"32/2562","text":"Guy W. Mineau"},{"@pid":"51/4374","text":"Rokia Missaoui"},{"@pid":"49/6980","text":"Robert Godin"}]},"title":"Conceptual modeling for data and knowledge management.","venue":"Data Knowl. Eng.","volume":"33","number":"2","pages":"137-168","year":"2000","type":"Journal Articles","key":"journals/dke/MineauMG00","doi":"10.1016/S0169-023X(99)00049-X","ee":"https://doi.org/10.1016/S0169-023X(99)00049-X","url":"https://dblp.org/rec/journals/dke/MineauMG00"},
+"url":"URL#4718106"
+}
+]
+}
 }
 }

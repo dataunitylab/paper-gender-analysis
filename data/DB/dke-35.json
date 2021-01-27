@@ -1,23 +1,116 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke35\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke35\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.43"
+"text":"112.67"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"14",
+"@dc":"14",
+"@oc":"14",
+"@id":"17615716",
+"text":":facetid:toc:db/journals/dke/dke35.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"14",
+"@computed":"14",
+"@sent":"14",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"4718076",
+"info":{"authors":{"author":[{"@pid":"c/KSelcukCandan","text":"K. Selçuk Candan"},{"@pid":"60/5978","text":"Wen-Syan Li"},{"@pid":"35/735","text":"M. Lakshmi Priya"}]},"title":"Similarity-based ranking and query processing in multimedia databases.","venue":"Data Knowl. Eng.","volume":"35","number":"3","pages":"259-298","year":"2000","type":"Journal Articles","key":"journals/dke/CandanLP00","doi":"10.1016/S0169-023X(00)00025-2","ee":"https://doi.org/10.1016/S0169-023X(00)00025-2","url":"https://dblp.org/rec/journals/dke/CandanLP00"},
+"url":"URL#4718076"
+},
+{
+"@score":"1",
+"@id":"4718080",
+"info":{"authors":{"author":[{"@pid":"80/5020","text":"Günther Fliedl"},{"@pid":"k/CKop","text":"Christian Kop"},{"@pid":"89/200","text":"Heinrich C. Mayr"},{"@pid":"60/4659","text":"Willi Mayerthaler"},{"@pid":"81/160","text":"Christian Winkler"}]},"title":"Linguistically based requirements engineering - The NIBA-project.","venue":"Data Knowl. Eng.","volume":"35","number":"2","pages":"111-120","year":"2000","type":"Journal Articles","key":"journals/dke/FliedlKMMW00","doi":"10.1016/S0169-023X(00)00029-X","ee":"https://doi.org/10.1016/S0169-023X(00)00029-X","url":"https://dblp.org/rec/journals/dke/FliedlKMMW00"},
+"url":"URL#4718080"
+},
+{
+"@score":"1",
+"@id":"4718086",
+"info":{"authors":{"author":[{"@pid":"h/UdoHahn","text":"Udo Hahn"},{"@pid":"97/4284","text":"Martin Romacker"}]},"title":"Content management in the SYNDIKATE system - How technical documents are automatically transformed to text knowledge bases.","venue":"Data Knowl. Eng.","volume":"35","number":"2","pages":"137-159","year":"2000","type":"Journal Articles","key":"journals/dke/HahnR00","doi":"10.1016/S0169-023X(00)00031-8","ee":"https://doi.org/10.1016/S0169-023X(00)00031-8","url":"https://dblp.org/rec/journals/dke/HahnR00"},
+"url":"URL#4718086"
+},
+{
+"@score":"1",
+"@id":"4718090",
+"info":{"authors":{"author":[{"@pid":"j/KalervoJarvelin","text":"Kalervo Järvelin"},{"@pid":"82/1446","text":"Timo Niemi"},{"@pid":"s/AiriSalminen","text":"Airi Salminen"}]},"title":"The visual query language CQL for transitive and relational computation.","venue":"Data Knowl. Eng.","volume":"35","number":"1","pages":"39-51","year":"2000","type":"Journal Articles","key":"journals/dke/JarvelinNS00","doi":"10.1016/S0169-023X(00)00021-5","ee":"https://doi.org/10.1016/S0169-023X(00)00021-5","url":"https://dblp.org/rec/journals/dke/JarvelinNS00"},
+"url":"URL#4718090"
+},
+{
+"@score":"1",
+"@id":"4718098",
+"info":{"authors":{"author":[{"@pid":"60/5978","text":"Wen-Syan Li"},{"@pid":"a/DivyakantAgrawal","text":"Divyakant Agrawal"}]},"title":"Supporting web query expansion efficiently using multi-granularity indexing and query processing.","venue":"Data Knowl. Eng.","volume":"35","number":"3","pages":"239-257","year":"2000","type":"Journal Articles","key":"journals/dke/LiA00","doi":"10.1016/S0169-023X(00)00024-0","ee":"https://doi.org/10.1016/S0169-023X(00)00024-0","url":"https://dblp.org/rec/journals/dke/LiA00"},
+"url":"URL#4718098"
+},
+{
+"@score":"1",
+"@id":"4718102",
+"info":{"authors":{"author":[{"@pid":"21/4559","text":"Hang Kwong Mak"},{"@pid":"w/ManHonWong","text":"Man Hon Wong 0001"}]},"title":"An experimental study of semantics-based concurrency control protocols.","venue":"Data Knowl. Eng.","volume":"35","number":"1","pages":"53-81","year":"2000","type":"Journal Articles","key":"journals/dke/MakW00","doi":"10.1016/S0169-023X(00)00022-7","ee":"https://doi.org/10.1016/S0169-023X(00)00022-7","url":"https://dblp.org/rec/journals/dke/MakW00"},
+"url":"URL#4718102"
+},
+{
+"@score":"1",
+"@id":"4718105",
+"info":{"authors":{"author":[{"@pid":"36/3146","text":"Elisabeth Métais"},{"@pid":"89/200","text":"Heinrich C. Mayr"}]},"title":"NLDB&apos;99 - Applications of natural language to information systems.","venue":"Data Knowl. Eng.","volume":"35","number":"2","pages":"107-109","year":"2000","type":"Journal Articles","key":"journals/dke/MetaisM00","doi":"10.1016/S0169-023X(00)00036-7","ee":"https://doi.org/10.1016/S0169-023X(00)00036-7","url":"https://dblp.org/rec/journals/dke/MetaisM00"},
+"url":"URL#4718105"
+},
+{
+"@score":"1",
+"@id":"4718109",
+"info":{"authors":{"author":[{"@pid":"p/LuigiPalopoli","text":"Luigi Palopoli"},{"@pid":"20/842","text":"Luigi Pontieri"},{"@pid":"t/GiorgioTerracina","text":"Giorgio Terracina"},{"@pid":"u/DomenicoUrsino","text":"Domenico Ursino"}]},"title":"Intensional and extensional integration and abstraction of heterogeneous databases.","venue":"Data Knowl. Eng.","volume":"35","number":"3","pages":"201-237","year":"2000","type":"Journal Articles","key":"journals/dke/PalopoliPTU00","doi":"10.1016/S0169-023X(00)00028-8","ee":"https://doi.org/10.1016/S0169-023X(00)00028-8","url":"https://dblp.org/rec/journals/dke/PalopoliPTU00"},
+"url":"URL#4718109"
+},
+{
+"@score":"1",
+"@id":"4718113",
+"info":{"authors":{"author":[{"@pid":"s/PedroRFalconeSampaio","text":"Pedro R. Falcone Sampaio"},{"@pid":"p/NWPaton","text":"Norman W. Paton"}]},"title":"Query processing in DOQL - A deductive database language for the ODMG model.","venue":"Data Knowl. Eng.","volume":"35","number":"1","pages":"1-38","year":"2000","type":"Journal Articles","key":"journals/dke/SampaioP00","doi":"10.1016/S0169-023X(00)00020-3","ee":"https://doi.org/10.1016/S0169-023X(00)00020-3","url":"https://dblp.org/rec/journals/dke/SampaioP00"},
+"url":"URL#4718113"
+},
+{
+"@score":"1",
+"@id":"4718114",
+"info":{"authors":{"author":{"@pid":"s/FriedrichSteimann","text":"Friedrich Steimann"}},"title":"On the representation of roles in object-oriented and conceptual modelling.","venue":"Data Knowl. Eng.","volume":"35","number":"1","pages":"83-106","year":"2000","type":"Journal Articles","key":"journals/dke/Steimann00","doi":"10.1016/S0169-023X(00)00023-9","ee":"https://doi.org/10.1016/S0169-023X(00)00023-9","url":"https://dblp.org/rec/journals/dke/Steimann00"},
+"url":"URL#4718114"
+},
+{
+"@score":"1",
+"@id":"4718115",
+"info":{"authors":{"author":[{"@pid":"17/6133","text":"Ans A. G. Steuten"},{"@pid":"r/RPvandeRiet","text":"Reind P. van de Riet"},{"@pid":"d/JLGDietz","text":"Jan L. G. Dietz"}]},"title":"Linguistically based conceptual modeling of business communication.","venue":"Data Knowl. Eng.","volume":"35","number":"2","pages":"121-136","year":"2000","type":"Journal Articles","key":"journals/dke/SteutenRD00","doi":"10.1016/S0169-023X(00)00030-6","ee":"https://doi.org/10.1016/S0169-023X(00)00030-6","url":"https://dblp.org/rec/journals/dke/SteutenRD00"},
+"url":"URL#4718115"
+},
+{
+"@score":"1",
+"@id":"4718117",
+"info":{"authors":{"author":[{"@pid":"t/BernhardThalheim","text":"Bernhard Thalheim"},{"@pid":"d/ADusterhoft","text":"Antje Düsterhöft"}]},"title":"The use of metaphorical structures for internet sites.","venue":"Data Knowl. Eng.","volume":"35","number":"2","pages":"161-180","year":"2000","type":"Journal Articles","key":"journals/dke/ThalheimD00","doi":"10.1016/S0169-023X(00)00037-9","ee":"https://doi.org/10.1016/S0169-023X(00)00037-9","url":"https://dblp.org/rec/journals/dke/ThalheimD00"},
+"url":"URL#4718117"
+},
+{
+"@score":"1",
+"@id":"4718118",
+"info":{"authors":{"author":{"@pid":"w/WernerWiniwarter","text":"Werner Winiwarter"}},"title":"Adaptive natural language interfaces to FAQ knowledge bases.","venue":"Data Knowl. Eng.","volume":"35","number":"2","pages":"181-199","year":"2000","type":"Journal Articles","key":"journals/dke/Winiwarter00","doi":"10.1016/S0169-023X(00)00032-X","ee":"https://doi.org/10.1016/S0169-023X(00)00032-X","url":"https://dblp.org/rec/journals/dke/Winiwarter00"},
+"url":"URL#4718118"
+},
+{
+"@score":"1",
+"@id":"4718119",
+"info":{"authors":{"author":[{"@pid":"64/1759","text":"Jitian Xiao"},{"@pid":"32/2837","text":"Yanchun Zhang"},{"@pid":"j/XiaohuaJia","text":"Xiaohua Jia"},{"@pid":"z/XiaofangZhou","text":"Xiaofang Zhou 0001"}]},"title":"A schedule of join operations to reduce I/O cost in spatial database systems.","venue":"Data Knowl. Eng.","volume":"35","number":"3","pages":"299-317","year":"2000","type":"Journal Articles","key":"journals/dke/XiaoZJZ00","doi":"10.1016/S0169-023X(00)00026-4","ee":"https://doi.org/10.1016/S0169-023X(00)00026-4","url":"https://dblp.org/rec/journals/dke/XiaoZJZ00"},
+"url":"URL#4718119"
+}
+]
+}
 }
 }

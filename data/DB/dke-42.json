@@ -1,23 +1,122 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke42\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke42\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.56"
+"text":"97.21"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"15",
+"@dc":"15",
+"@oc":"15",
+"@id":"17615724",
+"text":":facetid:toc:db/journals/dke/dke42.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"15",
+"@computed":"15",
+"@sent":"15",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"4544207",
+"info":{"authors":{"author":[{"@pid":"53/4360","text":"Nasreddine Aoumeur"},{"@pid":"s/GunterSaake","text":"Gunter Saake"}]},"title":"A component-based Petri net model for specifying and validating cooperative information systems.","venue":"Data Knowl. Eng.","volume":"42","number":"2","pages":"143-187","year":"2002","type":"Journal Articles","key":"journals/dke/AoumeurS02","doi":"10.1016/S0169-023X(02)00025-3","ee":"https://doi.org/10.1016/S0169-023X(02)00025-3","url":"https://dblp.org/rec/journals/dke/AoumeurS02"},
+"url":"URL#4544207"
+},
+{
+"@score":"1",
+"@id":"4544222",
+"info":{"authors":{"author":[{"@pid":"10/7020","text":"Serafino Cicerone"},{"@pid":"f/DanieleFrigioni","text":"Daniele Frigioni"},{"@pid":"62/2291","text":"Paolino Di Felice"}]},"title":"A general strategy for decomposing topological invariants of spatial databases and an application.","venue":"Data Knowl. Eng.","volume":"42","number":"1","pages":"57-87","year":"2002","type":"Journal Articles","key":"journals/dke/CiceroneFF02","doi":"10.1016/S0169-023X(02)00027-7","ee":"https://doi.org/10.1016/S0169-023X(02)00027-7","url":"https://dblp.org/rec/journals/dke/CiceroneFF02"},
+"url":"URL#4544222"
+},
+{
+"@score":"1",
+"@id":"4544223",
+"info":{"authors":{"author":{"@pid":"62/3514","text":"Gary A. Coen"}},"title":"Database Lexicography.","venue":"Data Knowl. Eng.","volume":"42","number":"3","pages":"293-314","year":"2002","type":"Journal Articles","key":"journals/dke/Coen02","doi":"10.1016/S0169-023X(02)00052-6","ee":"https://doi.org/10.1016/S0169-023X(02)00052-6","url":"https://dblp.org/rec/journals/dke/Coen02"},
+"url":"URL#4544223"
+},
+{
+"@score":"1",
+"@id":"4544224",
+"info":{"authors":{"author":[{"@pid":"10/4012","text":"Stéphane Coulondre"},{"@pid":"l/ThereseLibourel","text":"Thérèse Libourel"}]},"title":"An integrated object-role oriented database model.","venue":"Data Knowl. Eng.","volume":"42","number":"1","pages":"113-141","year":"2002","type":"Journal Articles","key":"journals/dke/CoulondreL02","doi":"10.1016/S0169-023X(02)00059-9","ee":"https://doi.org/10.1016/S0169-023X(02)00059-9","url":"https://dblp.org/rec/journals/dke/CoulondreL02"},
+"url":"URL#4544224"
+},
+{
+"@score":"1",
+"@id":"4544229",
+"info":{"authors":{"author":[{"@pid":"g/JonAtleGulla","text":"Jon Atle Gulla"},{"@pid":"33/379","text":"Terje Brasethvik"}]},"title":"A model-driven ERP environment with search facilities.","venue":"Data Knowl. Eng.","volume":"42","number":"3","pages":"327-341","year":"2002","type":"Journal Articles","key":"journals/dke/GullaB02","doi":"10.1016/S0169-023X(02)00051-4","ee":"https://doi.org/10.1016/S0169-023X(02)00051-4","url":"https://dblp.org/rec/journals/dke/GullaB02"},
+"url":"URL#4544229"
+},
+{
+"@score":"1",
+"@id":"4544230",
+"info":{"authors":{"author":[{"@pid":"h/UdoHahn","text":"Udo Hahn"},{"@pid":"54/2955","text":"Kornél G. Markó"}]},"title":"An integrated, dual learner for grammars and ontologies.","venue":"Data Knowl. Eng.","volume":"42","number":"3","pages":"273-291","year":"2002","type":"Journal Articles","key":"journals/dke/HahnM02","doi":"10.1016/S0169-023X(02)00046-0","ee":"https://doi.org/10.1016/S0169-023X(02)00046-0","url":"https://dblp.org/rec/journals/dke/HahnM02"},
+"url":"URL#4544230"
+},
+{
+"@score":"1",
+"@id":"4544232",
+"info":{"authors":{"author":{"@pid":"23/4530","text":"Anthony Hunter"}},"title":"Logical fusion rules for merging structured news reports.","venue":"Data Knowl. Eng.","volume":"42","number":"1","pages":"23-56","year":"2002","type":"Journal Articles","key":"journals/dke/Hunter02a","doi":"10.1016/S0169-023X(02)00026-5","ee":"https://doi.org/10.1016/S0169-023X(02)00026-5","url":"https://dblp.org/rec/journals/dke/Hunter02a"},
+"url":"URL#4544232"
+},
+{
+"@score":"1",
+"@id":"4544234",
+"info":{"authors":{"author":[{"@pid":"97/3036","text":"Panos Kalnis"},{"@pid":"34/6253","text":"Nikos Mamoulis"},{"@pid":"p/DimitrisPapadias","text":"Dimitris Papadias"}]},"title":"View selection using randomized search.","venue":"Data Knowl. Eng.","volume":"42","number":"1","pages":"89-111","year":"2002","type":"Journal Articles","key":"journals/dke/KalnisMP02","doi":"10.1016/S0169-023X(02)00045-9","ee":"https://doi.org/10.1016/S0169-023X(02)00045-9","url":"https://dblp.org/rec/journals/dke/KalnisMP02"},
+"url":"URL#4544234"
+},
+{
+"@score":"1",
+"@id":"4544241",
+"info":{"authors":{"author":[{"@pid":"13/4884","text":"Marion Mast"},{"@pid":"07/5286","text":"Thomas Ross"},{"@pid":"06/1580","text":"Henrik Schulz"},{"@pid":"67/4075","text":"Heli Harrikari"},{"@pid":"06/2619","text":"Vasiliki Demesticha"},{"@pid":"p/LazarosPolymenakos","text":"Lazaros Polymenakos"},{"@pid":"93/4789","text":"Yannis Vamvakoulas"},{"@pid":"49/3667","text":"Jan Stadermann"}]},"title":"Conversational natural language understanding interfacing city event information.","venue":"Data Knowl. Eng.","volume":"42","number":"3","pages":"343-360","year":"2002","type":"Journal Articles","key":"journals/dke/MastRSHDPVS02","doi":"10.1016/S0169-023X(02)00050-2","ee":"https://doi.org/10.1016/S0169-023X(02)00050-2","url":"https://dblp.org/rec/journals/dke/MastRSHDPVS02"},
+"url":"URL#4544241"
+},
+{
+"@score":"1",
+"@id":"4544243",
+"info":{"authors":{"author":[{"@pid":"43/1740","text":"Markus Mittendorfer"},{"@pid":"w/WernerWiniwarter","text":"Werner Winiwarter"}]},"title":"Exploiting syntactic analysis of queries for information retrieval.","venue":"Data Knowl. Eng.","volume":"42","number":"3","pages":"315-325","year":"2002","type":"Journal Articles","key":"journals/dke/MittendorferW02","doi":"10.1016/S0169-023X(02)00049-6","ee":"https://doi.org/10.1016/S0169-023X(02)00049-6","url":"https://dblp.org/rec/journals/dke/MittendorferW02"},
+"url":"URL#4544243"
+},
+{
+"@score":"1",
+"@id":"4544245",
+"info":{"authors":{"author":[{"@pid":"67/1778","text":"Ana M. Moreno-Capuchino"},{"@pid":"r/RPvandeRiet","text":"Reind P. van de Riet"}]},"title":"Guest editorial - Special issue NLDB &apos;01.","venue":"Data Knowl. Eng.","volume":"42","number":"3","pages":"247-249","year":"2002","type":"Journal Articles","key":"journals/dke/Moreno-CapuchinoR02","doi":"10.1016/S0169-023X(02)00047-2","ee":"https://doi.org/10.1016/S0169-023X(02)00047-2","url":"https://dblp.org/rec/journals/dke/Moreno-CapuchinoR02"},
+"url":"URL#4544245"
+},
+{
+"@score":"1",
+"@id":"4544248",
+"info":{"authors":{"author":[{"@pid":"37/5156","text":"Ratko Orlandic"},{"@pid":"85/3400","text":"Byunggu Yu"}]},"title":"A retrieval technique for high-dimensional data and partially specified queries.","venue":"Data Knowl. Eng.","volume":"42","number":"1","pages":"1-21","year":"2002","type":"Journal Articles","key":"journals/dke/OrlandicY02","doi":"10.1016/S0169-023X(02)00023-X","ee":"https://doi.org/10.1016/S0169-023X(02)00023-X","url":"https://dblp.org/rec/journals/dke/OrlandicY02"},
+"url":"URL#4544248"
+},
+{
+"@score":"1",
+"@id":"4544254",
+"info":{"authors":{"author":[{"@pid":"r/DieterRoller0002","text":"Dieter Roller 0002"},{"@pid":"83/6785","text":"O. Eck"},{"@pid":"09/4794","text":"Stavros Dalakakis"}]},"title":"Integrated version and transaction group model for shared engineering databases.","venue":"Data Knowl. Eng.","volume":"42","number":"2","pages":"223-245","year":"2002","type":"Journal Articles","key":"journals/dke/RollerED02","doi":"10.1016/S0169-023X(02)00061-7","ee":"https://doi.org/10.1016/S0169-023X(02)00061-7","url":"https://dblp.org/rec/journals/dke/RollerED02"},
+"url":"URL#4544254"
+},
+{
+"@score":"1",
+"@id":"4544256",
+"info":{"authors":{"author":[{"@pid":"s/GerdStumme","text":"Gerd Stumme"},{"@pid":"43/378","text":"Rafik Taouil"},{"@pid":"57/4251","text":"Yves Bastide"},{"@pid":"p/NicolasPasquier","text":"Nicolas Pasquier"},{"@pid":"42/4726","text":"Lotfi Lakhal"}]},"title":"Computing iceberg concept lattices with T.","venue":"Data Knowl. Eng.","volume":"42","number":"2","pages":"189-222","year":"2002","type":"Journal Articles","key":"journals/dke/StummeTBPL02","doi":"10.1016/S0169-023X(02)00057-5","ee":"https://doi.org/10.1016/S0169-023X(02)00057-5","url":"https://dblp.org/rec/journals/dke/StummeTBPL02"},
+"url":"URL#4544256"
+},
+{
+"@score":"1",
+"@id":"4544257",
+"info":{"authors":{"author":[{"@pid":"66/6868","text":"Vijayan Sugumaran"},{"@pid":"41/1781","text":"Veda C. Storey"}]},"title":"Ontologies for conceptual modeling - their creation, use, and management.","venue":"Data Knowl. Eng.","volume":"42","number":"3","pages":"251-271","year":"2002","type":"Journal Articles","key":"journals/dke/SugumaranS02","doi":"10.1016/S0169-023X(02)00048-4","ee":"https://doi.org/10.1016/S0169-023X(02)00048-4","url":"https://dblp.org/rec/journals/dke/SugumaranS02"},
+"url":"URL#4544257"
+}
+]
+}
 }
 }

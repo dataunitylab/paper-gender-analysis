@@ -1,23 +1,80 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke99\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke99\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.38"
+"text":"124.45"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"8",
+"@dc":"8",
+"@oc":"8",
+"@id":"17615781",
+"text":":facetid:toc:db/journals/dke/dke99.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"8",
+"@computed":"8",
+"@sent":"8",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"1807277",
+"info":{"authors":{"author":[{"@pid":"77/1789","text":"Neil Hall"},{"@pid":"13/2962","text":"Henning Köhler"},{"@pid":"l/SebastianLink","text":"Sebastian Link"},{"@pid":"p/HenriPrade","text":"Henri Prade"},{"@pid":"z/XiaofangZhou","text":"Xiaofang Zhou 0001"}]},"title":"Cardinality constraints on qualitatively uncertain data.","venue":"Data Knowl. Eng.","volume":"99","pages":"126-150","year":"2015","type":"Journal Articles","key":"journals/dke/HallKLPZ15","doi":"10.1016/J.DATAK.2015.06.002","ee":"https://doi.org/10.1016/j.datak.2015.06.002","url":"https://dblp.org/rec/journals/dke/HallKLPZ15"},
+"url":"URL#1807277"
+},
+{
+"@score":"1",
+"@id":"1807281",
+"info":{"authors":{"author":[{"@pid":"j/MatthiasJarke","text":"Matthias Jarke"},{"@pid":"d/GDobbie","text":"Gillian Dobbie"},{"@pid":"33/5374","text":"Eric S. K. Yu"}]},"title":"Special Issue on Advances in Conceptual Modeling (ER 2014).","venue":"Data Knowl. Eng.","volume":"99","pages":"1-2","year":"2015","type":"Journal Articles","key":"journals/dke/JarkeDY15","doi":"10.1016/J.DATAK.2015.07.011","ee":"https://doi.org/10.1016/j.datak.2015.07.011","url":"https://dblp.org/rec/journals/dke/JarkeDY15"},
+"url":"URL#1807281"
+},
+{
+"@score":"1",
+"@id":"1807283",
+"info":{"authors":{"author":[{"@pid":"133/1040","text":"Thuy Ngoc Le"},{"@pid":"20/3716","text":"Zhifeng Bao"},{"@pid":"l/TokWangLing","text":"Tok Wang Ling"}]},"title":"Exploiting semantics for XML keyword search.","venue":"Data Knowl. Eng.","volume":"99","pages":"105-125","year":"2015","type":"Journal Articles","key":"journals/dke/LeBL15","doi":"10.1016/J.DATAK.2015.06.003","ee":"https://doi.org/10.1016/j.datak.2015.06.003","url":"https://dblp.org/rec/journals/dke/LeBL15"},
+"url":"URL#1807283"
+},
+{
+"@score":"1",
+"@id":"1807288",
+"info":{"authors":{"author":[{"@pid":"22/2713","text":"Lidia López"},{"@pid":"13/2106","text":"Dolors Costal"},{"@pid":"62/2993","text":"Claudia P. Ayala"},{"@pid":"f/XavierFranch","text":"Xavier Franch"},{"@pid":"35/5212","text":"Maria Carmela Annosi"},{"@pid":"77/7652","text":"Ruediger Glott"},{"@pid":"81/7652","text":"Kirsten Haaland"}]},"title":"Adoption of OSS components - A goal-oriented approach.","venue":"Data Knowl. Eng.","volume":"99","pages":"17-38","year":"2015","type":"Journal Articles","key":"journals/dke/LopezCAFAGH15","doi":"10.1016/J.DATAK.2015.06.007","ee":"https://doi.org/10.1016/j.datak.2015.06.007","url":"https://dblp.org/rec/journals/dke/LopezCAFAGH15"},
+"url":"URL#1807288"
+},
+{
+"@score":"1",
+"@id":"1807297",
+"info":{"authors":{"author":[{"@pid":"150/7988","text":"Xavier Oriol"},{"@pid":"t/ErnestTeniente","text":"Ernest Teniente"},{"@pid":"94/8050","text":"Albert Tort"}]},"title":"Computing repairs for constraint violations in UML/OCL conceptual schemas.","venue":"Data Knowl. Eng.","volume":"99","pages":"39-58","year":"2015","type":"Journal Articles","key":"journals/dke/OriolTT15","doi":"10.1016/J.DATAK.2015.06.006","ee":"https://doi.org/10.1016/j.datak.2015.06.006","url":"https://dblp.org/rec/journals/dke/OriolTT15"},
+"url":"URL#1807297"
+},
+{
+"@score":"1",
+"@id":"1807299",
+"info":{"authors":{"author":[{"@pid":"134/4947","text":"Tiago Prince Sales"},{"@pid":"11/78","text":"Giancarlo Guizzardi"}]},"title":"Ontological anti-patterns - empirically uncovered error-prone structures in ontology-driven conceptual models.","venue":"Data Knowl. Eng.","volume":"99","pages":"72-104","year":"2015","type":"Journal Articles","key":"journals/dke/SalesG15","doi":"10.1016/J.DATAK.2015.06.004","ee":"https://doi.org/10.1016/j.datak.2015.06.004","url":"https://dblp.org/rec/journals/dke/SalesG15"},
+"url":"URL#1807299"
+},
+{
+"@score":"1",
+"@id":"1807302",
+"info":{"authors":{"author":[{"@pid":"94/8050","text":"Albert Tort"},{"@pid":"89/4942","text":"Antoni Olivé"}]},"title":"An approach to website schema.org design.","venue":"Data Knowl. Eng.","volume":"99","pages":"3-16","year":"2015","type":"Journal Articles","key":"journals/dke/TortO15","doi":"10.1016/J.DATAK.2015.06.011","ee":"https://doi.org/10.1016/j.datak.2015.06.011","url":"https://dblp.org/rec/journals/dke/TortO15"},
+"url":"URL#1807302"
+},
+{
+"@score":"1",
+"@id":"1807306",
+"info":{"authors":{"author":{"@pid":"97/6505-2","text":"Qing Wang 0002"}},"title":"A conceptual modeling framework for network analytics.","venue":"Data Knowl. Eng.","volume":"99","pages":"59-71","year":"2015","type":"Journal Articles","key":"journals/dke/Wang15","doi":"10.1016/J.DATAK.2015.06.005","ee":"https://doi.org/10.1016/j.datak.2015.06.005","url":"https://dblp.org/rec/journals/dke/Wang15"},
+"url":"URL#1807306"
+}
+]
+}
 }
 }

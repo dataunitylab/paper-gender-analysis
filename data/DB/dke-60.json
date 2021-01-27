@@ -1,23 +1,218 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke60\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke60\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.43"
+"text":"113.86"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"31",
+"@dc":"31",
+"@oc":"31",
+"@id":"17615744",
+"text":":facetid:toc:db/journals/dke/dke60.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"31",
+"@computed":"31",
+"@sent":"31",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"3801805",
+"info":{"authors":{"author":[{"@pid":"b/SSBhowmick","text":"Sourav S. Bhowmick"},{"@pid":"m/SanjayKumarMadria","text":"Sanjay Kumar Madria"},{"@pid":"c/SChakravarthy","text":"Sharma Chakravarthy"}]},"title":"Web Data and Schema Management.","venue":"Data Knowl. Eng.","volume":"60","number":"2","pages":"257-259","year":"2007","type":"Journal Articles","key":"journals/dke/BhowmickMC07","doi":"10.1016/J.DATAK.2006.03.001","ee":"https://doi.org/10.1016/j.datak.2006.03.001","url":"https://dblp.org/rec/journals/dke/BhowmickMC07"},
+"url":"URL#3801805"
+},
+{
+"@score":"1",
+"@id":"3801806",
+"info":{"authors":{"author":[{"@pid":"89/3685","text":"Derya Birant"},{"@pid":"25/6557","text":"Alp Kut"}]},"title":"ST-DBSCAN - An algorithm for clustering spatial-temporal data.","venue":"Data Knowl. Eng.","volume":"60","number":"1","pages":"208-221","year":"2007","type":"Journal Articles","key":"journals/dke/BirantK07","doi":"10.1016/J.DATAK.2006.01.013","ee":"https://doi.org/10.1016/j.datak.2006.01.013","url":"https://dblp.org/rec/journals/dke/BirantK07"},
+"url":"URL#3801806"
+},
+{
+"@score":"1",
+"@id":"3801809",
+"info":{"authors":{"author":[{"@pid":"b/FBonchi","text":"Francesco Bonchi"},{"@pid":"l/ClaudioLucchese","text":"Claudio Lucchese"}]},"title":"Extending the state-of-the-art of constraint-based pattern discovery.","venue":"Data Knowl. Eng.","volume":"60","number":"2","pages":"377-399","year":"2007","type":"Journal Articles","key":"journals/dke/BonchiL07","doi":"10.1016/J.DATAK.2006.02.006","ee":"https://doi.org/10.1016/j.datak.2006.02.006","url":"https://dblp.org/rec/journals/dke/BonchiL07"},
+"url":"URL#3801809"
+},
+{
+"@score":"1",
+"@id":"3801814",
+"info":{"authors":{"author":[{"@pid":"96/5520","text":"José Ramón Cano"},{"@pid":"04/0","text":"Francisco Herrera"},{"@pid":"13/4802-1","text":"Manuel Lozano 0001"}]},"title":"Evolutionary stratified training set selection for extracting classification rules with trade off precision-interpretability.","venue":"Data Knowl. Eng.","volume":"60","number":"1","pages":"90-108","year":"2007","type":"Journal Articles","key":"journals/dke/CanoHL07","doi":"10.1016/J.DATAK.2006.01.008","ee":"https://doi.org/10.1016/j.datak.2006.01.008","url":"https://dblp.org/rec/journals/dke/CanoHL07"},
+"url":"URL#3801814"
+},
+{
+"@score":"1",
+"@id":"3801821",
+"info":{"authors":{"author":[{"@pid":"192/0196-3","text":"Zhiyuan Chen 0003"},{"@pid":"g/JohannesGehrke","text":"Johannes Gehrke"},{"@pid":"k/FlipKorn","text":"Flip Korn"},{"@pid":"k/NickKoudas","text":"Nick Koudas"},{"@pid":"s/JShanmugasundaram","text":"Jayavel Shanmugasundaram"},{"@pid":"s/DiveshSrivastava","text":"Divesh Srivastava"}]},"title":"Index structures for matching XML twigs using relational query processors.","venue":"Data Knowl. Eng.","volume":"60","number":"2","pages":"283-302","year":"2007","type":"Journal Articles","key":"journals/dke/ChenGKKSS07","doi":"10.1016/J.DATAK.2006.03.003","ee":"https://doi.org/10.1016/j.datak.2006.03.003","url":"https://dblp.org/rec/journals/dke/ChenGKKSS07"},
+"url":"URL#3801821"
+},
+{
+"@score":"1",
+"@id":"3801823",
+"info":{"authors":{"author":[{"@pid":"76/4559","text":"Il-Hwan Choi"},{"@pid":"20/6358","text":"Bongki Moon"},{"@pid":"k/HyoungJooKim","text":"Hyoung-Joo Kim"}]},"title":"A clustering method based on path similarities of XML data.","venue":"Data Knowl. Eng.","volume":"60","number":"2","pages":"361-376","year":"2007","type":"Journal Articles","key":"journals/dke/ChoiMK07","doi":"10.1016/J.DATAK.2006.02.004","ee":"https://doi.org/10.1016/j.datak.2006.02.004","url":"https://dblp.org/rec/journals/dke/ChoiMK07"},
+"url":"URL#3801823"
+},
+{
+"@score":"1",
+"@id":"3801825",
+"info":{"authors":{"author":[{"@pid":"c/FransCoenen","text":"Frans Coenen"},{"@pid":"l/PaulHLeng","text":"Paul H. Leng"}]},"title":"The effect of threshold values on association rule based classification accuracy.","venue":"Data Knowl. Eng.","volume":"60","number":"2","pages":"345-360","year":"2007","type":"Journal Articles","key":"journals/dke/CoenenL07","doi":"10.1016/J.DATAK.2006.02.005","ee":"https://doi.org/10.1016/j.datak.2006.02.005","url":"https://dblp.org/rec/journals/dke/CoenenL07"},
+"url":"URL#3801825"
+},
+{
+"@score":"1",
+"@id":"3801835",
+"info":{"authors":{"author":[{"@pid":"99/5874","text":"Sergio Flesca"},{"@pid":"m/GiuseppeManco-1","text":"Giuseppe Manco 0001"},{"@pid":"28/168","text":"Elio Masciari"},{"@pid":"20/842","text":"Luigi Pontieri"},{"@pid":"p/APugliese","text":"Andrea Pugliese 0001"}]},"title":"Exploiting structural similarity for effective Web information extraction.","venue":"Data Knowl. Eng.","volume":"60","number":"1","pages":"222-234","year":"2007","type":"Journal Articles","key":"journals/dke/FlescaMMPP07","doi":"10.1016/J.DATAK.2006.01.001","ee":"https://doi.org/10.1016/j.datak.2006.01.001","url":"https://dblp.org/rec/journals/dke/FlescaMMPP07"},
+"url":"URL#3801835"
+},
+{
+"@score":"1",
+"@id":"3801837",
+"info":{"authors":{"author":[{"@pid":"b/FernandoBerzal","text":"Fernando Berzal Galiano"},{"@pid":"c/JuanCCubero","text":"Juan C. Cubero"}]},"title":"Guest editors&apos; introduction.","venue":"Data Knowl. Eng.","volume":"60","number":"1","pages":"1-4","year":"2007","type":"Journal Articles","key":"journals/dke/GalianoC07","doi":"10.1016/J.DATAK.2006.01.003","ee":"https://doi.org/10.1016/j.datak.2006.01.003","url":"https://dblp.org/rec/journals/dke/GalianoC07"},
+"url":"URL#3801837"
+},
+{
+"@score":"1",
+"@id":"3801843",
+"info":{"authors":{"author":[{"@pid":"h/SusanneSHambrusch","text":"Susanne E. Hambrusch"},{"@pid":"58/2882","text":"Chuan-Ming Liu"},{"@pid":"a/WGAref","text":"Walid G. Aref"},{"@pid":"p/SunilPrabhakar","text":"Sunil Prabhakar"}]},"title":"Efficient query execution on broadcasted index tree structures.","venue":"Data Knowl. Eng.","volume":"60","number":"3","pages":"511-529","year":"2007","type":"Journal Articles","key":"journals/dke/HambruschLAP07","doi":"10.1016/J.DATAK.2006.03.011","ee":"https://doi.org/10.1016/j.datak.2006.03.011","url":"https://dblp.org/rec/journals/dke/HambruschLAP07"},
+"url":"URL#3801843"
+},
+{
+"@score":"1",
+"@id":"3801845",
+"info":{"authors":{"author":[{"@pid":"h/TheoHarder","text":"Theo Härder"},{"@pid":"13/158","text":"Michael Peter Haustein"},{"@pid":"13/643","text":"Christian Mathis"},{"@pid":"37/3343","text":"Markus Wagner 0002"}]},"title":"Node labeling schemes for dynamic XML documents reconsidered.","venue":"Data Knowl. Eng.","volume":"60","number":"1","pages":"126-149","year":"2007","type":"Journal Articles","key":"journals/dke/HarderHMW07","doi":"10.1016/J.DATAK.2005.11.008","ee":"https://doi.org/10.1016/j.datak.2005.11.008","url":"https://dblp.org/rec/journals/dke/HarderHMW07"},
+"url":"URL#3801845"
+},
+{
+"@score":"1",
+"@id":"3801849",
+"info":{"authors":{"author":[{"@pid":"28/4808","text":"Seokjin Hong"},{"@pid":"89/6967","text":"Jinuk Bae"},{"@pid":"54/3862","text":"Taewon Lee"},{"@pid":"58/2763","text":"Sukho Lee"}]},"title":"Histogram-by - A grouping operator for continuous domains.","venue":"Data Knowl. Eng.","volume":"60","number":"3","pages":"451-467","year":"2007","type":"Journal Articles","key":"journals/dke/HongBLL07","doi":"10.1016/J.DATAK.2006.03.007","ee":"https://doi.org/10.1016/j.datak.2006.03.007","url":"https://dblp.org/rec/journals/dke/HongBLL07"},
+"url":"URL#3801849"
+},
+{
+"@score":"1",
+"@id":"3801851",
+"info":{"authors":{"author":[{"@pid":"28/5912","text":"Yongqiang Huang"},{"@pid":"g/HGarciaMolina","text":"Hector Garcia-Molina"}]},"title":"Parameterized subscriptions in publish/subscribe systems.","venue":"Data Knowl. Eng.","volume":"60","number":"3","pages":"435-450","year":"2007","type":"Journal Articles","key":"journals/dke/HuangG07","doi":"10.1016/J.DATAK.2006.03.010","ee":"https://doi.org/10.1016/j.datak.2006.03.010","url":"https://dblp.org/rec/journals/dke/HuangG07"},
+"url":"URL#3801851"
+},
+{
+"@score":"1",
+"@id":"3801855",
+"info":{"authors":{"author":[{"@pid":"46/176-1","text":"Ying Jin 0001"},{"@pid":"62/1192","text":"Susan Darling Urban"},{"@pid":"d/SWDietrich","text":"Suzanne W. Dietrich"}]},"title":"A concurrent rule scheduling algorithm for active rules.","venue":"Data Knowl. Eng.","volume":"60","number":"3","pages":"530-546","year":"2007","type":"Journal Articles","key":"journals/dke/JinUD07","doi":"10.1016/J.DATAK.2006.02.007","ee":"https://doi.org/10.1016/j.datak.2006.02.007","url":"https://dblp.org/rec/journals/dke/JinUD07"},
+"url":"URL#3801855"
+},
+{
+"@score":"1",
+"@id":"3801861",
+"info":{"authors":{"author":[{"@pid":"k/MarkusKirchberg","text":"Markus Kirchberg"},{"@pid":"s/KlausDieterSchewe","text":"Klaus-Dieter Schewe"},{"@pid":"43/4768","text":"Alexei Tretiakov"},{"@pid":"29/4046","text":"Richard Wang"}]},"title":"A multi-level architecture for distributed object bases.","venue":"Data Knowl. Eng.","volume":"60","number":"1","pages":"150-184","year":"2007","type":"Journal Articles","key":"journals/dke/KirchbergSTW07","doi":"10.1016/J.DATAK.2005.11.007","ee":"https://doi.org/10.1016/j.datak.2005.11.007","url":"https://dblp.org/rec/journals/dke/KirchbergSTW07"},
+"url":"URL#3801861"
+},
+{
+"@score":"1",
+"@id":"3801865",
+"info":{"authors":{"author":[{"@pid":"k/HyeChungMonicaKum","text":"Hye-Chung Kum"},{"@pid":"52/5158","text":"Joong Hyuk Chang"},{"@pid":"w/WeiWang","text":"Wei Wang 0010"}]},"title":"Benchmarking the effectiveness of sequential pattern mining methods.","venue":"Data Knowl. Eng.","volume":"60","number":"1","pages":"30-50","year":"2007","type":"Journal Articles","key":"journals/dke/KumCW07","doi":"10.1016/J.DATAK.2006.01.004","ee":"https://doi.org/10.1016/j.datak.2006.01.004","url":"https://dblp.org/rec/journals/dke/KumCW07"},
+"url":"URL#3801865"
+},
+{
+"@score":"1",
+"@id":"3801871",
+"info":{"authors":{"author":[{"@pid":"25/4943","text":"Chang-Shing Lee"},{"@pid":"76/5550","text":"Yuan-Fang Kao"},{"@pid":"70/4969","text":"Yau-Hwang Kuo"},{"@pid":"38/137","text":"Mei-Hui Wang"}]},"title":"Automated ontology construction for unstructured text documents.","venue":"Data Knowl. Eng.","volume":"60","number":"3","pages":"547-566","year":"2007","type":"Journal Articles","key":"journals/dke/LeeKKW07","doi":"10.1016/J.DATAK.2006.04.001","ee":"https://doi.org/10.1016/j.datak.2006.04.001","url":"https://dblp.org/rec/journals/dke/LeeKKW07"},
+"url":"URL#3801871"
+},
+{
+"@score":"1",
+"@id":"3801879",
+"info":{"authors":{"author":[{"@pid":"61/4197","text":"Shou-Chih Lo"},{"@pid":"c/ALPChen","text":"Arbee L. P. Chen"}]},"title":"Efficient index and data allocation for wireless broadcast services.","venue":"Data Knowl. Eng.","volume":"60","number":"1","pages":"235-255","year":"2007","type":"Journal Articles","key":"journals/dke/LoC07","doi":"10.1016/J.DATAK.2006.02.002","ee":"https://doi.org/10.1016/j.datak.2006.02.002","url":"https://dblp.org/rec/journals/dke/LoC07"},
+"url":"URL#3801879"
+},
+{
+"@score":"1",
+"@id":"3801880",
+"info":{"authors":{"author":[{"@pid":"46/5778-1","text":"Hui Ma 0001"},{"@pid":"s/KlausDieterSchewe","text":"Klaus-Dieter Schewe"},{"@pid":"97/6505-2","text":"Qing Wang 0002"}]},"title":"Distribution design for higher-order data models.","venue":"Data Knowl. Eng.","volume":"60","number":"2","pages":"400-434","year":"2007","type":"Journal Articles","key":"journals/dke/MaSW07","doi":"10.1016/J.DATAK.2006.03.006","ee":"https://doi.org/10.1016/j.datak.2006.03.006","url":"https://dblp.org/rec/journals/dke/MaSW07"},
+"url":"URL#3801880"
+},
+{
+"@score":"1",
+"@id":"3801884",
+"info":{"authors":{"author":[{"@pid":"19/304","text":"Christos Makris"},{"@pid":"81/3180","text":"Yannis Panagis"},{"@pid":"64/6895","text":"Evangelos Sakkopoulos"},{"@pid":"19/5175","text":"Athanasios K. Tsakalidis"}]},"title":"Category ranking for personalized search.","venue":"Data Knowl. Eng.","volume":"60","number":"1","pages":"109-125","year":"2007","type":"Journal Articles","key":"journals/dke/MakrisPST07","doi":"10.1016/J.DATAK.2005.11.006","ee":"https://doi.org/10.1016/j.datak.2005.11.006","url":"https://dblp.org/rec/journals/dke/MakrisPST07"},
+"url":"URL#3801884"
+},
+{
+"@score":"1",
+"@id":"3801890",
+"info":{"authors":{"author":{"@pid":"m/WaiYinMok","text":"Wai Yin Mok"}},"title":"On utilizing variables for specifying FDs in data-centric XML documents.","venue":"Data Knowl. Eng.","volume":"60","number":"3","pages":"494-510","year":"2007","type":"Journal Articles","key":"journals/dke/Mok07","doi":"10.1016/J.DATAK.2006.03.009","ee":"https://doi.org/10.1016/j.datak.2006.03.009","url":"https://dblp.org/rec/journals/dke/Mok07"},
+"url":"URL#3801890"
+},
+{
+"@score":"1",
+"@id":"3801893",
+"info":{"authors":{"author":[{"@pid":"10/88","text":"Marie-Laure Mugnier"},{"@pid":"33/3500","text":"Michel Leclère"}]},"title":"On querying simple conceptual graphs with negation.","venue":"Data Knowl. Eng.","volume":"60","number":"3","pages":"468-493","year":"2007","type":"Journal Articles","key":"journals/dke/MugnierL07","doi":"10.1016/J.DATAK.2006.03.008","ee":"https://doi.org/10.1016/j.datak.2006.03.008","url":"https://dblp.org/rec/journals/dke/MugnierL07"},
+"url":"URL#3801893"
+},
+{
+"@score":"1",
+"@id":"3801903",
+"info":{"authors":{"author":[{"@pid":"46/1496","text":"Aleksander Pivk"},{"@pid":"12/1983","text":"Philipp Cimiano"},{"@pid":"s/YorkSure","text":"York Sure"},{"@pid":"43/1312","text":"Matjaz Gams"},{"@pid":"33/707","text":"Vladislav Rajkovic"},{"@pid":"s/RudiStuder","text":"Rudi Studer"}]},"title":"Transforming arbitrary tables into logical form with TARTAR.","venue":"Data Knowl. Eng.","volume":"60","number":"3","pages":"567-595","year":"2007","type":"Journal Articles","key":"journals/dke/PivkCSGRS07","doi":"10.1016/J.DATAK.2006.04.002","ee":"https://doi.org/10.1016/j.datak.2006.04.002","url":"https://dblp.org/rec/journals/dke/PivkCSGRS07"},
+"url":"URL#3801903"
+},
+{
+"@score":"1",
+"@id":"3801912",
+"info":{"authors":{"author":[{"@pid":"30/2092","text":"Mathieu Serrurier"},{"@pid":"d/DidierDubois","text":"Didier Dubois"},{"@pid":"p/HenriPrade","text":"Henri Prade"},{"@pid":"s/ThomasSudkamp","text":"Thomas Sudkamp"}]},"title":"Learning fuzzy rules with their implication operators.","venue":"Data Knowl. Eng.","volume":"60","number":"1","pages":"71-89","year":"2007","type":"Journal Articles","key":"journals/dke/SerrurierDPS07","doi":"10.1016/J.DATAK.2006.01.007","ee":"https://doi.org/10.1016/j.datak.2006.01.007","url":"https://dblp.org/rec/journals/dke/SerrurierDPS07"},
+"url":"URL#3801912"
+},
+{
+"@score":"1",
+"@id":"3801917",
+"info":{"authors":{"author":[{"@pid":"11/2145","text":"Naiyana Tansalarak"},{"@pid":"32/2991","text":"Kajal T. Claypool"}]},"title":"QMatch - Using paths to match XML schemas.","venue":"Data Knowl. Eng.","volume":"60","number":"2","pages":"260-282","year":"2007","type":"Journal Articles","key":"journals/dke/TansalarakC07","doi":"10.1016/J.DATAK.2006.03.002","ee":"https://doi.org/10.1016/j.datak.2006.03.002","url":"https://dblp.org/rec/journals/dke/TansalarakC07"},
+"url":"URL#3801917"
+},
+{
+"@score":"1",
+"@id":"3801923",
+"info":{"authors":{"author":[{"@pid":"20/1901","text":"Fangju Wang"},{"@pid":"181/2820","text":"Jing Li"},{"@pid":"36/5636","text":"Hooman Homayounfar"}]},"title":"A space efficient XML DOM parser.","venue":"Data Knowl. Eng.","volume":"60","number":"1","pages":"185-207","year":"2007","type":"Journal Articles","key":"journals/dke/WangLH07","doi":"10.1016/J.DATAK.2006.01.002","ee":"https://doi.org/10.1016/j.datak.2006.01.002","url":"https://dblp.org/rec/journals/dke/WangLH07"},
+"url":"URL#3801923"
+},
+{
+"@score":"1",
+"@id":"3801925",
+"info":{"authors":{"author":[{"@pid":"62/3151-1","text":"Song Wang 0001"},{"@pid":"r/EARundensteiner","text":"Elke A. Rundensteiner"},{"@pid":"m/MuraliMani","text":"Murali Mani"}]},"title":"Optimization of nested XQuery expressions with orderby clauses.","venue":"Data Knowl. Eng.","volume":"60","number":"2","pages":"303-325","year":"2007","type":"Journal Articles","key":"journals/dke/WangRM07","doi":"10.1016/J.DATAK.2006.03.004","ee":"https://doi.org/10.1016/j.datak.2006.03.004","url":"https://dblp.org/rec/journals/dke/WangRM07"},
+"url":"URL#3801925"
+},
+{
+"@score":"1",
+"@id":"3801927",
+"info":{"authors":{"author":{"@pid":"40/4097","text":"J. Gerard Wolff"}},"title":"Towards an intelligent database system founded on the SP theory of computing and cognition.","venue":"Data Knowl. Eng.","volume":"60","number":"3","pages":"596-624","year":"2007","type":"Journal Articles","key":"journals/dke/Wolff07","doi":"10.1016/J.DATAK.2006.04.003","ee":"https://doi.org/10.1016/j.datak.2006.04.003","url":"https://dblp.org/rec/journals/dke/Wolff07"},
+"url":"URL#3801927"
+},
+{
+"@score":"1",
+"@id":"3801928",
+"info":{"authors":{"author":[{"@pid":"76/3976","text":"Dong Xin"},{"@pid":"h/JiaweiHan","text":"Jiawei Han 0001"},{"@pid":"y/XifengYan","text":"Xifeng Yan"},{"@pid":"85/5637-1","text":"Hong Cheng 0001"}]},"title":"On compressing frequent patterns.","venue":"Data Knowl. Eng.","volume":"60","number":"1","pages":"5-29","year":"2007","type":"Journal Articles","key":"journals/dke/XinHYC07","doi":"10.1016/J.DATAK.2006.01.006","ee":"https://doi.org/10.1016/j.datak.2006.01.006","url":"https://dblp.org/rec/journals/dke/XinHYC07"},
+"url":"URL#3801928"
+},
+{
+"@score":"1",
+"@id":"3801935",
+"info":{"authors":{"author":[{"@pid":"z/MohammedJaveedZaki","text":"Mohammed J. Zaki"},{"@pid":"37/188","text":"Markus Peters"},{"@pid":"a/IraAssent","text":"Ira Assent"},{"@pid":"s/ThomasSeidl1","text":"Thomas Seidl 0001"}]},"title":"Clicks - An effective algorithm for mining subspace clusters in categorical datasets.","venue":"Data Knowl. Eng.","volume":"60","number":"1","pages":"51-70","year":"2007","type":"Journal Articles","key":"journals/dke/ZakiPAS07","doi":"10.1016/J.DATAK.2006.01.005","ee":"https://doi.org/10.1016/j.datak.2006.01.005","url":"https://dblp.org/rec/journals/dke/ZakiPAS07"},
+"url":"URL#3801935"
+},
+{
+"@score":"1",
+"@id":"3801936",
+"info":{"authors":{"author":[{"@pid":"72/1833","text":"Huaxin Zhang"},{"@pid":"z/NingZhang0002","text":"Ning Zhang 0002"},{"@pid":"s/KennethSalem","text":"Kenneth Salem"},{"@pid":"25/2214","text":"Donghui Zhuo"}]},"title":"Compact access control labeling for efficient secure XML query evaluation.","venue":"Data Knowl. Eng.","volume":"60","number":"2","pages":"326-344","year":"2007","type":"Journal Articles","key":"journals/dke/ZhangZSZ07","doi":"10.1016/J.DATAK.2006.03.005","ee":"https://doi.org/10.1016/j.datak.2006.03.005","url":"https://dblp.org/rec/journals/dke/ZhangZSZ07"},
+"url":"URL#3801936"
+}
+]
+}
 }
 }

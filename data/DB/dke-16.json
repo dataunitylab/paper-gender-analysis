@@ -1,23 +1,92 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke16\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke16\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.42"
+"text":"105.02"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"10",
+"@dc":"10",
+"@oc":"10",
+"@id":"17615695",
+"text":":facetid:toc:db/journals/dke/dke16.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"10",
+"@computed":"10",
+"@sent":"10",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"5027531",
+"info":{"authors":{"author":[{"@pid":"a/AgnarAamodt","text":"Agnar Aamodt"},{"@pid":"n/MadsNygard","text":"Mads Nygård"}]},"title":"Different Roles and Mutual Dependencies of Data, Information, and Knowledge - An AI Perspective on their Integration.","venue":"Data Knowl. Eng.","volume":"16","number":"3","pages":"191-222","year":"1995","type":"Journal Articles","key":"journals/dke/AamodtN95","doi":"10.1016/0169-023X(95)00017-M","ee":"https://doi.org/10.1016/0169-023X(95)00017-M","url":"https://dblp.org/rec/journals/dke/AamodtN95"},
+"url":"URL#5027531"
+},
+{
+"@score":"1",
+"@id":"5027539",
+"info":{"authors":{"author":{"@pid":"c/SChakravarthy","text":"Sharma Chakravarthy"}},"title":"Architectures and Monitoring Techniques for Active Databases - An Evaluation.","venue":"Data Knowl. Eng.","volume":"16","number":"1","pages":"1-26","year":"1995","type":"Journal Articles","key":"journals/dke/Chakravarthy95","doi":"10.1016/0169-023X(95)00010-P","ee":"https://doi.org/10.1016/0169-023X(95)00010-P","url":"https://dblp.org/rec/journals/dke/Chakravarthy95"},
+"url":"URL#5027539"
+},
+{
+"@score":"1",
+"@id":"5027541",
+"info":{"authors":{"author":{"@pid":"16/55","text":"Oscar Díaz"}},"title":"The Operational Semantics of User-Defined Relationships in Object Oriented Database Systems.","venue":"Data Knowl. Eng.","volume":"16","number":"3","pages":"223-240","year":"1995","type":"Journal Articles","key":"journals/dke/Diaz95","doi":"10.1016/0169-023X(95)00015-K","ee":"https://doi.org/10.1016/0169-023X(95)00015-K","url":"https://dblp.org/rec/journals/dke/Diaz95"},
+"url":"URL#5027541"
+},
+{
+"@score":"1",
+"@id":"5027542",
+"info":{"authors":{"author":{"@pid":"d/JDorn","text":"Jürgen Dorn"}},"title":"Dependable Reactive Event-Oriented Planning.","venue":"Data Knowl. Eng.","volume":"16","number":"1","pages":"27-49","year":"1995","type":"Journal Articles","key":"journals/dke/Dorn95","doi":"10.1016/0169-023X(95)00011-G","ee":"https://doi.org/10.1016/0169-023X(95)00011-G","url":"https://dblp.org/rec/journals/dke/Dorn95"},
+"url":"URL#5027542"
+},
+{
+"@score":"1",
+"@id":"5027543",
+"info":{"authors":{"author":[{"@pid":"60/914","text":"Morten Elvang-Gøransson"},{"@pid":"23/4530","text":"Anthony Hunter"}]},"title":"Argumentative Logics - Reasoning with Classically Inconsistent Information.","venue":"Data Knowl. Eng.","volume":"16","number":"2","pages":"125-145","year":"1995","type":"Journal Articles","key":"journals/dke/Elvang-GoranssonH95","doi":"10.1016/0169-023X(95)00013-I","ee":"https://doi.org/10.1016/0169-023X(95)00013-I","url":"https://dblp.org/rec/journals/dke/Elvang-GoranssonH95"},
+"url":"URL#5027543"
+},
+{
+"@score":"1",
+"@id":"5027551",
+"info":{"authors":{"author":[{"@pid":"k/VijayKumar-2","text":"Vijay Kumar 0002"},{"@pid":"14/5910","text":"Judy Mullins"}]},"title":"An Integrated Data Structure with Multiple Access Paths for Database Systems and its Performance.","venue":"Data Knowl. Eng.","volume":"16","number":"1","pages":"51-72","year":"1995","type":"Journal Articles","key":"journals/dke/KumarM95","doi":"10.1016/0169-023X(95)00009-H","ee":"https://doi.org/10.1016/0169-023X(95)00009-H","url":"https://dblp.org/rec/journals/dke/KumarM95"},
+"url":"URL#5027551"
+},
+{
+"@score":"1",
+"@id":"5027555",
+"info":{"authors":{"author":[{"@pid":"37/5904","text":"Renate Motschnig-Pitrik"},{"@pid":"41/1781","text":"Veda C. Storey"}]},"title":"Modelling of set Membership - The Notion and the Issues.","venue":"Data Knowl. Eng.","volume":"16","number":"2","pages":"147-185","year":"1995","type":"Journal Articles","key":"journals/dke/Motschnig-PitrikS95","doi":"10.1016/0169-023X(95)00014-J","ee":"https://doi.org/10.1016/0169-023X(95)00014-J","url":"https://dblp.org/rec/journals/dke/Motschnig-PitrikS95"},
+"url":"URL#5027555"
+},
+{
+"@score":"1",
+"@id":"5027557",
+"info":{"authors":{"author":[{"@pid":"22/644","text":"M. P. Reddy"},{"@pid":"98/975","text":"Bandreddi E. Prasad"},{"@pid":"39/2682","text":"Amar Gupta"}]},"title":"Formulating Global Integrity Constraints During Derivation of Global Schema.","venue":"Data Knowl. Eng.","volume":"16","number":"3","pages":"241-268","year":"1995","type":"Journal Articles","key":"journals/dke/ReddyPG95","doi":"10.1016/0169-023X(95)00018-N","ee":"https://doi.org/10.1016/0169-023X(95)00018-N","url":"https://dblp.org/rec/journals/dke/ReddyPG95"},
+"url":"URL#5027557"
+},
+{
+"@score":"1",
+"@id":"5027558",
+"info":{"authors":{"author":{"@pid":"02/542","text":"Young U. Ryu"}},"title":"Conditional Deontic Logic Augmented with Defeasible Reasoning.","venue":"Data Knowl. Eng.","volume":"16","number":"1","pages":"73-91","year":"1995","type":"Journal Articles","key":"journals/dke/Ryu95","doi":"10.1016/0169-023X(95)00008-G","ee":"https://doi.org/10.1016/0169-023X(95)00008-G","url":"https://dblp.org/rec/journals/dke/Ryu95"},
+"url":"URL#5027558"
+},
+{
+"@score":"1",
+"@id":"5027561",
+"info":{"authors":{"author":[{"@pid":"41/1781","text":"Veda C. Storey"},{"@pid":"45/7347","text":"Cheryl B. Thompson"},{"@pid":"17/3798","text":"Sudha Ram"}]},"title":"Understanding Database Design Expertise.","venue":"Data Knowl. Eng.","volume":"16","number":"2","pages":"97-124","year":"1995","type":"Journal Articles","key":"journals/dke/StoreyTR95","doi":"10.1016/0169-023X(95)00012-H","ee":"https://doi.org/10.1016/0169-023X(95)00012-H","url":"https://dblp.org/rec/journals/dke/StoreyTR95"},
+"url":"URL#5027561"
+}
+]
+}
 }
 }

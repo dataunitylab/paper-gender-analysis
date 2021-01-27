@@ -1,23 +1,116 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke30\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke30\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.56"
+"text":"144.67"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"14",
+"@dc":"14",
+"@oc":"14",
+"@id":"17615711",
+"text":":facetid:toc:db/journals/dke/dke30.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"14",
+"@computed":"14",
+"@sent":"14",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"4794992",
+"info":{"authors":{"author":[{"@pid":"b/CBeeri","text":"Catriel Beeri"},{"@pid":"47/224","text":"Anna Formica"},{"@pid":"m/MMissikoff","text":"Michele Missikoff"}]},"title":"Inheritance Hierarchy Design in Object-Oriented Databases.","venue":"Data Knowl. Eng.","volume":"30","number":"3","pages":"191-216","year":"1999","type":"Journal Articles","key":"journals/dke/BeeriFM99","doi":"10.1016/S0169-023X(99)00011-7","ee":"https://doi.org/10.1016/S0169-023X(99)00011-7","url":"https://dblp.org/rec/journals/dke/BeeriFM99"},
+"url":"URL#4794992"
+},
+{
+"@score":"1",
+"@id":"4794995",
+"info":{"authors":{"author":[{"@pid":"b/AngeloBrayner","text":"Angelo Brayner"},{"@pid":"h/TheoHarder","text":"Theo Härder"},{"@pid":"r/NRitter","text":"Norbert Ritter"}]},"title":"Semantic Serializability - A Correctness Criterion for Processing Transactions in Advanced.","venue":"Data Knowl. Eng.","volume":"31","number":"1","pages":"1-24","year":"1999","type":"Journal Articles","key":"journals/dke/BraynerHR99","doi":"10.1016/S0169-023X(99)00014-2","ee":"https://doi.org/10.1016/S0169-023X(99)00014-2","url":"https://dblp.org/rec/journals/dke/BraynerHR99"},
+"url":"URL#4794995"
+},
+{
+"@score":"1",
+"@id":"4794998",
+"info":{"authors":{"author":[{"@pid":"72/3887","text":"Jun Cai"},{"@pid":"t/KianLeeTan","text":"Kian-Lee Tan"}]},"title":"Tuning Integrated Dissemination-Based Information Systems.","venue":"Data Knowl. Eng.","volume":"30","number":"1","pages":"1-21","year":"1999","type":"Journal Articles","key":"journals/dke/CaiT99","url":"https://dblp.org/rec/journals/dke/CaiT99"},
+"url":"URL#4794998"
+},
+{
+"@score":"1",
+"@id":"4795001",
+"info":{"authors":{"author":[{"@pid":"82/680","text":"Werner Dubitzky"},{"@pid":"10/5463","text":"Alex G. Büchner"},{"@pid":"h/JohnGHughes","text":"John G. Hughes"},{"@pid":"b/DavidABell","text":"David A. Bell"}]},"title":"Towards Concept-Oriented Databases.","venue":"Data Knowl. Eng.","volume":"30","number":"1","pages":"23-55","year":"1999","type":"Journal Articles","key":"journals/dke/DubitzkyBHB99","doi":"10.1016/S0169-023X(99)00005-1","ee":"https://doi.org/10.1016/S0169-023X(99)00005-1","url":"https://dblp.org/rec/journals/dke/DubitzkyBHB99"},
+"url":"URL#4795001"
+},
+{
+"@score":"1",
+"@id":"4795006",
+"info":{"authors":{"author":[{"@pid":"49/2788","text":"Byoung Mo Im"},{"@pid":"k/Myoung-HoKim","text":"Myoung-Ho Kim"},{"@pid":"26/6191","text":"Jae Soo Yoo"},{"@pid":"26/1941","text":"Kil Seong Choi"}]},"title":"Dynamic Construction of Signature Files Based on Frame Sliced Approach.","venue":"Data Knowl. Eng.","volume":"30","number":"2","pages":"101-120","year":"1999","type":"Journal Articles","key":"journals/dke/ImKYC99","doi":"10.1016/S0169-023X(99)00006-3","ee":"https://doi.org/10.1016/S0169-023X(99)00006-3","url":"https://dblp.org/rec/journals/dke/ImKYC99"},
+"url":"URL#4795006"
+},
+{
+"@score":"1",
+"@id":"4795008",
+"info":{"authors":{"author":{"@pid":"48/5413","text":"C. A. Johnson"}},"title":"On Cyclic Covers and Perfect Models.","venue":"Data Knowl. Eng.","volume":"31","number":"1","pages":"25-65","year":"1999","type":"Journal Articles","key":"journals/dke/Johnson99","doi":"10.1016/S0169-023X(99)00015-4","ee":"https://doi.org/10.1016/S0169-023X(99)00015-4","url":"https://dblp.org/rec/journals/dke/Johnson99"},
+"url":"URL#4795008"
+},
+{
+"@score":"1",
+"@id":"4795010",
+"info":{"authors":{"author":[{"@pid":"25/1274","text":"Yong-Moo Kwon"},{"@pid":"f/ElenaFerrari","text":"Elena Ferrari"},{"@pid":"b/ElisaBertino","text":"Elisa Bertino"}]},"title":"Modeling Spatio-Temporal Constraints for Multimedia Objects.","venue":"Data Knowl. Eng.","volume":"30","number":"3","pages":"217-238","year":"1999","type":"Journal Articles","key":"journals/dke/KwonFB99","doi":"10.1016/S0169-023X(99)00012-9","ee":"https://doi.org/10.1016/S0169-023X(99)00012-9","url":"https://dblp.org/rec/journals/dke/KwonFB99"},
+"url":"URL#4795010"
+},
+{
+"@score":"1",
+"@id":"4795012",
+"info":{"authors":{"author":[{"@pid":"38/5696","text":"Changhwan Lee"},{"@pid":"12/405","text":"Dong-Guk Shin"}]},"title":"A Multistrategy Approach to Classification Learning in Databases.","venue":"Data Knowl. Eng.","volume":"31","number":"1","pages":"67-93","year":"1999","type":"Journal Articles","key":"journals/dke/LeeS99","doi":"10.1016/S0169-023X(99)00018-X","ee":"https://doi.org/10.1016/S0169-023X(99)00018-X","url":"https://dblp.org/rec/journals/dke/LeeS99"},
+"url":"URL#4795012"
+},
+{
+"@score":"1",
+"@id":"4795014",
+"info":{"authors":{"author":[{"@pid":"31/1277","text":"Weifa Liang"},{"@pid":"66/3387-4","text":"Hui Li 0004"},{"@pid":"39/721-10","text":"Hui Wang 0010"},{"@pid":"o/MariaEOrlowska","text":"Maria E. Orlowska"}]},"title":"Making Multiple Views Self-Maintainable in a Data Warehouse.","venue":"Data Knowl. Eng.","volume":"30","number":"2","pages":"121-134","year":"1999","type":"Journal Articles","key":"journals/dke/LiangLWO99","doi":"10.1016/S0169-023X(99)00009-9","ee":"https://doi.org/10.1016/S0169-023X(99)00009-9","url":"https://dblp.org/rec/journals/dke/LiangLWO99"},
+"url":"URL#4795014"
+},
+{
+"@score":"1",
+"@id":"4795018",
+"info":{"authors":{"author":[{"@pid":"p/LuigiPalopoli","text":"Luigi Palopoli"},{"@pid":"s/DomenicoSacca","text":"Domenico Saccà"},{"@pid":"u/DomenicoUrsino","text":"Domenico Ursino"}]},"title":"Semi-Automatic Techniques for Deriving Interscheme Properties from Database Schemes.","venue":"Data Knowl. Eng.","volume":"30","number":"3","pages":"239-273","year":"1999","type":"Journal Articles","key":"journals/dke/PalopoliSU99","doi":"10.1016/S0169-023X(99)00013-0","ee":"https://doi.org/10.1016/S0169-023X(99)00013-0","url":"https://dblp.org/rec/journals/dke/PalopoliSU99"},
+"url":"URL#4795018"
+},
+{
+"@score":"1",
+"@id":"4795020",
+"info":{"authors":{"author":[{"@pid":"14/5381","text":"Iztok Savnik"},{"@pid":"t/ZahirTari","text":"Zahir Tari"},{"@pid":"41/508","text":"Tomaz Mohoric"}]},"title":"QAL - A Query Algebra of Complex Objects.","venue":"Data Knowl. Eng.","volume":"30","number":"1","pages":"57-94","year":"1999","type":"Journal Articles","key":"journals/dke/SavnikTM99","doi":"10.1016/S0169-023X(98)00049-4","ee":"https://doi.org/10.1016/S0169-023X(98)00049-4","url":"https://dblp.org/rec/journals/dke/SavnikTM99"},
+"url":"URL#4795020"
+},
+{
+"@score":"1",
+"@id":"4795022",
+"info":{"authors":{"author":[{"@pid":"52/4164","text":"Ron Seljée"},{"@pid":"06/2427","text":"Harrie C. M. de Swart"}]},"title":"Three Types of Redundancy in Integrity Checking - An Optimal Solution.","venue":"Data Knowl. Eng.","volume":"30","number":"2","pages":"135-151","year":"1999","type":"Journal Articles","key":"journals/dke/SeljeeS99","doi":"10.1016/S0169-023X(99)00007-5","ee":"https://doi.org/10.1016/S0169-023X(99)00007-5","url":"https://dblp.org/rec/journals/dke/SeljeeS99"},
+"url":"URL#4795022"
+},
+{
+"@score":"1",
+"@id":"4795024",
+"info":{"authors":{"author":[{"@pid":"61/4013","text":"Jacek Skowronek"},{"@pid":"32/6205","text":"Henk M. Blanken"},{"@pid":"93/4199","text":"Annita N. Wilschut"}]},"title":"Performance of Distributed Query Optimization in Client/Server Systems.","venue":"Data Knowl. Eng.","volume":"30","number":"2","pages":"153-185","year":"1999","type":"Journal Articles","key":"journals/dke/SkowronekBW99","doi":"10.1016/S0169-023X(99)00008-7","ee":"https://doi.org/10.1016/S0169-023X(99)00008-7","url":"https://dblp.org/rec/journals/dke/SkowronekBW99"},
+"url":"URL#4795024"
+},
+{
+"@score":"1",
+"@id":"4795029",
+"info":{"authors":{"author":[{"@pid":"14/4370","text":"Adnan Yazici"},{"@pid":"74/644","text":"Alper Soysal"},{"@pid":"b/BillPBuckles","text":"Bill P. Buckles"},{"@pid":"23/3793","text":"Frederick E. Petry"}]},"title":"Uncertainty in a Nested Relational Database Model.","venue":"Data Knowl. Eng.","volume":"30","number":"3","pages":"275-301","year":"1999","type":"Journal Articles","key":"journals/dke/YaziciSBP99","doi":"10.1016/S0169-023X(99)00010-5","ee":"https://doi.org/10.1016/S0169-023X(99)00010-5","url":"https://dblp.org/rec/journals/dke/YaziciSBP99"},
+"url":"URL#4795029"
+}
+]
+}
 }
 }

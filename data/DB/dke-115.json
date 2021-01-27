@@ -1,23 +1,110 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke115\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke115\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.29"
+"text":"126.12"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"13",
+"@dc":"13",
+"@oc":"13",
+"@id":"17615675",
+"text":":facetid:toc:db/journals/dke/dke115.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"13",
+"@computed":"13",
+"@sent":"13",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"821334",
+"info":{"authors":{"author":[{"@pid":"200/8881","text":"Murtadha Talib AL-Sharuee"},{"@pid":"64/1350-3","text":"Fei Liu 0003"},{"@pid":"55/9613","text":"Mahardhika Pratama"}]},"title":"Sentiment analysis - An automatic contextual analysis and ensemble clustering approach and comparison.","venue":"Data Knowl. Eng.","volume":"115","pages":"194-213","year":"2018","type":"Journal Articles","key":"journals/dke/AL-SharueeLP18","doi":"10.1016/J.DATAK.2018.04.001","ee":"https://doi.org/10.1016/j.datak.2018.04.001","url":"https://dblp.org/rec/journals/dke/AL-SharueeLP18"},
+"url":"URL#821334"
+},
+{
+"@score":"1",
+"@id":"821342",
+"info":{"authors":{"author":[{"@pid":"31/3931","text":"Alexandru Boicea"},{"@pid":"174/6740","text":"Ciprian-Octavian Truica"},{"@pid":"122/8669","text":"Florin Radulescu"},{"@pid":"221/9572","text":"Elena-Cristina Buse"}]},"title":"Sampling strategies for extracting information from large data sets.","venue":"Data Knowl. Eng.","volume":"115","pages":"1-15","year":"2018","type":"Journal Articles","key":"journals/dke/BoiceaTRB18","doi":"10.1016/J.DATAK.2018.01.002","ee":"https://doi.org/10.1016/j.datak.2018.01.002","url":"https://dblp.org/rec/journals/dke/BoiceaTRB18"},
+"url":"URL#821342"
+},
+{
+"@score":"1",
+"@id":"821345",
+"info":{"authors":{"author":[{"@pid":"221/9557","text":"Charalampos C. Charalampidis"},{"@pid":"57/2629","text":"Euclid Keramopoulos"}]},"title":"Semantic Web user interfaces - A model and a review.","venue":"Data Knowl. Eng.","volume":"115","pages":"214-227","year":"2018","type":"Journal Articles","key":"journals/dke/CharalampidisK18","doi":"10.1016/J.DATAK.2018.04.003","ee":"https://doi.org/10.1016/j.datak.2018.04.003","url":"https://dblp.org/rec/journals/dke/CharalampidisK18"},
+"url":"URL#821345"
+},
+{
+"@score":"1",
+"@id":"821348",
+"info":{"authors":{"author":[{"@pid":"c/CarloCombi","text":"Carlo Combi"},{"@pid":"51/1554","text":"Andrea Masini"},{"@pid":"40/2273","text":"Barbara Oliboni"},{"@pid":"12/4177","text":"Margherita Zorzi"}]},"title":"A hybrid logic for XML reference constraints.","venue":"Data Knowl. Eng.","volume":"115","pages":"94-115","year":"2018","type":"Journal Articles","key":"journals/dke/CombiMOZ18","doi":"10.1016/J.DATAK.2018.02.005","ee":"https://doi.org/10.1016/j.datak.2018.02.005","url":"https://dblp.org/rec/journals/dke/CombiMOZ18"},
+"url":"URL#821348"
+},
+{
+"@score":"1",
+"@id":"821351",
+"info":{"authors":{"author":[{"@pid":"151/1281","text":"Héctor Yago Corral"},{"@pid":"01/2481","text":"Julia Clemente"},{"@pid":"97/3121","text":"Daniel Rodríguez"},{"@pid":"55/3652","text":"Pedro Fernández de Córdoba"}]},"title":"ON-SMMILE - Ontology Network-based Student Model for MultIple Learning Environments.","venue":"Data Knowl. Eng.","volume":"115","pages":"48-67","year":"2018","type":"Journal Articles","key":"journals/dke/CorralCRC18","doi":"10.1016/J.DATAK.2018.02.002","ee":"https://doi.org/10.1016/j.datak.2018.02.002","url":"https://dblp.org/rec/journals/dke/CorralCRC18"},
+"url":"URL#821351"
+},
+{
+"@score":"1",
+"@id":"821357",
+"info":{"authors":{"author":[{"@pid":"46/9383","text":"Andre Salvaro Furtado"},{"@pid":"75/2582","text":"Laércio Lima Pilla"},{"@pid":"16/2965","text":"Vania Bogorny"}]},"title":"A branch and bound strategy for Fast Trajectory Similarity Measuring.","venue":"Data Knowl. Eng.","volume":"115","pages":"16-31","year":"2018","type":"Journal Articles","key":"journals/dke/FurtadoPB18","doi":"10.1016/J.DATAK.2018.01.003","ee":"https://doi.org/10.1016/j.datak.2018.01.003","url":"https://dblp.org/rec/journals/dke/FurtadoPB18"},
+"url":"URL#821357"
+},
+{
+"@score":"1",
+"@id":"821359",
+"info":{"authors":{"author":{"@pid":"166/7105","text":"Hêris Golpîra"}},"title":"A novel Multiple Attribute Decision Making approach based on interval data using U2P-Miner algorithm.","venue":"Data Knowl. Eng.","volume":"115","pages":"116-128","year":"2018","type":"Journal Articles","key":"journals/dke/Golpira18","doi":"10.1016/J.DATAK.2018.03.001","ee":"https://doi.org/10.1016/j.datak.2018.03.001","url":"https://dblp.org/rec/journals/dke/Golpira18"},
+"url":"URL#821359"
+},
+{
+"@score":"1",
+"@id":"821367",
+"info":{"authors":{"author":[{"@pid":"46/3161","text":"Tomás Kliegr"},{"@pid":"s/OndrejSvab","text":"Ondrej Zamazal"}]},"title":"Antonyms are similar - Towards paradigmatic association approach to rating similarity in SimLex-999 and WordSim-353.","venue":"Data Knowl. Eng.","volume":"115","pages":"174-193","year":"2018","type":"Journal Articles","key":"journals/dke/KliegrZ18","doi":"10.1016/J.DATAK.2018.03.004","ee":"https://doi.org/10.1016/j.datak.2018.03.004","url":"https://dblp.org/rec/journals/dke/KliegrZ18"},
+"url":"URL#821367"
+},
+{
+"@score":"1",
+"@id":"821373",
+"info":{"authors":{"author":[{"@pid":"95/3736-32","text":"Jun Liu 0032"},{"@pid":"17/3798","text":"Sudha Ram"}]},"title":"Using big data and network analysis to understand Wikipedia article quality.","venue":"Data Knowl. Eng.","volume":"115","pages":"80-93","year":"2018","type":"Journal Articles","key":"journals/dke/LiuR18","doi":"10.1016/J.DATAK.2018.02.004","ee":"https://doi.org/10.1016/j.datak.2018.02.004","url":"https://dblp.org/rec/journals/dke/LiuR18"},
+"url":"URL#821373"
+},
+{
+"@score":"1",
+"@id":"821377",
+"info":{"authors":{"author":[{"@pid":"157/0431","text":"Vinícius Maran"},{"@pid":"117/6139","text":"Alencar Machado"},{"@pid":"151/0952","text":"Guilherme Medeiros Machado"},{"@pid":"64/3911","text":"Iara Augustin"},{"@pid":"o/JosePalazzoMoreiradeOliveira","text":"José Palazzo M. de Oliveira"}]},"title":"Domain content querying using ontology-based context-awareness in information systems.","venue":"Data Knowl. Eng.","volume":"115","pages":"152-173","year":"2018","type":"Journal Articles","key":"journals/dke/MaranMMAO18","doi":"10.1016/J.DATAK.2018.03.003","ee":"https://doi.org/10.1016/j.datak.2018.03.003","url":"https://dblp.org/rec/journals/dke/MaranMMAO18"},
+"url":"URL#821377"
+},
+{
+"@score":"1",
+"@id":"821379",
+"info":{"authors":{"author":[{"@pid":"181/5222","text":"Melinda McDaniel"},{"@pid":"41/1781","text":"Veda C. Storey"},{"@pid":"66/6868","text":"Vijayan Sugumaran"}]},"title":"Assessing the quality of domain ontologies - Metrics and an automated ranking system.","venue":"Data Knowl. Eng.","volume":"115","pages":"32-47","year":"2018","type":"Journal Articles","key":"journals/dke/McDanielSS18","doi":"10.1016/J.DATAK.2018.02.001","ee":"https://doi.org/10.1016/j.datak.2018.02.001","url":"https://dblp.org/rec/journals/dke/McDanielSS18"},
+"url":"URL#821379"
+},
+{
+"@score":"1",
+"@id":"821383",
+"info":{"authors":{"author":[{"@pid":"10/1557-1","text":"Giang Nguyen 0001"},{"@pid":"38/10224","text":"Binh Minh Nguyen"},{"@pid":"143/7911","text":"Dang Tran"},{"@pid":"38/1317","text":"Ladislav Hluchý"}]},"title":"A heuristics approach to mine behavioural data logs in mobile malware detection system.","venue":"Data Knowl. Eng.","volume":"115","pages":"129-151","year":"2018","type":"Journal Articles","key":"journals/dke/NguyenNTH18","doi":"10.1016/J.DATAK.2018.03.002","ee":"https://doi.org/10.1016/j.datak.2018.03.002","url":"https://dblp.org/rec/journals/dke/NguyenNTH18"},
+"url":"URL#821383"
+},
+{
+"@score":"1",
+"@id":"821398",
+"info":{"authors":{"author":[{"@pid":"s/IlYeolSong","text":"Il-Yeol Song"},{"@pid":"99/5721-1","text":"Min Song 0001"},{"@pid":"207/8930","text":"Tatsawan Timakum"},{"@pid":"221/9651","text":"Su-Ryeon Ryu"},{"@pid":"36/11445","text":"Hanju Lee"}]},"title":"The landscape of smart aging - Topics, applications, and agenda.","venue":"Data Knowl. Eng.","volume":"115","pages":"68-79","year":"2018","type":"Journal Articles","key":"journals/dke/SongSTRL18","doi":"10.1016/J.DATAK.2018.02.003","ee":"https://doi.org/10.1016/j.datak.2018.02.003","url":"https://dblp.org/rec/journals/dke/SongSTRL18"},
+"url":"URL#821398"
+}
+]
+}
 }
 }

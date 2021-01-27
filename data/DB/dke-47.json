@@ -1,23 +1,116 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke47\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke47\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.29"
+"text":"112.38"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"14",
+"@dc":"14",
+"@oc":"14",
+"@id":"17615729",
+"text":":facetid:toc:db/journals/dke/dke47.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"14",
+"@computed":"14",
+"@sent":"14",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"4437472",
+"info":{"authors":{"author":[{"@pid":"a/WilMPvanderAalst","text":"Wil M. P. van der Aalst"},{"@pid":"68/5409","text":"Boudewijn F. van Dongen"},{"@pid":"72/2797","text":"Joachim Herbst"},{"@pid":"54/1924","text":"Laura Maruster"},{"@pid":"01/4783","text":"Guido Schimm"},{"@pid":"w/AJMMWeijters","text":"A. J. M. M. Weijters"}]},"title":"Workflow mining - A survey of issues and approaches.","venue":"Data Knowl. Eng.","volume":"47","number":"2","pages":"237-267","year":"2003","type":"Journal Articles","key":"journals/dke/AalstDHMSW03","doi":"10.1016/S0169-023X(03)00066-1","ee":"https://doi.org/10.1016/S0169-023X(03)00066-1","url":"https://dblp.org/rec/journals/dke/AalstDHMSW03"},
+"url":"URL#4437472"
+},
+{
+"@score":"1",
+"@id":"4437473",
+"info":{"authors":{"author":[{"@pid":"a/MAAli","text":"Muhammad Akhtar Ali"},{"@pid":"f/AAAFernandes","text":"Alvaro A. A. Fernandes"},{"@pid":"p/NWPaton","text":"Norman W. Paton"}]},"title":"MOVIE - An incremental maintenance system for materialized object views.","venue":"Data Knowl. Eng.","volume":"47","number":"2","pages":"131-166","year":"2003","type":"Journal Articles","key":"journals/dke/AliFP03","doi":"10.1016/S0169-023X(03)00048-X","ee":"https://doi.org/10.1016/S0169-023X(03)00048-X","url":"https://dblp.org/rec/journals/dke/AliFP03"},
+"url":"URL#4437473"
+},
+{
+"@score":"1",
+"@id":"4437489",
+"info":{"authors":{"author":{"@pid":"d/JLGDietz","text":"Jan L. G. Dietz"}},"title":"The atoms, molecules and fibers of organizations.","venue":"Data Knowl. Eng.","volume":"47","number":"3","pages":"301-325","year":"2003","type":"Journal Articles","key":"journals/dke/Dietz03","doi":"10.1016/S0169-023X(03)00062-4","ee":"https://doi.org/10.1016/S0169-023X(03)00062-4","url":"https://dblp.org/rec/journals/dke/Dietz03"},
+"url":"URL#4437489"
+},
+{
+"@score":"1",
+"@id":"4437490",
+"info":{"authors":{"author":[{"@pid":"18/2744","text":"Zinovy Diskin"},{"@pid":"08/1862","text":"Boris Kadish"}]},"title":"Variable set semantics for keyed generalized sketches - formal semantics for object identity and abstract syntax for conceptual modeling.","venue":"Data Knowl. Eng.","volume":"47","number":"1","pages":"1-59","year":"2003","type":"Journal Articles","key":"journals/dke/DiskinK03","doi":"10.1016/S0169-023X(03)00047-8","ee":"https://doi.org/10.1016/S0169-023X(03)00047-8","url":"https://dblp.org/rec/journals/dke/DiskinK03"},
+"url":"URL#4437490"
+},
+{
+"@score":"1",
+"@id":"4437491",
+"info":{"authors":{"author":[{"@pid":"81/3536","text":"James Dullea"},{"@pid":"s/IlYeolSong","text":"Il-Yeol Song"},{"@pid":"94/5009","text":"Ioanna Lamprou"}]},"title":"An analysis of structural validity in entity-relationship modeling.","venue":"Data Knowl. Eng.","volume":"47","number":"2","pages":"167-205","year":"2003","type":"Journal Articles","key":"journals/dke/DulleaSL03","doi":"10.1016/S0169-023X(03)00049-1","ee":"https://doi.org/10.1016/S0169-023X(03)00049-1","url":"https://dblp.org/rec/journals/dke/DulleaSL03"},
+"url":"URL#4437491"
+},
+{
+"@score":"1",
+"@id":"4437495",
+"info":{"authors":{"author":[{"@pid":"f/DanieleFrigioni","text":"Daniele Frigioni"},{"@pid":"t/LTarantino","text":"Laura Tarantino"}]},"title":"Multiple zooming in geographic maps.","venue":"Data Knowl. Eng.","volume":"47","number":"2","pages":"207-236","year":"2003","type":"Journal Articles","key":"journals/dke/FrigioniT03","doi":"10.1016/S0169-023X(03)00060-0","ee":"https://doi.org/10.1016/S0169-023X(03)00060-0","url":"https://dblp.org/rec/journals/dke/FrigioniT03"},
+"url":"URL#4437495"
+},
+{
+"@score":"1",
+"@id":"4437508",
+"info":{"authors":{"author":[{"@pid":"60/5978","text":"Wen-Syan Li"},{"@pid":"35/2314","text":"Oliver Po"},{"@pid":"37/236","text":"Wang-Pin Hsiung"},{"@pid":"c/KSelcukCandan","text":"K. Selçuk Candan"},{"@pid":"a/DivyakantAgrawal","text":"Divyakant Agrawal"}]},"title":"Freshness-driven adaptive caching for dynamic content Web sites.","venue":"Data Knowl. Eng.","volume":"47","number":"2","pages":"269-296","year":"2003","type":"Journal Articles","key":"journals/dke/LiPHCA03","doi":"10.1016/S0169-023X(03)00093-4","ee":"https://doi.org/10.1016/S0169-023X(03)00093-4","url":"https://dblp.org/rec/journals/dke/LiPHCA03"},
+"url":"URL#4437508"
+},
+{
+"@score":"1",
+"@id":"4437509",
+"info":{"authors":{"author":[{"@pid":"60/5978","text":"Wen-Syan Li"},{"@pid":"35/2314","text":"Oliver Po"},{"@pid":"37/236","text":"Wang-Pin Hsiung"},{"@pid":"c/KSelcukCandan","text":"K. Selçuk Candan"},{"@pid":"a/DivyakantAgrawal","text":"Divyakant Agrawal"}]},"title":"Corrigendum to - &quot;Freshness-driven adaptive caching for dynamic content web sites&quot; [Data &amp; Knowledge Engineering 47 (2) (2003) 269-296].","venue":"Data Knowl. Eng.","volume":"47","number":"2","pages":"297","year":"2003","type":"Journal Articles","key":"journals/dke/LiPHCA03a","doi":"10.1016/S0169-023X(03)00110-1","ee":"https://doi.org/10.1016/S0169-023X(03)00110-1","url":"https://dblp.org/rec/journals/dke/LiPHCA03a"},
+"url":"URL#4437509"
+},
+{
+"@score":"1",
+"@id":"4437510",
+"info":{"authors":{"author":[{"@pid":"65/4857","text":"Mikael Lind"},{"@pid":"96/4419","text":"Göran Goldkuhl"}]},"title":"The constituents of business interaction - generic layered patterns.","venue":"Data Knowl. Eng.","volume":"47","number":"3","pages":"327-348","year":"2003","type":"Journal Articles","key":"journals/dke/LindG03","doi":"10.1016/S0169-023X(03)00063-6","ee":"https://doi.org/10.1016/S0169-023X(03)00063-6","url":"https://dblp.org/rec/journals/dke/LindG03"},
+"url":"URL#4437510"
+},
+{
+"@score":"1",
+"@id":"4437512",
+"info":{"authors":{"author":[{"@pid":"59/914","text":"Enric Mayol"},{"@pid":"t/ErnestTeniente","text":"Ernest Teniente"}]},"title":"Consistency preserving updates in deductive databases.","venue":"Data Knowl. Eng.","volume":"47","number":"1","pages":"61-103","year":"2003","type":"Journal Articles","key":"journals/dke/MayolT03","doi":"10.1016/S0169-023X(03)00061-2","ee":"https://doi.org/10.1016/S0169-023X(03)00061-2","url":"https://dblp.org/rec/journals/dke/MayolT03"},
+"url":"URL#4437512"
+},
+{
+"@score":"1",
+"@id":"4437516",
+"info":{"authors":{"author":[{"@pid":"04/3746","text":"Martin Peim"},{"@pid":"f/EnricoFranconi","text":"Enrico Franconi"},{"@pid":"p/NWPaton","text":"Norman W. Paton"}]},"title":"Estimating the quality of answers when querying over description logic ontologies.","venue":"Data Knowl. Eng.","volume":"47","number":"1","pages":"105-129","year":"2003","type":"Journal Articles","key":"journals/dke/PeimFP03","doi":"10.1016/S0169-023X(03)00067-3","ee":"https://doi.org/10.1016/S0169-023X(03)00067-3","url":"https://dblp.org/rec/journals/dke/PeimFP03"},
+"url":"URL#4437516"
+},
+{
+"@score":"1",
+"@id":"4437520",
+"info":{"authors":{"author":[{"@pid":"39/3862","text":"Mareike Schoop"},{"@pid":"78/6609","text":"Aida Jertila"},{"@pid":"86/3911","text":"Thomas List"}]},"title":"Negoisst - a negotiation support system for electronic business-to-business negotiations in e-commerce.","venue":"Data Knowl. Eng.","volume":"47","number":"3","pages":"371-401","year":"2003","type":"Journal Articles","key":"journals/dke/SchoopJL03","doi":"10.1016/S0169-023X(03)00065-X","ee":"https://doi.org/10.1016/S0169-023X(03)00065-X","url":"https://dblp.org/rec/journals/dke/SchoopJL03"},
+"url":"URL#4437520"
+},
+{
+"@score":"1",
+"@id":"4437524",
+"info":{"authors":{"author":{"@pid":"70/260","text":"Hans Weigand"}},"title":"The language/action perspective.","venue":"Data Knowl. Eng.","volume":"47","number":"3","pages":"299-300","year":"2003","type":"Journal Articles","key":"journals/dke/Weigand03","doi":"10.1016/J.DATAK.2003.09.001","ee":"https://doi.org/10.1016/j.datak.2003.09.001","url":"https://dblp.org/rec/journals/dke/Weigand03"},
+"url":"URL#4437524"
+},
+{
+"@score":"1",
+"@id":"4437525",
+"info":{"authors":{"author":[{"@pid":"70/260","text":"Hans Weigand"},{"@pid":"25/5592","text":"Aldo de Moor"}]},"title":"Workflow analysis with communication norms.","venue":"Data Knowl. Eng.","volume":"47","number":"3","pages":"349-369","year":"2003","type":"Journal Articles","key":"journals/dke/WeigandM03","doi":"10.1016/S0169-023X(03)00064-8","ee":"https://doi.org/10.1016/S0169-023X(03)00064-8","url":"https://dblp.org/rec/journals/dke/WeigandM03"},
+"url":"URL#4437525"
+}
+]
+}
 }
 }

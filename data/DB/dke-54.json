@@ -1,23 +1,128 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke54\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke54\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.46"
+"text":"137.53"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"16",
+"@dc":"16",
+"@oc":"16",
+"@id":"17615737",
+"text":":facetid:toc:db/journals/dke/dke54.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"16",
+"@computed":"16",
+"@sent":"16",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"4155707",
+"info":{"authors":{"author":[{"@pid":"70/6878","text":"Giordano Adami"},{"@pid":"57/831","text":"Paolo Avesani"},{"@pid":"65/2822","text":"Diego Sona"}]},"title":"Clustering documents into a web directory for bootstrapping a supervised classification.","venue":"Data Knowl. Eng.","volume":"54","number":"3","pages":"301-325","year":"2005","type":"Journal Articles","key":"journals/dke/AdamiAS05","doi":"10.1016/J.DATAK.2004.11.003","ee":"https://doi.org/10.1016/j.datak.2004.11.003","url":"https://dblp.org/rec/journals/dke/AdamiAS05"},
+"url":"URL#4155707"
+},
+{
+"@score":"1",
+"@id":"4155713",
+"info":{"authors":{"author":[{"@pid":"b/SBressan","text":"Stéphane Bressan"},{"@pid":"c/BarbaraCatania","text":"Barbara Catania"},{"@pid":"l/ZLacroix","text":"Zoé Lacroix"},{"@pid":"26/1688","text":"Ying Guang Li"},{"@pid":"08/103","text":"Anna Maddalena"}]},"title":"Accelerating queries by pruning XML documents.","venue":"Data Knowl. Eng.","volume":"54","number":"2","pages":"211-240","year":"2005","type":"Journal Articles","key":"journals/dke/BressanCLLM05","doi":"10.1016/J.DATAK.2004.12.003","ee":"https://doi.org/10.1016/j.datak.2004.12.003","url":"https://dblp.org/rec/journals/dke/BressanCLLM05"},
+"url":"URL#4155713"
+},
+{
+"@score":"1",
+"@id":"4155715",
+"info":{"authors":{"author":[{"@pid":"b/EmmaByrne","text":"Emma Byrne"},{"@pid":"23/4530","text":"Anthony Hunter"}]},"title":"Evaluating violations of expectations to find exceptional information.","venue":"Data Knowl. Eng.","volume":"54","number":"2","pages":"97-120","year":"2005","type":"Journal Articles","key":"journals/dke/ByrneH05","doi":"10.1016/J.DATAK.2004.09.003","ee":"https://doi.org/10.1016/j.datak.2004.09.003","url":"https://dblp.org/rec/journals/dke/ByrneH05"},
+"url":"URL#4155715"
+},
+{
+"@score":"1",
+"@id":"4155719",
+"info":{"authors":{"author":[{"@pid":"78/4406","text":"Roger H. L. Chiang"},{"@pid":"l/AHFLaender","text":"Alberto H. F. Laender"},{"@pid":"l/EePengLim","text":"Ee-Peng Lim"}]},"title":"Fifth ACM International Workshop on Web Information and Data Management (WIDM 2003).","venue":"Data Knowl. Eng.","volume":"54","number":"3","pages":"277-278","year":"2005","type":"Journal Articles","key":"journals/dke/ChiangLL05","doi":"10.1016/J.DATAK.2004.11.005","ee":"https://doi.org/10.1016/j.datak.2004.11.005","url":"https://dblp.org/rec/journals/dke/ChiangLL05"},
+"url":"URL#4155719"
+},
+{
+"@score":"1",
+"@id":"4155721",
+"info":{"authors":{"author":[{"@pid":"26/1870","text":"Valter Crescenzi"},{"@pid":"m/PaoloMerialdo","text":"Paolo Merialdo"},{"@pid":"28/1062","text":"Paolo Missier"}]},"title":"Clustering Web pages based on their structure.","venue":"Data Knowl. Eng.","volume":"54","number":"3","pages":"279-299","year":"2005","type":"Journal Articles","key":"journals/dke/CrescenziMM05","doi":"10.1016/J.DATAK.2004.11.004","ee":"https://doi.org/10.1016/j.datak.2004.11.004","url":"https://dblp.org/rec/journals/dke/CrescenziMM05"},
+"url":"URL#4155721"
+},
+{
+"@score":"1",
+"@id":"4155726",
+"info":{"authors":{"author":[{"@pid":"36/2755","text":"Maged El-Sayed"},{"@pid":"19/2254","text":"Katica Dimitrova"},{"@pid":"r/EARundensteiner","text":"Elke A. Rundensteiner"}]},"title":"Efficiently supporting order in XML query processing.","venue":"Data Knowl. Eng.","volume":"54","number":"3","pages":"355-390","year":"2005","type":"Journal Articles","key":"journals/dke/El-SayedDR05","doi":"10.1016/J.DATAK.2004.11.001","ee":"https://doi.org/10.1016/j.datak.2004.11.001","url":"https://dblp.org/rec/journals/dke/El-SayedDR05"},
+"url":"URL#4155726"
+},
+{
+"@score":"1",
+"@id":"4155727",
+"info":{"authors":{"author":[{"@pid":"e/RamezElmasri","text":"Ramez Elmasri"},{"@pid":"181/2689","text":"Qing Li"},{"@pid":"52/2731","text":"Jack Fu"},{"@pid":"18/2419","text":"Yu-Chi Wu"},{"@pid":"89/6536","text":"Babak Hojabri"},{"@pid":"30/1121","text":"Swathi Ande"}]},"title":"Conceptual modeling for customized XML schemas.","venue":"Data Knowl. Eng.","volume":"54","number":"1","pages":"57-76","year":"2005","type":"Journal Articles","key":"journals/dke/ElmasriLFWHA05","doi":"10.1016/J.DATAK.2004.10.003","ee":"https://doi.org/10.1016/j.datak.2004.10.003","url":"https://dblp.org/rec/journals/dke/ElmasriLFWHA05"},
+"url":"URL#4155727"
+},
+{
+"@score":"1",
+"@id":"4155728",
+"info":{"authors":{"author":[{"@pid":"e/DWEmbley","text":"David W. Embley"},{"@pid":"03/4748","text":"Cui Tao"},{"@pid":"l/StephenWLiddle","text":"Stephen W. Liddle"}]},"title":"Automating the extraction of data from HTML tables with unknown structure.","venue":"Data Knowl. Eng.","volume":"54","number":"1","pages":"3-28","year":"2005","type":"Journal Articles","key":"journals/dke/EmbleyTL05","doi":"10.1016/J.DATAK.2004.10.004","ee":"https://doi.org/10.1016/j.datak.2004.10.004","url":"https://dblp.org/rec/journals/dke/EmbleyTL05"},
+"url":"URL#4155728"
+},
+{
+"@score":"1",
+"@id":"4155736",
+"info":{"authors":{"author":[{"@pid":"268/3862-1","text":"Fabio Grandi 0001"},{"@pid":"19/4797","text":"Federica Mandreoli"},{"@pid":"t/PaoloTiberio","text":"Paolo Tiberio"}]},"title":"Temporal modelling and management of normative documents in XML format.","venue":"Data Knowl. Eng.","volume":"54","number":"3","pages":"327-354","year":"2005","type":"Journal Articles","key":"journals/dke/GrandiMT05","doi":"10.1016/J.DATAK.2004.11.002","ee":"https://doi.org/10.1016/j.datak.2004.11.002","url":"https://dblp.org/rec/journals/dke/GrandiMT05"},
+"url":"URL#4155736"
+},
+{
+"@score":"1",
+"@id":"4155738",
+"info":{"authors":{"author":[{"@pid":"60/4216","text":"Bowen Hui"},{"@pid":"33/5374","text":"Eric S. K. Yu"}]},"title":"Extracting conceptual relationships from specialized documents.","venue":"Data Knowl. Eng.","volume":"54","number":"1","pages":"29-55","year":"2005","type":"Journal Articles","key":"journals/dke/HuiY05","doi":"10.1016/J.DATAK.2004.10.001","ee":"https://doi.org/10.1016/j.datak.2004.10.001","url":"https://dblp.org/rec/journals/dke/HuiY05"},
+"url":"URL#4155738"
+},
+{
+"@score":"1",
+"@id":"4155743",
+"info":{"authors":{"author":[{"@pid":"78/2885","text":"Vladimir Kovalev"},{"@pid":"b/SSBhowmick","text":"Sourav S. Bhowmick"},{"@pid":"m/SanjayKumarMadria","text":"Sanjay Kumar Madria"}]},"title":"HW-STALKER - A machine learning-based system for transforming QURE-Pagelets to XML.","venue":"Data Knowl. Eng.","volume":"54","number":"2","pages":"241-276","year":"2005","type":"Journal Articles","key":"journals/dke/KovalevBM05","doi":"10.1016/J.DATAK.2005.01.001","ee":"https://doi.org/10.1016/j.datak.2005.01.001","url":"https://dblp.org/rec/journals/dke/KovalevBM05"},
+"url":"URL#4155743"
+},
+{
+"@score":"1",
+"@id":"4155747",
+"info":{"authors":{"author":[{"@pid":"m/STMarch","text":"Salvatore T. March"},{"@pid":"s/StefanoSpaccapietra","text":"Stefano Spaccapietra"}]},"title":"ER 2002.","venue":"Data Knowl. Eng.","volume":"54","number":"1","pages":"1-2","year":"2005","type":"Journal Articles","key":"journals/dke/MarchS05","doi":"10.1016/J.DATAK.2004.10.005","ee":"https://doi.org/10.1016/j.datak.2004.10.005","url":"https://dblp.org/rec/journals/dke/MarchS05"},
+"url":"URL#4155747"
+},
+{
+"@score":"1",
+"@id":"4155748",
+"info":{"authors":{"author":[{"@pid":"m/SallyIMcClean","text":"Sally I. McClean"},{"@pid":"42/250","text":"Bryan W. Scotney"},{"@pid":"21/3828","text":"Philip J. Morrow"},{"@pid":"98/194","text":"Kieran Greer"}]},"title":"Knowledge discovery by probabilistic clustering of distributed databases.","venue":"Data Knowl. Eng.","volume":"54","number":"2","pages":"189-210","year":"2005","type":"Journal Articles","key":"journals/dke/McCleanSMG05","doi":"10.1016/J.DATAK.2004.12.001","ee":"https://doi.org/10.1016/j.datak.2004.12.001","url":"https://dblp.org/rec/journals/dke/McCleanSMG05"},
+"url":"URL#4155748"
+},
+{
+"@score":"1",
+"@id":"4155757",
+"info":{"authors":{"author":[{"@pid":"s/KlausDieterSchewe","text":"Klaus-Dieter Schewe"},{"@pid":"t/BernhardThalheim","text":"Bernhard Thalheim"}]},"title":"Conceptual modelling of web information systems.","venue":"Data Knowl. Eng.","volume":"54","number":"2","pages":"147-188","year":"2005","type":"Journal Articles","key":"journals/dke/ScheweT05","doi":"10.1016/J.DATAK.2004.08.005","ee":"https://doi.org/10.1016/j.datak.2004.08.005","url":"https://dblp.org/rec/journals/dke/ScheweT05"},
+"url":"URL#4155757"
+},
+{
+"@score":"1",
+"@id":"4155762",
+"info":{"authors":{"author":{"@pid":"t/BernhardThalheim","text":"Bernhard Thalheim"}},"title":"Component development and construction for database design.","venue":"Data Knowl. Eng.","volume":"54","number":"1","pages":"77-95","year":"2005","type":"Journal Articles","key":"journals/dke/Thalheim05","doi":"10.1016/J.DATAK.2004.10.002","ee":"https://doi.org/10.1016/j.datak.2004.10.002","url":"https://dblp.org/rec/journals/dke/Thalheim05"},
+"url":"URL#4155762"
+},
+{
+"@score":"1",
+"@id":"4155765",
+"info":{"authors":{"author":[{"@pid":"36/3174","text":"Gökhan Yavas"},{"@pid":"k/DimitriosKatsaros","text":"Dimitrios Katsaros 0001"},{"@pid":"u/OzgurUlusoy","text":"Özgür Ulusoy"},{"@pid":"m/YManolopoulos","text":"Yannis Manolopoulos"}]},"title":"A data mining approach for location prediction in mobile environments.","venue":"Data Knowl. Eng.","volume":"54","number":"2","pages":"121-146","year":"2005","type":"Journal Articles","key":"journals/dke/YavasKUM05","doi":"10.1016/J.DATAK.2004.09.004","ee":"https://doi.org/10.1016/j.datak.2004.09.004","url":"https://dblp.org/rec/journals/dke/YavasKUM05"},
+"url":"URL#4155765"
+}
+]
+}
 }
 }

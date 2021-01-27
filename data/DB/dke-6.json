@@ -1,23 +1,182 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke6\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke6\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.55"
+"text":"144.02"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"25",
+"@dc":"25",
+"@oc":"25",
+"@id":"17615743",
+"text":":facetid:toc:db/journals/dke/dke6.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"25",
+"@computed":"25",
+"@sent":"25",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"5188704",
+"info":{"authors":{"author":[{"@pid":"a/AmrElAbbadi","text":"Amr El Abbadi"},{"@pid":"03/3938","text":"Sanjay N. Dani"}]},"title":"A Dynamic Accessibility Protocol for Replicated databases.","venue":"Data Knowl. Eng.","volume":"6","pages":"319-332","year":"1991","type":"Journal Articles","key":"journals/dke/AbbadiD91","doi":"10.1016/0169-023X(91)90037-X","ee":"https://doi.org/10.1016/0169-023X(91)90037-X","url":"https://dblp.org/rec/journals/dke/AbbadiD91"},
+"url":"URL#5188704"
+},
+{
+"@score":"1",
+"@id":"5188705",
+"info":{"authors":{"author":{"@pid":"93/2221","text":"Gad Ariav"}},"title":"Temporally oriented data definitons - Managing schema evolution in temporally oriented databases.","venue":"Data Knowl. Eng.","volume":"6","pages":"451-467","year":"1991","type":"Journal Articles","key":"journals/dke/Ariav91","doi":"10.1016/0169-023X(91)90023-Q","ee":"https://doi.org/10.1016/0169-023X(91)90023-Q","url":"https://dblp.org/rec/journals/dke/Ariav91"},
+"url":"URL#5188705"
+},
+{
+"@score":"1",
+"@id":"5188706",
+"info":{"authors":{"author":[{"@pid":"b/DavidABell","text":"David A. Bell"},{"@pid":"96/6753","text":"J. Shao"},{"@pid":"h/MElizabethCHull","text":"M. Elizabeth C. Hull"}]},"title":"A Pipelined Strategy for Processing Recursive Queries in Parallel.","venue":"Data Knowl. Eng.","volume":"6","pages":"367-391","year":"1991","type":"Journal Articles","key":"journals/dke/BellSH91","doi":"10.1016/0169-023X(91)90008-L","ee":"https://doi.org/10.1016/0169-023X(91)90008-L","url":"https://dblp.org/rec/journals/dke/BellSH91"},
+"url":"URL#5188706"
+},
+{
+"@score":"1",
+"@id":"5188707",
+"info":{"authors":{"author":{"@pid":"32/6205","text":"Henk M. Blanken"}},"title":"Implementing Version Support for Complex Objects.","venue":"Data Knowl. Eng.","volume":"6","pages":"1-25","year":"1991","type":"Journal Articles","key":"journals/dke/Blanken91","doi":"10.1016/0169-023X(91)90013-N","ee":"https://doi.org/10.1016/0169-023X(91)90013-N","url":"https://dblp.org/rec/journals/dke/Blanken91"},
+"url":"URL#5188707"
+},
+{
+"@score":"1",
+"@id":"5188708",
+"info":{"authors":{"author":[{"@pid":"c/JamesHCross","text":"James H. Cross"},{"@pid":"c/KaiHChang","text":"Kai-Hsiung Chang"},{"@pid":"c/WHCarlisle","text":"W. Homer Carlisle"},{"@pid":"b/DavidBBrown","text":"David B. Brown"}]},"title":"Expert System Assisted Test Data Generation for Software Branch Coverage.","venue":"Data Knowl. Eng.","volume":"6","pages":"279-295","year":"1991","type":"Journal Articles","key":"journals/dke/CrossCCB91","doi":"10.1016/0169-023X(91)90035-V","ee":"https://doi.org/10.1016/0169-023X(91)90035-V","url":"https://dblp.org/rec/journals/dke/CrossCCB91"},
+"url":"URL#5188708"
+},
+{
+"@score":"1",
+"@id":"5188711",
+"info":{"authors":{"author":{"@pid":"48/5235","text":"Reiner Durchholz"}},"title":"Causality, time, and deadlines.","venue":"Data Knowl. Eng.","volume":"6","pages":"469-477","year":"1991","type":"Journal Articles","key":"journals/dke/Durchholz91","doi":"10.1016/0169-023X(91)90024-R","ee":"https://doi.org/10.1016/0169-023X(91)90024-R","url":"https://dblp.org/rec/journals/dke/Durchholz91"},
+"url":"URL#5188711"
+},
+{
+"@score":"1",
+"@id":"5188712",
+"info":{"authors":{"author":[{"@pid":"e/CFEick","text":"Christoph F. Eick"},{"@pid":"79/2696","text":"Thomas Raupp"}]},"title":"Toward a Formal Semantics and Inference Rules for Conceptual Data Models.","venue":"Data Knowl. Eng.","volume":"6","pages":"297-317","year":"1991","type":"Journal Articles","key":"journals/dke/EickR91","doi":"10.1016/0169-023X(91)90036-W","ee":"https://doi.org/10.1016/0169-023X(91)90036-W","url":"https://dblp.org/rec/journals/dke/EickR91"},
+"url":"URL#5188712"
+},
+{
+"@score":"1",
+"@id":"5188714",
+"info":{"authors":{"author":[{"@pid":"g/SergioGreco","text":"Sergio Greco"},{"@pid":"p/LuigiPalopoli","text":"Luigi Palopoli"},{"@pid":"95/5833","text":"Pasquale Rullo"}]},"title":"Netlog - A Logic Query Language for Network Model Databases.","venue":"Data Knowl. Eng.","volume":"6","pages":"183-203","year":"1991","type":"Journal Articles","key":"journals/dke/GrecoPR91","doi":"10.1016/0169-023X(91)90004-H","ee":"https://doi.org/10.1016/0169-023X(91)90004-H","url":"https://dblp.org/rec/journals/dke/GrecoPR91"},
+"url":"URL#5188714"
+},
+{
+"@score":"1",
+"@id":"5188715",
+"info":{"authors":{"author":[{"@pid":"32/4598","text":"Gary W. Hansen"},{"@pid":"48/3560","text":"James V. Hansen"}]},"title":"An approximate user-complexity measure for relational query language systems.","venue":"Data Knowl. Eng.","volume":"6","pages":"393-407","year":"1991","type":"Journal Articles","key":"journals/dke/HansenH91","doi":"10.1016/0169-023X(91)90009-M","ee":"https://doi.org/10.1016/0169-023X(91)90009-M","url":"https://dblp.org/rec/journals/dke/HansenH91"},
+"url":"URL#5188715"
+},
+{
+"@score":"1",
+"@id":"5188717",
+"info":{"authors":{"author":[{"@pid":"25/5017","text":"Wen-Bing Horng"},{"@pid":"36/6302","text":"Chao-Chih Yang"}]},"title":"A Shortest Path Algorithm to Find Minimal Deduction Graphs.","venue":"Data Knowl. Eng.","volume":"6","pages":"27-46","year":"1991","type":"Journal Articles","key":"journals/dke/HorngY91","doi":"10.1016/0169-023X(91)90014-O","ee":"https://doi.org/10.1016/0169-023X(91)90014-O","url":"https://dblp.org/rec/journals/dke/HorngY91"},
+"url":"URL#5188717"
+},
+{
+"@score":"1",
+"@id":"5188719",
+"info":{"authors":{"author":{"@pid":"48/5413","text":"C. A. Johnson"}},"title":"Handling Indefinite and Negative Data in a Deductive Database.","venue":"Data Knowl. Eng.","volume":"6","pages":"333-348","year":"1991","type":"Journal Articles","key":"journals/dke/Johnson91","doi":"10.1016/0169-023X(91)90038-Y","ee":"https://doi.org/10.1016/0169-023X(91)90038-Y","url":"https://dblp.org/rec/journals/dke/Johnson91"},
+"url":"URL#5188719"
+},
+{
+"@score":"1",
+"@id":"5188721",
+"info":{"authors":{"author":[{"@pid":"45/3221","text":"Magdi N. Kamel"},{"@pid":"d/SBDavidson","text":"Susan B. Davidson"}]},"title":"Semi-Materialization - A Technnique for Optimizing Frequently Executed Queries.","venue":"Data Knowl. Eng.","volume":"6","pages":"101-123","year":"1991","type":"Journal Articles","key":"journals/dke/KamelD91","doi":"10.1016/0169-023X(91)90018-S","ee":"https://doi.org/10.1016/0169-023X(91)90018-S","url":"https://dblp.org/rec/journals/dke/KamelD91"},
+"url":"URL#5188721"
+},
+{
+"@score":"1",
+"@id":"5188723",
+"info":{"authors":{"author":[{"@pid":"31/6517","text":"Junguk L. Kim"},{"@pid":"42/2332","text":"Héctor J. Hernández"}]},"title":"A network surveillance protocol for distributed database systems.","venue":"Data Knowl. Eng.","volume":"6","pages":"409-420","year":"1991","type":"Journal Articles","key":"journals/dke/KimH91","doi":"10.1016/0169-023X(91)90010-U","ee":"https://doi.org/10.1016/0169-023X(91)90010-U","url":"https://dblp.org/rec/journals/dke/KimH91"},
+"url":"URL#5188723"
+},
+{
+"@score":"1",
+"@id":"5188724",
+"info":{"authors":{"author":[{"@pid":"l/MarkLevene","text":"Mark Levene"},{"@pid":"p/APoulovassilis","text":"Alexandra Poulovassilis"}]},"title":"An object-oriented data model formalised through hypergraphs.","venue":"Data Knowl. Eng.","volume":"6","pages":"205-234","year":"1991","type":"Journal Articles","key":"journals/dke/LeveneP91","doi":"10.1016/0169-023X(91)90005-I","ee":"https://doi.org/10.1016/0169-023X(91)90005-I","url":"https://dblp.org/rec/journals/dke/LeveneP91"},
+"url":"URL#5188724"
+},
+{
+"@score":"1",
+"@id":"5188727",
+"info":{"authors":{"author":[{"@pid":"22/6115-1","text":"Thomas Ludwig 0001"},{"@pid":"w/BerndWalter","text":"Bernd Walter"}]},"title":"EFTA - A Database Retrieval Algebra for Feature-Terms.","venue":"Data Knowl. Eng.","volume":"6","pages":"125-149","year":"1991","type":"Journal Articles","key":"journals/dke/LudwigW91","doi":"10.1016/0169-023X(91)90019-T","ee":"https://doi.org/10.1016/0169-023X(91)90019-T","url":"https://dblp.org/rec/journals/dke/LudwigW91"},
+"url":"URL#5188727"
+},
+{
+"@score":"1",
+"@id":"5188728",
+"info":{"authors":{"author":{"@pid":"m/THMerrett","text":"T. H. Merrett"}},"title":"Relixpert - An Expert System Shell Written in a Database Programming Language.","venue":"Data Knowl. Eng.","volume":"6","pages":"151-158","year":"1991","type":"Journal Articles","key":"journals/dke/Merrett91","doi":"10.1016/0169-023X(91)90020-X","ee":"https://doi.org/10.1016/0169-023X(91)90020-X","url":"https://dblp.org/rec/journals/dke/Merrett91"},
+"url":"URL#5188728"
+},
+{
+"@score":"1",
+"@id":"5188729",
+"info":{"authors":{"author":[{"@pid":"19/5792","text":"James R. Moyne"},{"@pid":"t/TobyJTeorey","text":"Toby J. Teorey"},{"@pid":"18/6852","text":"Leo C. McAfee Jr."}]},"title":"Time sequence ordering extensions to the Entity-Relationship model and their application to the automated manufacturing process.","venue":"Data Knowl. Eng.","volume":"6","pages":"421-443","year":"1991","type":"Journal Articles","key":"journals/dke/MoyneTM91","doi":"10.1016/0169-023X(91)90011-L","ee":"https://doi.org/10.1016/0169-023X(91)90011-L","url":"https://dblp.org/rec/journals/dke/MoyneTM91"},
+"url":"URL#5188729"
+},
+{
+"@score":"1",
+"@id":"5188732",
+"info":{"authors":{"author":{"@pid":"r/NeilCRowe","text":"Neil C. Rowe"}},"title":"Management of Regression-Model Data.","venue":"Data Knowl. Eng.","volume":"6","pages":"349-363","year":"1991","type":"Journal Articles","key":"journals/dke/Rowe91","doi":"10.1016/0169-023X(91)90039-Z","ee":"https://doi.org/10.1016/0169-023X(91)90039-Z","url":"https://dblp.org/rec/journals/dke/Rowe91"},
+"url":"URL#5188732"
+},
+{
+"@score":"1",
+"@id":"5188734",
+"info":{"authors":{"author":{"@pid":"s/GunterSaake","text":"Gunter Saake"}},"title":"Descriptive Specification of Database Object Behaviour.","venue":"Data Knowl. Eng.","volume":"6","pages":"47-73","year":"1991","type":"Journal Articles","key":"journals/dke/Saake91","doi":"10.1016/0169-023X(91)90015-P","ee":"https://doi.org/10.1016/0169-023X(91)90015-P","url":"https://dblp.org/rec/journals/dke/Saake91"},
+"url":"URL#5188734"
+},
+{
+"@score":"1",
+"@id":"5188735",
+"info":{"authors":{"author":[{"@pid":"06/3694","text":"Cristina Sernadas"},{"@pid":"f/JoseLuizFiadeiro","text":"José Luiz Fiadeiro"}]},"title":"Towards object-oriented conceptual modeling.","venue":"Data Knowl. Eng.","volume":"6","pages":"479-508","year":"1991","type":"Journal Articles","key":"journals/dke/SernadasF91","doi":"10.1016/0169-023X(91)90025-S","ee":"https://doi.org/10.1016/0169-023X(91)90025-S","url":"https://dblp.org/rec/journals/dke/SernadasF91"},
+"url":"URL#5188735"
+},
+{
+"@score":"1",
+"@id":"5188736",
+"info":{"authors":{"author":[{"@pid":"s/PeretzShoval","text":"Peretz Shoval"},{"@pid":"94/2890","text":"Sara Zohn"}]},"title":"Binary-Relationship Integration Methodology.","venue":"Data Knowl. Eng.","volume":"6","pages":"225-250","year":"1991","type":"Journal Articles","key":"journals/dke/ShovalZ91","doi":"10.1016/0169-023X(91)90006-J","ee":"https://doi.org/10.1016/0169-023X(91)90006-J","url":"https://dblp.org/rec/journals/dke/ShovalZ91"},
+"url":"URL#5188736"
+},
+{
+"@score":"1",
+"@id":"5188738",
+"info":{"authors":{"author":{"@pid":"t/HamishTaylor","text":"Hamish Taylor"}},"title":"Coupling Committed and Trial Binding Resolution Engines.","venue":"Data Knowl. Eng.","volume":"6","pages":"159-178","year":"1991","type":"Journal Articles","key":"journals/dke/Taylor91","doi":"10.1016/0169-023X(91)90021-O","ee":"https://doi.org/10.1016/0169-023X(91)90021-O","url":"https://dblp.org/rec/journals/dke/Taylor91"},
+"url":"URL#5188738"
+},
+{
+"@score":"1",
+"@id":"5188739",
+"info":{"authors":{"author":[{"@pid":"v/GottfriedVossen","text":"Gottfried Vossen"},{"@pid":"37/2857","text":"Kurt-Ulrich Witt"}]},"title":"SUXESS - Towards a Sound Unification of Extensions of the Relational Data Model.","venue":"Data Knowl. Eng.","volume":"6","pages":"75-92","year":"1991","type":"Journal Articles","key":"journals/dke/VossenW91","doi":"10.1016/0169-023X(91)90016-Q","ee":"https://doi.org/10.1016/0169-023X(91)90016-Q","url":"https://dblp.org/rec/journals/dke/VossenW91"},
+"url":"URL#5188739"
+},
+{
+"@score":"1",
+"@id":"5188740",
+"info":{"authors":{"author":{"@pid":"w/RoelWieringa","text":"Roel J. Wieringa"}},"title":"Steps towards a method for the formal modeling of dynamic objects.","venue":"Data Knowl. Eng.","volume":"6","pages":"509-540","year":"1991","type":"Journal Articles","key":"journals/dke/Wieringa91","doi":"10.1016/0169-023X(91)90026-T","ee":"https://doi.org/10.1016/0169-023X(91)90026-T","url":"https://dblp.org/rec/journals/dke/Wieringa91"},
+"url":"URL#5188740"
+},
+{
+"@score":"1",
+"@id":"5188741",
+"info":{"authors":{"author":[{"@pid":"71/964","text":"Chengqi Zhang"},{"@pid":"b/DavidABell","text":"David A. Bell"}]},"title":"HECODES - A Framework for Heterogeneous Cooperative Distributed Expert Systems.","venue":"Data Knowl. Eng.","volume":"6","pages":"251-273","year":"1991","type":"Journal Articles","key":"journals/dke/ZhangB91","doi":"10.1016/0169-023X(91)90007-K","ee":"https://doi.org/10.1016/0169-023X(91)90007-K","url":"https://dblp.org/rec/journals/dke/ZhangB91"},
+"url":"URL#5188741"
+}
+]
+}
 }
 }

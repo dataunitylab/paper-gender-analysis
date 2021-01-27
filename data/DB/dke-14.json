@@ -1,23 +1,98 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke14\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke14\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.48"
+"text":"137.72"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"11",
+"@dc":"11",
+"@oc":"11",
+"@id":"17615693",
+"text":":facetid:toc:db/journals/dke/dke14.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"11",
+"@computed":"11",
+"@sent":"11",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"5027532",
+"info":{"authors":{"author":{"@pid":"79/3156","text":"James Ang"}},"title":"Distributed Environment - A Conceptual Framework Using Objects.","venue":"Data Knowl. Eng.","volume":"14","number":"3","pages":"191-202","year":"1995","type":"Journal Articles","key":"journals/dke/Ang95","doi":"10.1016/0169-023X(94)00029-E","ee":"https://doi.org/10.1016/0169-023X(94)00029-E","url":"https://dblp.org/rec/journals/dke/Ang95"},
+"url":"URL#5027532"
+},
+{
+"@score":"1",
+"@id":"5027535",
+"info":{"authors":{"author":[{"@pid":"b/NickBassiliades","text":"Nick Bassiliades"},{"@pid":"g/PeterMDGray","text":"Peter M. D. Gray"}]},"title":"CoLan - A Functional Constraint Language and its Implementation.","venue":"Data Knowl. Eng.","volume":"14","number":"3","pages":"203-249","year":"1995","type":"Journal Articles","key":"journals/dke/BassiliadesG95","doi":"10.1016/0169-023X(94)00028-D","ee":"https://doi.org/10.1016/0169-023X(94)00028-D","url":"https://dblp.org/rec/journals/dke/BassiliadesG95"},
+"url":"URL#5027535"
+},
+{
+"@score":"1",
+"@id":"5027545",
+"info":{"authors":{"author":[{"@pid":"268/3862-1","text":"Fabio Grandi 0001"},{"@pid":"s/MariaRitaScalas","text":"Maria Rita Scalas"}]},"title":"Clustering Factor Estimation for Totally Clustered Attributes.","venue":"Data Knowl. Eng.","volume":"14","number":"3","pages":"251-264","year":"1995","type":"Journal Articles","key":"journals/dke/GrandiS95","doi":"10.1016/0169-023X(94)00026-B","ee":"https://doi.org/10.1016/0169-023X(94)00026-B","url":"https://dblp.org/rec/journals/dke/GrandiS95"},
+"url":"URL#5027545"
+},
+{
+"@score":"1",
+"@id":"5027550",
+"info":{"authors":{"author":[{"@pid":"20/563","text":"Yoram Kornatzky"},{"@pid":"s/PeretzShoval","text":"Peretz Shoval"}]},"title":"Conceptual Design of Object-Oriented Database Schemas Using the Binary-Relationship Model.","venue":"Data Knowl. Eng.","volume":"14","number":"3","pages":"265-288","year":"1995","type":"Journal Articles","key":"journals/dke/KornatzkyS95","doi":"10.1016/0169-023X(94)00027-C","ee":"https://doi.org/10.1016/0169-023X(94)00027-C","url":"https://dblp.org/rec/journals/dke/KornatzkyS95"},
+"url":"URL#5027550"
+},
+{
+"@score":"1",
+"@id":"5072934",
+"info":{"authors":{"author":[{"@pid":"b/SBergamaschi","text":"Sonia Bergamaschi"},{"@pid":"61/3451","text":"Stefano Lodi"},{"@pid":"s/ClaudioSartori","text":"Claudio Sartori 0001"}]},"title":"The E/S Knowledge Representation System.","venue":"Data Knowl. Eng.","volume":"14","number":"2","pages":"81-115","year":"1994","type":"Journal Articles","key":"journals/dke/BergamaschiLS94","doi":"10.1016/0169-023X(94)90040-X","ee":"https://doi.org/10.1016/0169-023X(94)90040-X","url":"https://dblp.org/rec/journals/dke/BergamaschiLS94"},
+"url":"URL#5072934"
+},
+{
+"@score":"1",
+"@id":"5072939",
+"info":{"authors":{"author":[{"@pid":"c/SChakravarthy","text":"Sharma Chakravarthy"},{"@pid":"55/6940","text":"D. Mishra"}]},"title":"Snoop - An Expressive Event Specification Language for Active Databases.","venue":"Data Knowl. Eng.","volume":"14","number":"1","pages":"1-26","year":"1994","type":"Journal Articles","key":"journals/dke/ChakravarthyM94","doi":"10.1016/0169-023X(94)90006-X","ee":"https://doi.org/10.1016/0169-023X(94)90006-X","url":"https://dblp.org/rec/journals/dke/ChakravarthyM94"},
+"url":"URL#5072939"
+},
+{
+"@score":"1",
+"@id":"5072943",
+"info":{"authors":{"author":[{"@pid":"c/PaoloCiaccia","text":"Paolo Ciaccia"},{"@pid":"m/DarioMaio","text":"Dario Maio"}]},"title":"On the Optimal Ordering of Multiple-Field Tables.","venue":"Data Knowl. Eng.","volume":"14","number":"1","pages":"27-44","year":"1994","type":"Journal Articles","key":"journals/dke/CiacciaM94","doi":"10.1016/0169-023X(94)90007-8","ee":"https://doi.org/10.1016/0169-023X(94)90007-8","url":"https://dblp.org/rec/journals/dke/CiacciaM94"},
+"url":"URL#5072943"
+},
+{
+"@score":"1",
+"@id":"5072946",
+"info":{"authors":{"author":[{"@pid":"91/6534","text":"Min-Shiang Hwang"},{"@pid":"20/5454","text":"Wei-Pang Yang"}]},"title":"A New Dynamic Access Control Scheme Based on Subject-Object List.","venue":"Data Knowl. Eng.","volume":"14","number":"1","pages":"45-56","year":"1994","type":"Journal Articles","key":"journals/dke/HwangY94","doi":"10.1016/0169-023X(94)90008-6","ee":"https://doi.org/10.1016/0169-023X(94)90008-6","url":"https://dblp.org/rec/journals/dke/HwangY94"},
+"url":"URL#5072946"
+},
+{
+"@score":"1",
+"@id":"5072947",
+"info":{"authors":{"author":[{"@pid":"18/5066","text":"Myong H. Kang"},{"@pid":"d/HenryGDietz","text":"Henry G. Dietz"},{"@pid":"b/BKBhargava","text":"Bharat K. Bhargava"}]},"title":"Multiple-Query Optimization at Algorithm-Level.","venue":"Data Knowl. Eng.","volume":"14","number":"1","pages":"57-75","year":"1994","type":"Journal Articles","key":"journals/dke/KangDB94","doi":"10.1016/0169-023X(94)90009-4","ee":"https://doi.org/10.1016/0169-023X(94)90009-4","url":"https://dblp.org/rec/journals/dke/KangDB94"},
+"url":"URL#5072947"
+},
+{
+"@score":"1",
+"@id":"5072954",
+"info":{"authors":{"author":[{"@pid":"85/6670","text":"Mukesh K. Mohania"},{"@pid":"s/NandlalLSarda","text":"Nandlal L. Sarda"}]},"title":"Rule Allocation in Distributed Deductive Database Systems.","venue":"Data Knowl. Eng.","volume":"14","number":"2","pages":"117-141","year":"1994","type":"Journal Articles","key":"journals/dke/MohaniaS94","doi":"10.1016/0169-023X(94)90041-8","ee":"https://doi.org/10.1016/0169-023X(94)90041-8","url":"https://dblp.org/rec/journals/dke/MohaniaS94"},
+"url":"URL#5072954"
+},
+{
+"@score":"1",
+"@id":"5072959",
+"info":{"authors":{"author":[{"@pid":"s/ScarletSchwiderski","text":"Scarlet Schwiderski"},{"@pid":"25/3237","text":"Thorsten Hartmann"},{"@pid":"s/GunterSaake","text":"Gunter Saake"}]},"title":"Monitoring Temporal Preconditions in a Behaviour Oriented Object Model.","venue":"Data Knowl. Eng.","volume":"14","number":"2","pages":"143-186","year":"1994","type":"Journal Articles","key":"journals/dke/SchwiderskiHS94","doi":"10.1016/0169-023X(94)90042-6","ee":"https://doi.org/10.1016/0169-023X(94)90042-6","url":"https://dblp.org/rec/journals/dke/SchwiderskiHS94"},
+"url":"URL#5072959"
+}
+]
+}
 }
 }

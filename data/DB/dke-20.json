@@ -1,23 +1,128 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke20\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke20\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.56"
+"text":"100.55"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"16",
+"@dc":"16",
+"@oc":"16",
+"@id":"17615700",
+"text":":facetid:toc:db/journals/dke/dke20.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"16",
+"@computed":"16",
+"@sent":"16",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"4977953",
+"info":{"authors":{"author":[{"@pid":"17/544","text":"Jacky Akoka"},{"@pid":"c/IsabelleComynWattiau","text":"Isabelle Comyn-Wattiau"}]},"title":"Entity-Relationship and Object-Oriented Model Automatic Clustering.","venue":"Data Knowl. Eng.","volume":"20","number":"2","pages":"87-117","year":"1996","type":"Journal Articles","key":"journals/dke/AkokaC96","doi":"10.1016/S0169-023X(96)00007-9","ee":"https://doi.org/10.1016/S0169-023X(96)00007-9","url":"https://dblp.org/rec/journals/dke/AkokaC96"},
+"url":"URL#4977953"
+},
+{
+"@score":"1",
+"@id":"4977955",
+"info":{"authors":{"author":[{"@pid":"65/6588","text":"Alessandro Artale"},{"@pid":"f/EnricoFranconi","text":"Enrico Franconi"},{"@pid":"65/6778","text":"Nicola Guarino"},{"@pid":"13/2923","text":"Luca Pazzi"}]},"title":"Part-Whole Relations in Object-Centered Systems - An Overview.","venue":"Data Knowl. Eng.","volume":"20","number":"3","pages":"347-383","year":"1996","type":"Journal Articles","key":"journals/dke/ArtaleFGP96","doi":"10.1016/S0169-023X(96)00013-4","ee":"https://doi.org/10.1016/S0169-023X(96)00013-4","url":"https://dblp.org/rec/journals/dke/ArtaleFGP96"},
+"url":"URL#4977955"
+},
+{
+"@score":"1",
+"@id":"4977957",
+"info":{"authors":{"author":{"@pid":"20/2125","text":"Jochen Bernauer"}},"title":"Analysis of Part-Whole Relation and Subsumption in the Medical Domain.","venue":"Data Knowl. Eng.","volume":"20","number":"3","pages":"405-415","year":"1996","type":"Journal Articles","key":"journals/dke/Bernauer96","doi":"10.1016/S0169-023X(96)00016-X","ee":"https://doi.org/10.1016/S0169-023X(96)00016-X","url":"https://dblp.org/rec/journals/dke/Bernauer96"},
+"url":"URL#4977957"
+},
+{
+"@score":"1",
+"@id":"4977959",
+"info":{"authors":{"author":[{"@pid":"71/4640","text":"L. J. Campbell"},{"@pid":"24/325","text":"Terry A. Halpin"},{"@pid":"p/ErikProper","text":"Henderik Alex Proper"}]},"title":"Conceptual Schemas with Abstractions - Making Flat Conceptual Schemas More Comprehensible.","venue":"Data Knowl. Eng.","volume":"20","number":"1","pages":"39-85","year":"1996","type":"Journal Articles","key":"journals/dke/CampbellHP96","doi":"10.1016/0169-023X(96)00005-5","ee":"https://doi.org/10.1016/0169-023X(96)00005-5","url":"https://dblp.org/rec/journals/dke/CampbellHP96"},
+"url":"URL#4977959"
+},
+{
+"@score":"1",
+"@id":"4977963",
+"info":{"authors":{"author":[{"@pid":"88/1580","text":"Peter N. Creasy"},{"@pid":"p/ErikProper","text":"Henderik Alex Proper"}]},"title":"A Generic Model for 3-Dimensional Conceptual Modelling.","venue":"Data Knowl. Eng.","volume":"20","number":"2","pages":"119-161","year":"1996","type":"Journal Articles","key":"journals/dke/CreasyP96","doi":"10.1016/0169-023X(95)00043-R","ee":"https://doi.org/10.1016/0169-023X(95)00043-R","url":"https://dblp.org/rec/journals/dke/CreasyP96"},
+"url":"URL#4977963"
+},
+{
+"@score":"1",
+"@id":"4977964",
+"info":{"authors":{"author":[{"@pid":"86/6002","text":"Peter Gerstl"},{"@pid":"88/3428","text":"Simone Pribbenow"}]},"title":"A Conceptual Theory of Part-Whole Relations and its Applications.","venue":"Data Knowl. Eng.","volume":"20","number":"3","pages":"305-322","year":"1996","type":"Journal Articles","key":"journals/dke/GerstlP96","doi":"10.1016/S0169-023X(96)00014-6","ee":"https://doi.org/10.1016/S0169-023X(96)00014-6","url":"https://dblp.org/rec/journals/dke/GerstlP96"},
+"url":"URL#4977964"
+},
+{
+"@score":"1",
+"@id":"4977965",
+"info":{"authors":{"author":[{"@pid":"g/MichaelGertz","text":"Michael Gertz 0001"},{"@pid":"l/UdoWLipeck","text":"Udo W. Lipeck"}]},"title":"Deriving Optimized Integrity Monitoring Triggers from Dynamic Integrity Constraints.","venue":"Data Knowl. Eng.","volume":"20","number":"2","pages":"163-193","year":"1996","type":"Journal Articles","key":"journals/dke/GertzL96","doi":"10.1016/S0169-023X(96)00010-9","ee":"https://doi.org/10.1016/S0169-023X(96)00010-9","url":"https://dblp.org/rec/journals/dke/GertzL96"},
+"url":"URL#4977965"
+},
+{
+"@score":"1",
+"@id":"4977967",
+"info":{"authors":{"author":[{"@pid":"65/6778","text":"Nicola Guarino"},{"@pid":"88/3428","text":"Simone Pribbenow"},{"@pid":"09/6569","text":"Laure Vieu"}]},"title":"Modeling Parts and Wholes.","venue":"Data Knowl. Eng.","volume":"20","number":"3","pages":"257-258","year":"1996","type":"Journal Articles","key":"journals/dke/GuarinoPV96","doi":"10.1016/S0169-023X(96)00009-2","ee":"https://doi.org/10.1016/S0169-023X(96)00009-2","url":"https://dblp.org/rec/journals/dke/GuarinoPV96"},
+"url":"URL#4977967"
+},
+{
+"@score":"1",
+"@id":"4977974",
+"info":{"authors":{"author":[{"@pid":"46/4698","text":"Paul McFetridge"},{"@pid":"p/FPopowich","text":"Fred Popowich"},{"@pid":"73/6465","text":"Dan Fass"}]},"title":"An Analysis of Compounds in HPSG (Head-Driven Phrase Structure Grammar) for Database Queries.","venue":"Data Knowl. Eng.","volume":"20","number":"2","pages":"195-209","year":"1996","type":"Journal Articles","key":"journals/dke/McFetridgePF96","doi":"10.1016/S0169-023X(96)00033-X","ee":"https://doi.org/10.1016/S0169-023X(96)00033-X","url":"https://dblp.org/rec/journals/dke/McFetridgePF96"},
+"url":"URL#4977974"
+},
+{
+"@score":"1",
+"@id":"4977976",
+"info":{"authors":{"author":{"@pid":"82/6879","text":"Friederike Moltmann"}},"title":"A New Notion of Part Structure for Natural Language.","venue":"Data Knowl. Eng.","volume":"20","number":"3","pages":"323-345","year":"1996","type":"Journal Articles","key":"journals/dke/Moltmann96","doi":"10.1016/S0169-023X(96)00011-0","ee":"https://doi.org/10.1016/S0169-023X(96)00011-0","url":"https://dblp.org/rec/journals/dke/Moltmann96"},
+"url":"URL#4977976"
+},
+{
+"@score":"1",
+"@id":"4977981",
+"info":{"authors":{"author":{"@pid":"s/BarrySmith","text":"Barry Smith 0001"}},"title":"Mereotopology - A Theory of Parts and Boundaries.","venue":"Data Knowl. Eng.","volume":"20","number":"3","pages":"287-303","year":"1996","type":"Journal Articles","key":"journals/dke/Smith96","doi":"10.1016/S0169-023X(96)00015-8","ee":"https://doi.org/10.1016/S0169-023X(96)00015-8","url":"https://dblp.org/rec/journals/dke/Smith96"},
+"url":"URL#4977981"
+},
+{
+"@score":"1",
+"@id":"4977984",
+"info":{"authors":{"author":[{"@pid":"41/1781","text":"Veda C. Storey"},{"@pid":"22/4658","text":"Heng-Li Yang"},{"@pid":"66/4926","text":"Robert C. Goldstein"}]},"title":"Semantic Integrity Constraints in Knowledge-Based Database Design Systems.","venue":"Data Knowl. Eng.","volume":"20","number":"1","pages":"1-37","year":"1996","type":"Journal Articles","key":"journals/dke/StoreyYG96","doi":"10.1016/0169-023X(95)00035-Q","ee":"https://doi.org/10.1016/0169-023X(95)00035-Q","url":"https://dblp.org/rec/journals/dke/StoreyYG96"},
+"url":"URL#4977984"
+},
+{
+"@score":"1",
+"@id":"4977986",
+"info":{"authors":{"author":{"@pid":"89/6817","text":"Michael Uschold"}},"title":"The Use of the Typed Lambda Calculus for Guiding Naive Users in the Representation and Acquisition of Part-Whole Knowledge.","venue":"Data Knowl. Eng.","volume":"20","number":"3","pages":"385-404","year":"1996","type":"Journal Articles","key":"journals/dke/Uschold96","doi":"10.1016/S0169-023X(96)00012-2","ee":"https://doi.org/10.1016/S0169-023X(96)00012-2","url":"https://dblp.org/rec/journals/dke/Uschold96"},
+"url":"URL#4977986"
+},
+{
+"@score":"1",
+"@id":"4977987",
+"info":{"authors":{"author":{"@pid":"62/6162","text":"Achille C. Varzi"}},"title":"Parts, Wholes, and Part-Whole Relations - The Prospects of Mereotopology.","venue":"Data Knowl. Eng.","volume":"20","number":"3","pages":"259-286","year":"1996","type":"Journal Articles","key":"journals/dke/Varzi96","doi":"10.1016/S0169-023X(96)00017-1","ee":"https://doi.org/10.1016/S0169-023X(96)00017-1","url":"https://dblp.org/rec/journals/dke/Varzi96"},
+"url":"URL#4977987"
+},
+{
+"@score":"1",
+"@id":"4977989",
+"info":{"authors":{"author":[{"@pid":"34/868","text":"Anyuan Yang"},{"@pid":"c/PPChen","text":"Peter P. Chen"}]},"title":"Efficient Data Retrieval and Manipulation Using Boolean Entity Lattice.","venue":"Data Knowl. Eng.","volume":"20","number":"2","pages":"211-226","year":"1996","type":"Journal Articles","key":"journals/dke/YangC96","doi":"10.1016/S0169-023X(96)00006-7","ee":"https://doi.org/10.1016/S0169-023X(96)00006-7","url":"https://dblp.org/rec/journals/dke/YangC96"},
+"url":"URL#4977989"
+},
+{
+"@score":"1",
+"@id":"4977990",
+"info":{"authors":{"author":[{"@pid":"z/NingZhong","text":"Ning Zhong 0001"},{"@pid":"25/4174","text":"Setsuo Ohsuga"}]},"title":"A Hierarchical Model Learning Approach for Refining and Managing Concept Clusters Discovered from Databases.","venue":"Data Knowl. Eng.","volume":"20","number":"2","pages":"227-252","year":"1996","type":"Journal Articles","key":"journals/dke/ZhongO96","doi":"10.1016/S0169-023X(96)00003-1","ee":"https://doi.org/10.1016/S0169-023X(96)00003-1","url":"https://dblp.org/rec/journals/dke/ZhongO96"},
+"url":"URL#4977990"
+}
+]
+}
 }
 }

@@ -1,23 +1,188 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke67\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke67\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.51"
+"text":"114.81"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"26",
+"@dc":"26",
+"@oc":"26",
+"@id":"17615751",
+"text":":facetid:toc:db/journals/dke/dke67.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"26",
+"@computed":"26",
+"@sent":"26",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"3603408",
+"info":{"authors":{"author":[{"@pid":"56/2833","text":"Animesh Adhikari"},{"@pid":"95/6926","text":"P. R. Rao"}]},"title":"Capturing association among items in a database.","venue":"Data Knowl. Eng.","volume":"67","number":"3","pages":"430-443","year":"2008","type":"Journal Articles","key":"journals/dke/AdhikariR08","doi":"10.1016/J.DATAK.2008.07.002","ee":"https://doi.org/10.1016/j.datak.2008.07.002","url":"https://dblp.org/rec/journals/dke/AdhikariR08"},
+"url":"URL#3603408"
+},
+{
+"@score":"1",
+"@id":"3603416",
+"info":{"authors":{"author":[{"@pid":"93/4102","text":"Andrew Basden"},{"@pid":"02/2991","text":"Heinz K. Klein"}]},"title":"New research directions for data and knowledge engineering - A philosophy of language approach.","venue":"Data Knowl. Eng.","volume":"67","number":"2","pages":"260-285","year":"2008","type":"Journal Articles","key":"journals/dke/BasdenK08","doi":"10.1016/J.DATAK.2008.05.005","ee":"https://doi.org/10.1016/j.datak.2008.05.005","url":"https://dblp.org/rec/journals/dke/BasdenK08"},
+"url":"URL#3603416"
+},
+{
+"@score":"1",
+"@id":"3603420",
+"info":{"authors":{"author":[{"@pid":"64/6705","text":"Zoran Bosnic"},{"@pid":"42/3099","text":"Igor Kononenko 0001"}]},"title":"Comparison of approaches for estimating reliability of individual regression predictions.","venue":"Data Knowl. Eng.","volume":"67","number":"3","pages":"504-516","year":"2008","type":"Journal Articles","key":"journals/dke/BosnicK08","doi":"10.1016/J.DATAK.2008.08.001","ee":"https://doi.org/10.1016/j.datak.2008.08.001","url":"https://dblp.org/rec/journals/dke/BosnicK08"},
+"url":"URL#3603420"
+},
+{
+"@score":"1",
+"@id":"3603422",
+"info":{"authors":{"author":[{"@pid":"90/3368","text":"Francesco Buccafurri"},{"@pid":"94/5332","text":"Pasquale De Meo"},{"@pid":"f/MariaGraziaFugini","text":"Maria Grazia Fugini"},{"@pid":"70/55","text":"Roberto Furnari"},{"@pid":"82/2990","text":"Anna Goy"},{"@pid":"21/350","text":"Gianluca Lax"},{"@pid":"78/5518","text":"Pasquale Lops"},{"@pid":"81/935","text":"Stefano Modafferi"},{"@pid":"p/BarbaraPernici","text":"Barbara Pernici"},{"@pid":"91/3067","text":"Domenico Redavid"},{"@pid":"41/446","text":"Giovanni Semeraro"},{"@pid":"u/DomenicoUrsino","text":"Domenico Ursino"}]},"title":"Analysis of QoS in cooperative services for real time applications.","venue":"Data Knowl. Eng.","volume":"67","number":"3","pages":"463-484","year":"2008","type":"Journal Articles","key":"journals/dke/BuccafurriMFFGLLMPRSU08","doi":"10.1016/J.DATAK.2008.08.004","ee":"https://doi.org/10.1016/j.datak.2008.08.004","url":"https://dblp.org/rec/journals/dke/BuccafurriMFFGLLMPRSU08"},
+"url":"URL#3603422"
+},
+{
+"@score":"1",
+"@id":"3603423",
+"info":{"authors":{"author":[{"@pid":"34/283","text":"Vo Thi Ngoc Chau"},{"@pid":"94/997","text":"Suphamit Chittayasothorn"}]},"title":"A temporal object relational SQL language with attribute timestamping in a temporal transparency environment.","venue":"Data Knowl. Eng.","volume":"67","number":"3","pages":"331-361","year":"2008","type":"Journal Articles","key":"journals/dke/ChauC08","doi":"10.1016/J.DATAK.2008.06.008","ee":"https://doi.org/10.1016/j.datak.2008.06.008","url":"https://dblp.org/rec/journals/dke/ChauC08"},
+"url":"URL#3603423"
+},
+{
+"@score":"1",
+"@id":"3603424",
+"info":{"authors":{"author":[{"@pid":"67/3586","text":"Morteza Haghir Chehreghani"},{"@pid":"45/2522","text":"Hassan Abolhassani"},{"@pid":"98/6406","text":"Mostafa Haghir Chehreghani"}]},"title":"Improving density-based methods for hierarchical clustering of web pages.","venue":"Data Knowl. Eng.","volume":"67","number":"1","pages":"30-50","year":"2008","type":"Journal Articles","key":"journals/dke/ChehreghaniAC08","doi":"10.1016/J.DATAK.2008.06.006","ee":"https://doi.org/10.1016/j.datak.2008.06.006","url":"https://dblp.org/rec/journals/dke/ChehreghaniAC08"},
+"url":"URL#3603424"
+},
+{
+"@score":"1",
+"@id":"3603427",
+"info":{"authors":{"author":[{"@pid":"c/ChaomeiChen","text":"Chaomei Chen"},{"@pid":"s/IlYeolSong","text":"Il-Yeol Song"},{"@pid":"09/6069","text":"Xiaojun Yuan 0001"},{"@pid":"07/314-6","text":"Jian Zhang 0006"}]},"title":"The thematic and citation landscape of Data and Knowledge Engineering.","venue":"Data Knowl. Eng.","volume":"67","number":"2","pages":"234-259","year":"2008","type":"Journal Articles","key":"journals/dke/ChenSYZ08","doi":"10.1016/J.DATAK.2008.05.004","ee":"https://doi.org/10.1016/j.datak.2008.05.004","url":"https://dblp.org/rec/journals/dke/ChenSYZ08"},
+"url":"URL#3603427"
+},
+{
+"@score":"1",
+"@id":"3603441",
+"info":{"authors":{"author":[{"@pid":"17/1770","text":"Gianluigi Greco"},{"@pid":"18/3019","text":"Antonella Guzzo"},{"@pid":"20/842","text":"Luigi Pontieri"}]},"title":"Mining taxonomies of process models.","venue":"Data Knowl. Eng.","volume":"67","number":"1","pages":"74-102","year":"2008","type":"Journal Articles","key":"journals/dke/GrecoGP08","doi":"10.1016/J.DATAK.2008.06.010","ee":"https://doi.org/10.1016/j.datak.2008.06.010","url":"https://dblp.org/rec/journals/dke/GrecoGP08"},
+"url":"URL#3603441"
+},
+{
+"@score":"1",
+"@id":"3603448",
+"info":{"authors":{"author":[{"@pid":"52/173-7","text":"Wei Hu 0007"},{"@pid":"05/1694","text":"Yuzhong Qu"},{"@pid":"69/1215-1","text":"Gong Cheng 0001"}]},"title":"Matching large ontologies - A divide-and-conquer approach.","venue":"Data Knowl. Eng.","volume":"67","number":"1","pages":"140-160","year":"2008","type":"Journal Articles","key":"journals/dke/HuQC08","doi":"10.1016/J.DATAK.2008.06.003","ee":"https://doi.org/10.1016/j.datak.2008.06.003","url":"https://dblp.org/rec/journals/dke/HuQC08"},
+"url":"URL#3603448"
+},
+{
+"@score":"1",
+"@id":"3603453",
+"info":{"authors":{"author":{"@pid":"25/351","text":"Epaminondas Kapetanios"}},"title":"Quo Vadis computer science - From Turing to personal computer, personal content and collective intelligence.","venue":"Data Knowl. Eng.","volume":"67","number":"2","pages":"286-292","year":"2008","type":"Journal Articles","key":"journals/dke/Kapetanios08","doi":"10.1016/J.DATAK.2008.05.003","ee":"https://doi.org/10.1016/j.datak.2008.05.003","url":"https://dblp.org/rec/journals/dke/Kapetanios08"},
+"url":"URL#3603453"
+},
+{
+"@score":"1",
+"@id":"3603458",
+"info":{"authors":{"author":[{"@pid":"70/397","text":"Joonho Kwon"},{"@pid":"69/9203","text":"Praveen Rao 0001"},{"@pid":"20/6358","text":"Bongki Moon"},{"@pid":"58/2763","text":"Sukho Lee"}]},"title":"Value-based predicate filtering of XML documents.","venue":"Data Knowl. Eng.","volume":"67","number":"1","pages":"51-73","year":"2008","type":"Journal Articles","key":"journals/dke/KwonRML08","doi":"10.1016/J.DATAK.2008.06.012","ee":"https://doi.org/10.1016/j.datak.2008.06.012","url":"https://dblp.org/rec/journals/dke/KwonRML08"},
+"url":"URL#3603458"
+},
+{
+"@score":"1",
+"@id":"3603459",
+"info":{"authors":{"author":{"@pid":"93/1448","text":"Ramon Lawrence"}},"title":"Using slice join for efficient evaluation of multi-way joins.","venue":"Data Knowl. Eng.","volume":"67","number":"1","pages":"118-139","year":"2008","type":"Journal Articles","key":"journals/dke/Lawrence08","doi":"10.1016/J.DATAK.2008.06.001","ee":"https://doi.org/10.1016/j.datak.2008.06.001","url":"https://dblp.org/rec/journals/dke/Lawrence08"},
+"url":"URL#3603459"
+},
+{
+"@score":"1",
+"@id":"3603478",
+"info":{"authors":{"author":[{"@pid":"94/5332","text":"Pasquale De Meo"},{"@pid":"90/5380","text":"Giovanni Quattrone"},{"@pid":"u/DomenicoUrsino","text":"Domenico Ursino"}]},"title":"A decision support system for designing new services tailored to citizen profiles in a complex and distributed e-government scenario.","venue":"Data Knowl. Eng.","volume":"67","number":"1","pages":"161-184","year":"2008","type":"Journal Articles","key":"journals/dke/MeoQU08","doi":"10.1016/J.DATAK.2008.06.005","ee":"https://doi.org/10.1016/j.datak.2008.06.005","url":"https://dblp.org/rec/journals/dke/MeoQU08"},
+"url":"URL#3603478"
+},
+{
+"@score":"1",
+"@id":"3603482",
+"info":{"authors":{"author":[{"@pid":"29/5284","text":"Jordi Nin"},{"@pid":"74/6646","text":"Javier Herranz"},{"@pid":"t/VicencTorra","text":"Vicenç Torra"}]},"title":"On the disclosure risk of multivariate microaggregation.","venue":"Data Knowl. Eng.","volume":"67","number":"3","pages":"399-412","year":"2008","type":"Journal Articles","key":"journals/dke/NinHT08a","doi":"10.1016/J.DATAK.2008.06.014","ee":"https://doi.org/10.1016/j.datak.2008.06.014","url":"https://dblp.org/rec/journals/dke/NinHT08a"},
+"url":"URL#3603482"
+},
+{
+"@score":"1",
+"@id":"3603484",
+"info":{"authors":{"author":[{"@pid":"p/ThemisPalpanas","text":"Themis Palpanas"},{"@pid":"k/NickKoudas","text":"Nick Koudas"},{"@pid":"m/AOMendelzon","text":"Alberto O. Mendelzon"}]},"title":"On space constrained set selection problems.","venue":"Data Knowl. Eng.","volume":"67","number":"1","pages":"200-218","year":"2008","type":"Journal Articles","key":"journals/dke/PalpanasKM08","doi":"10.1016/J.DATAK.2008.06.011","ee":"https://doi.org/10.1016/j.datak.2008.06.011","url":"https://dblp.org/rec/journals/dke/PalpanasKM08"},
+"url":"URL#3603484"
+},
+{
+"@score":"1",
+"@id":"3603487",
+"info":{"authors":{"author":[{"@pid":"77/333","text":"Biao Qin"},{"@pid":"55/6753","text":"Yuni Xia"}]},"title":"Generating efficient safe query plans for probabilistic databases.","venue":"Data Knowl. Eng.","volume":"67","number":"3","pages":"485-503","year":"2008","type":"Journal Articles","key":"journals/dke/QinX08","doi":"10.1016/J.DATAK.2008.08.002","ee":"https://doi.org/10.1016/j.datak.2008.08.002","url":"https://dblp.org/rec/journals/dke/QinX08"},
+"url":"URL#3603487"
+},
+{
+"@score":"1",
+"@id":"3603489",
+"info":{"authors":{"author":[{"@pid":"41/3374","text":"Ruth Raventós"},{"@pid":"89/4942","text":"Antoni Olivé"}]},"title":"An object-oriented operation-based approach to translation between MOF metaschemas.","venue":"Data Knowl. Eng.","volume":"67","number":"3","pages":"444-462","year":"2008","type":"Journal Articles","key":"journals/dke/RaventosO08","doi":"10.1016/J.DATAK.2008.07.003","ee":"https://doi.org/10.1016/j.datak.2008.07.003","url":"https://dblp.org/rec/journals/dke/RaventosO08"},
+"url":"URL#3603489"
+},
+{
+"@score":"1",
+"@id":"3603490",
+"info":{"authors":{"author":{"@pid":"r/RPvandeRiet","text":"Reind P. van de Riet"}},"title":"Introduction to the special issue on DKE 25 years.","venue":"Data Knowl. Eng.","volume":"67","number":"2","pages":"219","year":"2008","type":"Journal Articles","key":"journals/dke/Riet08","doi":"10.1016/J.DATAK.2008.06.004","ee":"https://doi.org/10.1016/j.datak.2008.06.004","url":"https://dblp.org/rec/journals/dke/Riet08"},
+"url":"URL#3603490"
+},
+{
+"@score":"1",
+"@id":"3603491",
+"info":{"authors":{"author":{"@pid":"r/RPvandeRiet","text":"Reind P. van de Riet"}},"title":"Thank you referees, authors and readers of DKE.","venue":"Data Knowl. Eng.","volume":"67","number":"2","pages":"220-233","year":"2008","type":"Journal Articles","key":"journals/dke/Riet08a","doi":"10.1016/J.DATAK.2008.05.002","ee":"https://doi.org/10.1016/j.datak.2008.05.002","url":"https://dblp.org/rec/journals/dke/Riet08a"},
+"url":"URL#3603491"
+},
+{
+"@score":"1",
+"@id":"3603492",
+"info":{"authors":{"author":{"@pid":"r/RPvandeRiet","text":"Reind P. van de Riet"}},"title":"Twenty-five years of Mokum - For 25 years of data and knowledge engineering - Correctness by design in relation to MDE and correct protocols in cyberspace.","venue":"Data Knowl. Eng.","volume":"67","number":"2","pages":"293-329","year":"2008","type":"Journal Articles","key":"journals/dke/Riet08b","doi":"10.1016/J.DATAK.2008.04.006","ee":"https://doi.org/10.1016/j.datak.2008.04.006","url":"https://dblp.org/rec/journals/dke/Riet08b"},
+"url":"URL#3603492"
+},
+{
+"@score":"1",
+"@id":"3603498",
+"info":{"authors":{"author":[{"@pid":"73/2079","text":"Spyros Sioutas"},{"@pid":"20/271","text":"Konstantinos Tsakalidis"},{"@pid":"87/172","text":"Kostas Tsichlas"},{"@pid":"19/304","text":"Christos Makris"},{"@pid":"m/YManolopoulos","text":"Yannis Manolopoulos"}]},"title":"A new approach on indexing mobile objects on the plane.","venue":"Data Knowl. Eng.","volume":"67","number":"3","pages":"362-380","year":"2008","type":"Journal Articles","key":"journals/dke/SioutasTTMM08","doi":"10.1016/J.DATAK.2008.06.009","ee":"https://doi.org/10.1016/j.datak.2008.06.009","url":"https://dblp.org/rec/journals/dke/SioutasTTMM08"},
+"url":"URL#3603498"
+},
+{
+"@score":"1",
+"@id":"3603502",
+"info":{"authors":{"author":[{"@pid":"65/5494","text":"Hia Jong Teoh"},{"@pid":"26/5983-1","text":"Ching-Hsue Cheng 0001"},{"@pid":"97/105","text":"Hsing-Hui Chu"},{"@pid":"53/2862","text":"Jr-Shian Chen"}]},"title":"Fuzzy time series model based on probabilistic approach and rough set rule induction for empirical research in stock markets.","venue":"Data Knowl. Eng.","volume":"67","number":"1","pages":"103-117","year":"2008","type":"Journal Articles","key":"journals/dke/TeohCCC08","doi":"10.1016/J.DATAK.2008.06.002","ee":"https://doi.org/10.1016/j.datak.2008.06.002","url":"https://dblp.org/rec/journals/dke/TeohCCC08"},
+"url":"URL#3603502"
+},
+{
+"@score":"1",
+"@id":"3603504",
+"info":{"authors":{"author":[{"@pid":"81/5348","text":"Frank S. C. Tseng"},{"@pid":"39/3221","text":"Chun-Ling Chen"}]},"title":"Enriching the class diagram concepts to capture natural language semantics for database access.","venue":"Data Knowl. Eng.","volume":"67","number":"1","pages":"1-29","year":"2008","type":"Journal Articles","key":"journals/dke/TsengC08","doi":"10.1016/J.DATAK.2008.05.006","ee":"https://doi.org/10.1016/j.datak.2008.05.006","url":"https://dblp.org/rec/journals/dke/TsengC08"},
+"url":"URL#3603504"
+},
+{
+"@score":"1",
+"@id":"3603511",
+"info":{"authors":{"author":[{"@pid":"52/4266","text":"Weijia Yang"},{"@pid":"38/6665","text":"Shangteng Huang"}]},"title":"Data privacy protection in multi-party clustering.","venue":"Data Knowl. Eng.","volume":"67","number":"1","pages":"185-199","year":"2008","type":"Journal Articles","key":"journals/dke/YangH08","doi":"10.1016/J.DATAK.2008.06.007","ee":"https://doi.org/10.1016/j.datak.2008.06.007","url":"https://dblp.org/rec/journals/dke/YangH08"},
+"url":"URL#3603511"
+},
+{
+"@score":"1",
+"@id":"3603512",
+"info":{"authors":{"author":[{"@pid":"y/YingYang-1","text":"Ying Yang 0001"},{"@pid":"59/4107","text":"Xindong Wu 0001"},{"@pid":"26/4253","text":"Xingquan Zhu"}]},"title":"Conceptual equivalence for contrast mining in classification learning.","venue":"Data Knowl. Eng.","volume":"67","number":"3","pages":"413-429","year":"2008","type":"Journal Articles","key":"journals/dke/YangWZ08","doi":"10.1016/J.DATAK.2008.07.001","ee":"https://doi.org/10.1016/j.datak.2008.07.001","url":"https://dblp.org/rec/journals/dke/YangWZ08"},
+"url":"URL#3603512"
+},
+{
+"@score":"1",
+"@id":"3603515",
+"info":{"authors":{"author":[{"@pid":"z/AoyingZhou","text":"Aoying Zhou"},{"@pid":"13/5366-2","text":"Rong Zhang 0002"},{"@pid":"55/3364","text":"Weining Qian"},{"@pid":"33/1532","text":"Quang Hieu Vu"},{"@pid":"06/5745","text":"Tianming Hu"}]},"title":"Adaptive indexing for content-based search in P2P systems.","venue":"Data Knowl. Eng.","volume":"67","number":"3","pages":"381-398","year":"2008","type":"Journal Articles","key":"journals/dke/ZhouZQVH08","doi":"10.1016/J.DATAK.2008.06.013","ee":"https://doi.org/10.1016/j.datak.2008.06.013","url":"https://dblp.org/rec/journals/dke/ZhouZQVH08"},
+"url":"URL#3603515"
+}
+]
+}
 }
 }

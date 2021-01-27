@@ -1,23 +1,110 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke32\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke32\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.55"
+"text":"145.46"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"13",
+"@dc":"13",
+"@oc":"13",
+"@id":"17615713",
+"text":":facetid:toc:db/journals/dke/dke32.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"13",
+"@computed":"13",
+"@sent":"13",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"4718074",
+"info":{"authors":{"author":{"@pid":"35/8389","text":"Bert O. de Brock"}},"title":"A General Treatment of Dynamic Integrity Constraints.","venue":"Data Knowl. Eng.","volume":"32","number":"3","pages":"223-246","year":"2000","type":"Journal Articles","key":"journals/dke/Brock00","doi":"10.1016/S0169-023X(99)00041-5","ee":"https://doi.org/10.1016/S0169-023X(99)00041-5","url":"https://dblp.org/rec/journals/dke/Brock00"},
+"url":"URL#4718074"
+},
+{
+"@score":"1",
+"@id":"4718079",
+"info":{"authors":{"author":[{"@pid":"20/3912","text":"Stefan Dieker"},{"@pid":"g/RHGuting","text":"Ralf Hartmut Güting"}]},"title":"Efficient Handling of Tuples with Embedded Large Objects.","venue":"Data Knowl. Eng.","volume":"32","number":"3","pages":"247-269","year":"2000","type":"Journal Articles","key":"journals/dke/DiekerG00","doi":"10.1016/S0169-023X(99)00040-3","ee":"https://doi.org/10.1016/S0169-023X(99)00040-3","url":"https://dblp.org/rec/journals/dke/DiekerG00"},
+"url":"URL#4718079"
+},
+{
+"@score":"1",
+"@id":"4718082",
+"info":{"authors":{"author":[{"@pid":"30/6480","text":"Cheng Hian Goh"},{"@pid":"62/3167","text":"Agnes Lim"},{"@pid":"o/BengChinOoi","text":"Beng Chin Ooi"},{"@pid":"t/KianLeeTan","text":"Kian-Lee Tan"}]},"title":"Efficient Indexing of High-Dimensional Data Through Dimensionality Reduction.","venue":"Data Knowl. Eng.","volume":"32","number":"2","pages":"115-130","year":"2000","type":"Journal Articles","key":"journals/dke/GohLOT00","doi":"10.1016/S0169-023X(99)00031-2","ee":"https://doi.org/10.1016/S0169-023X(99)00031-2","url":"https://dblp.org/rec/journals/dke/GohLOT00"},
+"url":"URL#4718082"
+},
+{
+"@score":"1",
+"@id":"4718088",
+"info":{"authors":{"author":{"@pid":"23/4530","text":"Anthony Hunter"}},"title":"Ramification Analysis Using Causal Mapping.","venue":"Data Knowl. Eng.","volume":"32","number":"1","pages":"1-27","year":"2000","type":"Journal Articles","key":"journals/dke/Hunter00","doi":"10.1016/S0169-023X(99)00030-0","ee":"https://doi.org/10.1016/S0169-023X(99)00030-0","url":"https://dblp.org/rec/journals/dke/Hunter00"},
+"url":"URL#4718088"
+},
+{
+"@score":"1",
+"@id":"4718091",
+"info":{"authors":{"author":[{"@pid":"96/5632","text":"Ji-Han Jiang"},{"@pid":"c/ChinChenChang","text":"Chin-Chen Chang 0001"},{"@pid":"75/6894","text":"Tung-Shou Chen"}]},"title":"A Compact Sparse Matrix Representation Using Random Hash Functions.","venue":"Data Knowl. Eng.","volume":"32","number":"1","pages":"29-49","year":"2000","type":"Journal Articles","key":"journals/dke/JiangCC00","doi":"10.1016/S0169-023X(99)00017-8","ee":"https://doi.org/10.1016/S0169-023X(99)00017-8","url":"https://dblp.org/rec/journals/dke/JiangCC00"},
+"url":"URL#4718091"
+},
+{
+"@score":"1",
+"@id":"4718096",
+"info":{"authors":{"author":[{"@pid":"l/PatrickLambrix","text":"Patrick Lambrix"},{"@pid":"p/LPadgham","text":"Lin Padgham"}]},"title":"Conceptual Modeling in a Document Management Environment Using Part-of Reasoning in Description Logics.","venue":"Data Knowl. Eng.","volume":"32","number":"1","pages":"51-86","year":"2000","type":"Journal Articles","key":"journals/dke/LambrixP00","doi":"10.1016/S0169-023X(99)00033-6","ee":"https://doi.org/10.1016/S0169-023X(99)00033-6","url":"https://dblp.org/rec/journals/dke/LambrixP00"},
+"url":"URL#4718096"
+},
+{
+"@score":"1",
+"@id":"4718103",
+"info":{"authors":{"author":[{"@pid":"m/SallyIMcClean","text":"Sally I. McClean"},{"@pid":"42/250","text":"Bryan W. Scotney"},{"@pid":"s/MaryShapcott","text":"Mary Shapcott"}]},"title":"Using Background Knowledge in the Aggregation of Imprecise Evidence in Databases.","venue":"Data Knowl. Eng.","volume":"32","number":"2","pages":"131-143","year":"2000","type":"Journal Articles","key":"journals/dke/McCleanSS00","doi":"10.1016/S0169-023X(99)00034-8","ee":"https://doi.org/10.1016/S0169-023X(99)00034-8","url":"https://dblp.org/rec/journals/dke/McCleanSS00"},
+"url":"URL#4718103"
+},
+{
+"@score":"1",
+"@id":"4718107",
+"info":{"authors":{"author":[{"@pid":"85/6670","text":"Mukesh K. Mohania"},{"@pid":"k/YahikoKambayashi","text":"Yahiko Kambayashi"}]},"title":"Making Aggregate Views Self-maintainable.","venue":"Data Knowl. Eng.","volume":"32","number":"1","pages":"87-109","year":"2000","type":"Journal Articles","key":"journals/dke/MohaniaK00","doi":"10.1016/S0169-023X(99)00016-6","ee":"https://doi.org/10.1016/S0169-023X(99)00016-6","url":"https://dblp.org/rec/journals/dke/MohaniaK00"},
+"url":"URL#4718107"
+},
+{
+"@score":"1",
+"@id":"4718108",
+"info":{"authors":{"author":{"@pid":"37/5904","text":"Renate Motschnig-Pitrik"}},"title":"A Generic Framework for the Modeling of Contexts and its Applications.","venue":"Data Knowl. Eng.","volume":"32","number":"2","pages":"145-180","year":"2000","type":"Journal Articles","key":"journals/dke/Motschnig-Pitrik00","doi":"10.1016/S0169-023X(99)00035-X","ee":"https://doi.org/10.1016/S0169-023X(99)00035-X","url":"https://dblp.org/rec/journals/dke/Motschnig-Pitrik00"},
+"url":"URL#4718108"
+},
+{
+"@score":"1",
+"@id":"4718110",
+"info":{"authors":{"author":[{"@pid":"61/4674","text":"Tolety Siva Perraju"},{"@pid":"98/975","text":"Bandreddi E. Prasad"}]},"title":"An Algorithm for Maintaining Working Memory Consistency in Multiple Rule Firing Systems.","venue":"Data Knowl. Eng.","volume":"32","number":"2","pages":"181-198","year":"2000","type":"Journal Articles","key":"journals/dke/PerrajuP00","doi":"10.1016/S0169-023X(99)00038-5","ee":"https://doi.org/10.1016/S0169-023X(99)00038-5","url":"https://dblp.org/rec/journals/dke/PerrajuP00"},
+"url":"URL#4718110"
+},
+{
+"@score":"1",
+"@id":"4718111",
+"info":{"authors":{"author":[{"@pid":"p/DannyChiangChoonPoo","text":"Danny C. C. Poo"},{"@pid":"79/2628","text":"Teck-Kang Toh"},{"@pid":"88/1561","text":"Christopher S. G. Khoo"}]},"title":"Design and Implementation of the E-Referencer.","venue":"Data Knowl. Eng.","volume":"32","number":"2","pages":"199-218","year":"2000","type":"Journal Articles","key":"journals/dke/PooTK00","doi":"10.1016/S0169-023X(99)00032-4","ee":"https://doi.org/10.1016/S0169-023X(99)00032-4","url":"https://dblp.org/rec/journals/dke/PooTK00"},
+"url":"URL#4718111"
+},
+{
+"@score":"1",
+"@id":"4718116",
+"info":{"authors":{"author":[{"@pid":"t/KianLeeTan","text":"Kian-Lee Tan"},{"@pid":"o/BengChinOoi","text":"Beng Chin Ooi"},{"@pid":"09/5200","text":"Lay Foo Thiang"}]},"title":"Indexing Shapes in Image Databases Using the Centroid-Radii Model.","venue":"Data Knowl. Eng.","volume":"32","number":"3","pages":"271-289","year":"2000","type":"Journal Articles","key":"journals/dke/TanOT00","doi":"10.1016/S0169-023X(99)00039-7","ee":"https://doi.org/10.1016/S0169-023X(99)00039-7","url":"https://dblp.org/rec/journals/dke/TanOT00"},
+"url":"URL#4718116"
+},
+{
+"@score":"1",
+"@id":"4718121",
+"info":{"authors":{"author":[{"@pid":"46/2750","text":"Moshe Zviran"},{"@pid":"49/2960","text":"Chanan Glezer"}]},"title":"Towards Generating a Data Integrity Standard.","venue":"Data Knowl. Eng.","volume":"32","number":"3","pages":"291-313","year":"2000","type":"Journal Articles","key":"journals/dke/ZviranG00","doi":"10.1016/S0169-023X(99)00042-7","ee":"https://doi.org/10.1016/S0169-023X(99)00042-7","url":"https://dblp.org/rec/journals/dke/ZviranG00"},
+"url":"URL#4718121"
+}
+]
+}
 }
 }

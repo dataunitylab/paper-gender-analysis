@@ -1,23 +1,122 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke86\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke86\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.36"
+"text":"140.82"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"15",
+"@dc":"15",
+"@oc":"15",
+"@id":"17615768",
+"text":":facetid:toc:db/journals/dke/dke86.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"15",
+"@computed":"15",
+"@sent":"15",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"2385723",
+"info":{"authors":{"author":[{"@pid":"68/8613","text":"Serdar Arslan"},{"@pid":"14/4370","text":"Adnan Yazici"},{"@pid":"00/623","text":"Ahmet Sacan"},{"@pid":"t/IJToroslu","text":"Ismail H. Toroslu"},{"@pid":"40/8617","text":"Esra Acar"}]},"title":"Comparison of feature-based and image registration-based retrieval of image data using multidimensional data access methods.","venue":"Data Knowl. Eng.","volume":"86","pages":"124-145","year":"2013","type":"Journal Articles","key":"journals/dke/ArslanYSTA13","doi":"10.1016/J.DATAK.2013.01.007","ee":"https://doi.org/10.1016/j.datak.2013.01.007","url":"https://dblp.org/rec/journals/dke/ArslanYSTA13"},
+"url":"URL#2385723"
+},
+{
+"@score":"1",
+"@id":"2385725",
+"info":{"authors":{"author":[{"@pid":"06/8171-1","text":"Irene Barba 0001"},{"@pid":"96/2864","text":"Barbara Weber"},{"@pid":"38/1715","text":"Carmelo Del Valle"},{"@pid":"63/10167","text":"Andres Jimenez Ramirez"}]},"title":"User recommendations for the optimized execution of business processes.","venue":"Data Knowl. Eng.","volume":"86","pages":"61-84","year":"2013","type":"Journal Articles","key":"journals/dke/BarbaWVR13","doi":"10.1016/J.DATAK.2013.01.004","ee":"https://doi.org/10.1016/j.datak.2013.01.004","url":"https://dblp.org/rec/journals/dke/BarbaWVR13"},
+"url":"URL#2385725"
+},
+{
+"@score":"1",
+"@id":"2385727",
+"info":{"authors":{"author":[{"@pid":"60/7439","text":"Luca Cagliero"},{"@pid":"g/PaoloGarza","text":"Paolo Garza"}]},"title":"Improving classification models with taxonomy information.","venue":"Data Knowl. Eng.","volume":"86","pages":"85-101","year":"2013","type":"Journal Articles","key":"journals/dke/CaglieroG13","doi":"10.1016/J.DATAK.2013.01.005","ee":"https://doi.org/10.1016/j.datak.2013.01.005","url":"https://dblp.org/rec/journals/dke/CaglieroG13"},
+"url":"URL#2385727"
+},
+{
+"@score":"1",
+"@id":"2385730",
+"info":{"authors":{"author":[{"@pid":"130/7969","text":"Gaby G. Dagher"},{"@pid":"f/BCMFung","text":"Benjamin C. M. Fung"}]},"title":"Subject-based semantic document clustering for digital forensic investigations.","venue":"Data Knowl. Eng.","volume":"86","pages":"224-241","year":"2013","type":"Journal Articles","key":"journals/dke/DagherF13","doi":"10.1016/J.DATAK.2013.03.005","ee":"https://doi.org/10.1016/j.datak.2013.03.005","url":"https://dblp.org/rec/journals/dke/DagherF13"},
+"url":"URL#2385730"
+},
+{
+"@score":"1",
+"@id":"2385735",
+"info":{"authors":{"author":[{"@pid":"25/6831","text":"Mariano Fernández-López"},{"@pid":"83/5312","text":"Asunción Gómez-Pérez"},{"@pid":"86/1658","text":"Mari Carmen Suárez-Figueroa"}]},"title":"Methodological guidelines for reusing general ontologies.","venue":"Data Knowl. Eng.","volume":"86","pages":"242-275","year":"2013","type":"Journal Articles","key":"journals/dke/Fernandez-LopezGS13","doi":"10.1016/J.DATAK.2013.03.006","ee":"https://doi.org/10.1016/j.datak.2013.03.006","url":"https://dblp.org/rec/journals/dke/Fernandez-LopezGS13"},
+"url":"URL#2385735"
+},
+{
+"@score":"1",
+"@id":"2385750",
+"info":{"authors":{"author":[{"@pid":"l/PatrickLambrix","text":"Patrick Lambrix"},{"@pid":"82/816","text":"Qiang Liu 0002"}]},"title":"Debugging the missing is-a structure within taxonomies networked by partial reference alignments.","venue":"Data Knowl. Eng.","volume":"86","pages":"179-205","year":"2013","type":"Journal Articles","key":"journals/dke/Lambrix013","doi":"10.1016/J.DATAK.2013.03.003","ee":"https://doi.org/10.1016/j.datak.2013.03.003","url":"https://dblp.org/rec/journals/dke/Lambrix013"},
+"url":"URL#2385750"
+},
+{
+"@score":"1",
+"@id":"2385756",
+"info":{"authors":{"author":[{"@pid":"124/7645","text":"Yanni Li"},{"@pid":"29/3814","text":"Yuping Wang"},{"@pid":"92/1104","text":"Peng Jiang"},{"@pid":"130/7882","text":"Zhensong Zhang"}]},"title":"Multi-objective optimization integration of query interfaces for the Deep Web based on attribute constraints.","venue":"Data Knowl. Eng.","volume":"86","pages":"38-60","year":"2013","type":"Journal Articles","key":"journals/dke/LiWJZ13","doi":"10.1016/J.DATAK.2013.01.003","ee":"https://doi.org/10.1016/j.datak.2013.01.003","url":"https://dblp.org/rec/journals/dke/LiWJZ13"},
+"url":"URL#2385756"
+},
+{
+"@score":"1",
+"@id":"2385759",
+"info":{"authors":{"author":[{"@pid":"l/JixueLiu","text":"Jixue Liu"},{"@pid":"39/2273","text":"Feiyue Ye"},{"@pid":"20/1583","text":"Jiuyong Li"},{"@pid":"70/2659","text":"Junhu Wang"}]},"title":"On discovery of functional dependencies from data.","venue":"Data Knowl. Eng.","volume":"86","pages":"146-159","year":"2013","type":"Journal Articles","key":"journals/dke/LiuYLW13","doi":"10.1016/J.DATAK.2013.01.008","ee":"https://doi.org/10.1016/j.datak.2013.01.008","url":"https://dblp.org/rec/journals/dke/LiuYLW13"},
+"url":"URL#2385759"
+},
+{
+"@score":"1",
+"@id":"2385761",
+"info":{"authors":{"author":[{"@pid":"23/8487","text":"José María Luna"},{"@pid":"23/5481","text":"José Raúl Romero"},{"@pid":"00/4717","text":"Sebastián Ventura"}]},"title":"Grammar-based multi-objective algorithms for mining association rules.","venue":"Data Knowl. Eng.","volume":"86","pages":"19-37","year":"2013","type":"Journal Articles","key":"journals/dke/LunaRV13","doi":"10.1016/J.DATAK.2013.01.002","ee":"https://doi.org/10.1016/j.datak.2013.01.002","url":"https://dblp.org/rec/journals/dke/LunaRV13"},
+"url":"URL#2385761"
+},
+{
+"@score":"1",
+"@id":"2385764",
+"info":{"authors":{"author":[{"@pid":"54/7872","text":"Christos Maramis"},{"@pid":"28/6517","text":"Manolis Falelakis"},{"@pid":"09/6934","text":"Irini Lekka"},{"@pid":"41/6021","text":"Christos Diou"},{"@pid":"79/1157","text":"Pericles A. Mitkas"},{"@pid":"49/3217","text":"Anastasios Delopoulos"}]},"title":"Applying semantic technologies in cervical cancer research.","venue":"Data Knowl. Eng.","volume":"86","pages":"160-178","year":"2013","type":"Journal Articles","key":"journals/dke/MaramisFLDMD13","doi":"10.1016/J.DATAK.2013.02.003","ee":"https://doi.org/10.1016/j.datak.2013.02.003","url":"https://dblp.org/rec/journals/dke/MaramisFLDMD13"},
+"url":"URL#2385764"
+},
+{
+"@score":"1",
+"@id":"2385767",
+"info":{"authors":{"author":[{"@pid":"75/875","text":"Michael Minock"},{"@pid":"130/6334","text":"Johan Mollevik"}]},"title":"Context-dependent &apos;near&apos; and &apos;far&apos; in spatial databases via supervaluation.","venue":"Data Knowl. Eng.","volume":"86","pages":"295-305","year":"2013","type":"Journal Articles","key":"journals/dke/MinockM13","doi":"10.1016/J.DATAK.2013.02.004","ee":"https://doi.org/10.1016/j.datak.2013.02.004","url":"https://dblp.org/rec/journals/dke/MinockM13"},
+"url":"URL#2385767"
+},
+{
+"@score":"1",
+"@id":"2385784",
+"info":{"authors":{"author":[{"@pid":"30/4677","text":"Bruno Tomazela"},{"@pid":"26/3914","text":"Carmem Satie Hara"},{"@pid":"58/1079","text":"Ricardo Rodrigues Ciferri"},{"@pid":"13/4069","text":"Cristina Dutra de Aguiar Ciferri"}]},"title":"Empowering integration processes with data provenance.","venue":"Data Knowl. Eng.","volume":"86","pages":"102-123","year":"2013","type":"Journal Articles","key":"journals/dke/TomazelaHCC13","doi":"10.1016/J.DATAK.2013.01.006","ee":"https://doi.org/10.1016/j.datak.2013.01.006","url":"https://dblp.org/rec/journals/dke/TomazelaHCC13"},
+"url":"URL#2385784"
+},
+{
+"@score":"1",
+"@id":"2385787",
+"info":{"authors":{"author":[{"@pid":"55/7405","text":"Katia Vila"},{"@pid":"20/9427","text":"Antonio Fernández Orquín"},{"@pid":"59/7402","text":"José M. Gómez"},{"@pid":"r/AntonioFerrandezRodriguez","text":"Antonio Ferrández"},{"@pid":"32/8214","text":"Josval Díaz"}]},"title":"Noise-tolerance feasibility for restricted-domain Information Retrieval systems.","venue":"Data Knowl. Eng.","volume":"86","pages":"276-294","year":"2013","type":"Journal Articles","key":"journals/dke/VilaOGFD13","doi":"10.1016/J.DATAK.2013.02.002","ee":"https://doi.org/10.1016/j.datak.2013.02.002","url":"https://dblp.org/rec/journals/dke/VilaOGFD13"},
+"url":"URL#2385787"
+},
+{
+"@score":"1",
+"@id":"2385788",
+"info":{"authors":{"author":[{"@pid":"38/888","text":"Hazel Webb"},{"@pid":"l/DanielLemire","text":"Daniel Lemire"},{"@pid":"77/113","text":"Owen Kaser"}]},"title":"Diamond dicing.","venue":"Data Knowl. Eng.","volume":"86","pages":"1-18","year":"2013","type":"Journal Articles","key":"journals/dke/WebbLK13","doi":"10.1016/J.DATAK.2013.01.001","ee":"https://doi.org/10.1016/j.datak.2013.01.001","url":"https://dblp.org/rec/journals/dke/WebbLK13"},
+"url":"URL#2385788"
+},
+{
+"@score":"1",
+"@id":"2385789",
+"info":{"authors":{"author":[{"@pid":"72/7268","text":"Yanwei Xu"},{"@pid":"89/2685","text":"Jihong Guan"},{"@pid":"14/4924","text":"Fengrong Li"},{"@pid":"52/6744","text":"Shuigeng Zhou"}]},"title":"Scalable continual top-k keyword search in relational databases.","venue":"Data Knowl. Eng.","volume":"86","pages":"206-223","year":"2013","type":"Journal Articles","key":"journals/dke/XuGLZ13","doi":"10.1016/J.DATAK.2013.03.004","ee":"https://doi.org/10.1016/j.datak.2013.03.004","url":"https://dblp.org/rec/journals/dke/XuGLZ13"},
+"url":"URL#2385789"
+}
+]
+}
 }
 }

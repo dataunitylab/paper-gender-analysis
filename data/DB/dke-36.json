@@ -1,23 +1,110 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke36\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke36\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.50"
+"text":"150.53"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"13",
+"@dc":"13",
+"@oc":"13",
+"@id":"17615717",
+"text":":facetid:toc:db/journals/dke/dke36.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"13",
+"@computed":"13",
+"@sent":"13",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"4636539",
+"info":{"authors":{"author":[{"@pid":"b/SBergamaschi","text":"Sonia Bergamaschi"},{"@pid":"c/SilvanaCastano","text":"Silvana Castano"},{"@pid":"65/4364","text":"Maurizio Vincini"},{"@pid":"b/DBeneventano","text":"Domenico Beneventano"}]},"title":"Semantic integration of heterogeneous information sources.","venue":"Data Knowl. Eng.","volume":"36","number":"3","pages":"215-249","year":"2001","type":"Journal Articles","key":"journals/dke/BergamaschiCVB01","doi":"10.1016/S0169-023X(00)00047-1","ee":"https://doi.org/10.1016/S0169-023X(00)00047-1","url":"https://dblp.org/rec/journals/dke/BergamaschiCVB01"},
+"url":"URL#4636539"
+},
+{
+"@score":"1",
+"@id":"4636546",
+"info":{"authors":{"author":[{"@pid":"c/DWLCheung","text":"David Wai-Lok Cheung"},{"@pid":"65/3628","text":"Bo Zhou"},{"@pid":"k/BenKao","text":"Ben Kao"},{"@pid":"92/2627","text":"Kan Hu"},{"@pid":"71/6044","text":"Sau Dan Lee"}]},"title":"Towards the building of a dense-region-based OLAP system.","venue":"Data Knowl. Eng.","volume":"36","number":"1","pages":"1-27","year":"2001","type":"Journal Articles","key":"journals/dke/CheungZKKL01","doi":"10.1016/S0169-023X(00)00027-6","ee":"https://doi.org/10.1016/S0169-023X(00)00027-6","url":"https://dblp.org/rec/journals/dke/CheungZKKL01"},
+"url":"URL#4636546"
+},
+{
+"@score":"1",
+"@id":"4636552",
+"info":{"authors":{"author":[{"@pid":"49/125","text":"Michael Erdmann"},{"@pid":"s/RudiStuder","text":"Rudi Studer"}]},"title":"How to structure and access XML documents with ontologies.","venue":"Data Knowl. Eng.","volume":"36","number":"3","pages":"317-335","year":"2001","type":"Journal Articles","key":"journals/dke/ErdmannS01","doi":"10.1016/S0169-023X(00)00048-3","ee":"https://doi.org/10.1016/S0169-023X(00)00048-3","url":"https://dblp.org/rec/journals/dke/ErdmannS01"},
+"url":"URL#4636552"
+},
+{
+"@score":"1",
+"@id":"4636553",
+"info":{"authors":{"author":{"@pid":"e/ChristieIEzeife","text":"C. I. Ezeife"}},"title":"Selecting and materializing horizontally partitioned warehouse views.","venue":"Data Knowl. Eng.","volume":"36","number":"2","pages":"185-210","year":"2001","type":"Journal Articles","key":"journals/dke/Ezeife01","doi":"10.1016/S0169-023X(00)00044-6","ee":"https://doi.org/10.1016/S0169-023X(00)00044-6","url":"https://dblp.org/rec/journals/dke/Ezeife01"},
+"url":"URL#4636553"
+},
+{
+"@score":"1",
+"@id":"4636556",
+"info":{"authors":{"author":[{"@pid":"31/4309","text":"Dieter Fensel"},{"@pid":"b/FBaader","text":"Franz Baader"},{"@pid":"r/MCRousset","text":"Marie-Christine Rousset"},{"@pid":"63/1753","text":"Holger Wache"}]},"title":"Heterogeneous information resources need semantic access.","venue":"Data Knowl. Eng.","volume":"36","number":"3","pages":"211-213","year":"2001","type":"Journal Articles","key":"journals/dke/FenselBRW01","doi":"10.1016/S0169-023X(00)00046-X","ee":"https://doi.org/10.1016/S0169-023X(00)00046-X","url":"https://dblp.org/rec/journals/dke/FenselBRW01"},
+"url":"URL#4636556"
+},
+{
+"@score":"1",
+"@id":"4636557",
+"info":{"authors":{"author":[{"@pid":"g/StephaneGancarski","text":"Stéphane Gançarski"},{"@pid":"73/6957","text":"Geneviève Jomier"}]},"title":"A framework for programming multiversion databases.","venue":"Data Knowl. Eng.","volume":"36","number":"1","pages":"29-53","year":"2001","type":"Journal Articles","key":"journals/dke/GancarskiJ01","doi":"10.1016/S0169-023X(00)00033-1","ee":"https://doi.org/10.1016/S0169-023X(00)00033-1","url":"https://dblp.org/rec/journals/dke/GancarskiJ01"},
+"url":"URL#4636557"
+},
+{
+"@score":"1",
+"@id":"4636562",
+"info":{"authors":{"author":{"@pid":"k/MatthiasKlusch","text":"Matthias Klusch"}},"title":"Information agent technology for the Internet - A survey.","venue":"Data Knowl. Eng.","volume":"36","number":"3","pages":"337-372","year":"2001","type":"Journal Articles","key":"journals/dke/Klusch01","doi":"10.1016/S0169-023X(00)00049-5","ee":"https://doi.org/10.1016/S0169-023X(00)00049-5","url":"https://dblp.org/rec/journals/dke/Klusch01"},
+"url":"URL#4636562"
+},
+{
+"@score":"1",
+"@id":"4636570",
+"info":{"authors":{"author":[{"@pid":"31/3681","text":"Tomi Männistö"},{"@pid":"70/714","text":"Hannu Peltonen"},{"@pid":"48/6773","text":"Timo Soininen"},{"@pid":"24/6807","text":"Reijo Sulonen"}]},"title":"Multiple abstraction levels in modelling product structures.","venue":"Data Knowl. Eng.","volume":"36","number":"1","pages":"55-78","year":"2001","type":"Journal Articles","key":"journals/dke/MannistoPSS01","doi":"10.1016/S0169-023X(00)00034-3","ee":"https://doi.org/10.1016/S0169-023X(00)00034-3","url":"https://dblp.org/rec/journals/dke/MannistoPSS01"},
+"url":"URL#4636570"
+},
+{
+"@score":"1",
+"@id":"4636577",
+"info":{"authors":{"author":[{"@pid":"62/2012","text":"Vesper Owei"},{"@pid":"n/ShamkantBNavathe","text":"Shamkant B. Navathe"}]},"title":"A formal basis for an abbreviated concept-based query language.","venue":"Data Knowl. Eng.","volume":"36","number":"2","pages":"109-151","year":"2001","type":"Journal Articles","key":"journals/dke/OweiN01","doi":"10.1016/S0169-023X(00)00042-2","ee":"https://doi.org/10.1016/S0169-023X(00)00042-2","url":"https://dblp.org/rec/journals/dke/OweiN01"},
+"url":"URL#4636577"
+},
+{
+"@score":"1",
+"@id":"4636578",
+"info":{"authors":{"author":[{"@pid":"p/MPPapazoglou","text":"Mike P. Papazoglou"},{"@pid":"p/ErikProper","text":"Henderik Alex Proper"},{"@pid":"y/JianYang1","text":"Jian Yang 0001"}]},"title":"Landscaping the information space of large multi-database networks.","venue":"Data Knowl. Eng.","volume":"36","number":"3","pages":"251-281","year":"2001","type":"Journal Articles","key":"journals/dke/PapazoglouPY01","doi":"10.1016/S0169-023X(00)00050-1","ee":"https://doi.org/10.1016/S0169-023X(00)00050-1","url":"https://dblp.org/rec/journals/dke/PapazoglouPY01"},
+"url":"URL#4636578"
+},
+{
+"@score":"1",
+"@id":"4636580",
+"info":{"authors":{"author":[{"@pid":"p/GPreuner","text":"Günter Preuner"},{"@pid":"c/StefanConrad1","text":"Stefan Conrad 0001"},{"@pid":"s/MichaelSchrefl","text":"Michael Schrefl"}]},"title":"View integration of behavior in object-oriented databases.","venue":"Data Knowl. Eng.","volume":"36","number":"2","pages":"153-183","year":"2001","type":"Journal Articles","key":"journals/dke/PreunerCS01","doi":"10.1016/S0169-023X(00)00043-4","ee":"https://doi.org/10.1016/S0169-023X(00)00043-4","url":"https://dblp.org/rec/journals/dke/PreunerCS01"},
+"url":"URL#4636580"
+},
+{
+"@score":"1",
+"@id":"4636582",
+"info":{"authors":{"author":[{"@pid":"s/ArnaudSahuguet","text":"Arnaud Sahuguet"},{"@pid":"70/6895","text":"Fabien Azavant"}]},"title":"Building intelligent Web applications using lightweight wrappers.","venue":"Data Knowl. Eng.","volume":"36","number":"3","pages":"283-316","year":"2001","type":"Journal Articles","key":"journals/dke/SahuguetA01","doi":"10.1016/S0169-023X(00)00051-3","ee":"https://doi.org/10.1016/S0169-023X(00)00051-3","url":"https://dblp.org/rec/journals/dke/SahuguetA01"},
+"url":"URL#4636582"
+},
+{
+"@score":"1",
+"@id":"4636584",
+"info":{"authors":{"author":{"@pid":"43/4008","text":"Christian Soutou"}},"title":"Modeling relationships in object-relational databases.","venue":"Data Knowl. Eng.","volume":"36","number":"1","pages":"79-107","year":"2001","type":"Journal Articles","key":"journals/dke/Soutou01","doi":"10.1016/S0169-023X(00)00035-5","ee":"https://doi.org/10.1016/S0169-023X(00)00035-5","url":"https://dblp.org/rec/journals/dke/Soutou01"},
+"url":"URL#4636584"
+}
+]
+}
 }
 }

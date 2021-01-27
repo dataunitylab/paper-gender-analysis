@@ -1,23 +1,110 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke22\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke22\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.55"
+"text":"97.08"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"13",
+"@dc":"13",
+"@oc":"13",
+"@id":"17615702",
+"text":":facetid:toc:db/journals/dke/dke22.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"13",
+"@computed":"13",
+"@sent":"13",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"4923629",
+"info":{"authors":{"author":{"@pid":"b/CBettini","text":"Claudio Bettini"}},"title":"Time-Dependent Concepts - Representation and Reasoning Using Temporal Description Logics.","venue":"Data Knowl. Eng.","volume":"22","number":"1","pages":"1-38","year":"1997","type":"Journal Articles","key":"journals/dke/Bettini97","doi":"10.1016/S0169-023X(96)00036-5","ee":"https://doi.org/10.1016/S0169-023X(96)00036-5","url":"https://dblp.org/rec/journals/dke/Bettini97"},
+"url":"URL#4923629"
+},
+{
+"@score":"1",
+"@id":"4923634",
+"info":{"authors":{"author":[{"@pid":"28/5014","text":"Jui-Chang Chiu"},{"@pid":"c/ALPChen","text":"Arbee L. P. Chen"}]},"title":"Manipulation of Exclusive Disjunctive Data in Relational Databases.","venue":"Data Knowl. Eng.","volume":"22","number":"1","pages":"39-65","year":"1997","type":"Journal Articles","key":"journals/dke/ChiuC97","doi":"10.1016/S0169-023X(96)00043-2","ee":"https://doi.org/10.1016/S0169-023X(96)00043-2","url":"https://dblp.org/rec/journals/dke/ChiuC97"},
+"url":"URL#4923634"
+},
+{
+"@score":"1",
+"@id":"4923643",
+"info":{"authors":{"author":[{"@pid":"91/6534","text":"Min-Shiang Hwang"},{"@pid":"20/5454","text":"Wei-Pang Yang"}]},"title":"Multilevel Secure Database Encryption with Subkeys.","venue":"Data Knowl. Eng.","volume":"22","number":"2","pages":"117-131","year":"1997","type":"Journal Articles","key":"journals/dke/HwangY97","doi":"10.1016/S0169-023X(96)00040-7","ee":"https://doi.org/10.1016/S0169-023X(96)00040-7","url":"https://dblp.org/rec/journals/dke/HwangY97"},
+"url":"URL#4923643"
+},
+{
+"@score":"1",
+"@id":"4923646",
+"info":{"authors":{"author":[{"@pid":"04/5138","text":"Mohammad A. Ketabchi"},{"@pid":"78/2011","text":"Kamyar Jambor-Sadeghi"}]},"title":"Modeling Application Domains.","venue":"Data Knowl. Eng.","volume":"22","number":"3","pages":"261-281","year":"1997","type":"Journal Articles","key":"journals/dke/KetabchiJ97","doi":"10.1016/S0169-023X(96)00056-0","ee":"https://doi.org/10.1016/S0169-023X(96)00056-0","url":"https://dblp.org/rec/journals/dke/KetabchiJ97"},
+"url":"URL#4923646"
+},
+{
+"@score":"1",
+"@id":"4923647",
+"info":{"authors":{"author":[{"@pid":"21/1569","text":"Duk Hyun Kim"},{"@pid":"97/2569","text":"Sung Joo Park"}]},"title":"FORM - A Flexible Data Model for Integrated CASE Environments.","venue":"Data Knowl. Eng.","volume":"22","number":"2","pages":"133-158","year":"1997","type":"Journal Articles","key":"journals/dke/KimP97","doi":"10.1016/S0169-023X(96)00042-0","ee":"https://doi.org/10.1016/S0169-023X(96)00042-0","url":"https://dblp.org/rec/journals/dke/KimP97"},
+"url":"URL#4923647"
+},
+{
+"@score":"1",
+"@id":"4923655",
+"info":{"authors":{"author":{"@pid":"p/ErikProper","text":"Henderik Alex Proper"}},"title":"Data Schema Design as a Schema Evolution Process.","venue":"Data Knowl. Eng.","volume":"22","number":"2","pages":"159-189","year":"1997","type":"Journal Articles","key":"journals/dke/Proper97","doi":"10.1016/S0169-023X(96)00045-6","ee":"https://doi.org/10.1016/S0169-023X(96)00045-6","url":"https://dblp.org/rec/journals/dke/Proper97"},
+"url":"URL#4923655"
+},
+{
+"@score":"1",
+"@id":"4923656",
+"info":{"authors":{"author":[{"@pid":"11/5129","text":"M. A. Qutaishat"},{"@pid":"f/NJFiddian","text":"N. J. Fiddian"},{"@pid":"g/WAGray","text":"W. A. Gray"}]},"title":"Extending OMT to Support Bottom-Up Design Modelling in a Heterogeneous Distributed Database Environment.","venue":"Data Knowl. Eng.","volume":"22","number":"2","pages":"191-205","year":"1997","type":"Journal Articles","key":"journals/dke/QutaishatFG97","doi":"10.1016/S0169-023X(97)81410-3","ee":"https://doi.org/10.1016/S0169-023X(97)81410-3","url":"https://dblp.org/rec/journals/dke/QutaishatFG97"},
+"url":"URL#4923656"
+},
+{
+"@score":"1",
+"@id":"4923657",
+"info":{"authors":{"author":[{"@pid":"r/FdFRezende","text":"Fernando de Ferreira Rezende"},{"@pid":"h/TheoHarder","text":"Theo Härder"}]},"title":"Exploiting Abstraction Relationships Semantics for Transaction Synchronization in KBMSs.","venue":"Data Knowl. Eng.","volume":"22","number":"3","pages":"233-259","year":"1997","type":"Journal Articles","key":"journals/dke/RezendeH97","doi":"10.1016/S0169-023X(96)00049-3","ee":"https://doi.org/10.1016/S0169-023X(96)00049-3","url":"https://dblp.org/rec/journals/dke/RezendeH97"},
+"url":"URL#4923657"
+},
+{
+"@score":"1",
+"@id":"4923662",
+"info":{"authors":{"author":[{"@pid":"20/2811","text":"Pauray S. M. Tsai"},{"@pid":"c/ALPChen","text":"Arbee L. P. Chen"}]},"title":"Optimizing Entity Join Queries when Data Transmission Cost Dominates.","venue":"Data Knowl. Eng.","volume":"22","number":"3","pages":"283-308","year":"1997","type":"Journal Articles","key":"journals/dke/TsaiC97","doi":"10.1016/S0169-023X(96)00052-3","ee":"https://doi.org/10.1016/S0169-023X(96)00052-3","url":"https://dblp.org/rec/journals/dke/TsaiC97"},
+"url":"URL#4923662"
+},
+{
+"@score":"1",
+"@id":"4923663",
+"info":{"authors":{"author":[{"@pid":"62/1192","text":"Susan Darling Urban"},{"@pid":"12/4057","text":"Anton P. Karadimce"},{"@pid":"d/SWDietrich","text":"Suzanne W. Dietrich"},{"@pid":"a/TaoufikBenAbdellatif","text":"Taoufik Ben Abdellatif"},{"@pid":"11/6567","text":"Hon Wai Rene Chan"}]},"title":"CDOL - A Comprehensive Declarative Object Language.","venue":"Data Knowl. Eng.","volume":"22","number":"1","pages":"67-111","year":"1997","type":"Journal Articles","key":"journals/dke/UrbanKDAC97","doi":"10.1016/S0169-023X(96)00041-9","ee":"https://doi.org/10.1016/S0169-023X(96)00041-9","url":"https://dblp.org/rec/journals/dke/UrbanKDAC97"},
+"url":"URL#4923663"
+},
+{
+"@score":"1",
+"@id":"4923664",
+"info":{"authors":{"author":[{"@pid":"05/1759","text":"Michael Vassilakopoulos"},{"@pid":"m/YManolopoulos","text":"Yannis Manolopoulos"}]},"title":"On Sampling Regional Data.","venue":"Data Knowl. Eng.","volume":"22","number":"3","pages":"309-318","year":"1997","type":"Journal Articles","key":"journals/dke/VassilakopoulosM97","doi":"10.1016/S0169-023X(96)00047-X","ee":"https://doi.org/10.1016/S0169-023X(96)00047-X","url":"https://dblp.org/rec/journals/dke/VassilakopoulosM97"},
+"url":"URL#4923664"
+},
+{
+"@score":"1",
+"@id":"4923666",
+"info":{"authors":{"author":[{"@pid":"y/JXuYu","text":"Jeffrey Xu Yu"},{"@pid":"t/KianLeeTan","text":"Kian-Lee Tan"}]},"title":"An Analysis of Selective Tuning Schemes for Nonuniform Broadcast.","venue":"Data Knowl. Eng.","volume":"22","number":"3","pages":"319-344","year":"1997","type":"Journal Articles","key":"journals/dke/XuT97","doi":"10.1016/S0169-023X(96)00048-1","ee":"https://doi.org/10.1016/S0169-023X(96)00048-1","url":"https://dblp.org/rec/journals/dke/XuT97"},
+"url":"URL#4923666"
+},
+{
+"@score":"1",
+"@id":"4923668",
+"info":{"authors":{"author":[{"@pid":"09/3925","text":"Li Yang"},{"@pid":"w/JianKangWu","text":"Jian-Kang Wu"}]},"title":"Towards a Semantic Image Database System.","venue":"Data Knowl. Eng.","volume":"22","number":"2","pages":"207-227","year":"1997","type":"Journal Articles","key":"journals/dke/YangW97","doi":"10.1016/S0169-023X(96)00053-5","ee":"https://doi.org/10.1016/S0169-023X(96)00053-5","url":"https://dblp.org/rec/journals/dke/YangW97"},
+"url":"URL#4923668"
+}
+]
+}
 }
 }

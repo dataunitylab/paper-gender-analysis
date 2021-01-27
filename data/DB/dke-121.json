@@ -1,23 +1,68 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke121\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke121\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.54"
+"text":"140.70"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"6",
+"@dc":"6",
+"@oc":"6",
+"@id":"17615682",
+"text":":facetid:toc:db/journals/dke/dke121.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"6",
+"@computed":"6",
+"@sent":"6",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"433923",
+"info":{"authors":{"author":[{"@pid":"192/7721","text":"Rowida Alfrjani"},{"@pid":"54/5242","text":"Taha Osman"},{"@pid":"40/9504","text":"Georgina Cosma"}]},"title":"A Hybrid Semantic Knowledgebase-Machine Learning Approach for Opinion Mining.","venue":"Data Knowl. Eng.","volume":"121","pages":"88-108","year":"2019","type":"Journal Articles","key":"journals/dke/AlfrjaniOC19","doi":"10.1016/J.DATAK.2019.05.002","ee":"https://doi.org/10.1016/j.datak.2019.05.002","url":"https://dblp.org/rec/journals/dke/AlfrjaniOC19"},
+"url":"URL#433923"
+},
+{
+"@score":"1",
+"@id":"433927",
+"info":{"authors":{"author":[{"@pid":"81/8569","text":"Andrea Burattin"},{"@pid":"61/2222","text":"Michael Kaiser"},{"@pid":"176/5520","text":"Manuel Neurauter"},{"@pid":"96/2864","text":"Barbara Weber"}]},"title":"Learning process modeling phases from modeling interactions and eye tracking data.","venue":"Data Knowl. Eng.","volume":"121","pages":"1-17","year":"2019","type":"Journal Articles","key":"journals/dke/BurattinKNW19","doi":"10.1016/J.DATAK.2019.04.001","ee":"https://doi.org/10.1016/j.datak.2019.04.001","url":"https://dblp.org/rec/journals/dke/BurattinKNW19"},
+"url":"URL#433927"
+},
+{
+"@score":"1",
+"@id":"433934",
+"info":{"authors":{"author":[{"@pid":"86/9976","text":"Athanasios Fevgas"},{"@pid":"21/1146","text":"Panayiotis Bozanis"}]},"title":"LB-Grid - An SSD efficient Grid File.","venue":"Data Knowl. Eng.","volume":"121","pages":"18-41","year":"2019","type":"Journal Articles","key":"journals/dke/FevgasB19","doi":"10.1016/J.DATAK.2019.04.002","ee":"https://doi.org/10.1016/j.datak.2019.04.002","url":"https://dblp.org/rec/journals/dke/FevgasB19"},
+"url":"URL#433934"
+},
+{
+"@score":"1",
+"@id":"433939",
+"info":{"authors":{"author":[{"@pid":"157/2303","text":"Sandhya Harikumar"},{"@pid":"209/2094","text":"M. Ramachandran Kaimal"}]},"title":"SubspaceDB - In-database subspace clustering for analytical query processing.","venue":"Data Knowl. Eng.","volume":"121","pages":"109-129","year":"2019","type":"Journal Articles","key":"journals/dke/HarikumarK19","doi":"10.1016/J.DATAK.2019.05.003","ee":"https://doi.org/10.1016/j.datak.2019.05.003","url":"https://dblp.org/rec/journals/dke/HarikumarK19"},
+"url":"URL#433939"
+},
+{
+"@score":"1",
+"@id":"433954",
+"info":{"authors":{"author":[{"@pid":"143/2805","text":"Panagiotis Moutafis"},{"@pid":"55/3491","text":"George Mavrommatis"},{"@pid":"05/1759","text":"Michael Vassilakopoulos"},{"@pid":"73/2079","text":"Spyros Sioutas"}]},"title":"Efficient processing of all-k-nearest-neighbor queries in the MapReduce programming framework.","venue":"Data Knowl. Eng.","volume":"121","pages":"42-70","year":"2019","type":"Journal Articles","key":"journals/dke/MoutafisMVS19","doi":"10.1016/J.DATAK.2019.04.003","ee":"https://doi.org/10.1016/j.datak.2019.04.003","url":"https://dblp.org/rec/journals/dke/MoutafisMVS19"},
+"url":"URL#433954"
+},
+{
+"@score":"1",
+"@id":"433969",
+"info":{"authors":{"author":[{"@pid":"36/2259","text":"Bo Zhang"},{"@pid":"08/1073","text":"Lele Zhang"},{"@pid":"205/7507","text":"Cui Mu"},{"@pid":"23/3463","text":"Qin Zhao"},{"@pid":"131/6611","text":"Qianqian Song"},{"@pid":"06/7006","text":"Xuan Hong"}]},"title":"A most influential node group discovery method for influence maximization in social networks - A trust-based perspective.","venue":"Data Knowl. Eng.","volume":"121","pages":"71-87","year":"2019","type":"Journal Articles","key":"journals/dke/ZhangZMZSH19","doi":"10.1016/J.DATAK.2019.05.001","ee":"https://doi.org/10.1016/j.datak.2019.05.001","url":"https://dblp.org/rec/journals/dke/ZhangZMZSH19"},
+"url":"URL#433969"
+}
+]
+}
 }
 }

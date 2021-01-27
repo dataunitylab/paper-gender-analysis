@@ -1,23 +1,182 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke66\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke66\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.36"
+"text":"131.55"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"25",
+"@dc":"25",
+"@oc":"25",
+"@id":"17615750",
+"text":":facetid:toc:db/journals/dke/dke66.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"25",
+"@computed":"25",
+"@sent":"25",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"3603410",
+"info":{"authors":{"author":[{"@pid":"95/4983","text":"Josep Aguilar-Saborit"},{"@pid":"69/345","text":"Pedro Trancoso"},{"@pid":"79/488","text":"Victor Muntés-Mulero"},{"@pid":"03/5767","text":"Josep Lluís Larriba-Pey"}]},"title":"Dynamic adaptive data structures for monitoring data streams.","venue":"Data Knowl. Eng.","volume":"66","number":"1","pages":"92-115","year":"2008","type":"Journal Articles","key":"journals/dke/Aguilar-SaboritTML08","doi":"10.1016/J.DATAK.2007.12.006","ee":"https://doi.org/10.1016/j.datak.2007.12.006","url":"https://dblp.org/rec/journals/dke/Aguilar-SaboritTML08"},
+"url":"URL#3603410"
+},
+{
+"@score":"1",
+"@id":"3603414",
+"info":{"authors":{"author":[{"@pid":"e/MikelEgana","text":"Mikel Egaña Aranguren"},{"@pid":"29/6277","text":"Chris Wroe"},{"@pid":"g/CaroleAGoble","text":"Carole A. Goble"},{"@pid":"s/RobertStevens","text":"Robert Stevens 0001"}]},"title":"In situ migration of handcrafted ontologies to reason-able forms.","venue":"Data Knowl. Eng.","volume":"66","number":"1","pages":"147-162","year":"2008","type":"Journal Articles","key":"journals/dke/ArangurenWGS08","doi":"10.1016/J.DATAK.2008.02.002","ee":"https://doi.org/10.1016/j.datak.2008.02.002","url":"https://dblp.org/rec/journals/dke/ArangurenWGS08"},
+"url":"URL#3603414"
+},
+{
+"@score":"1",
+"@id":"3603415",
+"info":{"authors":{"author":[{"@pid":"09/3843","text":"Hassan Artail"},{"@pid":"97/535","text":"Kassem Fawaz"}]},"title":"A fast HTML web page change detection approach based on hashing and reducing the number of similarity computations.","venue":"Data Knowl. Eng.","volume":"66","number":"2","pages":"326-337","year":"2008","type":"Journal Articles","key":"journals/dke/ArtailF08","doi":"10.1016/J.DATAK.2008.04.003","ee":"https://doi.org/10.1016/j.datak.2008.04.003","url":"https://dblp.org/rec/journals/dke/ArtailF08"},
+"url":"URL#3603415"
+},
+{
+"@score":"1",
+"@id":"3603417",
+"info":{"authors":{"author":[{"@pid":"68/3364","text":"Rafae Bhatti"},{"@pid":"23/6802","text":"Dengfeng Gao"},{"@pid":"60/5978","text":"Wen-Syan Li"}]},"title":"Enabling policy-based access control in BI applications.","venue":"Data Knowl. Eng.","volume":"66","number":"2","pages":"199-222","year":"2008","type":"Journal Articles","key":"journals/dke/BhattiGL08","doi":"10.1016/J.DATAK.2008.03.003","ee":"https://doi.org/10.1016/j.datak.2008.03.003","url":"https://dblp.org/rec/journals/dke/BhattiGL08"},
+"url":"URL#3603417"
+},
+{
+"@score":"1",
+"@id":"3603418",
+"info":{"authors":{"author":[{"@pid":"36/4475","text":"Galina T. Bogdanova"},{"@pid":"86/10430","text":"Tsvetanka Georgieva"}]},"title":"Using error-correcting dependencies for collaborative filtering.","venue":"Data Knowl. Eng.","volume":"66","number":"3","pages":"402-413","year":"2008","type":"Journal Articles","key":"journals/dke/BogdanovaG08","doi":"10.1016/J.DATAK.2008.04.008","ee":"https://doi.org/10.1016/j.datak.2008.04.008","url":"https://dblp.org/rec/journals/dke/BogdanovaG08"},
+"url":"URL#3603418"
+},
+{
+"@score":"1",
+"@id":"3603425",
+"info":{"authors":{"author":[{"@pid":"42/180","text":"Yen-Liang Chen"},{"@pid":"84/8038","text":"Tony Cheng-Kui Huang"}]},"title":"A novel knowledge discovering model for mining fuzzy multi-level sequential patterns in sequence databases.","venue":"Data Knowl. Eng.","volume":"66","number":"3","pages":"349-367","year":"2008","type":"Journal Articles","key":"journals/dke/ChenH08","doi":"10.1016/J.DATAK.2008.04.005","ee":"https://doi.org/10.1016/j.datak.2008.04.005","url":"https://dblp.org/rec/journals/dke/ChenH08"},
+"url":"URL#3603425"
+},
+{
+"@score":"1",
+"@id":"3603428",
+"info":{"authors":{"author":[{"@pid":"10/728","text":"Injun Choi"},{"@pid":"41/5056","text":"Jisoo Jung"},{"@pid":"57/3783","text":"Michael V. Mannino"},{"@pid":"27/4609","text":"Chulsoon Park"}]},"title":"Terminability and compensatibility of cycles in business processes with a process-oriented trigger.","venue":"Data Knowl. Eng.","volume":"66","number":"2","pages":"243-263","year":"2008","type":"Journal Articles","key":"journals/dke/ChoiJMP08","doi":"10.1016/J.DATAK.2008.03.002","ee":"https://doi.org/10.1016/j.datak.2008.03.002","url":"https://dblp.org/rec/journals/dke/ChoiJMP08"},
+"url":"URL#3603428"
+},
+{
+"@score":"1",
+"@id":"3603431",
+"info":{"authors":{"author":[{"@pid":"71/5257","text":"Jordi Conesa"},{"@pid":"41/1781","text":"Veda C. Storey"},{"@pid":"66/6868","text":"Vijayan Sugumaran"}]},"title":"Improving web-query processing through semantic knowledge.","venue":"Data Knowl. Eng.","volume":"66","number":"1","pages":"18-34","year":"2008","type":"Journal Articles","key":"journals/dke/ConesaSS08","doi":"10.1016/J.DATAK.2007.07.009","ee":"https://doi.org/10.1016/j.datak.2007.07.009","url":"https://dblp.org/rec/journals/dke/ConesaSS08"},
+"url":"URL#3603431"
+},
+{
+"@score":"1",
+"@id":"3603434",
+"info":{"authors":{"author":[{"@pid":"50/63","text":"Lavinia Egidi"},{"@pid":"26/279","text":"Paolo Terenziani"}]},"title":"A modular approach to user-defined symbolic periodicities.","venue":"Data Knowl. Eng.","volume":"66","number":"1","pages":"163-198","year":"2008","type":"Journal Articles","key":"journals/dke/EgidiT08","doi":"10.1016/J.DATAK.2008.02.003","ee":"https://doi.org/10.1016/j.datak.2008.02.003","url":"https://dblp.org/rec/journals/dke/EgidiT08"},
+"url":"URL#3603434"
+},
+{
+"@score":"1",
+"@id":"3603436",
+"info":{"authors":{"author":[{"@pid":"22/924","text":"Themis P. Exarchos"},{"@pid":"38/3446","text":"Markos G. Tsipouras"},{"@pid":"16/2990","text":"Costas Papaloukas"},{"@pid":"26/42","text":"Dimitrios I. Fotiadis"}]},"title":"A two-stage methodology for sequence classification based on sequential pattern mining and optimization.","venue":"Data Knowl. Eng.","volume":"66","number":"3","pages":"467-487","year":"2008","type":"Journal Articles","key":"journals/dke/ExarchosTPF08","doi":"10.1016/J.DATAK.2008.05.007","ee":"https://doi.org/10.1016/j.datak.2008.05.007","url":"https://dblp.org/rec/journals/dke/ExarchosTPF08"},
+"url":"URL#3603436"
+},
+{
+"@score":"1",
+"@id":"3603440",
+"info":{"authors":{"author":{"@pid":"86/10430","text":"Tsvetanka Georgieva"}},"title":"Discovering branching and fractional dependencies in databases.","venue":"Data Knowl. Eng.","volume":"66","number":"2","pages":"311-325","year":"2008","type":"Journal Articles","key":"journals/dke/Georgieva08","doi":"10.1016/J.DATAK.2008.04.002","ee":"https://doi.org/10.1016/j.datak.2008.04.002","url":"https://dblp.org/rec/journals/dke/Georgieva08"},
+"url":"URL#3603440"
+},
+{
+"@score":"1",
+"@id":"3603446",
+"info":{"authors":{"author":[{"@pid":"20/1662","text":"Maristela Holanda"},{"@pid":"b/AngeloBrayner","text":"Angelo Brayner"},{"@pid":"32/3381","text":"Sergio Fialho"}]},"title":"A self-adaptable scheduler for synchronizing transactions in dynamically configurable environments.","venue":"Data Knowl. Eng.","volume":"66","number":"2","pages":"223-242","year":"2008","type":"Journal Articles","key":"journals/dke/HolandaBF08","doi":"10.1016/J.DATAK.2008.02.004","ee":"https://doi.org/10.1016/j.datak.2008.02.004","url":"https://dblp.org/rec/journals/dke/HolandaBF08"},
+"url":"URL#3603446"
+},
+{
+"@score":"1",
+"@id":"3603454",
+"info":{"authors":{"author":[{"@pid":"25/351","text":"Epaminondas Kapetanios"},{"@pid":"66/6868","text":"Vijayan Sugumaran"},{"@pid":"85/3768","text":"Diana Tanase"}]},"title":"A parametric linguistics based approach for cross-lingual web querying.","venue":"Data Knowl. Eng.","volume":"66","number":"1","pages":"35-52","year":"2008","type":"Journal Articles","key":"journals/dke/KapetaniosST08","doi":"10.1016/J.DATAK.2007.07.008","ee":"https://doi.org/10.1016/j.datak.2007.07.008","url":"https://dblp.org/rec/journals/dke/KapetaniosST08"},
+"url":"URL#3603454"
+},
+{
+"@score":"1",
+"@id":"3603455",
+"info":{"authors":{"author":[{"@pid":"26/5512","text":"Efstratios Kontopoulos"},{"@pid":"b/NickBassiliades","text":"Nick Bassiliades"},{"@pid":"a/GrigorisAntoniou","text":"Grigoris Antoniou"}]},"title":"Deploying defeasible logic rule bases for the semantic web.","venue":"Data Knowl. Eng.","volume":"66","number":"1","pages":"116-146","year":"2008","type":"Journal Articles","key":"journals/dke/KontopoulosBA08","doi":"10.1016/J.DATAK.2008.02.005","ee":"https://doi.org/10.1016/j.datak.2008.02.005","url":"https://dblp.org/rec/journals/dke/KontopoulosBA08"},
+"url":"URL#3603455"
+},
+{
+"@score":"1",
+"@id":"3603456",
+"info":{"authors":{"author":[{"@pid":"k/CKop","text":"Christian Kop"},{"@pid":"89/200","text":"Heinrich C. Mayr"},{"@pid":"80/5020","text":"Günther Fliedl"},{"@pid":"36/3146","text":"Elisabeth Métais"}]},"title":"Special issue on Natural Language Processing and Information Systems (NLDB 2006).","venue":"Data Knowl. Eng.","volume":"66","number":"1","pages":"1-2","year":"2008","type":"Journal Articles","key":"journals/dke/KopMFM08","doi":"10.1016/J.DATAK.2008.03.001","ee":"https://doi.org/10.1016/j.datak.2008.03.001","url":"https://dblp.org/rec/journals/dke/KopMFM08"},
+"url":"URL#3603456"
+},
+{
+"@score":"1",
+"@id":"3603457",
+"info":{"authors":{"author":[{"@pid":"k/LeilaKosseim","text":"Leila Kosseim"},{"@pid":"26/1668","text":"Jamileh Yousefi"}]},"title":"Improving the performance of question answering with semantically equivalent answer patterns.","venue":"Data Knowl. Eng.","volume":"66","number":"1","pages":"53-67","year":"2008","type":"Journal Articles","key":"journals/dke/KosseimY08","doi":"10.1016/J.DATAK.2007.07.010","ee":"https://doi.org/10.1016/j.datak.2007.07.010","url":"https://dblp.org/rec/journals/dke/KosseimY08"},
+"url":"URL#3603457"
+},
+{
+"@score":"1",
+"@id":"3603461",
+"info":{"authors":{"author":[{"@pid":"35/2116","text":"Anthony J. T. Lee"},{"@pid":"31/5326","text":"Chun-Sheng Wang"},{"@pid":"90/3984","text":"Wan-Yu Weng"},{"@pid":"57/3421","text":"Yi-An Chen"},{"@pid":"77/462","text":"Huei-Wen Wu"}]},"title":"An efficient algorithm for mining closed inter-transaction itemsets.","venue":"Data Knowl. Eng.","volume":"66","number":"1","pages":"68-91","year":"2008","type":"Journal Articles","key":"journals/dke/LeeWWCW08","doi":"10.1016/J.DATAK.2008.02.001","ee":"https://doi.org/10.1016/j.datak.2008.02.001","url":"https://dblp.org/rec/journals/dke/LeeWWCW08"},
+"url":"URL#3603461"
+},
+{
+"@score":"1",
+"@id":"3603466",
+"info":{"authors":{"author":[{"@pid":"93/3807","text":"Feng-Cheng Lin"},{"@pid":"36/3339","text":"Chien-Yen Lai"},{"@pid":"46/6099","text":"Jen-Shin Hong"}]},"title":"Minimize presentation lag by sequencing media objects for auto-assembled presentations from digital libraries.","venue":"Data Knowl. Eng.","volume":"66","number":"3","pages":"382-401","year":"2008","type":"Journal Articles","key":"journals/dke/LinLH08","doi":"10.1016/J.DATAK.2008.04.010","ee":"https://doi.org/10.1016/j.datak.2008.04.010","url":"https://dblp.org/rec/journals/dke/LinLH08"},
+"url":"URL#3603466"
+},
+{
+"@score":"1",
+"@id":"3603469",
+"info":{"authors":{"author":[{"@pid":"55/3763","text":"Deryle W. Lonsdale"},{"@pid":"30/4290","text":"Clint Tustison"},{"@pid":"56/3208","text":"Craig G. Parker"},{"@pid":"e/DWEmbley","text":"David W. Embley"}]},"title":"Assessing clinical trial eligibility with logic expression queries.","venue":"Data Knowl. Eng.","volume":"66","number":"1","pages":"3-17","year":"2008","type":"Journal Articles","key":"journals/dke/LonsdaleTPE08","doi":"10.1016/J.DATAK.2007.07.005","ee":"https://doi.org/10.1016/j.datak.2007.07.005","url":"https://dblp.org/rec/journals/dke/LonsdaleTPE08"},
+"url":"URL#3603469"
+},
+{
+"@score":"1",
+"@id":"3603480",
+"info":{"authors":{"author":[{"@pid":"25/6454","text":"Shibnath Mukherjee"},{"@pid":"55/6994","text":"Madhushri Banerjee"},{"@pid":"192/0196-3","text":"Zhiyuan Chen 0003"},{"@pid":"g/AryyaGangopadhyay","text":"Aryya Gangopadhyay"}]},"title":"A privacy preserving technique for distance-based classification with worst case privacy guarantees.","venue":"Data Knowl. Eng.","volume":"66","number":"2","pages":"264-288","year":"2008","type":"Journal Articles","key":"journals/dke/MukherjeeBCG08","doi":"10.1016/J.DATAK.2008.03.004","ee":"https://doi.org/10.1016/j.datak.2008.03.004","url":"https://dblp.org/rec/journals/dke/MukherjeeBCG08"},
+"url":"URL#3603480"
+},
+{
+"@score":"1",
+"@id":"3603493",
+"info":{"authors":{"author":[{"@pid":"42/5536","text":"Guillem Rull"},{"@pid":"80/1912","text":"Carles Farré"},{"@pid":"t/ErnestTeniente","text":"Ernest Teniente"},{"@pid":"35/1865","text":"Toni Urpí"}]},"title":"Validation of mappings between schemas.","venue":"Data Knowl. Eng.","volume":"66","number":"3","pages":"414-437","year":"2008","type":"Journal Articles","key":"journals/dke/RullFTU08","doi":"10.1016/J.DATAK.2008.04.009","ee":"https://doi.org/10.1016/j.datak.2008.04.009","url":"https://dblp.org/rec/journals/dke/RullFTU08"},
+"url":"URL#3603493"
+},
+{
+"@score":"1",
+"@id":"3603497",
+"info":{"authors":{"author":[{"@pid":"90/2375","text":"Alok Sharma"},{"@pid":"25/2700","text":"Kuldip K. Paliwal"}]},"title":"Cancer classification by gradient LDA technique using microarray gene expression data.","venue":"Data Knowl. Eng.","volume":"66","number":"2","pages":"338-347","year":"2008","type":"Journal Articles","key":"journals/dke/SharmaP08","doi":"10.1016/J.DATAK.2008.04.004","ee":"https://doi.org/10.1016/j.datak.2008.04.004","url":"https://dblp.org/rec/journals/dke/SharmaP08"},
+"url":"URL#3603497"
+},
+{
+"@score":"1",
+"@id":"3603507",
+"info":{"authors":{"author":[{"@pid":"96/2864","text":"Barbara Weber"},{"@pid":"r/ManfredReichert","text":"Manfred Reichert"},{"@pid":"r/StefanieRinderle","text":"Stefanie Rinderle-Ma"}]},"title":"Change patterns and change support features - Enhancing flexibility in process-aware information systems.","venue":"Data Knowl. Eng.","volume":"66","number":"3","pages":"438-466","year":"2008","type":"Journal Articles","key":"journals/dke/WeberRR08","doi":"10.1016/J.DATAK.2008.05.001","ee":"https://doi.org/10.1016/j.datak.2008.05.001","url":"https://dblp.org/rec/journals/dke/WeberRR08"},
+"url":"URL#3603507"
+},
+{
+"@score":"1",
+"@id":"3603513",
+"info":{"authors":{"author":[{"@pid":"23/282","text":"Man Lung Yiu"},{"@pid":"34/6253","text":"Nikos Mamoulis"},{"@pid":"42/5855","text":"Vagelis Hristidis"}]},"title":"Extracting k most important groups from data efficiently.","venue":"Data Knowl. Eng.","volume":"66","number":"2","pages":"289-310","year":"2008","type":"Journal Articles","key":"journals/dke/YiuMH08","doi":"10.1016/J.DATAK.2008.04.001","ee":"https://doi.org/10.1016/j.datak.2008.04.001","url":"https://dblp.org/rec/journals/dke/YiuMH08"},
+"url":"URL#3603513"
+},
+{
+"@score":"1",
+"@id":"3603514",
+"info":{"authors":{"author":[{"@pid":"91/6896","text":"Huimin Zhao"},{"@pid":"17/3798","text":"Sudha Ram"}]},"title":"Entity matching across heterogeneous data sources - An approach based on constrained cascade generalization.","venue":"Data Knowl. Eng.","volume":"66","number":"3","pages":"368-381","year":"2008","type":"Journal Articles","key":"journals/dke/ZhaoR08","doi":"10.1016/J.DATAK.2008.04.007","ee":"https://doi.org/10.1016/j.datak.2008.04.007","url":"https://dblp.org/rec/journals/dke/ZhaoR08"},
+"url":"URL#3603514"
+}
+]
+}
 }
 }

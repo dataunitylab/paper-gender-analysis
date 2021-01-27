@@ -1,23 +1,74 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke71\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke71\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.28"
+"text":"109.28"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"7",
+"@dc":"7",
+"@oc":"7",
+"@id":"17615756",
+"text":":facetid:toc:db/journals/dke/dke71.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"7",
+"@computed":"7",
+"@sent":"7",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"2659871",
+"info":{"authors":{"author":[{"@pid":"71/5378","text":"Marco Comuzzi"},{"@pid":"64/3225","text":"Jochem Vonk"},{"@pid":"g/PaulWPJGrefen","text":"Paul W. P. J. Grefen"}]},"title":"Measures and mechanisms for process monitoring in evolving business networks.","venue":"Data Knowl. Eng.","volume":"71","number":"1","pages":"1-28","year":"2012","type":"Journal Articles","key":"journals/dke/ComuzziVG12","doi":"10.1016/J.DATAK.2011.07.004","ee":"https://doi.org/10.1016/j.datak.2011.07.004","url":"https://dblp.org/rec/journals/dke/ComuzziVG12"},
+"url":"URL#2659871"
+},
+{
+"@score":"1",
+"@id":"2659874",
+"info":{"authors":{"author":[{"@pid":"32/5592","text":"Yehia Elrakaiby"},{"@pid":"c/FredericCuppens","text":"Frédéric Cuppens"},{"@pid":"c/NoraCuppens","text":"Nora Cuppens-Boulahia"}]},"title":"Formal enforcement and management of obligation policies.","venue":"Data Knowl. Eng.","volume":"71","number":"1","pages":"127-147","year":"2012","type":"Journal Articles","key":"journals/dke/ElrakaibyCC12","doi":"10.1016/J.DATAK.2011.09.001","ee":"https://doi.org/10.1016/j.datak.2011.09.001","url":"https://dblp.org/rec/journals/dke/ElrakaibyCC12"},
+"url":"URL#2659874"
+},
+{
+"@score":"1",
+"@id":"2659883",
+"info":{"authors":{"author":[{"@pid":"70/397","text":"Joonho Kwon"},{"@pid":"48/1467","text":"Daewook Lee"}]},"title":"Non-redundant web services composition based on a two-phase algorithm.","venue":"Data Knowl. Eng.","volume":"71","number":"1","pages":"69-91","year":"2012","type":"Journal Articles","key":"journals/dke/KwonL12","doi":"10.1016/J.DATAK.2011.08.002","ee":"https://doi.org/10.1016/j.datak.2011.08.002","url":"https://dblp.org/rec/journals/dke/KwonL12"},
+"url":"URL#2659883"
+},
+{
+"@score":"1",
+"@id":"2659884",
+"info":{"authors":{"author":{"@pid":"39/4747","text":"Ying-Ho Liu"}},"title":"Mining frequent patterns from univariate uncertain data.","venue":"Data Knowl. Eng.","volume":"71","number":"1","pages":"47-68","year":"2012","type":"Journal Articles","key":"journals/dke/Liu12","doi":"10.1016/J.DATAK.2011.07.009","ee":"https://doi.org/10.1016/j.datak.2011.07.009","url":"https://dblp.org/rec/journals/dke/Liu12"},
+"url":"URL#2659884"
+},
+{
+"@score":"1",
+"@id":"2659891",
+"info":{"authors":{"author":[{"@pid":"99/6857","text":"Hong Kyu Park"},{"@pid":"33/6479","text":"Won Suk Lee"}]},"title":"Adaptive optimization for multiple continuous queries.","venue":"Data Knowl. Eng.","volume":"71","number":"1","pages":"29-46","year":"2012","type":"Journal Articles","key":"journals/dke/ParkL12","doi":"10.1016/J.DATAK.2011.07.008","ee":"https://doi.org/10.1016/j.datak.2011.07.008","url":"https://dblp.org/rec/journals/dke/ParkL12"},
+"url":"URL#2659891"
+},
+{
+"@score":"1",
+"@id":"2659897",
+"info":{"authors":{"author":{"@pid":"11/1123","text":"Daniel Schall 0001"}},"title":"Expertise ranking using activity and contextual link measures.","venue":"Data Knowl. Eng.","volume":"71","number":"1","pages":"92-113","year":"2012","type":"Journal Articles","key":"journals/dke/Schall12","doi":"10.1016/J.DATAK.2011.08.001","ee":"https://doi.org/10.1016/j.datak.2011.08.001","url":"https://dblp.org/rec/journals/dke/Schall12"},
+"url":"URL#2659897"
+},
+{
+"@score":"1",
+"@id":"2659903",
+"info":{"authors":{"author":{"@pid":"w/ShengliWu","text":"Shengli Wu"}},"title":"Linear combination of component results in information retrieval.","venue":"Data Knowl. Eng.","volume":"71","number":"1","pages":"114-126","year":"2012","type":"Journal Articles","key":"journals/dke/Wu12","doi":"10.1016/J.DATAK.2011.08.003","ee":"https://doi.org/10.1016/j.datak.2011.08.003","url":"https://dblp.org/rec/journals/dke/Wu12"},
+"url":"URL#2659903"
+}
+]
+}
 }
 }

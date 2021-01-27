@@ -1,23 +1,116 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke40\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke40\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.54"
+"text":"153.46"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"14",
+"@dc":"14",
+"@oc":"14",
+"@id":"17615722",
+"text":":facetid:toc:db/journals/dke/dke40.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"14",
+"@computed":"14",
+"@sent":"14",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"4544210",
+"info":{"authors":{"author":[{"@pid":"85/3619","text":"Alberto Belussi"},{"@pid":"b/ElisaBertino","text":"Elisa Bertino"},{"@pid":"c/BarbaraCatania","text":"Barbara Catania"}]},"title":"Using spatial data access structures for filtering nearest neighbor queries.","venue":"Data Knowl. Eng.","volume":"40","number":"1","pages":"1-31","year":"2002","type":"Journal Articles","key":"journals/dke/BelussiBC02","doi":"10.1016/S0169-023X(01)00033-7","ee":"https://doi.org/10.1016/S0169-023X(01)00033-7","url":"https://dblp.org/rec/journals/dke/BelussiBC02"},
+"url":"URL#4544210"
+},
+{
+"@score":"1",
+"@id":"4544218",
+"info":{"authors":{"author":[{"@pid":"c/EPFChan","text":"Edward P. F. Chan"},{"@pid":"03/1567","text":"Kevin K. W. Chow"}]},"title":"On multi-scale display of geometric objects.","venue":"Data Knowl. Eng.","volume":"40","number":"1","pages":"91-119","year":"2002","type":"Journal Articles","key":"journals/dke/ChanC02","doi":"10.1016/S0169-023X(01)00051-9","ee":"https://doi.org/10.1016/S0169-023X(01)00051-9","url":"https://dblp.org/rec/journals/dke/ChanC02"},
+"url":"URL#4544218"
+},
+{
+"@score":"1",
+"@id":"4544219",
+"info":{"authors":{"author":[{"@pid":"69/3053","text":"Ye-In Chang"},{"@pid":"60/4654","text":"Che-Nan Yang"}]},"title":"A complementary approach to data broadcasting in mobile information systems.","venue":"Data Knowl. Eng.","volume":"40","number":"2","pages":"181-194","year":"2002","type":"Journal Articles","key":"journals/dke/ChangY02","doi":"10.1016/S0169-023X(01)00050-7","ee":"https://doi.org/10.1016/S0169-023X(01)00050-7","url":"https://dblp.org/rec/journals/dke/ChangY02"},
+"url":"URL#4544219"
+},
+{
+"@score":"1",
+"@id":"4544227",
+"info":{"authors":{"author":[{"@pid":"47/224","text":"Anna Formica"},{"@pid":"70/816","text":"Heinz Frank"}]},"title":"Consistency of the static and dynamic components of object-oriented specifications.","venue":"Data Knowl. Eng.","volume":"40","number":"2","pages":"195-215","year":"2002","type":"Journal Articles","key":"journals/dke/FormicaF02","doi":"10.1016/S0169-023X(01)00052-0","ee":"https://doi.org/10.1016/S0169-023X(01)00052-0","url":"https://dblp.org/rec/journals/dke/FormicaF02"},
+"url":"URL#4544227"
+},
+{
+"@score":"1",
+"@id":"4544233",
+"info":{"authors":{"author":[{"@pid":"91/6534","text":"Min-Shiang Hwang"},{"@pid":"75/3885","text":"Eric Jui-Lin Lu"},{"@pid":"73/3513","text":"Iuon-Chang Lin"}]},"title":"Adding timestamps to the secure electronic auction protocol.","venue":"Data Knowl. Eng.","volume":"40","number":"2","pages":"155-162","year":"2002","type":"Journal Articles","key":"journals/dke/HwangLL02","doi":"10.1016/S0169-023X(01)00048-9","ee":"https://doi.org/10.1016/S0169-023X(01)00048-9","url":"https://dblp.org/rec/journals/dke/HwangLL02"},
+"url":"URL#4544233"
+},
+{
+"@score":"1",
+"@id":"4544235",
+"info":{"authors":{"author":[{"@pid":"40/6500","text":"Ahmad Kayed"},{"@pid":"89/1378","text":"Robert M. Colomb"}]},"title":"Extracting ontological concepts for tendering conceptual structures.","venue":"Data Knowl. Eng.","volume":"40","number":"1","pages":"71-89","year":"2002","type":"Journal Articles","key":"journals/dke/KayedC02","doi":"10.1016/S0169-023X(01)00046-5","ee":"https://doi.org/10.1016/S0169-023X(01)00046-5","url":"https://dblp.org/rec/journals/dke/KayedC02"},
+"url":"URL#4544235"
+},
+{
+"@score":"1",
+"@id":"4544238",
+"info":{"authors":{"author":[{"@pid":"l/AHFLaender","text":"Alberto H. F. Laender"},{"@pid":"r/BerthierARibeiroNeto","text":"Berthier A. Ribeiro-Neto"},{"@pid":"s/ASdaSilva","text":"Altigran Soares da Silva"}]},"title":"DEByE - Data Extraction By Example.","venue":"Data Knowl. Eng.","volume":"40","number":"2","pages":"121-154","year":"2002","type":"Journal Articles","key":"journals/dke/LaenderRS02","doi":"10.1016/S0169-023X(01)00047-7","ee":"https://doi.org/10.1016/S0169-023X(01)00047-7","url":"https://dblp.org/rec/journals/dke/LaenderRS02"},
+"url":"URL#4544238"
+},
+{
+"@score":"1",
+"@id":"4544239",
+"info":{"authors":{"author":[{"@pid":"07/6298","text":"Paul Leemans"},{"@pid":"t/JanTreur","text":"Jan Treur"},{"@pid":"82/5316","text":"Mark Willems"}]},"title":"A semantical perspective on verification of knowledge.","venue":"Data Knowl. Eng.","volume":"40","number":"1","pages":"33-70","year":"2002","type":"Journal Articles","key":"journals/dke/LeemansTW02","doi":"10.1016/S0169-023X(01)00045-3","ee":"https://doi.org/10.1016/S0169-023X(01)00045-3","url":"https://dblp.org/rec/journals/dke/LeemansTW02"},
+"url":"URL#4544239"
+},
+{
+"@score":"1",
+"@id":"4544244",
+"info":{"authors":{"author":[{"@pid":"69/5578","text":"Danilo Montesi"},{"@pid":"t/RiccardoTorlone","text":"Riccardo Torlone"}]},"title":"Analysis and optimization of active databases.","venue":"Data Knowl. Eng.","volume":"40","number":"3","pages":"241-271","year":"2002","type":"Journal Articles","key":"journals/dke/MontesiT02","doi":"10.1016/S0925-2312(01)00687-7","ee":"https://doi.org/10.1016/S0925-2312(01)00687-7","url":"https://dblp.org/rec/journals/dke/MontesiT02"},
+"url":"URL#4544244"
+},
+{
+"@score":"1",
+"@id":"4544250",
+"info":{"authors":{"author":[{"@pid":"p/LuigiPalopoli","text":"Luigi Palopoli"},{"@pid":"s/DomenicoSacca","text":"Domenico Saccà"},{"@pid":"t/GiorgioTerracina","text":"Giorgio Terracina"},{"@pid":"u/DomenicoUrsino","text":"Domenico Ursino"}]},"title":"A technique for deriving hyponymies and overlappings from database schemes.","venue":"Data Knowl. Eng.","volume":"40","number":"3","pages":"285-314","year":"2002","type":"Journal Articles","key":"journals/dke/PalopoliSTU02","doi":"10.1016/S0169-023X(01)00060-X","ee":"https://doi.org/10.1016/S0169-023X(01)00060-X","url":"https://dblp.org/rec/journals/dke/PalopoliSTU02"},
+"url":"URL#4544250"
+},
+{
+"@score":"1",
+"@id":"4544251",
+"info":{"authors":{"author":[{"@pid":"29/4995","text":"Vicente Pelechano"},{"@pid":"p/OscarPastor","text":"Oscar Pastor 0001"},{"@pid":"i/EmilioInsfran","text":"Emilio Insfrán"}]},"title":"Automated code generation of dynamic specializations - an approach based on design patterns and formal techniques.","venue":"Data Knowl. Eng.","volume":"40","number":"3","pages":"315-353","year":"2002","type":"Journal Articles","key":"journals/dke/PelechanoPI02","doi":"10.1016/S0169-023X(02)00020-4","ee":"https://doi.org/10.1016/S0169-023X(02)00020-4","url":"https://dblp.org/rec/journals/dke/PelechanoPI02"},
+"url":"URL#4544251"
+},
+{
+"@score":"1",
+"@id":"4544258",
+"info":{"authors":{"author":[{"@pid":"t/KianLeeTan","text":"Kian-Lee Tan"},{"@pid":"67/4887","text":"Pin-Kwang Eng"},{"@pid":"o/BengChinOoi","text":"Beng Chin Ooi"},{"@pid":"73/1844","text":"Ming Zhang"}]},"title":"Join and multi-join processing in data integration systems.","venue":"Data Knowl. Eng.","volume":"40","number":"2","pages":"217-239","year":"2002","type":"Journal Articles","key":"journals/dke/TanEOZ02","doi":"10.1016/S0169-023X(01)00055-6","ee":"https://doi.org/10.1016/S0169-023X(01)00055-6","url":"https://dblp.org/rec/journals/dke/TanEOZ02"},
+"url":"URL#4544258"
+},
+{
+"@score":"1",
+"@id":"4544261",
+"info":{"authors":{"author":[{"@pid":"33/2048","text":"Gregory Vert"},{"@pid":"90/6282","text":"Molly Stock"},{"@pid":"87/227","text":"Ashley Morris"}]},"title":"Extending ERD modeling notation to fuzzy management of GIS data files.","venue":"Data Knowl. Eng.","volume":"40","number":"2","pages":"163-179","year":"2002","type":"Journal Articles","key":"journals/dke/VertSM02","doi":"10.1016/S0169-023X(01)00049-0","ee":"https://doi.org/10.1016/S0169-023X(01)00049-0","url":"https://dblp.org/rec/journals/dke/VertSM02"},
+"url":"URL#4544261"
+},
+{
+"@score":"1",
+"@id":"4544262",
+"info":{"authors":{"author":{"@pid":"76/796","text":"Shouhong Wang"}},"title":"Nonlinear pattern hypothesis generation for data mining.","venue":"Data Knowl. Eng.","volume":"40","number":"3","pages":"273-283","year":"2002","type":"Journal Articles","key":"journals/dke/Wang02","doi":"10.1016/S0169-023X(01)00059-3","ee":"https://doi.org/10.1016/S0169-023X(01)00059-3","url":"https://dblp.org/rec/journals/dke/Wang02"},
+"url":"URL#4544262"
+}
+]
+}
 }
 }

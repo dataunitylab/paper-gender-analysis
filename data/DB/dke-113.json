@@ -1,23 +1,92 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke113\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke113\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.93"
+"text":"140.68"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"10",
+"@dc":"10",
+"@oc":"10",
+"@id":"17615673",
+"text":":facetid:toc:db/journals/dke/dke113.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"10",
+"@computed":"10",
+"@sent":"10",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"821338",
+"info":{"authors":{"author":[{"@pid":"b/NickBassiliades","text":"Nick Bassiliades"},{"@pid":"189/7506","text":"Moisis Symeonidis"},{"@pid":"67/4413","text":"Panagiotis Gouvas"},{"@pid":"26/5512","text":"Efstratios Kontopoulos"},{"@pid":"89/1808","text":"Georgios Meditskos"},{"@pid":"v/IoannisPVlahavas","text":"Ioannis P. Vlahavas"}]},"title":"PaaSport semantic model - An ontology for a platform-as-a-service semantically interoperable marketplace.","venue":"Data Knowl. Eng.","volume":"113","pages":"81-115","year":"2018","type":"Journal Articles","key":"journals/dke/BassiliadesSGKM18","doi":"10.1016/J.DATAK.2017.11.001","ee":"https://doi.org/10.1016/j.datak.2017.11.001","url":"https://dblp.org/rec/journals/dke/BassiliadesSGKM18"},
+"url":"URL#821338"
+},
+{
+"@score":"1",
+"@id":"821340",
+"info":{"authors":{"author":[{"@pid":"133/1121","text":"Marcos V. N. Bedo"},{"@pid":"k/DanielSKaster","text":"Daniel S. Kaster"},{"@pid":"t/AgmaJMTraina","text":"Agma J. M. Traina"},{"@pid":"t/CaetanoTrainaJr","text":"Caetano Traina Jr."}]},"title":"The Merkurion approach for similarity searching optimization in Database Management Systems.","venue":"Data Knowl. Eng.","volume":"113","pages":"18-42","year":"2018","type":"Journal Articles","key":"journals/dke/BedoKTT18","doi":"10.1016/J.DATAK.2017.09.003","ee":"https://doi.org/10.1016/j.datak.2017.09.003","url":"https://dblp.org/rec/journals/dke/BedoKTT18"},
+"url":"URL#821340"
+},
+{
+"@score":"1",
+"@id":"821344",
+"info":{"authors":{"author":[{"@pid":"06/10490","text":"Luis Adrián Cabrera-Diego"},{"@pid":"53/3721","text":"Juan-Manuel Torres-Moreno"}]},"title":"SummTriver - A new trivergent model to evaluate summaries automatically without human references.","venue":"Data Knowl. Eng.","volume":"113","pages":"184-197","year":"2018","type":"Journal Articles","key":"journals/dke/Cabrera-DiegoT18","doi":"10.1016/J.DATAK.2017.09.001","ee":"https://doi.org/10.1016/j.datak.2017.09.001","url":"https://dblp.org/rec/journals/dke/Cabrera-DiegoT18"},
+"url":"URL#821344"
+},
+{
+"@score":"1",
+"@id":"821350",
+"info":{"authors":{"author":[{"@pid":"00/6390","text":"Flavio Corradini"},{"@pid":"21/7271","text":"Alessio Ferrari 0001"},{"@pid":"201/6092","text":"Fabrizio Fornari"},{"@pid":"g/StefaniaGnesi","text":"Stefania Gnesi"},{"@pid":"90/329","text":"Andrea Polini"},{"@pid":"r/BarbaraRe","text":"Barbara Re 0001"},{"@pid":"119/1636","text":"Giorgio Oronzo Spagnolo"}]},"title":"A Guidelines framework for understandable BPMN models.","venue":"Data Knowl. Eng.","volume":"113","pages":"129-154","year":"2018","type":"Journal Articles","key":"journals/dke/CorradiniFFGPRS18","doi":"10.1016/J.DATAK.2017.11.003","ee":"https://doi.org/10.1016/j.datak.2017.11.003","url":"https://dblp.org/rec/journals/dke/CorradiniFFGPRS18"},
+"url":"URL#821350"
+},
+{
+"@score":"1",
+"@id":"821356",
+"info":{"authors":{"author":[{"@pid":"59/1952","text":"Georgios John Fakas"},{"@pid":"137/6640","text":"Yilun Cai"},{"@pid":"81/6349","text":"Zhi Cai"},{"@pid":"34/6253","text":"Nikos Mamoulis"}]},"title":"Thematic ranking of object summaries for keyword search.","venue":"Data Knowl. Eng.","volume":"113","pages":"1-17","year":"2018","type":"Journal Articles","key":"journals/dke/FakasCCM18","doi":"10.1016/J.DATAK.2017.08.002","ee":"https://doi.org/10.1016/j.datak.2017.08.002","url":"https://dblp.org/rec/journals/dke/FakasCCM18"},
+"url":"URL#821356"
+},
+{
+"@score":"1",
+"@id":"821365",
+"info":{"authors":{"author":[{"@pid":"88/3481","text":"Emre Kaplan"},{"@pid":"165/5531","text":"Mehmet Emre Gursoy"},{"@pid":"81/5926","text":"Mehmet Ercan Nergiz"},{"@pid":"48/5154","text":"Yücel Saygin"}]},"title":"Location disclosure risks of releasing trajectory distances.","venue":"Data Knowl. Eng.","volume":"113","pages":"43-63","year":"2018","type":"Journal Articles","key":"journals/dke/KaplanGNS18","doi":"10.1016/J.DATAK.2017.10.001","ee":"https://doi.org/10.1016/j.datak.2017.10.001","url":"https://dblp.org/rec/journals/dke/KaplanGNS18"},
+"url":"URL#821365"
+},
+{
+"@score":"1",
+"@id":"821369",
+"info":{"authors":{"author":{"@pid":"69/5833-1","text":"Chang-Hwan Lee 0001"}},"title":"An information-theoretic filter approach for value weighted classification learning in naive Bayes.","venue":"Data Knowl. Eng.","volume":"113","pages":"116-128","year":"2018","type":"Journal Articles","key":"journals/dke/Lee18","doi":"10.1016/J.DATAK.2017.11.002","ee":"https://doi.org/10.1016/j.datak.2017.11.002","url":"https://dblp.org/rec/journals/dke/Lee18"},
+"url":"URL#821369"
+},
+{
+"@score":"1",
+"@id":"821384",
+"info":{"authors":{"author":[{"@pid":"146/9105","text":"Hanane Ouksili"},{"@pid":"02/1736","text":"Zoubida Kedad"},{"@pid":"l/StephaneLopes","text":"Stéphane Lopes"},{"@pid":"69/3247","text":"Sylvaine Nugier"}]},"title":"Pattern oriented RDF graphs exploration.","venue":"Data Knowl. Eng.","volume":"113","pages":"171-183","year":"2018","type":"Journal Articles","key":"journals/dke/OuksiliKLN18","doi":"10.1016/J.DATAK.2017.06.003","ee":"https://doi.org/10.1016/j.datak.2017.06.003","url":"https://dblp.org/rec/journals/dke/OuksiliKLN18"},
+"url":"URL#821384"
+},
+{
+"@score":"1",
+"@id":"821385",
+"info":{"authors":{"author":[{"@pid":"12/8981","text":"Iván Palomares"},{"@pid":"60/5849","text":"Fiona Browne"},{"@pid":"184/6604","text":"Peadar Davis"}]},"title":"Multi-view fuzzy information fusion in collaborative filtering recommender systems - Application to the urban resilience domain.","venue":"Data Knowl. Eng.","volume":"113","pages":"64-80","year":"2018","type":"Journal Articles","key":"journals/dke/PalomaresBD18","doi":"10.1016/J.DATAK.2017.10.002","ee":"https://doi.org/10.1016/j.datak.2017.10.002","url":"https://dblp.org/rec/journals/dke/PalomaresBD18"},
+"url":"URL#821385"
+},
+{
+"@score":"1",
+"@id":"821394",
+"info":{"authors":{"author":[{"@pid":"215/2372","text":"Mohammad Sattari"},{"@pid":"63/426","text":"Kamran Zamanifar"}]},"title":"A spreading activation-based label propagation algorithm for overlapping community detection in dynamic social networks.","venue":"Data Knowl. Eng.","volume":"113","pages":"155-170","year":"2018","type":"Journal Articles","key":"journals/dke/SattariZ18","doi":"10.1016/J.DATAK.2017.12.003","ee":"https://doi.org/10.1016/j.datak.2017.12.003","url":"https://dblp.org/rec/journals/dke/SattariZ18"},
+"url":"URL#821394"
+}
+]
+}
 }
 }

@@ -1,23 +1,80 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke127\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke127\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.29"
+"text":"139.39"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"8",
+"@dc":"8",
+"@oc":"8",
+"@id":"17615688",
+"text":":facetid:toc:db/journals/dke/dke127.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"8",
+"@computed":"8",
+"@sent":"8",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"64368",
+"info":{"authors":{"author":[{"@pid":"204/5659","text":"Karim Alami"},{"@pid":"34/1515","text":"Sofian Maabout"}]},"title":"A framework for multidimensional skyline queries over streaming data.","venue":"Data Knowl. Eng.","volume":"127","pages":"101792","year":"2020","type":"Journal Articles","key":"journals/dke/AlamiM20","doi":"10.1016/J.DATAK.2020.101792","ee":"https://doi.org/10.1016/j.datak.2020.101792","url":"https://dblp.org/rec/journals/dke/AlamiM20"},
+"url":"URL#64368"
+},
+{
+"@score":"1",
+"@id":"64373",
+"info":{"authors":{"author":[{"@pid":"257/0700","text":"Chitrakant Banchhor"},{"@pid":"257/0864","text":"N. Srinivasu"}]},"title":"Integrating Cuckoo search-Grey wolf optimization and Correlative Naive Bayes classifier with Map Reduce model for big data classification.","venue":"Data Knowl. Eng.","volume":"127","pages":"101788","year":"2020","type":"Journal Articles","key":"journals/dke/BanchhorS20","doi":"10.1016/J.DATAK.2019.101788","ee":"https://doi.org/10.1016/j.datak.2019.101788","url":"https://dblp.org/rec/journals/dke/BanchhorS20"},
+"url":"URL#64373"
+},
+{
+"@score":"1",
+"@id":"64386",
+"info":{"authors":{"author":[{"@pid":"267/7273","text":"Bahareh Kazemi"},{"@pid":"29/617","text":"Abdolreza Abhari"}]},"title":"Content-based Node2Vec for representation of papers in the scientific literature.","venue":"Data Knowl. Eng.","volume":"127","pages":"101794","year":"2020","type":"Journal Articles","key":"journals/dke/KazemiA20","doi":"10.1016/J.DATAK.2020.101794","ee":"https://doi.org/10.1016/j.datak.2020.101794","url":"https://dblp.org/rec/journals/dke/KazemiA20"},
+"url":"URL#64386"
+},
+{
+"@score":"1",
+"@id":"64389",
+"info":{"authors":{"author":[{"@pid":"267/7219","text":"Mussa Omar"},{"@pid":"71/7567","text":"George Baryannis"}]},"title":"Semi-automated development of conceptual models from natural language text.","venue":"Data Knowl. Eng.","volume":"127","pages":"101796","year":"2020","type":"Journal Articles","key":"journals/dke/OmarB20","doi":"10.1016/J.DATAK.2020.101796","ee":"https://doi.org/10.1016/j.datak.2020.101796","url":"https://dblp.org/rec/journals/dke/OmarB20"},
+"url":"URL#64389"
+},
+{
+"@score":"1",
+"@id":"64391",
+"info":{"authors":{"author":[{"@pid":"55/6301","text":"Noseong Park"},{"@pid":"p/APugliese","text":"Andrea Pugliese 0001"},{"@pid":"26/7789","text":"Edoardo Serra"},{"@pid":"s/VSSubrahmanian","text":"V. S. Subrahmanian"}]},"title":"Top-k user-specified preferred answers in massive graph databases.","venue":"Data Knowl. Eng.","volume":"127","pages":"101798","year":"2020","type":"Journal Articles","key":"journals/dke/ParkPSS20","doi":"10.1016/J.DATAK.2020.101798","ee":"https://doi.org/10.1016/j.datak.2020.101798","url":"https://dblp.org/rec/journals/dke/ParkPSS20"},
+"url":"URL#64391"
+},
+{
+"@score":"1",
+"@id":"64397",
+"info":{"authors":{"author":[{"@pid":"06/150","text":"Max Silberztein"},{"@pid":"36/3146","text":"Elisabeth Métais"},{"@pid":"38/2268","text":"Farid Meziane"},{"@pid":"18/2615","text":"Elena Kornyshova"},{"@pid":"77/10222","text":"Faten Atigui"}]},"title":"Preface.","venue":"Data Knowl. Eng.","volume":"127","pages":"101775","year":"2020","type":"Journal Articles","key":"journals/dke/SilberzteinMMKA20","doi":"10.1016/J.DATAK.2019.101775","ee":"https://doi.org/10.1016/j.datak.2019.101775","url":"https://dblp.org/rec/journals/dke/SilberzteinMMKA20"},
+"url":"URL#64397"
+},
+{
+"@score":"1",
+"@id":"64402",
+"info":{"authors":{"author":[{"@pid":"73/1149-9","text":"Jian Xu 0009"},{"@pid":"267/7340","text":"Jiapeng Mu"},{"@pid":"267/7385","text":"Gaorong Chen"}]},"title":"A multi-view similarity measure framework for trouble ticket mining.","venue":"Data Knowl. Eng.","volume":"127","pages":"101800","year":"2020","type":"Journal Articles","key":"journals/dke/XuMC20","doi":"10.1016/J.DATAK.2020.101800","ee":"https://doi.org/10.1016/j.datak.2020.101800","url":"https://dblp.org/rec/journals/dke/XuMC20"},
+"url":"URL#64402"
+},
+{
+"@score":"1",
+"@id":"64403",
+"info":{"authors":{"author":[{"@pid":"19/2134","text":"Jinli Zhang"},{"@pid":"89/879","text":"Zongli Jiang"},{"@pid":"15/3922","text":"Yongping Du"},{"@pid":"29/3826-1","text":"Tong Li 0001"},{"@pid":"17/1701","text":"Yida Wang"},{"@pid":"h/XiaohuaHu","text":"Xiaohua Hu"}]},"title":"Hierarchy construction and classification of heterogeneous information networks based on RSDAEf.","venue":"Data Knowl. Eng.","volume":"127","pages":"101790","year":"2020","type":"Journal Articles","key":"journals/dke/ZhangJDLWH20","doi":"10.1016/J.DATAK.2020.101790","ee":"https://doi.org/10.1016/j.datak.2020.101790","url":"https://dblp.org/rec/journals/dke/ZhangJDLWH20"},
+"url":"URL#64403"
+}
+]
+}
 }
 }

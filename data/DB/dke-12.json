@@ -1,23 +1,110 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke12\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke12\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.32"
+"text":"144.12"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"13",
+"@dc":"13",
+"@oc":"13",
+"@id":"17615680",
+"text":":facetid:toc:db/journals/dke/dke12.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"13",
+"@computed":"13",
+"@sent":"13",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"5072935",
+"info":{"authors":{"author":[{"@pid":"b/ElisaBertino","text":"Elisa Bertino"},{"@pid":"03/1801","text":"Amani A. Saad"},{"@pid":"08/6642","text":"Mohamed A. Ismail"}]},"title":"Clustering Techniques in Object Bases - A Survey.","venue":"Data Knowl. Eng.","volume":"12","number":"3","pages":"255-275","year":"1994","type":"Journal Articles","key":"journals/dke/BertinoSI94","doi":"10.1016/0169-023X(94)90028-0","ee":"https://doi.org/10.1016/0169-023X(94)90028-0","url":"https://dblp.org/rec/journals/dke/BertinoSI94"},
+"url":"URL#5072935"
+},
+{
+"@score":"1",
+"@id":"5072936",
+"info":{"authors":{"author":[{"@pid":"b/ElisaBertino","text":"Elisa Bertino"},{"@pid":"70/260","text":"Hans Weigand"}]},"title":"An Approach to Authorization Modeling in Object-Oriented Database Systems.","venue":"Data Knowl. Eng.","volume":"12","number":"1","pages":"1-29","year":"1994","type":"Journal Articles","key":"journals/dke/BertinoW94","doi":"10.1016/0169-023X(94)90020-5","ee":"https://doi.org/10.1016/0169-023X(94)90020-5","url":"https://dblp.org/rec/journals/dke/BertinoW94"},
+"url":"URL#5072936"
+},
+{
+"@score":"1",
+"@id":"5072938",
+"info":{"authors":{"author":[{"@pid":"50/5465","text":"Amedeo Cappelli"},{"@pid":"91/5977","text":"Daniele Mazzeranghi"}]},"title":"An Intensional Semantics for a Hybrid Language.","venue":"Data Knowl. Eng.","volume":"12","number":"1","pages":"31-62","year":"1994","type":"Journal Articles","key":"journals/dke/CappelliM94","doi":"10.1016/0169-023X(94)90021-3","ee":"https://doi.org/10.1016/0169-023X(94)90021-3","url":"https://dblp.org/rec/journals/dke/CappelliM94"},
+"url":"URL#5072938"
+},
+{
+"@score":"1",
+"@id":"5072941",
+"info":{"authors":{"author":[{"@pid":"78/4406","text":"Roger H. L. Chiang"},{"@pid":"39/1331","text":"Terence M. Barron"},{"@pid":"41/1781","text":"Veda C. Storey"}]},"title":"Reverse Engineering of Relational Databases - Extraction of an EER Model from a Relational Database.","venue":"Data Knowl. Eng.","volume":"12","number":"2","pages":"107-142","year":"1994","type":"Journal Articles","key":"journals/dke/ChiangBS94","doi":"10.1016/0169-023X(94)90011-6","ee":"https://doi.org/10.1016/0169-023X(94)90011-6","url":"https://dblp.org/rec/journals/dke/ChiangBS94"},
+"url":"URL#5072941"
+},
+{
+"@score":"1",
+"@id":"5072942",
+"info":{"authors":{"author":{"@pid":"c/SoonMyoungChung","text":"Soon Myoung Chung"}},"title":"Enhanced Tree Quorum Algorithm for Replica Control in Distributed Database Systems.","venue":"Data Knowl. Eng.","volume":"12","number":"1","pages":"63-81","year":"1994","type":"Journal Articles","key":"journals/dke/Chung94","doi":"10.1016/0169-023X(94)90022-1","ee":"https://doi.org/10.1016/0169-023X(94)90022-1","url":"https://dblp.org/rec/journals/dke/Chung94"},
+"url":"URL#5072942"
+},
+{
+"@score":"1",
+"@id":"5072945",
+"info":{"authors":{"author":[{"@pid":"12/1075","text":"Ioannis Hatzilygeroudis"},{"@pid":"93/5245","text":"Han Reichgelt"}]},"title":"ACT-P - A Configurable Theorem-Power.","venue":"Data Knowl. Eng.","volume":"12","number":"3","pages":"277-296","year":"1994","type":"Journal Articles","key":"journals/dke/HatzilygeroudisR94","doi":"10.1016/0169-023X(94)90029-9","ee":"https://doi.org/10.1016/0169-023X(94)90029-9","url":"https://dblp.org/rec/journals/dke/HatzilygeroudisR94"},
+"url":"URL#5072945"
+},
+{
+"@score":"1",
+"@id":"5072948",
+"info":{"authors":{"author":[{"@pid":"24/2341","text":"Quinzheng Kong"},{"@pid":"04/968","text":"M. Howard Williams"},{"@pid":"87/3288","text":"G. Chen"}]},"title":"The Indefinite Closed World Assumption.","venue":"Data Knowl. Eng.","volume":"12","number":"3","pages":"297-311","year":"1994","type":"Journal Articles","key":"journals/dke/KongWC94","doi":"10.1016/0169-023X(94)90030-2","ee":"https://doi.org/10.1016/0169-023X(94)90030-2","url":"https://dblp.org/rec/journals/dke/KongWC94"},
+"url":"URL#5072948"
+},
+{
+"@score":"1",
+"@id":"5072949",
+"info":{"authors":{"author":[{"@pid":"20/563","text":"Yoram Kornatzky"},{"@pid":"08/1674","text":"Solomon Eyal Shimony"}]},"title":"A Probabilistic Object-Oriented Data Model.","venue":"Data Knowl. Eng.","volume":"12","number":"2","pages":"143-166","year":"1994","type":"Journal Articles","key":"journals/dke/KornatzkyS94","doi":"10.1016/0169-023X(94)90012-4","ee":"https://doi.org/10.1016/0169-023X(94)90012-4","url":"https://dblp.org/rec/journals/dke/KornatzkyS94"},
+"url":"URL#5072949"
+},
+{
+"@score":"1",
+"@id":"5072952",
+"info":{"authors":{"author":[{"@pid":"m/HMannila","text":"Heikki Mannila"},{"@pid":"97/1190","text":"Kari-Jouko Räihä"}]},"title":"Algorithms for Inferring Functional Dependencies from Relations.","venue":"Data Knowl. Eng.","volume":"12","number":"1","pages":"83-99","year":"1994","type":"Journal Articles","key":"journals/dke/MannilaR94","doi":"10.1016/0169-023X(94)90023-X","ee":"https://doi.org/10.1016/0169-023X(94)90023-X","url":"https://dblp.org/rec/journals/dke/MannilaR94"},
+"url":"URL#5072952"
+},
+{
+"@score":"1",
+"@id":"5072953",
+"info":{"authors":{"author":{"@pid":"28/926","text":"Takao Miura"}},"title":"Nesting Quantification in a Visual Data Manipulation Language.","venue":"Data Knowl. Eng.","volume":"12","number":"2","pages":"167-196","year":"1994","type":"Journal Articles","key":"journals/dke/Miura94","doi":"10.1016/0169-023X(94)90013-2","ee":"https://doi.org/10.1016/0169-023X(94)90013-2","url":"https://dblp.org/rec/journals/dke/Miura94"},
+"url":"URL#5072953"
+},
+{
+"@score":"1",
+"@id":"5072957",
+"info":{"authors":{"author":[{"@pid":"p/ErikProper","text":"Henderik Alex Proper"},{"@pid":"w/TPvanderWeide","text":"Theo P. van der Weide"}]},"title":"EVORM - A Conceptual Modelling Technique for Evolving Application Domains.","venue":"Data Knowl. Eng.","volume":"12","number":"3","pages":"313-359","year":"1994","type":"Journal Articles","key":"journals/dke/ProperW94","doi":"10.1016/0169-023X(94)90031-0","ee":"https://doi.org/10.1016/0169-023X(94)90031-0","url":"https://dblp.org/rec/journals/dke/ProperW94"},
+"url":"URL#5072957"
+},
+{
+"@score":"1",
+"@id":"5072960",
+"info":{"authors":{"author":[{"@pid":"s/KyuseokShim","text":"Kyuseok Shim"},{"@pid":"s/TimosKSellis","text":"Timos K. Sellis"},{"@pid":"n/DanaSNau","text":"Dana S. Nau"}]},"title":"Improvements on a Heuristic Algorithm for Multiple-Query Optimization.","venue":"Data Knowl. Eng.","volume":"12","number":"2","pages":"197-222","year":"1994","type":"Journal Articles","key":"journals/dke/ShimSN94","doi":"10.1016/0169-023X(94)90014-0","ee":"https://doi.org/10.1016/0169-023X(94)90014-0","url":"https://dblp.org/rec/journals/dke/ShimSN94"},
+"url":"URL#5072960"
+},
+{
+"@score":"1",
+"@id":"5072962",
+"info":{"authors":{"author":[{"@pid":"z/NingZhong","text":"Ning Zhong 0001"},{"@pid":"25/4174","text":"Setsuo Ohsuga"}]},"title":"Discovering Concept Clusters by Decomposing Databases.","venue":"Data Knowl. Eng.","volume":"12","number":"2","pages":"223-244","year":"1994","type":"Journal Articles","key":"journals/dke/ZhongO94","doi":"10.1016/0169-023X(94)90015-9","ee":"https://doi.org/10.1016/0169-023X(94)90015-9","url":"https://dblp.org/rec/journals/dke/ZhongO94"},
+"url":"URL#5072962"
+}
+]
+}
 }
 }

@@ -1,23 +1,146 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke3\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke3\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.42"
+"text":"135.87"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"19",
+"@dc":"19",
+"@oc":"19",
+"@id":"17615710",
+"text":":facetid:toc:db/journals/dke/dke3.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"19",
+"@computed":"19",
+"@sent":"19",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"5244571",
+"info":{"authors":{"author":[{"@pid":"k/HKleineBuning","text":"Hans Kleine Büning"},{"@pid":"55/1215","text":"Ulrich Löwen"},{"@pid":"52/3466","text":"Stefan Schmitgen"}]},"title":"Inconsistency of Production Systems.","venue":"Data Knowl. Eng.","volume":"3","number":"4","pages":"245-260","year":"1989","type":"Journal Articles","key":"journals/dke/BuningLS89","doi":"10.1016/0169-023X(89)90012-8","ee":"https://doi.org/10.1016/0169-023X(89)90012-8","url":"https://dblp.org/rec/journals/dke/BuningLS89"},
+"url":"URL#5244571"
+},
+{
+"@score":"1",
+"@id":"5244574",
+"info":{"authors":{"author":{"@pid":"14/6635","text":"Setrag Khoshafian"}},"title":"A Persistent Complex Object Database Language.","venue":"Data Knowl. Eng.","volume":"3","number":"4","pages":"225-243","year":"1989","type":"Journal Articles","key":"journals/dke/Khoshafian89","doi":"10.1016/0169-023X(89)90011-6","ee":"https://doi.org/10.1016/0169-023X(89)90011-6","url":"https://dblp.org/rec/journals/dke/Khoshafian89"},
+"url":"URL#5244574"
+},
+{
+"@score":"1",
+"@id":"5244579",
+"info":{"authors":{"author":[{"@pid":"64/2267","text":"J. T. Park"},{"@pid":"t/TobyJTeorey","text":"Toby J. Teorey"},{"@pid":"22/3097","text":"Stéphane Lafortune"}]},"title":"A Knowledge-Based Approach to Multiple Query Processing.","venue":"Data Knowl. Eng.","volume":"3","number":"4","pages":"261-284","year":"1989","type":"Journal Articles","key":"journals/dke/ParkTL89","doi":"10.1016/0169-023X(89)90013-X","ee":"https://doi.org/10.1016/0169-023X(89)90013-X","url":"https://dblp.org/rec/journals/dke/ParkTL89"},
+"url":"URL#5244579"
+},
+{
+"@score":"1",
+"@id":"5244584",
+"info":{"authors":{"author":[{"@pid":"s/PCYSheu","text":"Phillip C.-Y. Sheu"},{"@pid":"79/3875","text":"Rangasami L. Kashyap"},{"@pid":"57/2920","text":"Song Bong Yoo"}]},"title":"Query Optimization in Object-Oriented Knowledge Bases.","venue":"Data Knowl. Eng.","volume":"3","number":"4","pages":"285-302","year":"1989","type":"Journal Articles","key":"journals/dke/SheuKY89","doi":"10.1016/0169-023X(89)90014-1","ee":"https://doi.org/10.1016/0169-023X(89)90014-1","url":"https://dblp.org/rec/journals/dke/SheuKY89"},
+"url":"URL#5244584"
+},
+{
+"@score":"1",
+"@id":"5244585",
+"info":{"authors":{"author":[{"@pid":"86/396","text":"P. M. Stewart"},{"@pid":"b/DavidABell","text":"David A. Bell"},{"@pid":"31/5946","text":"F. J. McErlean"}]},"title":"Some Aspects of a Physical Database Design and Reorganisation Tool (PDRT).","venue":"Data Knowl. Eng.","volume":"3","number":"4","pages":"303-322","year":"1989","type":"Journal Articles","key":"journals/dke/StewartBM89","doi":"10.1016/0169-023X(89)90015-3","ee":"https://doi.org/10.1016/0169-023X(89)90015-3","url":"https://dblp.org/rec/journals/dke/StewartBM89"},
+"url":"URL#5244585"
+},
+{
+"@score":"1",
+"@id":"5244588",
+"info":{"authors":{"author":[{"@pid":"36/6302","text":"Chao-Chih Yang"},{"@pid":"59/6358","text":"Weicong Shen"}]},"title":"Parallel Algorithms for Solving the Satisfaction Problem of Functional and Multivalued Data Dependencies.","venue":"Data Knowl. Eng.","volume":"3","number":"4","pages":"323-338","year":"1989","type":"Journal Articles","key":"journals/dke/YangS89","doi":"10.1016/0169-023X(89)90016-5","ee":"https://doi.org/10.1016/0169-023X(89)90016-5","url":"https://dblp.org/rec/journals/dke/YangS89"},
+"url":"URL#5244588"
+},
+{
+"@score":"1",
+"@id":"5266911",
+"info":{"authors":{"author":[{"@pid":"a/PAtzeni","text":"Paolo Atzeni"},{"@pid":"p/DSParkerJr","text":"Douglas Stott Parker Jr."}]},"title":"Formal Properties of Net-Based Knowledge Representation Schemes.","venue":"Data Knowl. Eng.","volume":"3","pages":"137-147","year":"1988","type":"Journal Articles","key":"journals/dke/AtzeniP88","doi":"10.1016/0169-023X(88)90011-0","ee":"https://doi.org/10.1016/0169-023X(88)90011-0","url":"https://dblp.org/rec/journals/dke/AtzeniP88"},
+"url":"URL#5266911"
+},
+{
+"@score":"1",
+"@id":"5266912",
+"info":{"authors":{"author":{"@pid":"b/DavidABell","text":"David A. Bell"}},"title":"Issues in Relational Database Performance (invited paper ISDBMS).","venue":"Data Knowl. Eng.","volume":"3","number":"1","pages":"49-61","year":"1988","type":"Journal Articles","key":"journals/dke/Bell88","doi":"10.1016/0169-023X(88)90004-3","ee":"https://doi.org/10.1016/0169-023X(88)90004-3","url":"https://dblp.org/rec/journals/dke/Bell88"},
+"url":"URL#5266912"
+},
+{
+"@score":"1",
+"@id":"5266913",
+"info":{"authors":{"author":[{"@pid":"30/5939","text":"Antonio Di Leva"},{"@pid":"63/2628","text":"Piercarlo Giolito"}]},"title":"Information System Dynamics Representation in Production Environment.","venue":"Data Knowl. Eng.","volume":"3","pages":"149-161","year":"1988","type":"Journal Articles","key":"journals/dke/DilevaG88","doi":"10.1016/0169-023X(88)90012-2","ee":"https://doi.org/10.1016/0169-023X(88)90012-2","url":"https://dblp.org/rec/journals/dke/DilevaG88"},
+"url":"URL#5266913"
+},
+{
+"@score":"1",
+"@id":"5266914",
+"info":{"authors":{"author":[{"@pid":"79/6890","text":"Marie Duzí"},{"@pid":"90/504","text":"Frantisek Krejcí"},{"@pid":"74/9175","text":"Zdenko Stanícek"}]},"title":"Database Project UNIS (a UNIfied database development support System).","venue":"Data Knowl. Eng.","volume":"3","pages":"163-172","year":"1988","type":"Journal Articles","key":"journals/dke/DuziKS88","doi":"10.1016/0169-023X(88)90013-4","ee":"https://doi.org/10.1016/0169-023X(88)90013-4","url":"https://dblp.org/rec/journals/dke/DuziKS88"},
+"url":"URL#5266914"
+},
+{
+"@score":"1",
+"@id":"5266915",
+"info":{"authors":{"author":[{"@pid":"h/TheoHarder","text":"Theo Härder"},{"@pid":"65/1929","text":"Christoph Hübel"},{"@pid":"m/KMeyerWegener","text":"Klaus Meyer-Wegener"},{"@pid":"m/BMitschang","text":"Bernhard Mitschang"}]},"title":"Processing and Transaction Concepts for Cooperation of Engineering Workstations and a Database Server.","venue":"Data Knowl. Eng.","volume":"3","pages":"87-107","year":"1988","type":"Journal Articles","key":"journals/dke/HarderHMM88","doi":"10.1016/0169-023X(88)90008-0","ee":"https://doi.org/10.1016/0169-023X(88)90008-0","url":"https://dblp.org/rec/journals/dke/HarderHMM88"},
+"url":"URL#5266915"
+},
+{
+"@score":"1",
+"@id":"5266916",
+"info":{"authors":{"author":[{"@pid":"48/6604","text":"Vishu Krishnamurthy"},{"@pid":"s/StanleyYWSu","text":"Stanley Y. W. Su"},{"@pid":"l/HermanLam","text":"Herman Lam"},{"@pid":"77/4512","text":"Mary Mitchell"},{"@pid":"28/2404","text":"Edward Barkmeyer"}]},"title":"IMDAS - An Integrated Manufacturing Data Administration System.","venue":"Data Knowl. Eng.","volume":"3","pages":"109-131","year":"1988","type":"Journal Articles","key":"journals/dke/KrishnamurthySLMB88","doi":"10.1016/0169-023X(88)90009-2","ee":"https://doi.org/10.1016/0169-023X(88)90009-2","url":"https://dblp.org/rec/journals/dke/KrishnamurthySLMB88"},
+"url":"URL#5266916"
+},
+{
+"@score":"1",
+"@id":"5266917",
+"info":{"authors":{"author":{"@pid":"04/6442","text":"Angelo Monfroglio"}},"title":"Timetabling through a Deductive Database - A Case Study.","venue":"Data Knowl. Eng.","volume":"3","number":"1","pages":"1-27","year":"1988","type":"Journal Articles","key":"journals/dke/Monfroglio88","doi":"10.1016/0169-023X(88)90002-X","ee":"https://doi.org/10.1016/0169-023X(88)90002-X","url":"https://dblp.org/rec/journals/dke/Monfroglio88"},
+"url":"URL#5266917"
+},
+{
+"@score":"1",
+"@id":"5266918",
+"info":{"authors":{"author":[{"@pid":"79/3461","text":"D. Obretenov"},{"@pid":"36/406","text":"Zh. Angelov"},{"@pid":"77/6128","text":"J. Mihaylov"},{"@pid":"99/1645","text":"P. Dishlieva"},{"@pid":"47/563","text":"N. Kirova"}]},"title":"A Knowledge-Based Approach to Relational Database Design.","venue":"Data Knowl. Eng.","volume":"3","pages":"173-180","year":"1988","type":"Journal Articles","key":"journals/dke/ObretenovAMDK88","doi":"10.1016/0169-023X(88)90014-6","ee":"https://doi.org/10.1016/0169-023X(88)90014-6","url":"https://dblp.org/rec/journals/dke/ObretenovAMDK88"},
+"url":"URL#5266918"
+},
+{
+"@score":"1",
+"@id":"5266919",
+"info":{"authors":{"author":[{"@pid":"56/633","text":"Wiktor Rzeczkowski"},{"@pid":"s/KSubieta","text":"Kazimierz Subieta"}]},"title":"Stored Queries - a Data Organization for Query Optimization.","venue":"Data Knowl. Eng.","volume":"3","number":"1","pages":"29-48","year":"1988","type":"Journal Articles","key":"journals/dke/RzeczkowskiS88","doi":"10.1016/0169-023X(88)90003-1","ee":"https://doi.org/10.1016/0169-023X(88)90003-1","url":"https://dblp.org/rec/journals/dke/RzeczkowskiS88"},
+"url":"URL#5266919"
+},
+{
+"@score":"1",
+"@id":"5266920",
+"info":{"authors":{"author":[{"@pid":"s/TimosKSellis","text":"Timos K. Sellis"},{"@pid":"r/NickRoussopoulos","text":"Nick Roussopoulos"},{"@pid":"03/5097","text":"Leo Mark"},{"@pid":"f/CFaloutsos","text":"Christos Faloutsos"}]},"title":"Expert Database Systems - Efficient Support for Engineering Environments.","venue":"Data Knowl. Eng.","volume":"3","pages":"71-85","year":"1988","type":"Journal Articles","key":"journals/dke/SellisRMF88","doi":"10.1016/0169-023X(88)90007-9","ee":"https://doi.org/10.1016/0169-023X(88)90007-9","url":"https://dblp.org/rec/journals/dke/SellisRMF88"},
+"url":"URL#5266920"
+},
+{
+"@score":"1",
+"@id":"5266921",
+"info":{"authors":{"author":{"@pid":"00/509","text":"Juraj Steiner"}},"title":"Relational Theory of Queries.","venue":"Data Knowl. Eng.","volume":"3","pages":"181-196","year":"1988","type":"Journal Articles","key":"journals/dke/Steiner88","doi":"10.1016/0169-023X(88)90015-8","ee":"https://doi.org/10.1016/0169-023X(88)90015-8","url":"https://dblp.org/rec/journals/dke/Steiner88"},
+"url":"URL#5266921"
+},
+{
+"@score":"1",
+"@id":"5266922",
+"info":{"authors":{"author":[{"@pid":"02/5465","text":"R. C. Ting"},{"@pid":"88/969","text":"Fred J. Maryanski"}]},"title":"Special Issue - First International Conference on Data and Knowledge Systems for Manufacturing and Engineering.","venue":"Data Knowl. Eng.","volume":"3","pages":"67-69","year":"1988","type":"Journal Articles","key":"journals/dke/TingM88","url":"https://dblp.org/rec/journals/dke/TingM88"},
+"url":"URL#5266922"
+},
+{
+"@score":"1",
+"@id":"5266923",
+"info":{"authors":{"author":[{"@pid":"04/968","text":"M. Howard Williams"},{"@pid":"24/2341","text":"Quinzheng Kong"}]},"title":"Incomplete information in a Deductive Database.","venue":"Data Knowl. Eng.","volume":"3","pages":"197-220","year":"1988","type":"Journal Articles","key":"journals/dke/WilliamsK88","doi":"10.1016/0169-023X(88)90016-X","ee":"https://doi.org/10.1016/0169-023X(88)90016-X","url":"https://dblp.org/rec/journals/dke/WilliamsK88"},
+"url":"URL#5266923"
+}
+]
+}
 }
 }

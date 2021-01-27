@@ -1,23 +1,98 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke116\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke116\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.29"
+"text":"136.23"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"11",
+"@dc":"11",
+"@oc":"11",
+"@id":"17615676",
+"text":":facetid:toc:db/journals/dke/dke116.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"11",
+"@computed":"11",
+"@sent":"11",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"821339",
+"info":{"authors":{"author":[{"@pid":"204/3673","text":"Leila Bayoudhi"},{"@pid":"75/7872","text":"Najla Sassi"},{"@pid":"44/2943","text":"Wassim Jaziri"}]},"title":"How to Repair Inconsistency in OWL 2 DL Ontology Versions?","venue":"Data Knowl. Eng.","volume":"116","pages":"138-158","year":"2018","type":"Journal Articles","key":"journals/dke/BayoudhiSJ18","doi":"10.1016/J.DATAK.2018.05.010","ee":"https://doi.org/10.1016/j.datak.2018.05.010","url":"https://dblp.org/rec/journals/dke/BayoudhiSJ18"},
+"url":"URL#821339"
+},
+{
+"@score":"1",
+"@id":"821346",
+"info":{"authors":{"author":{"@pid":"85/491","text":"Lin-Chih Chen"}},"title":"A cost-effective solution for blog search.","venue":"Data Knowl. Eng.","volume":"116","pages":"124-137","year":"2018","type":"Journal Articles","key":"journals/dke/Chen18","doi":"10.1016/J.DATAK.2018.05.009","ee":"https://doi.org/10.1016/j.datak.2018.05.009","url":"https://dblp.org/rec/journals/dke/Chen18"},
+"url":"URL#821346"
+},
+{
+"@score":"1",
+"@id":"821354",
+"info":{"authors":{"author":[{"@pid":"11/9085","text":"Boxiang Dong"},{"@pid":"52/4725","text":"Wendy Hui Wang"}]},"title":"Secure partial encryption with adversarial functional dependency constraints in the database-as-a-service model.","venue":"Data Knowl. Eng.","volume":"116","pages":"1-20","year":"2018","type":"Journal Articles","key":"journals/dke/DongW18","doi":"10.1016/J.DATAK.2018.01.001","ee":"https://doi.org/10.1016/j.datak.2018.01.001","url":"https://dblp.org/rec/journals/dke/DongW18"},
+"url":"URL#821354"
+},
+{
+"@score":"1",
+"@id":"821360",
+"info":{"authors":{"author":[{"@pid":"217/7140","text":"Sait Gül"},{"@pid":"79/5170","text":"Özgür Kabak"},{"@pid":"27/5909","text":"Y. Ilker Topcu"}]},"title":"A multiple criteria credit rating approach utilizing social media data.","venue":"Data Knowl. Eng.","volume":"116","pages":"80-99","year":"2018","type":"Journal Articles","key":"journals/dke/GulKT18","doi":"10.1016/J.DATAK.2018.05.005","ee":"https://doi.org/10.1016/j.datak.2018.05.005","url":"https://dblp.org/rec/journals/dke/GulKT18"},
+"url":"URL#821360"
+},
+{
+"@score":"1",
+"@id":"821372",
+"info":{"authors":{"author":[{"@pid":"58/2882","text":"Chuan-Ming Liu"},{"@pid":"06/3613","text":"Zhendong Niu"},{"@pid":"225/4447","text":"Kuan-Teng Liao"}]},"title":"Mechanisms to improve clustering uncertain data with UKmeans.","venue":"Data Knowl. Eng.","volume":"116","pages":"61-79","year":"2018","type":"Journal Articles","key":"journals/dke/LiuNL18","doi":"10.1016/J.DATAK.2018.05.004","ee":"https://doi.org/10.1016/j.datak.2018.05.004","url":"https://dblp.org/rec/journals/dke/LiuNL18"},
+"url":"URL#821372"
+},
+{
+"@score":"1",
+"@id":"821376",
+"info":{"authors":{"author":[{"@pid":"178/9876","text":"Lingjuan Lyu"},{"@pid":"07/1057","text":"James C. Bezdek"},{"@pid":"62/4404","text":"Yee Wei Law"},{"@pid":"182/1859","text":"Xuanli He"},{"@pid":"10/5477","text":"Marimuthu Palaniswami"}]},"title":"Privacy-preserving collaborative fuzzy clustering.","venue":"Data Knowl. Eng.","volume":"116","pages":"21-41","year":"2018","type":"Journal Articles","key":"journals/dke/LyuBLHP18","doi":"10.1016/J.DATAK.2018.05.002","ee":"https://doi.org/10.1016/j.datak.2018.05.002","url":"https://dblp.org/rec/journals/dke/LyuBLHP18"},
+"url":"URL#821376"
+},
+{
+"@score":"1",
+"@id":"821378",
+"info":{"authors":{"author":[{"@pid":"117/0754","text":"Patricia Martín-Rodilla"},{"@pid":"97/5511","text":"José Ignacio Panach"},{"@pid":"96/1516","text":"Cesar Gonzalez-Perez"},{"@pid":"p/OscarPastor","text":"Oscar Pastor 0001"}]},"title":"Assessing data analysis performance in research contexts - An experiment on accuracy, efficiency, productivity and researchers&apos; satisfaction.","venue":"Data Knowl. Eng.","volume":"116","pages":"177-204","year":"2018","type":"Journal Articles","key":"journals/dke/Martin-RodillaP18","doi":"10.1016/J.DATAK.2018.06.003","ee":"https://doi.org/10.1016/j.datak.2018.06.003","url":"https://dblp.org/rec/journals/dke/Martin-RodillaP18"},
+"url":"URL#821378"
+},
+{
+"@score":"1",
+"@id":"821380",
+"info":{"authors":{"author":[{"@pid":"34/569","text":"Haithem Mezni"},{"@pid":"225/4076","text":"Taher Abdeljaoued"}]},"title":"A cloud services recommendation system based on Fuzzy Formal Concept Analysis.","venue":"Data Knowl. Eng.","volume":"116","pages":"100-123","year":"2018","type":"Journal Articles","key":"journals/dke/MezniA18","doi":"10.1016/J.DATAK.2018.05.008","ee":"https://doi.org/10.1016/j.datak.2018.05.008","url":"https://dblp.org/rec/journals/dke/MezniA18"},
+"url":"URL#821380"
+},
+{
+"@score":"1",
+"@id":"821386",
+"info":{"authors":{"author":[{"@pid":"150/5165","text":"Yannis Papanikolaou"},{"@pid":"38/6253","text":"Grigorios Tsoumakas"},{"@pid":"25/6745","text":"Ioannis Katakis"}]},"title":"Hierarchical partitioning of the output space in multi-label data.","venue":"Data Knowl. Eng.","volume":"116","pages":"42-60","year":"2018","type":"Journal Articles","key":"journals/dke/PapanikolaouTK18","doi":"10.1016/J.DATAK.2018.05.003","ee":"https://doi.org/10.1016/j.datak.2018.05.003","url":"https://dblp.org/rec/journals/dke/PapanikolaouTK18"},
+"url":"URL#821386"
+},
+{
+"@score":"1",
+"@id":"821388",
+"info":{"authors":{"author":[{"@pid":"17/4106","text":"Francisca Pérez"},{"@pid":"151/5269","text":"Jaime Font"},{"@pid":"151/5211","text":"Lorena Arcega"},{"@pid":"67/4958","text":"Carlos Cetina"}]},"title":"Automatic query reformulations for feature location in a model-based family of software products.","venue":"Data Knowl. Eng.","volume":"116","pages":"159-176","year":"2018","type":"Journal Articles","key":"journals/dke/PerezFAC18","doi":"10.1016/J.DATAK.2018.06.001","ee":"https://doi.org/10.1016/j.datak.2018.06.001","url":"https://dblp.org/rec/journals/dke/PerezFAC18"},
+"url":"URL#821388"
+},
+{
+"@score":"1",
+"@id":"821404",
+"info":{"authors":{"author":[{"@pid":"73/1149-9","text":"Jian Xu 0009"},{"@pid":"206/2599","text":"Rouying He"}]},"title":"Expert recommendation for trouble ticket routing.","venue":"Data Knowl. Eng.","volume":"116","pages":"205-218","year":"2018","type":"Journal Articles","key":"journals/dke/XuH18","doi":"10.1016/J.DATAK.2018.06.004","ee":"https://doi.org/10.1016/j.datak.2018.06.004","url":"https://dblp.org/rec/journals/dke/XuH18"},
+"url":"URL#821404"
+}
+]
+}
 }
 }

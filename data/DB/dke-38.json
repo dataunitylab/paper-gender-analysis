@@ -1,23 +1,122 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke38\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke38\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.39"
+"text":"101.57"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"15",
+"@dc":"15",
+"@oc":"15",
+"@id":"17615719",
+"text":":facetid:toc:db/journals/dke/dke38.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"15",
+"@computed":"15",
+"@sent":"15",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"4636535",
+"info":{"authors":{"author":[{"@pid":"a/WilMPvanderAalst","text":"Wil M. P. van der Aalst"},{"@pid":"k/AkhilKumar","text":"Akhil Kumar 0001"}]},"title":"A reference model for team-enabled workflow management systems.","venue":"Data Knowl. Eng.","volume":"38","number":"3","pages":"335-363","year":"2001","type":"Journal Articles","key":"journals/dke/AalstK01","doi":"10.1016/S0169-023X(01)00034-9","ee":"https://doi.org/10.1016/S0169-023X(01)00034-9","url":"https://dblp.org/rec/journals/dke/AalstK01"},
+"url":"URL#4636535"
+},
+{
+"@score":"1",
+"@id":"4636536",
+"info":{"authors":{"author":{"@pid":"22/3551","text":"Antonio Badia"}},"title":"Safety, domain independence and generalized quantification.","venue":"Data Knowl. Eng.","volume":"38","number":"2","pages":"147-172","year":"2001","type":"Journal Articles","key":"journals/dke/Badia01","doi":"10.1016/S0169-023X(01)00022-2","ee":"https://doi.org/10.1016/S0169-023X(01)00022-2","url":"https://dblp.org/rec/journals/dke/Badia01"},
+"url":"URL#4636536"
+},
+{
+"@score":"1",
+"@id":"4636537",
+"info":{"authors":{"author":[{"@pid":"b/MiraBalaban","text":"Mira Balaban"},{"@pid":"07/2209","text":"Adi Eyal"}]},"title":"DFL - a dialog based integration of concept and rule reasoners.","venue":"Data Knowl. Eng.","volume":"38","number":"3","pages":"301-334","year":"2001","type":"Journal Articles","key":"journals/dke/BalabanE01","doi":"10.1016/S0169-023X(01)00032-5","ee":"https://doi.org/10.1016/S0169-023X(01)00032-5","url":"https://dblp.org/rec/journals/dke/BalabanE01"},
+"url":"URL#4636537"
+},
+{
+"@score":"1",
+"@id":"4636542",
+"info":{"authors":{"author":[{"@pid":"b/JBiskup","text":"Joachim Biskup"},{"@pid":"b/PABonatti","text":"Piero A. Bonatti"}]},"title":"Lying versus refusal for known potential secrets.","venue":"Data Knowl. Eng.","volume":"38","number":"2","pages":"199-222","year":"2001","type":"Journal Articles","key":"journals/dke/BiskupB01","doi":"10.1016/S0169-023X(01)00024-6","ee":"https://doi.org/10.1016/S0169-023X(01)00024-6","url":"https://dblp.org/rec/journals/dke/BiskupB01"},
+"url":"URL#4636542"
+},
+{
+"@score":"1",
+"@id":"4636544",
+"info":{"authors":{"author":[{"@pid":"33/379","text":"Terje Brasethvik"},{"@pid":"g/JonAtleGulla","text":"Jon Atle Gulla"}]},"title":"Natural language analysis for semantic document modeling.","venue":"Data Knowl. Eng.","volume":"38","number":"1","pages":"45-62","year":"2001","type":"Journal Articles","key":"journals/dke/BrasethvikG01","doi":"10.1016/S0169-023X(01)00016-7","ee":"https://doi.org/10.1016/S0169-023X(01)00016-7","url":"https://dblp.org/rec/journals/dke/BrasethvikG01"},
+"url":"URL#4636544"
+},
+{
+"@score":"1",
+"@id":"4636545",
+"info":{"authors":{"author":[{"@pid":"25/5578","text":"Farid Cerbah"},{"@pid":"85/192","text":"Jérôme Euzenat"}]},"title":"Traceability between models and texts through terminology.","venue":"Data Knowl. Eng.","volume":"38","number":"1","pages":"31-43","year":"2001","type":"Journal Articles","key":"journals/dke/CerbahE01","doi":"10.1016/S0169-023X(01)00015-5","ee":"https://doi.org/10.1016/S0169-023X(01)00015-5","url":"https://dblp.org/rec/journals/dke/CerbahE01"},
+"url":"URL#4636545"
+},
+{
+"@score":"1",
+"@id":"4636547",
+"info":{"authors":{"author":[{"@pid":"78/4406","text":"Roger H. L. Chiang"},{"@pid":"c/CecilChuaEngHuang","text":"Cecil Chua Eng Huang"},{"@pid":"41/1781","text":"Veda C. Storey"}]},"title":"A smart web query method for semantic retrieval of web data.","venue":"Data Knowl. Eng.","volume":"38","number":"1","pages":"63-84","year":"2001","type":"Journal Articles","key":"journals/dke/ChiangCS01","doi":"10.1016/S0169-023X(01)00017-9","ee":"https://doi.org/10.1016/S0169-023X(01)00017-9","url":"https://dblp.org/rec/journals/dke/ChiangCS01"},
+"url":"URL#4636547"
+},
+{
+"@score":"1",
+"@id":"4636551",
+"info":{"authors":{"author":[{"@pid":"d/FKHADehne","text":"Frank K. H. A. Dehne"},{"@pid":"17/6133","text":"Ans A. G. Steuten"},{"@pid":"r/RPvandeRiet","text":"Reind P. van de Riet"}]},"title":"WORDNET++ - A lexicon for the COLOR-X-method.","venue":"Data Knowl. Eng.","volume":"38","number":"1","pages":"3-29","year":"2001","type":"Journal Articles","key":"journals/dke/DehneSR01","doi":"10.1016/S0169-023X(01)00014-3","ee":"https://doi.org/10.1016/S0169-023X(01)00014-3","url":"https://dblp.org/rec/journals/dke/DehneSR01"},
+"url":"URL#4636551"
+},
+{
+"@score":"1",
+"@id":"4636554",
+"info":{"authors":{"author":{"@pid":"21/499","text":"Colette Faucher"}},"title":"Easy definition of new facets in the frame-based language Objlog+.","venue":"Data Knowl. Eng.","volume":"38","number":"3","pages":"223-263","year":"2001","type":"Journal Articles","key":"journals/dke/Faucher01","doi":"10.1016/S0169-023X(01)00025-8","ee":"https://doi.org/10.1016/S0169-023X(01)00025-8","url":"https://dblp.org/rec/journals/dke/Faucher01"},
+"url":"URL#4636554"
+},
+{
+"@score":"1",
+"@id":"4636561",
+"info":{"authors":{"author":{"@pid":"48/5413","text":"C. A. Johnson"}},"title":"Constructing interpretations of deductive databases using reduction and dynamic stratification.","venue":"Data Knowl. Eng.","volume":"38","number":"2","pages":"173-197","year":"2001","type":"Journal Articles","key":"journals/dke/Johnson01","doi":"10.1016/S0169-023X(01)00023-4","ee":"https://doi.org/10.1016/S0169-023X(01)00023-4","url":"https://dblp.org/rec/journals/dke/Johnson01"},
+"url":"URL#4636561"
+},
+{
+"@score":"1",
+"@id":"4636563",
+"info":{"authors":{"author":[{"@pid":"k/LeilaKosseim","text":"Leila Kosseim"},{"@pid":"57/2439","text":"Stéphane Beauregard"},{"@pid":"36/3591","text":"Guy Lapalme"}]},"title":"Using information extraction and natural language generation to answer e-mail.","venue":"Data Knowl. Eng.","volume":"38","number":"1","pages":"85-100","year":"2001","type":"Journal Articles","key":"journals/dke/KosseimBL01","doi":"10.1016/S0169-023X(01)00018-0","ee":"https://doi.org/10.1016/S0169-023X(01)00018-0","url":"https://dblp.org/rec/journals/dke/KosseimBL01"},
+"url":"URL#4636563"
+},
+{
+"@score":"1",
+"@id":"4636572",
+"info":{"authors":{"author":{"@pid":"36/3146","text":"Elisabeth Métais"}},"title":"Natural Language for Data Bases (NLDB &apos;00).","venue":"Data Knowl. Eng.","volume":"38","number":"1","pages":"1-2","year":"2001","type":"Journal Articles","key":"journals/dke/Metais01","doi":"10.1016/S0169-023X(01)00013-1","ee":"https://doi.org/10.1016/S0169-023X(01)00013-1","url":"https://dblp.org/rec/journals/dke/Metais01"},
+"url":"URL#4636572"
+},
+{
+"@score":"1",
+"@id":"4636575",
+"info":{"authors":{"author":{"@pid":"n/KjetilNorvag","text":"Kjetil Nørvåg"}},"title":"Fine-granularity signature caching in object database systems.","venue":"Data Knowl. Eng.","volume":"38","number":"2","pages":"101-119","year":"2001","type":"Journal Articles","key":"journals/dke/Norvag01","doi":"10.1016/S0169-023X(01)00012-X","ee":"https://doi.org/10.1016/S0169-023X(01)00012-X","url":"https://dblp.org/rec/journals/dke/Norvag01"},
+"url":"URL#4636575"
+},
+{
+"@score":"1",
+"@id":"4636576",
+"info":{"authors":{"author":{"@pid":"o/MartinSOlivier","text":"Martin S. Olivier"}},"title":"Towards a configurable security architecture.","venue":"Data Knowl. Eng.","volume":"38","number":"2","pages":"121-145","year":"2001","type":"Journal Articles","key":"journals/dke/Olivier01","doi":"10.1016/S0169-023X(01)00019-2","ee":"https://doi.org/10.1016/S0169-023X(01)00019-2","url":"https://dblp.org/rec/journals/dke/Olivier01"},
+"url":"URL#4636576"
+},
+{
+"@score":"1",
+"@id":"4636581",
+"info":{"authors":{"author":[{"@pid":"28/5654","text":"J. Wenny Rahayu"},{"@pid":"c/ElizabethChang","text":"Elizabeth Chang 0001"},{"@pid":"25/4706","text":"Tharam S. Dillon"},{"@pid":"t/DavidTaniar","text":"David Taniar"}]},"title":"Performance evaluation of the object-relational transformation methodology.","venue":"Data Knowl. Eng.","volume":"38","number":"3","pages":"265-300","year":"2001","type":"Journal Articles","key":"journals/dke/RahayuCDT01","doi":"10.1016/S0169-023X(01)00026-X","ee":"https://doi.org/10.1016/S0169-023X(01)00026-X","url":"https://dblp.org/rec/journals/dke/RahayuCDT01"},
+"url":"URL#4636581"
+}
+]
+}
 }
 }

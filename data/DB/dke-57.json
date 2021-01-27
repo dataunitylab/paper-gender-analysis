@@ -1,23 +1,92 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke57\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke57\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.38"
+"text":"97.97"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"10",
+"@dc":"10",
+"@oc":"10",
+"@id":"17615740",
+"text":":facetid:toc:db/journals/dke/dke57.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"10",
+"@computed":"10",
+"@sent":"10",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"3986975",
+"info":{"authors":{"author":[{"@pid":"c/AntonioCorral","text":"Antonio Corral"},{"@pid":"m/YManolopoulos","text":"Yannis Manolopoulos"},{"@pid":"t/YannisTheodoridis","text":"Yannis Theodoridis"},{"@pid":"05/1759","text":"Michael Vassilakopoulos"}]},"title":"Cost models for distance joins queries using R-trees.","venue":"Data Knowl. Eng.","volume":"57","number":"1","pages":"1-36","year":"2006","type":"Journal Articles","key":"journals/dke/CorralMTV06","doi":"10.1016/J.DATAK.2005.03.004","ee":"https://doi.org/10.1016/j.datak.2005.03.004","url":"https://dblp.org/rec/journals/dke/CorralMTV06"},
+"url":"URL#3986975"
+},
+{
+"@score":"1",
+"@id":"3986979",
+"info":{"authors":{"author":{"@pid":"d/ErdoganDogdu","text":"Erdogan Dogdu"}},"title":"Utilization of execution histories in scheduling real-time database transactions.","venue":"Data Knowl. Eng.","volume":"57","number":"2","pages":"148-178","year":"2006","type":"Journal Articles","key":"journals/dke/Dogdu06","doi":"10.1016/J.DATAK.2005.04.008","ee":"https://doi.org/10.1016/j.datak.2005.04.008","url":"https://dblp.org/rec/journals/dke/Dogdu06"},
+"url":"URL#3986979"
+},
+{
+"@score":"1",
+"@id":"3986982",
+"info":{"authors":{"author":{"@pid":"67/5176","text":"Georgia Garani"}},"title":"A generalised temporal algebra.","venue":"Data Knowl. Eng.","volume":"57","number":"3","pages":"283-310","year":"2006","type":"Journal Articles","key":"journals/dke/Garani06","doi":"10.1016/J.DATAK.2005.03.012","ee":"https://doi.org/10.1016/j.datak.2005.03.012","url":"https://dblp.org/rec/journals/dke/Garani06"},
+"url":"URL#3986982"
+},
+{
+"@score":"1",
+"@id":"3986988",
+"info":{"authors":{"author":[{"@pid":"g/SvenGroppe","text":"Sven Groppe"},{"@pid":"b/StBottcher","text":"Stefan Böttcher"},{"@pid":"75/2705","text":"Georg Birkenheuer"},{"@pid":"74/959","text":"André Höing"}]},"title":"Reformulating XPath queries and XSLT queries on XSLT views.","venue":"Data Knowl. Eng.","volume":"57","number":"1","pages":"64-110","year":"2006","type":"Journal Articles","key":"journals/dke/GroppeBBH06","doi":"10.1016/J.DATAK.2005.04.002","ee":"https://doi.org/10.1016/j.datak.2005.04.002","url":"https://dblp.org/rec/journals/dke/GroppeBBH06"},
+"url":"URL#3986988"
+},
+{
+"@score":"1",
+"@id":"3986996",
+"info":{"authors":{"author":{"@pid":"23/4530","text":"Anthony Hunter"}},"title":"How to act on inconsistent news - Ignore, resolve, or reject.","venue":"Data Knowl. Eng.","volume":"57","number":"3","pages":"221-239","year":"2006","type":"Journal Articles","key":"journals/dke/Hunter06","doi":"10.1016/J.DATAK.2005.04.005","ee":"https://doi.org/10.1016/j.datak.2005.04.005","url":"https://dblp.org/rec/journals/dke/Hunter06"},
+"url":"URL#3986996"
+},
+{
+"@score":"1",
+"@id":"3987008",
+"info":{"authors":{"author":[{"@pid":"80/2320","text":"Eric Lo 0001"},{"@pid":"86/2270","text":"Kevin Y. Yip"},{"@pid":"49/924","text":"King-Ip Lin"},{"@pid":"c/DWLCheung","text":"David W. Cheung"}]},"title":"Progressive skylining over Web-accessible databases.","venue":"Data Knowl. Eng.","volume":"57","number":"2","pages":"122-147","year":"2006","type":"Journal Articles","key":"journals/dke/LoYLC06","doi":"10.1016/J.DATAK.2005.04.003","ee":"https://doi.org/10.1016/j.datak.2005.04.003","url":"https://dblp.org/rec/journals/dke/LoYLC06"},
+"url":"URL#3987008"
+},
+{
+"@score":"1",
+"@id":"3987016",
+"info":{"authors":{"author":[{"@pid":"n/AlexandrosNanopoulos","text":"Alexandros Nanopoulos"},{"@pid":"t/YannisTheodoridis","text":"Yannis Theodoridis"},{"@pid":"m/YManolopoulos","text":"Yannis Manolopoulos"}]},"title":"Indexed-based density biased sampling for clustering applications.","venue":"Data Knowl. Eng.","volume":"57","number":"1","pages":"37-63","year":"2006","type":"Journal Articles","key":"journals/dke/NanopoulosTM06","doi":"10.1016/J.DATAK.2005.03.003","ee":"https://doi.org/10.1016/j.datak.2005.03.003","url":"https://dblp.org/rec/journals/dke/NanopoulosTM06"},
+"url":"URL#3987016"
+},
+{
+"@score":"1",
+"@id":"3987025",
+"info":{"authors":{"author":[{"@pid":"11/4810","text":"Andrea Romei"},{"@pid":"86/3031","text":"Salvatore Ruggieri"},{"@pid":"t/FrancoTurini","text":"Franco Turini"}]},"title":"KDDML - A middleware language and system for knowledge discovery in databases.","venue":"Data Knowl. Eng.","volume":"57","number":"2","pages":"179-220","year":"2006","type":"Journal Articles","key":"journals/dke/RomeiRT06","doi":"10.1016/J.DATAK.2005.04.007","ee":"https://doi.org/10.1016/j.datak.2005.04.007","url":"https://dblp.org/rec/journals/dke/RomeiRT06"},
+"url":"URL#3987025"
+},
+{
+"@score":"1",
+"@id":"3987029",
+"info":{"authors":{"author":[{"@pid":"s/MiguelAngelSicilia","text":"Miguel-Ángel Sicilia"},{"@pid":"87/1066","text":"Miltiadis D. Lytras"},{"@pid":"97/8815","text":"M. Elena Rodríguez"},{"@pid":"80/1792","text":"Elena García Barriocanal"}]},"title":"Integrating descriptions of knowledge management learning activities into large ontological structures - A case study.","venue":"Data Knowl. Eng.","volume":"57","number":"2","pages":"111-121","year":"2006","type":"Journal Articles","key":"journals/dke/SiciliaLRB06","doi":"10.1016/J.DATAK.2005.04.001","ee":"https://doi.org/10.1016/j.datak.2005.04.001","url":"https://dblp.org/rec/journals/dke/SiciliaLRB06"},
+"url":"URL#3987029"
+},
+{
+"@score":"1",
+"@id":"3987034",
+"info":{"authors":{"author":[{"@pid":"17/1701","text":"Yida Wang"},{"@pid":"l/EePengLim","text":"Ee-Peng Lim"},{"@pid":"22/852","text":"San-Yih Hwang"}]},"title":"Efficient mining of group patterns from user movement data.","venue":"Data Knowl. Eng.","volume":"57","number":"3","pages":"240-282","year":"2006","type":"Journal Articles","key":"journals/dke/WangLH06","doi":"10.1016/J.DATAK.2005.04.006","ee":"https://doi.org/10.1016/j.datak.2005.04.006","url":"https://dblp.org/rec/journals/dke/WangLH06"},
+"url":"URL#3987034"
+}
+]
+}
 }
 }

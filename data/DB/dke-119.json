@@ -1,23 +1,86 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke119\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke119\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.60"
+"text":"105.86"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"9",
+"@dc":"9",
+"@oc":"9",
+"@id":"17615679",
+"text":":facetid:toc:db/journals/dke/dke119.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"9",
+"@computed":"9",
+"@sent":"9",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"433924",
+"info":{"authors":{"author":[{"@pid":"207/9069","text":"Abdulqader Almars"},{"@pid":"l/XueLi","text":"Xue Li 0001"},{"@pid":"68/2766-13","text":"Xin Zhao 0013"}]},"title":"Modelling user attitudes using hierarchical sentiment-topic model.","venue":"Data Knowl. Eng.","volume":"119","pages":"139-149","year":"2019","type":"Journal Articles","key":"journals/dke/AlmarsLZ19","doi":"10.1016/J.DATAK.2019.01.005","ee":"https://doi.org/10.1016/j.datak.2019.01.005","url":"https://dblp.org/rec/journals/dke/AlmarsLZ19"},
+"url":"URL#433924"
+},
+{
+"@score":"1",
+"@id":"433937",
+"info":{"authors":{"author":[{"@pid":"g/MatteoGolfarelli","text":"Matteo Golfarelli"},{"@pid":"153/4210","text":"Simone Graziani"},{"@pid":"75/5487","text":"Stefano Rizzi"}]},"title":"An active learning approach to build adaptive cost models for web services.","venue":"Data Knowl. Eng.","volume":"119","pages":"89-104","year":"2019","type":"Journal Articles","key":"journals/dke/GolfarelliGR19","doi":"10.1016/J.DATAK.2019.01.001","ee":"https://doi.org/10.1016/j.datak.2019.01.001","url":"https://dblp.org/rec/journals/dke/GolfarelliGR19"},
+"url":"URL#433937"
+},
+{
+"@score":"1",
+"@id":"433941",
+"info":{"authors":{"author":[{"@pid":"15/11525","text":"David A. Juckett"},{"@pid":"09/386","text":"Eric P. Kasten"},{"@pid":"163/6560","text":"Fred N. Davis"},{"@pid":"163/6554","text":"Mark Gostine"}]},"title":"Concept detection using text exemplars aligned with a specialized ontology.","venue":"Data Knowl. Eng.","volume":"119","pages":"22-35","year":"2019","type":"Journal Articles","key":"journals/dke/JuckettKDG19","doi":"10.1016/J.DATAK.2018.11.002","ee":"https://doi.org/10.1016/j.datak.2018.11.002","url":"https://dblp.org/rec/journals/dke/JuckettKDG19"},
+"url":"URL#433941"
+},
+{
+"@score":"1",
+"@id":"433943",
+"info":{"authors":{"author":[{"@pid":"33/5979","text":"Aida Kamisalic"},{"@pid":"75/1604-1","text":"David Riaño 0001"},{"@pid":"237/0609","text":"Suzana Kert"},{"@pid":"w/TWelzer","text":"Tatjana Welzer"},{"@pid":"159/3982","text":"Lili Nemec Zlatolas"}]},"title":"Multi-level medical knowledge formalization to support medical practice for chronic diseases.","venue":"Data Knowl. Eng.","volume":"119","pages":"36-57","year":"2019","type":"Journal Articles","key":"journals/dke/KamisalicRKWZ19","doi":"10.1016/J.DATAK.2018.12.001","ee":"https://doi.org/10.1016/j.datak.2018.12.001","url":"https://dblp.org/rec/journals/dke/KamisalicRKWZ19"},
+"url":"URL#433943"
+},
+{
+"@score":"1",
+"@id":"433946",
+"info":{"authors":{"author":[{"@pid":"08/831","text":"Wooil Kim"},{"@pid":"199/5646","text":"Changbeom Shim"},{"@pid":"205/7864","text":"Wan Heo"},{"@pid":"143/6410","text":"Sungmin Yi"},{"@pid":"65/6972","text":"Yon Dohn Chung"}]},"title":"Moving view field nearest neighbor queries.","venue":"Data Knowl. Eng.","volume":"119","pages":"58-70","year":"2019","type":"Journal Articles","key":"journals/dke/KimSHYC19","doi":"10.1016/J.DATAK.2018.12.002","ee":"https://doi.org/10.1016/j.datak.2018.12.002","url":"https://dblp.org/rec/journals/dke/KimSHYC19"},
+"url":"URL#433946"
+},
+{
+"@score":"1",
+"@id":"433947",
+"info":{"authors":{"author":[{"@pid":"118/8870","text":"Kyoungok Kim"},{"@pid":"237/0556","text":"See Young Zzang"}]},"title":"Trigonometric comparison measure - A feature selection method for text categorization.","venue":"Data Knowl. Eng.","volume":"119","pages":"1-21","year":"2019","type":"Journal Articles","key":"journals/dke/KimZ19","doi":"10.1016/J.DATAK.2018.10.003","ee":"https://doi.org/10.1016/j.datak.2018.10.003","url":"https://dblp.org/rec/journals/dke/KimZ19"},
+"url":"URL#433947"
+},
+{
+"@score":"1",
+"@id":"433964",
+"info":{"authors":{"author":[{"@pid":"16/8503","text":"Xiaochong Tong"},{"@pid":"34/8502","text":"Chengqi Cheng"},{"@pid":"66/4610","text":"Rong Wang"},{"@pid":"135/0285","text":"Lu Ding"},{"@pid":"66/4615","text":"Yong Zhang"},{"@pid":"237/0571","text":"Guangling Lai"},{"@pid":"17/6729","text":"Lin Wang"},{"@pid":"89/5615","text":"Bo Chen"}]},"title":"An efficient integer coding index algorithm for multi-scale time information management.","venue":"Data Knowl. Eng.","volume":"119","pages":"123-138","year":"2019","type":"Journal Articles","key":"journals/dke/TongCWDZLWC19","doi":"10.1016/J.DATAK.2019.01.003","ee":"https://doi.org/10.1016/j.datak.2019.01.003","url":"https://dblp.org/rec/journals/dke/TongCWDZLWC19"},
+"url":"URL#433964"
+},
+{
+"@score":"1",
+"@id":"433966",
+"info":{"authors":{"author":[{"@pid":"02/6128-9","text":"Xiangyu Wang 0009"},{"@pid":"125/8189-59","text":"Jun Wang 0059"},{"@pid":"09/7762","text":"Ruilin Zhang"}]},"title":"The optimal feasible knowledge transfer path in a knowledge creation driven team.","venue":"Data Knowl. Eng.","volume":"119","pages":"105-122","year":"2019","type":"Journal Articles","key":"journals/dke/WangWZ19","doi":"10.1016/J.DATAK.2019.01.002","ee":"https://doi.org/10.1016/j.datak.2019.01.002","url":"https://dblp.org/rec/journals/dke/WangWZ19"},
+"url":"URL#433966"
+},
+{
+"@score":"1",
+"@id":"433967",
+"info":{"authors":{"author":[{"@pid":"237/0526","text":"Bryan Weaver"},{"@pid":"p/DieterPfoser","text":"Dieter Pfoser"}]},"title":"Investigation design - The structural elements of knowledge-seeking efforts.","venue":"Data Knowl. Eng.","volume":"119","pages":"71-88","year":"2019","type":"Journal Articles","key":"journals/dke/WeaverP19","doi":"10.1016/J.DATAK.2018.12.003","ee":"https://doi.org/10.1016/j.datak.2018.12.003","url":"https://dblp.org/rec/journals/dke/WeaverP19"},
+"url":"URL#433967"
+}
+]
+}
 }
 }

@@ -1,23 +1,86 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke15\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke15\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.49"
+"text":"141.84"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"9",
+"@dc":"9",
+"@oc":"9",
+"@id":"17615694",
+"text":":facetid:toc:db/journals/dke/dke15.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"9",
+"@computed":"9",
+"@sent":"9",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"5027533",
+"info":{"authors":{"author":[{"@pid":"a/ValeriaDeAntonellis","text":"Valeria De Antonellis"},{"@pid":"p/BarbaraPernici","text":"Barbara Pernici"}]},"title":"Reusing Specifications Through Refinement Levels.","venue":"Data Knowl. Eng.","volume":"15","number":"2","pages":"109-133","year":"1995","type":"Journal Articles","key":"journals/dke/AntonellisP95","doi":"10.1016/0169-023X(94)00033-B","ee":"https://doi.org/10.1016/0169-023X(94)00033-B","url":"https://dblp.org/rec/journals/dke/AntonellisP95"},
+"url":"URL#5027533"
+},
+{
+"@score":"1",
+"@id":"5027536",
+"info":{"authors":{"author":[{"@pid":"b/VicenteJBotti","text":"Vicente J. Botti"},{"@pid":"60/1527","text":"Federico Barber"},{"@pid":"93/4108","text":"Alfons Crespo"},{"@pid":"84/5121","text":"Eva Onaindia"},{"@pid":"68/6025","text":"Ana García-Fornes"},{"@pid":"06/1326","text":"Ismael Ripoll"},{"@pid":"02/626","text":"D. Gallardo"},{"@pid":"95/6725-1","text":"Luis Hernández 0001"}]},"title":"A Temporal Blackboard for a Multi-Agent Environment.","venue":"Data Knowl. Eng.","volume":"15","number":"3","pages":"189-211","year":"1995","type":"Journal Articles","key":"journals/dke/BottiBCOGRGH95","doi":"10.1016/0169-023X(95)00007-F","ee":"https://doi.org/10.1016/0169-023X(95)00007-F","url":"https://dblp.org/rec/journals/dke/BottiBCOGRGH95"},
+"url":"URL#5027536"
+},
+{
+"@score":"1",
+"@id":"5027540",
+"info":{"authors":{"author":[{"@pid":"42/2987","text":"Guido Dedene"},{"@pid":"70/2587","text":"Monique Snoeck"}]},"title":"Formal Deadlock Elimination in an Object Oriented Conceptual Schema.","venue":"Data Knowl. Eng.","volume":"15","number":"1","pages":"1-30","year":"1995","type":"Journal Articles","key":"journals/dke/DedeneS95","doi":"10.1016/0169-023X(94)00031-9","ee":"https://doi.org/10.1016/0169-023X(94)00031-9","url":"https://dblp.org/rec/journals/dke/DedeneS95"},
+"url":"URL#5027540"
+},
+{
+"@score":"1",
+"@id":"5027544",
+"info":{"authors":{"author":[{"@pid":"13/1995","text":"Christian Fahrner"},{"@pid":"v/GottfriedVossen","text":"Gottfried Vossen"}]},"title":"A Survey of Database Design Transformations Based on the Entity-Relationship Model.","venue":"Data Knowl. Eng.","volume":"15","number":"3","pages":"213-250","year":"1995","type":"Journal Articles","key":"journals/dke/FahrnerV95","doi":"10.1016/0169-023X(95)00006-E","ee":"https://doi.org/10.1016/0169-023X(95)00006-E","url":"https://dblp.org/rec/journals/dke/FahrnerV95"},
+"url":"URL#5027544"
+},
+{
+"@score":"1",
+"@id":"5027547",
+"info":{"authors":{"author":[{"@pid":"65/5691","text":"Arthur R. Greef"},{"@pid":"38/2703","text":"Steffen M. Fohn"},{"@pid":"75/2989","text":"Robert E. Young"},{"@pid":"40/405","text":"Peter J. O&apos;Grady"}]},"title":"Implementation of a Logic-Based Support System for Concurrent Engineering.","venue":"Data Knowl. Eng.","volume":"15","number":"1","pages":"31-61","year":"1995","type":"Journal Articles","key":"journals/dke/GreefFYO95","doi":"10.1016/0169-023X(95)94024-3","ee":"https://doi.org/10.1016/0169-023X(95)94024-3","url":"https://dblp.org/rec/journals/dke/GreefFYO95"},
+"url":"URL#5027547"
+},
+{
+"@score":"1",
+"@id":"5027548",
+"info":{"authors":{"author":[{"@pid":"24/325","text":"Terry A. Halpin"},{"@pid":"p/ErikProper","text":"Henderik Alex Proper"}]},"title":"Subtyping and Polymorphism in Object-Role Modelling.","venue":"Data Knowl. Eng.","volume":"15","number":"3","pages":"251-281","year":"1995","type":"Journal Articles","key":"journals/dke/HalpinP95","doi":"10.1016/0169-023X(95)00005-D","ee":"https://doi.org/10.1016/0169-023X(95)00005-D","url":"https://dblp.org/rec/journals/dke/HalpinP95"},
+"url":"URL#5027548"
+},
+{
+"@score":"1",
+"@id":"5027556",
+"info":{"authors":{"author":[{"@pid":"p/ErikProper","text":"Henderik Alex Proper"},{"@pid":"w/TPvanderWeide","text":"Theo P. van der Weide"}]},"title":"Information Disclosure in Evolving Information Systems - Taking as Shot at a Moving Target.","venue":"Data Knowl. Eng.","volume":"15","number":"2","pages":"135-168","year":"1995","type":"Journal Articles","key":"journals/dke/ProperW95","doi":"10.1016/0169-023X(94)00035-D","ee":"https://doi.org/10.1016/0169-023X(94)00035-D","url":"https://dblp.org/rec/journals/dke/ProperW95"},
+"url":"URL#5027556"
+},
+{
+"@score":"1",
+"@id":"5027559",
+"info":{"authors":{"author":{"@pid":"52/4164","text":"Ron Seljée"}},"title":"A New Method for Integrity Constraint Checking in Deductive Database.","venue":"Data Knowl. Eng.","volume":"15","number":"1","pages":"63-102","year":"1995","type":"Journal Articles","key":"journals/dke/Seljee95","doi":"10.1016/0169-023X(94)00032-A","ee":"https://doi.org/10.1016/0169-023X(94)00032-A","url":"https://dblp.org/rec/journals/dke/Seljee95"},
+"url":"URL#5027559"
+},
+{
+"@score":"1",
+"@id":"5027562",
+"info":{"authors":{"author":{"@pid":"t/JukkaTeuhola","text":"Jukka Teuhola"}},"title":"Selection of Object Surrogates to Support Clustering.","venue":"Data Knowl. Eng.","volume":"15","number":"2","pages":"169-183","year":"1995","type":"Journal Articles","key":"journals/dke/Teuhola95","doi":"10.1016/0169-023X(95)00004-C","ee":"https://doi.org/10.1016/0169-023X(95)00004-C","url":"https://dblp.org/rec/journals/dke/Teuhola95"},
+"url":"URL#5027562"
+}
+]
+}
 }
 }

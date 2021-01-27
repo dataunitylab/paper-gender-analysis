@@ -1,23 +1,116 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke41\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke41\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.42"
+"text":"133.88"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"14",
+"@dc":"14",
+"@oc":"14",
+"@id":"17615723",
+"text":":facetid:toc:db/journals/dke/dke41.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"14",
+"@computed":"14",
+"@sent":"14",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"4544214",
+"info":{"authors":{"author":[{"@pid":"b/CristianaBolchini","text":"Cristiana Bolchini"},{"@pid":"s/FASchreiber","text":"Fabio Alberto Schreiber"}]},"title":"Smart card embedded information systems - a methodology for privacy oriented architectural design.","venue":"Data Knowl. Eng.","volume":"41","number":"2-3","pages":"159-182","year":"2002","type":"Journal Articles","key":"journals/dke/BolchiniS02","doi":"10.1016/S0169-023X(02)00039-3","ee":"https://doi.org/10.1016/S0169-023X(02)00039-3","url":"https://dblp.org/rec/journals/dke/BolchiniS02"},
+"url":"URL#4544214"
+},
+{
+"@score":"1",
+"@id":"4544215",
+"info":{"authors":{"author":[{"@pid":"11/4932","text":"Frances M. T. Brazier"},{"@pid":"41/631","text":"Catholijn M. Jonker"},{"@pid":"t/JanTreur","text":"Jan Treur"}]},"title":"Principles of component-based design of intelligent agents.","venue":"Data Knowl. Eng.","volume":"41","number":"1","pages":"1-27","year":"2002","type":"Journal Articles","key":"journals/dke/BrazierJT02","doi":"10.1016/S0169-023X(01)00058-1","ee":"https://doi.org/10.1016/S0169-023X(01)00058-1","url":"https://dblp.org/rec/journals/dke/BrazierJT02"},
+"url":"URL#4544215"
+},
+{
+"@score":"1",
+"@id":"4544216",
+"info":{"authors":{"author":[{"@pid":"51/1019","text":"Budiarto"},{"@pid":"n/ShojiroNishio","text":"Shojiro Nishio"},{"@pid":"04/4757","text":"Masahiko Tsukamoto"}]},"title":"Data management issues in mobile and peer-to-peer environments.","venue":"Data Knowl. Eng.","volume":"41","number":"2-3","pages":"183-204","year":"2002","type":"Journal Articles","key":"journals/dke/BudiartoNT02","doi":"10.1016/S0169-023X(02)00040-X","ee":"https://doi.org/10.1016/S0169-023X(02)00040-X","url":"https://dblp.org/rec/journals/dke/BudiartoNT02"},
+"url":"URL#4544216"
+},
+{
+"@score":"1",
+"@id":"4544221",
+"info":{"authors":{"author":[{"@pid":"c/PPChen","text":"Peter P. Chen"},{"@pid":"r/RPvandeRiet","text":"Reind P. van de Riet"}]},"title":"Editorial introduction.","venue":"Data Knowl. Eng.","volume":"41","number":"2-3","pages":"125-132","year":"2002","type":"Journal Articles","key":"journals/dke/ChenR02","doi":"10.1016/S0169-023X(02)00036-8","ee":"https://doi.org/10.1016/S0169-023X(02)00036-8","url":"https://dblp.org/rec/journals/dke/ChenR02"},
+"url":"URL#4544221"
+},
+{
+"@score":"1",
+"@id":"4544225",
+"info":{"authors":{"author":{"@pid":"c/FabioCrestani","text":"Fabio Crestani"}},"title":"Spoken query processing for interactive information retrieval.","venue":"Data Knowl. Eng.","volume":"41","number":"1","pages":"105-124","year":"2002","type":"Journal Articles","key":"journals/dke/Crestani02","doi":"10.1016/S0169-023X(02)00024-1","ee":"https://doi.org/10.1016/S0169-023X(02)00024-1","url":"https://dblp.org/rec/journals/dke/Crestani02"},
+"url":"URL#4544225"
+},
+{
+"@score":"1",
+"@id":"4544226",
+"info":{"authors":{"author":[{"@pid":"38/6013-1","text":"Ying Ding 0001"},{"@pid":"31/4309","text":"Dieter Fensel"},{"@pid":"k/MCAKlein","text":"Michel C. A. Klein"},{"@pid":"49/6780","text":"Borys Omelayenko"}]},"title":"The semantic web - yet another hip?","venue":"Data Knowl. Eng.","volume":"41","number":"2-3","pages":"205-227","year":"2002","type":"Journal Articles","key":"journals/dke/DingFKO02","doi":"10.1016/S0169-023X(02)00041-1","ee":"https://doi.org/10.1016/S0169-023X(02)00041-1","url":"https://dblp.org/rec/journals/dke/DingFKO02"},
+"url":"URL#4544226"
+},
+{
+"@score":"1",
+"@id":"4544231",
+"info":{"authors":{"author":{"@pid":"23/4530","text":"Anthony Hunter"}},"title":"Merging structured text using temporal knowledge.","venue":"Data Knowl. Eng.","volume":"41","number":"1","pages":"29-66","year":"2002","type":"Journal Articles","key":"journals/dke/Hunter02","doi":"10.1016/S0169-023X(02)00019-8","ee":"https://doi.org/10.1016/S0169-023X(02)00019-8","url":"https://dblp.org/rec/journals/dke/Hunter02"},
+"url":"URL#4544231"
+},
+{
+"@score":"1",
+"@id":"4544237",
+"info":{"authors":{"author":[{"@pid":"k/PaulKlint","text":"Paul Klint"},{"@pid":"v/ChrisVerhoef","text":"Chris Verhoef"}]},"title":"Enabling the creation of knowledge about software assets.","venue":"Data Knowl. Eng.","volume":"41","number":"2-3","pages":"141-158","year":"2002","type":"Journal Articles","key":"journals/dke/KlintV02","doi":"10.1016/S0169-023X(02)00038-1","ee":"https://doi.org/10.1016/S0169-023X(02)00038-1","url":"https://dblp.org/rec/journals/dke/KlintV02"},
+"url":"URL#4544237"
+},
+{
+"@score":"1",
+"@id":"4544242",
+"info":{"authors":{"author":{"@pid":"36/3146","text":"Elisabeth Métais"}},"title":"Enhancing information systems management with natural language processing techniques.","venue":"Data Knowl. Eng.","volume":"41","number":"2-3","pages":"247-272","year":"2002","type":"Journal Articles","key":"journals/dke/Metais02","doi":"10.1016/S0169-023X(02)00043-5","ee":"https://doi.org/10.1016/S0169-023X(02)00043-5","url":"https://dblp.org/rec/journals/dke/Metais02"},
+"url":"URL#4544242"
+},
+{
+"@score":"1",
+"@id":"4544252",
+"info":{"authors":{"author":{"@pid":"r/RPvandeRiet","text":"Reind P. van de Riet"}},"title":"Notes on a classification for DKE.","venue":"Data Knowl. Eng.","volume":"41","number":"2-3","pages":"133-139","year":"2002","type":"Journal Articles","key":"journals/dke/Riet02","doi":"10.1016/S0169-023X(02)00037-X","ee":"https://doi.org/10.1016/S0169-023X(02)00037-X","url":"https://dblp.org/rec/journals/dke/Riet02"},
+"url":"URL#4544252"
+},
+{
+"@score":"1",
+"@id":"4544253",
+"info":{"authors":{"author":{"@pid":"r/RPvandeRiet","text":"Reind P. van de Riet"}},"title":"Peter Chen honoured with the Stevens Award for advancing software development methods.","venue":"Data Knowl. Eng.","volume":"41","number":"2-3","pages":"273-282","year":"2002","type":"Journal Articles","key":"journals/dke/Riet02a","doi":"10.1016/S0169-023X(02)00044-7","ee":"https://doi.org/10.1016/S0169-023X(02)00044-7","url":"https://dblp.org/rec/journals/dke/Riet02a"},
+"url":"URL#4544253"
+},
+{
+"@score":"1",
+"@id":"4544255",
+"info":{"authors":{"author":[{"@pid":"11/1604","text":"Hyoseop Shin"},{"@pid":"20/6358","text":"Bongki Moon"},{"@pid":"58/2763","text":"Sukho Lee"}]},"title":"Tie-breaking strategies for fast distance join processing.","venue":"Data Knowl. Eng.","volume":"41","number":"1","pages":"67-83","year":"2002","type":"Journal Articles","key":"journals/dke/ShinML02","doi":"10.1016/S0169-023X(02)00021-6","ee":"https://doi.org/10.1016/S0169-023X(02)00021-6","url":"https://dblp.org/rec/journals/dke/ShinML02"},
+"url":"URL#4544255"
+},
+{
+"@score":"1",
+"@id":"4544260",
+"info":{"authors":{"author":[{"@pid":"58/3541","text":"Bharadwaj Veeravalli"},{"@pid":"28/352","text":"Eu Min Yew"}]},"title":"Network caching strategies for reservation-based multimedia services on high-speed networks.","venue":"Data Knowl. Eng.","volume":"41","number":"1","pages":"85-103","year":"2002","type":"Journal Articles","key":"journals/dke/VeeravalliY02","doi":"10.1016/S0169-023X(02)00022-8","ee":"https://doi.org/10.1016/S0169-023X(02)00022-8","url":"https://dblp.org/rec/journals/dke/VeeravalliY02"},
+"url":"URL#4544260"
+},
+{
+"@score":"1",
+"@id":"4544263",
+"info":{"authors":{"author":[{"@pid":"32/4395","text":"Niek J. E. Wijngaards"},{"@pid":"17/3496","text":"Benno J. Overeinder"},{"@pid":"s/MaartenvanSteen","text":"Maarten van Steen"},{"@pid":"11/4932","text":"Frances M. T. Brazier"}]},"title":"Supporting Internet-scale multi-agent systems.","venue":"Data Knowl. Eng.","volume":"41","number":"2-3","pages":"229-245","year":"2002","type":"Journal Articles","key":"journals/dke/WijngaardsOSB02","doi":"10.1016/S0169-023X(02)00042-3","ee":"https://doi.org/10.1016/S0169-023X(02)00042-3","url":"https://dblp.org/rec/journals/dke/WijngaardsOSB02"},
+"url":"URL#4544263"
+}
+]
+}
 }
 }

@@ -1,23 +1,116 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke26\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke26\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.47"
+"text":"129.57"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"14",
+"@dc":"14",
+"@oc":"14",
+"@id":"17615706",
+"text":":facetid:toc:db/journals/dke/dke26.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"14",
+"@computed":"14",
+"@sent":"14",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"4862045",
+"info":{"authors":{"author":[{"@pid":"c/ChinChenChang","text":"Chin-Chen Chang 0001"},{"@pid":"77/6612","text":"Chin-Feng Lee"}]},"title":"A Bin-Tree Oriented Iconic Indexing Scheme for Retrieving Symbolic Pictures.","venue":"Data Knowl. Eng.","volume":"26","number":"2","pages":"121-133","year":"1998","type":"Journal Articles","key":"journals/dke/ChangL98","doi":"10.1016/S0169-023X(97)00035-9","ee":"https://doi.org/10.1016/S0169-023X(97)00035-9","url":"https://dblp.org/rec/journals/dke/ChangL98"},
+"url":"URL#4862045"
+},
+{
+"@score":"1",
+"@id":"4862051",
+"info":{"authors":{"author":[{"@pid":"31/4309","text":"Dieter Fensel"},{"@pid":"97/1490","text":"Rix Groenboom"},{"@pid":"r/GRRenardeldeLavalette","text":"Gerard R. Renardel de Lavalette"}]},"title":"Modal Change Logic (MCL) - Specifying the Reasoning of Knowledge-Based Systems.","venue":"Data Knowl. Eng.","volume":"26","number":"3","pages":"243-269","year":"1998","type":"Journal Articles","key":"journals/dke/FenselGL98","doi":"10.1016/S0169-023X(98)00047-0","ee":"https://doi.org/10.1016/S0169-023X(98)00047-0","url":"https://dblp.org/rec/journals/dke/FenselGL98"},
+"url":"URL#4862051"
+},
+{
+"@score":"1",
+"@id":"4862059",
+"info":{"authors":{"author":[{"@pid":"23/4530","text":"Anthony Hunter"},{"@pid":"m/PeterMcBrien","text":"Peter McBrien"}]},"title":"Default Databases - Extending the Approach of Deductive Databases Using Default Logic.","venue":"Data Knowl. Eng.","volume":"26","number":"2","pages":"135-160","year":"1998","type":"Journal Articles","key":"journals/dke/HunterM98","doi":"10.1016/S0169-023X(97)00036-0","ee":"https://doi.org/10.1016/S0169-023X(97)00036-0","url":"https://dblp.org/rec/journals/dke/HunterM98"},
+"url":"URL#4862059"
+},
+{
+"@score":"1",
+"@id":"4862060",
+"info":{"authors":{"author":{"@pid":"48/5413","text":"C. A. Johnson"}},"title":"Top-Down Query Processing in Indefinite Stratified Databases.","venue":"Data Knowl. Eng.","volume":"26","number":"1","pages":"1-36","year":"1998","type":"Journal Articles","key":"journals/dke/Johnson98","doi":"10.1016/S0169-023X(97)00026-8","ee":"https://doi.org/10.1016/S0169-023X(97)00026-8","url":"https://dblp.org/rec/journals/dke/Johnson98"},
+"url":"URL#4862060"
+},
+{
+"@score":"1",
+"@id":"4862061",
+"info":{"authors":{"author":{"@pid":"16/2546","text":"John L. Knapp"}},"title":"ER Isomorphisms and Uniqueness Conditions.","venue":"Data Knowl. Eng.","volume":"26","number":"3","pages":"271-290","year":"1998","type":"Journal Articles","key":"journals/dke/Knapp98","doi":"10.1016/S0169-023X(97)00046-3","ee":"https://doi.org/10.1016/S0169-023X(97)00046-3","url":"https://dblp.org/rec/journals/dke/Knapp98"},
+"url":"URL#4862061"
+},
+{
+"@score":"1",
+"@id":"4862065",
+"info":{"authors":{"author":[{"@pid":"l/DominiqueLaurent","text":"Dominique Laurent"},{"@pid":"74/4493","text":"Viet Phan Luong"},{"@pid":"s/NicolasSpyratos","text":"Nicolas Spyratos"}]},"title":"Updating Intensional Predicates in Deductive Databases.","venue":"Data Knowl. Eng.","volume":"26","number":"1","pages":"37-70","year":"1998","type":"Journal Articles","key":"journals/dke/LaurentLS98","doi":"10.1016/S0169-023X(97)00028-1","ee":"https://doi.org/10.1016/S0169-023X(97)00028-1","url":"https://dblp.org/rec/journals/dke/LaurentLS98"},
+"url":"URL#4862065"
+},
+{
+"@score":"1",
+"@id":"4862067",
+"info":{"authors":{"author":[{"@pid":"96/5639","text":"Chiang Lee"},{"@pid":"92/5677","text":"Te-Ming Tseng"}]},"title":"Temporal Grid File - A File Structure for Interval Data.","venue":"Data Knowl. Eng.","volume":"26","number":"1","pages":"71-97","year":"1998","type":"Journal Articles","key":"journals/dke/LeeT98","doi":"10.1016/S0169-023X(97)00027-X","ee":"https://doi.org/10.1016/S0169-023X(97)00027-X","url":"https://dblp.org/rec/journals/dke/LeeT98"},
+"url":"URL#4862067"
+},
+{
+"@score":"1",
+"@id":"4862070",
+"info":{"authors":{"author":[{"@pid":"l/ChengfeiLiu","text":"Chengfei Liu"},{"@pid":"66/3387-4","text":"Hui Li 0004"},{"@pid":"o/MariaEOrlowska","text":"Maria E. Orlowska"}]},"title":"Supporting Update Propagation in Object-Oriented Databases.","venue":"Data Knowl. Eng.","volume":"26","number":"1","pages":"99-115","year":"1998","type":"Journal Articles","key":"journals/dke/LiuLO98","doi":"10.1016/S0169-023X(97)00022-0","ee":"https://doi.org/10.1016/S0169-023X(97)00022-0","url":"https://dblp.org/rec/journals/dke/LiuLO98"},
+"url":"URL#4862070"
+},
+{
+"@score":"1",
+"@id":"4862080",
+"info":{"authors":{"author":[{"@pid":"p/GPernul","text":"Günther Pernul"},{"@pid":"t/AMinTjoa","text":"A Min Tjoa"},{"@pid":"w/WernerWiniwarter","text":"Werner Winiwarter"}]},"title":"Modelling Data Secrecy and Integrity.","venue":"Data Knowl. Eng.","volume":"26","number":"3","pages":"291-308","year":"1998","type":"Journal Articles","key":"journals/dke/PernulTW98","doi":"10.1016/S0169-023X(97)00045-1","ee":"https://doi.org/10.1016/S0169-023X(97)00045-1","url":"https://dblp.org/rec/journals/dke/PernulTW98"},
+"url":"URL#4862080"
+},
+{
+"@score":"1",
+"@id":"4862082",
+"info":{"authors":{"author":[{"@pid":"p/AlunDPreece","text":"Alun D. Preece"},{"@pid":"41/1407","text":"Clifford Grossner"},{"@pid":"56/516","text":"P. Gokul Chander"},{"@pid":"t/ThiruvengadamRadhakrishnan","text":"Thiruvengadam Radhakrishnan"}]},"title":"Structure-Based Validation of Rule-Based Systems.","venue":"Data Knowl. Eng.","volume":"26","number":"2","pages":"161-189","year":"1998","type":"Journal Articles","key":"journals/dke/PreeceGCR98","doi":"10.1016/S0169-023X(97)00019-0","ee":"https://doi.org/10.1016/S0169-023X(97)00019-0","url":"https://dblp.org/rec/journals/dke/PreeceGCR98"},
+"url":"URL#4862082"
+},
+{
+"@score":"1",
+"@id":"4862085",
+"info":{"authors":{"author":{"@pid":"02/542","text":"Young U. Ryu"}},"title":"Specification of Contractual Obligations in Formal Business Communication.","venue":"Data Knowl. Eng.","volume":"26","number":"3","pages":"309-326","year":"1998","type":"Journal Articles","key":"journals/dke/Ryu98","doi":"10.1016/S0169-023X(97)00048-7","ee":"https://doi.org/10.1016/S0169-023X(97)00048-7","url":"https://dblp.org/rec/journals/dke/Ryu98"},
+"url":"URL#4862085"
+},
+{
+"@score":"1",
+"@id":"4862088",
+"info":{"authors":{"author":[{"@pid":"98/2053","text":"Gabriele Schmidt"},{"@pid":"81/1622","text":"Thomas Wetter"}]},"title":"Using Natural Language Sources in Model-Based Knowledge Acquisition.","venue":"Data Knowl. Eng.","volume":"26","number":"3","pages":"327-356","year":"1998","type":"Journal Articles","key":"journals/dke/SchmidtW98","doi":"10.1016/S0169-023X(97)00038-4","ee":"https://doi.org/10.1016/S0169-023X(97)00038-4","url":"https://dblp.org/rec/journals/dke/SchmidtW98"},
+"url":"URL#4862088"
+},
+{
+"@score":"1",
+"@id":"4862089",
+"info":{"authors":{"author":[{"@pid":"s/MichaelSchrefl","text":"Michael Schrefl"},{"@pid":"k/GKappel","text":"Gerti Kappel"},{"@pid":"94/6123","text":"Peter Lang"}]},"title":"Modeling Collaborative Behavior Using Cooperation Contracts.","venue":"Data Knowl. Eng.","volume":"26","number":"2","pages":"191-224","year":"1998","type":"Journal Articles","key":"journals/dke/SchreflKL98","doi":"10.1016/S0169-023X(97)00037-2","ee":"https://doi.org/10.1016/S0169-023X(97)00037-2","url":"https://dblp.org/rec/journals/dke/SchreflKL98"},
+"url":"URL#4862089"
+},
+{
+"@score":"1",
+"@id":"4862099",
+"info":{"authors":{"author":{"@pid":"84/285","text":"Robert Winter 0001"}},"title":"Design and Implementation of Derivation Rules in Information Systems.","venue":"Data Knowl. Eng.","volume":"26","number":"2","pages":"225-241","year":"1998","type":"Journal Articles","key":"journals/dke/Winter98","doi":"10.1016/S0169-023X(97)00044-X","ee":"https://doi.org/10.1016/S0169-023X(97)00044-X","url":"https://dblp.org/rec/journals/dke/Winter98"},
+"url":"URL#4862099"
+}
+]
+}
 }
 }

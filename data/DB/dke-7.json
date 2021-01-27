@@ -1,23 +1,110 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke7\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke7\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.47"
+"text":"127.56"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"13",
+"@dc":"13",
+"@oc":"13",
+"@id":"17615754",
+"text":":facetid:toc:db/journals/dke/dke7.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"13",
+"@computed":"13",
+"@sent":"13",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"5188709",
+"info":{"authors":{"author":[{"@pid":"30/3110","text":"Bogdan D. Czejdo"},{"@pid":"90/2958","text":"Malcolm C. Taylor"}]},"title":"Integration of object-oriented programming languages and database systems in KOPERNIK.","venue":"Data Knowl. Eng.","volume":"7","pages":"271-298","year":"1991","type":"Journal Articles","key":"journals/dke/CzejdoT91","doi":"10.1016/0169-023X(92)90028-A","ee":"https://doi.org/10.1016/0169-023X(92)90028-A","url":"https://dblp.org/rec/journals/dke/CzejdoT91"},
+"url":"URL#5188709"
+},
+{
+"@score":"1",
+"@id":"5188710",
+"info":{"authors":{"author":[{"@pid":"d/FrankDignum","text":"Frank Dignum"},{"@pid":"r/RPvandeRiet","text":"Reind P. van de Riet"}]},"title":"Knowledge base modelling based on linguistics and founded in logic.","venue":"Data Knowl. Eng.","volume":"7","pages":"1-34","year":"1991","type":"Journal Articles","key":"journals/dke/DignumR91","doi":"10.1016/0169-023X(91)90031-R","ee":"https://doi.org/10.1016/0169-023X(91)90031-R","url":"https://dblp.org/rec/journals/dke/DignumR91"},
+"url":"URL#5188710"
+},
+{
+"@score":"1",
+"@id":"5188713",
+"info":{"authors":{"author":{"@pid":"22/5350","text":"LiMin Fu"}},"title":"Knowledge base refinement by backpropagation.","venue":"Data Knowl. Eng.","volume":"7","pages":"35-46","year":"1991","type":"Journal Articles","key":"journals/dke/Fu91","doi":"10.1016/0169-023X(91)90032-S","ee":"https://doi.org/10.1016/0169-023X(91)90032-S","url":"https://dblp.org/rec/journals/dke/Fu91"},
+"url":"URL#5188713"
+},
+{
+"@score":"1",
+"@id":"5188716",
+"info":{"authors":{"author":[{"@pid":"h/TheoHarder","text":"Theo Härder"},{"@pid":"m/BMitschang","text":"Bernhard Mitschang"},{"@pid":"60/5572","text":"Harald Schöning"}]},"title":"Query processing for complex objects.","venue":"Data Knowl. Eng.","volume":"7","pages":"181-200","year":"1991","type":"Journal Articles","key":"journals/dke/HarderMS91","doi":"10.1016/0169-023X(92)90037-C","ee":"https://doi.org/10.1016/0169-023X(92)90037-C","url":"https://dblp.org/rec/journals/dke/HarderMS91"},
+"url":"URL#5188716"
+},
+{
+"@score":"1",
+"@id":"5188718",
+"info":{"authors":{"author":[{"@pid":"95/4052","text":"Maurice A. W. Houtsma"},{"@pid":"a/PeterMGApers","text":"Peter M. G. Apers"}]},"title":"Algebraic optimization of recursive queries.","venue":"Data Knowl. Eng.","volume":"7","pages":"299-325","year":"1991","type":"Journal Articles","key":"journals/dke/HoutsmaA91","doi":"10.1016/0169-023X(92)90029-B","ee":"https://doi.org/10.1016/0169-023X(92)90029-B","url":"https://dblp.org/rec/journals/dke/HoutsmaA91"},
+"url":"URL#5188718"
+},
+{
+"@score":"1",
+"@id":"5188720",
+"info":{"authors":{"author":[{"@pid":"49/8183","text":"Julia Ann Johnson"},{"@pid":"01/5669","text":"Richard S. Rosenberg"}]},"title":"A measure of semantic relatedness for resolving ambiguities in natural language database requests.","venue":"Data Knowl. Eng.","volume":"7","pages":"201-225","year":"1991","type":"Journal Articles","key":"journals/dke/JohnsonR91","doi":"10.1016/0169-023X(92)90038-D","ee":"https://doi.org/10.1016/0169-023X(92)90038-D","url":"https://dblp.org/rec/journals/dke/JohnsonR91"},
+"url":"URL#5188720"
+},
+{
+"@score":"1",
+"@id":"5188722",
+"info":{"authors":{"author":[{"@pid":"k/JerryKiernan","text":"Gerald Kiernan"},{"@pid":"78/5517","text":"Christophe de Maindreville"}]},"title":"A rule language compiler for SQL database servers.","venue":"Data Knowl. Eng.","volume":"7","pages":"89-113","year":"1991","type":"Journal Articles","key":"journals/dke/KiernanM91","doi":"10.1016/0169-023X(91)90001-E","ee":"https://doi.org/10.1016/0169-023X(91)90001-E","url":"https://dblp.org/rec/journals/dke/KiernanM91"},
+"url":"URL#5188722"
+},
+{
+"@score":"1",
+"@id":"5188725",
+"info":{"authors":{"author":[{"@pid":"l/PCLockemann","text":"Peter C. Lockemann"},{"@pid":"41/730","text":"Hans-Hellmut Nagel"},{"@pid":"57/2659","text":"Ingrid M. Walter"}]},"title":"Databases for knowledge bases - empirical study of a knowledge base management system for a semantic network.","venue":"Data Knowl. Eng.","volume":"7","pages":"115-154","year":"1991","type":"Journal Articles","key":"journals/dke/LockemannNW91","doi":"10.1016/0169-023X(91)90002-F","ee":"https://doi.org/10.1016/0169-023X(91)90002-F","url":"https://dblp.org/rec/journals/dke/LockemannNW91"},
+"url":"URL#5188725"
+},
+{
+"@score":"1",
+"@id":"5188726",
+"info":{"authors":{"author":{"@pid":"l/EliezerLLozinskii","text":"Eliezer L. Lozinskii"}},"title":"Inference by generating in deductive databases.","venue":"Data Knowl. Eng.","volume":"7","pages":"327-357","year":"1991","type":"Journal Articles","key":"journals/dke/Lozinskii91","doi":"10.1016/0169-023X(92)90030-F","ee":"https://doi.org/10.1016/0169-023X(92)90030-F","url":"https://dblp.org/rec/journals/dke/Lozinskii91"},
+"url":"URL#5188726"
+},
+{
+"@score":"1",
+"@id":"5188730",
+"info":{"authors":{"author":{"@pid":"62/7021","text":"Levent V. Orman"}},"title":"A visual data model.","venue":"Data Knowl. Eng.","volume":"7","pages":"227-238","year":"1991","type":"Journal Articles","key":"journals/dke/Orman91","doi":"10.1016/0169-023X(92)90039-E","ee":"https://doi.org/10.1016/0169-023X(92)90039-E","url":"https://dblp.org/rec/journals/dke/Orman91"},
+"url":"URL#5188730"
+},
+{
+"@score":"1",
+"@id":"5188731",
+"info":{"authors":{"author":[{"@pid":"40/2748","text":"A. R. Reuber"},{"@pid":"b/DTBarnard","text":"David T. Barnard"}]},"title":"An integrated representational architecture for a decision management system.","venue":"Data Knowl. Eng.","volume":"7","pages":"155-180","year":"1991","type":"Journal Articles","key":"journals/dke/ReuberB91","doi":"10.1016/0169-023X(91)90003-G","ee":"https://doi.org/10.1016/0169-023X(91)90003-G","url":"https://dblp.org/rec/journals/dke/ReuberB91"},
+"url":"URL#5188731"
+},
+{
+"@score":"1",
+"@id":"5188733",
+"info":{"authors":{"author":[{"@pid":"r/EARundensteiner","text":"Elke A. Rundensteiner"},{"@pid":"b/LubomirBic","text":"Lubomir Bic"}]},"title":"Evaluating aggregates in possibilistic relational databases.","venue":"Data Knowl. Eng.","volume":"7","pages":"239-267","year":"1991","type":"Journal Articles","key":"journals/dke/RundensteinerB91","doi":"10.1016/0169-023X(92)90040-I","ee":"https://doi.org/10.1016/0169-023X(92)90040-I","url":"https://dblp.org/rec/journals/dke/RundensteinerB91"},
+"url":"URL#5188733"
+},
+{
+"@score":"1",
+"@id":"5188737",
+"info":{"authors":{"author":{"@pid":"41/1781","text":"Veda C. Storey"}},"title":"Relational database design based on the Entity-Relationship model.","venue":"Data Knowl. Eng.","volume":"7","pages":"47-83","year":"1991","type":"Journal Articles","key":"journals/dke/Storey91","doi":"10.1016/0169-023X(91)90033-T","ee":"https://doi.org/10.1016/0169-023X(91)90033-T","url":"https://dblp.org/rec/journals/dke/Storey91"},
+"url":"URL#5188737"
+}
+]
+}
 }
 }

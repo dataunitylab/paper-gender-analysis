@@ -1,23 +1,116 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke43\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke43\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.32"
+"text":"142.84"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"14",
+"@dc":"14",
+"@oc":"14",
+"@id":"17615725",
+"text":":facetid:toc:db/journals/dke/dke43.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"14",
+"@computed":"14",
+"@sent":"14",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"4544208",
+"info":{"authors":{"author":[{"@pid":"10/995","text":"Necip Fazil Ayan"},{"@pid":"60/5978","text":"Wen-Syan Li"},{"@pid":"18/2165","text":"Okan Kolak"}]},"title":"Automating extraction of logical domains in a web site.","venue":"Data Knowl. Eng.","volume":"43","number":"2","pages":"179-205","year":"2002","type":"Journal Articles","key":"journals/dke/AyanLK02","doi":"10.1016/S0169-023X(02)00055-1","ee":"https://doi.org/10.1016/S0169-023X(02)00055-1","url":"https://dblp.org/rec/journals/dke/AyanLK02"},
+"url":"URL#4544208"
+},
+{
+"@score":"1",
+"@id":"4544209",
+"info":{"authors":{"author":{"@pid":"31/6949","text":"Steve Barker"}},"title":"Protecting deductive databases from unauthorized retrieval and update requests.","venue":"Data Knowl. Eng.","volume":"43","number":"3","pages":"293-315","year":"2002","type":"Journal Articles","key":"journals/dke/Barker02","doi":"10.1016/S0169-023X(02)00126-X","ee":"https://doi.org/10.1016/S0169-023X(02)00126-X","url":"https://dblp.org/rec/journals/dke/Barker02"},
+"url":"URL#4544209"
+},
+{
+"@score":"1",
+"@id":"4544211",
+"info":{"authors":{"author":[{"@pid":"b/ElisaBertino","text":"Elisa Bertino"},{"@pid":"c/SilvanaCastano","text":"Silvana Castano"},{"@pid":"f/ElenaFerrari","text":"Elena Ferrari"},{"@pid":"48/4862","text":"Marco Mesiti"}]},"title":"Protection and administration of XML data sources.","venue":"Data Knowl. Eng.","volume":"43","number":"3","pages":"237-260","year":"2002","type":"Journal Articles","key":"journals/dke/BertinoCFM02","doi":"10.1016/S0169-023X(02)00127-1","ee":"https://doi.org/10.1016/S0169-023X(02)00127-1","url":"https://dblp.org/rec/journals/dke/BertinoCFM02"},
+"url":"URL#4544211"
+},
+{
+"@score":"1",
+"@id":"4544212",
+"info":{"authors":{"author":[{"@pid":"b/FernandoBerzal","text":"Fernando Berzal Galiano"},{"@pid":"c/JuanCCubero","text":"Juan C. Cubero"},{"@pid":"08/4502","text":"Fernando Cuenca"},{"@pid":"90/2542-1","text":"Juan Miguel Medina 0001"}]},"title":"Relational decomposition through partial functional dependencies.","venue":"Data Knowl. Eng.","volume":"43","number":"2","pages":"207-234","year":"2002","type":"Journal Articles","key":"journals/dke/BerzalCCM02","doi":"10.1016/S0169-023X(02)00056-3","ee":"https://doi.org/10.1016/S0169-023X(02)00056-3","url":"https://dblp.org/rec/journals/dke/BerzalCCM02"},
+"url":"URL#4544212"
+},
+{
+"@score":"1",
+"@id":"4544213",
+"info":{"authors":{"author":[{"@pid":"b/SSBhowmick","text":"Sourav S. Bhowmick"},{"@pid":"m/SanjayKumarMadria","text":"Sanjay Kumar Madria"},{"@pid":"n/WeeKeongNg","text":"Wee Keong Ng"}]},"title":"What can a web bag discover for you?","venue":"Data Knowl. Eng.","volume":"43","number":"1","pages":"79-119","year":"2002","type":"Journal Articles","key":"journals/dke/BhowmickMN02","doi":"10.1016/S0169-023X(02)00123-4","ee":"https://doi.org/10.1016/S0169-023X(02)00123-4","url":"https://dblp.org/rec/journals/dke/BhowmickMN02"},
+"url":"URL#4544213"
+},
+{
+"@score":"1",
+"@id":"4544217",
+"info":{"authors":{"author":[{"@pid":"c/KSelcukCandan","text":"K. Selçuk Candan"},{"@pid":"60/5978","text":"Wen-Syan Li"}]},"title":"Reasoning for Web document associations and its applications in site map construction.","venue":"Data Knowl. Eng.","volume":"43","number":"2","pages":"121-150","year":"2002","type":"Journal Articles","key":"journals/dke/CandanL02","doi":"10.1016/S0169-023X(02)00053-8","ee":"https://doi.org/10.1016/S0169-023X(02)00053-8","url":"https://dblp.org/rec/journals/dke/CandanL02"},
+"url":"URL#4544217"
+},
+{
+"@score":"1",
+"@id":"4544220",
+"info":{"authors":{"author":[{"@pid":"59/870","text":"Susan Chapin"},{"@pid":"46/4674","text":"Donald B. Faatz"},{"@pid":"j/SushilJajodia","text":"Sushil Jajodia"},{"@pid":"49/4272","text":"Amgad Fayad"}]},"title":"Consistent policy enforcement in distributed systems using mobile policies.","venue":"Data Knowl. Eng.","volume":"43","number":"3","pages":"261-280","year":"2002","type":"Journal Articles","key":"journals/dke/ChapinFJF02","doi":"10.1016/S0169-023X(02)00128-3","ee":"https://doi.org/10.1016/S0169-023X(02)00128-3","url":"https://dblp.org/rec/journals/dke/ChapinFJF02"},
+"url":"URL#4544220"
+},
+{
+"@score":"1",
+"@id":"4544228",
+"info":{"authors":{"author":[{"@pid":"g/EhudGudes","text":"Ehud Gudes"},{"@pid":"32/6008","text":"Aharon Tubman"}]},"title":"AutoWF - A secure Web workflow system using autonomous objects.","venue":"Data Knowl. Eng.","volume":"43","number":"1","pages":"1-27","year":"2002","type":"Journal Articles","key":"journals/dke/GudesT02","doi":"10.1016/S0169-023X(02)00058-7","ee":"https://doi.org/10.1016/S0169-023X(02)00058-7","url":"https://dblp.org/rec/journals/dke/GudesT02"},
+"url":"URL#4544228"
+},
+{
+"@score":"1",
+"@id":"4544236",
+"info":{"authors":{"author":[{"@pid":"78/661-4","text":"Minsoo Kim 0004"},{"@pid":"47/4792","text":"Seung J. Noh"},{"@pid":"70/870","text":"Yeongho Kim"},{"@pid":"53/6819","text":"Suk-Ho Kang"}]},"title":"A customizable view for Web-based STEP data.","venue":"Data Knowl. Eng.","volume":"43","number":"1","pages":"29-56","year":"2002","type":"Journal Articles","key":"journals/dke/KimNKK02","doi":"10.1016/S0169-023X(02)00101-5","ee":"https://doi.org/10.1016/S0169-023X(02)00101-5","url":"https://dblp.org/rec/journals/dke/KimNKK02"},
+"url":"URL#4544236"
+},
+{
+"@score":"1",
+"@id":"4544240",
+"info":{"authors":{"author":[{"@pid":"60/5978","text":"Wen-Syan Li"},{"@pid":"37/236","text":"Wang-Pin Hsiung"},{"@pid":"35/2314","text":"Oliver Po"},{"@pid":"c/KSelcukCandan","text":"K. Selçuk Candan"},{"@pid":"a/DivyakantAgrawal","text":"Divyakant Agrawal"}]},"title":"Evaluations of architectural designs and implementation for database-driven web sites.","venue":"Data Knowl. Eng.","volume":"43","number":"2","pages":"151-177","year":"2002","type":"Journal Articles","key":"journals/dke/LiHPCA02","doi":"10.1016/S0169-023X(02)00054-X","ee":"https://doi.org/10.1016/S0169-023X(02)00054-X","url":"https://dblp.org/rec/journals/dke/LiHPCA02"},
+"url":"URL#4544240"
+},
+{
+"@score":"1",
+"@id":"4544246",
+"info":{"authors":{"author":[{"@pid":"n/MarioANascimento","text":"Mario A. Nascimento"},{"@pid":"98/2429","text":"Eleni Tousidou"},{"@pid":"43/4055","text":"Vishal Chitkara"},{"@pid":"m/YManolopoulos","text":"Yannis Manolopoulos"}]},"title":"Image indexing and retrieval using signature trees.","venue":"Data Knowl. Eng.","volume":"43","number":"1","pages":"57-77","year":"2002","type":"Journal Articles","key":"journals/dke/NascimentoTCM02","doi":"10.1016/S0169-023X(02)00122-2","ee":"https://doi.org/10.1016/S0169-023X(02)00122-2","url":"https://dblp.org/rec/journals/dke/NascimentoTCM02"},
+"url":"URL#4544246"
+},
+{
+"@score":"1",
+"@id":"4544247",
+"info":{"authors":{"author":[{"@pid":"o/MartinSOlivier","text":"Martin S. Olivier"},{"@pid":"g/EhudGudes","text":"Ehud Gudes"}]},"title":"Wrappers - a mechanism to support state-based authorisation in Web applications.","venue":"Data Knowl. Eng.","volume":"43","number":"3","pages":"281-292","year":"2002","type":"Journal Articles","key":"journals/dke/OlivierG02","doi":"10.1016/S0169-023X(02)00129-5","ee":"https://doi.org/10.1016/S0169-023X(02)00129-5","url":"https://dblp.org/rec/journals/dke/OlivierG02"},
+"url":"URL#4544247"
+},
+{
+"@score":"1",
+"@id":"4544249",
+"info":{"authors":{"author":{"@pid":"o/SylviaLOsborn","text":"Sylvia L. Osborn"}},"title":"Integrating role graphs - a tool for security integration.","venue":"Data Knowl. Eng.","volume":"43","number":"3","pages":"317-333","year":"2002","type":"Journal Articles","key":"journals/dke/Osborn02","doi":"10.1016/S0169-023X(02)00130-1","ee":"https://doi.org/10.1016/S0169-023X(02)00130-1","url":"https://dblp.org/rec/journals/dke/Osborn02"},
+"url":"URL#4544249"
+},
+{
+"@score":"1",
+"@id":"4544259",
+"info":{"authors":{"author":[{"@pid":"t/BMThuraisingham","text":"Bhavani M. Thuraisingham"},{"@pid":"r/RPvandeRiet","text":"Reind P. van de Riet"}]},"title":"Data and applications security (Guest editorial).","venue":"Data Knowl. Eng.","volume":"43","number":"3","pages":"235-236","year":"2002","type":"Journal Articles","key":"journals/dke/ThuraisinghamR02","doi":"10.1016/S0169-023X(02)00125-8","ee":"https://doi.org/10.1016/S0169-023X(02)00125-8","url":"https://dblp.org/rec/journals/dke/ThuraisinghamR02"},
+"url":"URL#4544259"
+}
+]
+}
 }
 }

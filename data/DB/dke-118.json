@@ -1,23 +1,80 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke118\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke118\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.29"
+"text":"104.62"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"8",
+"@dc":"8",
+"@oc":"8",
+"@id":"17615678",
+"text":":facetid:toc:db/journals/dke/dke118.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"8",
+"@computed":"8",
+"@sent":"8",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"821341",
+"info":{"authors":{"author":[{"@pid":"33/706","text":"Carmen Benavides"},{"@pid":"20/1288","text":"Isaías Garcia"},{"@pid":"54/7400","text":"Héctor Alaiz-Moretón"},{"@pid":"q/LuisQuesada","text":"Luis Quesada 0001"}]},"title":"An ontology-based approach to knowledge representation for Computer-Aided Control System Design.","venue":"Data Knowl. Eng.","volume":"118","pages":"107-125","year":"2018","type":"Journal Articles","key":"journals/dke/BenavidesGAQ18","doi":"10.1016/J.DATAK.2018.10.002","ee":"https://doi.org/10.1016/j.datak.2018.10.002","url":"https://dblp.org/rec/journals/dke/BenavidesGAQ18"},
+"url":"URL#821341"
+},
+{
+"@score":"1",
+"@id":"821347",
+"info":{"authors":{"author":[{"@pid":"207/9940","text":"Weiling Chen"},{"@pid":"52/910","text":"Chai Kiat Yeo"},{"@pid":"30/6609","text":"Chiew Tong Lau"},{"@pid":"l/BuSungLee","text":"Bu-Sung Lee"}]},"title":"Leveraging social media news to predict stock index movement using RNN-boost.","venue":"Data Knowl. Eng.","volume":"118","pages":"14-24","year":"2018","type":"Journal Articles","key":"journals/dke/ChenYLL18","doi":"10.1016/J.DATAK.2018.08.003","ee":"https://doi.org/10.1016/j.datak.2018.08.003","url":"https://dblp.org/rec/journals/dke/ChenYLL18"},
+"url":"URL#821347"
+},
+{
+"@score":"1",
+"@id":"821361",
+"info":{"authors":{"author":[{"@pid":"92/4275-1","text":"Yuan Guo 0001"},{"@pid":"92/4275-2","text":"Yuan Guo 0002"},{"@pid":"44/768","text":"K. Wu"}]},"title":"Research on case retrieval of Bayesian network under big data.","venue":"Data Knowl. Eng.","volume":"118","pages":"1-13","year":"2018","type":"Journal Articles","key":"journals/dke/GuoGW18","doi":"10.1016/J.DATAK.2018.08.002","ee":"https://doi.org/10.1016/j.datak.2018.08.002","url":"https://dblp.org/rec/journals/dke/GuoGW18"},
+"url":"URL#821361"
+},
+{
+"@score":"1",
+"@id":"821363",
+"info":{"authors":{"author":[{"@pid":"01/9208","text":"Benjamin W. K. Hung"},{"@pid":"29/1638","text":"Anura P. Jayasumana"},{"@pid":"33/9385","text":"Vidarshana W. Bandara"}]},"title":"INSiGHT - A system to detect violent extremist radicalization trajectories in dynamic graphs.","venue":"Data Knowl. Eng.","volume":"118","pages":"52-70","year":"2018","type":"Journal Articles","key":"journals/dke/HungJB18","doi":"10.1016/J.DATAK.2018.09.003","ee":"https://doi.org/10.1016/j.datak.2018.09.003","url":"https://dblp.org/rec/journals/dke/HungJB18"},
+"url":"URL#821363"
+},
+{
+"@score":"1",
+"@id":"821370",
+"info":{"authors":{"author":[{"@pid":"52/7008","text":"Longzhuang Li"},{"@pid":"78/3204-2","text":"Feng Tian 0002"},{"@pid":"03/357","text":"Yonghuai Liu"},{"@pid":"233/0139","text":"Shanxian Mao"}]},"title":"Approximate top-K answering under uncertain schema mappings.","venue":"Data Knowl. Eng.","volume":"118","pages":"71-91","year":"2018","type":"Journal Articles","key":"journals/dke/LiTLM18","doi":"10.1016/J.DATAK.2018.09.004","ee":"https://doi.org/10.1016/j.datak.2018.09.004","url":"https://dblp.org/rec/journals/dke/LiTLM18"},
+"url":"URL#821370"
+},
+{
+"@score":"1",
+"@id":"821375",
+"info":{"authors":{"author":[{"@pid":"20/4215","text":"Cuiju Luan"},{"@pid":"d/GuozhuDong","text":"Guozhu Dong"}]},"title":"Experimental identification of hard data sets for classification and feature selection methods with insights on method selection.","venue":"Data Knowl. Eng.","volume":"118","pages":"41-51","year":"2018","type":"Journal Articles","key":"journals/dke/LuanD18","doi":"10.1016/J.DATAK.2018.09.002","ee":"https://doi.org/10.1016/j.datak.2018.09.002","url":"https://dblp.org/rec/journals/dke/LuanD18"},
+"url":"URL#821375"
+},
+{
+"@score":"1",
+"@id":"821393",
+"info":{"authors":{"author":[{"@pid":"200/9073","text":"Josep Sànchez-Ferreres"},{"@pid":"132/6986","text":"Han van der Aa"},{"@pid":"52/5368","text":"Josep Carmona"},{"@pid":"56/5747","text":"Lluís Padró"}]},"title":"Aligning textual and model-based process descriptions.","venue":"Data Knowl. Eng.","volume":"118","pages":"25-40","year":"2018","type":"Journal Articles","key":"journals/dke/Sanchez-Ferreres18","doi":"10.1016/J.DATAK.2018.09.001","ee":"https://doi.org/10.1016/j.datak.2018.09.001","url":"https://dblp.org/rec/journals/dke/Sanchez-Ferreres18"},
+"url":"URL#821393"
+},
+{
+"@score":"1",
+"@id":"821397",
+"info":{"authors":{"author":[{"@pid":"18/5047-1","text":"Jianhua Shao 0001"},{"@pid":"13/7425","text":"Achilleas Tziatzios"}]},"title":"Mining range associations for classification and characterization.","venue":"Data Knowl. Eng.","volume":"118","pages":"92-106","year":"2018","type":"Journal Articles","key":"journals/dke/ShaoT18","doi":"10.1016/J.DATAK.2018.10.001","ee":"https://doi.org/10.1016/j.datak.2018.10.001","url":"https://dblp.org/rec/journals/dke/ShaoT18"},
+"url":"URL#821397"
+}
+]
+}
 }
 }

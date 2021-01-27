@@ -1,23 +1,128 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke51\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke51\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.37"
+"text":"108.01"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"16",
+"@dc":"16",
+"@oc":"16",
+"@id":"17615734",
+"text":":facetid:toc:db/journals/dke/dke51.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"16",
+"@computed":"16",
+"@sent":"16",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"4307506",
+"info":{"authors":{"author":[{"@pid":"32/5964","text":"Sören Balko"},{"@pid":"s/IngoSchmitt","text":"Ingo Schmitt"},{"@pid":"s/GunterSaake","text":"Gunter Saake"}]},"title":"The Active Vertice method - a performant filtering approach to high-dimensional indexing.","venue":"Data Knowl. Eng.","volume":"51","number":"3","pages":"369-397","year":"2004","type":"Journal Articles","key":"journals/dke/BalkoSS04","doi":"10.1016/J.DATAK.2004.06.002","ee":"https://doi.org/10.1016/j.datak.2004.06.002","url":"https://dblp.org/rec/journals/dke/BalkoSS04"},
+"url":"URL#4307506"
+},
+{
+"@score":"1",
+"@id":"4307509",
+"info":{"authors":{"author":[{"@pid":"68/648","text":"Veselka Boeva"},{"@pid":"53/544","text":"Love Ekenberg"}]},"title":"A transition logic for schemata conflicts.","venue":"Data Knowl. Eng.","volume":"51","number":"3","pages":"277-294","year":"2004","type":"Journal Articles","key":"journals/dke/BoevaE04","doi":"10.1016/J.DATAK.2004.05.004","ee":"https://doi.org/10.1016/j.datak.2004.05.004","url":"https://dblp.org/rec/journals/dke/BoevaE04"},
+"url":"URL#4307509"
+},
+{
+"@score":"1",
+"@id":"4307511",
+"info":{"authors":{"author":[{"@pid":"90/3368","text":"Francesco Buccafurri"},{"@pid":"21/350","text":"Gianluca Lax"}]},"title":"Fast range query estimation by N-level tree histograms.","venue":"Data Knowl. Eng.","volume":"51","number":"2","pages":"257-275","year":"2004","type":"Journal Articles","key":"journals/dke/BuccafurriL04","doi":"10.1016/J.DATAK.2004.04.004","ee":"https://doi.org/10.1016/j.datak.2004.04.004","url":"https://dblp.org/rec/journals/dke/BuccafurriL04"},
+"url":"URL#4307511"
+},
+{
+"@score":"1",
+"@id":"4307521",
+"info":{"authors":{"author":[{"@pid":"12/5887","text":"Bas van Gils"},{"@pid":"p/ErikProper","text":"Henderik Alex Proper"},{"@pid":"b/PvBommel","text":"Patrick van Bommel"}]},"title":"A conceptual model of information supply.","venue":"Data Knowl. Eng.","volume":"51","number":"2","pages":"189-222","year":"2004","type":"Journal Articles","key":"journals/dke/GilsPB04","doi":"10.1016/J.DATAK.2004.03.009","ee":"https://doi.org/10.1016/j.datak.2004.03.009","url":"https://dblp.org/rec/journals/dke/GilsPB04"},
+"url":"URL#4307521"
+},
+{
+"@score":"1",
+"@id":"4307523",
+"info":{"authors":{"author":[{"@pid":"g/AGounaris","text":"Anastasios Gounaris"},{"@pid":"p/NWPaton","text":"Norman W. Paton"},{"@pid":"f/AAAFernandes","text":"Alvaro A. A. Fernandes"},{"@pid":"48/2","text":"Rizos Sakellariou"}]},"title":"Self-monitoring query execution for adaptive query processing.","venue":"Data Knowl. Eng.","volume":"51","number":"3","pages":"325-348","year":"2004","type":"Journal Articles","key":"journals/dke/GounarisPFS04","doi":"10.1016/J.DATAK.2004.05.002","ee":"https://doi.org/10.1016/j.datak.2004.05.002","url":"https://dblp.org/rec/journals/dke/GounarisPFS04"},
+"url":"URL#4307523"
+},
+{
+"@score":"1",
+"@id":"4307525",
+"info":{"authors":{"author":[{"@pid":"85/22","text":"Willem-Jan van den Heuvel"},{"@pid":"70/260","text":"Hans Weigand"}]},"title":"Contract-driven coordination and collaboration in the Internet context.","venue":"Data Knowl. Eng.","volume":"51","number":"1","pages":"1-3","year":"2004","type":"Journal Articles","key":"journals/dke/HeuvelW04","doi":"10.1016/J.DATAK.2004.03.004","ee":"https://doi.org/10.1016/j.datak.2004.03.004","url":"https://dblp.org/rec/journals/dke/HeuvelW04"},
+"url":"URL#4307525"
+},
+{
+"@score":"1",
+"@id":"4307529",
+"info":{"authors":{"author":[{"@pid":"32/2140","text":"Jongik Kim"},{"@pid":"k/HyoungJooKim","text":"Hyoung-Joo Kim"}]},"title":"A partition index for XML and semi-structured data.","venue":"Data Knowl. Eng.","volume":"51","number":"3","pages":"349-368","year":"2004","type":"Journal Articles","key":"journals/dke/KimK04","doi":"10.1016/J.DATAK.2004.06.001","ee":"https://doi.org/10.1016/j.datak.2004.06.001","url":"https://dblp.org/rec/journals/dke/KimK04"},
+"url":"URL#4307529"
+},
+{
+"@score":"1",
+"@id":"4307530",
+"info":{"authors":{"author":[{"@pid":"10/4403","text":"P. Radha Krishna"},{"@pid":"k/KKarlapalem","text":"Kamalakar Karlapalem"},{"@pid":"42/4256","text":"Dickson K. W. Chiu"}]},"title":"An EREC framework for e-contract modeling, enactment and monitoring.","venue":"Data Knowl. Eng.","volume":"51","number":"1","pages":"31-58","year":"2004","type":"Journal Articles","key":"journals/dke/KrishnaKC04","doi":"10.1016/J.DATAK.2004.03.006","ee":"https://doi.org/10.1016/j.datak.2004.03.006","url":"https://dblp.org/rec/journals/dke/KrishnaKC04"},
+"url":"URL#4307530"
+},
+{
+"@score":"1",
+"@id":"4307534",
+"info":{"authors":{"author":[{"@pid":"60/5978","text":"Wen-Syan Li"},{"@pid":"05/1037","text":"Kemal Altintas"},{"@pid":"36/195","text":"Murat Kantarcioglu"}]},"title":"On demand synchronization and load distribution for database grid-based Web applications.","venue":"Data Knowl. Eng.","volume":"51","number":"3","pages":"295-323","year":"2004","type":"Journal Articles","key":"journals/dke/LiAK04","doi":"10.1016/J.DATAK.2004.05.003","ee":"https://doi.org/10.1016/j.datak.2004.05.003","url":"https://dblp.org/rec/journals/dke/LiAK04"},
+"url":"URL#4307534"
+},
+{
+"@score":"1",
+"@id":"4307535",
+"info":{"authors":{"author":[{"@pid":"l/PeterFLinington","text":"Peter F. Linington"},{"@pid":"89/2798","text":"Zoran Milosevic"},{"@pid":"18/5125","text":"James B. Cole"},{"@pid":"94/4679","text":"Simon Gibson"},{"@pid":"77/4229","text":"Sachin Kulkarni"},{"@pid":"13/6768","text":"Stephen W. Neal"}]},"title":"A unified behavioural model and a contract language for extended enterprise.","venue":"Data Knowl. Eng.","volume":"51","number":"1","pages":"5-29","year":"2004","type":"Journal Articles","key":"journals/dke/LiningtonMCGKN04","doi":"10.1016/J.DATAK.2004.03.005","ee":"https://doi.org/10.1016/j.datak.2004.03.005","url":"https://dblp.org/rec/journals/dke/LiningtonMCGKN04"},
+"url":"URL#4307535"
+},
+{
+"@score":"1",
+"@id":"4307539",
+"info":{"authors":{"author":[{"@pid":"84/2636-1","text":"Robert Müller 0001"},{"@pid":"21/1013","text":"Ulrike Greiner"},{"@pid":"r/ERahm","text":"Erhard Rahm"}]},"title":"AGENTWORK - a workflow system supporting rule-based workflow adaptation.","venue":"Data Knowl. Eng.","volume":"51","number":"2","pages":"223-256","year":"2004","type":"Journal Articles","key":"journals/dke/MullerGR04","doi":"10.1016/J.DATAK.2004.03.010","ee":"https://doi.org/10.1016/j.datak.2004.03.010","url":"https://dblp.org/rec/journals/dke/MullerGR04"},
+"url":"URL#4307539"
+},
+{
+"@score":"1",
+"@id":"4307552",
+"info":{"authors":{"author":[{"@pid":"39/4451","text":"Karsten A. Schulz"},{"@pid":"o/MariaEOrlowska","text":"Maria E. Orlowska"}]},"title":"Facilitating cross-organisational workflows with a workflow view approach.","venue":"Data Knowl. Eng.","volume":"51","number":"1","pages":"109-147","year":"2004","type":"Journal Articles","key":"journals/dke/SchulzO04","doi":"10.1016/J.DATAK.2004.03.008","ee":"https://doi.org/10.1016/j.datak.2004.03.008","url":"https://dblp.org/rec/journals/dke/SchulzO04"},
+"url":"URL#4307552"
+},
+{
+"@score":"1",
+"@id":"4307553",
+"info":{"authors":{"author":{"@pid":"09/2961","text":"Tatiana Semenova"}},"title":"Discovering patterns of medical practice in large administrative health databases.","venue":"Data Knowl. Eng.","volume":"51","number":"2","pages":"149-160","year":"2004","type":"Journal Articles","key":"journals/dke/Semenova04","doi":"10.1016/J.DATAK.2004.02.001","ee":"https://doi.org/10.1016/j.datak.2004.02.001","url":"https://dblp.org/rec/journals/dke/Semenova04"},
+"url":"URL#4307553"
+},
+{
+"@score":"1",
+"@id":"4307554",
+"info":{"authors":{"author":[{"@pid":"70/2587","text":"Monique Snoeck"},{"@pid":"73/1610","text":"Wilfried Lemahieu"},{"@pid":"71/5854","text":"Frank G. Goethals"},{"@pid":"42/2987","text":"Guido Dedene"},{"@pid":"28/3712","text":"Jacques Vandenbulcke"}]},"title":"Events as atomic contracts for component integration.","venue":"Data Knowl. Eng.","volume":"51","number":"1","pages":"81-107","year":"2004","type":"Journal Articles","key":"journals/dke/SnoeckLGDV04","doi":"10.1016/J.DATAK.2004.03.007","ee":"https://doi.org/10.1016/j.datak.2004.03.007","url":"https://dblp.org/rec/journals/dke/SnoeckLGDV04"},
+"url":"URL#4307554"
+},
+{
+"@score":"1",
+"@id":"4307555",
+"info":{"authors":{"author":[{"@pid":"t/StefanTai","text":"Stefan Tai"},{"@pid":"28/4736","text":"Thomas A. Mikalsen"},{"@pid":"w/EricWohlstadter","text":"Eric Wohlstadter"},{"@pid":"20/4938","text":"Nirmit Desai"},{"@pid":"04/481","text":"Isabelle Rouvellou"}]},"title":"Transaction policies for service-oriented computing.","venue":"Data Knowl. Eng.","volume":"51","number":"1","pages":"59-79","year":"2004","type":"Journal Articles","key":"journals/dke/TaiMWDR04","doi":"10.1016/J.DATAK.2003.03.001","ee":"https://doi.org/10.1016/j.datak.2003.03.001","url":"https://dblp.org/rec/journals/dke/TaiMWDR04"},
+"url":"URL#4307555"
+},
+{
+"@score":"1",
+"@id":"4307560",
+"info":{"authors":{"author":[{"@pid":"48/6143","text":"Xiu Wu"},{"@pid":"t/KianLeeTan","text":"Kian-Lee Tan"}]},"title":"A hash-based collaborative transcoding proxy system.","venue":"Data Knowl. Eng.","volume":"51","number":"2","pages":"161-188","year":"2004","type":"Journal Articles","key":"journals/dke/WuT04","doi":"10.1016/J.DATAK.2004.03.002","ee":"https://doi.org/10.1016/j.datak.2004.03.002","url":"https://dblp.org/rec/journals/dke/WuT04"},
+"url":"URL#4307560"
+}
+]
+}
 }
 }

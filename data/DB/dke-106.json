@@ -1,23 +1,68 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke106\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke106\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.29"
+"text":"102.27"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"6",
+"@dc":"6",
+"@oc":"6",
+"@id":"17615665",
+"text":":facetid:toc:db/journals/dke/dke106.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"6",
+"@computed":"6",
+"@sent":"6",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"1501988",
+"info":{"authors":{"author":[{"@pid":"20/6100","text":"Chris Biemann"},{"@pid":"47/9409","text":"André Freitas"},{"@pid":"h/SiegfriedHandschuh","text":"Siegfried Handschuh"},{"@pid":"36/3146","text":"Elisabeth Métais"},{"@pid":"38/2268","text":"Farid Meziane"}]},"title":"Preface.","venue":"Data Knowl. Eng.","volume":"106","pages":"36-37","year":"2016","type":"Journal Articles","key":"journals/dke/BiemannFHMM16","doi":"10.1016/J.DATAK.2016.06.004","ee":"https://doi.org/10.1016/j.datak.2016.06.004","url":"https://dblp.org/rec/journals/dke/BiemannFHMM16"},
+"url":"URL#1501988"
+},
+{
+"@score":"1",
+"@id":"1501994",
+"info":{"authors":{"author":[{"@pid":"28/10528","text":"Maryam Habibi"},{"@pid":"46/1827","text":"Parvaz Mahdabi"},{"@pid":"57/175","text":"Andrei Popescu-Belis"}]},"title":"Question answering in conversations - Query refinement using contextual and semantic information.","venue":"Data Knowl. Eng.","volume":"106","pages":"38-51","year":"2016","type":"Journal Articles","key":"journals/dke/HabibiMP16","doi":"10.1016/J.DATAK.2016.06.003","ee":"https://doi.org/10.1016/j.datak.2016.06.003","url":"https://dblp.org/rec/journals/dke/HabibiMP16"},
+"url":"URL#1501994"
+},
+{
+"@score":"1",
+"@id":"1502003",
+"info":{"authors":{"author":[{"@pid":"64/7424","text":"Fedelucio Narducci"},{"@pid":"71/6263","text":"Marco Comerio"},{"@pid":"69/1334","text":"Carlo Batini"},{"@pid":"150/8915","text":"Marco Castelli"}]},"title":"A similarity-based framework for service repository integration.","venue":"Data Knowl. Eng.","volume":"106","pages":"18-35","year":"2016","type":"Journal Articles","key":"journals/dke/NarducciCBC16","doi":"10.1016/J.DATAK.2016.08.001","ee":"https://doi.org/10.1016/j.datak.2016.08.001","url":"https://dblp.org/rec/journals/dke/NarducciCBC16"},
+"url":"URL#1502003"
+},
+{
+"@score":"1",
+"@id":"1502004",
+"info":{"authors":{"author":[{"@pid":"120/3851","text":"Sergio Oramas"},{"@pid":"140/3490","text":"Luis Espinosa Anke"},{"@pid":"42/7645","text":"Mohamed Sordo"},{"@pid":"36/2688","text":"Horacio Saggion"},{"@pid":"01/2680","text":"Xavier Serra"}]},"title":"Information extraction for knowledge base construction in the music domain.","venue":"Data Knowl. Eng.","volume":"106","pages":"70-83","year":"2016","type":"Journal Articles","key":"journals/dke/OramasASSS16","doi":"10.1016/J.DATAK.2016.06.001","ee":"https://doi.org/10.1016/j.datak.2016.06.001","url":"https://dblp.org/rec/journals/dke/OramasASSS16"},
+"url":"URL#1502004"
+},
+{
+"@score":"1",
+"@id":"1502007",
+"info":{"authors":{"author":[{"@pid":"162/9461","text":"Vimal K. Shrivastava"},{"@pid":"124/4201","text":"Narendra D. Londhe"},{"@pid":"162/9416","text":"Rajendra S. Sonawane"},{"@pid":"48/4080","text":"Jasjit S. Suri"}]},"title":"Reliability analysis of psoriasis decision support system in principal component analysis framework.","venue":"Data Knowl. Eng.","volume":"106","pages":"1-17","year":"2016","type":"Journal Articles","key":"journals/dke/ShrivastavaLSS16","doi":"10.1016/J.DATAK.2016.09.001","ee":"https://doi.org/10.1016/j.datak.2016.09.001","url":"https://dblp.org/rec/journals/dke/ShrivastavaLSS16"},
+"url":"URL#1502007"
+},
+{
+"@score":"1",
+"@id":"1502011",
+"info":{"authors":{"author":[{"@pid":"163/3221","text":"Jon Scott Stevens"},{"@pid":"16/4870","text":"Anton Benz"},{"@pid":"82/11032","text":"Sebastian Reuße"},{"@pid":"86/6499","text":"Ralf Klabunde"}]},"title":"Pragmatic question answering - A game-theoretic approach.","venue":"Data Knowl. Eng.","volume":"106","pages":"52-69","year":"2016","type":"Journal Articles","key":"journals/dke/StevensBRK16","doi":"10.1016/J.DATAK.2016.06.002","ee":"https://doi.org/10.1016/j.datak.2016.06.002","url":"https://dblp.org/rec/journals/dke/StevensBRK16"},
+"url":"URL#1502011"
+}
+]
+}
 }
 }

@@ -1,23 +1,122 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke50\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke50\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.57"
+"text":"100.37"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"15",
+"@dc":"15",
+"@oc":"15",
+"@id":"17615733",
+"text":":facetid:toc:db/journals/dke/dke50.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"15",
+"@computed":"15",
+"@sent":"15",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"4307504",
+"info":{"authors":{"author":[{"@pid":"53/4360","text":"Nasreddine Aoumeur"},{"@pid":"s/GunterSaake","text":"Gunter Saake"}]},"title":"Dynamically evolving concurrent information systems specification and validation - a component-based Petri nets proposal.","venue":"Data Knowl. Eng.","volume":"50","number":"2","pages":"117-173","year":"2004","type":"Journal Articles","key":"journals/dke/AoumeurS04","doi":"10.1016/J.DATAK.2003.10.005","ee":"https://doi.org/10.1016/j.datak.2003.10.005","url":"https://dblp.org/rec/journals/dke/AoumeurS04"},
+"url":"URL#4307504"
+},
+{
+"@score":"1",
+"@id":"4307505",
+"info":{"authors":{"author":[{"@pid":"b/RuzenaBajcsy","text":"Ruzena Bajcsy"},{"@pid":"32/2207","text":"Rick McGeer"}]},"title":"CITRIS and data and knowledge engineering - What is old and what is new?","venue":"Data Knowl. Eng.","volume":"50","number":"3","pages":"261-276","year":"2004","type":"Journal Articles","key":"journals/dke/BajcsyM04","doi":"10.1016/J.DATAK.2004.04.002","ee":"https://doi.org/10.1016/j.datak.2004.04.002","url":"https://dblp.org/rec/journals/dke/BajcsyM04"},
+"url":"URL#4307505"
+},
+{
+"@score":"1",
+"@id":"4307510",
+"info":{"authors":{"author":[{"@pid":"69/1218","text":"Martin F. van Bommel"},{"@pid":"37/1304","text":"Ping Wang"}]},"title":"Encoding multiple inheritance hierarchies for lattice operations.","venue":"Data Knowl. Eng.","volume":"50","number":"2","pages":"175-194","year":"2004","type":"Journal Articles","key":"journals/dke/BommelW04","doi":"10.1016/J.DATAK.2003.12.001","ee":"https://doi.org/10.1016/j.datak.2003.12.001","url":"https://dblp.org/rec/journals/dke/BommelW04"},
+"url":"URL#4307510"
+},
+{
+"@score":"1",
+"@id":"4307513",
+"info":{"authors":{"author":{"@pid":"c/PPChen","text":"Peter P. Chen"}},"title":"Editorial introduction by the Editor-in-Chief.","venue":"Data Knowl. Eng.","volume":"50","number":"3","pages":"241-246","year":"2004","type":"Journal Articles","key":"journals/dke/Chen04","doi":"10.1016/J.DATAK.2004.05.001","ee":"https://doi.org/10.1016/j.datak.2004.05.001","url":"https://dblp.org/rec/journals/dke/Chen04"},
+"url":"URL#4307513"
+},
+{
+"@score":"1",
+"@id":"4307520",
+"info":{"authors":{"author":[{"@pid":"f/GaihuaFu","text":"Gaihua Fu"},{"@pid":"18/5047-1","text":"Jianhua Shao 0001"},{"@pid":"e/SMEmbury","text":"Suzanne M. Embury"},{"@pid":"g/WAGray","text":"W. A. Gray"}]},"title":"Algorithms for analysing related constraint business rules.","venue":"Data Knowl. Eng.","volume":"50","number":"2","pages":"215-240","year":"2004","type":"Journal Articles","key":"journals/dke/FuSEG04","doi":"10.1016/J.DATAK.2004.01.006","ee":"https://doi.org/10.1016/j.datak.2004.01.006","url":"https://dblp.org/rec/journals/dke/FuSEG04"},
+"url":"URL#4307520"
+},
+{
+"@score":"1",
+"@id":"4307527",
+"info":{"authors":{"author":{"@pid":"j/AravindKJoshi","text":"Aravind K. Joshi"}},"title":"Domains of locality.","venue":"Data Knowl. Eng.","volume":"50","number":"3","pages":"277-289","year":"2004","type":"Journal Articles","key":"journals/dke/Joshi04","doi":"10.1016/J.DATAK.2004.04.003","ee":"https://doi.org/10.1016/j.datak.2004.04.003","url":"https://dblp.org/rec/journals/dke/Joshi04"},
+"url":"URL#4307527"
+},
+{
+"@score":"1",
+"@id":"4307538",
+"info":{"authors":{"author":[{"@pid":"m/TheraniMadhusudan","text":"Therani Madhusudan"},{"@pid":"z/JLeonZhao","text":"J. Leon Zhao"},{"@pid":"43/5462","text":"Byron Marshall"}]},"title":"A case-based reasoning framework for workflow model management.","venue":"Data Knowl. Eng.","volume":"50","number":"1","pages":"87-115","year":"2004","type":"Journal Articles","key":"journals/dke/MadhusudanZM04","doi":"10.1016/J.DATAK.2004.01.005","ee":"https://doi.org/10.1016/j.datak.2004.01.005","url":"https://dblp.org/rec/journals/dke/MadhusudanZM04"},
+"url":"URL#4307538"
+},
+{
+"@score":"1",
+"@id":"4307542",
+"info":{"authors":{"author":[{"@pid":"72/4372","text":"Olivier Perrin 0001"},{"@pid":"g/ClaudeGodart","text":"Claude Godart"}]},"title":"A model to support collaborative work in virtual enterprises.","venue":"Data Knowl. Eng.","volume":"50","number":"1","pages":"63-86","year":"2004","type":"Journal Articles","key":"journals/dke/PerrinG04","doi":"10.1016/J.DATAK.2004.01.004","ee":"https://doi.org/10.1016/j.datak.2004.01.004","url":"https://dblp.org/rec/journals/dke/PerrinG04"},
+"url":"URL#4307542"
+},
+{
+"@score":"1",
+"@id":"4307544",
+"info":{"authors":{"author":{"@pid":"98/2538","text":"Carsten Pontow"}},"title":"A note on the axiomatics of theories in parthood.","venue":"Data Knowl. Eng.","volume":"50","number":"2","pages":"195-213","year":"2004","type":"Journal Articles","key":"journals/dke/Pontow04","doi":"10.1016/J.DATAK.2003.12.002","ee":"https://doi.org/10.1016/j.datak.2003.12.002","url":"https://dblp.org/rec/journals/dke/Pontow04"},
+"url":"URL#4307544"
+},
+{
+"@score":"1",
+"@id":"4307546",
+"info":{"authors":{"author":{"@pid":"r/RPvandeRiet","text":"Reind P. van de Riet"}},"title":"Editorial Introduction by the Editor for Europe.","venue":"Data Knowl. Eng.","volume":"50","number":"3","pages":"247-260","year":"2004","type":"Journal Articles","key":"journals/dke/Riet04","doi":"10.1016/J.DATAK.2004.03.001","ee":"https://doi.org/10.1016/j.datak.2004.03.001","url":"https://dblp.org/rec/journals/dke/Riet04"},
+"url":"URL#4307546"
+},
+{
+"@score":"1",
+"@id":"4307547",
+"info":{"authors":{"author":{"@pid":"r/RPvandeRiet","text":"Reind P. van de Riet"}},"title":"The future refereeing process in Cyberspace of the Data &amp; Knowledge Engineering Journal - an attempt in guaranteeing security and privacy on three levels.","venue":"Data Knowl. Eng.","volume":"50","number":"3","pages":"305-339","year":"2004","type":"Journal Articles","key":"journals/dke/Riet04a","doi":"10.1016/J.DATAK.2004.03.003","ee":"https://doi.org/10.1016/j.datak.2004.03.003","url":"https://dblp.org/rec/journals/dke/Riet04a"},
+"url":"URL#4307547"
+},
+{
+"@score":"1",
+"@id":"4307548",
+"info":{"authors":{"author":[{"@pid":"r/StefanieRinderle","text":"Stefanie Rinderle"},{"@pid":"r/ManfredReichert","text":"Manfred Reichert"},{"@pid":"d/PDadam","text":"Peter Dadam"}]},"title":"Correctness criteria for dynamic changes in workflow systems - a survey.","venue":"Data Knowl. Eng.","volume":"50","number":"1","pages":"9-34","year":"2004","type":"Journal Articles","key":"journals/dke/RinderleRD04","doi":"10.1016/J.DATAK.2004.01.002","ee":"https://doi.org/10.1016/j.datak.2004.01.002","url":"https://dblp.org/rec/journals/dke/RinderleRD04"},
+"url":"URL#4307548"
+},
+{
+"@score":"1",
+"@id":"4307559",
+"info":{"authors":{"author":[{"@pid":"w/MathiasWeske","text":"Mathias Weske"},{"@pid":"a/WilMPvanderAalst","text":"Wil M. P. van der Aalst"},{"@pid":"v/HMWVerbeek","text":"H. M. W. Verbeek"}]},"title":"Advances in business process management.","venue":"Data Knowl. Eng.","volume":"50","number":"1","pages":"1-8","year":"2004","type":"Journal Articles","key":"journals/dke/WeskeAV04","doi":"10.1016/J.DATAK.2004.01.001","ee":"https://doi.org/10.1016/j.datak.2004.01.001","url":"https://dblp.org/rec/journals/dke/WeskeAV04"},
+"url":"URL#4307559"
+},
+{
+"@score":"1",
+"@id":"4307561",
+"info":{"authors":{"author":{"@pid":"96/2603","text":"Guangxin Yang"}},"title":"Process library.","venue":"Data Knowl. Eng.","volume":"50","number":"1","pages":"35-62","year":"2004","type":"Journal Articles","key":"journals/dke/Yang04","doi":"10.1016/J.DATAK.2004.01.003","ee":"https://doi.org/10.1016/j.datak.2004.01.003","url":"https://dblp.org/rec/journals/dke/Yang04"},
+"url":"URL#4307561"
+},
+{
+"@score":"1",
+"@id":"4307562",
+"info":{"authors":{"author":{"@pid":"z/LAZadeh","text":"Lotfi A. Zadeh"}},"title":"A note on web intelligence, world knowledge and fuzzy logic.","venue":"Data Knowl. Eng.","volume":"50","number":"3","pages":"291-304","year":"2004","type":"Journal Articles","key":"journals/dke/Zadeh04","doi":"10.1016/J.DATAK.2004.04.001","ee":"https://doi.org/10.1016/j.datak.2004.04.001","url":"https://dblp.org/rec/journals/dke/Zadeh04"},
+"url":"URL#4307562"
+}
+]
+}
 }
 }

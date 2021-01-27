@@ -1,23 +1,134 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke88\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke88\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.44"
+"text":"102.00"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"17",
+"@dc":"17",
+"@oc":"17",
+"@id":"17615770",
+"text":":facetid:toc:db/journals/dke/dke88.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"17",
+"@computed":"17",
+"@sent":"17",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"2385721",
+"info":{"authors":{"author":[{"@pid":"61/10317","text":"David Aguilera"},{"@pid":"42/5204","text":"Cristina Gómez"},{"@pid":"89/4942","text":"Antoni Olivé"}]},"title":"A complete set of guidelines for naming UML conceptual schema elements.","venue":"Data Knowl. Eng.","volume":"88","pages":"60-74","year":"2013","type":"Journal Articles","key":"journals/dke/AguileraGO13","doi":"10.1016/J.DATAK.2013.09.001","ee":"https://doi.org/10.1016/j.datak.2013.09.001","url":"https://dblp.org/rec/journals/dke/AguileraGO13"},
+"url":"URL#2385721"
+},
+{
+"@score":"1",
+"@id":"2385724",
+"info":{"authors":{"author":[{"@pid":"88/5929","text":"Alexandra Balahur"},{"@pid":"74/7871","text":"Jesús M. Hermida"},{"@pid":"65/6427","text":"Andrés Montoyo"},{"@pid":"m/RafaelMunoz","text":"Rafael Muñoz 0001"}]},"title":"Detecting implicit expressions of affect in text using EmotiNet and its extensions.","venue":"Data Knowl. Eng.","volume":"88","pages":"113-125","year":"2013","type":"Journal Articles","key":"journals/dke/BalahurHMM13","doi":"10.1016/J.DATAK.2013.08.002","ee":"https://doi.org/10.1016/j.datak.2013.08.002","url":"https://dblp.org/rec/journals/dke/BalahurHMM13"},
+"url":"URL#2385724"
+},
+{
+"@score":"1",
+"@id":"2385732",
+"info":{"authors":{"author":[{"@pid":"95/8612","text":"LinLin Ding"},{"@pid":"64/146","text":"Guoren Wang"},{"@pid":"35/3175","text":"Junchang Xin"},{"@pid":"81/1832","text":"Xiaoyang Wang"},{"@pid":"06/4186","text":"Shan Huang"},{"@pid":"03/505","text":"Rui Zhang 0003"}]},"title":"ComMapReduce - An improvement of MapReduce with lightweight communication mechanisms.","venue":"Data Knowl. Eng.","volume":"88","pages":"224-247","year":"2013","type":"Journal Articles","key":"journals/dke/DingWXWHZ13","doi":"10.1016/J.DATAK.2013.04.004","ee":"https://doi.org/10.1016/j.datak.2013.04.004","url":"https://dblp.org/rec/journals/dke/DingWXWHZ13"},
+"url":"URL#2385732"
+},
+{
+"@score":"1",
+"@id":"2385733",
+"info":{"authors":{"author":[{"@pid":"34/8082","text":"YaJun Du"},{"@pid":"138/6849","text":"QiangQiang Pen"},{"@pid":"138/6882","text":"ZhaoQiong Gao"}]},"title":"A topic-specific crawling strategy based on semantics similarity.","venue":"Data Knowl. Eng.","volume":"88","pages":"75-93","year":"2013","type":"Journal Articles","key":"journals/dke/DuPG13","doi":"10.1016/J.DATAK.2013.09.003","ee":"https://doi.org/10.1016/j.datak.2013.09.003","url":"https://dblp.org/rec/journals/dke/DuPG13"},
+"url":"URL#2385733"
+},
+{
+"@score":"1",
+"@id":"2385737",
+"info":{"authors":{"author":[{"@pid":"47/9409","text":"André Freitas"},{"@pid":"82/9766","text":"João Gabriel Oliveira"},{"@pid":"55/4224","text":"Seán O&apos;Riain"},{"@pid":"70/9766","text":"João Carlos Pereira da Silva"},{"@pid":"60/2291","text":"Edward Curry"}]},"title":"Querying linked data graphs using semantic relatedness - A vocabulary independent approach.","venue":"Data Knowl. Eng.","volume":"88","pages":"126-141","year":"2013","type":"Journal Articles","key":"journals/dke/FreitasOOSC13","doi":"10.1016/J.DATAK.2013.08.003","ee":"https://doi.org/10.1016/j.datak.2013.08.003","url":"https://dblp.org/rec/journals/dke/FreitasOOSC13"},
+"url":"URL#2385737"
+},
+{
+"@score":"1",
+"@id":"2385744",
+"info":{"authors":{"author":[{"@pid":"36/7726","text":"Ashwin Ittoo"},{"@pid":"b/GosseBouma","text":"Gosse Bouma"}]},"title":"Minimally-supervised learning of domain-specific causal relations using an open-domain corpus as knowledge base.","venue":"Data Knowl. Eng.","volume":"88","pages":"142-163","year":"2013","type":"Journal Articles","key":"journals/dke/IttooB13a","doi":"10.1016/J.DATAK.2013.08.004","ee":"https://doi.org/10.1016/j.datak.2013.08.004","url":"https://dblp.org/rec/journals/dke/IttooB13a"},
+"url":"URL#2385744"
+},
+{
+"@score":"1",
+"@id":"2385749",
+"info":{"authors":{"author":[{"@pid":"78/1273","text":"Javier Lacasta"},{"@pid":"13/5832","text":"Javier Nogueras-Iso"},{"@pid":"f/GillesFalquet","text":"Gilles Falquet"},{"@pid":"05/6929","text":"Jacques Teller"},{"@pid":"z/FJavierZarazagaSoria","text":"F. Javier Zarazaga-Soria"}]},"title":"Design and evaluation of a semantic enrichment process for bibliographic databases.","venue":"Data Knowl. Eng.","volume":"88","pages":"94-107","year":"2013","type":"Journal Articles","key":"journals/dke/LacastaNFTZ13","doi":"10.1016/J.DATAK.2013.10.001","ee":"https://doi.org/10.1016/j.datak.2013.10.001","url":"https://dblp.org/rec/journals/dke/LacastaNFTZ13"},
+"url":"URL#2385749"
+},
+{
+"@score":"1",
+"@id":"2385752",
+"info":{"authors":{"author":[{"@pid":"138/6860","text":"Trieu Minh Nhut Le"},{"@pid":"36/581","text":"Jinli Cao"},{"@pid":"44/4618","text":"Zhen He"}]},"title":"Top-k best probability queries and semantics ranking properties on probabilistic databases.","venue":"Data Knowl. Eng.","volume":"88","pages":"248-266","year":"2013","type":"Journal Articles","key":"journals/dke/LeCH13","doi":"10.1016/J.DATAK.2013.04.005","ee":"https://doi.org/10.1016/j.datak.2013.04.005","url":"https://dblp.org/rec/journals/dke/LeCH13"},
+"url":"URL#2385752"
+},
+{
+"@score":"1",
+"@id":"2385753",
+"info":{"authors":{"author":[{"@pid":"67/5511","text":"Sang-goo Lee"},{"@pid":"40/1233","text":"Zhiyong Peng"},{"@pid":"z/XiaofangZhou","text":"Xiaofang Zhou 0001"}]},"title":"Editorial - DASFAA2012.","venue":"Data Knowl. Eng.","volume":"88","pages":"177-178","year":"2013","type":"Journal Articles","key":"journals/dke/LeePZ13","doi":"10.1016/J.DATAK.2013.04.007","ee":"https://doi.org/10.1016/j.datak.2013.04.007","url":"https://dblp.org/rec/journals/dke/LeePZ13"},
+"url":"URL#2385753"
+},
+{
+"@score":"1",
+"@id":"2385754",
+"info":{"authors":{"author":[{"@pid":"l/ErwinLeonardi","text":"Erwin Leonardi"},{"@pid":"b/SSBhowmick","text":"Sourav S. Bhowmick"},{"@pid":"14/4924","text":"Fengrong Li"}]},"title":"Stars on steroids - Fast evaluation of multi-source star twig queries in path materialization-based XML databases.","venue":"Data Knowl. Eng.","volume":"88","pages":"179-205","year":"2013","type":"Journal Articles","key":"journals/dke/LeonardiBL13","doi":"10.1016/J.DATAK.2013.04.002","ee":"https://doi.org/10.1016/j.datak.2013.04.002","url":"https://dblp.org/rec/journals/dke/LeonardiBL13"},
+"url":"URL#2385754"
+},
+{
+"@score":"1",
+"@id":"2385757",
+"info":{"authors":{"author":[{"@pid":"38/8331","text":"Chunhyeok Lim"},{"@pid":"l/ShiyongLu","text":"Shiyong Lu"},{"@pid":"38/4405","text":"Artem Chebotko"},{"@pid":"f/FarshadFotouhi","text":"Farshad Fotouhi"},{"@pid":"39/8331","text":"Andrey Kashlev"}]},"title":"OPQL - Querying scientific workflow provenance at the graph level.","venue":"Data Knowl. Eng.","volume":"88","pages":"37-59","year":"2013","type":"Journal Articles","key":"journals/dke/LimLCFK13","doi":"10.1016/J.DATAK.2013.08.008","ee":"https://doi.org/10.1016/j.datak.2013.08.008","url":"https://dblp.org/rec/journals/dke/LimLCFK13"},
+"url":"URL#2385757"
+},
+{
+"@score":"1",
+"@id":"2385760",
+"info":{"authors":{"author":[{"@pid":"82/1545","text":"Elena Lloret"},{"@pid":"66/7872","text":"María Teresa Romá-Ferri"},{"@pid":"p/ManuelPalomar","text":"Manuel Palomar"}]},"title":"COMPENDIUM - A text summarization system for generating abstracts of research papers.","venue":"Data Knowl. Eng.","volume":"88","pages":"164-175","year":"2013","type":"Journal Articles","key":"journals/dke/LloretRP13","doi":"10.1016/J.DATAK.2013.08.005","ee":"https://doi.org/10.1016/j.datak.2013.08.005","url":"https://dblp.org/rec/journals/dke/LloretRP13"},
+"url":"URL#2385760"
+},
+{
+"@score":"1",
+"@id":"2385762",
+"info":{"authors":{"author":[{"@pid":"98/8942","text":"Hai Thanh Mai"},{"@pid":"14/5753","text":"Jaeho Kim"},{"@pid":"k/Myoung-HoKim","text":"Myoung-Ho Kim"}]},"title":"Bichromatic buckets - An effective technique to improve the accuracy of histograms for geographic data points.","venue":"Data Knowl. Eng.","volume":"88","pages":"206-223","year":"2013","type":"Journal Articles","key":"journals/dke/MaiKK13","doi":"10.1016/J.DATAK.2013.04.003","ee":"https://doi.org/10.1016/j.datak.2013.04.003","url":"https://dblp.org/rec/journals/dke/MaiKK13"},
+"url":"URL#2385762"
+},
+{
+"@score":"1",
+"@id":"2385765",
+"info":{"authors":{"author":[{"@pid":"44/4292","text":"Patricio Martínez-Barco"},{"@pid":"36/3146","text":"Elisabeth Métais"},{"@pid":"70/1191","text":"Fernando Llopis"},{"@pid":"81/6318","text":"Paloma Moreda"}]},"title":"An overview of the Applications of Natural Language to Information Systems.","venue":"Data Knowl. Eng.","volume":"88","pages":"109-112","year":"2013","type":"Journal Articles","key":"journals/dke/Martinez-BarcoMLM13","doi":"10.1016/J.DATAK.2013.08.001","ee":"https://doi.org/10.1016/j.datak.2013.08.001","url":"https://dblp.org/rec/journals/dke/Martinez-BarcoMLM13"},
+"url":"URL#2385765"
+},
+{
+"@score":"1",
+"@id":"2385766",
+"info":{"authors":{"author":[{"@pid":"22/5614","text":"Deyu Meng"},{"@pid":"138/6894","text":"Hengbin Cui"},{"@pid":"25/3264","text":"Zongben Xu"},{"@pid":"138/6876","text":"Kaili Jing"}]},"title":"Following the entire solution path of sparse principal component analysis by coordinate-pairwise algorithm.","venue":"Data Knowl. Eng.","volume":"88","pages":"25-36","year":"2013","type":"Journal Articles","key":"journals/dke/MengCXJ13","doi":"10.1016/J.DATAK.2013.08.007","ee":"https://doi.org/10.1016/j.datak.2013.08.007","url":"https://dblp.org/rec/journals/dke/MengCXJ13"},
+"url":"URL#2385766"
+},
+{
+"@score":"1",
+"@id":"2385786",
+"info":{"authors":{"author":[{"@pid":"39/6705","text":"Konstantinos N. Vavliakis"},{"@pid":"01/2872","text":"Andreas L. Symeonidis"},{"@pid":"79/1157","text":"Pericles A. Mitkas"}]},"title":"Event identification in web social media through named entity recognition and topic modeling.","venue":"Data Knowl. Eng.","volume":"88","pages":"1-24","year":"2013","type":"Journal Articles","key":"journals/dke/VavliakisSM13","doi":"10.1016/J.DATAK.2013.08.006","ee":"https://doi.org/10.1016/j.datak.2013.08.006","url":"https://dblp.org/rec/journals/dke/VavliakisSM13"},
+"url":"URL#2385786"
+},
+{
+"@score":"1",
+"@id":"2385791",
+"info":{"authors":{"author":[{"@pid":"74/2356","text":"Mingxuan Yuan"},{"@pid":"c/LeiChen0002","text":"Lei Chen 0002"},{"@pid":"14/2036","text":"Hong Mei"}]},"title":"Graph publication when the protection algorithm is available.","venue":"Data Knowl. Eng.","volume":"88","pages":"267-285","year":"2013","type":"Journal Articles","key":"journals/dke/YuanCM13","doi":"10.1016/J.DATAK.2013.04.006","ee":"https://doi.org/10.1016/j.datak.2013.04.006","url":"https://dblp.org/rec/journals/dke/YuanCM13"},
+"url":"URL#2385791"
+}
+]
+}
 }
 }

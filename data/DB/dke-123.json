@@ -1,23 +1,104 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke123\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke123\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.49"
+"text":"114.12"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"12",
+"@dc":"12",
+"@oc":"12",
+"@id":"17615684",
+"text":":facetid:toc:db/journals/dke/dke123.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"12",
+"@computed":"12",
+"@sent":"12",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"433925",
+"info":{"authors":{"author":[{"@pid":"185/2351","text":"Besim Bilalli"},{"@pid":"88/2053","text":"Alberto Abelló"},{"@pid":"97/4081","text":"Tomàs Aluja-Banet"},{"@pid":"41/3391","text":"Robert Wrembel"}]},"title":"PRESISTANT - Learning based assistant for data pre-processing.","venue":"Data Knowl. Eng.","volume":"123","year":"2019","type":"Journal Articles","key":"journals/dke/BilalliAAW19","doi":"10.1016/J.DATAK.2019.101727","ee":"https://doi.org/10.1016/j.datak.2019.101727","url":"https://dblp.org/rec/journals/dke/BilalliAAW19"},
+"url":"URL#433925"
+},
+{
+"@score":"1",
+"@id":"433930",
+"info":{"authors":{"author":[{"@pid":"133/7162","text":"Victor W. Chu"},{"@pid":"53/3032","text":"Raymond K. Wong"},{"@pid":"52/488-1","text":"Fang Chen 0001"},{"@pid":"53/4256","text":"Ivan Ho"},{"@pid":"143/9433","text":"Joe Lee"}]},"title":"Enhancing portfolio return based on sentiment-of-topic.","venue":"Data Knowl. Eng.","volume":"123","year":"2019","type":"Journal Articles","key":"journals/dke/ChuWCHL19","doi":"10.1016/J.DATAK.2017.07.004","ee":"https://doi.org/10.1016/j.datak.2017.07.004","url":"https://dblp.org/rec/journals/dke/ChuWCHL19"},
+"url":"URL#433930"
+},
+{
+"@score":"1",
+"@id":"433935",
+"info":{"authors":{"author":[{"@pid":"142/3841","text":"Yuanning Gao"},{"@pid":"95/6947","text":"Xiaofeng Gao"},{"@pid":"215/4415","text":"Yichen Zhu"},{"@pid":"51/1742","text":"Guihai Chen"}]},"title":"An efficient and scalable multi-dimensional indexing scheme for modular data centers.","venue":"Data Knowl. Eng.","volume":"123","year":"2019","type":"Journal Articles","key":"journals/dke/GaoGZC19","doi":"10.1016/J.DATAK.2019.101729","ee":"https://doi.org/10.1016/j.datak.2019.101729","url":"https://dblp.org/rec/journals/dke/GaoGZC19"},
+"url":"URL#433935"
+},
+{
+"@score":"1",
+"@id":"433944",
+"info":{"authors":{"author":{"@pid":"65/1664","text":"Jinho Kim"}},"title":"Third International Conference on Big Data and Smart Computing (BigComp2016).","venue":"Data Knowl. Eng.","volume":"123","year":"2019","type":"Journal Articles","key":"journals/dke/Kim19","doi":"10.1016/J.DATAK.2017.07.002","ee":"https://doi.org/10.1016/j.datak.2017.07.002","url":"https://dblp.org/rec/journals/dke/Kim19"},
+"url":"URL#433944"
+},
+{
+"@score":"1",
+"@id":"433945",
+"info":{"authors":{"author":[{"@pid":"43/7563","text":"Hyeong-Il Kim"},{"@pid":"177/0933","text":"Hyeong-Jin Kim"},{"@pid":"89/5604","text":"Jae-Woo Chang"}]},"title":"A secure kNN query processing algorithm using homomorphic encryption on outsourced database.","venue":"Data Knowl. Eng.","volume":"123","year":"2019","type":"Journal Articles","key":"journals/dke/KimKC19","doi":"10.1016/J.DATAK.2017.07.005","ee":"https://doi.org/10.1016/j.datak.2017.07.005","url":"https://dblp.org/rec/journals/dke/KimKC19"},
+"url":"URL#433945"
+},
+{
+"@score":"1",
+"@id":"433951",
+"info":{"authors":{"author":[{"@pid":"09/1365","text":"Xin Li"},{"@pid":"130/8341","text":"Yanghui Rao"},{"@pid":"83/8908","text":"Haoran Xie 0001"},{"@pid":"166/0029-4","text":"Xuebo Liu 0004"},{"@pid":"28/2531","text":"Tak-Lam Wong"},{"@pid":"62/6271","text":"Fu Lee Wang"}]},"title":"Social emotion classification based on noise-aware training.","venue":"Data Knowl. Eng.","volume":"123","year":"2019","type":"Journal Articles","key":"journals/dke/LiRXLWW19","doi":"10.1016/J.DATAK.2017.07.008","ee":"https://doi.org/10.1016/j.datak.2017.07.008","url":"https://dblp.org/rec/journals/dke/LiRXLWW19"},
+"url":"URL#433951"
+},
+{
+"@score":"1",
+"@id":"433952",
+"info":{"authors":{"author":[{"@pid":"25/11374","text":"Aref Majdara"},{"@pid":"71/581","text":"Saeid Nooshabadi"}]},"title":"Online density estimation over high-dimensional stationary and non-stationary data streams.","venue":"Data Knowl. Eng.","volume":"123","year":"2019","type":"Journal Articles","key":"journals/dke/MajdaraN19","doi":"10.1016/J.DATAK.2019.101718","ee":"https://doi.org/10.1016/j.datak.2019.101718","url":"https://dblp.org/rec/journals/dke/MajdaraN19"},
+"url":"URL#433952"
+},
+{
+"@score":"1",
+"@id":"433953",
+"info":{"authors":{"author":[{"@pid":"191/8125","text":"Md Abdul Masud"},{"@pid":"h/JoshuaZhexueHuang","text":"Joshua Zhexue Huang"},{"@pid":"84/2082","text":"Ming Zhong 0003"},{"@pid":"24/1387","text":"Xianghua Fu"}]},"title":"Generate pairwise constraints from unlabeled data for semi-supervised clustering.","venue":"Data Knowl. Eng.","volume":"123","year":"2019","type":"Journal Articles","key":"journals/dke/MasudHZF19","doi":"10.1016/J.DATAK.2019.101715","ee":"https://doi.org/10.1016/j.datak.2019.101715","url":"https://dblp.org/rec/journals/dke/MasudHZF19"},
+"url":"URL#433953"
+},
+{
+"@score":"1",
+"@id":"433955",
+"info":{"authors":{"author":[{"@pid":"48/4658","text":"Lydia Silva Muñoz"},{"@pid":"29/4227","text":"Michael Grüninger"}]},"title":"A time-indexed mereology for SUMO.","venue":"Data Knowl. Eng.","volume":"123","year":"2019","type":"Journal Articles","key":"journals/dke/MunozG19","doi":"10.1016/J.DATAK.2019.101724","ee":"https://doi.org/10.1016/j.datak.2019.101724","url":"https://dblp.org/rec/journals/dke/MunozG19"},
+"url":"URL#433955"
+},
+{
+"@score":"1",
+"@id":"433960",
+"info":{"authors":{"author":[{"@pid":"161/3495","text":"Hancheol Park"},{"@pid":"140/1296","text":"Kyo-Joong Oh"},{"@pid":"60/1227","text":"Ho-Jin Choi"},{"@pid":"92/2762","text":"Gahgene Gweon"}]},"title":"Constructing a paraphrase database for agglutinative languages.","venue":"Data Knowl. Eng.","volume":"123","year":"2019","type":"Journal Articles","key":"journals/dke/ParkOCG19","doi":"10.1016/J.DATAK.2017.07.007","ee":"https://doi.org/10.1016/j.datak.2017.07.007","url":"https://dblp.org/rec/journals/dke/ParkOCG19"},
+"url":"URL#433960"
+},
+{
+"@score":"1",
+"@id":"433961",
+"info":{"authors":{"author":[{"@pid":"93/9436","text":"Justin JongSu Song"},{"@pid":"11/4874","text":"Wookey Lee"},{"@pid":"177/0985","text":"Jafar Afshar"}]},"title":"An effective High Recall Retrieval method.","venue":"Data Knowl. Eng.","volume":"123","year":"2019","type":"Journal Articles","key":"journals/dke/SongLA19","doi":"10.1016/J.DATAK.2017.07.006","ee":"https://doi.org/10.1016/j.datak.2017.07.006","url":"https://dblp.org/rec/journals/dke/SongLA19"},
+"url":"URL#433961"
+},
+{
+"@score":"1",
+"@id":"433965",
+"info":{"authors":{"author":[{"@pid":"240/6718","text":"Manjunath K. Vanahalli"},{"@pid":"95/9697","text":"Nagamma Patil"}]},"title":"An efficient dynamic switching algorithm for mining colossal closed itemsets from high dimensional datasets.","venue":"Data Knowl. Eng.","volume":"123","year":"2019","type":"Journal Articles","key":"journals/dke/VanahalliP19","doi":"10.1016/J.DATAK.2019.101721","ee":"https://doi.org/10.1016/j.datak.2019.101721","url":"https://dblp.org/rec/journals/dke/VanahalliP19"},
+"url":"URL#433965"
+}
+]
+}
 }
 }

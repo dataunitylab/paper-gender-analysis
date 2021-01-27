@@ -1,23 +1,188 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke117\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke117\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.47"
+"text":"101.70"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"26",
+"@dc":"26",
+"@oc":"26",
+"@id":"17615677",
+"text":":facetid:toc:db/journals/dke/dke117.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"26",
+"@computed":"26",
+"@sent":"26",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"821335",
+"info":{"authors":{"author":[{"@pid":"07/10262","text":"Amin Allam"},{"@pid":"01/5237","text":"Spiros Skiadopoulos"},{"@pid":"97/3036","text":"Panos Kalnis"}]},"title":"Improved suffix blocking for record linkage and entity resolution.","venue":"Data Knowl. Eng.","volume":"117","pages":"98-113","year":"2018","type":"Journal Articles","key":"journals/dke/AllamSK18","doi":"10.1016/J.DATAK.2018.07.005","ee":"https://doi.org/10.1016/j.datak.2018.07.005","url":"https://dblp.org/rec/journals/dke/AllamSK18"},
+"url":"URL#821335"
+},
+{
+"@score":"1",
+"@id":"821336",
+"info":{"authors":{"author":[{"@pid":"188/9636","text":"Adriano Augusto"},{"@pid":"08/10352","text":"Raffaele Conforti"},{"@pid":"d/MarlonDumas","text":"Marlon Dumas"},{"@pid":"20/3634","text":"Marcello La Rosa"},{"@pid":"35/3500","text":"Giorgio Bruno"}]},"title":"Automated discovery of structured process models from event logs - The discover-and-structure approach.","venue":"Data Knowl. Eng.","volume":"117","pages":"373-392","year":"2018","type":"Journal Articles","key":"journals/dke/AugustoCDRB18","doi":"10.1016/J.DATAK.2018.04.007","ee":"https://doi.org/10.1016/j.datak.2018.04.007","url":"https://dblp.org/rec/journals/dke/AugustoCDRB18"},
+"url":"URL#821336"
+},
+{
+"@score":"1",
+"@id":"821337",
+"info":{"authors":{"author":[{"@pid":"01/8812","text":"Siamak Barzegar"},{"@pid":"04/285-1","text":"Brian Davis 0001"},{"@pid":"h/SiegfriedHandschuh","text":"Siegfried Handschuh"},{"@pid":"47/9409","text":"André Freitas"}]},"title":"Classification of composite semantic relations by a distributional-relational model.","venue":"Data Knowl. Eng.","volume":"117","pages":"319-335","year":"2018","type":"Journal Articles","key":"journals/dke/BarzegarDHF18","doi":"10.1016/J.DATAK.2018.06.005","ee":"https://doi.org/10.1016/j.datak.2018.06.005","url":"https://dblp.org/rec/journals/dke/BarzegarDHF18"},
+"url":"URL#821337"
+},
+{
+"@score":"1",
+"@id":"821349",
+"info":{"authors":{"author":[{"@pid":"c/IsabelleComynWattiau","text":"Isabelle Comyn-Wattiau"},{"@pid":"s/IlYeolSong","text":"Il-Yeol Song"},{"@pid":"44/3648","text":"Katsumi Tanaka"},{"@pid":"85/2861","text":"Motoshi Saeki"},{"@pid":"24/7037","text":"Shuichiro Yamamoto"}]},"title":"Guest editorial - Special issue on conceptual modeling - 35th International Conference on Conceptual Modeling (ER2016).","venue":"Data Knowl. Eng.","volume":"117","pages":"336-338","year":"2018","type":"Journal Articles","key":"journals/dke/Comyn-WattiauST18","doi":"10.1016/J.DATAK.2018.04.010","ee":"https://doi.org/10.1016/j.datak.2018.04.010","url":"https://dblp.org/rec/journals/dke/Comyn-WattiauST18"},
+"url":"URL#821349"
+},
+{
+"@score":"1",
+"@id":"821352",
+"info":{"authors":{"author":[{"@pid":"221/7103","text":"Lakshmipadmaja D"},{"@pid":"221/7073","text":"B. Vishnuvardhan"}]},"title":"Evaluating the influence of parameter values on the performance of random subset feature selection algorithm on scientific data.","venue":"Data Knowl. Eng.","volume":"117","pages":"174-182","year":"2018","type":"Journal Articles","key":"journals/dke/DV18","doi":"10.1016/J.DATAK.2018.07.008","ee":"https://doi.org/10.1016/j.datak.2018.07.008","url":"https://dblp.org/rec/journals/dke/DV18"},
+"url":"URL#821352"
+},
+{
+"@score":"1",
+"@id":"821358",
+"info":{"authors":{"author":[{"@pid":"67/2895","text":"Jorge Martínez Gil"},{"@pid":"51/7543","text":"Alejandra Lorena Paoletti"},{"@pid":"150/7799","text":"Gábor Rácz"},{"@pid":"51/442","text":"Attila Sali"},{"@pid":"s/KlausDieterSchewe","text":"Klaus-Dieter Schewe"}]},"title":"Accurate and efficient profile matching in knowledge bases.","venue":"Data Knowl. Eng.","volume":"117","pages":"195-215","year":"2018","type":"Journal Articles","key":"journals/dke/GilPRSS18","doi":"10.1016/J.DATAK.2018.07.010","ee":"https://doi.org/10.1016/j.datak.2018.07.010","url":"https://dblp.org/rec/journals/dke/GilPRSS18"},
+"url":"URL#821358"
+},
+{
+"@score":"1",
+"@id":"821362",
+"info":{"authors":{"author":[{"@pid":"228/6551","text":"Abdel-Rahiem A. Hashem"},{"@pid":"91/6572","text":"Mohd Yamani Idna Bin Idris"},{"@pid":"228/6399","text":"Abd El-Baset A. Ahmad"}]},"title":"Comparative study of different binarization methods through their effects in characters localization in scene images.","venue":"Data Knowl. Eng.","volume":"117","pages":"216-224","year":"2018","type":"Journal Articles","key":"journals/dke/HashemIA18","doi":"10.1016/J.DATAK.2018.07.011","ee":"https://doi.org/10.1016/j.datak.2018.07.011","url":"https://dblp.org/rec/journals/dke/HashemIA18"},
+"url":"URL#821362"
+},
+{
+"@score":"1",
+"@id":"821366",
+"info":{"authors":{"author":[{"@pid":"201/1397","text":"Hanna Kicherer"},{"@pid":"201/1438","text":"Marcel Dittrich"},{"@pid":"201/1404","text":"Lukas Grebe"},{"@pid":"80/8156","text":"Christian Scheible"},{"@pid":"21/4183","text":"Roman Klinger"}]},"title":"What you use, not what you do - Automatic classification and similarity detection of recipes.","venue":"Data Knowl. Eng.","volume":"117","pages":"252-263","year":"2018","type":"Journal Articles","key":"journals/dke/KichererDGSK18","doi":"10.1016/J.DATAK.2018.04.004","ee":"https://doi.org/10.1016/j.datak.2018.04.004","url":"https://dblp.org/rec/journals/dke/KichererDGSK18"},
+"url":"URL#821366"
+},
+{
+"@score":"1",
+"@id":"821368",
+"info":{"authors":{"author":[{"@pid":"171/6213","text":"Elena Kuss"},{"@pid":"25/8214","text":"Henrik Leopold"},{"@pid":"132/6986","text":"Han van der Aa"},{"@pid":"50/5895","text":"Heiner Stuckenschmidt"},{"@pid":"54/2034","text":"Hajo A. Reijers"}]},"title":"A probabilistic evaluation procedure for process model matching techniques.","venue":"Data Knowl. Eng.","volume":"117","pages":"393-406","year":"2018","type":"Journal Articles","key":"journals/dke/KussLASR18","doi":"10.1016/J.DATAK.2018.04.008","ee":"https://doi.org/10.1016/j.datak.2018.04.008","url":"https://dblp.org/rec/journals/dke/KussLASR18"},
+"url":"URL#821368"
+},
+{
+"@score":"1",
+"@id":"821371",
+"info":{"authors":{"author":[{"@pid":"61/5010","text":"Xumin Liu"},{"@pid":"228/6477","text":"Moayad Alshangiti"},{"@pid":"83/2822-4","text":"Chen Ding 0004"},{"@pid":"58/6957","text":"Qi Yu"}]},"title":"Log sequence clustering for workflow mining in multi-workflow systems.","venue":"Data Knowl. Eng.","volume":"117","pages":"1-17","year":"2018","type":"Journal Articles","key":"journals/dke/LiuADY18","doi":"10.1016/J.DATAK.2018.04.002","ee":"https://doi.org/10.1016/j.datak.2018.04.002","url":"https://dblp.org/rec/journals/dke/LiuADY18"},
+"url":"URL#821371"
+},
+{
+"@score":"1",
+"@id":"821374",
+"info":{"authors":{"author":[{"@pid":"82/6187","text":"Jianfeng Lu"},{"@pid":"86/3608","text":"Haifeng Yan"},{"@pid":"78/5448-1","text":"Yubo Yuan 0001"}]},"title":"A novel representation in three-dimensions for high dimensional data sets.","venue":"Data Knowl. Eng.","volume":"117","pages":"37-52","year":"2018","type":"Journal Articles","key":"journals/dke/LuYY18","doi":"10.1016/J.DATAK.2018.07.001","ee":"https://doi.org/10.1016/j.datak.2018.07.001","url":"https://dblp.org/rec/journals/dke/LuYY18"},
+"url":"URL#821374"
+},
+{
+"@score":"1",
+"@id":"821381",
+"info":{"authors":{"author":[{"@pid":"16/7432","text":"Soroosh Nalchigar"},{"@pid":"33/5374","text":"Eric S. K. Yu"}]},"title":"Business-driven data analytics - A conceptual modeling framework.","venue":"Data Knowl. Eng.","volume":"117","pages":"359-372","year":"2018","type":"Journal Articles","key":"journals/dke/NalchigarY18","doi":"10.1016/J.DATAK.2018.04.006","ee":"https://doi.org/10.1016/j.datak.2018.04.006","url":"https://dblp.org/rec/journals/dke/NalchigarY18"},
+"url":"URL#821381"
+},
+{
+"@score":"1",
+"@id":"821382",
+"info":{"authors":{"author":[{"@pid":"14/4787","text":"Fernando Buarque de Lima Neto"},{"@pid":"163/8030","text":"Denis Mayr Lima Martins"},{"@pid":"v/GottfriedVossen","text":"Gottfried Vossen"}]},"title":"A semiotic-inspired machine for personalized multi-criteria intelligent decision support.","venue":"Data Knowl. Eng.","volume":"117","pages":"225-238","year":"2018","type":"Journal Articles","key":"journals/dke/NetoMV18","doi":"10.1016/J.DATAK.2018.07.012","ee":"https://doi.org/10.1016/j.datak.2018.07.012","url":"https://dblp.org/rec/journals/dke/NetoMV18"},
+"url":"URL#821382"
+},
+{
+"@score":"1",
+"@id":"821387",
+"info":{"authors":{"author":[{"@pid":"142/5717","text":"Alain Perez"},{"@pid":"67/9016","text":"Rosa Basagoiti"},{"@pid":"228/6484","text":"Ronny Adalberto Cortez"},{"@pid":"142/5719","text":"Felix Larrinaga"},{"@pid":"228/6371","text":"Ekaitz Barrasa"},{"@pid":"72/3347","text":"Ainara Urrutia"}]},"title":"A case study on the use of machine learning techniques for supporting technology watch.","venue":"Data Knowl. Eng.","volume":"117","pages":"239-251","year":"2018","type":"Journal Articles","key":"journals/dke/PerezBCLBU18","doi":"10.1016/J.DATAK.2018.08.001","ee":"https://doi.org/10.1016/j.datak.2018.08.001","url":"https://dblp.org/rec/journals/dke/PerezBCLBU18"},
+"url":"URL#821387"
+},
+{
+"@score":"1",
+"@id":"821391",
+"info":{"authors":{"author":[{"@pid":"58/8397","text":"Tania Roblot"},{"@pid":"l/SebastianLink","text":"Sebastian Link"}]},"title":"Cardinality constraints and functional dependencies over possibilistic data.","venue":"Data Knowl. Eng.","volume":"117","pages":"339-358","year":"2018","type":"Journal Articles","key":"journals/dke/RoblotL18","doi":"10.1016/J.DATAK.2018.04.005","ee":"https://doi.org/10.1016/j.datak.2018.04.005","url":"https://dblp.org/rec/journals/dke/RoblotL18"},
+"url":"URL#821391"
+},
+{
+"@score":"1",
+"@id":"821392",
+"info":{"authors":{"author":{"@pid":"s/PatrickSaintDizier","text":"Patrick Saint-Dizier"}},"title":"Mining incoherent requirements in technical specifications - Analysis and implementation.","venue":"Data Knowl. Eng.","volume":"117","pages":"290-306","year":"2018","type":"Journal Articles","key":"journals/dke/Saint-Dizier18","doi":"10.1016/J.DATAK.2018.05.006","ee":"https://doi.org/10.1016/j.datak.2018.05.006","url":"https://dblp.org/rec/journals/dke/Saint-Dizier18"},
+"url":"URL#821392"
+},
+{
+"@score":"1",
+"@id":"821395",
+"info":{"authors":{"author":[{"@pid":"163/9954","text":"Alsane Sene"},{"@pid":"121/5532","text":"Bernard Kamsu-Foguem"},{"@pid":"27/7191","text":"Pierre Rumeau"}]},"title":"Data mining for decision support with uncertainty on the airplane.","venue":"Data Knowl. Eng.","volume":"117","pages":"18-36","year":"2018","type":"Journal Articles","key":"journals/dke/SeneKR18","doi":"10.1016/J.DATAK.2018.06.002","ee":"https://doi.org/10.1016/j.datak.2018.06.002","url":"https://dblp.org/rec/journals/dke/SeneKR18"},
+"url":"URL#821395"
+},
+{
+"@score":"1",
+"@id":"821396",
+"info":{"authors":{"author":[{"@pid":"185/0434","text":"Leen Sevens"},{"@pid":"31/5451","text":"Vincent Vandeghinste"},{"@pid":"66/4229","text":"Ineke Schuurman"},{"@pid":"v/FrankVanEynde","text":"Frank Van Eynde"}]},"title":"Less is more - A rule-based syntactic simplification module for improved text-to-pictograph translation.","venue":"Data Knowl. Eng.","volume":"117","pages":"264-289","year":"2018","type":"Journal Articles","key":"journals/dke/SevensVSE18","doi":"10.1016/J.DATAK.2018.05.001","ee":"https://doi.org/10.1016/j.datak.2018.05.001","url":"https://dblp.org/rec/journals/dke/SevensVSE18"},
+"url":"URL#821396"
+},
+{
+"@score":"1",
+"@id":"821399",
+"info":{"authors":{"author":[{"@pid":"82/4336","text":"Joe Tekli"},{"@pid":"c/RichardChbeir","text":"Richard Chbeir"},{"@pid":"t/AgmaJMTraina","text":"Agma J. M. Traina"},{"@pid":"t/CaetanoTrainaJr","text":"Caetano Traina"},{"@pid":"27/3959","text":"Kokou Yétongnon"},{"@pid":"150/7836","text":"Carlos Raymundo Ibañez"},{"@pid":"150/7850","text":"Marc Al Assad"},{"@pid":"226/4651","text":"Christian Kallas"}]},"title":"Full-fledged semantic indexing and querying model designed for seamless integration in legacy RDBMS.","venue":"Data Knowl. Eng.","volume":"117","pages":"133-173","year":"2018","type":"Journal Articles","key":"journals/dke/TekliCTTYIAK18","doi":"10.1016/J.DATAK.2018.07.007","ee":"https://doi.org/10.1016/j.datak.2018.07.007","url":"https://dblp.org/rec/journals/dke/TekliCTTYIAK18"},
+"url":"URL#821399"
+},
+{
+"@score":"1",
+"@id":"821400",
+"info":{"authors":{"author":[{"@pid":"120/9052","text":"Yuchai Wan"},{"@pid":"91/4408","text":"Xiabi Liu"},{"@pid":"44/3684-15","text":"Yi Wu 0015"},{"@pid":"152/8055","text":"Lunhao Guo"},{"@pid":"00/536","text":"Qiming Chen"},{"@pid":"202/1075","text":"Murong Wang"}]},"title":"ICGT - A novel incremental clustering approach based on GMM tree.","venue":"Data Knowl. Eng.","volume":"117","pages":"71-86","year":"2018","type":"Journal Articles","key":"journals/dke/WanLWGCW18","doi":"10.1016/J.DATAK.2018.07.003","ee":"https://doi.org/10.1016/j.datak.2018.07.003","url":"https://dblp.org/rec/journals/dke/WanLWGCW18"},
+"url":"URL#821400"
+},
+{
+"@score":"1",
+"@id":"821401",
+"info":{"authors":{"author":[{"@pid":"99/10439","text":"Niwan Wattanakitrungroj"},{"@pid":"66/1275","text":"Saranya Maneeroj"},{"@pid":"18/6886","text":"Chidchanok Lursinsap"}]},"title":"BEstream - Batch Capturing with Elliptic Function for One-Pass Data Stream Clustering.","venue":"Data Knowl. Eng.","volume":"117","pages":"53-70","year":"2018","type":"Journal Articles","key":"journals/dke/Wattanakitrungroj18","doi":"10.1016/J.DATAK.2018.07.002","ee":"https://doi.org/10.1016/j.datak.2018.07.002","url":"https://dblp.org/rec/journals/dke/Wattanakitrungroj18"},
+"url":"URL#821401"
+},
+{
+"@score":"1",
+"@id":"821402",
+"info":{"authors":{"author":[{"@pid":"139/4710","text":"Lydia Weiland"},{"@pid":"27/8296","text":"Ioana Hulpus"},{"@pid":"04/2532","text":"Simone Paolo Ponzetto"},{"@pid":"e/WEffelsberg","text":"Wolfgang Effelsberg"},{"@pid":"85/5754","text":"Laura Dietz"}]},"title":"Knowledge-rich image gist understanding beyond literal meaning.","venue":"Data Knowl. Eng.","volume":"117","pages":"114-132","year":"2018","type":"Journal Articles","key":"journals/dke/WeilandHPED18","doi":"10.1016/J.DATAK.2018.07.006","ee":"https://doi.org/10.1016/j.datak.2018.07.006","url":"https://dblp.org/rec/journals/dke/WeilandHPED18"},
+"url":"URL#821402"
+},
+{
+"@score":"1",
+"@id":"821403",
+"info":{"authors":{"author":[{"@pid":"50/2924","text":"Zongxia Xie"},{"@pid":"07/4630","text":"Yong Xu"},{"@pid":"30/2395","text":"Qinghua Hu"}]},"title":"Uncertain data classification with additive kernel support vector machine.","venue":"Data Knowl. Eng.","volume":"117","pages":"87-97","year":"2018","type":"Journal Articles","key":"journals/dke/XieXH18","doi":"10.1016/J.DATAK.2018.07.004","ee":"https://doi.org/10.1016/j.datak.2018.07.004","url":"https://dblp.org/rec/journals/dke/XieXH18"},
+"url":"URL#821403"
+},
+{
+"@score":"1",
+"@id":"821405",
+"info":{"authors":{"author":[{"@pid":"61/3088","text":"Nicola Zeni"},{"@pid":"188/9678","text":"Elias A. Seid"},{"@pid":"28/9579","text":"Priscila Engiel"},{"@pid":"m/JohnMylopoulos","text":"John Mylopoulos"}]},"title":"NómosT - Building large models of law with a tool-supported process.","venue":"Data Knowl. Eng.","volume":"117","pages":"407-418","year":"2018","type":"Journal Articles","key":"journals/dke/ZeniSEM18","doi":"10.1016/J.DATAK.2018.04.009","ee":"https://doi.org/10.1016/j.datak.2018.04.009","url":"https://dblp.org/rec/journals/dke/ZeniSEM18"},
+"url":"URL#821405"
+},
+{
+"@score":"1",
+"@id":"821406",
+"info":{"authors":{"author":[{"@pid":"50/2082","text":"Yang Zhao"},{"@pid":"85/7634-1","text":"Xiaoyu Shen 0001"},{"@pid":"38/9768","text":"Hajime Senuma"},{"@pid":"63/1600","text":"Akiko Aizawa"}]},"title":"A comprehensive study - Sentence compression with linguistic knowledge-enhanced gated neural network.","venue":"Data Knowl. Eng.","volume":"117","pages":"307-318","year":"2018","type":"Journal Articles","key":"journals/dke/ZhaoSSA18","doi":"10.1016/J.DATAK.2018.05.007","ee":"https://doi.org/10.1016/j.datak.2018.05.007","url":"https://dblp.org/rec/journals/dke/ZhaoSSA18"},
+"url":"URL#821406"
+},
+{
+"@score":"1",
+"@id":"821407",
+"info":{"authors":{"author":[{"@pid":"73/4535","text":"Hongfang Zhou"},{"@pid":"57/3892","text":"Yao Zhang"},{"@pid":"48/1097","text":"Jin Li"}]},"title":"An overlapping community detection algorithm in complex networks based on information theory.","venue":"Data Knowl. Eng.","volume":"117","pages":"183-194","year":"2018","type":"Journal Articles","key":"journals/dke/ZhouZL18","doi":"10.1016/J.DATAK.2018.07.009","ee":"https://doi.org/10.1016/j.datak.2018.07.009","url":"https://dblp.org/rec/journals/dke/ZhouZL18"},
+"url":"URL#821407"
+}
+]
+}
 }
 }

@@ -1,23 +1,230 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke59\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke59\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.41"
+"text":"137.26"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"33",
+"@dc":"33",
+"@oc":"33",
+"@id":"17615742",
+"text":":facetid:toc:db/journals/dke/dke59.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"33",
+"@computed":"33",
+"@sent":"33",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"3986962",
+"info":{"authors":{"author":[{"@pid":"25/3519","text":"Raman Adaikkalavan"},{"@pid":"c/SChakravarthy","text":"Sharma Chakravarthy"}]},"title":"SnoopIB - Interval-based event specification and detection for active databases.","venue":"Data Knowl. Eng.","volume":"59","number":"1","pages":"139-165","year":"2006","type":"Journal Articles","key":"journals/dke/AdaikkalavanC06","doi":"10.1016/J.DATAK.2005.07.009","ee":"https://doi.org/10.1016/j.datak.2005.07.009","url":"https://dblp.org/rec/journals/dke/AdaikkalavanC06"},
+"url":"URL#3986962"
+},
+{
+"@score":"1",
+"@id":"3986966",
+"info":{"authors":{"author":[{"@pid":"b/ABonifati","text":"Angela Bonifati"},{"@pid":"c/AlfredoCuzzocrea","text":"Alfredo Cuzzocrea"}]},"title":"Storing and retrieving XPath fragments in structured P2P networks.","venue":"Data Knowl. Eng.","volume":"59","number":"2","pages":"247-269","year":"2006","type":"Journal Articles","key":"journals/dke/BonifatiC06","doi":"10.1016/J.DATAK.2006.01.011","ee":"https://doi.org/10.1016/j.datak.2006.01.011","url":"https://dblp.org/rec/journals/dke/BonifatiC06"},
+"url":"URL#3986966"
+},
+{
+"@score":"1",
+"@id":"3986967",
+"info":{"authors":{"author":[{"@pid":"58/576","text":"Shawn Bowers"},{"@pid":"d/LMLDelcambre","text":"Lois M. L. Delcambre"}]},"title":"Using the uni-level description (ULD) to support data-model interoperability.","venue":"Data Knowl. Eng.","volume":"59","number":"3","pages":"511-533","year":"2006","type":"Journal Articles","key":"journals/dke/BowersD06","doi":"10.1016/J.DATAK.2005.10.007","ee":"https://doi.org/10.1016/j.datak.2005.10.007","url":"https://dblp.org/rec/journals/dke/BowersD06"},
+"url":"URL#3986967"
+},
+{
+"@score":"1",
+"@id":"3986970",
+"info":{"authors":{"author":[{"@pid":"c/LingChen2","text":"Ling Chen 0002"},{"@pid":"b/SSBhowmick","text":"Sourav S. Bhowmick"},{"@pid":"05/2952","text":"Liang-Tien Chia"}]},"title":"FRACTURE mining - Mining frequently and concurrently mutating structures from historical XML documents.","venue":"Data Knowl. Eng.","volume":"59","number":"2","pages":"320-347","year":"2006","type":"Journal Articles","key":"journals/dke/ChenBC06","doi":"10.1016/J.DATAK.2005.09.002","ee":"https://doi.org/10.1016/j.datak.2005.09.002","url":"https://dblp.org/rec/journals/dke/ChenBC06"},
+"url":"URL#3986970"
+},
+{
+"@score":"1",
+"@id":"3986972",
+"info":{"authors":{"author":[{"@pid":"16/1091","text":"Qun Chen"},{"@pid":"92/972","text":"Andrew Lim 0001"},{"@pid":"39/1521","text":"Kian Win Ong"},{"@pid":"11/5045","text":"Jiqing Tang"}]},"title":"Indexing XML documents for XPath query processing in external memory.","venue":"Data Knowl. Eng.","volume":"59","number":"3","pages":"681-699","year":"2006","type":"Journal Articles","key":"journals/dke/ChenLOT06a","doi":"10.1016/J.DATAK.2005.11.002","ee":"https://doi.org/10.1016/j.datak.2005.11.002","url":"https://dblp.org/rec/journals/dke/ChenLOT06a"},
+"url":"URL#3986972"
+},
+{
+"@score":"1",
+"@id":"3986973",
+"info":{"authors":{"author":[{"@pid":"c/CarlosIvanChesnevar","text":"Carlos Iván Chesñevar"},{"@pid":"55/2465","text":"Ana Gabriela Maguitman"},{"@pid":"s/GuillermoRicardoSimari","text":"Guillermo Ricardo Simari"}]},"title":"Argument-based critics and recommenders - A qualitative perspective on user support systems.","venue":"Data Knowl. Eng.","volume":"59","number":"2","pages":"293-319","year":"2006","type":"Journal Articles","key":"journals/dke/ChesnevarMS06","doi":"10.1016/J.DATAK.2005.09.005","ee":"https://doi.org/10.1016/j.datak.2005.09.005","url":"https://dblp.org/rec/journals/dke/ChesnevarMS06"},
+"url":"URL#3986973"
+},
+{
+"@score":"1",
+"@id":"3986974",
+"info":{"authors":{"author":[{"@pid":"38/3461","text":"Wonik Choi"},{"@pid":"87/6162","text":"Dongseop Kwon"},{"@pid":"91/5525","text":"Sangjun Lee"}]},"title":"Spatio-temporal data warehouses using an adaptive cell-based approach.","venue":"Data Knowl. Eng.","volume":"59","number":"1","pages":"189-207","year":"2006","type":"Journal Articles","key":"journals/dke/ChoiKL06","doi":"10.1016/J.DATAK.2005.08.001","ee":"https://doi.org/10.1016/j.datak.2005.08.001","url":"https://dblp.org/rec/journals/dke/ChoiKL06"},
+"url":"URL#3986974"
+},
+{
+"@score":"1",
+"@id":"3986976",
+"info":{"authors":{"author":[{"@pid":"55/5031","text":"Bin Cui 0001"},{"@pid":"l/DanLin","text":"Dan Lin 0001"},{"@pid":"t/KianLeeTan","text":"Kian-Lee Tan"}]},"title":"IMPACT - A twin-index framework for efficient moving object query processing.","venue":"Data Knowl. Eng.","volume":"59","number":"1","pages":"63-85","year":"2006","type":"Journal Articles","key":"journals/dke/CuiLT06","doi":"10.1016/J.DATAK.2005.07.008","ee":"https://doi.org/10.1016/j.datak.2005.07.008","url":"https://dblp.org/rec/journals/dke/CuiLT06"},
+"url":"URL#3986976"
+},
+{
+"@score":"1",
+"@id":"3986980",
+"info":{"authors":{"author":[{"@pid":"99/5874","text":"Sergio Flesca"},{"@pid":"91/2642","text":"Filippo Furfaro"},{"@pid":"g/SergioGreco","text":"Sergio Greco"}]},"title":"A graph grammars based framework for querying graph-like data.","venue":"Data Knowl. Eng.","volume":"59","number":"3","pages":"652-680","year":"2006","type":"Journal Articles","key":"journals/dke/FlescaFG06","doi":"10.1016/J.DATAK.2005.11.001","ee":"https://doi.org/10.1016/j.datak.2005.11.001","url":"https://dblp.org/rec/journals/dke/FlescaFG06"},
+"url":"URL#3986980"
+},
+{
+"@score":"1",
+"@id":"3986983",
+"info":{"authors":{"author":[{"@pid":"90/3220","text":"Apostolos Georgakis"},{"@pid":"20/3896-1","text":"Haibo Li 0001"}]},"title":"User behavior modeling and content based speculative web page prefetching.","venue":"Data Knowl. Eng.","volume":"59","number":"3","pages":"770-788","year":"2006","type":"Journal Articles","key":"journals/dke/GeorgakisL06","doi":"10.1016/J.DATAK.2005.11.005","ee":"https://doi.org/10.1016/j.datak.2005.11.005","url":"https://dblp.org/rec/journals/dke/GeorgakisL06"},
+"url":"URL#3986983"
+},
+{
+"@score":"1",
+"@id":"3986985",
+"info":{"authors":{"author":[{"@pid":"g/MatteoGolfarelli","text":"Matteo Golfarelli"},{"@pid":"13/4189","text":"Jens Lechtenbörger"},{"@pid":"75/5487","text":"Stefano Rizzi"},{"@pid":"v/GottfriedVossen","text":"Gottfried Vossen"}]},"title":"Schema versioning in data warehouses - Enabling cross-version querying via schema augmentation.","venue":"Data Knowl. Eng.","volume":"59","number":"2","pages":"435-459","year":"2006","type":"Journal Articles","key":"journals/dke/GolfarelliLRV06","doi":"10.1016/J.DATAK.2005.09.004","ee":"https://doi.org/10.1016/j.datak.2005.09.004","url":"https://dblp.org/rec/journals/dke/GolfarelliLRV06"},
+"url":"URL#3986985"
+},
+{
+"@score":"1",
+"@id":"3986992",
+"info":{"authors":{"author":[{"@pid":"02/2951","text":"Yih-Ling Hedley"},{"@pid":"26/4300","text":"Muhammad Younas 0001"},{"@pid":"61/2973","text":"Anne E. James"},{"@pid":"s/MarkSanderson","text":"Mark Sanderson"}]},"title":"Sampling, information extraction and summarisation of Hidden Web databases.","venue":"Data Knowl. Eng.","volume":"59","number":"2","pages":"213-230","year":"2006","type":"Journal Articles","key":"journals/dke/HedleyYJS06","doi":"10.1016/J.DATAK.2006.01.009","ee":"https://doi.org/10.1016/j.datak.2006.01.009","url":"https://dblp.org/rec/journals/dke/HedleyYJS06"},
+"url":"URL#3986992"
+},
+{
+"@score":"1",
+"@id":"3986994",
+"info":{"authors":{"author":[{"@pid":"h/JMHick","text":"Jean-Marc Hick"},{"@pid":"h/JeanLucHainaut","text":"Jean-Luc Hainaut"}]},"title":"Database application evolution - A transformational approach.","venue":"Data Knowl. Eng.","volume":"59","number":"3","pages":"534-558","year":"2006","type":"Journal Articles","key":"journals/dke/HickH06","doi":"10.1016/J.DATAK.2005.10.003","ee":"https://doi.org/10.1016/j.datak.2005.10.003","url":"https://dblp.org/rec/journals/dke/HickH06"},
+"url":"URL#3986994"
+},
+{
+"@score":"1",
+"@id":"3986997",
+"info":{"authors":{"author":[{"@pid":"23/4530","text":"Anthony Hunter"},{"@pid":"74/551","text":"Rupert Summerton"}]},"title":"Merging news reports that describe events.","venue":"Data Knowl. Eng.","volume":"59","number":"1","pages":"1-24","year":"2006","type":"Journal Articles","key":"journals/dke/HunterS06","doi":"10.1016/J.DATAK.2005.06.005","ee":"https://doi.org/10.1016/j.datak.2005.06.005","url":"https://dblp.org/rec/journals/dke/HunterS06"},
+"url":"URL#3986997"
+},
+{
+"@score":"1",
+"@id":"3987002",
+"info":{"authors":{"author":{"@pid":"k/YannisKotidis","text":"Yannis Kotidis"}},"title":"Extending the data warehouse for service provisioning data.","venue":"Data Knowl. Eng.","volume":"59","number":"3","pages":"700-724","year":"2006","type":"Journal Articles","key":"journals/dke/Kotidis06","doi":"10.1016/J.DATAK.2005.11.003","ee":"https://doi.org/10.1016/j.datak.2005.11.003","url":"https://dblp.org/rec/journals/dke/Kotidis06"},
+"url":"URL#3987002"
+},
+{
+"@score":"1",
+"@id":"3987004",
+"info":{"authors":{"author":[{"@pid":"l/AHFLaender","text":"Alberto H. F. Laender"},{"@pid":"l/DongwonLee","text":"Dongwon Lee 0001"}]},"title":"Sixth ACM International Workshop on Web Information and Data Management (WIDM 2004).","venue":"Data Knowl. Eng.","volume":"59","number":"2","pages":"211-212","year":"2006","type":"Journal Articles","key":"journals/dke/LaenderL06","doi":"10.1016/J.DATAK.2006.02.003","ee":"https://doi.org/10.1016/j.datak.2006.02.003","url":"https://dblp.org/rec/journals/dke/LaenderL06"},
+"url":"URL#3987004"
+},
+{
+"@score":"1",
+"@id":"3987005",
+"info":{"authors":{"author":[{"@pid":"54/3862","text":"Taewon Lee"},{"@pid":"20/6358","text":"Bongki Moon"},{"@pid":"58/2763","text":"Sukho Lee"}]},"title":"Bulk insertion for R-trees by seeded clustering.","venue":"Data Knowl. Eng.","volume":"59","number":"1","pages":"86-106","year":"2006","type":"Journal Articles","key":"journals/dke/LeeML06","doi":"10.1016/J.DATAK.2005.07.011","ee":"https://doi.org/10.1016/j.datak.2005.07.011","url":"https://dblp.org/rec/journals/dke/LeeML06"},
+"url":"URL#3987005"
+},
+{
+"@score":"1",
+"@id":"3987006",
+"info":{"authors":{"author":[{"@pid":"l/ErwinLeonardi","text":"Erwin Leonardi"},{"@pid":"b/SSBhowmick","text":"Sourav S. Bhowmick"}]},"title":"Xandy - A scalable change detection technique for ordered XML documents using relational databases.","venue":"Data Knowl. Eng.","volume":"59","number":"2","pages":"476-507","year":"2006","type":"Journal Articles","key":"journals/dke/LeonardiB06","doi":"10.1016/J.DATAK.2005.06.006","ee":"https://doi.org/10.1016/j.datak.2005.06.006","url":"https://dblp.org/rec/journals/dke/LeonardiB06"},
+"url":"URL#3987006"
+},
+{
+"@score":"1",
+"@id":"3987007",
+"info":{"authors":{"author":[{"@pid":"07/706","text":"Hongyu Liu"},{"@pid":"j/JCMJanssen","text":"Jeannette C. M. Janssen"},{"@pid":"m/EvangelosEMilios","text":"Evangelos E. Milios"}]},"title":"Using HMM to learn user browsing patterns for focused Web crawling.","venue":"Data Knowl. Eng.","volume":"59","number":"2","pages":"270-291","year":"2006","type":"Journal Articles","key":"journals/dke/LiuJM06","doi":"10.1016/J.DATAK.2006.01.012","ee":"https://doi.org/10.1016/j.datak.2006.01.012","url":"https://dblp.org/rec/journals/dke/LiuJM06"},
+"url":"URL#3987007"
+},
+{
+"@score":"1",
+"@id":"3987009",
+"info":{"authors":{"author":[{"@pid":"20/195","text":"Yiyao Lu"},{"@pid":"78/4833","text":"Hai He"},{"@pid":"67/6523","text":"Qian Peng"},{"@pid":"m/WeiyiMeng","text":"Weiyi Meng"},{"@pid":"y/ClementTYu","text":"Clement T. Yu"}]},"title":"Clustering e-commerce search engines based on their search interface pages using WISE-Cluster.","venue":"Data Knowl. Eng.","volume":"59","number":"2","pages":"231-246","year":"2006","type":"Journal Articles","key":"journals/dke/LuHPMY06","doi":"10.1016/J.DATAK.2006.01.010","ee":"https://doi.org/10.1016/j.datak.2006.01.010","url":"https://dblp.org/rec/journals/dke/LuHPMY06"},
+"url":"URL#3987009"
+},
+{
+"@score":"1",
+"@id":"3987010",
+"info":{"authors":{"author":[{"@pid":"l/SLujanMora","text":"Sergio Luján-Mora"},{"@pid":"50/2311","text":"Juan Trujillo"},{"@pid":"s/IlYeolSong","text":"Il-Yeol Song"}]},"title":"A UML profile for multidimensional modeling in data warehouses.","venue":"Data Knowl. Eng.","volume":"59","number":"3","pages":"725-769","year":"2006","type":"Journal Articles","key":"journals/dke/Lujan-MoraTS06","doi":"10.1016/J.DATAK.2005.11.004","ee":"https://doi.org/10.1016/j.datak.2005.11.004","url":"https://dblp.org/rec/journals/dke/Lujan-MoraTS06"},
+"url":"URL#3987010"
+},
+{
+"@score":"1",
+"@id":"3987012",
+"info":{"authors":{"author":[{"@pid":"m/StuartEMadnick","text":"Stuart E. Madnick"},{"@pid":"z/HongweiZhu2","text":"Hongwei Zhu 0002"}]},"title":"Improving data quality through effective use of data semantics.","venue":"Data Knowl. Eng.","volume":"59","number":"2","pages":"460-475","year":"2006","type":"Journal Articles","key":"journals/dke/MadnickZ06","doi":"10.1016/J.DATAK.2005.10.001","ee":"https://doi.org/10.1016/j.datak.2005.10.001","url":"https://dblp.org/rec/journals/dke/MadnickZ06"},
+"url":"URL#3987012"
+},
+{
+"@score":"1",
+"@id":"3987013",
+"info":{"authors":{"author":[{"@pid":"34/5969","text":"Matteo Magnani"},{"@pid":"69/5578","text":"Danilo Montesi"}]},"title":"A unified approach to structured and XML data modeling and manipulation.","venue":"Data Knowl. Eng.","volume":"59","number":"1","pages":"25-62","year":"2006","type":"Journal Articles","key":"journals/dke/MagnaniM06","doi":"10.1016/J.DATAK.2005.06.004","ee":"https://doi.org/10.1016/j.datak.2005.06.004","url":"https://dblp.org/rec/journals/dke/MagnaniM06"},
+"url":"URL#3987013"
+},
+{
+"@score":"1",
+"@id":"3987014",
+"info":{"authors":{"author":[{"@pid":"46/6017","text":"Elzbieta Malinowski"},{"@pid":"82/2871","text":"Esteban Zimányi"}]},"title":"Hierarchies in a multidimensional model - From conceptual modeling to logical representation.","venue":"Data Knowl. Eng.","volume":"59","number":"2","pages":"348-377","year":"2006","type":"Journal Articles","key":"journals/dke/MalinowskiZ06","doi":"10.1016/J.DATAK.2005.08.003","ee":"https://doi.org/10.1016/j.datak.2005.08.003","url":"https://dblp.org/rec/journals/dke/MalinowskiZ06"},
+"url":"URL#3987014"
+},
+{
+"@score":"1",
+"@id":"3987017",
+"info":{"authors":{"author":{"@pid":"89/4942","text":"Antoni Olivé"}},"title":"A method for the definition of integrity constraints in object-oriented conceptual modeling languages.","venue":"Data Knowl. Eng.","volume":"59","number":"3","pages":"559-575","year":"2006","type":"Journal Articles","key":"journals/dke/Olive06","doi":"10.1016/J.DATAK.2005.10.006","ee":"https://doi.org/10.1016/j.datak.2005.10.006","url":"https://dblp.org/rec/journals/dke/Olive06"},
+"url":"URL#3987017"
+},
+{
+"@score":"1",
+"@id":"3987019",
+"info":{"authors":{"author":[{"@pid":"03/4278","text":"Nikos Papadakis"},{"@pid":"a/GrigorisAntoniou","text":"Grigoris Antoniou"},{"@pid":"89/6058","text":"Dimitris Plexousakis"}]},"title":"The ramification problem in temporal databases - Changing beliefs about the past.","venue":"Data Knowl. Eng.","volume":"59","number":"2","pages":"397-434","year":"2006","type":"Journal Articles","key":"journals/dke/PapadakisAP06","doi":"10.1016/J.DATAK.2005.09.003","ee":"https://doi.org/10.1016/j.datak.2005.09.003","url":"https://dblp.org/rec/journals/dke/PapadakisAP06"},
+"url":"URL#3987019"
+},
+{
+"@score":"1",
+"@id":"3987021",
+"info":{"authors":{"author":[{"@pid":"86/1480","text":"Giuseppe Della Penna"},{"@pid":"m/AntiniscaDiMarco","text":"Antinisca Di Marco"},{"@pid":"94/5360","text":"Benedetto Intrigila"},{"@pid":"40/4422","text":"Igor Melatti"},{"@pid":"p/AlfonsoPierantonio","text":"Alfonso Pierantonio"}]},"title":"Interoperability mapping from XML schemas to ER diagrams.","venue":"Data Knowl. Eng.","volume":"59","number":"1","pages":"166-188","year":"2006","type":"Journal Articles","key":"journals/dke/PennaMIMP06","doi":"10.1016/J.DATAK.2005.08.002","ee":"https://doi.org/10.1016/j.datak.2005.08.002","url":"https://dblp.org/rec/journals/dke/PennaMIMP06"},
+"url":"URL#3987021"
+},
+{
+"@score":"1",
+"@id":"3987023",
+"info":{"authors":{"author":[{"@pid":"98/2538","text":"Carsten Pontow"},{"@pid":"34/3185","text":"Rainer Schubert"}]},"title":"A mathematical analysis of theories of parthood.","venue":"Data Knowl. Eng.","volume":"59","number":"1","pages":"107-138","year":"2006","type":"Journal Articles","key":"journals/dke/PontowS06","doi":"10.1016/J.DATAK.2005.07.010","ee":"https://doi.org/10.1016/j.datak.2005.07.010","url":"https://dblp.org/rec/journals/dke/PontowS06"},
+"url":"URL#3987023"
+},
+{
+"@score":"1",
+"@id":"3987026",
+"info":{"authors":{"author":[{"@pid":"72/3649","text":"Boris Rozenberg"},{"@pid":"g/EhudGudes","text":"Ehud Gudes"}]},"title":"Association rules mining in vertically partitioned databases.","venue":"Data Knowl. Eng.","volume":"59","number":"2","pages":"378-396","year":"2006","type":"Journal Articles","key":"journals/dke/RozenbergG06","doi":"10.1016/J.DATAK.2005.09.001","ee":"https://doi.org/10.1016/j.datak.2005.09.001","url":"https://dblp.org/rec/journals/dke/RozenbergG06"},
+"url":"URL#3987026"
+},
+{
+"@score":"1",
+"@id":"3987030",
+"info":{"authors":{"author":[{"@pid":"s/IlYeolSong","text":"Il-Yeol Song"},{"@pid":"l/StephenWLiddle","text":"Stephen W. Liddle"},{"@pid":"l/TokWangLing","text":"Tok Wang Ling"}]},"title":"Twenty Second International Conference on Conceptual Modeling (ER 2003).","venue":"Data Knowl. Eng.","volume":"59","number":"3","pages":"509-510","year":"2006","type":"Journal Articles","key":"journals/dke/SongLL06","doi":"10.1016/J.DATAK.2005.10.005","ee":"https://doi.org/10.1016/j.datak.2005.10.005","url":"https://dblp.org/rec/journals/dke/SongLL06"},
+"url":"URL#3987030"
+},
+{
+"@score":"1",
+"@id":"3987033",
+"info":{"authors":{"author":[{"@pid":"37/4431","text":"Hong Su"},{"@pid":"r/EARundensteiner","text":"Elke A. Rundensteiner"},{"@pid":"m/MuraliMani","text":"Murali Mani"}]},"title":"Automaton meets algebra - A hybrid paradigm for XML stream processing.","venue":"Data Knowl. Eng.","volume":"59","number":"3","pages":"576-602","year":"2006","type":"Journal Articles","key":"journals/dke/SuRM06","doi":"10.1016/J.DATAK.2005.10.008","ee":"https://doi.org/10.1016/j.datak.2005.10.008","url":"https://dblp.org/rec/journals/dke/SuRM06"},
+"url":"URL#3987033"
+},
+{
+"@score":"1",
+"@id":"3987036",
+"info":{"authors":{"author":[{"@pid":"98/914","text":"Hong Yao"},{"@pid":"h/HowardJHamilton","text":"Howard J. Hamilton"}]},"title":"Mining itemset utilities from transaction databases.","venue":"Data Knowl. Eng.","volume":"59","number":"3","pages":"603-626","year":"2006","type":"Journal Articles","key":"journals/dke/YaoH06","doi":"10.1016/J.DATAK.2005.10.004","ee":"https://doi.org/10.1016/j.datak.2005.10.004","url":"https://dblp.org/rec/journals/dke/YaoH06"},
+"url":"URL#3987036"
+},
+{
+"@score":"1",
+"@id":"3987037",
+"info":{"authors":{"author":[{"@pid":"64/1081","text":"Qiankun Zhao"},{"@pid":"c/LingChen2","text":"Ling Chen 0002"},{"@pid":"b/SSBhowmick","text":"Sourav S. Bhowmick"},{"@pid":"m/SanjayKumarMadria","text":"Sanjay Kumar Madria"}]},"title":"XML structural delta mining - Issues and challenges.","venue":"Data Knowl. Eng.","volume":"59","number":"3","pages":"627-651","year":"2006","type":"Journal Articles","key":"journals/dke/ZhaoCBM06","doi":"10.1016/J.DATAK.2005.10.002","ee":"https://doi.org/10.1016/j.datak.2005.10.002","url":"https://dblp.org/rec/journals/dke/ZhaoCBM06"},
+"url":"URL#3987037"
+}
+]
+}
 }
 }

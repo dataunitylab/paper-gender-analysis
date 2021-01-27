@@ -1,23 +1,104 @@
 {
 "result":{
-"query":":facetid:toc:db\"/\"conf\"/\"dke\"/\"dke9\".\"bht",
+"query":":facetid:toc:db\"/\"journals\"/\"dke\"/\"dke9\".\"bht",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.47"
+"text":"111.74"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"12",
+"@dc":"12",
+"@oc":"12",
+"@id":"17615772",
+"text":":facetid:toc:db/journals/dke/dke9.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"12",
+"@computed":"12",
+"@sent":"12",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"5116217",
+"info":{"authors":{"author":[{"@pid":"h/AHeuer","text":"Andreas Heuer 0001"},{"@pid":"03/6046","text":"Peter Sander"}]},"title":"The LIVING IN A LATTICE rule language.","venue":"Data Knowl. Eng.","volume":"9","pages":"249-286","year":"1993","type":"Journal Articles","key":"journals/dke/HeuerS93","doi":"10.1016/0169-023X(93)90010-M","ee":"https://doi.org/10.1016/0169-023X(93)90010-M","url":"https://dblp.org/rec/journals/dke/HeuerS93"},
+"url":"URL#5116217"
+},
+{
+"@score":"1",
+"@id":"5116221",
+"info":{"authors":{"author":{"@pid":"65/919","text":"Hannu Kangassalo"}},"title":"COMIC - A system and methodology for conceptual modelling and information construction.","venue":"Data Knowl. Eng.","volume":"9","pages":"287-319","year":"1993","type":"Journal Articles","key":"journals/dke/Kangassalo93","doi":"10.1016/0169-023X(93)90011-D","ee":"https://doi.org/10.1016/0169-023X(93)90011-D","url":"https://dblp.org/rec/journals/dke/Kangassalo93"},
+"url":"URL#5116221"
+},
+{
+"@score":"1",
+"@id":"5116226",
+"info":{"authors":{"author":[{"@pid":"29/1358","text":"Nelson Mendonça Mattos"},{"@pid":"m/KMeyerWegener","text":"Klaus Meyer-Wegener"},{"@pid":"m/BMitschang","text":"Bernhard Mitschang"}]},"title":"Grand tour of concepts for object-orientation from a database point of view.","venue":"Data Knowl. Eng.","volume":"9","pages":"321-352","year":"1993","type":"Journal Articles","key":"journals/dke/MattosMM93","doi":"10.1016/0169-023X(93)90012-E","ee":"https://doi.org/10.1016/0169-023X(93)90012-E","url":"https://dblp.org/rec/journals/dke/MattosMM93"},
+"url":"URL#5116226"
+},
+{
+"@score":"1",
+"@id":"5155313",
+"info":{"authors":{"author":[{"@pid":"b/ElisaBertino","text":"Elisa Bertino"},{"@pid":"m/DanielaMusto","text":"Daniela Musto"}]},"title":"Query optimization by using knowledge about data semantics.","venue":"Data Knowl. Eng.","volume":"9","pages":"121-155","year":"1992","type":"Journal Articles","key":"journals/dke/BertinoM92","doi":"10.1016/0169-023X(92)90007-X","ee":"https://doi.org/10.1016/0169-023X(92)90007-X","url":"https://dblp.org/rec/journals/dke/BertinoM92"},
+"url":"URL#5155313"
+},
+{
+"@score":"1",
+"@id":"5155318",
+"info":{"authors":{"author":[{"@pid":"e/GregorEngels","text":"Gregor Engels"},{"@pid":"g/MartinGogolla","text":"Martin Gogolla"},{"@pid":"90/4541","text":"Uwe Hohenstein"},{"@pid":"76/1968","text":"Klaus Hülsmann"},{"@pid":"l/PerditaLohr","text":"Perdita Löhr-Richter"},{"@pid":"s/GunterSaake","text":"Gunter Saake"},{"@pid":"e/HDEhrich","text":"Hans-Dieter Ehrich"}]},"title":"Conceptual modelling of database applications using extended ER model.","venue":"Data Knowl. Eng.","volume":"9","pages":"157-204","year":"1992","type":"Journal Articles","key":"journals/dke/EngelsGHHLSE92","doi":"10.1016/0169-023X(92)90008-Y","ee":"https://doi.org/10.1016/0169-023X(92)90008-Y","url":"https://dblp.org/rec/journals/dke/EngelsGHHLSE92"},
+"url":"URL#5155318"
+},
+{
+"@score":"1",
+"@id":"5155319",
+"info":{"authors":{"author":[{"@pid":"g/BrianRGaines","text":"Brian R. Gaines"},{"@pid":"69/1435","text":"Alain T. Rappaport"},{"@pid":"31/116","text":"Mildred L. G. Shaw"}]},"title":"Combining paradigms in knowledge engineering.","venue":"Data Knowl. Eng.","volume":"9","pages":"1-18","year":"1992","type":"Journal Articles","key":"journals/dke/GainesRS92","doi":"10.1016/0169-023X(92)90015-4","ee":"https://doi.org/10.1016/0169-023X(92)90015-4","url":"https://dblp.org/rec/journals/dke/GainesRS92"},
+"url":"URL#5155319"
+},
+{
+"@score":"1",
+"@id":"5155323",
+"info":{"authors":{"author":[{"@pid":"28/926","text":"Takao Miura"},{"@pid":"94/6650","text":"Kunihiko Moriya"}]},"title":"On the completeness of visual operations for a semantic data model.","venue":"Data Knowl. Eng.","volume":"9","pages":"19-44","year":"1992","type":"Journal Articles","key":"journals/dke/MiuraM92","doi":"10.1016/0169-023X(92)90016-5","ee":"https://doi.org/10.1016/0169-023X(92)90016-5","url":"https://dblp.org/rec/journals/dke/MiuraM92"},
+"url":"URL#5155323"
+},
+{
+"@score":"1",
+"@id":"5155324",
+"info":{"authors":{"author":[{"@pid":"13/5696","text":"David E. Monarchi"},{"@pid":"56/6988","text":"James R. Smith"}]},"title":"The representation of rules in the ER model.","venue":"Data Knowl. Eng.","volume":"9","pages":"45-61","year":"1992","type":"Journal Articles","key":"journals/dke/MonarchiS92","doi":"10.1016/0169-023X(92)90017-6","ee":"https://doi.org/10.1016/0169-023X(92)90017-6","url":"https://dblp.org/rec/journals/dke/MonarchiS92"},
+"url":"URL#5155324"
+},
+{
+"@score":"1",
+"@id":"5155329",
+"info":{"authors":{"author":[{"@pid":"04/289","text":"Arnold Rochfeld"},{"@pid":"99/4421","text":"Pascal Negros"}]},"title":"Relationship of relationships and other inter-relationship links in E-R model.","venue":"Data Knowl. Eng.","volume":"9","pages":"205-221","year":"1992","type":"Journal Articles","key":"journals/dke/RochfeldN92","doi":"10.1016/0169-023X(92)90009-Z","ee":"https://doi.org/10.1016/0169-023X(92)90009-Z","url":"https://dblp.org/rec/journals/dke/RochfeldN92"},
+"url":"URL#5155329"
+},
+{
+"@score":"1",
+"@id":"5155332",
+"info":{"authors":{"author":[{"@pid":"33/2694","text":"Wouter B. Teeuw"},{"@pid":"32/6205","text":"Henk M. Blanken"}]},"title":"Joining distributed complex objects - Definition and performance.","venue":"Data Knowl. Eng.","volume":"9","pages":"63-96","year":"1992","type":"Journal Articles","key":"journals/dke/TeeuwB92","doi":"10.1016/0169-023X(92)90018-7","ee":"https://doi.org/10.1016/0169-023X(92)90018-7","url":"https://dblp.org/rec/journals/dke/TeeuwB92"},
+"url":"URL#5155332"
+},
+{
+"@score":"1",
+"@id":"5155333",
+"info":{"authors":{"author":[{"@pid":"58/4789","text":"Frank S. C. Tsen"},{"@pid":"c/ALPChen","text":"Arbee L. P. Chen"},{"@pid":"20/5454","text":"Wei-Pang Yang"}]},"title":"On mapping natural language constructs into relational algebra through E-R representation.","venue":"Data Knowl. Eng.","volume":"9","pages":"97-118","year":"1992","type":"Journal Articles","key":"journals/dke/TsenCY92","doi":"10.1016/0169-023X(92)90019-8","ee":"https://doi.org/10.1016/0169-023X(92)90019-8","url":"https://dblp.org/rec/journals/dke/TsenCY92"},
+"url":"URL#5155333"
+},
+{
+"@score":"1",
+"@id":"5155336",
+"info":{"authors":{"author":[{"@pid":"57/2920","text":"Song Bong Yoo"},{"@pid":"39/7011","text":"Minjae Yu"},{"@pid":"s/PCYSheu","text":"Phillip C.-Y. Sheu"}]},"title":"Concurrency control in deductive databases and object bases.","venue":"Data Knowl. Eng.","volume":"9","pages":"223-240","year":"1992","type":"Journal Articles","key":"journals/dke/YooYS92","doi":"10.1016/0169-023X(92)90010-9","ee":"https://doi.org/10.1016/0169-023X(92)90010-9","url":"https://dblp.org/rec/journals/dke/YooYS92"},
+"url":"URL#5155336"
+}
+]
+}
 }
 }
