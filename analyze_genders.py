@@ -231,6 +231,10 @@ def main():
     plot_authors(aggregates['last'], 'last author', save=True, header=False)
 
     df = dataframe()
+
+    # Remove conferences not in CS Rankings
+    df = df[~df['conf'].isin(['EDBT', 'CIDR'])]
+
     aggregates = aggregate_authorship(df, group_attrs=['field', 'year'], funcs={'any': _any_female_author})
     plot_authors(aggregates['any'], 'any position', save='fields', header=False)
 

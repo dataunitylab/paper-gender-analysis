@@ -77,6 +77,8 @@ function get_dblp_json() {
 }
 
 ### DB ###
+# XXX Any conferences added here should be removed when
+#     comparing fields to match the CS Rankings list
 
 get_dblp_json -f db -t conf -k cidr -s 2003 -e 2020 -n 2
 
