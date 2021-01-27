@@ -147,7 +147,7 @@ get_dblp_json -f HCI -t conf -g huc -k ubicomp -s 2001 -e 2019
 
 get_dblp_json -f HCI -t conf -k pervasive -s 2002 -e 2012
 
-get_dblp_json -f HCI -t conf -k imwut -s 1 -e 4 -o 2016
+get_dblp_json -f HCI -t journals -k imwut -s 1 -e 4 -o 2016
 
 ### Networking ###
 
