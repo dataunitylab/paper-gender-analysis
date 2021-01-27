@@ -1,0 +1,296 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"focs\"/\"focs79\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"114.56"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"44",
+"@dc":"44",
+"@oc":"44",
+"@id":"17573958",
+"text":":facetid:toc:db/conf/focs/focs79.bht"
+}
+},
+"hits":{
+"@total":"44",
+"@computed":"44",
+"@sent":"44",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"5380351",
+"info":{"authors":{"author":{"@pid":"a/LeonardMAdleman","text":"Leonard M. Adleman"}},"title":"A Subexponential Algorithm for the Discrete Logarithm Problem with Applications to Cryptography (Abstract)","venue":"FOCS","pages":"55-60","year":"1979","type":"Conference and Workshop Papers","key":"conf/focs/Adleman79","doi":"10.1109/SFCS.1979.2","ee":"https://doi.org/10.1109/SFCS.1979.2","url":"https://dblp.org/rec/conf/focs/Adleman79"},
+"url":"URL#5380351"
+},
+{
+"@score":"1",
+"@id":"5380352",
+"info":{"authors":{"author":[{"@pid":"a/LeonardMAdleman","text":"Leonard M. Adleman"},{"@pid":"83/5849","text":"Kenneth L. Manders"}]},"title":"Reductions that Lie","venue":"FOCS","pages":"397-410","year":"1979","type":"Conference and Workshop Papers","key":"conf/focs/AdlemanM79","doi":"10.1109/SFCS.1979.35","ee":"https://doi.org/10.1109/SFCS.1979.35","url":"https://dblp.org/rec/conf/focs/AdlemanM79"},
+"url":"URL#5380352"
+},
+{
+"@score":"1",
+"@id":"5380353",
+"info":{"authors":{"author":[{"@pid":"a/AVAho","text":"Alfred V. Aho"},{"@pid":"u/JeffreyDUllman","text":"Jeffrey D. Ullman"},{"@pid":"y/MihalisYannakakis","text":"Mihalis Yannakakis"}]},"title":"Modeling Communications Protocols by Automata","venue":"FOCS","pages":"267-273","year":"1979","type":"Conference and Workshop Papers","key":"conf/focs/AhoUY79","doi":"10.1109/SFCS.1979.23","ee":"https://doi.org/10.1109/SFCS.1979.23","url":"https://dblp.org/rec/conf/focs/AhoUY79"},
+"url":"URL#5380353"
+},
+{
+"@score":"1",
+"@id":"5380354",
+"info":{"authors":{"author":[{"@pid":"00/5404","text":"Romas Aleliunas"},{"@pid":"k/RichardMKarp","text":"Richard M. Karp"},{"@pid":"l/RichardJLipton","text":"Richard J. Lipton"},{"@pid":"l/LaszloLovasz","text":"László Lovász 0001"},{"@pid":"88/1341","text":"Charles Rackoff"}]},"title":"Random Walks, Universal Traversal Sequences, and the Complexity of Maze Problems","venue":"FOCS","pages":"218-223","year":"1979","type":"Conference and Workshop Papers","key":"conf/focs/AleliunasKLLR79","doi":"10.1109/SFCS.1979.34","ee":"https://doi.org/10.1109/SFCS.1979.34","url":"https://dblp.org/rec/conf/focs/AleliunasKLLR79"},
+"url":"URL#5380354"
+},
+{
+"@score":"1",
+"@id":"5380355",
+"info":{"authors":{"author":[{"@pid":"24/3665","text":"Bengt Aspvall"},{"@pid":"77/3536","text":"Yossi Shiloach"}]},"title":"A Polynomial Time Algorithm for Solving Systems of Linear Inequalities with Two Variables per Inequality","venue":"FOCS","pages":"205-217","year":"1979","type":"Conference and Workshop Papers","key":"conf/focs/AspvallS79","doi":"10.1109/SFCS.1979.1","ee":"https://doi.org/10.1109/SFCS.1979.1","url":"https://dblp.org/rec/conf/focs/AspvallS79"},
+"url":"URL#5380355"
+},
+{
+"@score":"1",
+"@id":"5380356",
+"info":{"authors":{"author":[{"@pid":"b/LaszloBabai","text":"László Babai"},{"@pid":"k/LudekKucera","text":"Ludek Kucera"}]},"title":"Canonical Labelling of Graphs in Linear Average Time","venue":"FOCS","pages":"39-46","year":"1979","type":"Conference and Workshop Papers","key":"conf/focs/BabaiK79","doi":"10.1109/SFCS.1979.8","ee":"https://doi.org/10.1109/SFCS.1979.8","url":"https://dblp.org/rec/conf/focs/BabaiK79"},
+"url":"URL#5380356"
+},
+{
+"@score":"1",
+"@id":"5380357",
+"info":{"authors":{"author":[{"@pid":"09/3391","text":"Theodore P. Baker"},{"@pid":"84/5656","text":"Juris Hartmanis"}]},"title":"Succinctness, Verifiability and Determinism in Representations of Polynomial-Time Languages","venue":"FOCS","pages":"392-396","year":"1979","type":"Conference and Workshop Papers","key":"conf/focs/BakerH79","doi":"10.1109/SFCS.1979.41","ee":"https://doi.org/10.1109/SFCS.1979.41","url":"https://dblp.org/rec/conf/focs/BakerH79"},
+"url":"URL#5380357"
+},
+{
+"@score":"1",
+"@id":"5380358",
+"info":{"authors":{"author":{"@pid":"26/6911","text":"Meera Blattner"}},"title":"The Decidability of the Equivalence of Context-Free Grammar Forms","venue":"FOCS","pages":"91-96","year":"1979","type":"Conference and Workshop Papers","key":"conf/focs/Blattner79","doi":"10.1109/SFCS.1979.44","ee":"https://doi.org/10.1109/SFCS.1979.44","url":"https://dblp.org/rec/conf/focs/Blattner79"},
+"url":"URL#5380358"
+},
+{
+"@score":"1",
+"@id":"5380359",
+"info":{"authors":{"author":[{"@pid":"02/5164","text":"Allan Borodin"},{"@pid":"f/MichaelJFischer","text":"Michael J. Fischer"},{"@pid":"19/1282","text":"David G. Kirkpatrick"},{"@pid":"l/NancyALynch","text":"Nancy A. Lynch"},{"@pid":"t/MartinTompa","text":"Martin Tompa"}]},"title":"A Time-Space Tradeoff for Sorting on Non-Oblivious Machines","venue":"FOCS","pages":"319-327","year":"1979","type":"Conference and Workshop Papers","key":"conf/focs/BorodinFKLT79","doi":"10.1109/SFCS.1979.4","ee":"https://doi.org/10.1109/SFCS.1979.4","url":"https://dblp.org/rec/conf/focs/BorodinFKLT79"},
+"url":"URL#5380359"
+},
+{
+"@score":"1",
+"@id":"5380360",
+"info":{"authors":{"author":{"@pid":"b/GBrassard","text":"Gilles Brassard"}},"title":"Relativized Cryptography","venue":"FOCS","pages":"383-391","year":"1979","type":"Conference and Workshop Papers","key":"conf/focs/Brassard79","doi":"10.1109/SFCS.1979.36","ee":"https://doi.org/10.1109/SFCS.1979.36","url":"https://dblp.org/rec/conf/focs/Brassard79"},
+"url":"URL#5380360"
+},
+{
+"@score":"1",
+"@id":"5380361",
+"info":{"authors":{"author":[{"@pid":"c/EdmundMClarke","text":"Edmund M. Clarke"},{"@pid":"75/1732","text":"Lishing Liu"}]},"title":"Approximate Algorithms for Optimization of Busy Waiting in Parallel Programs (Preliminary Report)","venue":"FOCS","pages":"255-266","year":"1979","type":"Conference and Workshop Papers","key":"conf/focs/ClarkeL79","doi":"10.1109/SFCS.1979.5","ee":"https://doi.org/10.1109/SFCS.1979.5","url":"https://dblp.org/rec/conf/focs/ClarkeL79"},
+"url":"URL#5380361"
+},
+{
+"@score":"1",
+"@id":"5380362",
+"info":{"authors":{"author":{"@pid":"d/NachumDershowitz","text":"Nachum Dershowitz"}},"title":"Orderings for Term-Rewriting Systems","venue":"FOCS","pages":"123-131","year":"1979","type":"Conference and Workshop Papers","key":"conf/focs/Dershowitz79","doi":"10.1109/SFCS.1979.32","ee":"https://doi.org/10.1109/SFCS.1979.32","url":"https://dblp.org/rec/conf/focs/Dershowitz79"},
+"url":"URL#5380362"
+},
+{
+"@score":"1",
+"@id":"5380363",
+"info":{"authors":{"author":[{"@pid":"d/DavidPDobkin","text":"David P. Dobkin"},{"@pid":"s/LawrenceSnyder","text":"Lawrence Snyder"}]},"title":"On a General Method for Maximizing and Minimizing among Certain Geometric Problems (Extended Abstract)","venue":"FOCS","pages":"9-17","year":"1979","type":"Conference and Workshop Papers","key":"conf/focs/DobkinS79","doi":"10.1109/SFCS.1979.28","ee":"https://doi.org/10.1109/SFCS.1979.28","url":"https://dblp.org/rec/conf/focs/DobkinS79"},
+"url":"URL#5380363"
+},
+{
+"@score":"1",
+"@id":"5380364",
+"info":{"authors":{"author":[{"@pid":"f/MichaelJFischer","text":"Michael J. Fischer"},{"@pid":"l/NancyALynch","text":"Nancy A. Lynch"},{"@pid":"22/2067","text":"James E. Burns"},{"@pid":"02/5164","text":"Allan Borodin"}]},"title":"Resource Allocation with Immunity to Limited Process Failure (Preliminary Report)","venue":"FOCS","pages":"234-254","year":"1979","type":"Conference and Workshop Papers","key":"conf/focs/FischerLBB79","doi":"10.1109/SFCS.1979.37","ee":"https://doi.org/10.1109/SFCS.1979.37","url":"https://dblp.org/rec/conf/focs/FischerLBB79"},
+"url":"URL#5380364"
+},
+{
+"@score":"1",
+"@id":"5380365",
+"info":{"authors":{"author":[{"@pid":"f/PFlajolet","text":"Philippe Flajolet"},{"@pid":"67/2645","text":"Jean Françon"},{"@pid":"67/335","text":"Jean Vuillemin"}]},"title":"Towards Analysing Sequences of Operations for Dynamic Data Structures (Preliminary Version)","venue":"FOCS","pages":"183-195","year":"1979","type":"Conference and Workshop Papers","key":"conf/focs/FlajoletFV79","doi":"10.1109/SFCS.1979.46","ee":"https://doi.org/10.1109/SFCS.1979.46","url":"https://dblp.org/rec/conf/focs/FlajoletFV79"},
+"url":"URL#5380365"
+},
+{
+"@score":"1",
+"@id":"5380366",
+"info":{"authors":{"author":[{"@pid":"02/1680","text":"Ofer Gabber"},{"@pid":"g/ZviGalil","text":"Zvi Galil"}]},"title":"Explicit Constructions of Linear Size Superconcentrators","venue":"FOCS","pages":"364-370","year":"1979","type":"Conference and Workshop Papers","key":"conf/focs/GabberG79","doi":"10.1109/SFCS.1979.16","ee":"https://doi.org/10.1109/SFCS.1979.16","url":"https://dblp.org/rec/conf/focs/GabberG79"},
+"url":"URL#5380366"
+},
+{
+"@score":"1",
+"@id":"5380367",
+"info":{"authors":{"author":[{"@pid":"g/HaroldNGabow","text":"Harold N. Gabow"},{"@pid":"t/RobertEndreTarjan","text":"Robert Endre Tarjan"}]},"title":"Efficient Algorithms for Simple Matroid Intersection Problems","venue":"FOCS","pages":"196-204","year":"1979","type":"Conference and Workshop Papers","key":"conf/focs/GabowT79","doi":"10.1109/SFCS.1979.14","ee":"https://doi.org/10.1109/SFCS.1979.14","url":"https://dblp.org/rec/conf/focs/GabowT79"},
+"url":"URL#5380367"
+},
+{
+"@score":"1",
+"@id":"5380368",
+"info":{"authors":{"author":[{"@pid":"g/GastonHGonnet","text":"Gaston H. Gonnet"},{"@pid":"m/JIanMunro","text":"J. Ian Munro"},{"@pid":"30/402","text":"Hendra Suwanda"}]},"title":"Toward Self-Organizing Linear Search (Preliminary Draught)","venue":"FOCS","pages":"169-174","year":"1979","type":"Conference and Workshop Papers","key":"conf/focs/GonnetMS79","doi":"10.1109/SFCS.1979.45","ee":"https://doi.org/10.1109/SFCS.1979.45","url":"https://dblp.org/rec/conf/focs/GonnetMS79"},
+"url":"URL#5380368"
+},
+{
+"@score":"1",
+"@id":"5380369",
+"info":{"authors":{"author":{"@pid":"g/SheilaAGreibach","text":"Sheila A. Greibach"}},"title":"Formal Languages - Origins and Directions","venue":"FOCS","pages":"66-90","year":"1979","type":"Conference and Workshop Papers","key":"conf/focs/Greibach79","doi":"10.1109/SFCS.1979.19","ee":"https://doi.org/10.1109/SFCS.1979.19","url":"https://dblp.org/rec/conf/focs/Greibach79"},
+"url":"URL#5380369"
+},
+{
+"@score":"1",
+"@id":"5380370",
+"info":{"authors":{"author":{"@pid":"84/5656","text":"Juris Hartmanis"}},"title":"Observations about the Development of Theoretical Computer Science","venue":"FOCS","pages":"224-233","year":"1979","type":"Conference and Workshop Papers","key":"conf/focs/Hartmanis79","doi":"10.1109/SFCS.1979.27","ee":"https://doi.org/10.1109/SFCS.1979.27","url":"https://dblp.org/rec/conf/focs/Hartmanis79"},
+"url":"URL#5380370"
+},
+{
+"@score":"1",
+"@id":"5380371",
+"info":{"authors":{"author":{"@pid":"i/NeilImmerman","text":"Neil Immerman"}},"title":"Length of Predicate Calculus Formulas as a New Complexity Measure","venue":"FOCS","pages":"337-347","year":"1979","type":"Conference and Workshop Papers","key":"conf/focs/Immerman79","doi":"10.1109/SFCS.1979.21","ee":"https://doi.org/10.1109/SFCS.1979.21","url":"https://dblp.org/rec/conf/focs/Immerman79"},
+"url":"URL#5380371"
+},
+{
+"@score":"1",
+"@id":"5380372",
+"info":{"authors":{"author":[{"@pid":"k/ZviMKedem","text":"Zvi M. Kedem"},{"@pid":"s/AbrahamSilberschatz","text":"Abraham Silberschatz"}]},"title":"Controlling Concurrency Using Locking Protocols (Preliminary Report)","venue":"FOCS","pages":"274-285","year":"1979","type":"Conference and Workshop Papers","key":"conf/focs/KedemS79","doi":"10.1109/SFCS.1979.12","ee":"https://doi.org/10.1109/SFCS.1979.12","url":"https://dblp.org/rec/conf/focs/KedemS79"},
+"url":"URL#5380372"
+},
+{
+"@score":"1",
+"@id":"5380373",
+"info":{"authors":{"author":{"@pid":"19/1282","text":"David G. Kirkpatrick"}},"title":"Efficient Computation of Continuous Skeletons","venue":"FOCS","pages":"18-27","year":"1979","type":"Conference and Workshop Papers","key":"conf/focs/Kirkpatrick79","doi":"10.1109/SFCS.1979.15","ee":"https://doi.org/10.1109/SFCS.1979.15","url":"https://dblp.org/rec/conf/focs/Kirkpatrick79"},
+"url":"URL#5380373"
+},
+{
+"@score":"1",
+"@id":"5380374",
+"info":{"authors":{"author":{"@pid":"09/6481","text":"Stephen Cole Kleene"}},"title":"Origins of Recursive Function Theory","venue":"FOCS","pages":"371-382","year":"1979","type":"Conference and Workshop Papers","key":"conf/focs/Kleene79","doi":"10.1109/SFCS.1979.33","ee":"https://doi.org/10.1109/SFCS.1979.33","url":"https://dblp.org/rec/conf/focs/Kleene79"},
+"url":"URL#5380374"
+},
+{
+"@score":"1",
+"@id":"5380375",
+"info":{"authors":{"author":{"@pid":"k/DexterKozen","text":"Dexter Kozen"}},"title":"Semantics of Probabilistic Programs","venue":"FOCS","pages":"101-114","year":"1979","type":"Conference and Workshop Papers","key":"conf/focs/Kozen79","doi":"10.1109/SFCS.1979.38","ee":"https://doi.org/10.1109/SFCS.1979.38","url":"https://dblp.org/rec/conf/focs/Kozen79"},
+"url":"URL#5380375"
+},
+{
+"@score":"1",
+"@id":"5380376",
+"info":{"authors":{"author":{"@pid":"l/JeffreyCLagarias","text":"J. C. Lagarias"}},"title":"Succinct Certificates for the Solvability of Binary Quadratic Diophantine Equations","venue":"FOCS","pages":"47-54","year":"1979","type":"Conference and Workshop Papers","key":"conf/focs/Lagarias79","doi":"10.1109/SFCS.1979.40","ee":"https://doi.org/10.1109/SFCS.1979.40","url":"https://dblp.org/rec/conf/focs/Lagarias79"},
+"url":"URL#5380376"
+},
+{
+"@score":"1",
+"@id":"5380377",
+"info":{"authors":{"author":[{"@pid":"l/KJLieberherr","text":"Karl J. Lieberherr"},{"@pid":"94/1209","text":"Ernst Specker"}]},"title":"Complexity of Partial Satisfaction","venue":"FOCS","pages":"132-139","year":"1979","type":"Conference and Workshop Papers","key":"conf/focs/LieberherrS79","doi":"10.1109/SFCS.1979.9","ee":"https://doi.org/10.1109/SFCS.1979.9","url":"https://dblp.org/rec/conf/focs/LieberherrS79"},
+"url":"URL#5380377"
+},
+{
+"@score":"1",
+"@id":"5380378",
+"info":{"authors":{"author":[{"@pid":"m/HermannAMaurer","text":"Hermann A. Maurer"},{"@pid":"05/6795","text":"Maurice Nivat"}]},"title":"Bijective A-Transducers","venue":"FOCS","pages":"97-100","year":"1979","type":"Conference and Workshop Papers","key":"conf/focs/MaurerN79","doi":"10.1109/SFCS.1979.7","ee":"https://doi.org/10.1109/SFCS.1979.7","url":"https://dblp.org/rec/conf/focs/MaurerN79"},
+"url":"URL#5380378"
+},
+{
+"@score":"1",
+"@id":"5380379",
+"info":{"authors":{"author":{"@pid":"93/2900","text":"Victor Y. Pan"}},"title":"Field Extension and Triangular Aggregating, Uniting and Canceling for the Acceleration of Matrix Multiplications","venue":"FOCS","pages":"28-38","year":"1979","type":"Conference and Workshop Papers","key":"conf/focs/Pan79","doi":"10.1109/SFCS.1979.17","ee":"https://doi.org/10.1109/SFCS.1979.17","url":"https://dblp.org/rec/conf/focs/Pan79"},
+"url":"URL#5380379"
+},
+{
+"@score":"1",
+"@id":"5380380",
+"info":{"authors":{"author":[{"@pid":"15/1572","text":"Wolfgang J. Paul"},{"@pid":"r/RReischuk","text":"Rüdiger Reischuk"}]},"title":"On Time versus Space II","venue":"FOCS","pages":"298-306","year":"1979","type":"Conference and Workshop Papers","key":"conf/focs/PaulR79","doi":"10.1109/SFCS.1979.30","ee":"https://doi.org/10.1109/SFCS.1979.30","url":"https://dblp.org/rec/conf/focs/PaulR79"},
+"url":"URL#5380380"
+},
+{
+"@score":"1",
+"@id":"5380381",
+"info":{"authors":{"author":[{"@pid":"56/2611","text":"Gary L. Peterson"},{"@pid":"r/JohnHReif","text":"John H. Reif"}]},"title":"Multiple-Person Alternation","venue":"FOCS","pages":"348-363","year":"1979","type":"Conference and Workshop Papers","key":"conf/focs/PetersonR79","doi":"10.1109/SFCS.1979.25","ee":"https://doi.org/10.1109/SFCS.1979.25","url":"https://dblp.org/rec/conf/focs/PetersonR79"},
+"url":"URL#5380381"
+},
+{
+"@score":"1",
+"@id":"5380382",
+"info":{"authors":{"author":{"@pid":"p/NicholasPippenger","text":"Nicholas Pippenger"}},"title":"Computational Complexity in Algebraic Function Fields (Preliminary Version)","venue":"FOCS","pages":"61-65","year":"1979","type":"Conference and Workshop Papers","key":"conf/focs/Pippenger79a","doi":"10.1109/SFCS.1979.11","ee":"https://doi.org/10.1109/SFCS.1979.11","url":"https://dblp.org/rec/conf/focs/Pippenger79a"},
+"url":"URL#5380382"
+},
+{
+"@score":"1",
+"@id":"5380383",
+"info":{"authors":{"author":{"@pid":"p/NicholasPippenger","text":"Nicholas Pippenger"}},"title":"On Simultaneous Resource Bounds (Preliminary Version)","venue":"FOCS","pages":"307-311","year":"1979","type":"Conference and Workshop Papers","key":"conf/focs/Pippenger79b","doi":"10.1109/SFCS.1979.29","ee":"https://doi.org/10.1109/SFCS.1979.29","url":"https://dblp.org/rec/conf/focs/Pippenger79b"},
+"url":"URL#5380383"
+},
+{
+"@score":"1",
+"@id":"5380384",
+"info":{"authors":{"author":{"@pid":"p/VRPratt","text":"Vaughan R. Pratt"}},"title":"Models of Program Logics","venue":"FOCS","pages":"115-122","year":"1979","type":"Conference and Workshop Papers","key":"conf/focs/Pratt79","doi":"10.1109/SFCS.1979.24","ee":"https://doi.org/10.1109/SFCS.1979.24","url":"https://dblp.org/rec/conf/focs/Pratt79"},
+"url":"URL#5380384"
+},
+{
+"@score":"1",
+"@id":"5380385",
+"info":{"authors":{"author":[{"@pid":"p/FPPreparata","text":"Franco P. Preparata"},{"@pid":"67/335","text":"Jean Vuillemin"}]},"title":"The Cube-Connected-Cycles - A Versatile Network for Parallel Computation (Extended Abstract)","venue":"FOCS","pages":"140-147","year":"1979","type":"Conference and Workshop Papers","key":"conf/focs/PreparataV79","doi":"10.1109/SFCS.1979.43","ee":"https://doi.org/10.1109/SFCS.1979.43","url":"https://dblp.org/rec/conf/focs/PreparataV79"},
+"url":"URL#5380385"
+},
+{
+"@score":"1",
+"@id":"5380386",
+"info":{"authors":{"author":{"@pid":"r/JohnHReif","text":"John H. Reif"}},"title":"Complexity of the Mover&apos;s Problem and Generalizations (Extended Abstract)","venue":"FOCS","pages":"421-427","year":"1979","type":"Conference and Workshop Papers","key":"conf/focs/Reif79","doi":"10.1109/SFCS.1979.10","ee":"https://doi.org/10.1109/SFCS.1979.10","url":"https://dblp.org/rec/conf/focs/Reif79"},
+"url":"URL#5380386"
+},
+{
+"@score":"1",
+"@id":"5380387",
+"info":{"authors":{"author":{"@pid":"r/WalterLRuzzo","text":"Walter L. Ruzzo"}},"title":"On Uniform Circuit Complexity (Extended Abstract)","venue":"FOCS","pages":"312-318","year":"1979","type":"Conference and Workshop Papers","key":"conf/focs/Ruzzo79","doi":"10.1109/SFCS.1979.31","ee":"https://doi.org/10.1109/SFCS.1979.31","url":"https://dblp.org/rec/conf/focs/Ruzzo79"},
+"url":"URL#5380387"
+},
+{
+"@score":"1",
+"@id":"5380388",
+"info":{"authors":{"author":[{"@pid":"95/1805","text":"James B. Saxe"},{"@pid":"84/2910","text":"Jon Louis Bentley"}]},"title":"Transforming Static Data Structures to Dynamic Structures (Abridged Version)","venue":"FOCS","pages":"148-168","year":"1979","type":"Conference and Workshop Papers","key":"conf/focs/SaxeB79","doi":"10.1109/SFCS.1979.47","ee":"https://doi.org/10.1109/SFCS.1979.47","url":"https://dblp.org/rec/conf/focs/SaxeB79"},
+"url":"URL#5380388"
+},
+{
+"@score":"1",
+"@id":"5380389",
+"info":{"authors":{"author":[{"@pid":"95/5359","text":"Richard Schroeppel"},{"@pid":"s/AdiShamir","text":"Adi Shamir"}]},"title":"A T S2 = O(2n) Time/Space Tradeoff for Certain NP-Complete Problems","venue":"FOCS","pages":"328-336","year":"1979","type":"Conference and Workshop Papers","key":"conf/focs/SchroeppelS79","doi":"10.1109/SFCS.1979.3","ee":"https://doi.org/10.1109/SFCS.1979.3","url":"https://dblp.org/rec/conf/focs/SchroeppelS79"},
+"url":"URL#5380389"
+},
+{
+"@score":"1",
+"@id":"5380390",
+"info":{"authors":{"author":{"@pid":"69/3732","text":"Janos Simon"}},"title":"Division Is Good","venue":"FOCS","pages":"411-420","year":"1979","type":"Conference and Workshop Papers","key":"conf/focs/Simon79","doi":"10.1109/SFCS.1979.13","ee":"https://doi.org/10.1109/SFCS.1979.13","url":"https://dblp.org/rec/conf/focs/Simon79"},
+"url":"URL#5380390"
+},
+{
+"@score":"1",
+"@id":"5380391",
+"info":{"authors":{"author":[{"@pid":"99/95","text":"Mark N. Wegman"},{"@pid":"c/LarryCarter","text":"Larry Carter"}]},"title":"New Classes and Applications of Hash Functions","venue":"FOCS","pages":"175-182","year":"1979","type":"Conference and Workshop Papers","key":"conf/focs/WegmanC79","doi":"10.1109/SFCS.1979.26","ee":"https://doi.org/10.1109/SFCS.1979.26","url":"https://dblp.org/rec/conf/focs/WegmanC79"},
+"url":"URL#5380391"
+},
+{
+"@score":"1",
+"@id":"5380392",
+"info":{"authors":{"author":[{"@pid":"y/MihalisYannakakis","text":"Mihalis Yannakakis"},{"@pid":"p/CHPapadimitriou","text":"Christos H. Papadimitriou"},{"@pid":"k/HTKung","text":"H. T. Kung 0001"}]},"title":"Locking Policies - Safety and Freedom from Deadlock","venue":"FOCS","pages":"286-297","year":"1979","type":"Conference and Workshop Papers","key":"conf/focs/YannakakisPK79","doi":"10.1109/SFCS.1979.22","ee":"https://doi.org/10.1109/SFCS.1979.22","url":"https://dblp.org/rec/conf/focs/YannakakisPK79"},
+"url":"URL#5380392"
+},
+{
+"@score":"1",
+"@id":"5380393",
+"info":{"authors":{"author":{"@pid":"y/YechiamYemini","text":"Yechiam Yemini"}},"title":"Some Theoretical Aspects of Position-Location Problems","venue":"FOCS","pages":"1-8","year":"1979","type":"Conference and Workshop Papers","key":"conf/focs/Yemini79","doi":"10.1109/SFCS.1979.39","ee":"https://doi.org/10.1109/SFCS.1979.39","url":"https://dblp.org/rec/conf/focs/Yemini79"},
+"url":"URL#5380393"
+},
+{
+"@score":"1",
+"@id":"5381734",
+"info":{"title":"20th Annual Symposium on Foundations of Computer Science, San Juan, Puerto Rico, 29-31 October 1979","venue":"FOCS","publisher":"IEEE Computer Society","year":"1979","type":"Editorship","key":"conf/focs/FOCS20","ee":"https://ieeexplore.ieee.org/xpl/conhome/4567990/proceeding","url":"https://dblp.org/rec/conf/focs/FOCS20"},
+"url":"URL#5381734"
+}
+]
+}
+}
+}

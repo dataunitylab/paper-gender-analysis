@@ -1,0 +1,494 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"stoc\"/\"stoc1998\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"111.52"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"77",
+"@dc":"77",
+"@oc":"77",
+"@id":"17600023",
+"text":":facetid:toc:db/conf/stoc/stoc1998.bht"
+}
+},
+"hits":{
+"@total":"77",
+"@computed":"77",
+"@sent":"77",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"4912208",
+"info":{"authors":{"author":[{"@pid":"42/5385","text":"Dorit Aharonov"},{"@pid":"54/3091","text":"Alexei Y. Kitaev"},{"@pid":"n/NoamNisan","text":"Noam Nisan"}]},"title":"Quantum Circuits with Mixed States.","venue":"STOC","pages":"20-30","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/AharonovKN98","doi":"10.1145/276698.276708","ee":"https://doi.org/10.1145/276698.276708","url":"https://dblp.org/rec/conf/stoc/AharonovKN98"},
+"url":"URL#4912208"
+},
+{
+"@score":"1",
+"@id":"4912209",
+"info":{"authors":{"author":[{"@pid":"a/WilliamAiello","text":"William Aiello"},{"@pid":"k/EyalKushilevitz","text":"Eyal Kushilevitz"},{"@pid":"o/RafailOstrovsky","text":"Rafail Ostrovsky"},{"@pid":"r/AdiRosen","text":"Adi Rosén"}]},"title":"Adaptive Packet Routing for Bursty Adversarial Traffic.","venue":"STOC","pages":"359-368","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/AielloKOR98","doi":"10.1145/276698.276788","ee":"https://doi.org/10.1145/276698.276788","url":"https://dblp.org/rec/conf/stoc/AielloKOR98"},
+"url":"URL#4912209"
+},
+{
+"@score":"1",
+"@id":"4912210",
+"info":{"authors":{"author":{"@pid":"90/6947","text":"Miklós Ajtai"}},"title":"The Shortest Vector Problem in L2 is NP-hard for Randomized Reductions (Extended Abstract).","venue":"STOC","pages":"10-19","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/Ajtai98","doi":"10.1145/276698.276705","ee":"https://doi.org/10.1145/276698.276705","url":"https://dblp.org/rec/conf/stoc/Ajtai98"},
+"url":"URL#4912210"
+},
+{
+"@score":"1",
+"@id":"4912211",
+"info":{"authors":{"author":[{"@pid":"90/6947","text":"Miklós Ajtai"},{"@pid":"f/RonaldFagin","text":"Ronald Fagin"},{"@pid":"40/805","text":"Larry J. Stockmeyer"}]},"title":"The Closure of Monadic NP (Extended Abstract).","venue":"STOC","pages":"309-318","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/AjtaiFS98","doi":"10.1145/276698.276771","ee":"https://doi.org/10.1145/276698.276771","url":"https://dblp.org/rec/conf/stoc/AjtaiFS98"},
+"url":"URL#4912211"
+},
+{
+"@score":"1",
+"@id":"4912212",
+"info":{"authors":{"author":[{"@pid":"a/SusanneAlbers","text":"Susanne Albers"},{"@pid":"g/NaveenGarg","text":"Naveen Garg 0001"},{"@pid":"l/StefanoLeonardi","text":"Stefano Leonardi"}]},"title":"Minimizing Stall Time in Single and Parallel Disk Systems.","venue":"STOC","pages":"454-462","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/AlbersGL98","doi":"10.1145/276698.276858","ee":"https://doi.org/10.1145/276698.276858","url":"https://dblp.org/rec/conf/stoc/AlbersGL98"},
+"url":"URL#4912212"
+},
+{
+"@score":"1",
+"@id":"4912213",
+"info":{"authors":{"author":[{"@pid":"a/MatthewAndrews","text":"Matthew Andrews"},{"@pid":"z/LisaZhang","text":"Lisa Zhang"}]},"title":"Stability Results for Networks with Input and Output Blocking.","venue":"STOC","pages":"369-377","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/AndrewsZ98","doi":"10.1145/276698.276789","ee":"https://doi.org/10.1145/276698.276789","url":"https://dblp.org/rec/conf/stoc/AndrewsZ98"},
+"url":"URL#4912213"
+},
+{
+"@score":"1",
+"@id":"4912214",
+"info":{"authors":{"author":{"@pid":"a/SArora","text":"Sanjeev Arora"}},"title":"The Approximability of NP-hard Problems.","venue":"STOC","pages":"337-348","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/Arora98","doi":"10.1145/276698.276784","ee":"https://doi.org/10.1145/276698.276784","url":"https://dblp.org/rec/conf/stoc/Arora98"},
+"url":"URL#4912214"
+},
+{
+"@score":"1",
+"@id":"4912215",
+"info":{"authors":{"author":[{"@pid":"a/SArora","text":"Sanjeev Arora"},{"@pid":"r/PRaghavan","text":"Prabhakar Raghavan"},{"@pid":"r/SRao","text":"Satish Rao"}]},"title":"Approximation Schemes for Euclidean k-Medians and Related Problems.","venue":"STOC","pages":"106-113","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/AroraRR98","doi":"10.1145/276698.276718","ee":"https://doi.org/10.1145/276698.276718","url":"https://dblp.org/rec/conf/stoc/AroraRR98"},
+"url":"URL#4912215"
+},
+{
+"@score":"1",
+"@id":"4912216",
+"info":{"authors":{"author":[{"@pid":"b/LaszloBabai","text":"László Babai"},{"@pid":"62/2234","text":"Thomas P. Hayes"},{"@pid":"62/3146","text":"Peter G. Kimmel"}]},"title":"The Cost of the Missing Bit - Communication Complexity with Help.","venue":"STOC","pages":"673-682","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/BabaiHK98","doi":"10.1145/276698.276883","ee":"https://doi.org/10.1145/276698.276883","url":"https://dblp.org/rec/conf/stoc/BabaiHK98"},
+"url":"URL#4912216"
+},
+{
+"@score":"1",
+"@id":"4912217",
+"info":{"authors":{"author":[{"@pid":"b/AmotzBarNoy","text":"Amotz Bar-Noy"},{"@pid":"g/SudiptoGuha","text":"Sudipto Guha"},{"@pid":"n/JosephNaor","text":"Joseph Naor"},{"@pid":"s/BaruchSchieber","text":"Baruch Schieber"}]},"title":"Multicasting in Heterogeneous Networks.","venue":"STOC","pages":"448-453","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/Bar-NoyGNS98","doi":"10.1145/276698.276857","ee":"https://doi.org/10.1145/276698.276857","url":"https://dblp.org/rec/conf/stoc/Bar-NoyGNS98"},
+"url":"URL#4912217"
+},
+{
+"@score":"1",
+"@id":"4912218",
+"info":{"authors":{"author":{"@pid":"96/1036","text":"Yair Bartal"}},"title":"On Approximating Arbitrary Metrices by Tree Metrics.","venue":"STOC","pages":"161-168","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/Bartal98","doi":"10.1145/276698.276725","ee":"https://doi.org/10.1145/276698.276725","url":"https://dblp.org/rec/conf/stoc/Bartal98"},
+"url":"URL#4912218"
+},
+{
+"@score":"1",
+"@id":"4912219",
+"info":{"authors":{"author":[{"@pid":"b/PaulBeame","text":"Paul Beame"},{"@pid":"k/RichardMKarp","text":"Richard M. Karp"},{"@pid":"p/TPitassi","text":"Toniann Pitassi"},{"@pid":"s/MichaelESaks","text":"Michael E. Saks"}]},"title":"On the Complexity of Unsatisfiability Proofs for Random k-CNF Formulas.","venue":"STOC","pages":"561-571","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/BeameKPS98","doi":"10.1145/276698.276870","ee":"https://doi.org/10.1145/276698.276870","url":"https://dblp.org/rec/conf/stoc/BeameKPS98"},
+"url":"URL#4912219"
+},
+{
+"@score":"1",
+"@id":"4912220",
+"info":{"authors":{"author":[{"@pid":"b/RichardBeigel","text":"Richard Beigel"},{"@pid":"b/HarryBuhrman","text":"Harry Buhrman"},{"@pid":"f/LanceFortnow","text":"Lance Fortnow"}]},"title":"NP Might Not Be As Easy As Detecting Unique Solutions.","venue":"STOC","pages":"203-208","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/BeigelBF98","doi":"10.1145/276698.276737","ee":"https://doi.org/10.1145/276698.276737","url":"https://dblp.org/rec/conf/stoc/BeigelBF98"},
+"url":"URL#4912220"
+},
+{
+"@score":"1",
+"@id":"4912221",
+"info":{"authors":{"author":[{"@pid":"b/RichardBeigel","text":"Richard Beigel"},{"@pid":"h/TirzaHirst","text":"Tirza Hirst"}]},"title":"One Help Bit Doesn&apos;t Help.","venue":"STOC","pages":"124-130","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/BeigelH98","doi":"10.1145/276698.276720","ee":"https://doi.org/10.1145/276698.276720","url":"https://dblp.org/rec/conf/stoc/BeigelH98"},
+"url":"URL#4912221"
+},
+{
+"@score":"1",
+"@id":"4912222",
+"info":{"authors":{"author":[{"@pid":"b/MBellare","text":"Mihir Bellare"},{"@pid":"c/RanCanetti","text":"Ran Canetti"},{"@pid":"46/6715","text":"Hugo Krawczyk"}]},"title":"A Modular Approach to the Design and Analysis of Authentication and Key Exchange Protocols (Extended Abstract).","venue":"STOC","pages":"419-428","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/BellareCK98","doi":"10.1145/276698.276854","ee":"https://doi.org/10.1145/276698.276854","url":"https://dblp.org/rec/conf/stoc/BellareCK98"},
+"url":"URL#4912222"
+},
+{
+"@score":"1",
+"@id":"4912223",
+"info":{"authors":{"author":[{"@pid":"b/MichaelABender","text":"Michael A. Bender"},{"@pid":"f/AntonioFernandezAnta","text":"Antonio Fernández 0001"},{"@pid":"85/4800","text":"Dana Ron"},{"@pid":"s/AmitSahai","text":"Amit Sahai"},{"@pid":"v/SPVadhan","text":"Salil P. Vadhan"}]},"title":"The Power of a Pebble - Exploring and Mapping Directed Graphs.","venue":"STOC","pages":"269-278","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/BenderFRSV98","doi":"10.1145/276698.276759","ee":"https://doi.org/10.1145/276698.276759","url":"https://dblp.org/rec/conf/stoc/BenderFRSV98"},
+"url":"URL#4912223"
+},
+{
+"@score":"1",
+"@id":"4912224",
+"info":{"authors":{"author":[{"@pid":"b/AvrimBlum","text":"Avrim Blum"},{"@pid":"12/6931","text":"Goran Konjevod"},{"@pid":"r/RRavi-1","text":"R. Ravi 0001"},{"@pid":"v/SantoshVempala","text":"Santosh S. Vempala"}]},"title":"Semi-Definite Relaxations for Minimum Bandwidth and other Vertex-Ordering Problems.","venue":"STOC","pages":"100-105","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/BlumKRV98","doi":"10.1145/276698.276717","ee":"https://doi.org/10.1145/276698.276717","url":"https://dblp.org/rec/conf/stoc/BlumKRV98"},
+"url":"URL#4912224"
+},
+{
+"@score":"1",
+"@id":"4912225",
+"info":{"authors":{"author":[{"@pid":"09/4301","text":"Andrei Z. Broder"},{"@pid":"c/MosesCharikar","text":"Moses Charikar"},{"@pid":"f/AlanMFrieze","text":"Alan M. Frieze"},{"@pid":"74/838","text":"Michael Mitzenmacher"}]},"title":"Min-Wise Independent Permutations (Extended Abstract).","venue":"STOC","pages":"327-336","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/BroderCFM98","doi":"10.1145/276698.276781","ee":"https://doi.org/10.1145/276698.276781","url":"https://dblp.org/rec/conf/stoc/BroderCFM98"},
+"url":"URL#4912225"
+},
+{
+"@score":"1",
+"@id":"4912226",
+"info":{"authors":{"author":{"@pid":"b/NaderHBshouty","text":"Nader H. Bshouty"}},"title":"A New Composition Theorem for Learning Algorithms.","venue":"STOC","pages":"583-589","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/Bshouty98","doi":"10.1145/276698.276873","ee":"https://doi.org/10.1145/276698.276873","url":"https://dblp.org/rec/conf/stoc/Bshouty98"},
+"url":"URL#4912226"
+},
+{
+"@score":"1",
+"@id":"4912227",
+"info":{"authors":{"author":[{"@pid":"b/ALBuchsbaum","text":"Adam L. Buchsbaum"},{"@pid":"48/3950","text":"Haim Kaplan"},{"@pid":"26/503","text":"Anne Rogers"},{"@pid":"30/2017","text":"Jeffery R. Westbrook"}]},"title":"Linear-Time Pointer-Machine Algorithms for Least Common Ancestors, MST Verification, and Dominators.","venue":"STOC","pages":"279-288","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/BuchsbaumKRW98","doi":"10.1145/276698.276764","ee":"https://doi.org/10.1145/276698.276764","url":"https://dblp.org/rec/conf/stoc/BuchsbaumKRW98"},
+"url":"URL#4912227"
+},
+{
+"@score":"1",
+"@id":"4912228",
+"info":{"authors":{"author":[{"@pid":"b/HarryBuhrman","text":"Harry Buhrman"},{"@pid":"72/6916","text":"Richard Cleve"},{"@pid":"w/AviWigderson","text":"Avi Wigderson"}]},"title":"Quantum vs. Classical Communication and Computation.","venue":"STOC","pages":"63-68","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/BuhrmanCW98","doi":"10.1145/276698.276713","ee":"https://doi.org/10.1145/276698.276713","url":"https://dblp.org/rec/conf/stoc/BuhrmanCW98"},
+"url":"URL#4912228"
+},
+{
+"@score":"1",
+"@id":"4912229",
+"info":{"authors":{"author":[{"@pid":"48/1531","text":"Gruia Calinescu"},{"@pid":"44/5186","text":"Howard J. Karloff"},{"@pid":"r/YRabani","text":"Yuval Rabani"}]},"title":"An Improved Approximation Algorithm for Multiway Cut.","venue":"STOC","pages":"48-52","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/CalinescuKR98","doi":"10.1145/276698.276711","ee":"https://doi.org/10.1145/276698.276711","url":"https://dblp.org/rec/conf/stoc/CalinescuKR98"},
+"url":"URL#4912229"
+},
+{
+"@score":"1",
+"@id":"4912230",
+"info":{"authors":{"author":[{"@pid":"c/RanCanetti","text":"Ran Canetti"},{"@pid":"g/OdedGoldreich","text":"Oded Goldreich 0001"},{"@pid":"65/4781","text":"Shai Halevi"}]},"title":"The Random Oracle Methodology, Revisited (Preliminary Version).","venue":"STOC","pages":"209-218","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/CanettiGH98","doi":"10.1145/276698.276741","ee":"https://doi.org/10.1145/276698.276741","url":"https://dblp.org/rec/conf/stoc/CanettiGH98"},
+"url":"URL#4912230"
+},
+{
+"@score":"1",
+"@id":"4912231",
+"info":{"authors":{"author":[{"@pid":"c/RanCanetti","text":"Ran Canetti"},{"@pid":"03/3331","text":"Daniele Micciancio"},{"@pid":"r/OmerReingold","text":"Omer Reingold"}]},"title":"Perfectly One-Way Probabilistic Hash Functions (Preliminary Version).","venue":"STOC","pages":"131-140","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/CanettiMR98","doi":"10.1145/276698.276721","ee":"https://doi.org/10.1145/276698.276721","url":"https://dblp.org/rec/conf/stoc/CanettiMR98"},
+"url":"URL#4912231"
+},
+{
+"@score":"1",
+"@id":"4912232",
+"info":{"authors":{"author":[{"@pid":"c/MosesCharikar","text":"Moses Charikar"},{"@pid":"82/3212","text":"Chandra Chekuri"},{"@pid":"g/AshishGoel","text":"Ashish Goel"},{"@pid":"g/SudiptoGuha","text":"Sudipto Guha"}]},"title":"Rounding via Trees - Deterministic Approximation Algorithms for Group Steiner Trees and k-Median.","venue":"STOC","pages":"114-123","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/CharikarCGG98","doi":"10.1145/276698.276719","ee":"https://doi.org/10.1145/276698.276719","url":"https://dblp.org/rec/conf/stoc/CharikarCGG98"},
+"url":"URL#4912232"
+},
+{
+"@score":"1",
+"@id":"4912233",
+"info":{"authors":{"author":[{"@pid":"c/MosesCharikar","text":"Moses Charikar"},{"@pid":"k/SamirKhuller","text":"Samir Khuller"},{"@pid":"r/BRaghavachari","text":"Balaji Raghavachari"}]},"title":"Algorithms for Capacitated Vehicle Routing.","venue":"STOC","pages":"349-358","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/CharikarKR98","doi":"10.1145/276698.276786","ee":"https://doi.org/10.1145/276698.276786","url":"https://dblp.org/rec/conf/stoc/CharikarKR98"},
+"url":"URL#4912233"
+},
+{
+"@score":"1",
+"@id":"4912234",
+"info":{"authors":{"author":[{"@pid":"c/ZhiZhongChen","text":"Zhi-Zhong Chen"},{"@pid":"g/MichelangeloGrigni","text":"Michelangelo Grigni"},{"@pid":"p/CHPapadimitriou","text":"Christos H. Papadimitriou"}]},"title":"Planar Map Graphs.","venue":"STOC","pages":"514-523","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/ChenGP98","doi":"10.1145/276698.276865","ee":"https://doi.org/10.1145/276698.276865","url":"https://dblp.org/rec/conf/stoc/ChenGP98"},
+"url":"URL#4912234"
+},
+{
+"@score":"1",
+"@id":"4912235",
+"info":{"authors":{"author":[{"@pid":"c/RichardCole1","text":"Richard Cole 0001"},{"@pid":"m/BruceMMaggs","text":"Bruce M. Maggs"},{"@pid":"h/FMaufderHeide","text":"Friedhelm Meyer auf der Heide"},{"@pid":"74/838","text":"Michael Mitzenmacher"},{"@pid":"r/AndreaWRicha","text":"Andréa W. Richa"},{"@pid":"82/3414","text":"Klaus Schröder"},{"@pid":"s/RameshKSitaraman","text":"Ramesh K. Sitaraman"},{"@pid":"v/BertholdVocking","text":"Berthold Vöcking"}]},"title":"Randomized Protocols for Low Congestion Circuit Routing in Multistage Interconnection Networks.","venue":"STOC","pages":"378-388","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/ColeMHMRSSV98","doi":"10.1145/276698.276790","ee":"https://doi.org/10.1145/276698.276790","url":"https://dblp.org/rec/conf/stoc/ColeMHMRSSV98"},
+"url":"URL#4912235"
+},
+{
+"@score":"1",
+"@id":"4912236",
+"info":{"authors":{"author":[{"@pid":"c/PCrescenzi","text":"Pierluigi Crescenzi"},{"@pid":"99/2724","text":"Deborah Goldman"},{"@pid":"p/CHPapadimitriou","text":"Christos H. Papadimitriou"},{"@pid":"60/500","text":"Antonio Piccolboni"},{"@pid":"y/MihalisYannakakis","text":"Mihalis Yannakakis"}]},"title":"On the Complexity of Protein Folding (Extended Abstract).","venue":"STOC","pages":"597-603","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/CrescenziGPPY98","doi":"10.1145/276698.276875","ee":"https://doi.org/10.1145/276698.276875","url":"https://dblp.org/rec/conf/stoc/CrescenziGPPY98"},
+"url":"URL#4912236"
+},
+{
+"@score":"1",
+"@id":"4912237",
+"info":{"authors":{"author":[{"@pid":"62/737","text":"Giovanni Di Crescenzo"},{"@pid":"05/667","text":"Yuval Ishai"},{"@pid":"o/RafailOstrovsky","text":"Rafail Ostrovsky"}]},"title":"Non-Interactive and Non-Malleable Commitment.","venue":"STOC","pages":"141-150","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/CrescenzoIO98","doi":"10.1145/276698.276722","ee":"https://doi.org/10.1145/276698.276722","url":"https://dblp.org/rec/conf/stoc/CrescenzoIO98"},
+"url":"URL#4912237"
+},
+{
+"@score":"1",
+"@id":"4912238",
+"info":{"authors":{"author":{"@pid":"53/3104","text":"Peter Damaschke"}},"title":"Adaptive versus Nonadaptive Attribute-Efficient Learning.","venue":"STOC","pages":"590-596","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/Damaschke98","doi":"10.1145/276698.276874","ee":"https://doi.org/10.1145/276698.276874","url":"https://dblp.org/rec/conf/stoc/Damaschke98"},
+"url":"URL#4912238"
+},
+{
+"@score":"1",
+"@id":"4912239",
+"info":{"authors":{"author":[{"@pid":"83/4093","text":"Daniel R. Dooly"},{"@pid":"58/6348","text":"Sally A. Goldman"},{"@pid":"24/4926","text":"Stephen D. Scott"}]},"title":"TCP Dynamic Acknowledgment Delay - Theory and Practice (Extended Abstract).","venue":"STOC","pages":"389-398","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/DoolyGS98","doi":"10.1145/276698.276792","ee":"https://doi.org/10.1145/276698.276792","url":"https://dblp.org/rec/conf/stoc/DoolyGS98"},
+"url":"URL#4912239"
+},
+{
+"@score":"1",
+"@id":"4912240",
+"info":{"authors":{"author":[{"@pid":"83/6616","text":"Cynthia Dwork"},{"@pid":"n/MoniNaor","text":"Moni Naor"},{"@pid":"s/AmitSahai","text":"Amit Sahai"}]},"title":"Concurrent Zero-Knowledge.","venue":"STOC","pages":"409-418","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/DworkNS98","doi":"10.1145/276698.276853","ee":"https://doi.org/10.1145/276698.276853","url":"https://dblp.org/rec/conf/stoc/DworkNS98"},
+"url":"URL#4912240"
+},
+{
+"@score":"1",
+"@id":"4912241",
+"info":{"authors":{"author":[{"@pid":"e/FundaErgun","text":"Funda Ergün"},{"@pid":"86/5425","text":"Sampath Kannan"},{"@pid":"k/RaviKumar","text":"Ravi Kumar 0001"},{"@pid":"r/RonittRubinfeld","text":"Ronitt Rubinfeld"},{"@pid":"23/2759-1","text":"Mahesh Viswanathan 0001"}]},"title":"Spot-Checkers.","venue":"STOC","pages":"259-268","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/ErgunKKRV98","doi":"10.1145/276698.276757","ee":"https://doi.org/10.1145/276698.276757","url":"https://dblp.org/rec/conf/stoc/ErgunKKRV98"},
+"url":"URL#4912241"
+},
+{
+"@score":"1",
+"@id":"4912242",
+"info":{"authors":{"author":{"@pid":"f/UrielFeige","text":"Uriel Feige"}},"title":"Approximating the Bandwidth via Volume Respecting Embeddings (Extended Abstract).","venue":"STOC","pages":"90-99","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/Feige98","doi":"10.1145/276698.276716","ee":"https://doi.org/10.1145/276698.276716","url":"https://dblp.org/rec/conf/stoc/Feige98"},
+"url":"URL#4912242"
+},
+{
+"@score":"1",
+"@id":"4912243",
+"info":{"authors":{"author":[{"@pid":"f/UrielFeige","text":"Uriel Feige"},{"@pid":"s/ChristianScheideler","text":"Christian Scheideler"}]},"title":"Improved Bounds for Acyclic Job Shop Scheduling (Extended Abstract).","venue":"STOC","pages":"624-633","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/FeigeS98","doi":"10.1145/276698.276878","ee":"https://doi.org/10.1145/276698.276878","url":"https://dblp.org/rec/conf/stoc/FeigeS98"},
+"url":"URL#4912243"
+},
+{
+"@score":"1",
+"@id":"4912244",
+"info":{"authors":{"author":[{"@pid":"85/4734","text":"Hervé Fournier"},{"@pid":"06/51","text":"Pascal Koiran"}]},"title":"Are Lower Bounds Easier over the Reals?","venue":"STOC","pages":"507-513","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/FournierK98","doi":"10.1145/276698.276864","ee":"https://doi.org/10.1145/276698.276864","url":"https://dblp.org/rec/conf/stoc/FournierK98"},
+"url":"URL#4912244"
+},
+{
+"@score":"1",
+"@id":"4912245",
+"info":{"authors":{"author":[{"@pid":"65/6455","text":"Yair Frankel"},{"@pid":"48/4616","text":"Philip D. MacKenzie"},{"@pid":"y/MotiYung","text":"Moti Yung"}]},"title":"Robust Efficient Distributed RSA-Key Generation.","venue":"STOC","pages":"663-672","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/FrankelMY98","doi":"10.1145/276698.276882","ee":"https://doi.org/10.1145/276698.276882","url":"https://dblp.org/rec/conf/stoc/FrankelMY98"},
+"url":"URL#4912245"
+},
+{
+"@score":"1",
+"@id":"4912246",
+"info":{"authors":{"author":{"@pid":"15/454","text":"Michael L. Fredman"}},"title":"Information Theoretic Implications for Pairing Heaps.","venue":"STOC","pages":"319-326","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/Fredman98","doi":"10.1145/276698.276779","ee":"https://doi.org/10.1145/276698.276779","url":"https://dblp.org/rec/conf/stoc/Fredman98"},
+"url":"URL#4912246"
+},
+{
+"@score":"1",
+"@id":"4912247",
+"info":{"authors":{"author":{"@pid":"f/MichaelHFreedman","text":"Michael H. Freedman"}},"title":"K-sat on Groups and Undecidability.","venue":"STOC","pages":"572-576","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/Freedman98","doi":"10.1145/276698.276871","ee":"https://doi.org/10.1145/276698.276871","url":"https://dblp.org/rec/conf/stoc/Freedman98"},
+"url":"URL#4912247"
+},
+{
+"@score":"1",
+"@id":"4912248",
+"info":{"authors":{"author":{"@pid":"80/4859","text":"Anna Gál"}},"title":"A Characterization of Span Program Size and Improved Lower Bounds for Monotone Span Programs.","venue":"STOC","pages":"429-437","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/Gal98","doi":"10.1145/276698.276855","ee":"https://doi.org/10.1145/276698.276855","url":"https://dblp.org/rec/conf/stoc/Gal98"},
+"url":"URL#4912248"
+},
+{
+"@score":"1",
+"@id":"4912249",
+"info":{"authors":{"author":[{"@pid":"93/3862","text":"Yael Gertner"},{"@pid":"05/667","text":"Yuval Ishai"},{"@pid":"k/EyalKushilevitz","text":"Eyal Kushilevitz"},{"@pid":"m/TalMalkin","text":"Tal Malkin"}]},"title":"Protecting Data Privacy in Private Information Retrieval Schemes.","venue":"STOC","pages":"151-160","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/GertnerIKM98","doi":"10.1145/276698.276723","ee":"https://doi.org/10.1145/276698.276723","url":"https://dblp.org/rec/conf/stoc/GertnerIKM98"},
+"url":"URL#4912249"
+},
+{
+"@score":"1",
+"@id":"4912250",
+"info":{"authors":{"author":[{"@pid":"g/OdedGoldreich","text":"Oded Goldreich 0001"},{"@pid":"g/ShafiGoldwasser","text":"Shafi Goldwasser"}]},"title":"On the Limits of Non-Approximability of Lattice Problems.","venue":"STOC","pages":"1-9","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/GoldreichG98","doi":"10.1145/276698.276704","ee":"https://doi.org/10.1145/276698.276704","url":"https://dblp.org/rec/conf/stoc/GoldreichG98"},
+"url":"URL#4912250"
+},
+{
+"@score":"1",
+"@id":"4912251",
+"info":{"authors":{"author":[{"@pid":"g/OdedGoldreich","text":"Oded Goldreich 0001"},{"@pid":"85/4800","text":"Dana Ron"}]},"title":"A Sublinear Bipartiteness Tester for Bunded Degree Graphs.","venue":"STOC","pages":"289-298","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/GoldreichR98","doi":"10.1145/276698.276767","ee":"https://doi.org/10.1145/276698.276767","url":"https://dblp.org/rec/conf/stoc/GoldreichR98"},
+"url":"URL#4912251"
+},
+{
+"@score":"1",
+"@id":"4912252",
+"info":{"authors":{"author":[{"@pid":"g/OdedGoldreich","text":"Oded Goldreich 0001"},{"@pid":"s/AmitSahai","text":"Amit Sahai"},{"@pid":"v/SPVadhan","text":"Salil P. Vadhan"}]},"title":"Honest-Verifier Statistical Zero-Knowledge Equals General Statistical Zero-Knowledge.","venue":"STOC","pages":"399-408","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/GoldreichSV98","doi":"10.1145/276698.276852","ee":"https://doi.org/10.1145/276698.276852","url":"https://dblp.org/rec/conf/stoc/GoldreichSV98"},
+"url":"URL#4912252"
+},
+{
+"@score":"1",
+"@id":"4912253",
+"info":{"authors":{"author":{"@pid":"g/DimaGrigoriev","text":"Dima Grigoriev"}},"title":"Randomized Complexity Lower Bounds.","venue":"STOC","pages":"219-223","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/Grigoriev98","doi":"10.1145/276698.276745","ee":"https://doi.org/10.1145/276698.276745","url":"https://dblp.org/rec/conf/stoc/Grigoriev98"},
+"url":"URL#4912253"
+},
+{
+"@score":"1",
+"@id":"4912254",
+"info":{"authors":{"author":[{"@pid":"g/DimaGrigoriev","text":"Dima Grigoriev"},{"@pid":"k/MarekKarpinski","text":"Marek Karpinski"}]},"title":"An Exponential Lower Bound for Depth 3 Arithmetic Circuits.","venue":"STOC","pages":"577-582","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/GrigorievK98","doi":"10.1145/276698.276872","ee":"https://doi.org/10.1145/276698.276872","url":"https://dblp.org/rec/conf/stoc/GrigorievK98"},
+"url":"URL#4912254"
+},
+{
+"@score":"1",
+"@id":"4912255",
+"info":{"authors":{"author":{"@pid":"68/1541","text":"Lov K. Grover"}},"title":"A Framework for Fast Quantum Mechanical Algorithms.","venue":"STOC","pages":"53-62","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/Grover98","doi":"10.1145/276698.276712","ee":"https://doi.org/10.1145/276698.276712","url":"https://dblp.org/rec/conf/stoc/Grover98"},
+"url":"URL#4912255"
+},
+{
+"@score":"1",
+"@id":"4912256",
+"info":{"authors":{"author":[{"@pid":"03/5844","text":"Jacob Holm"},{"@pid":"46/5899","text":"Kristian de Lichtenberg"},{"@pid":"t/MikkelThorup","text":"Mikkel Thorup"}]},"title":"Poly-Logarithmic Deterministic Fully-Dynamic Algorithms for Connectivity, Minimum Spanning Tree, 2-Edge, and Biconnectivity.","venue":"STOC","pages":"79-89","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/HolmLT98","doi":"10.1145/276698.276715","ee":"https://doi.org/10.1145/276698.276715","url":"https://dblp.org/rec/conf/stoc/HolmLT98"},
+"url":"URL#4912256"
+},
+{
+"@score":"1",
+"@id":"4912257",
+"info":{"authors":{"author":[{"@pid":"41/9","text":"Ming-Deh A. Huang"},{"@pid":"16/2393","text":"Ashwin J. Rao"}]},"title":"A Black Box Approach to the Algebraic Set Decomposition Problem.","venue":"STOC","pages":"497-506","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/HuangR98","doi":"10.1145/276698.276863","ee":"https://doi.org/10.1145/276698.276863","url":"https://dblp.org/rec/conf/stoc/HuangR98"},
+"url":"URL#4912257"
+},
+{
+"@score":"1",
+"@id":"4912258",
+"info":{"authors":{"author":{"@pid":"03/4487","text":"Mark Huber"}},"title":"Exact Sampling and Approximate Counting Techniques.","venue":"STOC","pages":"31-40","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/Huber98","doi":"10.1145/276698.276709","ee":"https://doi.org/10.1145/276698.276709","url":"https://dblp.org/rec/conf/stoc/Huber98"},
+"url":"URL#4912258"
+},
+{
+"@score":"1",
+"@id":"4912259",
+"info":{"authors":{"author":[{"@pid":"i/PiotrIndyk","text":"Piotr Indyk"},{"@pid":"m/RajeevMotwani","text":"Rajeev Motwani 0001"}]},"title":"Approximate Nearest Neighbors - Towards Removing the Curse of Dimensionality.","venue":"STOC","pages":"604-613","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/IndykM98","doi":"10.1145/276698.276876","ee":"https://doi.org/10.1145/276698.276876","url":"https://dblp.org/rec/conf/stoc/IndykM98"},
+"url":"URL#4912259"
+},
+{
+"@score":"1",
+"@id":"4912260",
+"info":{"authors":{"author":[{"@pid":"k/DavidRKarger","text":"David R. Karger"},{"@pid":"81/2891","text":"Matthew S. Levine"}]},"title":"Finding Maximum Flows in Undirected Graphs Seems Easier than Bipartite Matching.","venue":"STOC","pages":"69-78","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/KargerL98","doi":"10.1145/276698.276714","ee":"https://doi.org/10.1145/276698.276714","url":"https://dblp.org/rec/conf/stoc/KargerL98"},
+"url":"URL#4912260"
+},
+{
+"@score":"1",
+"@id":"4912261",
+"info":{"authors":{"author":[{"@pid":"k/SanjeevKhanna","text":"Sanjeev Khanna"},{"@pid":"05/2087","text":"Vincenzo Liberatore"}]},"title":"On Broadcast Disk Paging.","venue":"STOC","pages":"634-643","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/KhannaL98","doi":"10.1145/276698.276879","ee":"https://doi.org/10.1145/276698.276879","url":"https://dblp.org/rec/conf/stoc/KhannaL98"},
+"url":"URL#4912261"
+},
+{
+"@score":"1",
+"@id":"4912262",
+"info":{"authors":{"author":[{"@pid":"k/SanjeevKhanna","text":"Sanjeev Khanna"},{"@pid":"16/6590","text":"Shiyu Zhou"}]},"title":"On Indexed Data Broadcast.","venue":"STOC","pages":"463-472","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/KhannaZ98","doi":"10.1145/276698.276859","ee":"https://doi.org/10.1145/276698.276859","url":"https://dblp.org/rec/conf/stoc/KhannaZ98"},
+"url":"URL#4912262"
+},
+{
+"@score":"1",
+"@id":"4912263",
+"info":{"authors":{"author":{"@pid":"k/JonMKleinberg","text":"Jon M. Kleinberg"}},"title":"Decision Algorithms for Unsplittable Flow and the Half-Disjoint Paths Problem.","venue":"STOC","pages":"530-539","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/Kleinberg98","doi":"10.1145/276698.276867","ee":"https://doi.org/10.1145/276698.276867","url":"https://dblp.org/rec/conf/stoc/Kleinberg98"},
+"url":"URL#4912263"
+},
+{
+"@score":"1",
+"@id":"4912264",
+"info":{"authors":{"author":[{"@pid":"k/JonMKleinberg","text":"Jon M. Kleinberg"},{"@pid":"p/CHPapadimitriou","text":"Christos H. Papadimitriou"},{"@pid":"r/PRaghavan","text":"Prabhakar Raghavan"}]},"title":"Segmentation Problems.","venue":"STOC","pages":"473-482","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/KleinbergPR98","doi":"10.1145/276698.276860","ee":"https://doi.org/10.1145/276698.276860","url":"https://dblp.org/rec/conf/stoc/KleinbergPR98"},
+"url":"URL#4912264"
+},
+{
+"@score":"1",
+"@id":"4912265",
+"info":{"authors":{"author":[{"@pid":"k/OrnaKupferman","text":"Orna Kupferman"},{"@pid":"v/MosheYVardi","text":"Moshe Y. Vardi"}]},"title":"Weak Alternating Automata and Tree Automata Emptiness.","venue":"STOC","pages":"224-233","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/KupfermanV98","doi":"10.1145/276698.276748","ee":"https://doi.org/10.1145/276698.276748","url":"https://dblp.org/rec/conf/stoc/KupfermanV98"},
+"url":"URL#4912265"
+},
+{
+"@score":"1",
+"@id":"4912266",
+"info":{"authors":{"author":[{"@pid":"k/EyalKushilevitz","text":"Eyal Kushilevitz"},{"@pid":"o/RafailOstrovsky","text":"Rafail Ostrovsky"},{"@pid":"r/YRabani","text":"Yuval Rabani"}]},"title":"Efficient Search for Approximate Nearest Neighbor in High Dimensional Spaces.","venue":"STOC","pages":"614-623","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/KushilevitzOR98","doi":"10.1145/276698.276877","ee":"https://doi.org/10.1145/276698.276877","url":"https://dblp.org/rec/conf/stoc/KushilevitzOR98"},
+"url":"URL#4912266"
+},
+{
+"@score":"1",
+"@id":"4912267",
+"info":{"authors":{"author":[{"@pid":"55/673","text":"Christos Levcopoulos"},{"@pid":"38/5085","text":"Giri Narasimhan"},{"@pid":"35/6715","text":"Michiel H. M. Smid"}]},"title":"Efficient Algorithms for Constructing Fault-Tolerant Geometric Spanners.","venue":"STOC","pages":"186-195","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/LevcopoulosNS98","doi":"10.1145/276698.276734","ee":"https://doi.org/10.1145/276698.276734","url":"https://dblp.org/rec/conf/stoc/LevcopoulosNS98"},
+"url":"URL#4912267"
+},
+{
+"@score":"1",
+"@id":"4912268",
+"info":{"authors":{"author":[{"@pid":"88/829","text":"Daniel Lewin"},{"@pid":"v/SPVadhan","text":"Salil P. Vadhan"}]},"title":"Checking Polynomial Identities over any Field - Towards a Derandomization?","venue":"STOC","pages":"438-447","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/LewinV98","doi":"10.1145/276698.276856","ee":"https://doi.org/10.1145/276698.276856","url":"https://dblp.org/rec/conf/stoc/LewinV98"},
+"url":"URL#4912268"
+},
+{
+"@score":"1",
+"@id":"4912269",
+"info":{"authors":{"author":[{"@pid":"l/NathanLinial","text":"Nathan Linial"},{"@pid":"13/1513","text":"Avner Magen"},{"@pid":"s/MichaelESaks","text":"Michael E. Saks"}]},"title":"Trees and Euclidean Metrics.","venue":"STOC","pages":"169-175","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/LinialMS98","doi":"10.1145/276698.276726","ee":"https://doi.org/10.1145/276698.276726","url":"https://dblp.org/rec/conf/stoc/LinialMS98"},
+"url":"URL#4912269"
+},
+{
+"@score":"1",
+"@id":"4912270",
+"info":{"authors":{"author":[{"@pid":"l/NathanLinial","text":"Nathan Linial"},{"@pid":"08/2121","text":"Alex Samorodnitsky"},{"@pid":"w/AviWigderson","text":"Avi Wigderson"}]},"title":"A Deterministic Strongly Polynomial Algorithm for Matrix Scaling and Approximate Permanents.","venue":"STOC","pages":"644-652","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/LinialSW98","doi":"10.1145/276698.276880","ee":"https://doi.org/10.1145/276698.276880","url":"https://dblp.org/rec/conf/stoc/LinialSW98"},
+"url":"URL#4912270"
+},
+{
+"@score":"1",
+"@id":"4912271",
+"info":{"authors":{"author":[{"@pid":"l/MichaelLuby","text":"Michael Luby"},{"@pid":"74/838","text":"Michael Mitzenmacher"},{"@pid":"05/2386","text":"Mohammad Amin Shokrollahi"},{"@pid":"s/DanielASpielman","text":"Daniel A. Spielman"}]},"title":"Analysis of Low Density Codes and Improved Designs Using Irregular Graphs.","venue":"STOC","pages":"249-258","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/LubyMSS98","doi":"10.1145/276698.276756","ee":"https://doi.org/10.1145/276698.276756","url":"https://dblp.org/rec/conf/stoc/LubyMSS98"},
+"url":"URL#4912271"
+},
+{
+"@score":"1",
+"@id":"4912272",
+"info":{"authors":{"author":[{"@pid":"m/MichaelMolloy","text":"Michael Molloy"},{"@pid":"r/BruceAReed","text":"Bruce A. Reed"}]},"title":"Further Algorithmic Aspects of the Local Lemma.","venue":"STOC","pages":"524-529","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/MolloyR98","doi":"10.1145/276698.276866","ee":"https://doi.org/10.1145/276698.276866","url":"https://dblp.org/rec/conf/stoc/MolloyR98"},
+"url":"URL#4912272"
+},
+{
+"@score":"1",
+"@id":"4912273",
+"info":{"authors":{"author":[{"@pid":"44/1534","text":"Bernard Mourrain"},{"@pid":"93/2900","text":"Victor Y. Pan"}]},"title":"Asymptotic Acceleration of Solving Multivariate Polynomial Systems of Equations.","venue":"STOC","pages":"488-496","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/MourrainP98","doi":"10.1145/276698.276862","ee":"https://doi.org/10.1145/276698.276862","url":"https://dblp.org/rec/conf/stoc/MourrainP98"},
+"url":"URL#4912273"
+},
+{
+"@score":"1",
+"@id":"4912274",
+"info":{"authors":{"author":[{"@pid":"78/5258","text":"Assaf Natanzon"},{"@pid":"66/6913","text":"Ron Shamir"},{"@pid":"05/902","text":"Roded Sharan"}]},"title":"A Polynomial Approximation Algorithm for the Minimum Fill-In Problem.","venue":"STOC","pages":"41-47","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/NatanzonSS98","doi":"10.1145/276698.276710","ee":"https://doi.org/10.1145/276698.276710","url":"https://dblp.org/rec/conf/stoc/NatanzonSS98"},
+"url":"URL#4912274"
+},
+{
+"@score":"1",
+"@id":"4912275",
+"info":{"authors":{"author":[{"@pid":"56/6925","text":"Marcus Peinado"},{"@pid":"l/TLengauer","text":"Thomas Lengauer"}]},"title":"Random Generation of Embedded Graphs and an Extension to Dobrushin Uniqueness (Extended Abstract).","venue":"STOC","pages":"176-185","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/PeinadoL98","doi":"10.1145/276698.276729","ee":"https://doi.org/10.1145/276698.276729","url":"https://dblp.org/rec/conf/stoc/PeinadoL98"},
+"url":"URL#4912275"
+},
+{
+"@score":"1",
+"@id":"4912276",
+"info":{"authors":{"author":[{"@pid":"r/SRao","text":"Satish Rao"},{"@pid":"52/4992","text":"Warren D. Smith"}]},"title":"Approximating Geometrical Graphs via &quot;Spanners&quot; and &quot;Banyans&quot;.","venue":"STOC","pages":"540-550","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/RaoS98","doi":"10.1145/276698.276868","ee":"https://doi.org/10.1145/276698.276868","url":"https://dblp.org/rec/conf/stoc/RaoS98"},
+"url":"URL#4912276"
+},
+{
+"@score":"1",
+"@id":"4912277",
+"info":{"authors":{"author":[{"@pid":"05/2386","text":"Mohammad Amin Shokrollahi"},{"@pid":"78/2325","text":"Hal Wasserman"}]},"title":"Decoding Algebraic-Geometric Codes Beyond the Error-Correction Bound.","venue":"STOC","pages":"241-248","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/ShokrollahiW98","doi":"10.1145/276698.276753","ee":"https://doi.org/10.1145/276698.276753","url":"https://dblp.org/rec/conf/stoc/ShokrollahiW98"},
+"url":"URL#4912277"
+},
+{
+"@score":"1",
+"@id":"4912278",
+"info":{"authors":{"author":{"@pid":"t/AmnonTaShma","text":"Amnon Ta-Shma"}},"title":"Almost Optimal Dispersers.","venue":"STOC","pages":"196-202","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/Ta-Shma98","doi":"10.1145/276698.276736","ee":"https://doi.org/10.1145/276698.276736","url":"https://dblp.org/rec/conf/stoc/Ta-Shma98"},
+"url":"URL#4912278"
+},
+{
+"@score":"1",
+"@id":"4912279",
+"info":{"authors":{"author":{"@pid":"j/TSJayram","text":"Jayram S. Thathachar"}},"title":"On Separating the Read-k-Times Branching Program Hierarchy.","venue":"STOC","pages":"653-662","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/Thathachar98","doi":"10.1145/276698.276881","ee":"https://doi.org/10.1145/276698.276881","url":"https://dblp.org/rec/conf/stoc/Thathachar98"},
+"url":"URL#4912279"
+},
+{
+"@score":"1",
+"@id":"4912280",
+"info":{"authors":{"author":[{"@pid":"t/DenisTherien","text":"Denis Thérien"},{"@pid":"w/ThomasWilke","text":"Thomas Wilke"}]},"title":"Over Words, Two Variables Are as Powerful as One Quantifier Alternation.","venue":"STOC","pages":"234-240","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/TherienW98","doi":"10.1145/276698.276749","ee":"https://doi.org/10.1145/276698.276749","url":"https://dblp.org/rec/conf/stoc/TherienW98"},
+"url":"URL#4912280"
+},
+{
+"@score":"1",
+"@id":"4912281",
+"info":{"authors":{"author":{"@pid":"t/LucaTrevisan","text":"Luca Trevisan"}},"title":"Recycling Queries in PCPs and in Linearity Tests (Extended Abstract).","venue":"STOC","pages":"299-308","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/Trevisan98","doi":"10.1145/276698.276769","ee":"https://doi.org/10.1145/276698.276769","url":"https://dblp.org/rec/conf/stoc/Trevisan98"},
+"url":"URL#4912281"
+},
+{
+"@score":"1",
+"@id":"4912282",
+"info":{"authors":{"author":{"@pid":"v/NVorobjov","text":"Nicolai Vorobjov"}},"title":"Computing Local Dimension of a Semialgebraic Set.","venue":"STOC","pages":"483-487","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/Vorobjov98","doi":"10.1145/276698.276861","ee":"https://doi.org/10.1145/276698.276861","url":"https://dblp.org/rec/conf/stoc/Vorobjov98"},
+"url":"URL#4912282"
+},
+{
+"@score":"1",
+"@id":"4912283",
+"info":{"authors":{"author":{"@pid":"z/UriZwick","text":"Uri Zwick"}},"title":"Finding Almost-Satisfying Assignments.","venue":"STOC","pages":"551-560","year":"1998","type":"Conference and Workshop Papers","key":"conf/stoc/Zwick98","doi":"10.1145/276698.276869","ee":"https://doi.org/10.1145/276698.276869","url":"https://dblp.org/rec/conf/stoc/Zwick98"},
+"url":"URL#4912283"
+},
+{
+"@score":"1",
+"@id":"4915810",
+"info":{"authors":{"author":{"@pid":"v/JeffreyScottVitter","text":"Jeffrey Scott Vitter"}},"title":"Proceedings of the Thirtieth Annual ACM Symposium on the Theory of Computing, Dallas, Texas, USA, May 23-26, 1998","venue":"STOC","publisher":"ACM","year":"1998","type":"Editorship","key":"conf/stoc/1998","url":"https://dblp.org/rec/conf/stoc/1998"},
+"url":"URL#4915810"
+}
+]
+}
+}
+}
