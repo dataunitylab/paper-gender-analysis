@@ -80,27 +80,36 @@ function get_dblp_json() {
 # XXX Any conferences added here should be removed when
 #     comparing fields to match the CS Rankings list
 
-get_dblp_json -f db -t conf -k cidr -s 2003 -e 2020 -n 2
+get_dblp_json -f DB -t conf -k cidr -s 2003 -e 2020 -n 2
 
-get_dblp_json -f db -t conf -k edbt -s 88 -e 99 -o 1900
-get_dblp_json -f db -t conf -k edbt -s 2000 -e 2020
+get_dblp_json -f DB -t conf -k edbt -s 88 -e 99 -o 1900
+get_dblp_json -f DB -t conf -k edbt -s 2000 -e 2020
 
-get_dblp_json -f db -t conf -k icde -s 84 -e 99 -o 1900
-get_dblp_json -f db -t conf -k icde -s 2000 -e 2020
+get_dblp_json -f DB -t conf -k icde -s 84 -e 99 -o 1900
+get_dblp_json -f DB -t conf -k icde -s 2000 -e 2020
 
-get_dblp_json -f db -t conf -k sigmod -s 75 -e 99 -o 1900
-get_dblp_json -f db -t conf -k sigmod -s 2000 -e 2020
+get_dblp_json -f DB -t conf -k sigmod -s 75 -e 99 -o 1900
+get_dblp_json -f DB -t conf -k sigmod -s 2000 -e 2020
 
-get_dblp_json -f db -t journals -k vldb -s 1 -e 29 -o 1991 -l vldbj
+get_dblp_json -f DB -t journals -k vldb -s 1 -e 29 -o 1991 -l vldbj
 
 # VLDB is fragmented on DBLP but we collect the data together
-get_dblp_json -f db -t conf -k vldb -s 75 -e 99 -o 1900
-get_dblp_json -f db -t conf -k vldb -s 2000 -e 2007
-get_dblp_json -f db -t journals -k pvldb -s 1 -e 13 -o 2007 -l vldb
+get_dblp_json -f DB -t conf -k vldb -s 75 -e 99 -o 1900
+get_dblp_json -f DB -t conf -k vldb -s 2000 -e 2007
+get_dblp_json -f DB -t journals -k pvldb -s 1 -e 13 -o 2007 -l vldb
 
-# get_dblp_json db journals tods 1 45 1975
-#get_dblp_json db conf kdd 2010 2020 0
-#get_dblp_json db conf sigir 2010 2020 0
+# XXX Thsi breaks the pattern of having the year as part of the file name
+get_dblp_json -f DB -t conf -k dke -s 1 -e 130
+
+get_dblp_json -f DB -t conf -k dasfaa -s 89 -e 99 -o 1900 -p 2
+get_dblp_json -f DB -t conf -k adbis -s 2000 -l dasfaa
+get_dblp_json -f DB -t conf -k dasfaa -s 2001 -e 2009
+get_dblp_json -f DB -t conf -k dasfaa -s 2010 -e 2019 -n 2
+get_dblp_json -f DB -t conf -k dasfaa -s 2020 -n 3
+
+# get_dblp_json DB journals tods 1 45 1975
+#get_dblp_json DB conf kdd 2010 2020 0
+#get_dblp_json DB conf sigir 2010 2020 0
 
 
 ### AI ###
@@ -109,55 +118,55 @@ get_dblp_json -f db -t journals -k pvldb -s 1 -e 13 -o 2007 -l vldb
 
 #get_dblp_json -f ai -t conf -k icml -s 1993 -e 2020
 
-get_dblp_json -f ai -t conf -k aaai -s 80 -e 93 -o 1900
-get_dblp_json -f ai -t conf -k aaai -s 94 -e 96 -o 1900 -n 2 -p 2
-get_dblp_json -f ai -t conf -k aaai -s 97 -e 99 -o 1900
-get_dblp_json -f ai -t conf -k aaai -s 2000 -e 2004 -n 2
-get_dblp_json -f ai -t conf -k aaai -s 2005 -e 2020
+get_dblp_json -f AI -t conf -k aaai -s 80 -e 93 -o 1900
+get_dblp_json -f AI -t conf -k aaai -s 94 -e 96 -o 1900 -n 2 -p 2
+get_dblp_json -f AI -t conf -k aaai -s 97 -e 99 -o 1900
+get_dblp_json -f AI -t conf -k aaai -s 2000 -e 2004 -n 2
+get_dblp_json -f AI -t conf -k aaai -s 2005 -e 2020
 
-#get_dblp_json -f ai -t conf -k iclr -s 2013 -e 2020
+#get_dblp_json -f AI -t conf -k iclr -s 2013 -e 2020
 
-get_dblp_json -f ai -t conf -k ijcai -s 69 -e 99 -o 1900 -n 2
-get_dblp_json -f ai -t conf -k ijcai -s 2001 -e 2015 -n 2
-get_dblp_json -f ai -t conf -k ijcai -s 2016 -e 2020
+get_dblp_json -f AI -t conf -k ijcai -s 69 -e 99 -o 1900 -n 2
+get_dblp_json -f AI -t conf -k ijcai -s 2001 -e 2015 -n 2
+get_dblp_json -f AI -t conf -k ijcai -s 2016 -e 2020
 
 
 ### HCI ###
 
-get_dblp_json -f hci -t conf -k chi -s 1989 -e 1991
-get_dblp_json -f hci -t conf -k chi -s 92 -e 99 -o 1900
-get_dblp_json -f hci -t conf -k chi -s 2000 -e 2020
+get_dblp_json -f HCI -t conf -k chi -s 1989 -e 1991
+get_dblp_json -f HCI -t conf -k chi -s 92 -e 99 -o 1900
+get_dblp_json -f HCI -t conf -k chi -s 2000 -e 2020
 
-get_dblp_json -f hci -t conf -k uist -s 1988 -e 2020
+get_dblp_json -f HCI -t conf -k uist -s 1988 -e 2020
 
-get_dblp_json -f hci -t conf -k huc -s 1999 -e 2000 -l ubicomp
-get_dblp_json -f hci -t conf -g huc -k ubicomp -s 2001 -e 2019
+get_dblp_json -f HCI -t conf -k huc -s 1999 -e 2000 -l ubicomp
+get_dblp_json -f HCI -t conf -g huc -k ubicomp -s 2001 -e 2019
 
-get_dblp_json -f hci -t conf -k pervasive -s 2002 -e 2012
+get_dblp_json -f HCI -t conf -k pervasive -s 2002 -e 2012
 
-get_dblp_json -f hci -t conf -k imwut -s 1 -e 4 -o 2016
+get_dblp_json -f HCI -t conf -k imwut -s 1 -e 4 -o 2016
 
 ### Networking ###
 
-get_dblp_json -f networking -t conf -k sigcomm -s 1981 -e 2020
+get_dblp_json -f Networking -t conf -k sigcomm -s 1981 -e 2020
 
-get_dblp_json -f networking -t conf -k nsdi -s 2004 -e 2020
+get_dblp_json -f Networking -t conf -k nsdi -s 2004 -e 2020
 
 
 ### Operating Systems ###
 
-get_dblp_json -f systems -t conf -k osdi -s 94 -e 96 -o 1900 -n 2
-get_dblp_json -f systems -t conf -k osdi -s 99 -e 99 -o 1900
-get_dblp_json -f systems -t conf -k osdi -s 2000 -e 2018 -n 2
+get_dblp_json -f Operating_Systems -t conf -k osdi -s 94 -e 96 -o 1900 -n 2
+get_dblp_json -f Operating_Systems -t conf -k osdi -s 99 -e 99 -o 1900
+get_dblp_json -f Operating_Systems -t conf -k osdi -s 2000 -e 2018 -n 2
 
-get_dblp_json -f systems -t conf -k sosp -s 69 -e 99 -o 1900 -n 2
-get_dblp_json -f systems -t conf -k sosp -s 2001 -e 2019 -n 2
+get_dblp_json -f Operating_Systems -t conf -k sosp -s 69 -e 99 -o 1900 -n 2
+get_dblp_json -f Operating_Systems -t conf -k sosp -s 2001 -e 2019 -n 2
 
-get_dblp_json -f systems -t conf -k eurosys -s 2006 -o 2020
+get_dblp_json -f Operating_Systems -t conf -k eurosys -s 2006 -o 2020
 
-get_dblp_json -f systems -t conf -k fast -s 2002 -e 2020
+get_dblp_json -f Operating_Systems -t conf -k fast -s 2002 -e 2020
 
-get_dblp_json -f systems -t conf -k usenix -s 96 -e 97 -o 1900
-get_dblp_json -f systems -t conf -k usenix -s 1998
-get_dblp_json -f systems -t conf -k usenix -s 1999 -e 2006 -x g
-get_dblp_json -f systems -t conf -k usenix -s 2007 -e 2020
+get_dblp_json -f Operating_Systems -t conf -k usenix -s 96 -e 97 -o 1900
+get_dblp_json -f Operating_Systems -t conf -k usenix -s 1998
+get_dblp_json -f Operating_Systems -t conf -k usenix -s 1999 -e 2006 -x g
+get_dblp_json -f Operating_Systems -t conf -k usenix -s 2007 -e 2020

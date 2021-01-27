@@ -32,7 +32,6 @@ def infer_genders(field=None):
     for json_file in glob.glob(glob_path):
         field = json_file.split('-')[0].split('/')[1].replace('_', ' ')
         conf = json_file.split('-')[0].split('/')[-1].upper()
-        year = int(json_file.split('-')[1].split('.')[0])
 
         data = json.load(open(json_file))['result']['hits'].get('hit', [])
         for paper in data:
@@ -46,6 +45,8 @@ def infer_genders(field=None):
             # wrap the single author in list
             if not isinstance(author_info, list):
                 author_info = [author_info]
+
+            year = int(paper['info']['year'])
 
             for (index, author) in enumerate(author_info):
                 # Initialize a new data point
@@ -233,7 +234,7 @@ def main():
     df = dataframe()
 
     # Remove conferences not in CS Rankings
-    df = df[~df['conf'].isin(['EDBT', 'CIDR'])]
+    df = df[~df['conf'].isin(['CIDR', 'DASFAA', 'DKE', 'EDBT'])]
 
     aggregates = aggregate_authorship(df, group_attrs=['field', 'year'], funcs={'any': _any_female_author})
     plot_authors(aggregates['any'], 'any position', save='fields', header=False)
