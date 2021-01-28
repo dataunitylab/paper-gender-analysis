@@ -63,8 +63,11 @@ function get_dblp_json() {
                 local outfile="data/$field/$label-$(($param+$offset)).json"
                 local url="https://dblp.org/search/publ/api?q=toc%3Adb/$pub_type/$group/$key$param$suffix.bht%3A&h=1000&format=json"
             else
-                local outfile="data/$field/$label-$(($param+$offset))-$part.json"
-                local url="https://dblp.org/search/publ/api?q=toc%3Adb/$pub_type/$group/$key$param$suffix-$part.bht%3A&h=1000&format=json"
+                # XXX For now, we need to fetch the HTML and parse later
+                local outfile="data/$field/$label-$(($param+$offset))-$part.html"
+                local url="https://dblp.org/db/$pub_type/$group/$key$param$suffix-$part.html"
+                # local outfile="data/$field/$label-$(($param+$offset))-$part.json"
+                # local url="https://dblp.org/search/publ/api?q=toc%3Adb/$pub_type/$group/$key$param$suffix-$part.bht%3A&h=1000&format=json"
             fi
 
             # Download the file if does not exist

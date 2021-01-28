@@ -5,6 +5,7 @@ import glob
 import os
 import sys
 
+from bs4 import BeautifulSoup
 import genderComputer
 import matplotlib
 import matplotlib.ticker as ticker
@@ -91,6 +92,58 @@ def infer_genders(field=None):
                 gender_counts.append(datum)
 
     sys.stdout = orig_stdout
+
+    # XXX Temporarily also parse HTML
+    glob_path = os.path.join('data', field, '*.html')
+    for html_file in glob.glob(glob_path):
+        field = html_file.split('-')[0].split('/')[1].replace('_', ' ')
+        conf = html_file.split('-')[0].split('/')[-1].upper()
+
+        soup = BeautifulSoup(open(html_file).read(), 'lxml')
+        for (paper_index, paper) in enumerate(soup.select('cite.data')):
+            # Year is either the content property of a meta element
+            # or contained within the text of a span element
+            date = paper.select_one('[itemprop="datePublished"]')
+            if date.name == 'meta':
+                year = int(date.attrs['content'])
+            elif date.name == 'span':
+                year = int(date.get_text())
+            else:
+                raise ValueError('Could not find publication year')
+
+            for (index, author) in enumerate(paper.select('[itemprop="author"] [itemprop="name"]')):
+                # Initialize a new data point
+                datum = collections.OrderedDict(
+                    field=field,
+                    paper_id=html_file + str(paper_index),
+                    conf=conf,
+                    year=year,
+                    author_position=None,
+                    author_name=None,
+                    male=0,
+                    female=0,
+                    unisex=0,
+                    unknown=0
+                )
+
+                # Track which number this author is
+                datum['author_position'] = index
+
+                # Remove numerical suffixes
+                author_name = author_id = author.attrs['title'].rstrip(' 0123456789')
+                datum['author_name'] = author_name
+                datum['author_id'] = author_id
+
+                # Attempt to predict gender
+                # TODO Include author country
+                #      (perhaps from affiliation via DBLP, but not perfect)
+                gender = gc.resolveGender(author_name, None)
+                if gender is None:
+                    gender = 'unknown'
+                datum[gender] += 1
+
+                gender_counts.append(datum)
+
     return gender_counts
 
 
