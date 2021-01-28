@@ -3,6 +3,7 @@ import csv
 import json
 import glob
 import os
+import random
 import sys
 
 from bs4 import BeautifulSoup
@@ -50,6 +51,9 @@ def infer_genders(field=None):
             year = int(paper['info']['year'])
 
             for (index, author) in enumerate(author_info):
+                # Start author indexes at 1
+                index += 1
+
                 # Initialize a new data point
                 datum = collections.OrderedDict(
                     field=field,
@@ -112,6 +116,9 @@ def infer_genders(field=None):
                 raise ValueError('Could not find publication year')
 
             for (index, author) in enumerate(paper.select('[itemprop="author"] [itemprop="name"]')):
+                # Start author indexes at 1
+                index += 1
+
                 # Initialize a new data point
                 datum = collections.OrderedDict(
                     field=field,
@@ -147,7 +154,7 @@ def infer_genders(field=None):
     return gender_counts
 
 
-def dataframe(genders=None, field=None):
+def dataframe(genders=None, field=None, exclude=None):
     """
     Return the data as a Pandas DataFrame
     """
@@ -158,10 +165,36 @@ def dataframe(genders=None, field=None):
         raise ValueError("Can't specify both data and field")
 
     df = pd.DataFrame(genders)
+
+    # Optionally exclude some conferences
+    if exclude:
+        df = df[~df['conf'].isin(exclude)]
+
+    # Convert gender columns to booleans
     df['male'] = df['male'] == 1
     df['female'] = df['female'] == 1
     df['unisex'] = df['unisex'] == 1
     df['unknown'] = df['unknown'] == 1
+
+    # Calculate gender ratio
+    female_authors = df[df['female']]['author_id'].nunique()
+    male_authors = df[df['male']]['author_id'].nunique()
+    female_ratio = female_authors / (female_authors + male_authors)
+
+    # Assume a gender for each author with unknown
+    # gender based on the observed distribution
+    author_genders = {}
+    for author in df[df['unknown'] | df['unisex']]['author_id'].unique():
+        if random.random() <= female_ratio:
+            author_genders[author] = 'female'
+        else:
+            author_genders[author] = 'male'
+
+    # Set the assumed gender on the original dataframe
+    for index in df.index:
+        if df.loc[index, 'unknown'] or df.loc[index, 'unisex']:
+            gender = author_genders[df.loc[index, 'author_id']]
+            df.loc[index, gender] = True
 
     # Relabel VLDB to VLDB/PVLDB
     df.loc[df.conf == 'vldb', 'conf'] = 'vldb/pvldb'
@@ -185,7 +218,7 @@ def _first_female_author(group):
 
 def _last_female_author(group):
     # Check for the last author of a paper being female
-    return group['female'].iloc[group['author_position_last'].iloc[0]]
+    return group['female'].iloc[group['author_position_last'].iloc[0] - 1]
 
 
 def _any_female_author(group):
@@ -277,21 +310,19 @@ def main():
         csv_writer.writerow(row.values())
 
     # Save plots to file
-    df = dataframe(genders)
-    df = df[~df['conf'].isin(['PODS'])]
+    df = dataframe(genders, exclude=['PODS'])
     aggregates = aggregate_authorship(df)
     plot_authors(aggregates['all'], 'all positions', save=True, header=False)
     plot_authors(aggregates['any'], 'any position', save=True, header=False)
     plot_authors(aggregates['first'], 'first author', save=True, header=False)
     plot_authors(aggregates['last'], 'last author', save=True, header=False)
 
-    df = dataframe()
 
-    # Remove conferences not in CS Rankings
-    df = df[~df['conf'].isin(['CIDR', 'DASFAA', 'DKE', 'EDBT'])]
+    # Get all fields without conferences not in CS Rankings
+    df = dataframe(exclude=['CIDR', 'DASFAA', 'DKE', 'EDBT'])
 
-    aggregates = aggregate_authorship(df, group_attrs=['field', 'year'], funcs={'any': _any_female_author})
-    plot_authors(aggregates['any'], 'any position', save='fields', header=False)
+    aggregates = aggregate_authorship(df, group_attrs=['field', 'year'], funcs={'first': _first_female_author})
+    plot_authors(aggregates['first'], 'first author', save='fields', header=False)
 
 
 if __name__ == '__main__':
