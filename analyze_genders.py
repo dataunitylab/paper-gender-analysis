@@ -154,7 +154,48 @@ def infer_genders(field=None):
     return gender_counts
 
 
-def dataframe(genders=None, field=None, exclude=None):
+def _assume_gender_weighted(df):
+    """
+    Assume the gender of unknown/unisex names to be proportional
+    to the ratio of known male/female names in the remainder
+    """
+
+    # Calculate gender ratio
+    known = df[~df['unisex'] & ~df['unknown']]
+    female_authors = known[known['female']]['author_id'].nunique()
+    male_authors = known[known['male']]['author_id'].nunique()
+    female_ratio = female_authors / (female_authors + male_authors)
+
+    # Assume a gender for each author with unknown
+    # gender based on the observed distribution
+    author_genders = {}
+    for author in df[df['unknown'] | df['unisex']]['author_id'].unique():
+        if random.random() <= female_ratio:
+            author_genders[author] = 'female'
+        else:
+            author_genders[author] = 'male'
+
+    # Set the assumed gender on the original dataframe
+    for index in df.index:
+        if df.loc[index, 'unknown'] or df.loc[index, 'unisex']:
+            gender = author_genders[df.loc[index, 'author_id']]
+            df.loc[index, gender] = True
+
+
+def _assume_gender_static(df, gender='female'):
+    """
+    Use a single static value for genders which could not be inferred
+    """
+    unknown = df['unknown'] | df['unisex']
+    if gender == 'female':
+        df.loc[unknown, 'female'] = True
+        df.loc[unknown, 'male'] = False
+    elif gender == 'male':
+        df.loc[unknown, 'male'] = True
+        df.loc[unknown, 'female'] = False
+
+
+def dataframe(genders=None, field=None, exclude=None, assume=_assume_gender_weighted):
     """
     Return the data as a Pandas DataFrame
     """
@@ -176,25 +217,9 @@ def dataframe(genders=None, field=None, exclude=None):
     df['unisex'] = df['unisex'] == 1
     df['unknown'] = df['unknown'] == 1
 
-    # Calculate gender ratio
-    female_authors = df[df['female']]['author_id'].nunique()
-    male_authors = df[df['male']]['author_id'].nunique()
-    female_ratio = female_authors / (female_authors + male_authors)
-
-    # Assume a gender for each author with unknown
-    # gender based on the observed distribution
-    author_genders = {}
-    for author in df[df['unknown'] | df['unisex']]['author_id'].unique():
-        if random.random() <= female_ratio:
-            author_genders[author] = 'female'
-        else:
-            author_genders[author] = 'male'
-
-    # Set the assumed gender on the original dataframe
-    for index in df.index:
-        if df.loc[index, 'unknown'] or df.loc[index, 'unisex']:
-            gender = author_genders[df.loc[index, 'author_id']]
-            df.loc[index, gender] = True
+    # Assume the gender of those authors who could not automatically inferred
+    if assume:
+        assume(df)
 
     # Relabel VLDB to VLDB/PVLDB
     df.loc[df.conf == 'vldb', 'conf'] = 'vldb/pvldb'
