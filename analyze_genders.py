@@ -1,5 +1,6 @@
 import collections
 import csv
+import itertools
 import json
 import glob
 import os
@@ -287,6 +288,11 @@ def plot_authors(df, plot_label, save=None, header=True):
     else:
         plot_title = None
     fig = rolling_mean.plot(figsize=(15, 8), title=plot_title)
+
+    # Set the markers
+    markers = itertools.cycle((',', '+', '.', 'o', '*', 'x', '^', 'P'))
+    for line in fig.get_lines():
+        line.set_marker(next(markers))
 
     # Add x-axis labels every other year
     fig.xaxis.set_major_locator(ticker.MultipleLocator(5))
