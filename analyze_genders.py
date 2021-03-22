@@ -1,10 +1,13 @@
+import codecs
 import collections
 import csv
+import io
 import itertools
 import json
 import glob
 import os
 import random
+import re
 import sys
 
 from bs4 import BeautifulSoup
@@ -12,19 +15,87 @@ import genderComputer
 import matplotlib
 import matplotlib.ticker as ticker
 import pandas as pd
+import tabulator
 
 
-def infer_genders(field=None):
+def load_data_file(fh, header_row=1, header_map=None):
+    """
+    Read data from a file for analysis
+    """
+    gender_counts = []
+    with tabulator.Stream(fh, scheme='stream', format='csv', headers=header_row) as stream:
+        if not stream.headers and not header_map:
+            sys.stderr.write('If no headers are available, a map from column names to indices is required.')
+            sys.exit(1)
+
+        if header_map is None:
+            header_map = {
+                'authors': 'authors',
+            }
+
+            # Add optional mappings if they exist
+            if stream.headers:
+                if 'paper_id' in stream.headers:
+                    header_map['paper_id'] = 'paper_id'
+                if 'field' in stream.headers:
+                    header_map['field'] = 'field'
+                if 'conf' in stream.headers:
+                    header_map['conf'] = 'conf'
+                if 'year' in stream.headers:
+                    header_map['year'] = 'year'
+
+                if 'author_position' in stream.headers and 'author_name' in stream.headers:
+                    header_map['author_position'] = 'author_position'
+                    header_map['author_name'] = 'author_name'
+                    del header_map['authors']
+
+        for (paper_id, row) in enumerate(stream.iter(keyed=header_row is not None)):
+            datum = collections.OrderedDict(
+                field=None,
+                paper_id=paper_id,
+                conf=None,
+                year=None,
+                author_position=None,
+                author_id=None,
+                author_name=None,
+                male=0,
+                female=0,
+                unisex=0,
+                unknown=0,
+            )
+
+            if 'authors' in header_map:
+                # Read multiple authors assuming they are comma or "and" separated
+                skipped = 0
+                for (author_position, author_name) in enumerate(re.split(',|\Wand\W', row[header_map['authors']])):
+                    author_name = author_name.strip()
+                    if author_name == 'and':
+                        skipped += 1
+                    else:
+                        datum = datum.copy()
+                        datum['author_position'] = author_position - skipped
+                        datum['author_name'] = author_name
+                        datum['author_id'] = author_name
+
+                        gender_counts.append(datum)
+            else:
+                # Read everything using the given header mapping
+                for (orig, this) in header_map.items():
+                    datum[orig] = row[this]
+
+                if datum['author_id'] is None:
+                    datum['author_id'] = datum['author_name']
+
+                gender_counts.append(datum)
+
+    return gender_counts
+
+
+def load_data_dblp(field=None):
     """
     Construct a dictionary of first author counts by gender from
     DBLP JSON files which match a particular glob pattern
     """
-    # Redirect stdout because the genderComputer library
-    # prints things without a way to disable it
-    orig_stdout = sys.stdout
-    sys.stdout = open('/dev/null', 'w')
-
-    gc = genderComputer.GenderComputer()
     gender_counts = []
 
     # If no field is specified, use them all
@@ -62,6 +133,7 @@ def infer_genders(field=None):
                     conf=conf,
                     year=year,
                     author_position=None,
+                    author_id=None,
                     author_name=None,
                     male=0,
                     female=0,
@@ -86,17 +158,7 @@ def infer_genders(field=None):
                 datum['author_name'] = author_name
                 datum['author_id'] = author_id
 
-                # Attempt to predict gender
-                # TODO Include author country
-                #      (perhaps from affiliation via DBLP, but not perfect)
-                gender = gc.resolveGender(author_name, None)
-                if gender is None:
-                    gender = 'unknown'
-                datum[gender] += 1
-
                 gender_counts.append(datum)
-
-    sys.stdout = orig_stdout
 
     # XXX Temporarily also parse HTML
     glob_path = os.path.join('data', field, '*.html')
@@ -142,18 +204,38 @@ def infer_genders(field=None):
                 datum['author_name'] = author_name
                 datum['author_id'] = author_id
 
-                # Attempt to predict gender
-                # TODO Include author country
-                #      (perhaps from affiliation via DBLP, but not perfect)
-                gender = gc.resolveGender(author_name, None)
-                if gender is None:
-                    gender = 'unknown'
-                datum[gender] += 1
-
                 gender_counts.append(datum)
 
     return gender_counts
 
+def populate_genders(data):
+    """
+    Attempt to infer a gender for each row in the dataset.
+
+    For many reasons, not limited to the following,
+    this is a highly imperfect analysis:
+
+    1. Many names are commonly used by people of different gender identities.
+    2. An individual may not have a name traditionally used
+       by someone of their gender identity.
+    3. Only binary gender identities are considered.
+    """
+    # Redirect stdout because the genderComputer library
+    # prints things without a way to disable it
+    orig_stdout = sys.stdout
+    sys.stdout = open('/dev/null', 'w')
+
+    gc = genderComputer.GenderComputer()
+    for datum in data:
+        # Attempt to predict gender
+        # TODO Include author country
+        #      (perhaps from affiliation via DBLP, but not perfect)
+        gender = gc.resolveGender(datum['author_name'], None)
+        if gender is None:
+            gender = 'unknown'
+        datum[gender] += 1
+
+    sys.stdout = orig_stdout
 
 def _assume_gender_weighted(df):
     """
@@ -202,7 +284,8 @@ def dataframe(genders=None, field=None, exclude=None, assume=_assume_gender_weig
     """
     # Infer genders for data files in the data/ directory
     if genders is None:
-        genders = infer_genders(field)
+        genders = load_data_dblp(field)
+        populate_genders(genders)
     elif field is not None:
         raise ValueError("Can't specify both data and field")
 
@@ -268,11 +351,12 @@ def aggregate_authorship(df, group_attrs=['conf', 'year'], funcs=None):
         }
     for (name, fn) in funcs.items():
         # First group by paper ID to calculate values per paper
-        df_agg = df.groupby(['paper_id'] + group_attrs) \
-                   .apply(fn).to_frame('female')
+        grouped = df.groupby(['paper_id'] + group_attrs).apply(fn)
 
-        # Then group by conference and year and calculate the percentage
-        aggregates[name] = df_agg.groupby(group_attrs).mean().multiply(100)
+        if not grouped.empty:
+            # Then group by conference and year and calculate the percentage
+            df_agg = grouped.to_frame('female')
+            aggregates[name] = df_agg.groupby(group_attrs).mean().multiply(100)
 
     return aggregates
 
@@ -328,8 +412,18 @@ def plot_authors(df, plot_label, save=None, header=True):
 
 
 def main():
-    # Infer genders for data files in the data/ directory
-    genders = infer_genders(field='DB')
+    pd.set_option('display.max_columns', None)
+    if sys.stdin.isatty():
+        # Load data for DBLP files in the data/ directory
+        genders = load_data_dblp(field='DB')
+        dblp = True
+    else:
+        # Load data provided on standard input
+        genders = load_data_file(sys.stdin.buffer)
+        dblp = False
+
+    # Add the predicted genders to the data
+    populate_genders(genders)
 
     # Write a header row
     csv_writer = csv.writer(open(os.path.join('output', 'gender.csv'), 'w'))
@@ -341,19 +435,26 @@ def main():
         csv_writer.writerow(row.values())
 
     # Save plots to file
-    df = dataframe(genders, exclude=['PODS'])
+    if dblp:
+        exclude = ['PODS']
+    else:
+        exclude = None
+    df = dataframe(genders, exclude=exclude)
     aggregates = aggregate_authorship(df)
-    plot_authors(aggregates['all'], 'all positions', save=True, header=False)
-    plot_authors(aggregates['any'], 'any position', save=True, header=False)
-    plot_authors(aggregates['first'], 'first author', save=True, header=False)
-    plot_authors(aggregates['last'], 'last author', save=True, header=False)
+    if aggregates:
+        plot_authors(aggregates['all'], 'all positions', save=True, header=False)
+        plot_authors(aggregates['any'], 'any position', save=True, header=False)
+        plot_authors(aggregates['first'], 'first author', save=True, header=False)
+        plot_authors(aggregates['last'], 'last author', save=True, header=False)
 
 
-    # Get all fields without conferences not in CS Rankings
-    df = dataframe(exclude=['CIDR', 'DASFAA', 'DKE', 'EDBT'])
+    # Perform additional analysis only for the DBLP dataset
+    if dblp:
+        # Get all fields without conferences not in CS Rankings
+        df = dataframe(exclude=['CIDR', 'DASFAA', 'DKE', 'EDBT'])
 
-    aggregates = aggregate_authorship(df, group_attrs=['field', 'year'], funcs={'first': _first_female_author})
-    plot_authors(aggregates['first'], 'first author', save='fields', header=False)
+        aggregates = aggregate_authorship(df, group_attrs=['field', 'year'], funcs={'first': _first_female_author})
+        plot_authors(aggregates['first'], 'first author', save='fields', header=False)
 
 
 if __name__ == '__main__':
