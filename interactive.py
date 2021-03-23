@@ -51,9 +51,18 @@ if uploaded_file is not None:
         if value is not None:
             header_map[field] = value
 
+    # Perform gender analysis and display the resulting dataframe
     genders = analyze_genders.load_data_file(file_like, header_row=header_row, header_map=header_map)
     analyze_genders.populate_genders(genders)
-    df = analyze_genders.dataframe(genders)
+    df = analyze_genders.dataframe(genders, assume=None)
 
     st.write(df)
     st.markdown(get_table_download_link(df), unsafe_allow_html=True)
+
+    # Plot the numbers
+    first_authors = df[df['author_position'] == 0]
+    counts = first_authors.agg('sum').to_frame().transpose()
+    counts = counts[['male', 'female', 'unisex', 'unknown']].transpose()
+    counts = counts.rename(columns={0: 'Count'})
+    st.markdown('## Count of first authors by gender')
+    st.bar_chart(counts)
