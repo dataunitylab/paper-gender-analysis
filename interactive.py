@@ -1,3 +1,4 @@
+import base64
 import io
 
 import streamlit as st
@@ -7,6 +8,15 @@ import analyze_genders
 
 
 FIELDS = ['field', 'paper_id', 'conf', 'year', 'authors']
+
+
+def get_table_download_link(df):
+    """
+    Generates a link allowing the data in a panda dataframe to be downloaded
+    """
+    csv = df.to_csv(index=False)
+    b64 = base64.b64encode(csv.encode()).decode()
+    return f'<a href="data:file/csv;base64,{b64}" download="data.csv">Download CSV file</a>'
 
 uploaded_file = st.file_uploader('Input file for analysis', type='csv')
 has_header = st.checkbox('CSV file has header', value=True)
@@ -46,3 +56,4 @@ if uploaded_file is not None:
     df = analyze_genders.dataframe(genders)
 
     st.write(df)
+    st.markdown(get_table_download_link(df), unsafe_allow_html=True)
