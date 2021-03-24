@@ -63,9 +63,9 @@ def infer_genders(field=None):
                     year=year,
                     author_position=None,
                     author_name=None,
-                    male=0,
-                    female=0,
-                    unisex=0,
+                    man=0,
+                    woman=0,
+                    neutral=0,
                     unknown=0
                 )
 
@@ -128,9 +128,9 @@ def infer_genders(field=None):
                     year=year,
                     author_position=None,
                     author_name=None,
-                    male=0,
-                    female=0,
-                    unisex=0,
+                    man=0,
+                    woman=0,
+                    neutral=0,
                     unknown=0
                 )
 
@@ -157,43 +157,43 @@ def infer_genders(field=None):
 
 def _assume_gender_weighted(df):
     """
-    Assume the gender of unknown/unisex names to be proportional
-    to the ratio of known male/female names in the remainder
+    Assume the gender of unknown/neutral names to be proportional
+    to the ratio of known man/woman names in the remainder
     """
 
     # Calculate gender ratio
-    known = df[~df['unisex'] & ~df['unknown']]
-    female_authors = known[known['female']]['author_id'].nunique()
-    male_authors = known[known['male']]['author_id'].nunique()
-    female_ratio = female_authors / (female_authors + male_authors)
+    known = df[~df['neutral'] & ~df['unknown']]
+    woman_authors = known[known['woman']]['author_id'].nunique()
+    man_authors = known[known['man']]['author_id'].nunique()
+    woman_ratio = woman_authors / (woman_authors + man_authors)
 
     # Assume a gender for each author with unknown
     # gender based on the observed distribution
     author_genders = {}
-    for author in df[df['unknown'] | df['unisex']]['author_id'].unique():
-        if random.random() <= female_ratio:
-            author_genders[author] = 'female'
+    for author in df[df['unknown'] | df['neutral']]['author_id'].unique():
+        if random.random() <= woman_ratio:
+            author_genders[author] = 'woman'
         else:
-            author_genders[author] = 'male'
+            author_genders[author] = 'man'
 
     # Set the assumed gender on the original dataframe
     for index in df.index:
-        if df.loc[index, 'unknown'] or df.loc[index, 'unisex']:
+        if df.loc[index, 'unknown'] or df.loc[index, 'neutral']:
             gender = author_genders[df.loc[index, 'author_id']]
             df.loc[index, gender] = True
 
 
-def _assume_gender_static(df, gender='female'):
+def _assume_gender_static(df, gender='woman'):
     """
     Use a single static value for genders which could not be inferred
     """
-    unknown = df['unknown'] | df['unisex']
-    if gender == 'female':
-        df.loc[unknown, 'female'] = True
-        df.loc[unknown, 'male'] = False
-    elif gender == 'male':
-        df.loc[unknown, 'male'] = True
-        df.loc[unknown, 'female'] = False
+    unknown = df['unknown'] | df['neutral']
+    if gender == 'woman':
+        df.loc[unknown, 'woman'] = True
+        df.loc[unknown, 'man'] = False
+    elif gender == 'man':
+        df.loc[unknown, 'man'] = True
+        df.loc[unknown, 'woman'] = False
 
 
 def dataframe(genders=None, field=None, exclude=None, assume=_assume_gender_weighted):
@@ -213,9 +213,9 @@ def dataframe(genders=None, field=None, exclude=None, assume=_assume_gender_weig
         df = df[~df['conf'].isin(exclude)]
 
     # Convert gender columns to booleans
-    df['male'] = df['male'] == 1
-    df['female'] = df['female'] == 1
-    df['unisex'] = df['unisex'] == 1
+    df['man'] = df['man'] == 1
+    df['woman'] = df['woman'] == 1
+    df['neutral'] = df['neutral'] == 1
     df['unknown'] = df['unknown'] == 1
 
     # Assume the gender of those authors who could not automatically inferred
@@ -237,39 +237,39 @@ def dataframe(genders=None, field=None, exclude=None, assume=_assume_gender_weig
     return df
 
 
-def _first_female_author(group):
-    # Check for the first author of a paper being female
-    return group['female'].iloc[0]
+def _first_woman_author(group):
+    # Check for the first author of a paper being a woman
+    return group['woman'].iloc[0]
 
 
-def _last_female_author(group):
-    # Check for the last author of a paper being female
-    return group['female'].iloc[group['author_position_last'].iloc[0] - 1]
+def _last_woman_author(group):
+    # Check for the last author of a paper being a woman
+    return group['woman'].iloc[group['author_position_last'].iloc[0] - 1]
 
 
-def _any_female_author(group):
-    # Check for any author of a paper being female
-    return group['female'].any()
+def _any_woman_author(group):
+    # Check for any author of a paper being a woman
+    return group['woman'].any()
 
 
-def _all_female_author(group):
-    # Check for all authors of a paper being female
-    return group['female'].all()
+def _all_woman_author(group):
+    # Check for all authors of a paper being a woman
+    return group['woman'].all()
 
 
 def aggregate_authorship(df, group_attrs=['conf', 'year'], funcs=None):
     aggregates = {}
     if funcs is None:
         funcs = {
-            'first': _first_female_author,
-            'last': _last_female_author,
-            'any': _any_female_author,
-            'all': _all_female_author
+            'first': _first_woman_author,
+            'last': _last_woman_author,
+            'any': _any_woman_author,
+            'all': _all_woman_author
         }
     for (name, fn) in funcs.items():
         # First group by paper ID to calculate values per paper
         df_agg = df.groupby(['paper_id'] + group_attrs) \
-                   .apply(fn).to_frame('female')
+                   .apply(fn).to_frame('woman')
 
         # Then group by conference and year and calculate the percentage
         aggregates[name] = df_agg.groupby(group_attrs).mean().multiply(100)
@@ -284,7 +284,7 @@ def plot_authors(df, plot_label, save=None, header=True):
 
     # Generate a simple line plot
     if header:
-        plot_title = 'Female authors by year (%s)' % plot_label
+        plot_title = 'Authors who are women by year (%s)' % plot_label
     else:
         plot_title = None
     fig = rolling_mean.plot(figsize=(15, 8), title=plot_title)
@@ -352,7 +352,7 @@ def main():
     # Get all fields without conferences not in CS Rankings
     df = dataframe(exclude=['CIDR', 'DASFAA', 'DKE', 'EDBT'])
 
-    aggregates = aggregate_authorship(df, group_attrs=['field', 'year'], funcs={'first': _first_female_author})
+    aggregates = aggregate_authorship(df, group_attrs=['field', 'year'], funcs={'first': _first_woman_author})
     plot_authors(aggregates['first'], 'first author', save='fields', header=False)
 
 
