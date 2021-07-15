@@ -127,6 +127,7 @@ def infer_genders(field=None):
                     conf=conf,
                     year=year,
                     author_position=None,
+                    author_id=None,
                     author_name=None,
                     man=0,
                     woman=0,
