@@ -14,17 +14,28 @@ import matplotlib.ticker as ticker
 import pandas as pd
 
 
-def infer_genders(field=None):
-    """
-    Construct a dictionary of first author counts by gender from
-    DBLP JSON files which match a particular glob pattern
-    """
+def resolve_gender_gc(author_name):
     # Redirect stdout because the genderComputer library
     # prints things without a way to disable it
     orig_stdout = sys.stdout
     sys.stdout = open('/dev/null', 'w')
 
-    gc = genderComputer.GenderComputer()
+    if not hasattr(resolve_gender_gc, 'gc'):
+        resolve_gender_gc.gc = genderComputer.GenderComputer()
+
+    gender = resolve_gender_gc.gc.resolveGender(author_name, None)
+
+    # Restore stdout
+    sys.stdout = orig_stdout
+
+    return gender
+
+
+def infer_genders(field=None, resolve_gender=resolve_gender_gc):
+    """
+    Construct a dictionary of first author counts by gender from
+    DBLP JSON files which match a particular glob pattern
+    """
     gender_counts = []
 
     # If no field is specified, use them all
@@ -89,14 +100,12 @@ def infer_genders(field=None):
                 # Attempt to predict gender
                 # TODO Include author country
                 #      (perhaps from affiliation via DBLP, but not perfect)
-                gender = gc.resolveGender(author_name, None)
+                gender = resolve_gender(author_name)
                 if gender is None:
                     gender = 'unknown'
                 datum[gender] += 1
 
                 gender_counts.append(datum)
-
-    sys.stdout = orig_stdout
 
     # XXX Temporarily also parse HTML
     glob_path = os.path.join('data', field, '*.html')
@@ -146,7 +155,7 @@ def infer_genders(field=None):
                 # Attempt to predict gender
                 # TODO Include author country
                 #      (perhaps from affiliation via DBLP, but not perfect)
-                gender = gc.resolveGender(author_name, None)
+                gender = resolve_gender(author_name)
                 if gender is None:
                     gender = 'unknown'
                 datum[gender] += 1
