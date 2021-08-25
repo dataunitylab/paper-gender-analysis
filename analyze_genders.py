@@ -14,7 +14,7 @@ import matplotlib.ticker as ticker
 import pandas as pd
 
 
-def resolve_gender_gc(author_name):
+def resolve_gender_gc(author_name, author_id):
     # Redirect stdout because the genderComputer library
     # prints things without a way to disable it
     orig_stdout = sys.stdout
@@ -31,7 +31,34 @@ def resolve_gender_gc(author_name):
     return gender
 
 
-def infer_genders(field=None, resolve_gender=resolve_gender_gc):
+def resolve_gender_static(author_name, author_id):
+    # Load the statically defined data
+    if not hasattr(resolve_gender_static, 'gender_dict'):
+        df = pd.read_csv('authors_of_all_fields_gender_gapi.csv', dtype={'paper_id': 'string'})
+        resolve_gender_static.gender_dict = {}
+        for _, row in df.iterrows():
+            gender = 'unknown'
+            if row['man']:
+                gender = 'man'
+            elif row['woman']:
+                gender = 'woman'
+            elif row['neutral']:
+                gender = 'neutral'
+
+            resolve_gender_static.gender_dict[row['author_id'].strip()] = gender
+            resolve_gender_static.gender_dict[row['author_name'].strip()] = gender
+
+    author_id = author_id.strip()
+    author_name = author_name.strip()
+
+    if author_id in resolve_gender_static.gender_dict:
+        return resolve_gender_static.gender_dict[author_id]
+    else:
+        return resolve_gender_static.gender_dict.get(author_name, 'unknown')
+
+
+
+def infer_genders(field=None, resolve_gender=resolve_gender_static):
     """
     Construct a dictionary of first author counts by gender from
     DBLP JSON files which match a particular glob pattern
@@ -100,7 +127,7 @@ def infer_genders(field=None, resolve_gender=resolve_gender_gc):
                 # Attempt to predict gender
                 # TODO Include author country
                 #      (perhaps from affiliation via DBLP, but not perfect)
-                gender = resolve_gender(author_name)
+                gender = resolve_gender(author_name, author_id)
                 if gender is None:
                     gender = 'unknown'
                 datum[gender] += 1
@@ -155,7 +182,7 @@ def infer_genders(field=None, resolve_gender=resolve_gender_gc):
                 # Attempt to predict gender
                 # TODO Include author country
                 #      (perhaps from affiliation via DBLP, but not perfect)
-                gender = resolve_gender(author_name)
+                gender = resolve_gender(author_name, author_id)
                 if gender is None:
                     gender = 'unknown'
                 datum[gender] += 1
