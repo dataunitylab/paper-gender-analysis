@@ -182,7 +182,7 @@ get_dblp_json -f Operating_Systems -t conf -k usenix -s 2007 -e 2020
 
 ### Algorithms ###
 
-get_dblp_json -f Algorithms -t conf -k focs -s 75 -e 99 -o 1900
+get_dblp_json -f Algorithms -t conf -k focs -s 60 -e 99 -o 1900
 get_dblp_json -f Algorithms -t conf -k focs -s 2000 -e 2020
 
 get_dblp_json -f Algorithms -t conf -k soda -s 90 -e 99 -o 1900
