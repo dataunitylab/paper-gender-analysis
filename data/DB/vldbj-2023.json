@@ -1,0 +1,92 @@
+{
+"result":{
+"query":":facetid:toc:\"db/journals/vldb/vldb32.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"164.38"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"10",
+"@dc":"10",
+"@oc":"10",
+"@id":"39142086",
+"text":":facetid:toc:db/journals/vldb/vldb32.bht"
+}
+},
+"hits":{
+"@total":"10",
+"@computed":"10",
+"@sent":"10",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"21108",
+"info":{"authors":{"author":[{"@pid":"181/2832-70","text":"Wei Chen 0070"},{"@pid":"57/3195-1","text":"Weiqing Wang 0001"},{"@pid":"04/10606","text":"Hongzhi Yin"},{"@pid":"87/734-1","text":"Lei Zhao 0001"},{"@pid":"z/XiaofangZhou","text":"Xiaofang Zhou 0001"}]},"title":"HFUL: a hybrid framework for user account linkage across location-aware social networks.","venue":"VLDB J.","volume":"32","number":"1","pages":"1-22","year":"2023","type":"Journal Articles","access":"closed","key":"journals/vldb/ChenWYZZ23","doi":"10.1007/S00778-022-00730-8","ee":"https://doi.org/10.1007/s00778-022-00730-8","url":"https://dblp.org/rec/journals/vldb/ChenWYZZ23"},
+"url":"URL#21108"
+},
+{
+"@score":"1",
+"@id":"21109",
+"info":{"authors":{"author":[{"@pid":"227/8862-1","text":"Zeyu Ding 0001"},{"@pid":"68/1041","text":"Yuxin Wang"},{"@pid":"244/1962","text":"Yingtai Xiao"},{"@pid":"220/3826","text":"Guanhong Wang"},{"@pid":"23/3719","text":"Danfeng Zhang"},{"@pid":"84/114","text":"Daniel Kifer"}]},"title":"Free gap estimates from the exponential mechanism, sparse vector, noisy max and related algorithms.","venue":"VLDB J.","volume":"32","number":"1","pages":"23-48","year":"2023","type":"Journal Articles","access":"closed","key":"journals/vldb/DingWXWZK23","doi":"10.1007/S00778-022-00728-2","ee":"https://doi.org/10.1007/s00778-022-00728-2","url":"https://dblp.org/rec/journals/vldb/DingWXWZK23"},
+"url":"URL#21109"
+},
+{
+"@score":"1",
+"@id":"21110",
+"info":{"authors":{"author":[{"@pid":"94/2372","text":"Wenfei Fan"},{"@pid":"170/1753","text":"Yuanhao Li"},{"@pid":"222/4916","text":"Muyang Liu"},{"@pid":"149/1789","text":"Can Lu"}]},"title":"Making graphs compact by lossless contraction.","venue":"VLDB J.","volume":"32","number":"1","pages":"49-73","year":"2023","type":"Journal Articles","access":"closed","key":"journals/vldb/FanLLL23","doi":"10.1007/S00778-022-00731-7","ee":"https://doi.org/10.1007/s00778-022-00731-7","url":"https://dblp.org/rec/journals/vldb/FanLLL23"},
+"url":"URL#21110"
+},
+{
+"@score":"1",
+"@id":"21111",
+"info":{"authors":{"author":[{"@pid":"94/2372","text":"Wenfei Fan"},{"@pid":"210/1897","text":"Ruiqi Xu"},{"@pid":"20/9622-2","text":"Qiang Yin 0002"},{"@pid":"53/5676","text":"Wenyuan Yu"},{"@pid":"84/2644","text":"Jingren Zhou"}]},"title":"Application-driven graph partitioning.","venue":"VLDB J.","volume":"32","number":"1","pages":"149-172","year":"2023","type":"Journal Articles","access":"closed","key":"journals/vldb/FanXYYZ23","doi":"10.1007/S00778-022-00736-2","ee":"https://doi.org/10.1007/s00778-022-00736-2","url":"https://dblp.org/rec/journals/vldb/FanXYYZ23"},
+"url":"URL#21111"
+},
+{
+"@score":"1",
+"@id":"21112",
+"info":{"authors":{"author":[{"@pid":"243/0219","text":"Jiacheng Huang"},{"@pid":"52/173-7","text":"Wei Hu 0007"},{"@pid":"20/3716","text":"Zhifeng Bao"},{"@pid":"193/2124","text":"Qijin Chen"},{"@pid":"05/1694","text":"Yuzhong Qu"}]},"title":"Deep entity matching with adversarial active learning.","venue":"VLDB J.","volume":"32","number":"1","pages":"229-255","year":"2023","type":"Journal Articles","access":"closed","key":"journals/vldb/HuangHBCQ23","doi":"10.1007/S00778-022-00745-1","ee":"https://doi.org/10.1007/s00778-022-00745-1","url":"https://dblp.org/rec/journals/vldb/HuangHBCQ23"},
+"url":"URL#21112"
+},
+{
+"@score":"1",
+"@id":"21113",
+"info":{"authors":{"author":[{"@pid":"37/2109","text":"Gang Liu"},{"@pid":"287/9977","text":"Leying Chen"},{"@pid":"c/ShiminChen","text":"Shimin Chen"}]},"title":"Zen+: a robust NUMA-aware OLTP engine optimized for non-volatile main memory.","venue":"VLDB J.","volume":"32","number":"1","pages":"123-148","year":"2023","type":"Journal Articles","access":"closed","key":"journals/vldb/LiuCC23","doi":"10.1007/S00778-022-00737-1","ee":"https://doi.org/10.1007/s00778-022-00737-1","url":"https://dblp.org/rec/journals/vldb/LiuCC23"},
+"url":"URL#21113"
+},
+{
+"@score":"1",
+"@id":"21114",
+"info":{"authors":{"author":[{"@pid":"241/7225","text":"Raoni Lourenço"},{"@pid":"f/JulianaFreire","text":"Juliana Freire"},{"@pid":"s/EricSimon","text":"Eric Simon"},{"@pid":"88/11149","text":"Gabriel Weber"},{"@pid":"s/DennisShasha","text":"Dennis E. Shasha"}]},"title":"BugDoc.","venue":"VLDB J.","volume":"32","number":"1","pages":"75-101","year":"2023","type":"Journal Articles","access":"closed","key":"journals/vldb/LourencoFSWS23","doi":"10.1007/S00778-022-00733-5","ee":"https://doi.org/10.1007/s00778-022-00733-5","url":"https://dblp.org/rec/journals/vldb/LourencoFSWS23"},
+"url":"URL#21114"
+},
+{
+"@score":"1",
+"@id":"21115",
+"info":{"authors":{"author":[{"@pid":"223/7951","text":"Stavros Maroulis"},{"@pid":"57/7247","text":"Nikos Bikakis"},{"@pid":"44/2379","text":"George Papastefanatos"},{"@pid":"13/1242","text":"Panos Vassiliadis"},{"@pid":"v/YannisVassiliou","text":"Yannis Vassiliou"}]},"title":"Resource-aware adaptive indexing for in situ visual exploration and analytics.","venue":"VLDB J.","volume":"32","number":"1","pages":"199-227","year":"2023","type":"Journal Articles","access":"closed","key":"journals/vldb/MaroulisBPVV23","doi":"10.1007/S00778-022-00739-Z","ee":"https://doi.org/10.1007/s00778-022-00739-z","url":"https://dblp.org/rec/journals/vldb/MaroulisBPVV23"},
+"url":"URL#21115"
+},
+{
+"@score":"1",
+"@id":"21116",
+"info":{"authors":{"author":[{"@pid":"147/8405","text":"Dongjing Miao"},{"@pid":"58/4525","text":"Pengfei Zhang"},{"@pid":"18/6870-1","text":"Jianzhong Li 0001"},{"@pid":"44/6292","text":"Ye Wang"},{"@pid":"14/5155-1","text":"Zhipeng Cai 0001"}]},"title":"Approximation and inapproximability results on computing optimal repairs.","venue":"VLDB J.","volume":"32","number":"1","pages":"173-197","year":"2023","type":"Journal Articles","access":"closed","key":"journals/vldb/MiaoZLWC23","doi":"10.1007/S00778-022-00738-0","ee":"https://doi.org/10.1007/s00778-022-00738-0","url":"https://dblp.org/rec/journals/vldb/MiaoZLWC23"},
+"url":"URL#21116"
+},
+{
+"@score":"1",
+"@id":"21117",
+"info":{"authors":{"author":{"@pid":"79/2850","text":"Tadeusz Pankowski"}},"title":"Ontological databases with faceted queries.","venue":"VLDB J.","volume":"32","number":"1","pages":"103-121","year":"2023","type":"Journal Articles","access":"closed","key":"journals/vldb/Pankowski23","doi":"10.1007/S00778-022-00735-3","ee":"https://doi.org/10.1007/s00778-022-00735-3","url":"https://dblp.org/rec/journals/vldb/Pankowski23"},
+"url":"URL#21117"
+}
+]
+}
+}
+}

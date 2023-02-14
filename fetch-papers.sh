@@ -102,7 +102,7 @@ get_dblp_json -f DB -t conf -k vldb -s 2000 -e 2007
 get_dblp_json -f DB -t journals -k pvldb -s 1 -e 16 -o 2007 -l vldb
 
 # XXX Thsi breaks the pattern of having the year as part of the file name
-get_dblp_json -f DB -t journals -k dke -s 1 -e 143
+get_dblp_json -f DB -t journals -k dke -s 1 -e 130
 
 get_dblp_json -f DB -t conf -k dasfaa -s 89 -e 99 -o 1900
 get_dblp_json -f DB -t conf -k adbis -s 2000 -l dasfaa
