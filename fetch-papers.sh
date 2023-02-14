@@ -83,35 +83,35 @@ function get_dblp_json() {
 # XXX Any conferences added here should be removed when
 #     comparing fields to match the CS Rankings list
 
-get_dblp_json -f DB -t conf -k cidr -s 2003 -e 2020 -n 2
+get_dblp_json -f DB -t conf -k cidr -s 2003 -e 2022 -n 2
 
 get_dblp_json -f DB -t conf -k edbt -s 88 -e 99 -o 1900
-get_dblp_json -f DB -t conf -k edbt -s 2000 -e 2020
+get_dblp_json -f DB -t conf -k edbt -s 2000 -e 2023
 
 get_dblp_json -f DB -t conf -k icde -s 84 -e 99 -o 1900
-get_dblp_json -f DB -t conf -k icde -s 2000 -e 2020
+get_dblp_json -f DB -t conf -k icde -s 2000 -e 2022
 
 get_dblp_json -f DB -t conf -k sigmod -s 75 -e 99 -o 1900
-get_dblp_json -f DB -t conf -k sigmod -s 2000 -e 2020
+get_dblp_json -f DB -t conf -k sigmod -s 2000 -e 2022
 
-get_dblp_json -f DB -t journals -k vldb -s 1 -e 29 -o 1991 -l vldbj
+get_dblp_json -f DB -t journals -k vldb -s 1 -e 32 -o 1991 -l vldbj
 
 # VLDB is fragmented on DBLP but we collect the data together
 get_dblp_json -f DB -t conf -k vldb -s 75 -e 99 -o 1900
 get_dblp_json -f DB -t conf -k vldb -s 2000 -e 2007
-get_dblp_json -f DB -t journals -k pvldb -s 1 -e 13 -o 2007 -l vldb
+get_dblp_json -f DB -t journals -k pvldb -s 1 -e 16 -o 2007 -l vldb
 
 # XXX Thsi breaks the pattern of having the year as part of the file name
-get_dblp_json -f DB -t journals -k dke -s 1 -e 130
+get_dblp_json -f DB -t journals -k dke -s 1 -e 143
 
 get_dblp_json -f DB -t conf -k dasfaa -s 89 -e 99 -o 1900
 get_dblp_json -f DB -t conf -k adbis -s 2000 -l dasfaa
 get_dblp_json -f DB -t conf -k dasfaa -s 2001 -e 2009
 get_dblp_json -f DB -t conf -k dasfaa -s 2010 -e 2019 -p 2
-get_dblp_json -f DB -t conf -k dasfaa -s 2020 -n 3
+get_dblp_json -f DB -t conf -k dasfaa -s 2020 -e 2022 -p 3
 
 get_dblp_json -f DB -t conf -k pods -s 82 -e 99 -o 1900
-get_dblp_json -f DB -t conf -k pods -s 2000 -e 2020
+get_dblp_json -f DB -t conf -k pods -s 2000 -e 2022
 
 get_dblp_json -f DB -t journals -k tkde -s 1 -e 35 -o 1988
 

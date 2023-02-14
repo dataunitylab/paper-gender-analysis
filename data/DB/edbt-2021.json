@@ -1,0 +1,578 @@
+{
+"result":{
+"query":":facetid:toc:\"db/conf/edbt/edbt2021.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"152.13"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"91",
+"@dc":"91",
+"@oc":"91",
+"@id":"39050179",
+"text":":facetid:toc:db/conf/edbt/edbt2021.bht"
+}
+},
+"hits":{
+"@total":"91",
+"@computed":"91",
+"@sent":"91",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"698750",
+"info":{"authors":{"author":[{"@pid":"84/9062","text":"Ali Hadian 0001"},{"@pid":"h/ThomasHeinis","text":"Thomas Heinis"}]},"title":"Shift-Table: A Low-latency Learned Index for Range Queries using Model Correction.","venue":"EDBT","pages":"253-264","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/0001H21","doi":"10.5441/002/EDBT.2021.23","ee":"https://doi.org/10.5441/002/edbt.2021.23","url":"https://dblp.org/rec/conf/edbt/0001H21"},
+"url":"URL#698750"
+},
+{
+"@score":"1",
+"@id":"698751",
+"info":{"authors":{"author":[{"@pid":"37/3076-1","text":"Yuya Sasaki 0001"},{"@pid":"287/7094","text":"Keizo Hori"},{"@pid":"245/8672","text":"Daiki Nishihara"},{"@pid":"268/0903","text":"Sora Ohashi"},{"@pid":"278/7436","text":"Yusuke Wakuta"},{"@pid":"190/2549","text":"Kei Harada"},{"@pid":"19/3497","text":"Makoto Onizuka"},{"@pid":"25/1605","text":"Yuki Arase"},{"@pid":"85/6175","text":"Shinji Shimojo"},{"@pid":"287/6725","text":"Kenji Doi"},{"@pid":"254/9922","text":"Hong-Di He"},{"@pid":"41/1966","text":"Zhong-Ren Peng"}]},"title":"Smart City Data Analysis via Visualization of Correlated Attribute Patterns.","venue":"EDBT","pages":"650-653","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/0001HNOWHOASDHP21","doi":"10.5441/002/EDBT.2021.75","ee":"https://doi.org/10.5441/002/edbt.2021.75","url":"https://dblp.org/rec/conf/edbt/0001HNOWHOASDHP21"},
+"url":"URL#698751"
+},
+{
+"@score":"1",
+"@id":"698752",
+"info":{"authors":{"author":[{"@pid":"18/2122-1","text":"Lan Jiang 0001"},{"@pid":"249/4023","text":"Gerardo Vitagliano"},{"@pid":"n/FelixNaumann","text":"Felix Naumann"}]},"title":"Structure Detection in Verbose CSV Files.","venue":"EDBT","pages":"193-204","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/0001VN21","doi":"10.5441/002/EDBT.2021.18","ee":"https://doi.org/10.5441/002/edbt.2021.18","url":"https://dblp.org/rec/conf/edbt/0001VN21"},
+"url":"URL#698752"
+},
+{
+"@score":"1",
+"@id":"698753",
+"info":{"authors":{"author":[{"@pid":"24/10851-2","text":"Javier Flores 0002"},{"@pid":"160/1064","text":"Sergi Nadal"},{"@pid":"r/OscarRomero","text":"Oscar Romero 0001"}]},"title":"Towards Scalable Data Discovery.","venue":"EDBT","pages":"433-438","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/0002N021","doi":"10.5441/002/EDBT.2021.47","ee":"https://doi.org/10.5441/002/edbt.2021.47","url":"https://dblp.org/rec/conf/edbt/0002N021"},
+"url":"URL#698753"
+},
+{
+"@score":"1",
+"@id":"698754",
+"info":{"authors":{"author":[{"@pid":"24/10851-2","text":"Javier Flores 0002"},{"@pid":"160/1064","text":"Sergi Nadal"},{"@pid":"r/OscarRomero","text":"Oscar Romero 0001"}]},"title":"Effective and Scalable Data Discovery with NextiaJD.","venue":"EDBT","pages":"690-693","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/0002N021a","doi":"10.5441/002/EDBT.2021.85","ee":"https://doi.org/10.5441/002/edbt.2021.85","url":"https://dblp.org/rec/conf/edbt/0002N021a"},
+"url":"URL#698754"
+},
+{
+"@score":"1",
+"@id":"698755",
+"info":{"authors":{"author":[{"@pid":"247/5753","text":"Christian Winter 0006"},{"@pid":"167/6469","text":"Andreas Kipf"},{"@pid":"231/3706","text":"Christoph Anneser"},{"@pid":"164/7451","text":"Eleni Tzirita Zacharatou"},{"@pid":"n/ThomasNeumann","text":"Thomas Neumann 0001"},{"@pid":"k/AlfonsKemper","text":"Alfons Kemper"}]},"title":"GeoBlocks: A Query-Cache Accelerated Data Structure for Spatial Aggregation over Polygons.","venue":"EDBT","pages":"169-180","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/0006KAZ0K21","doi":"10.5441/002/EDBT.2021.16","ee":"https://doi.org/10.5441/002/edbt.2021.16","url":"https://dblp.org/rec/conf/edbt/0006KAZ0K21"},
+"url":"URL#698755"
+},
+{
+"@score":"1",
+"@id":"698756",
+"info":{"authors":{"author":[{"@pid":"11/751-11","text":"Zhe Li 0011"},{"@pid":"166/7652","text":"Tsz Nam Chan"},{"@pid":"23/282","text":"Man Lung Yiu"},{"@pid":"j/ChristianSJensen","text":"Christian S. Jensen"}]},"title":"PolyFit: Polynomial-based Indexing Approach for Fast Approximate Range Aggregate Queries.","venue":"EDBT","pages":"241-252","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/0011CYJ21","doi":"10.5441/002/EDBT.2021.22","ee":"https://doi.org/10.5441/002/edbt.2021.22","url":"https://dblp.org/rec/conf/edbt/0011CYJ21"},
+"url":"URL#698756"
+},
+{
+"@score":"1",
+"@id":"698760",
+"info":{"authors":{"author":[{"@pid":"117/7521","text":"Zahid Abul-Basher"},{"@pid":"92/9686","text":"Nikolay Yakovets"},{"@pid":"g/ParkeGodfrey","text":"Parke Godfrey"},{"@pid":"278/3190","text":"Stanley Clark"},{"@pid":"08/2050","text":"Mark H. Chignell"}]},"title":"Answer Graph: Factorization Matters in Large Graphs.","venue":"EDBT","pages":"493-498","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/Abul-BasherYGCC21","doi":"10.5441/002/EDBT.2021.57","ee":"https://doi.org/10.5441/002/edbt.2021.57","url":"https://dblp.org/rec/conf/edbt/Abul-BasherYGCC21"},
+"url":"URL#698760"
+},
+{
+"@score":"1",
+"@id":"698761",
+"info":{"authors":{"author":[{"@pid":"262/0616","text":"Chiara Accinelli"},{"@pid":"c/BarbaraCatania","text":"Barbara Catania"},{"@pid":"g/GiovannaGuerrini","text":"Giovanna Guerrini"},{"@pid":"262/0772","text":"Simone Minisi"}]},"title":"covRew: a Python Toolkit for Pre-Processing Pipeline Rewriting Ensuring Coverage Constraint Satisfaction.","venue":"EDBT","pages":"698-701","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/AccinelliCGM21","doi":"10.5441/002/EDBT.2021.87","ee":"https://doi.org/10.5441/002/edbt.2021.87","url":"https://dblp.org/rec/conf/edbt/AccinelliCGM21"},
+"url":"URL#698761"
+},
+{
+"@score":"1",
+"@id":"698763",
+"info":{"authors":{"author":[{"@pid":"287/7106","text":"Lyes Attouche"},{"@pid":"17/5657","text":"Mohamed Amine Baazizi"},{"@pid":"c/DarioColazzo","text":"Dario Colazzo"},{"@pid":"287/7185","text":"Francesco Falleni"},{"@pid":"g/GiorgioGhelli","text":"Giorgio Ghelli"},{"@pid":"287/7331","text":"Cristiano Landi"},{"@pid":"89/5076","text":"Carlo Sartiani"},{"@pid":"s/StefanieScherzinger","text":"Stefanie Scherzinger"}]},"title":"A Tool for JSON Schema Witness Generation.","venue":"EDBT","pages":"694-697","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/AttoucheBCFGLSS21","doi":"10.5441/002/EDBT.2021.86","ee":"https://doi.org/10.5441/002/edbt.2021.86","url":"https://dblp.org/rec/conf/edbt/AttoucheBCFGLSS21"},
+"url":"URL#698763"
+},
+{
+"@score":"1",
+"@id":"698765",
+"info":{"authors":{"author":[{"@pid":"85/9378","text":"Mouhamadou Lamine Ba"},{"@pid":"287/7355","text":"Osias Noël Nicodéme Finagnon Tossou"}]},"title":"TD-AC: Efficient Data Partitioning based Truth Discovery.","venue":"EDBT","pages":"373-378","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/BaT21","doi":"10.5441/002/EDBT.2021.37","ee":"https://doi.org/10.5441/002/edbt.2021.37","url":"https://dblp.org/rec/conf/edbt/BaT21"},
+"url":"URL#698765"
+},
+{
+"@score":"1",
+"@id":"698766",
+"info":{"authors":{"author":[{"@pid":"13/246-2","text":"Andrea Baraldi 0002"},{"@pid":"285/1283","text":"Francesco Del Buono"},{"@pid":"206/0032","text":"Matteo Paganelli"},{"@pid":"g/FrancescoGuerra","text":"Francesco Guerra 0001"}]},"title":"Using Landmarks for Explaining Entity Matching Models.","venue":"EDBT","pages":"451-456","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/BaraldiBP021","doi":"10.5441/002/EDBT.2021.50","ee":"https://doi.org/10.5441/002/edbt.2021.50","url":"https://dblp.org/rec/conf/edbt/BaraldiBP021"},
+"url":"URL#698766"
+},
+{
+"@score":"1",
+"@id":"698767",
+"info":{"authors":{"author":[{"@pid":"222/8125","text":"Anna Beer 0001"},{"@pid":"287/7115","text":"Ekaterina Allerborn"},{"@pid":"243/6943","text":"Valentin Hartmann"},{"@pid":"s/ThomasSeidl1","text":"Thomas Seidl 0001"}]},"title":"KISS - A fast kNN-based Importance Score for Subspaces.","venue":"EDBT","pages":"391-396","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/BeerAH021","doi":"10.5441/002/EDBT.2021.40","ee":"https://doi.org/10.5441/002/edbt.2021.40","url":"https://dblp.org/rec/conf/edbt/BeerAH021"},
+"url":"URL#698767"
+},
+{
+"@score":"1",
+"@id":"698768",
+"info":{"authors":{"author":[{"@pid":"86/6775","text":"Luigi Bellomarini"},{"@pid":"287/6912","text":"Livia Blasi"},{"@pid":"07/1958","text":"Rosario Laurendi"},{"@pid":"20/9117","text":"Emanuel Sallinger"}]},"title":"Financial Data Exchange with Statistical Confidentiality: A Reasoning-based Approach.","venue":"EDBT","pages":"558-569","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/BellomariniBLS21","doi":"10.5441/002/EDBT.2021.66","ee":"https://doi.org/10.5441/002/edbt.2021.66","url":"https://dblp.org/rec/conf/edbt/BellomariniBLS21"},
+"url":"URL#698768"
+},
+{
+"@score":"1",
+"@id":"698771",
+"info":{"authors":{"author":[{"@pid":"b/ABonifati","text":"Angela Bonifati"},{"@pid":"199/6350","text":"Ugo Comignani"},{"@pid":"03/2000","text":"Efthymia Tsamoura"}]},"title":"Exchanging Data under Policy Views.","venue":"EDBT","pages":"1-12","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/BonifatiCT21","doi":"10.5441/002/EDBT.2021.02","ee":"https://doi.org/10.5441/002/edbt.2021.02","url":"https://dblp.org/rec/conf/edbt/BonifatiCT21"},
+"url":"URL#698771"
+},
+{
+"@score":"1",
+"@id":"698776",
+"info":{"authors":{"author":[{"@pid":"173/9281","text":"Georgios Chatzigeorgakidis"},{"@pid":"s/DimitriosSkoutas","text":"Dimitrios Skoutas 0001"},{"@pid":"90/3526","text":"Kostas Patroumpas"},{"@pid":"p/ThemisPalpanas","text":"Themis Palpanas"},{"@pid":"08/7128","text":"Spiros Athanasiou"},{"@pid":"01/5237","text":"Spiros Skiadopoulos"}]},"title":"Twin Subsequence Search in Time Series.","venue":"EDBT","pages":"475-480","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/Chatzigeorgakidis21","doi":"10.5441/002/EDBT.2021.54","ee":"https://doi.org/10.5441/002/edbt.2021.54","url":"https://dblp.org/rec/conf/edbt/Chatzigeorgakidis21"},
+"url":"URL#698776"
+},
+{
+"@score":"1",
+"@id":"698777",
+"info":{"authors":{"author":[{"@pid":"116/8783","text":"Serafeim Chatzopoulos"},{"@pid":"60/7238","text":"Thanasis Vergoulis"},{"@pid":"248/6422","text":"Panagiotis Deligiannis"},{"@pid":"s/DimitriosSkoutas","text":"Dimitrios Skoutas 0001"},{"@pid":"18/5542","text":"Theodore Dalamagas 0001"},{"@pid":"91/5548","text":"Christos Tryfonopoulos"}]},"title":"SciNeM: A Scalable Data Science Tool for Heterogeneous Network Mining.","venue":"EDBT","pages":"654-657","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/ChatzopoulosVDS21","doi":"10.5441/002/EDBT.2021.76","ee":"https://doi.org/10.5441/002/edbt.2021.76","url":"https://dblp.org/rec/conf/edbt/ChatzopoulosVDS21"},
+"url":"URL#698777"
+},
+{
+"@score":"1",
+"@id":"698778",
+"info":{"authors":{"author":[{"@pid":"56/1861","text":"Hanfeng Chen"},{"@pid":"196/1278","text":"Joseph Vinish D&apos;silva"},{"@pid":"h/LaurieJHendren","text":"Laurie J. Hendren"},{"@pid":"k/BettinaKemme","text":"Bettina Kemme"}]},"title":"HorsePower: Accelerating Database Queries for Advanced Data Analytics.","venue":"EDBT","pages":"361-366","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/ChenDHK21","doi":"10.5441/002/EDBT.2021.35","ee":"https://doi.org/10.5441/002/edbt.2021.35","url":"https://dblp.org/rec/conf/edbt/ChenDHK21"},
+"url":"URL#698778"
+},
+{
+"@score":"1",
+"@id":"698780",
+"info":{"authors":{"author":[{"@pid":"287/7218","text":"Soteris Constantinou"},{"@pid":"287/6650","text":"Antonis Vasileiou"},{"@pid":"k/AndreasKonstantinidis2","text":"Andreas Konstantinidis 0002"},{"@pid":"c/PKChrysanthis","text":"Panos K. Chrysanthis"},{"@pid":"z/DemetriosZeinalipourYazti","text":"Demetrios Zeinalipour-Yazti"}]},"title":"IMCF: The IoT Meta-Control Firewall for Smart Buildings.","venue":"EDBT","pages":"658-661","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/ConstantinouVKC21","doi":"10.5441/002/EDBT.2021.77","ee":"https://doi.org/10.5441/002/edbt.2021.77","url":"https://dblp.org/rec/conf/edbt/ConstantinouVKC21"},
+"url":"URL#698780"
+},
+{
+"@score":"1",
+"@id":"698782",
+"info":{"authors":{"author":[{"@pid":"230/0570","text":"Karima Echihabi"},{"@pid":"17/9799","text":"Kostas Zoumpatianos"},{"@pid":"p/ThemisPalpanas","text":"Themis Palpanas"}]},"title":"Big Sequence Management: Scaling up and Out.","venue":"EDBT","pages":"714-717","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/EchihabiZP21","doi":"10.5441/002/EDBT.2021.91","ee":"https://doi.org/10.5441/002/edbt.2021.91","url":"https://dblp.org/rec/conf/edbt/EchihabiZP21"},
+"url":"URL#698782"
+},
+{
+"@score":"1",
+"@id":"698784",
+"info":{"authors":{"author":[{"@pid":"238/4380","text":"Mahdi Esmailoghli"},{"@pid":"09/6353","text":"Jorge-Arnulfo Quiané-Ruiz"},{"@pid":"38/8707","text":"Ziawasch Abedjan"}]},"title":"COCOA: COrrelation COefficient-Aware Data Augmentation.","venue":"EDBT","pages":"331-336","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/EsmailoghliQA21","doi":"10.5441/002/EDBT.2021.30","ee":"https://doi.org/10.5441/002/edbt.2021.30","url":"https://dblp.org/rec/conf/edbt/EsmailoghliQA21"},
+"url":"URL#698784"
+},
+{
+"@score":"1",
+"@id":"698785",
+"info":{"authors":{"author":[{"@pid":"62/10825","text":"Muhammad Farhan"},{"@pid":"97/6505-2","text":"Qing Wang 0002"}]},"title":"Efficient Maintenance of Distance Labelling for Incremental Updates in Large Dynamic Graphs.","venue":"EDBT","pages":"385-390","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/Farhan021","doi":"10.5441/002/EDBT.2021.39","ee":"https://doi.org/10.5441/002/edbt.2021.39","url":"https://dblp.org/rec/conf/edbt/Farhan021"},
+"url":"URL#698785"
+},
+{
+"@score":"1",
+"@id":"698786",
+"info":{"authors":{"author":{"@pid":"f/LeonidasFegaras","text":"Leonidas Fegaras"}},"title":"Scalable Linear Algebra Programming for Big Data Analysis.","venue":"EDBT","pages":"313-324","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/Fegaras21","doi":"10.5441/002/EDBT.2021.28","ee":"https://doi.org/10.5441/002/edbt.2021.28","url":"https://dblp.org/rec/conf/edbt/Fegaras21"},
+"url":"URL#698786"
+},
+{
+"@score":"1",
+"@id":"698787",
+"info":{"authors":{"author":[{"@pid":"149/9199","text":"Matteo Francia"},{"@pid":"g/MatteoGolfarelli","text":"Matteo Golfarelli"},{"@pid":"32/1783","text":"Patrick Marcel"},{"@pid":"75/5487","text":"Stefano Rizzi"},{"@pid":"13/1242","text":"Panos Vassiliadis"}]},"title":"Assess Queries for Interactive Analysis of Data Cubes.","venue":"EDBT","pages":"121-132","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/FranciaGMRV21","doi":"10.5441/002/EDBT.2021.12","ee":"https://doi.org/10.5441/002/edbt.2021.12","url":"https://dblp.org/rec/conf/edbt/FranciaGMRV21"},
+"url":"URL#698787"
+},
+{
+"@score":"1",
+"@id":"698788",
+"info":{"authors":{"author":[{"@pid":"66/502","text":"Martin Franke"},{"@pid":"148/3241","text":"Ziad Sehili"},{"@pid":"237/6418","text":"Florens Rohde"},{"@pid":"r/ERahm","text":"Erhard Rahm"}]},"title":"Evaluation of Hardening Techniques for Privacy-Preserving Record Linkage.","venue":"EDBT","pages":"289-300","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/FrankeSRR21","doi":"10.5441/002/EDBT.2021.26","ee":"https://doi.org/10.5441/002/edbt.2021.26","url":"https://dblp.org/rec/conf/edbt/FrankeSRR21"},
+"url":"URL#698788"
+},
+{
+"@score":"1",
+"@id":"698789",
+"info":{"authors":{"author":[{"@pid":"197/6411","text":"Manuel Fritz"},{"@pid":"241/0354","text":"Dennis Tschechlov"},{"@pid":"93/151","text":"Holger Schwarz"}]},"title":"Efficient Exploratory Clustering Analyses with Qualitative Approximations.","venue":"EDBT","pages":"337-342","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/FritzTS21","doi":"10.5441/002/EDBT.2021.31","ee":"https://doi.org/10.5441/002/edbt.2021.31","url":"https://dblp.org/rec/conf/edbt/FritzTS21"},
+"url":"URL#698789"
+},
+{
+"@score":"1",
+"@id":"698790",
+"info":{"authors":{"author":[{"@pid":"287/6851","text":"Yacine Gaci"},{"@pid":"79/4060","text":"Jorge Ramírez"},{"@pid":"b/BoualemBenatallah","text":"Boualem Benatallah"},{"@pid":"c/FabioCasati","text":"Fabio Casati"},{"@pid":"80/5648","text":"Khalid Benabdeslem"}]},"title":"Subjectivity Aware Conversational Search Services.","venue":"EDBT","pages":"157-168","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/GaciRBCB21","doi":"10.5441/002/EDBT.2021.15","ee":"https://doi.org/10.5441/002/edbt.2021.15","url":"https://dblp.org/rec/conf/edbt/GaciRBCB21"},
+"url":"URL#698790"
+},
+{
+"@score":"1",
+"@id":"698791",
+"info":{"authors":{"author":[{"@pid":"133/1927","text":"Xiaoyu Ge"},{"@pid":"c/PKChrysanthis","text":"Panos K. Chrysanthis"}]},"title":"On Supporting Scalable Active Learning-based Interactive Data Exploration with Uncertainty Estimation Index.","venue":"EDBT","pages":"421-426","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/GeC21","doi":"10.5441/002/EDBT.2021.45","ee":"https://doi.org/10.5441/002/edbt.2021.45","url":"https://dblp.org/rec/conf/edbt/GeC21"},
+"url":"URL#698791"
+},
+{
+"@score":"1",
+"@id":"698792",
+"info":{"authors":{"author":[{"@pid":"200/9037","text":"Shay Gershtein"},{"@pid":"m/TovaMilo","text":"Tova Milo"},{"@pid":"185/4349","text":"Brit Youngmann"}]},"title":"Multi-Objective Influence Maximization.","venue":"EDBT","pages":"145-156","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/GershteinMY21","doi":"10.5441/002/EDBT.2021.14","ee":"https://doi.org/10.5441/002/edbt.2021.14","url":"https://dblp.org/rec/conf/edbt/GershteinMY21"},
+"url":"URL#698792"
+},
+{
+"@score":"1",
+"@id":"698793",
+"info":{"authors":{"author":[{"@pid":"149/9199","text":"Matteo Francia"},{"@pid":"136/4315","text":"Enrico Gallinucci"},{"@pid":"g/MatteoGolfarelli","text":"Matteo Golfarelli"}]},"title":"Conversational OLAP in Action.","venue":"EDBT","pages":"646-649","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/GolfarelliGF21","doi":"10.5441/002/EDBT.2021.74","ee":"https://doi.org/10.5441/002/edbt.2021.74","url":"https://dblp.org/rec/conf/edbt/GolfarelliGF21"},
+"url":"URL#698793"
+},
+{
+"@score":"1",
+"@id":"698794",
+"info":{"authors":{"author":[{"@pid":"270/8409","text":"Vladimiro González-Zelaya"},{"@pid":"21/9444","text":"Julián Salas"},{"@pid":"173/8740","text":"Dennis Prangle"},{"@pid":"28/1062","text":"Paolo Missier"}]},"title":"Optimising Fairness Through Parametrised Data Sampling.","venue":"EDBT","pages":"445-450","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/Gonzalez-Zelaya21","doi":"10.5441/002/EDBT.2021.49","ee":"https://doi.org/10.5441/002/edbt.2021.49","url":"https://dblp.org/rec/conf/edbt/Gonzalez-Zelaya21"},
+"url":"URL#698794"
+},
+{
+"@score":"1",
+"@id":"698796",
+"info":{"authors":{"author":[{"@pid":"136/5662","text":"Suyash Gupta"},{"@pid":"05/10671","text":"Jelle Hellings"},{"@pid":"252/5735","text":"Sajjad Rahnama"},{"@pid":"56/7016","text":"Mohammad Sadoghi"}]},"title":"Proof-of-Execution: Reaching Consensus through Fault-Tolerant Speculation.","venue":"EDBT","pages":"301-312","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/GuptaHRS21","doi":"10.5441/002/EDBT.2021.27","ee":"https://doi.org/10.5441/002/edbt.2021.27","url":"https://dblp.org/rec/conf/edbt/GuptaHRS21"},
+"url":"URL#698796"
+},
+{
+"@score":"1",
+"@id":"698797",
+"info":{"authors":{"author":[{"@pid":"243/6098","text":"Peeyush Gupta"},{"@pid":"m/SharadMehrotra","text":"Sharad Mehrotra"},{"@pid":"83/2389-1","text":"Shantanu Sharma 0001"},{"@pid":"66/1875","text":"Nalini Venkatasubramanian"},{"@pid":"26/2262","text":"Guoxi Wang"}]},"title":"Concealer: SGX-based Secure, Volume Hiding, and Verifiable Processing of Spatial Time-Series Datasets.","venue":"EDBT","pages":"277-288","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/GuptaM0VW21","doi":"10.5441/002/EDBT.2021.25","ee":"https://doi.org/10.5441/002/edbt.2021.25","url":"https://dblp.org/rec/conf/edbt/GuptaM0VW21"},
+"url":"URL#698797"
+},
+{
+"@score":"1",
+"@id":"698798",
+"info":{"authors":{"author":[{"@pid":"02/3324","text":"Yaniv Gur"},{"@pid":"92/6084","text":"Dongsheng Yang"},{"@pid":"287/6730","text":"Frederik Stalschus"},{"@pid":"76/3381","text":"Berthold Reinwald"}]},"title":"Adaptive Multi-Model Reinforcement Learning for Online Database Tuning.","venue":"EDBT","pages":"439-444","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/GurYSR21","doi":"10.5441/002/EDBT.2021.48","ee":"https://doi.org/10.5441/002/edbt.2021.48","url":"https://dblp.org/rec/conf/edbt/GurYSR21"},
+"url":"URL#698798"
+},
+{
+"@score":"1",
+"@id":"698799",
+"info":{"authors":{"author":[{"@pid":"205/9278","text":"Felipe Oliveira Gutierrez"},{"@pid":"54/5149","text":"Kaustubh Beedkar"},{"@pid":"215/2394","text":"Abel Souza"},{"@pid":"m/VMarkl","text":"Volker Markl"}]},"title":"AdCom: Adaptive Combiner for Streaming Aggregations.","venue":"EDBT","pages":"409-414","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/GutierrezBSM21","doi":"10.5441/002/EDBT.2021.43","ee":"https://doi.org/10.5441/002/edbt.2021.43","url":"https://dblp.org/rec/conf/edbt/GutierrezBSM21"},
+"url":"URL#698799"
+},
+{
+"@score":"1",
+"@id":"698800",
+"info":{"authors":{"author":[{"@pid":"127/0405","text":"Stefan Hagedorn"},{"@pid":"211/9910","text":"Steffen Kläbe"},{"@pid":"s/KaiUweSattler","text":"Kai-Uwe Sattler"}]},"title":"Conquering a Panda&apos;s weaker self - Fighting laziness with laziness.","venue":"EDBT","pages":"670-673","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/HagedornKS21","doi":"10.5441/002/EDBT.2021.80","ee":"https://doi.org/10.5441/002/edbt.2021.80","url":"https://dblp.org/rec/conf/edbt/HagedornKS21"},
+"url":"URL#698800"
+},
+{
+"@score":"1",
+"@id":"698801",
+"info":{"authors":{"author":[{"@pid":"206/6189","text":"Moditha Hewasinghage"},{"@pid":"160/1064","text":"Sergi Nadal"},{"@pid":"88/2053","text":"Alberto Abelló"}]},"title":"DocDesign 2.0: Automated Database Design for Document Stores with Multi-criteria Optimization.","venue":"EDBT","pages":"674-677","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/HewasinghageNA21","doi":"10.5441/002/EDBT.2021.81","ee":"https://doi.org/10.5441/002/edbt.2021.81","url":"https://dblp.org/rec/conf/edbt/HewasinghageNA21"},
+"url":"URL#698801"
+},
+{
+"@score":"1",
+"@id":"698802",
+"info":{"authors":{"author":[{"@pid":"119/6830","text":"Pedro Holanda"},{"@pid":"m/StefanManegold","text":"Stefan Manegold"}]},"title":"Progressive Mergesort: Merging Batches of Appends into Progressive Indexes.","venue":"EDBT","pages":"481-486","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/HolandaM21","doi":"10.5441/002/EDBT.2021.55","ee":"https://doi.org/10.5441/002/edbt.2021.55","url":"https://dblp.org/rec/conf/edbt/HolandaM21"},
+"url":"URL#698802"
+},
+{
+"@score":"1",
+"@id":"698803",
+"info":{"authors":{"author":[{"@pid":"234/5444","text":"Chenhao Huang"},{"@pid":"39/4287","text":"Michael J. Cahill"},{"@pid":"f/AlanDavidFekete","text":"Alan D. Fekete"},{"@pid":"r/UweRohm","text":"Uwe Röhm"}]},"title":"Decongestant: A Breath of Fresh Air for MongoDB Through Freshness-aware Reads.","venue":"EDBT","pages":"535-546","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/HuangCFR21","doi":"10.5441/002/EDBT.2021.64","ee":"https://doi.org/10.5441/002/edbt.2021.64","url":"https://dblp.org/rec/conf/edbt/HuangCFR21"},
+"url":"URL#698803"
+},
+{
+"@score":"1",
+"@id":"698804",
+"info":{"authors":{"author":[{"@pid":"237/3349","text":"Julius Hülsmann"},{"@pid":"255/8005","text":"Chiao-Yun Li"},{"@pid":"168/4993","text":"Jonas Traub"},{"@pid":"m/VMarkl","text":"Volker Markl"}]},"title":"Automatic Tuning of Read-Time Tolerances for Optimized On-Demand Data-Streaming from Sensor Nodes.","venue":"EDBT","pages":"517-522","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/HulsmannLTM21","doi":"10.5441/002/EDBT.2021.61","ee":"https://doi.org/10.5441/002/edbt.2021.61","url":"https://dblp.org/rec/conf/edbt/HulsmannLTM21"},
+"url":"URL#698804"
+},
+{
+"@score":"1",
+"@id":"698805",
+"info":{"authors":{"author":{"@pid":"50/10703","text":"Zsolt István"}},"title":"Tutorial on the Internals of Permissioned Blockchains and on How to Build Applications with Hyperledger Fabric.","venue":"EDBT","pages":"706-709","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/Istvan21","doi":"10.5441/002/EDBT.2021.89","ee":"https://doi.org/10.5441/002/edbt.2021.89","url":"https://dblp.org/rec/conf/edbt/Istvan21"},
+"url":"URL#698805"
+},
+{
+"@score":"1",
+"@id":"698808",
+"info":{"authors":{"author":[{"@pid":"287/6628","text":"Anders Hammershøj Jensen"},{"@pid":"287/7025","text":"Frederik Lauridsen"},{"@pid":"261/1953","text":"Fatemeh Zardbani"},{"@pid":"i/StratosIdreos","text":"Stratos Idreos"},{"@pid":"08/5342","text":"Panagiotis Karras"}]},"title":"Revisiting Multidimensional Adaptive Indexing [Experiment &amp; Analysis].","venue":"EDBT","pages":"469-474","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/JensenLZIK21","doi":"10.5441/002/EDBT.2021.53","ee":"https://doi.org/10.5441/002/edbt.2021.53","url":"https://dblp.org/rec/conf/edbt/JensenLZIK21"},
+"url":"URL#698808"
+},
+{
+"@score":"1",
+"@id":"698809",
+"info":{"authors":{"author":[{"@pid":"265/9628","text":"Muhammad Attahir Jibril"},{"@pid":"228/9052","text":"Alexander Baumstark"},{"@pid":"180/3158","text":"Philipp Götze"},{"@pid":"s/KaiUweSattler","text":"Kai-Uwe Sattler"}]},"title":"JIT happens: Transactional Graph Processing in Persistent Memory meets Just-In-Time Compilation.","venue":"EDBT","pages":"37-48","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/JibrilBGS21","doi":"10.5441/002/EDBT.2021.05","ee":"https://doi.org/10.5441/002/edbt.2021.05","url":"https://dblp.org/rec/conf/edbt/JibrilBGS21"},
+"url":"URL#698809"
+},
+{
+"@score":"1",
+"@id":"698810",
+"info":{"authors":{"author":[{"@pid":"52/3440","text":"Peiquan Jin"},{"@pid":"11/11071","text":"Jianchuan Li"},{"@pid":"33/4048","text":"Hai Long"}]},"title":"DLC: A New Compaction Scheme for LSM-tree with High Stability and Low Latency.","venue":"EDBT","pages":"547-557","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/JinLL21","doi":"10.5441/002/EDBT.2021.65","ee":"https://doi.org/10.5441/002/edbt.2021.65","url":"https://dblp.org/rec/conf/edbt/JinLL21"},
+"url":"URL#698810"
+},
+{
+"@score":"1",
+"@id":"698811",
+"info":{"authors":{"author":[{"@pid":"24/8510","text":"Alekh Jindal"},{"@pid":"157/8412-1","text":"Shi Qiao 0001"},{"@pid":"23/5134","text":"Hiren Patel"},{"@pid":"33/4379","text":"Abhishek Roy"},{"@pid":"150/7163","text":"Jyoti Leeka"},{"@pid":"180/5761","text":"Brandon Haynes"}]},"title":"Production Experiences from Computation Reuse at Microsoft.","venue":"EDBT","pages":"623-634","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/Jindal0PRLH21","doi":"10.5441/002/EDBT.2021.72","ee":"https://doi.org/10.5441/002/edbt.2021.72","url":"https://dblp.org/rec/conf/edbt/Jindal0PRLH21"},
+"url":"URL#698811"
+},
+{
+"@score":"1",
+"@id":"698812",
+"info":{"authors":{"author":[{"@pid":"275/3476","text":"Jakob Rødsgaard Jørgensen"},{"@pid":"287/7020","text":"Katrine Scheel"},{"@pid":"a/IraAssent","text":"Ira Assent"}]},"title":"GPU-INSCY: A GPU-Parallel Algorithm and Tree Structure for Efficient Density-based Subspace Clustering.","venue":"EDBT","pages":"25-36","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/JorgensenSA21","doi":"10.5441/002/EDBT.2021.04","ee":"https://doi.org/10.5441/002/edbt.2021.04","url":"https://dblp.org/rec/conf/edbt/JorgensenSA21"},
+"url":"URL#698812"
+},
+{
+"@score":"1",
+"@id":"698813",
+"info":{"authors":{"author":[{"@pid":"266/3130","text":"Reza Karegar"},{"@pid":"g/ParkeGodfrey","text":"Parke Godfrey"},{"@pid":"42/3296","text":"Lukasz Golab"},{"@pid":"27/3128","text":"Mehdi Kargar"},{"@pid":"s/DiveshSrivastava","text":"Divesh Srivastava"},{"@pid":"06/9379","text":"Jaroslaw Szlichta"}]},"title":"Efficient Discovery of Approximate Order Dependencies.","venue":"EDBT","pages":"427-432","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/KaregarGGKSS21","doi":"10.5441/002/EDBT.2021.46","ee":"https://doi.org/10.5441/002/edbt.2021.46","url":"https://dblp.org/rec/conf/edbt/KaregarGGKSS21"},
+"url":"URL#698813"
+},
+{
+"@score":"1",
+"@id":"698814",
+"info":{"authors":{"author":[{"@pid":"287/6877","text":"George Katsogiannis-Meimarakis"},{"@pid":"k/GeorgiaKoutrika","text":"Georgia Koutrika"}]},"title":"Deep Learning Approaches for Text-to-SQL Systems.","venue":"EDBT","pages":"710-713","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/Katsogiannis-Meimarakis21","doi":"10.5441/002/EDBT.2021.90","ee":"https://doi.org/10.5441/002/edbt.2021.90","url":"https://dblp.org/rec/conf/edbt/Katsogiannis-Meimarakis21"},
+"url":"URL#698814"
+},
+{
+"@score":"1",
+"@id":"698816",
+"info":{"authors":{"author":[{"@pid":"190/0084","text":"Daniel Kocher"},{"@pid":"76/3961","text":"Nikolaus Augsten"},{"@pid":"81/10869","text":"Willi Mann"}]},"title":"Scaling Density-Based Clustering to Large Collections of Sets.","venue":"EDBT","pages":"109-120","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/KocherAM21","doi":"10.5441/002/EDBT.2021.11","ee":"https://doi.org/10.5441/002/edbt.2021.11","url":"https://dblp.org/rec/conf/edbt/KocherAM21"},
+"url":"URL#698816"
+},
+{
+"@score":"1",
+"@id":"698817",
+"info":{"authors":{"author":[{"@pid":"236/7441","text":"Nikolaos Koutroumanis"},{"@pid":"14/3086","text":"Christos Doulkeridis"}]},"title":"Scalable Spatio-temporal Indexing and Querying over a Document-oriented NoSQL Store.","venue":"EDBT","pages":"611-622","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/KoutroumanisD21","doi":"10.5441/002/EDBT.2021.71","ee":"https://doi.org/10.5441/002/edbt.2021.71","url":"https://dblp.org/rec/conf/edbt/KoutroumanisD21"},
+"url":"URL#698817"
+},
+{
+"@score":"1",
+"@id":"698818",
+"info":{"authors":{"author":[{"@pid":"242/2541","text":"Ines Ben Kraiem"},{"@pid":"66/6618","text":"Faiza Ghozzi"},{"@pid":"95/5309","text":"André Péninou"},{"@pid":"171/8128","text":"Geoffrey Roman-Jimenez"},{"@pid":"t/OlivierTeste","text":"Olivier Teste"}]},"title":"Human-Interpretable Rules for Anomaly Detection in Time-Series.","venue":"EDBT","pages":"457-462","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/KraiemGPRT21","doi":"10.5441/002/EDBT.2021.51","ee":"https://doi.org/10.5441/002/edbt.2021.51","url":"https://dblp.org/rec/conf/edbt/KraiemGPRT21"},
+"url":"URL#698818"
+},
+{
+"@score":"1",
+"@id":"698819",
+"info":{"authors":{"author":[{"@pid":"164/5555","text":"Maria Krommyda"},{"@pid":"219/0463","text":"Konstantinos Tsitseklis"},{"@pid":"k/VerenaKantere","text":"Verena Kantere"},{"@pid":"22/6452","text":"Vasileios Karyotis"},{"@pid":"62/4765","text":"Symeon Papavassiliou"}]},"title":"Visualizing and Exploring Big Datasets based on Semantic Community Detection.","venue":"EDBT","pages":"678-681","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/KrommydaTKKP21","doi":"10.5441/002/EDBT.2021.82","ee":"https://doi.org/10.5441/002/edbt.2021.82","url":"https://dblp.org/rec/conf/edbt/KrommydaTKKP21"},
+"url":"URL#698819"
+},
+{
+"@score":"1",
+"@id":"698820",
+"info":{"authors":{"author":[{"@pid":"246/0869","text":"Jochem Kuijpers"},{"@pid":"f/GeorgeHLFletcher","text":"George Fletcher 0001"},{"@pid":"211/6985","text":"Tobias Lindaaker"},{"@pid":"92/9686","text":"Nikolay Yakovets"}]},"title":"Path Indexing in the Cypher Query Pipeline.","venue":"EDBT","pages":"582-587","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/KuijpersFLY21","doi":"10.5441/002/EDBT.2021.68","ee":"https://doi.org/10.5441/002/edbt.2021.68","url":"https://dblp.org/rec/conf/edbt/KuijpersFLY21"},
+"url":"URL#698820"
+},
+{
+"@score":"1",
+"@id":"698822",
+"info":{"authors":{"author":[{"@pid":"287/6809","text":"Hanâ Lbath"},{"@pid":"b/ABonifati","text":"Angela Bonifati"},{"@pid":"36/1754","text":"Russ Harmer"}]},"title":"Schema Inference for Property Graphs.","venue":"EDBT","pages":"499-504","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/LbathBH21","doi":"10.5441/002/EDBT.2021.58","ee":"https://doi.org/10.5441/002/edbt.2021.58","url":"https://dblp.org/rec/conf/edbt/LbathBH21"},
+"url":"URL#698822"
+},
+{
+"@score":"1",
+"@id":"698823",
+"info":{"authors":{"author":[{"@pid":"206/9438","text":"Aristotelis Leventidis"},{"@pid":"192/0602","text":"Laura Di Rocco"},{"@pid":"36/5673","text":"Wolfgang Gatterbauer"},{"@pid":"m/RJMiller","text":"Renée J. Miller"},{"@pid":"r/MirekRiedewald","text":"Mirek Riedewald"}]},"title":"DomainNet: Homograph Detection for Data Lake Disambiguation.","venue":"EDBT","pages":"13-24","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/LeventidisRMRG21","doi":"10.5441/002/EDBT.2021.03","ee":"https://doi.org/10.5441/002/edbt.2021.03","url":"https://dblp.org/rec/conf/edbt/LeventidisRMRG21"},
+"url":"URL#698823"
+},
+{
+"@score":"1",
+"@id":"698824",
+"info":{"authors":{"author":[{"@pid":"62/1052","text":"Liang Liang"},{"@pid":"25/5712","text":"Guang Yang"},{"@pid":"h/ThomasHeinis","text":"Thomas Heinis"},{"@pid":"t/DavidTaniar","text":"David Taniar"}]},"title":"SOJA: A Memory-efficent Smallâ€&quot;large Outer Join for MPI.","venue":"EDBT","pages":"523-528","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/LiangYHT21","doi":"10.5441/002/EDBT.2021.62","ee":"https://doi.org/10.5441/002/edbt.2021.62","url":"https://dblp.org/rec/conf/edbt/LiangYHT21"},
+"url":"URL#698824"
+},
+{
+"@score":"1",
+"@id":"698825",
+"info":{"authors":{"author":[{"@pid":"203/0243","text":"Yiming Liao"},{"@pid":"22/2874","text":"Shuguang Wang"},{"@pid":"l/DongwonLee","text":"Dongwon Lee 0001"}]},"title":"WILSON: A Divide and Conquer Approach for Fast and Effective News Timeline Summarization.","venue":"EDBT","pages":"635-645","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/LiaoW021","doi":"10.5441/002/EDBT.2021.73","ee":"https://doi.org/10.5441/002/edbt.2021.73","url":"https://dblp.org/rec/conf/edbt/LiaoW021"},
+"url":"URL#698825"
+},
+{
+"@score":"1",
+"@id":"698827",
+"info":{"authors":{"author":[{"@pid":"85/7672-3","text":"Tiantian Liu 0003"},{"@pid":"55/2893-3","text":"Huan Li 0003"},{"@pid":"l/HuaLu","text":"Hua Lu 0001"},{"@pid":"55/5690","text":"Muhammad Aamir Cheema"},{"@pid":"21/5967","text":"Lidan Shou"}]},"title":"Indoor Spatial Queries: Modeling, Indexing, and Processing.","venue":"EDBT","pages":"181-192","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/Liu00CS21","doi":"10.5441/002/EDBT.2021.17","ee":"https://doi.org/10.5441/002/edbt.2021.17","url":"https://dblp.org/rec/conf/edbt/Liu00CS21"},
+"url":"URL#698827"
+},
+{
+"@score":"1",
+"@id":"698828",
+"info":{"authors":{"author":[{"@pid":"36/5558-4","text":"Tong Liu 0004"},{"@pid":"47/9244","text":"Paolo Coletti"},{"@pid":"96/11411","text":"Anton Dignös"},{"@pid":"59/6952","text":"Johann Gamper"},{"@pid":"154/0136-2","text":"Maurizio Murgia 0002"}]},"title":"Correlation graph analytics for stock time series data.","venue":"EDBT","pages":"666-669","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/LiuCDGM21","doi":"10.5441/002/EDBT.2021.79","ee":"https://doi.org/10.5441/002/edbt.2021.79","url":"https://dblp.org/rec/conf/edbt/LiuCDGM21"},
+"url":"URL#698828"
+},
+{
+"@score":"1",
+"@id":"698830",
+"info":{"authors":{"author":[{"@pid":"287/7197","text":"Arlino Magalhães"},{"@pid":"b/AngeloBrayner","text":"Angelo Brayner"},{"@pid":"92/1818","text":"José Maria Monteiro"},{"@pid":"287/6834","text":"Gustavo Moraes"}]},"title":"Indexed Log File: Towards Main Memory Database Instant Recovery.","venue":"EDBT","pages":"355-360","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/MagalhaesBMM21","doi":"10.5441/002/EDBT.2021.34","ee":"https://doi.org/10.5441/002/edbt.2021.34","url":"https://dblp.org/rec/conf/edbt/MagalhaesBMM21"},
+"url":"URL#698830"
+},
+{
+"@score":"1",
+"@id":"698831",
+"info":{"authors":{"author":{"@pid":"m/APMarathe","text":"Arunprasad P. Marathe"}},"title":"DBMS Performance Troubleshooting in Cloud Computing Using Transaction Clustering.","venue":"EDBT","pages":"463-468","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/Marathe21","doi":"10.5441/002/EDBT.2021.52","ee":"https://doi.org/10.5441/002/edbt.2021.52","url":"https://dblp.org/rec/conf/edbt/Marathe21"},
+"url":"URL#698831"
+},
+{
+"@score":"1",
+"@id":"698832",
+"info":{"authors":{"author":[{"@pid":"276/5116","text":"Stella Maropaki"},{"@pid":"167/4586","text":"Paolo Sottovia"},{"@pid":"88/4859","text":"Stefano Bortoli"}]},"title":"Querying Top-k Dominant Traffic Flows on Large Urban Road Networks.","venue":"EDBT","pages":"415-420","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/MaropakiSB21","doi":"10.5441/002/EDBT.2021.44","ee":"https://doi.org/10.5441/002/edbt.2021.44","url":"https://dblp.org/rec/conf/edbt/MaropakiSB21"},
+"url":"URL#698832"
+},
+{
+"@score":"1",
+"@id":"698834",
+"info":{"authors":{"author":[{"@pid":"276/3581","text":"Ioannis Mavroudopoulos"},{"@pid":"235/0353","text":"Theodoros Toliopoulos"},{"@pid":"205/0464","text":"Christos Bellas"},{"@pid":"90/11226","text":"Andreas Kosmatopoulos"},{"@pid":"g/AGounaris","text":"Anastasios Gounaris"}]},"title":"Sequence detection in event log files.","venue":"EDBT","pages":"85-96","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/MavroudopoulosT21","doi":"10.5441/002/EDBT.2021.09","ee":"https://doi.org/10.5441/002/edbt.2021.09","url":"https://dblp.org/rec/conf/edbt/MavroudopoulosT21"},
+"url":"URL#698834"
+},
+{
+"@score":"1",
+"@id":"698836",
+"info":{"authors":{"author":[{"@pid":"139/0871","text":"Mostafa Milani"},{"@pid":"39/6301-19","text":"Yu Huang 0019"},{"@pid":"66/2556","text":"Fei Chiang"}]},"title":"Preserving Diversity in Anonymized Data.","venue":"EDBT","pages":"511-516","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/MilaniHC21","doi":"10.5441/002/EDBT.2021.60","ee":"https://doi.org/10.5441/002/edbt.2021.60","url":"https://dblp.org/rec/conf/edbt/MilaniHC21"},
+"url":"URL#698836"
+},
+{
+"@score":"1",
+"@id":"698837",
+"info":{"authors":{"author":[{"@pid":"m/TovaMilo","text":"Tova Milo"},{"@pid":"43/9582","text":"Slava Novgorodov"},{"@pid":"247/8081","text":"Kathy Razmadze"}]},"title":"Fixing Wikipedia Interlinks Using Revision History Patterns.","venue":"EDBT","pages":"49-60","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/MiloNR21","doi":"10.5441/002/EDBT.2021.06","ee":"https://doi.org/10.5441/002/edbt.2021.06","url":"https://dblp.org/rec/conf/edbt/MiloNR21"},
+"url":"URL#698837"
+},
+{
+"@score":"1",
+"@id":"698840",
+"info":{"authors":{"author":[{"@pid":"287/7097","text":"Nikolaos Myrtakis"},{"@pid":"c/VassilisChristophides","text":"Vassilis Christophides"},{"@pid":"s/EricSimon","text":"Eric Simon"}]},"title":"A Comparative Evaluation of Anomaly Explanation Algorithms.","venue":"EDBT","pages":"97-108","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/MyrtakisCS21","doi":"10.5441/002/EDBT.2021.10","ee":"https://doi.org/10.5441/002/edbt.2021.10","url":"https://dblp.org/rec/conf/edbt/MyrtakisCS21"},
+"url":"URL#698840"
+},
+{
+"@score":"1",
+"@id":"698842",
+"info":{"authors":{"author":[{"@pid":"166/7698","text":"Jan Kristof Nidzwetzki"},{"@pid":"g/RHGuting","text":"Ralf Hartmut Güting"}]},"title":"BBoxDB Streams: Distributed Processing of Real-World Streams of Position Data.","venue":"EDBT","pages":"662-665","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/NidzwetzkiG21","doi":"10.5441/002/EDBT.2021.78","ee":"https://doi.org/10.5441/002/edbt.2021.78","url":"https://dblp.org/rec/conf/edbt/NidzwetzkiG21"},
+"url":"URL#698842"
+},
+{
+"@score":"1",
+"@id":"698844",
+"info":{"authors":{"author":[{"@pid":"206/0032","text":"Matteo Paganelli"},{"@pid":"285/1283","text":"Francesco Del Buono"},{"@pid":"287/6624","text":"Marco Pevarello"},{"@pid":"g/FrancescoGuerra","text":"Francesco Guerra 0001"},{"@pid":"65/4364","text":"Maurizio Vincini"}]},"title":"Automated Machine Learning for Entity Matching Tasks.","venue":"EDBT","pages":"325-330","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/PaganelliBP0V21","doi":"10.5441/002/EDBT.2021.29","ee":"https://doi.org/10.5441/002/edbt.2021.29","url":"https://dblp.org/rec/conf/edbt/PaganelliBP0V21"},
+"url":"URL#698844"
+},
+{
+"@score":"1",
+"@id":"698845",
+"info":{"authors":{"author":[{"@pid":"54/7390","text":"Fabian Panse"},{"@pid":"287/7388","text":"André Düjon"},{"@pid":"146/6282","text":"Wolfram Wingerath"},{"@pid":"266/6168","text":"Benjamin Wollmer"}]},"title":"Generating Realistic Test Datasets for Duplicate Detection at Scale Using Historical Voter Data.","venue":"EDBT","pages":"570-581","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/PanseDWW21","doi":"10.5441/002/EDBT.2021.67","ee":"https://doi.org/10.5441/002/edbt.2021.67","url":"https://dblp.org/rec/conf/edbt/PanseDWW21"},
+"url":"URL#698845"
+},
+{
+"@score":"1",
+"@id":"698849",
+"info":{"authors":{"author":[{"@pid":"249/6544","text":"Kashif Rabbani"},{"@pid":"139/1128","text":"Matteo Lissandrini"},{"@pid":"h/KatjaHose","text":"Katja Hose"}]},"title":"Optimizing SPARQL Queries using Shape Statistics.","venue":"EDBT","pages":"505-510","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/RabbaniLH21","doi":"10.5441/002/EDBT.2021.59","ee":"https://doi.org/10.5441/002/edbt.2021.59","url":"https://dblp.org/rec/conf/edbt/RabbaniLH21"},
+"url":"URL#698849"
+},
+{
+"@score":"1",
+"@id":"698850",
+"info":{"authors":{"author":[{"@pid":"205/0833","text":"Yann Ramusat"},{"@pid":"91/9376","text":"Silviu Maniu"},{"@pid":"12/225","text":"Pierre Senellart"}]},"title":"Provenance-Based Algorithms for Rich Queries over Graph Databases.","venue":"EDBT","pages":"73-84","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/RamusatMS21","doi":"10.5441/002/EDBT.2021.08","ee":"https://doi.org/10.5441/002/edbt.2021.08","url":"https://dblp.org/rec/conf/edbt/RamusatMS21"},
+"url":"URL#698850"
+},
+{
+"@score":"1",
+"@id":"698851",
+"info":{"authors":{"author":[{"@pid":"207/2074","text":"Sergey Redyuk"},{"@pid":"65/1457","text":"Zoi Kaoudi"},{"@pid":"m/VMarkl","text":"Volker Markl"},{"@pid":"118/7229","text":"Sebastian Schelter"}]},"title":"Automating Data Quality Validation for Dynamic Data Ingestion.","venue":"EDBT","pages":"61-72","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/RedyukKMS21","doi":"10.5441/002/EDBT.2021.07","ee":"https://doi.org/10.5441/002/edbt.2021.07","url":"https://dblp.org/rec/conf/edbt/RedyukKMS21"},
+"url":"URL#698851"
+},
+{
+"@score":"1",
+"@id":"698853",
+"info":{"authors":{"author":[{"@pid":"238/4349","text":"Christopher Rost"},{"@pid":"164/5560","text":"Kevin Gómez"},{"@pid":"261/8237","text":"Philip Fritzsche"},{"@pid":"51/508","text":"Andreas Thor"},{"@pid":"r/ERahm","text":"Erhard Rahm"}]},"title":"Exploration and Analysis of Temporal Property Graphs.","venue":"EDBT","pages":"682-685","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/RostGFTR21","doi":"10.5441/002/EDBT.2021.83","ee":"https://doi.org/10.5441/002/edbt.2021.83","url":"https://dblp.org/rec/conf/edbt/RostGFTR21"},
+"url":"URL#698853"
+},
+{
+"@score":"1",
+"@id":"698855",
+"info":{"authors":{"author":[{"@pid":"48/7871","text":"Georgios M. Santipantakis"},{"@pid":"v/GeorgeAVouros","text":"George A. Vouros"},{"@pid":"14/3086","text":"Christos Doulkeridis"}]},"title":"Coronis: Towards Integrated and Open COVID-19 Data.","venue":"EDBT","pages":"686-689","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/SantipantakisVD21","doi":"10.5441/002/EDBT.2021.84","ee":"https://doi.org/10.5441/002/edbt.2021.84","url":"https://dblp.org/rec/conf/edbt/SantipantakisVD21"},
+"url":"URL#698855"
+},
+{
+"@score":"1",
+"@id":"698856",
+"info":{"authors":{"author":[{"@pid":"118/7229","text":"Sebastian Schelter"},{"@pid":"195/5648","text":"Tammo Rukat"},{"@pid":"05/3961","text":"Felix Biessmann"}]},"title":"JENGA - A Framework to Study the Impact of Data Errors on the Predictions of Machine Learning Models.","venue":"EDBT","pages":"529-534","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/SchelterRB21","doi":"10.5441/002/EDBT.2021.63","ee":"https://doi.org/10.5441/002/edbt.2021.63","url":"https://dblp.org/rec/conf/edbt/SchelterRB21"},
+"url":"URL#698856"
+},
+{
+"@score":"1",
+"@id":"698857",
+"info":{"authors":{"author":[{"@pid":"129/4931","text":"Rainer Schlosser"},{"@pid":"74/9320","text":"Stefan Halfpap"}]},"title":"Robust and Memory-Efficient Database Fragment Allocation for Large and Uncertain Database Workloads.","venue":"EDBT","pages":"367-372","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/SchlosserH21","doi":"10.5441/002/EDBT.2021.36","ee":"https://doi.org/10.5441/002/edbt.2021.36","url":"https://dblp.org/rec/conf/edbt/SchlosserH21"},
+"url":"URL#698857"
+},
+{
+"@score":"1",
+"@id":"698858",
+"info":{"authors":{"author":[{"@pid":"213/7403","text":"Sina Shaham"},{"@pid":"80/6521","text":"Gabriel Ghinita"},{"@pid":"s/CyrusShahabi","text":"Cyrus Shahabi"}]},"title":"An Efficient and Secure Location-based Alert Protocol using Searchable Encryption and Huffman Codes.","venue":"EDBT","pages":"265-276","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/ShahamGS21","doi":"10.5441/002/EDBT.2021.24","ee":"https://doi.org/10.5441/002/edbt.2021.24","url":"https://dblp.org/rec/conf/edbt/ShahamGS21"},
+"url":"URL#698858"
+},
+{
+"@score":"1",
+"@id":"698859",
+"info":{"authors":{"author":[{"@pid":"60/8911","text":"Radwa El Shawi"},{"@pid":"246/5635","text":"Youssef Sherif"},{"@pid":"s/SherifSakr","text":"Sherif Sakr"}]},"title":"Towards Automated Concept-based Decision TreeExplanations for CNNs.","venue":"EDBT","pages":"379-384","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/ShawiSS21","doi":"10.5441/002/EDBT.2021.38","ee":"https://doi.org/10.5441/002/edbt.2021.38","url":"https://dblp.org/rec/conf/edbt/ShawiSS21"},
+"url":"URL#698859"
+},
+{
+"@score":"1",
+"@id":"698861",
+"info":{"authors":{"author":[{"@pid":"04/7129","text":"Laurynas Siksnys"},{"@pid":"p/TorbenBachPedersen","text":"Torben Bach Pedersen"},{"@pid":"23/1643","text":"Thomas Dyhre Nielsen"},{"@pid":"219/9993","text":"Davide Frazzetto"}]},"title":"SolveDB+: SQL-Based Prescriptive Analytics.","venue":"EDBT","pages":"133-144","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/SiksnysPNF21","doi":"10.5441/002/EDBT.2021.13","ee":"https://doi.org/10.5441/002/edbt.2021.13","url":"https://dblp.org/rec/conf/edbt/SiksnysPNF21"},
+"url":"URL#698861"
+},
+{
+"@score":"1",
+"@id":"698862",
+"info":{"authors":{"author":[{"@pid":"181/2757","text":"Bruno Silva"},{"@pid":"65/6143","text":"José Moreira"},{"@pid":"55/1387","text":"Rogério Luís C. Costa"}]},"title":"EasyBDI: Near Real-Time Data Analytics over Heterogeneous Data Sources.","venue":"EDBT","pages":"702-705","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/SilvaMC21","doi":"10.5441/002/EDBT.2021.88","ee":"https://doi.org/10.5441/002/edbt.2021.88","url":"https://dblp.org/rec/conf/edbt/SilvaMC21"},
+"url":"URL#698862"
+},
+{
+"@score":"1",
+"@id":"698867",
+"info":{"authors":{"author":[{"@pid":"267/1273","text":"Arseniy Terekhov"},{"@pid":"287/6805","text":"Vlada Pogozhelskaya"},{"@pid":"287/7090","text":"Vadim Abzalov"},{"@pid":"287/6793","text":"Timur Zinnatulin"},{"@pid":"181/9903","text":"Semyon V. Grigorev"}]},"title":"Multiple-Source Context-Free Path Querying in Terms of Linear Algebra.","venue":"EDBT","pages":"487-492","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/TerekhovPAZG21","doi":"10.5441/002/EDBT.2021.56","ee":"https://doi.org/10.5441/002/edbt.2021.56","url":"https://dblp.org/rec/conf/edbt/TerekhovPAZG21"},
+"url":"URL#698867"
+},
+{
+"@score":"1",
+"@id":"698868",
+"info":{"authors":{"author":[{"@pid":"287/6997","text":"Donato Tiano"},{"@pid":"b/ABonifati","text":"Angela Bonifati"},{"@pid":"138/1566","text":"Raymond Ng"}]},"title":"Feature-driven Time Series Clustering.","venue":"EDBT","pages":"349-354","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/TianoBN21","doi":"10.5441/002/EDBT.2021.33","ee":"https://doi.org/10.5441/002/edbt.2021.33","url":"https://dblp.org/rec/conf/edbt/TianoBN21"},
+"url":"URL#698868"
+},
+{
+"@score":"1",
+"@id":"698869",
+"info":{"authors":{"author":[{"@pid":"168/8989","text":"Mayank Tiwary 0001"},{"@pid":"233/9256","text":"Pritish Mishra"},{"@pid":"186/3731","text":"Shashank Jain"},{"@pid":"198/3694","text":"Kshira Sagar Sahoo"}]},"title":"AutoDBaaS: Autonomous Database as a Service for managing relational database services.","venue":"EDBT","pages":"600-610","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/TiwaryMJS21","doi":"10.5441/002/EDBT.2021.70","ee":"https://doi.org/10.5441/002/edbt.2021.70","url":"https://dblp.org/rec/conf/edbt/TiwaryMJS21"},
+"url":"URL#698869"
+},
+{
+"@score":"1",
+"@id":"698870",
+"info":{"authors":{"author":[{"@pid":"171/2655","text":"Hoang Van Tran"},{"@pid":"05/1478","text":"Tristan Allard"},{"@pid":"11/2374","text":"Laurent d&apos;Orazio"},{"@pid":"a/AmrElAbbadi","text":"Amr El Abbadi"}]},"title":"FRESQUE: A Scalable Ingestion Framework for Secure Range Query Processing on Clouds.","venue":"EDBT","pages":"205-216","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/TranAdA21","doi":"10.5441/002/EDBT.2021.19","ee":"https://doi.org/10.5441/002/edbt.2021.19","url":"https://dblp.org/rec/conf/edbt/TranAdA21"},
+"url":"URL#698870"
+},
+{
+"@score":"1",
+"@id":"698872",
+"info":{"authors":{"author":[{"@pid":"174/6740","text":"Ciprian-Octavian Truica"},{"@pid":"65/11004","text":"Elena Simona Apostol"},{"@pid":"287/7046","text":"Teodor Stefu"},{"@pid":"08/5342","text":"Panagiotis Karras"}]},"title":"A Deep Learning Architecture for Audience Interest Prediction of News Topic on Social Media.","venue":"EDBT","pages":"588-599","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/TruicaASK21","doi":"10.5441/002/EDBT.2021.69","ee":"https://doi.org/10.5441/002/edbt.2021.69","url":"https://dblp.org/rec/conf/edbt/TruicaASK21"},
+"url":"URL#698872"
+},
+{
+"@score":"1",
+"@id":"698873",
+"info":{"authors":{"author":[{"@pid":"241/0354","text":"Dennis Tschechlov"},{"@pid":"197/6411","text":"Manuel Fritz"},{"@pid":"93/151","text":"Holger Schwarz"}]},"title":"AutoML4Clust: Efficient AutoML for Clustering Analyses.","venue":"EDBT","pages":"343-348","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/TschechlovFS21","doi":"10.5441/002/EDBT.2021.32","ee":"https://doi.org/10.5441/002/edbt.2021.32","url":"https://dblp.org/rec/conf/edbt/TschechlovFS21"},
+"url":"URL#698873"
+},
+{
+"@score":"1",
+"@id":"698876",
+"info":{"authors":{"author":[{"@pid":"71/4292","text":"Gang Wang"},{"@pid":"161/5675","text":"Ziyi Guo"},{"@pid":"40/1491-67","text":"Xiang Li 0067"},{"@pid":"91/4572","text":"Dawei Yin"},{"@pid":"35/6569","text":"Shuai Ma 0001"}]},"title":"SceneRec: Scene-Based Graph Neural Networks for Recommender Systems.","venue":"EDBT","pages":"397-402","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/WangGLY021","doi":"10.5441/002/EDBT.2021.41","ee":"https://doi.org/10.5441/002/edbt.2021.41","url":"https://dblp.org/rec/conf/edbt/WangGLY021"},
+"url":"URL#698876"
+},
+{
+"@score":"1",
+"@id":"698879",
+"info":{"authors":{"author":[{"@pid":"249/6351","text":"Weiqin Xu"},{"@pid":"83/802","text":"Olivier Curé"},{"@pid":"117/0765","text":"Philippe Calvez"}]},"title":"Knowledge Graph Management on the Edge.","venue":"EDBT","pages":"229-240","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/XuCC21","doi":"10.5441/002/EDBT.2021.21","ee":"https://doi.org/10.5441/002/edbt.2021.21","url":"https://dblp.org/rec/conf/edbt/XuCC21"},
+"url":"URL#698879"
+},
+{
+"@score":"1",
+"@id":"698881",
+"info":{"authors":{"author":[{"@pid":"151/5215","text":"Victor Zakhary"},{"@pid":"56/6462","text":"Lawrence Lim"},{"@pid":"a/DivyakantAgrawal","text":"Divy Agrawal"},{"@pid":"a/AmrElAbbadi","text":"Amr El Abbadi"}]},"title":"Cache on Track (CoT): Decentralized Elastic Caches for Cloud Environments.","venue":"EDBT","pages":"217-228","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/ZakharyLAA21","doi":"10.5441/002/EDBT.2021.20","ee":"https://doi.org/10.5441/002/edbt.2021.20","url":"https://dblp.org/rec/conf/edbt/ZakharyLAA21"},
+"url":"URL#698881"
+},
+{
+"@score":"1",
+"@id":"698882",
+"info":{"authors":{"author":[{"@pid":"204/5159","text":"Xichen Zhang"},{"@pid":"19/5099","text":"Suprio Ray"},{"@pid":"45/8778","text":"Farzaneh Shoeleh"},{"@pid":"88/3562","text":"Rongxing Lu"}]},"title":"Efficient Contact Similarity Query over Uncertain Trajectories.","venue":"EDBT","pages":"403-408","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/edbt/ZhangRSL21","doi":"10.5441/002/EDBT.2021.42","ee":"https://doi.org/10.5441/002/edbt.2021.42","url":"https://dblp.org/rec/conf/edbt/ZhangRSL21"},
+"url":"URL#698882"
+},
+{
+"@score":"1",
+"@id":"822089",
+"info":{"authors":{"author":[{"@pid":"v/YannisVelegrakis","text":"Yannis Velegrakis"},{"@pid":"z/DemetriosZeinalipourYazti","text":"Demetris Zeinalipour-Yazti"},{"@pid":"c/PKChrysanthis","text":"Panos K. Chrysanthis"},{"@pid":"g/FrancescoGuerra","text":"Francesco Guerra 0001"}]},"title":"Proceedings of the 24th International Conference on Extending Database Technology, EDBT 2021, Nicosia, Cyprus, March 23 - 26, 2021.","venue":"EDBT","publisher":"OpenProceedings.org","year":"2021","type":"Editorship","access":"unavailable","key":"conf/edbt/2021","url":"https://dblp.org/rec/conf/edbt/2021"},
+"url":"URL#822089"
+}
+]
+}
+}
+}
