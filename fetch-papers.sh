@@ -113,6 +113,8 @@ get_dblp_json -f DB -t conf -k dasfaa -s 2020 -n 3
 get_dblp_json -f DB -t conf -k pods -s 82 -e 99 -o 1900
 get_dblp_json -f DB -t conf -k pods -s 2000 -e 2020
 
+get_dblp_json -f DB -t journals -k tkde -s 1 -e 35 -o 1988
+
 # get_dblp_json DB journals tods 1 45 1975
 #get_dblp_json DB conf kdd 2010 2020 0
 #get_dblp_json DB conf sigir 2010 2020 0
