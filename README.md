@@ -30,7 +30,16 @@ You can also use [this notebook](cs-paper-gender-analysis.ipynb) for further ana
 
 ## Adding a new conference
 
-To add a new conference, simply edit [`fetch-papers.py`](fetch-papers.py) to retrieve new JSON data files.
+To add a new conference, simply edit [`fetch-papers.sh`](fetch-papers.sh) to retrieve new JSON data files.
 The files should be named `CONF-xx.json` where `CONF` is the name of the conference and `xx` is the year.
 The link to the JSON files can be obtained by looking at the table of contents for the proceedings in DBLP and selecting the JSON export link.
 Since data coming from DBLP is CC0 and can be freely shared, any new data files should be committed to this repository.
+
+
+## Fetching data from Scopus
+
+To fetch data from Scopus, you will need an [API key](https://dev.elsevier.com/).
+This API key should be set in the `.env` file as `SCOPUS_API_KEY`.
+Data from Scopus can then be fetched by running `fetch-scopus.sh`.
+This will fetch all data on DB conferences from Scopus where a DOI is available from DBLP and save to `scopus.json`.
+Note that this requires the installation of [jq](https://github.com/stedolan/jq) to process the JSON from DBLP.
